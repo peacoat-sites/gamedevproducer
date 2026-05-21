@@ -1,1 +1,89 @@
-{"updated": "2026-05-21", "items": []}
+{
+  "updated": "2026-05-21",
+  "items": [
+    {
+      "name": "HoRoyal \u301cHololive Battle Royal\u301c",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4449390/771d7b1b58f6fc45d9de43231a5e625b6fc193ce/header.jpg?t=1779332216",
+      "url": "https://store.steampowered.com/app/4449390/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "DONG WU: ODYSSEY",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/b65aca9da1e225eeb3e5b0eae040ac2197ef7d9c/header.jpg?t=1779329684",
+      "url": "https://store.steampowered.com/app/4528830/",
+      "short_description": "",
+      "final_price": 539
+    },
+    {
+      "name": "REBELLION PRINCESS\uff5c\u30ea\u30d9\u30ea\u30aa\u30f3 \u30d7\u30ea\u30f3\u30bb\u30b9",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3944190/1976fe56c31c1a71dc2383823e0bc44eebd1b40b/header.jpg?t=1779328938",
+      "url": "https://store.steampowered.com/app/3944190/",
+      "short_description": "",
+      "final_price": 479
+    },
+    {
+      "name": "[\ube48 \uce78]",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3870810/f09911ab3658793042a8b562e3747eaefe98bc36/header.jpg?t=1779328880",
+      "url": "https://store.steampowered.com/app/3870810/",
+      "short_description": "",
+      "final_price": 254
+    },
+    {
+      "name": "\u8fdb\u51fb\u7684\u6253\u5de5\u4eba Attack of the worker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537560/header.jpg?t=1779328666",
+      "url": "https://store.steampowered.com/app/2537560/",
+      "short_description": "",
+      "final_price": 269
+    },
+    {
+      "name": "Backpacker Guild",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824000/57d272d647737400ac72e1d49a58c6905a52f30f/header.jpg?t=1779325161",
+      "url": "https://store.steampowered.com/app/2824000/",
+      "short_description": "",
+      "final_price": 899
+    },
+    {
+      "name": "Holy Valkyrie ExS-TIA TS",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508170/b2c6c875b6ef59b338ee296f43edaf41220f0ef6/header.jpg?t=1779329396",
+      "url": "https://store.steampowered.com/app/3508170/",
+      "short_description": "",
+      "final_price": 1199
+    },
+    {
+      "name": "Holy Valkyrie ExS-TIA P",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3397120/f22b325da4e866ed39b756d3bf113a0d061d9063/header.jpg?t=1779324815",
+      "url": "https://store.steampowered.com/app/3397120/",
+      "short_description": "",
+      "final_price": 1199
+    },
+    {
+      "name": "Holy Valkyrie ExS-TIA F",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508150/864db6156d71b225269c7c2eaa2ab06f609c8252/header.jpg?t=1779329445",
+      "url": "https://store.steampowered.com/app/3508150/",
+      "short_description": "",
+      "final_price": 1199
+    },
+    {
+      "name": "Violet Mansion",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059250/027a2f5435ad73525c5e62ee695615ff0144e273/header.jpg?t=1779323564",
+      "url": "https://store.steampowered.com/app/3059250/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Blood Brides",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597310/25516b39eb04e48e63affb44db3bdfd8f2e7d30a/header.jpg?t=1779323240",
+      "url": "https://store.steampowered.com/app/4597310/",
+      "short_description": "",
+      "final_price": 899
+    },
+    {
+      "name": "Alien History",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4552750/1c0384fbaf0f18f1b5fa2a43075c610846360997/header.jpg?t=1779322154",
+      "url": "https://store.steampowered.com/app/4552750/",
+      "short_description": "",
+      "final_price": 599
+    }
+  ]
+}
