@@ -1,122 +1,122 @@
 ---
 title: "Kanban Vs Scrum For Game Development Which To Use"
-date: 2026-05-21T17:35:43.518347+00:00
+date: 2026-05-21T17:35:52.328106+00:00
 draft: false
 description: "Discover the key differences between Kanban and Scrum for game development. Learn which agile framework best suits your team's workflow, project size, and goals"
-image: "https://images.pexels.com/photos/9068901/pexels-photo-9068901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7849517/pexels-photo-7849517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["kanban", "scrum", "game", "development", "which"]
-author: "Chris Okafor"
-author_bio: "Lives in spreadsheets. Post-mortem analyst, milestone tracker, and the person who actually reads all the GDC slides."
+author: "Marcus Webb"
+author_bio: "Senior producer with 10+ years across AAA and indie. Obsessed with pre-production frameworks and green-light documentation."
 slug: "kanban-vs-scrum-for-game-development-which-to-use"
 affiliate_disclosure: true
 ---
 
-Picture this: you're three months into production on a mid-size action RPG, your sprint backlog looks like a war zone, and your lead designer just told you the combat system needs a full redesign. The Scrum ceremonies that felt so structured at the start now feel like bureaucratic friction. You're spending 45 minutes every other week in sprint planning arguing about story points for tasks that will probably change tomorrow anyway. Sound familiar? The Kanban vs. Scrum debate isn't academic for game teams. It's a daily operational question that affects velocity, morale, and whether you ship on time.
+You're two weeks into pre-production, your lead designer keeps adding cards to the backlog faster than the team can pull them, your sprint review is tomorrow, and half the team isn't even sure what "done" means for a level blockout. Sound familiar? The Kanban vs. Scrum debate isn't academic for game developers. It's live, it's messy, and picking the wrong framework can quietly wreck team morale before alpha even lands on the calendar.
 
-## What These Frameworks Actually Mean in a Game Studio Context
+## What Scrum Actually Asks of a Game Team
 
-Let's strip away the textbook definitions and talk about what these two approaches look like when you're actually making games.
+Scrum is a time-boxed framework. You commit to a fixed sprint, usually one to four weeks, you plan what goes in, you protect that scope, and you deliver something demonstrably shippable at the end. The Product Owner prioritizes the backlog, the Scrum Master removes blockers, and the dev team executes. Clean on paper.
 
-Scrum is a time-boxed framework. Work is organized into sprints, typically one to four weeks long. You commit to a sprint goal, you protect the sprint from scope changes, and you review what you built at the end. It leans on ceremonies: sprint planning, daily standups, sprint reviews, and retrospectives. The whole structure assumes that a defined chunk of work can be completed and evaluated in a fixed window. The Product Owner (or producer, in game dev language) owns the backlog and sets priority. The team owns the sprint.
+The problem is that game development rarely respects fixed commitments. A combat system that looked like a three-point story on Monday is a fifteen-point mess by Thursday once a designer plays it and realizes the hit feedback is wrong. Scrum handles this with the concept of sprint integrity: you don't swap things in mid-sprint without re-planning. That's a useful forcing function for software teams building well-understood features. For a team prototyping a new weapon mechanic? It can feel like wearing a straitjacket.
 
-Kanban is a flow-based system. There are no sprints. Work items move through columns on a board, from "To Do" to "In Progress" to "Done," and the primary control mechanism is Work In Progress (WIP) limits. Those limits prevent bottlenecks by capping how many items a person or team can have active at once. Kanban visualizes flow rather than committing to a fixed batch of work. It has no mandated ceremonies. You can add standups and reviews, but nothing is required by the framework itself.
+That said, Scrum does give game teams something genuinely valuable: ritual and accountability. Daily standups, sprint reviews, and retrospectives create a cadence. New developers know when to expect feedback. Leads can't just silently pivot without the team noticing. I've worked with studios where the sprint review was the only moment leads actually played each other's work. That alone was worth the overhead.
 
-The core difference: Scrum gives you a cadence. Kanban gives you a signal. Both are useful. But they're useful for different phases of development and different types of teams.
+Scrum works best during production phases where the work is defined enough to estimate and scope genuinely matters. Building a known feature set toward a milestone? Scrum gives you velocity data, sprint-by-sprint burn charts, and a forcing function to say "no" to late additions. That's powerful when you're eight weeks out from a cert submission.
 
-## Where Scrum Fits (and Where It Breaks)
+## What Kanban Actually Asks of a Game Team
 
-Scrum works best when requirements are reasonably stable for a defined window, when a team is building features that have clear start and end states, and when you need alignment across multiple disciplines on what "done" looks like. Early production, when you're building foundational systems and you can actually commit to a two-week slice of work, is a natural fit. Sprint reviews become useful as checkpoints to show progress to stakeholders, whether that's your publisher, executive team, or studio head.
+Kanban doesn't use sprints. There are no fixed time boxes. Instead, you visualize all work on a board, define a workflow with explicit stages (like "Design," "In Dev," "In Review," "Done"), and manage flow using Work In Progress (WIP) limits. The idea is to limit how many tasks any stage can hold at once, which forces the team to finish things before starting new ones.
 
-I've seen Scrum work really well for game teams during the systems-building phase of production. UI frameworks, save systems, matchmaking infrastructure. These are discrete, testable, and estimable. Sprints give the team a cadence and a sense of completion that's genuinely motivating.
+This maps surprisingly well onto certain game dev realities. Bug fixing is a perfect example. Bugs arrive continuously, they vary wildly in severity, and grouping them into sprints creates artificial delays. A P0 crash bug shouldn't wait five days for a sprint start. On a Kanban board, it goes straight to "In Dev" the moment someone picks it up.
 
-But Scrum has specific failure modes in game development that are worth naming directly.
+Art pipelines love Kanban too. Concept to sketch to painted to rigged to engine-integrated is a natural flow. WIP limits prevent the common failure mode where six concepts are in progress while zero are making it to final. When you cap "In Review" at three items, reviewers can't ignore the queue. The bottleneck becomes visible instantly.
 
-**Creative iteration is hostile to sprint commitments.** When you're in a design prototyping loop, the whole point is to not know what you'll have at the end of the week. Forcing that into sprint commitments creates fake certainty. Teams either sandbag their estimates (promising less than they could do) or they get penalized for scope changes that were completely necessary from a design standpoint.
+The tradeoff is that Kanban has no built-in commitment mechanism. Without sprints, there's no natural forcing function to define what the team is actually delivering this week. Scope creep doesn't happen in dramatic moments, it happens one card at a time, silently. If your lead designer can add a card to "Ready for Dev" whenever they want without any planning ceremony, you'll lose predictability fast.
 
-**Context switching across disciplines creates sprint debt.** In a multidisciplinary game team, an artist's output often depends on a designer's decision, which depends on engineering completing a tool. These dependency chains make sprint commitments brittle. When one link slips, the whole sprint looks like a failure even if the team worked hard and made good decisions.
+## The Real Question: What Phase Are You In?
 
-**The ceremony overhead is real.** For a team of eight people, a two-week sprint can consume six to eight hours of ceremony time, including planning, mid-sprint check-ins, review, and retro. That's meaningful lost time, especially on smaller teams where everyone is also a maker.
+This is the question most teams skip, and it's the reason the debate becomes so confusing. Kanban vs. Scrum isn't a permanent team identity. It's a tool choice that should match your current production phase.
 
-## Where Kanban Fits (and Where It Breaks)
+Here's how I'd break it down:
 
-Kanban thrives on continuous, variable workloads. Live operations, bug fixing, support tickets, content updates. These are exactly the situations where batching work into sprints creates artificial friction. If a critical bug needs to go out today, you don't want to wait for the next sprint planning meeting to formally commit to it.
+**Pre-production and prototyping:** Kanban wins almost every time. You're exploring, invalidating assumptions, and the work changes shape constantly. Sprinting toward a deliverable when you don't know what the deliverable should be is theater. Use a lightweight Kanban board, timebox experiments manually (a three-day prototype timebox isn't a sprint, it's just time management), and keep the WIP limits loose but present.
 
-Kanban is also excellent for teams doing parallel creative exploration. A small prototyping team where three people are each experimenting with different mechanics can use a Kanban board to track experiments without forcing false equivalence between them. When something proves out, it gets promoted to a more formal development track. When it doesn't, it dies cheaply.
+**Full production:** Scrum earns its overhead here. You have a feature list, a milestone schedule, and a team large enough that coordination becomes a real problem. Two-week sprints give you predictable review moments and velocity data that actually helps with forecasting. A team of eight or more almost always benefits from the explicit structure.
 
-The WIP limit is Kanban's most powerful tool, and it's also the most misunderstood. Setting a WIP limit of 3 on your "In Progress" column means a maximum of three items can be actively worked at once. When a new urgent item comes in, you have to finish or explicitly deprioritize something before starting it. This forces a conversation about real priority instead of letting the backlog balloon invisibly. In my experience, teams that adopt Kanban but never set WIP limits are just using a fancy to-do list with columns.
+**Live ops and post-launch:** Kanban dominates. You're reacting to player data, shipping hotfixes, and running A/B tests on small feature changes. The rhythm is continuous, not time-boxed.
 
-Where Kanban breaks down: it requires disciplined, self-directed team members who can maintain focus without the external structure of a sprint boundary. Junior teams sometimes need the cadence and ritual of Scrum to feel grounded and to develop estimation instincts. Kanban also makes it harder to communicate progress to external stakeholders, since there's no sprint goal or sprint review to anchor to. If your publisher wants a biweekly status update on feature completion, "here's our flow rate" is a harder sell than "here's what we finished this sprint."
+**Late production (alpha to cert):** Hybrid. Run sprints for feature completion but maintain a separate Kanban-style bug board. Mixing bugs into sprint stories is a well-known productivity killer. Keep them separate and flowing independently.
 
-## A Direct Comparison Where It Counts
+## A Side-by-Side Comparison
 
-Here's a practical breakdown across dimensions that actually matter in a game studio:
-
-| Dimension | Scrum | Kanban |
+| Factor | Scrum | Kanban |
 |---|---|---|
-| Best phase of dev | Alpha, production | Pre-production, live ops, bug fixing |
-| Team size sweet spot | 5 to 9 people | Any size, including solo |
-| Stakeholder reporting | Easy (sprint reviews) | Requires custom cadence |
-| Response to creative pivots | Slow, disruptive | Fast, natural |
-| Onboarding junior team members | Easier (structure helps) | Harder (self-direction required) |
-| Ceremony overhead | High (6 to 10 hrs per sprint) | Low (you choose) |
-| Predictability | Higher, with good estimation | Lower without throughput history |
-| Tools needed | Jira, Shortcut, Notion | Trello, Jira, physical board |
+| Time structure | Fixed sprints (1-4 weeks) | Continuous flow, no sprints |
+| Commitment level | Sprint commitment at planning | No formal commitment, pull-based |
+| Change mid-cycle | Discouraged, requires replanning | Allowed anytime (within WIP limits) |
+| Best for | Production, milestone delivery | Bug flow, art pipelines, live ops |
+| Estimation required | Yes, story points or hours | No, optional throughput metrics |
+| Key metric | Velocity (points per sprint) | Cycle time, throughput |
+| Overhead | Higher (ceremonies, roles) | Lower (minimal required meetings) |
+| Team size sweet spot | 5-10 per team | 2-8, scales to larger with lanes |
+| Risk if misapplied | False predictability, scope creep hidden in sprint gaps | Invisible priorities, no delivery pressure |
+| Tooling examples | Jira (Scrum boards), Shortcut | Trello, Linear, Jira (Kanban mode) |
 
-No framework wins on every axis. The question is which tradeoffs fit your current situation.
+## Making the Switch: How to Transition Without Breaking the Team
 
-## How to Decide: A Practical Decision Path
+Whether you're moving from Scrum to Kanban or the reverse, the transition itself needs a plan. Here's a practical sequence that I've seen work in real studios.
 
-Stop trying to pick one framework and stick with it forever. Game development phases are different enough that switching your approach between phases is not only acceptable, it's smart. Here's how I'd walk through the decision:
+**Step 1: Audit your current pain.** Before touching the board, write down the top three complaints your team has about the current process. If "we don't finish sprint work" is on the list, you likely have a scoping problem, not a framework problem. If "we don't know what's highest priority" is on the list, that's a backlog management problem. Don't change the framework to solve a problem the framework isn't causing.
 
-**Step 1: Identify your current phase.** Are you prototyping? Building core systems? In content production? In live ops? Each phase has different needs.
+**Step 2: Identify your workflow stages explicitly.** Whether you go Kanban or Scrum, write down every stage a task passes through before it's done. For a feature in a mid-sized studio, that might be: Backlog, Spec Ready, In Dev, In Review (design), In Review (QA), Done. If you can't name your stages, you can't manage flow.
 
-**Step 2: Assess your team's self-direction level.** A team of experienced developers with 10+ years each will self-organize under Kanban. A team with several junior or mid-level members will often drift without the structure of sprints.
+**Step 3: Introduce WIP limits even in Scrum.** This is underused. Even on a Scrum team, capping "In Progress" per person at two tasks reduces context switching immediately. You don't need to go full Kanban to get this benefit.
 
-**Step 3: Map your dependency density.** If most of your tasks have three or more cross-discipline dependencies, Scrum sprint commitments will fail regularly. Consider Kanban or a hybrid that handles blocked items explicitly.
+**Step 4: Run a two-sprint experiment if moving to Scrum.** Don't reorganize everything permanently. Announce a two-sprint trial, keep retrospectives short and focused on the framework itself, and make a deliberate decision at the end of week four.
 
-**Step 4: Check your stakeholder cadence needs.** If you're reporting to a publisher or external board on a fixed schedule, Scrum's sprint reviews give you natural content for those check-ins. If you're internal and self-funded, you have more flexibility.
+**Step 5: Keep a hybrid board visible.** If you're running Scrum for feature work, maintain a separate Kanban column set for bugs and tech debt. Use two swim lanes in Jira or Linear. The team sees both at a glance without conflating them.
 
-**Step 5: Run a 30-day experiment.** Don't debate this in a three-hour meeting. Pick one approach, run it for a month, collect data on how many items were completed, how often the board was blocked, and how the team felt about the overhead. Retrospect on the data, not the feelings.
+**Step 6: Revisit quarterly.** Production phases shift. A team that needed Kanban in month two of pre-production might need Scrum by month six. Build a habit of checking the framework fit at your quarterly retrospective.
 
-## Hybrid Approaches That Actually Work
+## Tools That Actually Help Game Producers Here
 
-Most experienced game studios end up somewhere in the middle. The term for this is "Scrumban," a hybrid that's been in use long enough to have legitimate practitioners and documented patterns.
+The framework you choose should drive tool selection, not the other way around.
 
-A common pattern: use sprint cadence for planning and review cycles, but manage flow inside the sprint using Kanban mechanics. You still do biweekly sprint reviews to align with stakeholders. But the internal board runs with WIP limits and items flow rather than being locked into the sprint at planning time. New urgent work can enter the sprint if something else is deprioritized. The sprint boundary is a communication tool, not a cage.
+For Scrum-heavy teams, **Jira** remains the industry default despite its overhead. Its sprint planning, velocity charts, and backlog grooming views are hard to beat at scale. If Jira feels like overkill, **Shortcut** (formerly Clubhouse) hits a sweet spot for teams of ten to thirty with less configuration burden.
 
-Another pattern I've recommended for studios with separate live ops and feature teams: run Scrum on the feature side where you need commitment and delivery predictability, and run Kanban on the live ops side where responsiveness matters more than predictability. Two teams, two systems, both valid.
+For Kanban or hybrid approaches, **Linear** has become genuinely popular in game studios over the last two years. Its cycle time reporting and clean board UX make it easier to spot bottlenecks than most tools. **Trello** works for small teams in pre-production, though it doesn't scale gracefully past about fifteen people.
 
-The worst outcome is adopting Scrum's ceremonies without its discipline, or Kanban's visualization without its WIP limits. Both give you the overhead without the benefit.
+For the producer who wants to go deeper on the theory, **"Agile Game Development" by Clinton Keith** is the foundational text. It's not new, but it's the only book that applies agile concepts directly to game dev realities rather than software development analogies. **"The Art of Game Design" by Jesse Schell** is also worth keeping close. It's not a production book, but understanding how design decisions get made helps producers anticipate churn before it hits the board.
 
-For tooling, Jira (around $10/user/month for teams under 10) handles both frameworks well, though it's heavy. Shortcut is leaner and popular with smaller studios. For pure Kanban, Trello is free and genuinely excellent. For books, "Making Things Happen" by Scott Berkun is essential reading for any game producer, and "Agile Game Development" by Clinton Keith is the closest thing to a definitive text on applying agile to games specifically. Clinton's work is required reading if you're running sprints on a game team and wondering why things keep going sideways.
+Online, **Scrum.org's Professional Scrum Master courses** are worth the time even if you never plan to certify. The material on empiricism and sprint goal formulation is directly applicable to studio work.
 
 ---
 
 ## FAQ
 
-### Can a small indie team of two or three people use Scrum effectively?
+### Can you run Scrum and Kanban at the same time in one studio?
 
-Scrum is designed for teams of five to nine people. For a very small team, the ceremony overhead often outweighs the benefit. Two or three people usually do better with a lightweight Kanban board and a weekly sync. Save the full Scrum machinery for when you have the team size to justify it.
+Yes, and many studios above thirty people do exactly this. Feature teams run two-week sprints while QA, live ops, and art outsourcing pipelines run on Kanban boards. The key is not mixing metrics. Don't average QA cycle time into feature team velocity. Keep the boards and the conversations separate.
 
-### What if my team has never used either framework before?
+### What's the most common mistake game teams make with Scrum?
 
-Start with Kanban. It has a lower learning curve, requires no new vocabulary to get started, and can be set up on a physical whiteboard or a free Trello board in under an hour. Once the team understands flow and has a sense of how their work actually moves, you can layer in Scrum's structure if you need it.
+Treating sprint planning as a formality and then quietly swapping tasks mid-sprint without telling anyone. This destroys velocity data and, more importantly, it erodes trust in the process. If your team is regularly starting things that weren't in the sprint plan, the sprint goal wasn't meaningful to begin with. Fix the goal before blaming the framework.
 
-### How do I handle urgent bugs or hotfixes in a Scrum framework?
+### Do small indie teams need a framework at all?
 
-Most teams create a small "expedite lane" or bug column that sits outside the sprint backlog. Bugs above a certain severity threshold bypass sprint planning entirely and get handled immediately. Document how many expedite items you handle per sprint. If that number is consistently high, that's a signal your sprint commitments are too rigid for your current reality, and Kanban might be a better fit.
+A team of two to three people doesn't need Scrum ceremonies, but they still benefit from a visible board and explicit WIP limits. Even a physical sticky-note board with "Doing," "Review," and "Done" columns adds enough structure to avoid the invisible work problem, where someone spends three days on something nobody knew was in progress.
 
-### My publisher requires biweekly milestone reports. Can I use Kanban?
+### How do you handle a game director who keeps changing priorities mid-sprint?
 
-Yes, but you'll need to create your own reporting cadence and metrics. Track throughput (items completed per week), cycle time (how long items take from start to done), and blocked items. Build a simple dashboard or a slide that translates those numbers into plain language. It's a bit more work to set up than just sharing sprint review notes, but it gives you richer data in the long run.
+This is the number-one political problem with Scrum in game studios. The framework gives you a tool: the sprint goal. If a director wants to change priority mid-sprint, the conversation becomes "that change breaks the sprint goal we agreed to, which means we either abandon the sprint or we treat this as an exception, not a habit." That's not confrontational, it's just making the cost visible. Keep a record of how often sprint goals get broken. That data is useful in retrospectives.
 
-### Should the whole studio use the same framework?
+### Is Kanban actually faster than Scrum?
 
-Probably not. Different teams have different needs at different times. A core engine team in deep feature development might run Scrum. A content team pumping out environmental assets might use Kanban. A QA team triaging bugs almost certainly should use Kanban. Standardize on the same tooling (so data can flow across teams), but let each team adapt the methodology to their workflow.
+Neither framework is inherently faster. Kanban often feels faster because it removes the overhead of sprint planning and review ceremonies. But speed is really a function of WIP limits, clear definitions of done, and fast feedback loops. A Scrum team with tight sprint goals and a two-day review cycle can ship faster than a Kanban team with no WIP limits and a clogged review column.
 
 ---
 
-The Kanban vs. Scrum question is ultimately a question about your team's reality right now, not about which methodology is theoretically superior. The studios I've seen struggle most are the ones that pick a framework because another studio uses it, or because a consultant sold it to them hard, and then never revisit the choice as the project evolves. Pick something. Run it deliberately. Change it when it stops serving you. That's the practice.
+The honest answer to the Kanban vs. Scrum question is that most game teams eventually land on a hybrid, with Scrum providing the milestone structure and Kanban handling the continuous flow work that doesn't fit neatly into time boxes. Start with whichever framework matches your current phase, track one or two real metrics (velocity or cycle time, not both simultaneously), and revisit the choice every couple of months. The framework should serve the game. If it's not, change it.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
