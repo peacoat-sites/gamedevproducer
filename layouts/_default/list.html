@@ -1,0 +1,19 @@
+{{ define "main" }}
+<section class="hero" style="padding:50px 24px 40px">
+  <h1 style="font-size:1.8rem">{{ .Title }}</h1>
+</section>
+<div class="container" style="padding:40px 24px">
+  <div class="card-grid">
+  {{- range .Pages }}
+    <div class="card">
+      {{ with .Params.image }}<img class="card-img" src="{{ . }}" alt="" loading="lazy">{{ end }}
+      <div class="card-body">
+        <div class="card-cat">{{ with .Params.categories }}{{ index . 0 | title }}{{ end }}</div>
+        <div class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+        <div class="card-meta"><span>{{ .PublishDate.Format "Jan 2, 2006" }}</span><span>{{ .ReadingTime }} min</span></div>
+      </div>
+    </div>
+  {{- end }}
+  </div>
+</div>
+{{ end }}
