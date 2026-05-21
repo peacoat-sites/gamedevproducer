@@ -2,6 +2,62 @@
   "updated": "2026-05-21",
   "items": [
     {
+      "name": "Hidden Girls",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542660/8e2fd64c7ef23c46336ecdcdf8d53f1830d58a90/header.jpg?t=1779357612",
+      "url": "https://store.steampowered.com/app/4542660/",
+      "short_description": "",
+      "final_price": 87
+    },
+    {
+      "name": "ZERO PARADES: For Dead Spies",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2863680/9bb6aa338885131045ddb7e124e67b359ea61d90/header.jpg?t=1779357975",
+      "url": "https://store.steampowered.com/app/2863680/",
+      "short_description": "",
+      "final_price": 4099
+    },
+    {
+      "name": "Hidden Objects - Items Find",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663660/8a631d7d61878943253855458f194115a65f9b06/header.jpg?t=1779348180",
+      "url": "https://store.steampowered.com/app/4663660/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Midnight Special",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2560100/header.jpg?t=1779354852",
+      "url": "https://store.steampowered.com/app/2560100/",
+      "short_description": "",
+      "final_price": 1094
+    },
+    {
+      "name": "Berserker Onslaught",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4337210/ddd1a0b9a41d28bde8b7e8f1df7b43771355c74e/header.jpg?t=1779346601",
+      "url": "https://store.steampowered.com/app/4337210/",
+      "short_description": "",
+      "final_price": 871
+    },
+    {
+      "name": "Last Draft",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536290/bf2b7a858be6a51f3e93f82a347aa5f7881982d6/header.jpg?t=1779343573",
+      "url": "https://store.steampowered.com/app/4536290/",
+      "short_description": "",
+      "final_price": 615
+    },
+    {
+      "name": "Brew or Die",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3893830/cc6b016b6b4cb7332100f63e65b2d170c0929bef/header.jpg?t=1779335614",
+      "url": "https://store.steampowered.com/app/3893830/",
+      "short_description": "",
+      "final_price": 449
+    },
+    {
+      "name": "Factory Reset",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4671640/503e5b38ff1018d244879864e42dd0bfd96129ea/header.jpg?t=1779334567",
+      "url": "https://store.steampowered.com/app/4671640/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
       "name": "HoRoyal \u301cHololive Battle Royal\u301c",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4449390/771d7b1b58f6fc45d9de43231a5e625b6fc193ce/header.jpg?t=1779332216",
       "url": "https://store.steampowered.com/app/4449390/",
@@ -13,77 +69,21 @@
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4528830/b65aca9da1e225eeb3e5b0eae040ac2197ef7d9c/header.jpg?t=1779329684",
       "url": "https://store.steampowered.com/app/4528830/",
       "short_description": "",
-      "final_price": 539
+      "final_price": 553
     },
     {
       "name": "REBELLION PRINCESS\uff5c\u30ea\u30d9\u30ea\u30aa\u30f3 \u30d7\u30ea\u30f3\u30bb\u30b9",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3944190/1976fe56c31c1a71dc2383823e0bc44eebd1b40b/header.jpg?t=1779328938",
       "url": "https://store.steampowered.com/app/3944190/",
       "short_description": "",
-      "final_price": 479
+      "final_price": 471
     },
     {
       "name": "[\ube48 \uce78]",
       "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3870810/f09911ab3658793042a8b562e3747eaefe98bc36/header.jpg?t=1779328880",
       "url": "https://store.steampowered.com/app/3870810/",
       "short_description": "",
-      "final_price": 254
-    },
-    {
-      "name": "\u8fdb\u51fb\u7684\u6253\u5de5\u4eba Attack of the worker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2537560/header.jpg?t=1779328666",
-      "url": "https://store.steampowered.com/app/2537560/",
-      "short_description": "",
-      "final_price": 269
-    },
-    {
-      "name": "Backpacker Guild",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2824000/57d272d647737400ac72e1d49a58c6905a52f30f/header.jpg?t=1779325161",
-      "url": "https://store.steampowered.com/app/2824000/",
-      "short_description": "",
-      "final_price": 899
-    },
-    {
-      "name": "Holy Valkyrie ExS-TIA TS",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508170/b2c6c875b6ef59b338ee296f43edaf41220f0ef6/header.jpg?t=1779329396",
-      "url": "https://store.steampowered.com/app/3508170/",
-      "short_description": "",
-      "final_price": 1199
-    },
-    {
-      "name": "Holy Valkyrie ExS-TIA P",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3397120/f22b325da4e866ed39b756d3bf113a0d061d9063/header.jpg?t=1779324815",
-      "url": "https://store.steampowered.com/app/3397120/",
-      "short_description": "",
-      "final_price": 1199
-    },
-    {
-      "name": "Holy Valkyrie ExS-TIA F",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508150/864db6156d71b225269c7c2eaa2ab06f609c8252/header.jpg?t=1779329445",
-      "url": "https://store.steampowered.com/app/3508150/",
-      "short_description": "",
-      "final_price": 1199
-    },
-    {
-      "name": "Violet Mansion",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3059250/027a2f5435ad73525c5e62ee695615ff0144e273/header.jpg?t=1779323564",
-      "url": "https://store.steampowered.com/app/3059250/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Blood Brides",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597310/25516b39eb04e48e63affb44db3bdfd8f2e7d30a/header.jpg?t=1779323240",
-      "url": "https://store.steampowered.com/app/4597310/",
-      "short_description": "",
-      "final_price": 899
-    },
-    {
-      "name": "Alien History",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4552750/1c0384fbaf0f18f1b5fa2a43075c610846360997/header.jpg?t=1779322154",
-      "url": "https://store.steampowered.com/app/4552750/",
-      "short_description": "",
-      "final_price": 599
+      "final_price": 267
     }
   ]
 }
