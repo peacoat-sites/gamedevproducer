@@ -1,0 +1,38 @@
+name: Refresh Industry News
+
+on:
+  schedule:
+    - cron: '30 6 * * *'   # 06:30 UTC daily, before article publish run
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PIPELINE_TOKEN }}
+          fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - run: pip install requests feedparser
+
+      - name: Fetch news + Steam data
+        run: python pipeline/fetch_news.py
+        env:
+          PIPELINE_TOKEN: ${{ secrets.PIPELINE_TOKEN }}
+
+      - name: Commit data files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if ! git diff --staged --quiet; then
+            git commit -m "data: refresh industry news and Steam feed"
+            git push
+          else
+            echo "No news changes"
+          fi
