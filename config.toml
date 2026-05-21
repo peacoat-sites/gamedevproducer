@@ -1,0 +1,32 @@
+baseURL = "https://gamedevproducer.com/"
+languageCode = "en-us"
+title = "GameDevProducer.com"
+theme = ""
+
+[params]
+  description        = "Best practices, frameworks, and industry intel for video game producers — from pre-production to ship."
+  tagline            = "The working producer's handbook"
+  primary_color      = "#6d28d9"
+  hero_color_1       = "#0f0c29"
+  hero_color_2       = "#302b63"
+  hero_color_3       = "#24243e"
+  hero_color_4       = "#1a1a2e"
+  adsense_id         = "ca-pub-3466203197759215"
+  site_type          = "authority"
+  author_persona     = "The GameDevProducer.com Editorial Team"
+  author_real_name   = "Stephen Brenish"
+  author_real_title  = "Game Producer"
+  twitter_handle     = ""
+  mailchimp_form_url = ""   # fill in after Mailchimp setup
+
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home    = ["HTML", "JSON", "RSS"]
+  section = ["HTML", "RSS"]
+  page    = ["HTML"]
