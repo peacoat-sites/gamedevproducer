@@ -6,11 +6,11 @@
 <div class="container" style="padding:40px 24px">
   {{- $news := .Site.Data.news }}
   {{- if $news }}
-  <div class="news-feed" style="max-width:800px">
+  <div class="news-feed" style="max-width:760px;margin:0 auto">
     {{- range $news.items }}
-    <div class="news-item">
-      <span class="news-source-tag">{{ .source }}</span>
-      <div class="news-text">
+    <div class="news-item" style="min-height:52px">
+      <span class="news-source-tag" style="min-width:80px;text-align:center">{{ .source }}</span>
+      <div class="news-text" style="min-width:0;flex:1">
         <div class="news-headline"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></div>
         <div class="news-date">{{ .date }}</div>
       </div>
@@ -18,7 +18,7 @@
     {{- end }}
   </div>
   {{- else }}
-  <p style="color:var(--muted)">News feed will populate on next daily refresh.</p>
+  <p style="color:var(--muted);text-align:center;padding:40px">News feed will populate on next daily refresh.</p>
   {{- end }}
 </div>
 {{ end }}
