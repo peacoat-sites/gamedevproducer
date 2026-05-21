@@ -1,0 +1,60 @@
+{{ define "main" }}
+<section class="hero" style="padding:48px 24px 36px">
+  <h1 style="font-size:1.8rem;margin-bottom:20px">Search Articles</h1>
+  <form id="search-form-page" role="search" style="max-width:560px;margin:0 auto" onsubmit="return false">
+    <div style="display:flex;align-items:center;background:rgba(255,255,255,0.12);border:1px solid rgba(255,255,255,0.25);border-radius:8px;overflow:hidden">
+      <svg style="margin-left:14px;flex-shrink:0;color:rgba(255,255,255,0.6)" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="search" id="search-input-page" placeholder="Search for a topic…" autocomplete="off" autofocus
+        style="flex:1;background:none;border:none;color:#fff;padding:12px 14px;font-size:1rem;outline:none;font-family:inherit">
+    </div>
+  </form>
+</section>
+
+<div class="container" style="padding:32px 24px;max-width:860px">
+  <div id="search-status" style="font-size:13px;color:var(--muted);margin-bottom:20px"></div>
+  <div id="search-results"></div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script>
+(function(){
+  var fuse=null;
+  fetch('/index.json')
+    .then(function(r){return r.json();})
+    .then(function(data){
+      fuse=new Fuse(data,{keys:[{name:'title',weight:3},{name:'categories',weight:1},{name:'summary',weight:1}],threshold:0.35,includeScore:true,minMatchCharLength:2});
+      var q=new URLSearchParams(window.location.search).get('q')||'';
+      var inp=document.getElementById('search-input-page');
+      if(q){inp.value=q;doSearch(q);}
+    })
+    .catch(function(){document.getElementById('search-status').textContent='Search index could not be loaded.';});
+
+  function doSearch(q){
+    var st=document.getElementById('search-status');
+    var res=document.getElementById('search-results');
+    q=(q||'').trim();
+    if(!q){st.textContent='';res.innerHTML='';return;}
+    if(!fuse){st.textContent='Loading…';return;}
+    var results=fuse.search(q).slice(0,12);
+    st.textContent=results.length?results.length+' result'+(results.length!==1?'s':'')+' for "'+q+'"':'';
+    if(!results.length){res.innerHTML='<p style="color:var(--muted);padding:32px 0;text-align:center">No articles found for "<strong>'+q+'</strong>". Try a different term.</p>';return;}
+    res.innerHTML=results.map(function(r){
+      var item=r.item;
+      var cat=(item.categories&&item.categories.length)?item.categories[0]:'';
+      return '<a href="'+item.url+'" style="display:block;background:#fff;border:1px solid var(--border);border-radius:10px;padding:20px 24px;margin-bottom:16px;text-decoration:none;transition:box-shadow .15s" onmouseover="this.style.boxShadow=\'0 4px 20px rgba(109,40,217,0.12)\'" onmouseout="this.style.boxShadow=\'none\'">'
+        +(cat?'<div style="font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--primary);margin-bottom:6px">'+cat+'</div>':'')
+        +'<div style="font-size:1.05rem;font-weight:700;color:var(--text);margin-bottom:6px">'+item.title+'</div>'
+        +'<div style="font-size:13px;color:var(--muted);line-height:1.5">'+((item.summary||'').slice(0,160))+'</div>'
+        +'<div style="font-size:11px;color:var(--muted);margin-top:8px">'+item.date+'</div>'
+        +'</a>';
+    }).join('');
+  }
+
+  document.getElementById('search-input-page').addEventListener('input',function(){
+    var q=this.value;
+    history.replaceState(null,'',q?'/search/?q='+encodeURIComponent(q):'/search/');
+    doSearch(q);
+  });
+})();
+</script>
+{{ end }}
