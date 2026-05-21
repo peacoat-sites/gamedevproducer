@@ -10,7 +10,31 @@
   </div>
 </section>
 
-<div class="page-grid">
+<div class="home-grid">
+
+  <!-- LEFT: Industry news sidebar -->
+  <aside class="news-sidebar">
+    {{- $news := .Site.Data.news }}
+    {{- if $news }}
+    <div class="section-head">
+      <span class="section-title" style="font-size:.95rem">Industry News</span>
+    </div>
+    <div class="news-feed">
+      {{- range first 12 $news.items }}
+      <div class="news-item">
+        <span class="news-source-tag">{{ .source }}</span>
+        <div class="news-text">
+          <div class="news-headline"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></div>
+          <div class="news-date">{{ .date }}</div>
+        </div>
+      </div>
+      {{- end }}
+      <a class="news-feed-link" href="/industry-news/">All news →</a>
+    </div>
+    {{- end }}
+  </aside>
+
+  <!-- CENTER: Articles -->
   <main>
 
     {{- $pages := where .Site.RegularPages "Section" "posts" -}}
@@ -26,7 +50,7 @@
       {{ with .Params.image }}<img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
       <div class="card-body">
         <div class="card-cat">{{ with .Params.categories }}{{ index . 0 | title }}{{ end }}</div>
-        <div class="card-title" style="font-size:1.5rem"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+        <div class="card-title" style="font-size:1.4rem"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
         <div class="card-excerpt">{{ .Summary | plainify | truncate 160 }}</div>
         <div class="card-meta" style="margin-top:16px">
           <span>{{ .PublishDate.Format "Jan 2, 2006" }}</span>
@@ -57,26 +81,6 @@
     {{- end }}
     </div>
 
-    <!-- Industry news feed -->
-    {{- $news := .Site.Data.news }}
-    {{- if $news }}
-    <div class="section-head" style="margin-top:12px">
-      <span class="section-title">Industry News</span>
-      <a class="section-link" href="/industry-news/">All news</a>
-    </div>
-    <div class="news-feed">
-      {{- range first 8 $news.items }}
-      <div class="news-item">
-        <span class="news-source-tag">{{ .source }}</span>
-        <div class="news-text">
-          <div class="news-headline"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></div>
-          <div class="news-date">{{ .date }}</div>
-        </div>
-      </div>
-      {{- end }}
-    </div>
-    {{- end }}
-
     <!-- Steam new releases widget -->
     {{- $steam := .Site.Data.steam }}
     {{- if $steam }}
@@ -99,6 +103,7 @@
 
   </main>
 
+  <!-- RIGHT: Sidebar -->
   <aside class="sidebar">
     <!-- Newsletter -->
     <div id="newsletter" class="newsletter-card">
@@ -126,9 +131,10 @@
           <div>
             <div class="author-bio-name">{{ .Site.Params.author_real_name }}</div>
             <div class="author-bio-title">{{ .Site.Params.author_real_title }} · Video Games Industry</div>
-            <div class="author-bio-text" style="margin-top:6px">Producer with experience shipping titles across multiple platforms. This site is my working notes — templates, frameworks, and lessons that actually hold up in production.</div>
+            <div class="author-bio-text" style="margin-top:6px">Lead Game Producer at Epic Games. Previously Blizzard Entertainment. Shipping Fortnite season over season.</div>
           </div>
         </div>
+        <a href="/about/" style="display:block;margin-top:12px;font-size:12px;font-weight:600;color:var(--primary)">Full bio →</a>
       </div>
     </div>
 
