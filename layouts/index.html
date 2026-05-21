@@ -12,15 +12,15 @@
 
 <div class="home-grid">
 
-  <!-- LEFT: Industry news sidebar -->
-  <aside class="news-sidebar">
+  <!-- Column 1: Industry news (left anchor) -->
+  <div class="home-news">
     {{- $news := .Site.Data.news }}
     {{- if $news }}
     <div class="section-head">
-      <span class="section-title" style="font-size:.95rem">Industry News</span>
+      <span class="section-title" style="font-size:.9rem">Industry News</span>
     </div>
     <div class="news-feed">
-      {{- range first 12 $news.items }}
+      {{- range first 14 $news.items }}
       <div class="news-item">
         <span class="news-source-tag">{{ .source }}</span>
         <div class="news-text">
@@ -32,10 +32,10 @@
       <a class="news-feed-link" href="/industry-news/">All news →</a>
     </div>
     {{- end }}
-  </aside>
+  </div>
 
-  <!-- CENTER: Articles -->
-  <main>
+  <!-- Column 2: Articles (center) -->
+  <div class="home-main">
 
     {{- $pages := where .Site.RegularPages "Section" "posts" -}}
     {{- $featured := first 1 $pages -}}
@@ -101,10 +101,11 @@
     </div>
     {{- end }}
 
-  </main>
+  </div>
 
-  <!-- RIGHT: Sidebar -->
-  <aside class="sidebar">
+  <!-- Column 3: Sidebar (right) -->
+  <div class="home-sidebar">
+
     <!-- Newsletter -->
     <div id="newsletter" class="newsletter-card">
       <h3>Producer Dispatch</h3>
@@ -157,6 +158,7 @@
       <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     </div>
 
-  </aside>
+  </div>
+
 </div>
 {{ end }}
