@@ -1,0 +1,156 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>The working <em>Game Producer's</em> handbook</h1>
+  <p>Best practices, frameworks, and industry intel for video game producers — from pre-production to ship.</p>
+  <div class="hero-badges">
+    <span class="hero-badge">Agile &amp; Scrum in Game Dev</span>
+    <span class="hero-badge">Milestone Planning</span>
+    <span class="hero-badge">Team &amp; Scope Management</span>
+    <span class="hero-badge">Industry News</span>
+  </div>
+</section>
+
+<div class="page-grid">
+  <main>
+
+    {{- $pages := where .Site.RegularPages "Section" "posts" -}}
+    {{- $featured := first 1 $pages -}}
+    {{- $rest := after 1 (first 7 $pages) -}}
+
+    <!-- Featured article -->
+    {{- range $featured }}
+    <div class="section-head">
+      <span class="section-title">Featured</span>
+    </div>
+    <div class="card card-featured" style="margin-bottom:32px">
+      {{ with .Params.image }}<img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+      <div class="card-body">
+        <div class="card-cat">{{ with .Params.categories }}{{ index . 0 | title }}{{ end }}</div>
+        <div class="card-title" style="font-size:1.5rem"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+        <div class="card-excerpt">{{ .Summary | plainify | truncate 160 }}</div>
+        <div class="card-meta" style="margin-top:16px">
+          <span>{{ .PublishDate.Format "Jan 2, 2006" }}</span>
+          <span>{{ .ReadingTime }} min read</span>
+        </div>
+      </div>
+    </div>
+    {{- end }}
+
+    <!-- Article grid -->
+    <div class="section-head">
+      <span class="section-title">Latest Articles</span>
+      <a class="section-link" href="/posts/">View all</a>
+    </div>
+    <div class="card-grid">
+    {{- range $rest }}
+      <div class="card">
+        {{ with .Params.image }}<img class="card-img" src="{{ . }}" alt="{{ $.Title }}" loading="lazy">{{ end }}
+        <div class="card-body">
+          <div class="card-cat">{{ with .Params.categories }}{{ index . 0 | title }}{{ end }}</div>
+          <div class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+          <div class="card-meta">
+            <span>{{ .PublishDate.Format "Jan 2" }}</span>
+            <span>{{ .ReadingTime }} min read</span>
+          </div>
+        </div>
+      </div>
+    {{- end }}
+    </div>
+
+    <!-- Industry news feed -->
+    {{- $news := .Site.Data.news }}
+    {{- if $news }}
+    <div class="section-head" style="margin-top:12px">
+      <span class="section-title">Industry News</span>
+      <a class="section-link" href="/industry-news/">All news</a>
+    </div>
+    <div class="news-feed">
+      {{- range first 8 $news.items }}
+      <div class="news-item">
+        <span class="news-source-tag">{{ .source }}</span>
+        <div class="news-text">
+          <div class="news-headline"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></div>
+          <div class="news-date">{{ .date }}</div>
+        </div>
+      </div>
+      {{- end }}
+    </div>
+    {{- end }}
+
+    <!-- Steam new releases widget -->
+    {{- $steam := .Site.Data.steam }}
+    {{- if $steam }}
+    <div class="section-head" style="margin-top:24px">
+      <span class="section-title">New on Steam</span>
+      <span style="font-size:11px;color:var(--muted)">Updated daily</span>
+    </div>
+    <div class="news-feed">
+      {{- range first 6 $steam.items }}
+      <div class="game-card">
+        <img class="game-thumb" src="{{ .header_image }}" alt="{{ .name }}" loading="lazy">
+        <div class="game-info">
+          <div class="game-title"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a></div>
+          <div class="game-meta">{{ .short_description | truncate 80 }}</div>
+        </div>
+      </div>
+      {{- end }}
+    </div>
+    {{- end }}
+
+  </main>
+
+  <aside class="sidebar">
+    <!-- Newsletter -->
+    <div id="newsletter" class="newsletter-card">
+      <h3>Producer Dispatch</h3>
+      <p>Weekly best practices, tools, and industry intel — straight to your inbox.</p>
+      {{- if .Site.Params.mailchimp_form_url }}
+      <form action="{{ .Site.Params.mailchimp_form_url }}" method="post" target="_blank" class="newsletter-form">
+        <input type="email" name="EMAIL" placeholder="your@email.com" required>
+        <button type="submit">Join</button>
+      </form>
+      {{- else }}
+      <div class="newsletter-form">
+        <input type="email" placeholder="your@email.com" disabled>
+        <button disabled style="opacity:.6">Soon</button>
+      </div>
+      {{- end }}
+    </div>
+
+    <!-- About author -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-head">About the Author</div>
+      <div class="sidebar-card-body">
+        <div class="author-bio" style="padding:0;border:none;box-shadow:none">
+          <div class="author-bio-avatar">SB</div>
+          <div>
+            <div class="author-bio-name">{{ .Site.Params.author_real_name }}</div>
+            <div class="author-bio-title">{{ .Site.Params.author_real_title }} · Video Games Industry</div>
+            <div class="author-bio-text" style="margin-top:6px">Producer with experience shipping titles across multiple platforms. This site is my working notes — templates, frameworks, and lessons that actually hold up in production.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Top categories -->
+    <div class="sidebar-card">
+      <div class="sidebar-card-head">Browse by Topic</div>
+      <div class="sidebar-card-body" style="display:flex;flex-direction:column;gap:6px">
+        {{- range first 8 .Site.Taxonomies.categories.ByCount }}
+        <a href="{{ .Page.Permalink }}" style="display:flex;justify-content:space-between;font-size:13px;padding:4px 0;border-bottom:1px solid var(--border)">
+          <span>{{ .Page.Title | title }}</span>
+          <span style="color:var(--muted);font-weight:600">{{ .Count }}</span>
+        </a>
+        {{- end }}
+      </div>
+    </div>
+
+    <!-- Ad unit -->
+    <div class="ad-unit">
+      <ins class="adsbygoogle" style="display:block" data-ad-client="{{ .Site.Params.adsense_id }}" data-ad-slot="auto" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+
+  </aside>
+</div>
+{{ end }}
