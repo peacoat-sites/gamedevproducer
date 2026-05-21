@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="article-header">
+  <div class="container">
+    <div class="article-cat">{{ with .Params.categories }}{{ index . 0 | title }}{{ end }}</div>
+    <h1 class="article-title">{{ .Title }}</h1>
+    <div class="article-meta">
+      <div class="author-chip">
+        <div class="author-avatar">{{ with .Params.author }}{{ substr . 0 1 }}{{ else }}G{{ end }}</div>
+        <span>{{ with .Params.author }}{{ . }}{{ else }}{{ $.Site.Params.author_persona }}{{ end }}</span>
+      </div>
+      <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
+      <span>{{ .ReadingTime }} min read</span>
+    </div>
+  </div>
+</div>
+
+<div class="page-grid">
+  <article class="article-body">
+    {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;margin-bottom:28px">{{ end }}
+    {{ .Content }}
+
+    <!-- Author bio box -->
+    <div class="author-bio">
+      <div class="author-bio-avatar">SB</div>
+      <div>
+        <div class="author-bio-name">{{ $.Site.Params.author_real_name }}</div>
+        <div class="author-bio-title">{{ $.Site.Params.author_real_title }} · Contributor</div>
+        <div class="author-bio-text">Game producer with hands-on experience across the full production lifecycle. These articles reflect real frameworks and lessons from the trenches — not theory.</div>
+      </div>
+    </div>
+
+    {{ with .Params.tags }}<div class="tags">{{ range . }}<span class="tag">#{{ . }}</span>{{ end }}</div>{{ end }}
+  </article>
+
+  <aside class="sidebar">
+    <div id="newsletter" class="newsletter-card">
+      <h3>Producer Dispatch</h3>
+      <p>Weekly best practices and intel for game producers.</p>
+      {{- if $.Site.Params.mailchimp_form_url }}
+      <form action="{{ $.Site.Params.mailchimp_form_url }}" method="post" target="_blank" class="newsletter-form">
+        <input type="email" name="EMAIL" placeholder="your@email.com" required>
+        <button type="submit">Join</button>
+      </form>
+      {{- else }}
+      <div class="newsletter-form">
+        <input type="email" placeholder="Coming soon" disabled>
+        <button disabled style="opacity:.6">Soon</button>
+      </div>
+      {{- end }}
+    </div>
+
+    <div class="sidebar-card">
+      <div class="sidebar-card-head">Related Reading</div>
+      <div class="sidebar-card-body" style="display:flex;flex-direction:column;gap:10px">
+        {{- $related := first 5 (where .Site.RegularPages "Section" "posts") }}
+        {{- range $related }}
+        <a href="{{ .Permalink }}" style="font-size:13px;font-weight:500;line-height:1.4;color:var(--text);display:block;padding-bottom:10px;border-bottom:1px solid var(--border)">{{ .Title }}</a>
+        {{- end }}
+      </div>
+    </div>
+
+    <div class="ad-unit">
+      <ins class="adsbygoogle" style="display:block" data-ad-client="{{ $.Site.Params.adsense_id }}" data-ad-slot="auto" data-ad-format="auto" data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+  </aside>
+</div>
+{{ end }}
