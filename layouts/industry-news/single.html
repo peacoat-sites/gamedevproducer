@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="hero" style="padding:50px 24px 40px">
+  <h1 style="font-size:2rem">Industry News</h1>
+  <p>Aggregated from Game Developer, GDC, Kotaku, Polygon, and more — updated daily.</p>
+</section>
+<div class="container" style="padding:40px 24px">
+  {{- $news := .Site.Data.news }}
+  {{- if $news }}
+  <div class="news-feed" style="max-width:800px">
+    {{- range $news.items }}
+    <div class="news-item">
+      <span class="news-source-tag">{{ .source }}</span>
+      <div class="news-text">
+        <div class="news-headline"><a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a></div>
+        <div class="news-date">{{ .date }}</div>
+      </div>
+    </div>
+    {{- end }}
+  </div>
+  {{- else }}
+  <p style="color:var(--muted)">News feed will populate on next daily refresh.</p>
+  {{- end }}
+</div>
+{{ end }}
