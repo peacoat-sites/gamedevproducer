@@ -8,7 +8,7 @@
         <div class="author-avatar">{{ with .Params.author }}{{ substr . 0 1 }}{{ else }}G{{ end }}</div>
         <span>{{ with .Params.author }}{{ . }}{{ else }}{{ $.Site.Params.author_persona }}{{ end }}</span>
       </div>
-      <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
+      <span>{{ .PublishDate.Format "January 2, 2006" }}</span>{{ if .Lastmod }}{{ if gt .Lastmod .PublishDate }} <span style="color:#64748b;font-size:12px">(Updated {{ .Lastmod.Format "Jan 2, 2006" }})</span>{{ end }}{{ end }}
       <span>{{ .ReadingTime }} min read</span>
     </div>
   </div>
@@ -29,6 +29,11 @@
       </div>
     </div>
 
+    <div class="share-row" style="display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 16px">
+      <a href="https://twitter.com/intent/tweet?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" class="share-btn share-twitter" aria-label="Share on X">𝕏 Share</a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" class="share-btn share-facebook" aria-label="Share on Facebook">Facebook</a>
+      <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink | urlquery }}" target="_blank" rel="noopener" class="share-btn share-linkedin" aria-label="Share on LinkedIn">LinkedIn</a>
+    </div>
     {{ with .Params.tags }}<div class="tags">{{ range . }}<span class="tag">#{{ . }}</span>{{ end }}</div>{{ end }}
   </article>
 
