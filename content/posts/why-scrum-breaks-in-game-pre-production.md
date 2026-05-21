@@ -1,9 +1,9 @@
 ---
 title: "Why Scrum Breaks In Game Pre-Production"
-date: 2026-05-21T17:17:58.978205+00:00
+date: 2026-05-21T17:18:10.700010+00:00
 draft: false
-description: "Discover why Scrum often fails during game pre-production and what agile pitfalls teams face when exploring ideas, building prototypes, and defining creative di"
-image: "https://images.pexels.com/photos/5380660/pexels-photo-5380660.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+description: "Discover why Scrum often fails during game pre-production and learn which agile approaches better support the creative, exploratory nature of early game develop"
+image: "https://images.pexels.com/photos/7915382/pexels-photo-7915382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["scrum", "breaks", "game", "pre-production"]
 author: "Jordan Reyes"
@@ -12,109 +12,107 @@ slug: "why-scrum-breaks-in-game-pre-production"
 affiliate_disclosure: true
 ---
 
-You've just kicked off pre-production. The team is excited, the concept doc is fresh, and someone suggests running Scrum because "that's how we do it." Two weeks later, your sprint review feels like a bad stand-up comedy set. Half the tasks are "in progress," the other half were quietly abandoned when the designer realized the core loop didn't actually work, and nobody can honestly say what "done" means for a paper prototype of a mechanic you might cut next month. Sound familiar? Scrum isn't broken as a framework. It's just being applied at the wrong moment, in the wrong context, for the wrong reasons.
+Your team just wrapped a killer prototype. The creative director is buzzing, stakeholders are nodding, and someone tapes a sprint board to the wall. Two weeks later, half the tickets are in "In Progress," nobody can agree on what "done" means for a concept exploration task, and the lead designer hasn't touched the board in a week because she's busy writing a 30-page GDD that will probably change three more times before alpha. Sound familiar? That's not a discipline problem. That's Scrum colliding with a phase it was never built for.
 
-## Pre-Production Is a Research Phase, Not a Delivery Phase
+## What Pre-Production Actually Is (and Why It's Different)
 
-The most important thing to understand about pre-production is what it actually is: a structured search for answers. You're not building a game yet. You're trying to prove a game is worth building. Those are completely different jobs, and they require completely different management approaches.
+Pre-production is a discovery process. You're trying to answer questions you don't fully know how to ask yet. What's the core loop? Does it feel fun? What's the production risk? Can we actually build this with the team and budget we have? The deliverables are fuzzy by design, because the whole point is to reduce uncertainty, not ship increments of a known product.
 
-Scrum was designed for teams that know what they're making. The framework assumes a backlog of reasonably well-understood work items, a definition of done that can be verified, and a product incrementally assembled toward a known goal. Pre-production has almost none of that. You're asking questions like: Does this movement system feel good? Is this world interesting enough to spend 30 hours in? Can our team actually pull off this art style at scale?
+Scrum, on the other hand, was designed for teams that already know what they're building. The framework assumes a stable product backlog, a clear definition of "done," and incremental delivery of working software. It works beautifully when a feature team is implementing a login system, adding weapon skins, or fixing a regression in a lighting system. The shape of the work is clear. The output is verifiable.
 
-These aren't sprint tasks. They're hypotheses.
+Pre-production breaks those assumptions completely. You might spend three days building a prototype that gets thrown away on purpose. A designer might need two weeks of open-ended play research before she can write a single user story. A technical director might need to spike on three different engine approaches before the team can scope anything at all. None of that maps cleanly to a two-week sprint with defined acceptance criteria.
 
-When you force pre-production work into a sprint structure, you create a theatre of productivity. People fill the board with tasks to look busy. "Research competitor games" sits in a column next to "Design enemy AI" as if they carry equal weight and definition. The burndown chart tells you nothing useful because the work itself isn't decomposable in any honest way until you've answered the fundamental creative questions first.
+## The Specific Ways Scrum Fails the Phase
 
-I've seen teams spend six weeks doing "Scrum" in pre-production and emerge with a completed sprint board and zero validated answers about whether their game concept holds up. That's a production disaster waiting to happen.
+Let me be specific about the failure modes, because "Scrum doesn't fit" is easy to say and hard to act on.
 
-## The Velocity Illusion
+**Sprint velocity becomes meaningless.** In production, velocity is a useful forecasting tool. You track story points over time, smooth out the curve, and get a reasonable estimate of throughput. In pre-production, the work is so heterogeneous that point estimates are almost pure fiction. How many story points is "figure out whether we want a stamina bar"? You could assign three points and close the ticket in a day, or you could assign three points and still be debating it six weeks later. The metric teaches the team nothing.
 
-Scrum depends on velocity as its core feedback mechanism. Track your points over several sprints, get a stable average, use it to forecast. It's genuinely useful when the work is consistent enough for the numbers to mean something.
+**Definition of Done creates false confidence.** When you force a DoD onto exploratory work, one of two things happens. Either you write acceptance criteria so vague they're useless ("prototype feels fun"), or you write criteria that are technically completable but don't actually answer the creative question. I've watched teams ship "functional" prototypes that cleared every sprint criterion and still couldn't tell leadership whether the concept was worth pursuing. The checklist got checked. The real question stayed unanswered.
 
-Pre-production work isn't consistent. A designer might spend three days prototyping a mechanic and scrap it entirely. Was that 13 points of story-point estimation? Zero? The entire sprint's worth? The answer doesn't matter because velocity in pre-production isn't a signal, it's noise.
+**Two-week cadence fights against creative iteration.** Some pre-production work runs on a shorter feedback loop. A game feel prototype might need daily or even hourly feedback from the creative director. Some work runs much longer. Writing a tech design document for a procedural generation system might take four weeks of research plus writing. Forcing both into the same two-week box either rushes the slow work or bores people waiting to review the fast work.
 
-Worse, velocity tracking creates perverse incentives. Teams learn to point up tasks to "look productive." Soft research work gets padded. Experimental spikes that should be cheap and fast become bloated to hit the sprint commitment. The team starts optimizing for a number instead of for learning, which is the exact opposite of what pre-production demands.
+**The backlog becomes a graveyard.** Pre-production backlogs have a specific disease: they fill up with tickets that represent open questions rather than tasks, and open questions don't get "done," they get answered or abandoned. When the product owner dutifully grooms that backlog, they're often just reshuffling uncertainty. Teams start to feel like the process is busywork, which is death to morale during a phase where you absolutely need creative energy.
 
-I've watched a lead programmer estimate a "proof of concept for procedural generation" at 8 points and spend 9 days on it because the sprint demanded 40 points of delivery. He should have spent 3 days, shipped a messy but informative prototype, and moved on to test the next risky assumption. The sprint structure punished the fast, dirty learning loop that pre-production actually needs.
+## A Better Mental Model: Pre-Production as Structured Inquiry
 
-## Scrum's Ceremonies Don't Fit the Pre-Production Cadence
+Think of pre-production not as a mini-production sprint sequence, but as a series of time-boxed experiments with explicit exit criteria. The question you're answering isn't "did we complete this sprint?" It's "did we reduce uncertainty enough to make the next decision?"
 
-Let's talk about the ceremonies specifically, because this is where teams feel the pain most acutely.
+This reframe changes everything about how you structure the work. Instead of a backlog of tasks, you maintain a list of open questions ranked by risk and dependency. Instead of sprint goals, you set experiment goals: "By the end of week two, we will know whether physics-based traversal is technically feasible on our target platform." That's a pass/fail question. The team knows what they're running at.
 
-**Daily standups** work when there's a shared, concrete goal everyone is marching toward. In pre-production, individual contributors are often exploring parallel directions simultaneously. A daily standup becomes a research report: "I'm still reading postmortems about open-world navigation design." There's nothing wrong with that work. But framing it as a standup blocker conversation creates awkwardness and pressure to manufacture urgency.
+This is closer to how the best pre-production teams I've seen actually operate, even when they're officially "doing Scrum." They're running Scrum on the outside and something closer to hypothesis-driven development on the inside. It's worth formalizing that instead of pretending the sprint board captures the real work.
 
-**Sprint planning** requires a backlog of defined tasks. In pre-production, you often can't define next week's tasks until you've seen the results of this week's experiments. Forcing sprint planning without that input means you're either planning fiction or replanning mid-sprint constantly, which destroys the rhythm Scrum relies on.
+## What to Use Instead (or Alongside)
 
-**Sprint reviews** presuppose a shippable increment. What's the pre-production increment? A mood board? A vertical slice of a mechanic that might get cut? Teams end up demo-ing things that technically "work" but don't answer the production-risk questions that matter. Stakeholders leave the review thinking progress is being made when the real question, "should we greenlight this game?", remains completely unanswered.
+You don't have to throw out every Agile tool. You just have to be selective.
 
-**Retrospectives** can actually be useful in pre-production, but they're often the first ceremony to get dropped when teams feel the rest of the Scrum process isn't clicking.
+| Scrum Element | Pre-Production Alternative |
+|---|---|
+| Sprint backlog of tasks | Risk register of open questions, ranked by impact |
+| Two-week sprints | Variable-length exploration cycles (1, 2, or 4 weeks) tied to specific decisions |
+| Velocity tracking | Decision throughput: how many key questions answered per month |
+| Sprint review demo | Playable prototype review with explicit "what did we learn" debrief |
+| Definition of Done | Explicit "question answered" criteria written before the experiment starts |
+| Daily standup | Shorter, question-focused check-ins: what's blocking a decision? |
 
-## What Actually Works in Pre-Production
+**Kanban** is often a better fit than Scrum for at least part of pre-production. It handles variable cycle times naturally and doesn't punish you for work that spills past a two-week boundary. Tools like Jira, Hacknplan, or even a physical board with swimlanes organized by risk category can work here. Hacknplan in particular was built for game development workflows and handles milestone-based planning better than a pure ticket queue.
 
-If Scrum isn't the answer, what is? The honest answer is that pre-production needs a framework built around validated learning, not delivery cadence. A few approaches work well.
+**Weekly milestones** work better than sprints during this phase. Define what question you'll answer or what prototype you'll have by end of week, keep the team pointed at that, and run a lightweight retrospective focused on "did we answer the question and what did we learn?" not "did we hit our velocity target?"
 
-**Milestone-based research sprints** are shorter, focused bursts of 1-2 weeks aimed at answering a single production risk question. Not "work on the combat system" but "answer: can we make melee combat feel as responsive as God of War on our target hardware?" The milestone is a go/no-go decision, not a feature.
+For producers who want to go deeper on this, *The Art of Game Design* by Jesse Schell has a solid lens on iterative design thinking that maps well onto pre-production planning, even though it's not explicitly a production methodology book. *Blood, Sweat, and Pixels* by Jason Schreier is great for understanding how real pre-production actually went on shipped games, warts and all. For online learning, the Game Production curriculum on Coursera from Michigan State University covers phase-specific management in a way that most generic Agile courses skip entirely.
 
-**A risk register as your backlog** is one of the most practical shifts you can make. List every assumption your game depends on and treat high-risk assumptions as the top-priority "stories." Prototype against risk, not against features. When the biggest unknowns are resolved, you've earned the right to start production.
+## How to Transition Your Team Without Blowing Up Trust
 
-**Kanban with WIP limits** often fits pre-production much better than Scrum. You get flow visibility without the artificial sprint commitments. Work moves when it's done, not when a two-week clock runs out. Priorities can shift mid-stream when a prototype reveals something important without triggering a sprint replanning crisis.
+If you're a producer trying to change the process mid-pre-production, be careful. Teams that have been told "we do Scrum" and then suddenly get told "never mind, we're doing something else" will often hear "our process is a mess and leadership doesn't know what they're doing." You need to frame the change accurately.
 
-Here's a simple comparison of how these approaches stack up for pre-production specifically:
+Here's a step-by-step approach that works:
 
-| Concern | Scrum | Kanban | Milestone-Based Research |
-|---|---|---|---|
-| Handles undefined work well | No | Partially | Yes |
-| Supports hypothesis testing | No | Partially | Yes |
-| Gives velocity/forecast data | Yes (misleading) | No | No (intentionally) |
-| Flexible to pivot mid-cycle | No | Yes | Yes |
-| Good for stakeholder reporting | Yes | Partially | Yes |
-| Appropriate when | Production | Ongoing support | Pre-production |
+1. **Name the problem in a retrospective.** Don't show up with a new framework already decided. Ask the team: "What's not working about our current process?" Let them say the things they've been noticing. Usually they've noticed everything.
 
-The tools that help you run this kind of process well are worth investing in. Notion works well for maintaining a living research log and risk register. Miro is excellent for mapping assumptions visually. For teams wanting structured project tracking, Jira can work if you're disciplined about not forcing story points onto research tasks. Confluence is underrated for pre-production documentation because the decisions you make in this phase need to be defensible later.
+2. **Introduce the experiment framing.** Explain that pre-production is fundamentally about answering questions, not shipping increments. Write out your top ten open questions as a team. Rank them by risk and dependency. This exercise alone often clarifies the real work more than a full sprint backlog.
 
-For producers who want to go deeper on this, Jason Schreier's "Blood, Sweat, and Pixels" gives you a ground-level view of how pre-production chaos actually plays out at real studios. Keith Stuart's work aside, the most useful production-specific resource I keep returning to is the Game Producers Handbook by Mike Bode and Marjolein Lahr. For online learning, the Game Production curriculum at Coursera through Michigan State is solid for foundational framing, and Riot's internal talks posted publicly on YouTube are genuinely useful for how large studios think about early-phase risk management.
+3. **Keep the cadence but change the goal.** Don't change your meeting rhythm yet. Keep standups, keep a weekly sync. But replace sprint goals with question goals. "This week we answer: can our AI systems support 40 NPCs at target framerate?" That's it. Keep everything else familiar.
 
-## How to Transition Out of Pre-Production Scrum Without Blowing Up Team Trust
+4. **Introduce variable cycle lengths slowly.** After a few weeks, if the team agrees, try a four-week deep-dive on the biggest technical risk. Compare how that felt versus cramming it into two-week chunks. Let the team's experience drive the decision.
 
-If you're already running Scrum in pre-production and it's not working, you can't just walk in Monday morning and announce you're scrapping it. That breeds confusion and erodes confidence in leadership. Here's a step-by-step approach to making the shift cleanly.
+5. **Use a productivity tool to track decisions, not tasks.** Notion, Confluence, or even a well-structured Google Doc works for a decision log. Every answered question goes in: what was the question, what did we find, what do we do next. This becomes your pre-production artifact and your institutional memory.
 
-**Step 1: Name the problem honestly.** Hold a retrospective specifically about your process, not just your sprint. Ask the team directly: "Are our sprint goals giving us clear answers about whether this game is ready to build?" You'll get honesty if you create the space for it.
+6. **Define your pre-production exit criteria before you start.** This is the hardest part and the most important. What questions must be answered before production can start? Lock that list before the phase begins. That list is your actual milestone, not a sprint count.
 
-**Step 2: Build your risk register.** Before changing anything structural, spend a day with leads mapping out every major assumption the project depends on. Technical, creative, market, and team-capability assumptions all count. Prioritize them by impact and unknownness.
+## Signs Your Pre-Production Scrum Is Actively Hurting You
 
-**Step 3: Reframe your sprint goals.** You don't have to abandon Scrum entirely overnight. Start by replacing feature-based sprint goals with question-based ones. Instead of "implement basic crafting UI," the sprint goal becomes "determine whether crafting adds meaningful decision-making to the core loop." Same time box, completely different orientation.
+If you're unsure whether this applies to your current project, look for these signals:
 
-**Step 4: Drop story points, keep the board.** Story points in pre-production create more noise than signal. Move to a simple three-size estimate (small/medium/large) or drop estimation entirely and just use WIP limits. Keep the visual board because it helps the team see where work is accumulating.
+Your sprint board has more than 20% of tickets in "In Progress" at any given time, and they've been there for more than five days. Your team is spending significant time in backlog grooming sessions but nobody's confidence in the schedule has improved. The same creative questions keep coming up in retrospectives without resolution. Your velocity graph is erratic enough that it provides no forecasting value. And the tell that I've seen more than any other: your creative director or lead designer has quietly stopped engaging with the process because they feel like the board doesn't reflect what they're actually doing.
 
-**Step 5: Define your greenlight criteria now.** Work backward from what leadership needs to approve full production. List those criteria explicitly, then make sure every research activity maps to at least one greenlight question. If a task doesn't answer a greenlight question, it probably doesn't belong in pre-production at all.
-
-**Step 6: Set a fixed pre-production end date.** Pre-production without a hard deadline tends to expand indefinitely. Even if that date is three months away, having it creates urgency and helps you triage which risks absolutely must be resolved before production starts.
+That last one is the most dangerous. When your most creative people decouple from the process, you don't lose their productivity immediately. You lose it gradually, and you lose the process's ability to surface creative risk, which is exactly what you need pre-production to do.
 
 ---
 
-## Frequently Asked Questions
+## FAQ
 
-### Isn't some Scrum better than no process at all during pre-production?
+### Is Scrum ever appropriate for game pre-production?
 
-Process for its own sake can actually make things worse. A bad process creates false confidence, produces misleading metrics, and can mask the real state of your project from stakeholders who are making resource decisions based on your sprint reviews. If Scrum isn't giving you honest answers about your game's viability, running it is actively harmful, not just neutral. A simple Kanban board and a weekly risk review beats a full Scrum implementation that isn't generating real learning.
+Yes, in specific situations. If your pre-production is primarily technical, with a known feature set and defined engine requirements, Scrum can work reasonably well. It also works if your team has strong Scrum discipline and experience adapting the framework creatively. The failure mode I'm describing is most acute when Scrum is applied rigidly to highly exploratory work by teams who treat the framework as a rule set rather than a set of tools.
 
-### Our studio mandates Scrum across all teams. What do I do?
+### What about Scrumban or hybrid approaches?
 
-Work within the structure but redefine what "done" means for your context. If you're required to run sprints, make your sprint goals explicitly research-based. Talk to your production lead or studio head about how you're measuring pre-production progress differently. Most mandates are about visibility and reporting consistency, not about forcing sprint-delivery thinking onto exploration work. You can usually get flexibility on the inside of the framework even when the outside structure is non-negotiable.
+Scrumban, which combines Scrum's cadence with Kanban's flow-based task management, is often a solid middle ground for pre-production. You keep regular retrospectives and review meetings from Scrum, but you let work items flow based on priority rather than forcing them into sprint-sized buckets. Many game studios use something like this in practice even when they don't have a name for it. Tools like Jira support both modes without major reconfiguration.
 
-### How do I know when pre-production is actually finished and Scrum becomes appropriate?
+### How do you explain a non-Scrum pre-production process to stakeholders who expect Scrum?
 
-The clearest signal is that your backlog becomes decomposable. When you can write a user story for a feature, estimate it with reasonable confidence, and know what "done" looks like without major caveats, you're ready for production. Practically, this usually means your vertical slice is complete, your core loop is validated, your tech risks are resolved, and your art pipeline is proven. When you hit that state, Scrum or a structured sprint model becomes genuinely useful because the work has enough definition to benefit from it.
+Frame it in terms of outcomes, not process names. "We're using a question-driven planning approach that gives us clearer visibility into creative and technical risk" lands better than "we're not doing Scrum anymore." Show stakeholders a clean list of open questions, their current status, and your exit criteria. That transparency usually satisfies the people who pushed for Scrum in the first place, because what they actually wanted was predictability and visibility.
 
-### What should a pre-production sprint review actually look like?
+### How long should pre-production last for a mid-size game?
 
-Instead of a demo of features, run a research review. Each team presents: what question they were answering, what they found, and what the next decision is based on that finding. Stakeholders should leave a pre-production review with clearer answers about project risk, not with a demo of work-in-progress systems that might get cut. Think of it as a science fair, not a product demo.
+For an AA game with a team of 30-60 people, pre-production typically runs 6 to 18 months. A vertical slice is usually the production-ready milestone. The dangerous failure mode is pre-production that never officially ends, which happens when teams don't define their exit criteria upfront. If you don't know what questions must be answered before production starts, pre-production will expand to fill whatever time it's given.
 
-### We shipped with Scrum in pre-production and it worked fine. Are you wrong?
+### Can you recommend any tools specifically for pre-production planning?
 
-You might have gotten away with it because your pre-production was short, your concept was well-defined coming in, or your team was experienced enough to do real validation work inside a sprint structure without the framework getting in the way. None of that means Scrum was the reason it worked. In my experience, teams that "succeed" with Scrum in pre-production usually succeeded because of talented people and a strong creative vision, not because sprints helped them discover that vision faster.
+Hacknplan is built for game development and handles milestone-based, non-ticket work better than generic tools. Notion is excellent for decision logs and research documentation. Miro or FigJam work well for visual planning sessions where the team maps dependencies between open questions. For broader production management later in the project, Shotgrid (formerly Ftrack) is the industry standard for larger teams tracking asset pipelines. For learning the underlying skills, the Game Design and Production specialization on Coursera covers phase-specific production planning in detail.
 
 ---
 
-Pre-production is where games live or die, and most studios treat it like a planning problem when it's actually a learning problem. The teams that do it well treat every week as an investment in reducing the risk of the next two years. When you understand that, the question isn't "how do we run Scrum correctly in pre-production?" but "what process helps us learn the fastest?" Get that right, and production, with or without Scrum, becomes a lot less terrifying.
+Pre-production is where games live or die. Get it wrong and you spend production fixing design problems that should have been caught earlier, which is the most expensive possible time to catch them. The framework you use during this phase should be designed to maximize learning speed and creative clarity, not task completion rate. Scrum is a great tool. It's just not always the right tool for this job, and knowing the difference is one of the things that separates a good producer from a great one.
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
