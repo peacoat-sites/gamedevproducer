@@ -250,6 +250,16 @@ SITE_PERSONAS = {
 # ASINs verified as real, high-review products in each category.
 # Replace tracking tag after Amazon Associates approval.
 
+# -- CATEGORY-AWARE IMAGE QUERIES (gamedevproducer) --------------------------
+# Maps CSV category column -> specific Pexels search query.
+# Gives each article a contextually relevant game-dev photo.
+CATEGORY_IMAGE_QUERIES = {
+    "role identity":   "game producer office meeting professional",
+    "pm frameworks":   "game development team sprint planning whiteboard",
+    "team psychology": "game development team collaboration studio",
+    "industry intel":  "video game studio office production team",
+}
+
 NICHE_ASINS = {
     # ── Personal Injury Law ───────────────────────────────────────────────────
     # Organizers, documentation tools, legal self-help books
@@ -845,7 +855,9 @@ def publish_site(site_name: str, count: int):
             article["content"] = inject_affiliate_links(article["content"], niche)
 
             # Fetch image
-            image = fetch_image(site.get("image_query", keyword), used_img_ids)
+            # Category-aware image search: use category->query map, fall back to static image_query, then keyword
+            _img_query = CATEGORY_IMAGE_QUERIES.get(category.lower()) or site.get("image_query") or keyword
+            image = fetch_image(_img_query, used_img_ids)
             print(f"    Image: {'ok' if image else 'none'}")
 
             # Build markdown
