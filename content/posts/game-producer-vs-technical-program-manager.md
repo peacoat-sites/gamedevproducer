@@ -3,7 +3,7 @@ title: "Game Producer Vs Technical Program Manager"
 date: 2026-05-21T17:24:31.370184+00:00
 draft: false
 description: "Discover the key differences between a game producer and a technical program manager, including roles, skills, salaries, and which career path suits you best."
-image: "https://images.pexels.com/photos/9072205/pexels-photo-9072205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5945799/pexels-photo-5945799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "technical", "program", "manager"]
 author: "Priya Nair"
