@@ -3,7 +3,7 @@ title: "Game Producer Vs Scrum Master What Is The Difference"
 date: 2026-05-21T17:33:36.557280+00:00
 draft: false
 description: "Learn the key differences between a game producer and a scrum master, including their roles, responsibilities, and how each contributes to a successful game dev"
-image: "https://images.pexels.com/photos/7849513/pexels-photo-7849513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/28715052/pexels-photo-28715052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "scrum", "master", "what"]
 author: "Jordan Reyes"
