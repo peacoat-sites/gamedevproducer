@@ -3,7 +3,7 @@ title: "Imposter Syndrome As A Game Producer"
 date: 2026-05-21T17:20:10.916309+00:00
 draft: false
 description: "Struggling with imposter syndrome as a game producer? Discover practical strategies to overcome self-doubt, build confidence, and thrive in your creative leader"
-image: "https://images.pexels.com/photos/7915395/pexels-photo-7915395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/20684842/pexels-photo-20684842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["imposter", "syndrome", "game", "producer"]
 author: "Marcus Webb"
