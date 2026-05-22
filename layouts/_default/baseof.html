@@ -36,14 +36,21 @@
 <nav class="nav">
   <div class="nav-inner">
     <a class="nav-logo" href="/">Game<span>Dev</span>Producer</a>
-    <ul class="nav-links">
-      <li><a href="/categories/best-practices/">Best Practices</a></li>
-      <li><a href="/categories/tools/">Tools</a></li>
-      <li><a href="/categories/career/">Career</a></li>
-      <li><a href="/industry-news/">Industry News</a></li>
-      <li><a href="/about/">About</a></li>
-      <li><a href="#newsletter" class="nav-cta">Newsletter</a></li>
-    </ul>
+    <div style="display:flex;align-items:center;gap:24px">
+      <ul class="nav-links" style="margin:0">
+        <li><a href="/industry-news/">Industry News</a></li>
+        <li><a href="/about/">About</a></li>
+        <li><a href="#newsletter" class="nav-cta">Newsletter</a></li>
+      </ul>
+      <form action="/search/" method="get" role="search" style="display:flex;align-items:center;background:rgba(255,255,255,0.1);border:1px solid rgba(255,255,255,0.18);border-radius:6px;overflow:hidden;height:34px">
+        <input type="search" name="q" placeholder="Search…" autocomplete="off" aria-label="Search articles"
+          style="background:none;border:none;color:#fff;padding:0 10px;font-size:13px;width:130px;outline:none;font-family:inherit;height:100%">
+        <button type="submit" aria-label="Submit search"
+          style="background:none;border:none;color:rgba(255,255,255,0.6);cursor:pointer;padding:0 10px;height:100%;display:flex;align-items:center">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </button>
+      </form>
+    </div>
   </div>
 </nav>
 
