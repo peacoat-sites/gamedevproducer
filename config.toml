@@ -1,4 +1,5 @@
 baseURL = "https://gamedevproducer.com/"
+enableRobotsTXT = true
 languageCode = "en-us"
 title = "GameDevProducer.com"
 
