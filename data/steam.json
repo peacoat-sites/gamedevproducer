@@ -1,89 +1,89 @@
 {
-  "updated": "2026-05-22",
+  "updated": "2026-05-23",
   "items": [
     {
-      "name": "THE LAST PORTRAIT",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3691530/8354c677af4a7e346f22eabdc5e8f154de706628/header.jpg?t=1779440164",
-      "url": "https://store.steampowered.com/app/3691530/",
+      "name": "Winter Survivor Protocol",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3174500/c951a68d347bd3fcfc026c3d85811d2c3cafb10f/header.jpg?t=1779509883",
+      "url": "https://store.steampowered.com/app/3174500/",
+      "short_description": "",
+      "final_price": 959
+    },
+    {
+      "name": "Afternoon Affairs & Helpless Housewives",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4237210/832092d4e033cb5aa09b560e22945b1dca03fbb2/header.jpg?t=1779508804",
+      "url": "https://store.steampowered.com/app/4237210/",
+      "short_description": "",
+      "final_price": 1039
+    },
+    {
+      "name": "Lovers' Fun!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4272540/51c9b6436be3523e16d6d6640c61a5630cadc1ec/header.jpg?t=1779506263",
+      "url": "https://store.steampowered.com/app/4272540/",
       "short_description": "",
       "final_price": 719
     },
     {
-      "name": "\uc5ec\uc790 \uaf2c\uc2dc\uae30(Getting Her)",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4711280/df1c9415f7d4731a5c4d941bdb845da9dd755a5c/header.jpg?t=1779439518",
-      "url": "https://store.steampowered.com/app/4711280/",
+      "name": "LOVE LOVE SEXY SALARYMAN",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4437660/ad64f364bef7b487ff017bddf67f84ad6e0d2ab6/header.jpg?t=1779503606",
+      "url": "https://store.steampowered.com/app/4437660/",
       "short_description": "",
-      "final_price": 179
+      "final_price": 1799
     },
     {
-      "name": "Jewelands Adventures",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511640/635c3030bb2257ede18fdbd1f58fa7c3aa161b69/header.jpg?t=1779436906",
-      "url": "https://store.steampowered.com/app/4511640/",
+      "name": "Kami: The Great Guardian",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4381200/189d6ad513b20617d5d55585c9db362f28e71dd1/header.jpg?t=1779500464",
+      "url": "https://store.steampowered.com/app/4381200/",
+      "short_description": "",
+      "final_price": 269
+    },
+    {
+      "name": "SPITE: Taking the Boss's Wife, Sister and Mother",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4242290/ff15a4b19ecede9a4fcb52e11d98f61b8362302e/header.jpg?t=1779498040",
+      "url": "https://store.steampowered.com/app/4242290/",
+      "short_description": "",
+      "final_price": 495
+    },
+    {
+      "name": "Gekko Episode of Nova",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645570/d99d3ad558330c3d638d0203ae231f056b434c87/header.jpg?t=1779498014",
+      "url": "https://store.steampowered.com/app/4645570/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "The Rebirth Tale of Broken Horn Demon Lord Alice",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282710/3c8ada93677e70d2b8f784a1f064d7cde9aad7a1/header.jpg?t=1779436858",
-      "url": "https://store.steampowered.com/app/4282710/",
+      "name": "Sword & Siege Age of Longbow: Volume I",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4590640/285bb3e9ec86564d67db0aed3c4dc3c192346671/header.jpg?t=1779496644",
+      "url": "https://store.steampowered.com/app/4590640/",
       "short_description": "",
-      "final_price": 989
+      "final_price": 3995
     },
     {
-      "name": "Evil Girls Party!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142570/9a8a43267cbd04f899b18e5d15f29db45a44f9b1/header.jpg?t=1779436823",
-      "url": "https://store.steampowered.com/app/4142570/",
+      "name": "Fluffy Arena",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1148600/8e1aded9519dc4f0da5ce7dc59606042110a910d/header.jpg?t=1779494439",
+      "url": "https://store.steampowered.com/app/1148600/",
       "short_description": "",
-      "final_price": 1079
+      "final_price": 319
     },
     {
-      "name": "Dream Corp \u68a6\u60f3\u516c\u53f8",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503530/845e921a51b9bf84e0818f916e5d25376eb47079/header.jpg?t=1779436818",
-      "url": "https://store.steampowered.com/app/4503530/",
+      "name": "XenoCard",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106970/aaa9b8ca90bd1fae4978f3fc0337c36aef60d770/header.jpg?t=1779494412",
+      "url": "https://store.steampowered.com/app/2106970/",
       "short_description": "",
-      "final_price": 599
+      "final_price": 359
     },
     {
-      "name": "THROUGH TIME\u00b7SUMMER OF GIRL PUZZLE",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4196510/19be6686f00c2cdc17693af9adb655ddcb5ce089/header.jpg?t=1779433217",
-      "url": "https://store.steampowered.com/app/4196510/",
+      "name": "Hentai World Nice",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4700820/b2558e4b5191d9b5a1a2e6996911da510386c1c2/header.jpg?t=1779492727",
+      "url": "https://store.steampowered.com/app/4700820/",
       "short_description": "",
-      "final_price": 449
+      "final_price": 79
     },
     {
-      "name": "Bunny:Protect Her",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658900/af15adedb0dbf5c4cd2616e89575ca67ecf9fa0f/header.jpg?t=1779432137",
-      "url": "https://store.steampowered.com/app/4658900/",
+      "name": "Click-A-Duck",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4485920/db7d174e3501179dca18b011edda4ec491f59fe8/header.jpg?t=1779492239",
+      "url": "https://store.steampowered.com/app/4485920/",
       "short_description": "",
-      "final_price": 130
-    },
-    {
-      "name": "Butcherman",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979350/7e95102b884d426be88882a84ec10a92ac3a7ac9/header.jpg?t=1779429835",
-      "url": "https://store.steampowered.com/app/3979350/",
-      "short_description": "",
-      "final_price": 424
-    },
-    {
-      "name": "Cinder City",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520140/b3e37da4c6f99ad80e1f111ae00ebaa47d0b0725/header.jpg?t=1779426688",
-      "url": "https://store.steampowered.com/app/4520140/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Monmusu Island",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4326550/a67f4f5e82cbd6bb8ed106864274223656d04bf5/header.jpg?t=1779425946",
-      "url": "https://store.steampowered.com/app/4326550/",
-      "short_description": "",
-      "final_price": 449
-    },
-    {
-      "name": "Don't Fall",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3204770/0fb65e972142f8af1b60a4b233685c4dfc1fd596/header.jpg?t=1779424482",
-      "url": "https://store.steampowered.com/app/3204770/",
-      "short_description": "",
-      "final_price": 629
+      "final_price": 209
     }
   ]
 }
