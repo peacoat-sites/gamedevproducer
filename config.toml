@@ -5,6 +5,7 @@ languageCode = "en-us"
 title = "GameDevProducer.com"
 
 [params]
+author = "Stephen Brenish"
   description        = "Best practices, frameworks, and industry intel for video game producers -- from pre-production to ship."
   tagline            = "The working producer's handbook"
   primary_color      = "#6d28d9"
