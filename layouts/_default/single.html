@@ -18,6 +18,7 @@
   <article class="article-body">
     {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;margin-bottom:28px">{{ end }}
     {{ .Content }}
+      {{ partial "related-articles.html" . }}
 
     <!-- Author bio box -->
     <div class="author-bio">
