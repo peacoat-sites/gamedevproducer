@@ -1,89 +1,89 @@
 {
-  "updated": "2026-05-24",
+  "updated": "2026-05-25",
   "items": [
     {
-      "name": "Another Zombie Shooter",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703450/3292cbc005411062733c14b0e11c4bcb97e6f0dc/header.jpg?t=1779607119",
-      "url": "https://store.steampowered.com/app/4703450/",
+      "name": "Groovy Gig",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704190/74c498292fda05af2e1c9af6b49560b2968d9362/header.jpg?t=1779702306",
+      "url": "https://store.steampowered.com/app/4704190/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Fun Park Simulator: Prologue",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688580/6b919430029a0b6844eb7a4b61f40c6978f2c196/header.jpg?t=1779603950",
-      "url": "https://store.steampowered.com/app/4688580/",
+      "name": "Banu in the West",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056530/65aeb337a8affc8f3ae536fc261a30ffc1db2ebe/header.jpg?t=1779702104",
+      "url": "https://store.steampowered.com/app/4056530/",
+      "short_description": "",
+      "final_price": 1083
+    },
+    {
+      "name": "Enthrallor",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2839160/26933a2315d3fcd0d2df97ab3f4dd0f7cc82091a/header.jpg?t=1779701250",
+      "url": "https://store.steampowered.com/app/2839160/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Hero Company",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4692360/d45378b555d6599e79bf069e3687cab465167f95/header.jpg?t=1779602305",
-      "url": "https://store.steampowered.com/app/4692360/",
+      "name": "Eletar Hero 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3925020/98b77d40952964ed6af12c28bcd0f943ed3f42d0/header.jpg?t=1779700684",
+      "url": "https://store.steampowered.com/app/3925020/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 359
     },
     {
-      "name": "Lazy Boxing",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663040/6373369357273c648b5e4ee562a2c744c25ccd42/header.jpg?t=1779601523",
-      "url": "https://store.steampowered.com/app/4663040/",
+      "name": "Octogun - Idle",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694420/4a195a19f186dc59be4855eb18e642479ff18e0b/header.jpg?t=1779697188",
+      "url": "https://store.steampowered.com/app/4694420/",
       "short_description": "",
-      "final_price": 119
+      "final_price": 399
     },
     {
-      "name": "Mulligan Keep",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4465440/cf4c8d16a86189428362b16eb674f5efa403ee87/header.jpg?t=1779588675",
-      "url": "https://store.steampowered.com/app/4465440/",
+      "name": "ElectroFix Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194550/3dbf1013a515437f62a60d2f712ed3fa7e170f70/header.jpg?t=1779696037",
+      "url": "https://store.steampowered.com/app/4194550/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 995
     },
     {
-      "name": "UNDERKING KINGDOM",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559290/23ce9cdbbee9a37610b0880bacb34725cfdf6ad0/header.jpg?t=1779583849",
-      "url": "https://store.steampowered.com/app/4559290/",
+      "name": "Bird Game 3",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218680/9ff3effdaec643c778a6e365c2327dca1d72e513/header.jpg?t=1779692414",
+      "url": "https://store.steampowered.com/app/4218680/",
       "short_description": "",
-      "final_price": 279
+      "final_price": 664
     },
     {
-      "name": "The Pinkman Files",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3854540/a13ebf1fe5cd5598eeb1a3e9631dbdacdfbde3a1/header.jpg?t=1779566529",
-      "url": "https://store.steampowered.com/app/3854540/",
+      "name": "OneDay:Eastern Gardens and Wilds(Lofi)",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935260/9b455917568d9fdc5a1737090ac3a97a3ea2905b/header.jpg?t=1779685070",
+      "url": "https://store.steampowered.com/app/3935260/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 849
     },
     {
-      "name": "The Lazarus Game",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499570/46161ce06b9a1098b365e5899fd3c1d64a3d4d38/header.jpg?t=1779566416",
-      "url": "https://store.steampowered.com/app/4499570/",
+      "name": "No.13813",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646050/7f474233a096ca7101335cf14f972847ba0befd1/header.jpg?t=1779682109",
+      "url": "https://store.steampowered.com/app/4646050/",
       "short_description": "",
-      "final_price": 599
+      "final_price": 509
     },
     {
-      "name": "Arcane Rooms",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682130/cf55fef44103f9e55bd5c7e9b8be470468821526/header.jpg?t=1779572749",
-      "url": "https://store.steampowered.com/app/4682130/",
+      "name": "Transpawt Train",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3422460/4707972eed918499da66d3580260e94562b58cb1/header.jpg?t=1779677994",
+      "url": "https://store.steampowered.com/app/3422460/",
       "short_description": "",
-      "final_price": 404
+      "final_price": 559
     },
     {
-      "name": "SafeHaven",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687070/344b472815d697fafc362dfd22629f0943881409/header.jpg?t=1779562709",
-      "url": "https://store.steampowered.com/app/4687070/",
+      "name": "Mycelium Conquest",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667250/1c2eeb1b0c1195a3c66e548f87bd877c90017471/header.jpg?t=1779670512",
+      "url": "https://store.steampowered.com/app/4667250/",
       "short_description": "",
-      "final_price": 1079
+      "final_price": 799
     },
     {
-      "name": "Crown Chaos",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4702360/fb49f41a7fb985e20859126133bac2e88f667797/header.jpg?t=1779560763",
-      "url": "https://store.steampowered.com/app/4702360/",
+      "name": "VR180 SyncPro",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646160/d455ba79246ba8512e4b1aab67851e1198410b08/header.jpg?t=1779667211",
+      "url": "https://store.steampowered.com/app/4646160/",
       "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Hearts on the List",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687200/5d5d7518c4d574e5548b4593686a2d48ff669674/header.jpg?t=1779560009",
-      "url": "https://store.steampowered.com/app/4687200/",
-      "short_description": "",
-      "final_price": 419
+      "final_price": 5099
     }
   ]
 }
