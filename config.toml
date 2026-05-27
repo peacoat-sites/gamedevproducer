@@ -21,6 +21,12 @@ author = "Stephen Brenish"
   twitter_handle     = ""
   mailchimp_form_url = ""
 
+  persona_name       = "Ryan Cole"
+  persona_title      = "Game Production Editor"
+  persona_bio        = "Indie game developer who has shipped three titles across mobile and PC platforms."
+  persona_initials   = "RC"
+  disclaimer         = "This content reflects the author's personal experience and research. Game development outcomes vary widely; always do your own research before making production decisions."
+
 [taxonomies]
   category = "categories"
   tag      = "tags"
