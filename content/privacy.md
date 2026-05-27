@@ -1,53 +1,90 @@
 ---
 title: "Privacy Policy"
-date: 2026-01-01
-draft: false
-description: "Privacy Policy for GameDevProducer.com"
+description: "Privacy Policy for GameDevProducer.com — how we collect, use, and protect your information."
+layout: "page"
 ---
 
-## Privacy Policy
+**Effective Date: January 1, 2025**
 
-Last updated: January 1, 2026
+GameDevProducer.com ("we," "us," or "our") operates gamedevproducer.com (the "Site"). This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information.
 
-This Privacy Policy explains how GameDevProducer.com ("we," "us," or "our") collects, uses, and protects information when you visit gamedevproducer.com.
+---
 
-## Information We Collect
+## 1. Information We Collect
 
-**Automatically collected:** When you visit our Site, we automatically collect certain information including your IP address, browser type, referring URLs, and pages visited. This is standard web server log data.
+**Information you provide:** We collect information you voluntarily submit, such as your name and email address when you contact us or subscribe to our newsletter.
 
-**Cookies:** We use cookies to improve your experience. You may disable cookies in your browser settings, though some features may not function properly.
+**Automatically collected data:** When you visit the Site, third-party services automatically collect usage data including pages visited, time on page, browser type, device type, referring URL, and general geographic region. We do not store this data directly.
 
-## How We Use Information
+---
 
-We use collected information to:
-- Analyze site traffic and improve content
-- Serve relevant advertisements via Google AdSense
-- Monitor site performance
+## 2. Cookies
 
-## Google AdSense
+We use cookies and similar tracking technologies. A cookie is a small file stored on your device.
 
-We use Google AdSense to display advertisements. Google uses cookies to serve ads based on your prior visits to this and other websites. You can opt out of personalized advertising at [Google's Ads Settings](https://www.google.com/settings/ads).
+| Cookie Name | Provider | Purpose | Duration |
+|---|---|---|---|
+| _ga | Google Analytics | Analytics — distinguishes users | 2 years |
+| _gid | Google Analytics | Analytics — distinguishes users | 24 hours |
+| IDE | Google DoubleClick | Ad targeting and measurement | 1 year |
+| NID | Google | Ad personalization | 6 months |
 
-## Google Analytics
+You can control or delete cookies through your browser settings at any time.
 
-We use Google Analytics to understand how visitors use our Site. Google Analytics collects anonymized data about your visit. See [Google's Privacy Policy](https://policies.google.com/privacy) for details.
+---
 
-## Third-Party Links
+## 3. Google Analytics
 
-Our Site contains links to third-party websites. We are not responsible for their privacy practices.
+We use Google Analytics to understand site traffic and improve our content. IP anonymization is enabled. You can opt out using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
-## Your Rights
+---
 
-Depending on your location, you may have rights to access, correct, or delete your personal data. Contact us at contact@gamedevproducer.com to exercise these rights.
+## 4. Google AdSense and DoubleClick
 
-## Children's Privacy
+We use Google AdSense to display advertisements. Google and its partners use cookies — including the DoubleClick (IDE) cookie — to serve ads based on your visits to this Site and other sites (interest-based advertising).
 
-Our Site is not directed at children under 13. We do not knowingly collect information from children.
+To opt out of personalized advertising:
+- Visit [Google Ad Settings](https://www.google.com/settings/ads)
+- Visit [www.aboutads.info/choices](http://www.aboutads.info/choices/) (DAA opt-out)
+- Visit [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/) (NAI opt-out)
 
-## Changes to This Policy
+---
 
-We may update this Privacy Policy periodically. We will notify you of significant changes by posting the new policy on this page.
+## 5. Amazon Associates
 
-## Contact
+This Site participates in the Amazon Services LLC Associates Program. When you click Amazon affiliate links and make purchases, Amazon sets cookies to track referrals. We earn a small commission at no additional cost to you. See [Amazon's Privacy Notice](https://www.amazon.com/privacy/) for details.
 
-Questions? Email us at contact@gamedevproducer.com
+---
+
+## 6. How We Use Your Information
+
+We use collected information to operate and improve the Site, respond to inquiries, send newsletter updates (if you opt in), analyze usage trends, and display relevant advertising. We do **not** sell your personal information to third parties.
+
+---
+
+## 7. Data Retention
+
+We retain any personal information you provide only as long as necessary to fulfill the purpose for which it was provided, unless a longer retention period is required by law.
+
+---
+
+## 8. Your Rights
+
+**GDPR (European residents):** You have the right to access, rectify, erase, or restrict processing of your personal data. Contact us at privacy@gamedevproducer.com to exercise these rights.
+
+**CCPA (California residents):** You have the right to know what personal information we collect, request deletion, and opt out of sale (we do not sell personal information).
+
+---
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy periodically. The effective date at the top of this page will reflect the most recent revision. Continued use of the Site constitutes acceptance of any updated policy.
+
+---
+
+## 10. Contact
+
+Questions about this Privacy Policy? Contact us at:
+
+**Email:** privacy@gamedevproducer.com  
+**Website:** [https://gamedevproducer.com](https://gamedevproducer.com)
