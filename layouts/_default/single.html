@@ -20,15 +20,19 @@
     {{ .Content }}
       {{ partial "related-articles.html" . }}
 
-    <!-- Author bio box -->
+    {{ with .Site.Params.disclaimer }}
+    <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
+    {{ end }}
+    {{ with .Site.Params.persona_name }}
     <div class="author-bio">
-      <img src="/img/author.jpg" alt="Stephen Brenish" style="width:64px;height:64px;border-radius:50%;object-fit:cover;object-position:top;flex-shrink:0">
-      <div>
-        <div class="author-bio-name">{{ $.Site.Params.author_real_name }}</div>
-        <div class="author-bio-title">{{ $.Site.Params.author_real_title }} · Contributor</div>
-        <div class="author-bio-text">Game producer with hands-on experience across the full production lifecycle. These articles reflect real frameworks and lessons from the trenches — not theory.</div>
+      <div class="author-avatar">{{ $.Site.Params.persona_initials }}</div>
+      <div class="author-info">
+        <strong class="author-name">{{ . }}</strong>
+        <span class="author-title">{{ $.Site.Params.persona_title }}</span>
+        <p class="author-blurb">{{ $.Site.Params.persona_bio }}</p>
       </div>
     </div>
+    {{ end }}
 
     <div class="share-row" style="display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 16px">
       <a href="https://twitter.com/intent/tweet?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" class="share-btn share-twitter" aria-label="Share on X">𝕏 Share</a>
