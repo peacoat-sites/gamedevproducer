@@ -17,7 +17,18 @@
 <div class="page-grid">
   <article class="article-body">
     {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" style="width:100%;margin-bottom:28px">{{ end }}
-    {{ .Content }}
+  {{- $content := .Content -}}
+  {{- $parts := split $content "</h2>" -}}
+  {{- if ge (len $parts) 3 -}}
+    {{- $last := sub (len $parts) 1 -}}
+    {{- range $i, $part := $parts -}}
+      {{- $part | safeHTML -}}
+      {{- if lt $i $last -}}</h2>{{- end -}}
+      {{- if eq $i 1 -}}{{- partial "amazon-product-inline.html" $ -}}{{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $content -}}
+  {{- end -}}
       {{ partial "related-articles.html" . }}
 
     {{ with .Site.Params.disclaimer }}
