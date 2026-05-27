@@ -34,6 +34,18 @@
     </div>
     {{ end }}
 
+{{ $related := .Site.RegularPages.Related . | first 3 }}
+{{ with $related }}
+<div class="related-posts">
+  <h3>Related Reading</h3>
+  <ul>
+    {{ range . }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
+
     <div class="share-row" style="display:flex;gap:8px;flex-wrap:wrap;margin:24px 0 16px">
       <a href="https://twitter.com/intent/tweet?url={{ .Permalink | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" class="share-btn share-twitter" aria-label="Share on X">𝕏 Share</a>
       <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}" target="_blank" rel="noopener" class="share-btn share-facebook" aria-label="Share on Facebook">Facebook</a>
