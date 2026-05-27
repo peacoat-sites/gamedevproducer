@@ -42,6 +42,7 @@
     {{ range . }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
     {{ end }}
+{{ partial "amazon-products.html" . }}
   </ul>
 </div>
 {{ end }}
