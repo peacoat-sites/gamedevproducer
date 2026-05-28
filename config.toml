@@ -1,7 +1,8 @@
-disableHugoGeneratorInject = true
-
 enableRobotsTXT = true
 enableEmoji = true
+
+disableHugoGeneratorInject = true
+
 
 
 
