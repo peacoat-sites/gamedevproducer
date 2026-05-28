@@ -3,7 +3,7 @@ title: "Lessons From 20 Years Of Gdc Post-Mortems"
 date: 2026-05-26T12:25:15.183946+00:00
 draft: false
 description: "Lessons from 20 years of GDC post-mortems: insights on game development failures, successes, and industry trends shared by veteran developers."
-image: "https://pixabay.com/get/gec5b667d4dd74229a053b167f700eb794dbdf9e9871658bdd1a4c4c69449417005d6cab16ba887cfecf0dffe3342abb71033d1d839e67b5afdff03f8ba6e703c_1280.jpg"
+image: "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["industry intel"]
 tags: ["lessons", "from", "years", "post-mortems"]
 author: "Editorial Team"
