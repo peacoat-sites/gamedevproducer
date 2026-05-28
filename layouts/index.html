@@ -129,8 +129,7 @@
       <div class="sidebar-card-body" style="display:flex;flex-direction:column;gap:6px">
         {{- range first 8 .Site.Taxonomies.categories.ByCount }}
         <a href="{{ .Page.Permalink }}" style="display:flex;justify-content:space-between;font-size:13px;padding:4px 0;border-bottom:1px solid var(--border)">
-          <span>{{ .Page.Title | title }}</span>
-          <span style="color:var(--muted);font-weight:600">{{ .Count }}</span>
+          <span>{{ .Page.Title | replace "-" " " | title }}</span>
         </a>
         {{- end }}
       </div>
