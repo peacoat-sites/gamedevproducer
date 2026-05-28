@@ -3,7 +3,7 @@ title: "Agile Game Development What Actually Works In Practice"
 date: 2026-05-25T12:48:07.264469+00:00
 draft: false
 description: "Agile game development methodologies explained. Learn proven practices, sprint strategies, and tools that actually work for game development teams in real proje"
-image: "https://pixabay.com/get/g44afaad39ac3a8f79bed0e0e9a36f29054579b6f772be4d088dac23b1c4634b71485963d32b5da43c0d164e192a9ff4a535308f332beffe001857c9534c23ad6_1280.jpg"
+image: "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["pm frameworks"]
 tags: ["agile", "game", "development", "what", "actually"]
 author: "Editorial Team"
