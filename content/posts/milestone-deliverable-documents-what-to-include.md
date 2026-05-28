@@ -3,7 +3,7 @@ title: "Milestone Deliverable Documents What To Include"
 date: 2026-05-27T12:35:05.175583+00:00
 draft: false
 description: "Track project progress effectively with our complete guide to milestone deliverable documents. Learn what essential elements to include for success."
-image: "https://pixabay.com/get/g4355689c3d20fb12729c6829d80bbf85cb9a2f2a1e4f519c2dffe009a42568af5571bf6df460657fbc21a0cfe138eb7fc1120b2204f5e072b21b2461c1d5dde5_1280.jpg"
+image: "https://images.pexels.com/photos/7915437/pexels-photo-7915437.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["pm frameworks"]
 tags: ["milestone", "deliverable", "documents", "what", "include"]
 author: "Editorial Team"
