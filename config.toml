@@ -4,6 +4,8 @@ languageCode = "en-us"
 title = "GameDevProducer.com"
 
 [params]
+  page_bg = "#fafaf8"
+  nav_style = "dark"
 logo_text_2 = "Producer"
 logo_text_1 = "GameDev"
 author = "Stephen Brenish"
