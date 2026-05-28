@@ -1,6 +1,7 @@
 enableRobotsTXT = true
 enableEmoji = true
 
+
 disableHugoGeneratorInject = true
 
 
