@@ -3,7 +3,7 @@ title: "Art Debt In Game Production What It Is And How To Manage It"
 date: 2026-05-23T10:48:00.130844+00:00
 draft: false
 description: "Art debt in game production refers to shortcuts and compromises made during development. Learn what it is, its impacts, and proven strategies to manage it effec"
-image: "https://pixabay.com/get/gf66ab088862ca729907c5cf84f6007fdede011856369c7533ac32887cd6bceb34f29dee50594ec8b1a46d7dc4bcc6ee1ac7c559d74cf8e3cb0adcd2f54185c10_1280.jpg"
+image: "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["pm frameworks"]
 tags: ["debt", "game", "production", "what", "manage"]
 author: "Editorial Team"
