@@ -1,6 +1,7 @@
 enableRobotsTXT = true
 enableEmoji = true
 
+
 baseURL = "https://gamedevproducer.com/"
 languageCode = "en-us"
 title = "GameDevProducer.com"
