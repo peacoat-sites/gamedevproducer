@@ -5,6 +5,13 @@ languageCode = "en-us"
 title = "GameDevProducer.com"
 
 [params]
+hero_color_4 = "#040009"
+hero_color_3 = "#c084fc"
+hero_color_2 = "#110018"
+hero_color_1 = "#07000f"
+primary_color = "#c084fc"
+logo_text_2 = "Producer"
+logo_text_1 = "GameDev"
 author = "Stephen Brenish"
   description        = "Best practices, frameworks, and industry intel for video game producers -- from pre-production to ship."
   tagline            = "The working producer's handbook"
