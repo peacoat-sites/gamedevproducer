@@ -1,4 +1,3 @@
-googleAnalytics = "G-752L5JT68P"
 baseURL = "https://gamedevproducer.com/"
 enableRobotsTXT = true
 languageCode = "en-us"
@@ -40,3 +39,7 @@ hero_color_4 = "#040009"
   home    = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
   page    = ["HTML"]
+
+[services]
+  [services.googleAnalytics]
+    id = "G-752L5JT68P"
