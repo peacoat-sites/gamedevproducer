@@ -235,15 +235,13 @@
     <div class="widget">
       <div class="widget-title">Browse by Topic</div>
       <ul class="widget-list">
-        {{- $cats := slice -}}
-        {{- range $n, $pages := .Site.Taxonomies.categories -}}
-          {{- $cats = $cats | append (dict "name" $n "count" (len $pages)) -}}
-        {{- end -}}
-        {{- range first 8 (sort $cats "count" "desc") }}
+        {{- range $name, $taxonomy := .Site.Taxonomies.categories }}
+        {{- $lbl := title (replace $name "-" " ") -}}
+        {{- $lbl = replace $lbl "Pm" "PM" -}}{{- $lbl = replace $lbl "Hr" "HR" -}}{{- $lbl = replace $lbl "Rv" "RV" -}}
         <li>
-          <a href="/categories/{{ urlize .name }}/" style="display:flex;justify-content:space-between;align-items:center">
-            <span>{{ .name | replace "-" " " | title }}</span>
-            <span style="font-size:11px;color:var(--stone)">{{ .count }}</span>
+          <a href="/categories/{{ urlize $name }}/" style="display:flex;justify-content:space-between;align-items:center">
+            <span>{{ $lbl }}</span>
+            <span style="font-size:11px;color:var(--stone)">{{ len $taxonomy }}</span>
           </a>
         </li>
         {{- end }}
