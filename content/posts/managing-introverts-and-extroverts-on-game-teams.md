@@ -3,7 +3,7 @@ title: "Managing Introverts And Extroverts On Game Teams"
 date: 2026-05-29T02:12:44.135941+00:00
 draft: false
 description: "Learn how to manage introverts and extroverts on game teams effectively. Discover strategies to balance communication styles and boost collaboration and product"
-image: ""
+image: "https://images.pexels.com/photos/7212946/pexels-photo-7212946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 categories: ["team psychology"]
 tags: ["managing", "introverts", "extroverts", "game", "teams"]
 author: "Claire Novak"
