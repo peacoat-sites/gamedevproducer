@@ -235,11 +235,15 @@
     <div class="widget">
       <div class="widget-title">Browse by Topic</div>
       <ul class="widget-list">
-        {{- range first 8 .Site.Taxonomies.categories.ByCount }}
+        {{- $cats := slice -}}
+        {{- range $n, $pages := .Site.Taxonomies.categories -}}
+          {{- $cats = $cats | append (dict "name" $n "count" (len $pages)) -}}
+        {{- end -}}
+        {{- range first 8 (sort $cats "count" "desc") }}
         <li>
-          <a href="{{ .Page.Permalink }}" style="display:flex;justify-content:space-between;align-items:center">
-            <span>{{ .Name | replace "-" " " | title }}</span>
-            <span style="font-size:11px;color:var(--stone)">{{ .Count }}</span>
+          <a href="/categories/{{ urlize .name }}/" style="display:flex;justify-content:space-between;align-items:center">
+            <span>{{ .name | replace "-" " " | title }}</span>
+            <span style="font-size:11px;color:var(--stone)">{{ .count }}</span>
           </a>
         </li>
         {{- end }}
