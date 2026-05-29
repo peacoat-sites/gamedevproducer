@@ -3,7 +3,7 @@ title: "Psychological Safety And Milestone Reviews In Game Dev"
 date: 2026-05-29T02:05:17.873594+00:00
 draft: false
 description: "Discover how psychological safety transforms milestone reviews in game development, fostering honest feedback, stronger teams, and better creative outcomes for "
-image: ""
+image: "https://images.pexels.com/photos/7495291/pexels-photo-7495291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 categories: ["team psychology"]
 tags: ["psychological", "safety", "milestone", "reviews", "game"]
 author: "Claire Novak"
