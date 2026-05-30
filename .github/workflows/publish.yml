@@ -29,6 +29,7 @@ jobs:
         run: python pipeline/publish.py --site ${{ vars.SITE_NAME }} --count ${{ github.event.inputs.count || '2' }}
         env:
           ANTHROPIC_API_KEY:        ${{ secrets.ANTHROPIC_API_KEY }}
+          GSC_INDEXING_TOKEN:       ${{ secrets.GSC_INDEXING_TOKEN }}
           PIPELINE_TOKEN:           ${{ secrets.PIPELINE_TOKEN }}
           GITHUB_TOKEN:             ${{ secrets.PIPELINE_TOKEN }}
           PORTFOLIO_ORG:            peacoat-sites
