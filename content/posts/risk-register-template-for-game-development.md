@@ -1,6 +1,6 @@
 ---
 title: "Risk Register Template For Game Development"
-date: 2026-05-29T01:45:18.496738+00:00
+date: 2026-05-23T09:32:32.667926+00:00
 draft: false
 description: "Plan, track, and mitigate project risks with a risk register template built for game development. Protect your timeline, budget, and launch with confidence."
 image: "https://images.pexels.com/photos/9072216/pexels-photo-9072216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

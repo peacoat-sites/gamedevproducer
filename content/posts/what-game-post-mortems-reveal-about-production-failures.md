@@ -1,6 +1,6 @@
 ---
 title: "What Game Post-Mortems Reveal About Production Failures"
-date: 2026-05-29T02:07:16.756645+00:00
+date: 2026-05-23T07:37:14.864428+00:00
 draft: false
 description: "Learn what game post-mortems reveal about common production failures, from scope creep to poor communication, and how developers can avoid repeating costly mist"
 image: "https://images.pexels.com/photos/1102797/pexels-photo-1102797.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

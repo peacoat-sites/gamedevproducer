@@ -1,6 +1,6 @@
 ---
 title: "Waterfall Vs Agile For Game Development Comparison"
-date: 2026-05-29T21:54:44.454085+00:00
+date: 2026-05-28T05:59:13.503434+00:00
 draft: false
 description: "Explore the key differences between Waterfall and Agile methodologies for game development, helping you choose the best approach for your next project."
 image: "https://images.pexels.com/photos/11798773/pexels-photo-11798773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

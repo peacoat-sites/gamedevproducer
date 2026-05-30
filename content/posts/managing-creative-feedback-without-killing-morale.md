@@ -1,6 +1,6 @@
 ---
 title: "Managing Creative Feedback Without Killing Morale"
-date: 2026-05-29T01:30:53.430438+00:00
+date: 2026-05-27T09:53:35.958300+00:00
 draft: false
 description: "Learn how to give and receive creative feedback that improves work without demoralising your team. Practical tips for leaders and collaborators to get results."
 image: "https://images.pexels.com/photos/7849513/pexels-photo-7849513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Passion Culture In Games Is A Production Risk"
-date: 2026-05-26T12:23:10.862532+00:00
+date: 2026-05-28T09:58:34.382035+00:00
 draft: false
 description: "Passion culture in games can become a significant production risk. Learn how unrealistic expectations and overwork threaten project timelines and team wellbeing"
 image: "https://images.pexels.com/photos/7915574/pexels-photo-7915574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Agile Game Development What Actually Works In Practice"
-date: 2026-05-25T12:48:07.264469+00:00
+date: 2026-05-29T07:07:23.445614+00:00
 draft: false
 description: "Agile game development methodologies explained. Learn proven practices, sprint strategies, and tools that actually work for game development teams in real proje"
 image: "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

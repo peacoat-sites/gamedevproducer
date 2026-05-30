@@ -1,6 +1,6 @@
 ---
 title: "What Transfers From Tech Pm To Game Production"
-date: 2026-05-29T01:35:09.916441+00:00
+date: 2026-05-22T22:09:38.812601+00:00
 draft: false
 description: "Discover how tech PM skills like roadmapping, stakeholder management, and agile workflows translate seamlessly into game production roles and help you make the "
 image: "https://images.pexels.com/photos/7849517/pexels-photo-7849517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

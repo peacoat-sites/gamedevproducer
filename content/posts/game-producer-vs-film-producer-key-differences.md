@@ -1,6 +1,6 @@
 ---
 title: "Game Producer Vs Film Producer Key Differences"
-date: 2026-05-23T10:45:29.462482+00:00
+date: 2026-05-26T02:16:16.016541+00:00
 draft: false
 description: "Game Producer vs Film Producer: Explore the key differences in production timelines, team structures, budgets, and creative processes between these two roles."
 image: "https://images.pexels.com/photos/7292701/pexels-photo-7292701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

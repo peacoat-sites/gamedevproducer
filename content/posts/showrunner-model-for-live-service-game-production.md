@@ -1,6 +1,6 @@
 ---
 title: "Showrunner Model For Live Service Game Production"
-date: 2026-05-29T01:26:31.119208+00:00
+date: 2026-05-26T06:07:59.621512+00:00
 draft: false
 description: "Discover how the showrunner model transforms live service game production, streamlining creative leadership, content delivery, and long-term player engagement s"
 image: "https://images.pexels.com/photos/5380660/pexels-photo-5380660.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

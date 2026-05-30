@@ -1,6 +1,6 @@
 ---
 title: "Game Producer Portfolio What To Show Hiring Managers"
-date: 2026-05-29T02:16:55.232965+00:00
+date: 2026-05-28T12:14:01.420470+00:00
 draft: false
 description: "Learn what hiring managers really want in a game producer portfolio. Discover the key projects, skills, and deliverables to showcase and land your next role."
 image: "https://images.pexels.com/photos/8068664/pexels-photo-8068664.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

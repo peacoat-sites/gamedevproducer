@@ -1,6 +1,6 @@
 ---
 title: "Managing Introverts And Extroverts On Game Teams"
-date: 2026-05-29T02:12:44.135941+00:00
+date: 2026-05-26T07:08:08.735118+00:00
 draft: false
 description: "Learn how to manage introverts and extroverts on game teams effectively. Discover strategies to balance communication styles and boost collaboration and product"
 image: "https://images.pexels.com/photos/7212946/pexels-photo-7212946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

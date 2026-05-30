@@ -1,6 +1,6 @@
 ---
 title: "Capacity Planning For Game Development Teams"
-date: 2026-05-29T21:46:24.031998+00:00
+date: 2026-05-28T22:07:45.713676+00:00
 draft: false
 description: "Plan game dev team capacity effectively with proven strategies. Learn to balance workloads, allocate resources, and hit deadlines without burning out your team."
 image: "https://images.pexels.com/photos/10607624/pexels-photo-10607624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Managing Engineers And Artists On The Same Team"
-date: 2026-05-21T17:28:54.999335+00:00
+date: 2026-05-25T00:32:18.894919+00:00
 draft: false
 description: "Discover proven strategies for managing engineers and artists on the same team, bridging creative and technical mindsets to boost collaboration, productivity, a"
 image: "https://images.pexels.com/photos/5257005/pexels-photo-5257005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

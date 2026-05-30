@@ -1,6 +1,6 @@
 ---
 title: "Sprint Planning For Game Development Teams"
-date: 2026-05-29T02:10:55.105133+00:00
+date: 2026-05-27T03:05:08.711296+00:00
 draft: false
 description: "Plan better sprints for your game dev team. Learn proven strategies to scope features, manage crunch, and deliver polished builds on time every sprint."
 image: "https://images.pexels.com/photos/3861943/pexels-photo-3861943.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

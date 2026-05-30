@@ -1,6 +1,6 @@
 ---
 title: "Psychological Safety In Game Development Playtests"
-date: 2026-05-24T10:52:16.805258+00:00
+date: 2026-05-28T17:30:21.603085+00:00
 draft: false
 description: "Explore how psychological safety transforms game development playtests, enabling honest feedback, reducing player anxiety, and improving game quality through tr"
 image: "https://images.pexels.com/photos/7047617/pexels-photo-7047617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Crunch Is A Production Failure Not A Culture Problem"
-date: 2026-05-21T17:26:42.438241+00:00
+date: 2026-05-28T07:10:57.893004+00:00
 draft: false
 description: "Crunch in game development isnt a culture issue its a systemic failure. Learn why studios must fix broken pipelines and planning, not blame employee mindsets."
 image: "https://images.pexels.com/photos/35378672/pexels-photo-35378672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

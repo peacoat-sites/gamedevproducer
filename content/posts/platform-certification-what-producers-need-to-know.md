@@ -1,6 +1,6 @@
 ---
 title: "Platform Certification What Producers Need To Know"
-date: 2026-05-21T17:31:01.250022+00:00
+date: 2026-05-29T00:01:37.787948+00:00
 draft: false
 description: "Learn what platform certification means for producers, why it matters, and how to meet key requirements to get your content approved and distributed successfull"
 image: "https://images.pexels.com/photos/12899191/pexels-photo-12899191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

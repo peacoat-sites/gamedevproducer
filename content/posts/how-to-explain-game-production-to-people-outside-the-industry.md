@@ -1,6 +1,6 @@
 ---
 title: "How To Explain Game Production To People Outside The Industry"
-date: 2026-05-29T01:52:10.923227+00:00
+date: 2026-05-28T09:40:22.492275+00:00
 draft: false
 description: "Learn how to explain game production to friends, family, and clients in simple terms. Break down complex pipelines, roles, and processes without the industry ja"
 image: "https://images.pexels.com/photos/9072245/pexels-photo-9072245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

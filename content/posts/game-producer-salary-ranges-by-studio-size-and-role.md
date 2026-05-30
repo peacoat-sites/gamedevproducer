@@ -1,6 +1,6 @@
 ---
 title: "Game Producer Salary Ranges By Studio Size And Role"
-date: 2026-05-29T02:01:20.058194+00:00
+date: 2026-05-23T03:51:22.773903+00:00
 draft: false
 description: "Discover how game producer salaries vary by studio size and role. Compare pay ranges from indie to AAA studios and find out what impacts your earning potential."
 image: "https://images.pexels.com/photos/5849578/pexels-photo-5849578.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"

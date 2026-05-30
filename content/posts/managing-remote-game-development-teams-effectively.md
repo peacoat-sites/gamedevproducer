@@ -1,6 +1,6 @@
 ---
 title: "Managing Remote Game Development Teams Effectively"
-date: 2026-05-29T21:56:58.143344+00:00
+date: 2026-05-23T20:25:11.929555+00:00
 draft: false
 description: "Learn proven strategies for managing remote game development teams effectively, from communication tools to agile workflows that boost productivity and keep pro"
 image: "https://images.pexels.com/photos/6804594/pexels-photo-6804594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "How Game Engine Choice Affects Your Production Plan"
-date: 2026-05-22T12:05:15.600101+00:00
+date: 2026-05-25T16:52:27.165707+00:00
 draft: false
 description: "How game engine choice affects your production plan. Learn why selecting the right engine impacts timelines, costs, and team workflow in game development."
 image: "https://images.pexels.com/photos/9409819/pexels-photo-9409819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

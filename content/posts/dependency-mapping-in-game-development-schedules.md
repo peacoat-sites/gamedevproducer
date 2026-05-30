@@ -1,6 +1,6 @@
 ---
 title: "Dependency Mapping In Game Development Schedules"
-date: 2026-05-29T01:54:16.558064+00:00
+date: 2026-05-24T06:20:17.951193+00:00
 draft: false
 description: "Discover how dependency mapping streamlines game development schedules, reduces bottlenecks, and helps teams deliver projects on time by visualizing task relati"
 image: "https://images.pexels.com/photos/7915382/pexels-photo-7915382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

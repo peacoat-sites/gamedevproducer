@@ -1,6 +1,6 @@
 ---
 title: "How To Give Feedback To Artists Vs Engineers Differently"
-date: 2026-05-29T01:39:05.167874+00:00
+date: 2026-05-26T02:56:40.422288+00:00
 draft: false
 description: "Learn how to tailor feedback for artists and engineers effectively. Discover key communication differences to inspire creativity and drive technical precision i"
 image: "https://images.pexels.com/photos/7915392/pexels-photo-7915392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
