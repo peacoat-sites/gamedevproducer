@@ -30,6 +30,8 @@ jobs:
         env:
           ANTHROPIC_API_KEY:        ${{ secrets.ANTHROPIC_API_KEY }}
           GSC_INDEXING_TOKEN:       ${{ secrets.GSC_INDEXING_TOKEN }}
+          GOOGLE_CLIENT_ID:         ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET:     ${{ secrets.GOOGLE_CLIENT_SECRET }}
           PIPELINE_TOKEN:           ${{ secrets.PIPELINE_TOKEN }}
           GITHUB_TOKEN:             ${{ secrets.PIPELINE_TOKEN }}
           PORTFOLIO_ORG:            peacoat-sites
