@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{/* Partition articles */}}
+{{/* Partition articles — exclude non-post pages */}}
 {{ $pages    := (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
 {{ $featured := index $pages 0 }}
 {{ $second   := index $pages 1 }}
@@ -30,6 +30,7 @@
 <section class="hero-split">
   <div class="hero-split-inner">
 
+    <!-- Left: Editorial text -->
     <div class="hero-split-text">
       {{ with .Site.Params.niche }}<p class="hero-eyebrow">{{ . }}</p>{{ end }}
       <h1 class="hero-split-title">{{ .Site.Params.tagline | default .Site.Title }}</h1>
@@ -40,7 +41,9 @@
       </div>
     </div>
 
+    <!-- Right: Featured card + 2 mini-cards -->
     <div class="hero-split-cards">
+
       {{ if $featured }}
       <a href="{{ $featured.Permalink }}" class="hero-feature-card">
         {{ if $featured.Params.image }}
@@ -63,30 +66,39 @@
         {{ if $second }}
         <a href="{{ $second.Permalink }}" class="mini-card">
           {{ if $second.Params.image }}
-          <div class="mini-card-img"><img src="{{ $second.Params.image }}" alt="{{ $second.Title }}" loading="lazy"></div>
+          <div class="mini-card-img">
+            <img src="{{ $second.Params.image }}" alt="{{ $second.Title }}" loading="lazy">
+          </div>
           {{ end }}
           <div class="mini-card-body">
-            {{ if $second.Params.categories }}<span class="mini-card-cat">{{ index $second.Params.categories 0 | title }}</span>{{ end }}
+            {{ if $second.Params.categories }}
+            <span class="mini-card-cat">{{ index $second.Params.categories 0 | title }}</span>
+            {{ end }}
             <span class="mini-card-title">{{ $second.Title }}</span>
             <span class="mini-card-meta">{{ $second.ReadingTime }} min read</span>
           </div>
         </a>
         {{ end }}
+
         {{ if $third }}
         <a href="{{ $third.Permalink }}" class="mini-card">
           {{ if $third.Params.image }}
-          <div class="mini-card-img"><img src="{{ $third.Params.image }}" alt="{{ $third.Title }}" loading="lazy"></div>
+          <div class="mini-card-img">
+            <img src="{{ $third.Params.image }}" alt="{{ $third.Title }}" loading="lazy">
+          </div>
           {{ end }}
           <div class="mini-card-body">
-            {{ if $third.Params.categories }}<span class="mini-card-cat">{{ index $third.Params.categories 0 | title }}</span>{{ end }}
+            {{ if $third.Params.categories }}
+            <span class="mini-card-cat">{{ index $third.Params.categories 0 | title }}</span>
+            {{ end }}
             <span class="mini-card-title">{{ $third.Title }}</span>
             <span class="mini-card-meta">{{ $third.ReadingTime }} min read</span>
           </div>
         </a>
         {{ end }}
       </div>
-    </div>
 
+    </div>
   </div>
 </section>
 
@@ -115,180 +127,97 @@
   </div>
 </div>
 
-<!-- ── 3-COL CONTENT GRID ────────────────────────────────────────── -->
-<div class="gdp-home-grid">
+<!-- ── ARTICLES ────────────────────────────────────────────────────── -->
+<section class="articles-section">
+  <div class="articles-inner">
+    <div class="articles-wrap">
 
-  <!-- Col 1: Industry news feed -->
-  <div class="gdp-news-col">
-    {{- $news := .Site.Data.news }}
-    {{- if $news }}
-    <p class="section-label">Industry News</p>
-    <div class="gdp-news-feed">
-      {{- range first 14 $news.items }}
-      <div class="gdp-news-item">
-        <span class="gdp-news-source">{{ .source }}</span>
-        <div class="gdp-news-text">
-          <a href="{{ .url }}" target="_blank" rel="noopener" class="gdp-news-headline">{{ .title }}</a>
-          <span class="gdp-news-date">{{ .date }}</span>
-        </div>
-      </div>
-      {{- end }}
-      <a class="gdp-news-more" href="/industry-news/">All news &rarr;</a>
-    </div>
+      <div class="articles-main">
+        <p class="section-label">Latest Articles</p>
 
-    {{- $steam := .Site.Data.steam }}
-    {{- if $steam }}
-    <p class="section-label" style="margin-top:32px">New on Steam</p>
-    <div class="gdp-news-feed">
-      {{- range first 5 $steam.items }}
-      <div class="gdp-steam-item">
-        <img class="gdp-steam-thumb" src="{{ .header_image }}" alt="{{ .name }}" loading="lazy">
-        <div class="gdp-steam-info">
-          <a href="{{ .url }}" target="_blank" rel="noopener" class="gdp-news-headline">{{ .name }}</a>
-          <span class="gdp-news-date">{{ .short_description | truncate 70 }}</span>
-        </div>
-      </div>
-      {{- end }}
-    </div>
-    {{- end }}
-    {{- end }}
-  </div>
+        {{ if $rest }}
+        {{ $wideCard  := index $rest 0 }}
+        {{ $gridCards := after 1 $rest }}
 
-  <!-- Col 2: Article grid -->
-  <div class="gdp-articles-col">
-    <p class="section-label">Latest Articles</p>
-
-    {{ if $rest }}
-    {{ $wideCard  := index $rest 0 }}
-    {{ $gridCards := after 1 $rest }}
-
-    <a href="{{ $wideCard.Permalink }}" class="article-card article-card-wide">
-      {{ if $wideCard.Params.image }}
-      <div class="article-card-image article-card-image-wide">
-        <img src="{{ $wideCard.Params.image }}" alt="{{ $wideCard.Title }}" loading="lazy">
-      </div>
-      {{ end }}
-      <div class="article-card-body">
-        {{ if $wideCard.Params.categories }}
-        <span class="article-cat">{{ index $wideCard.Params.categories 0 | title }}</span>
-        {{ end }}
-        <h2 class="article-title article-title-wide">{{ $wideCard.Title }}</h2>
-        <p class="article-excerpt">{{ $wideCard.Summary | plainify | truncate 160 }}</p>
-        <div class="article-meta">
-          <span>{{ $wideCard.PublishDate.Format "Jan 2, 2006" }}</span>
-          <span>{{ $wideCard.ReadingTime }} min read</span>
-          <span class="card-read-more">Read Article &rarr;</span>
-        </div>
-      </div>
-    </a>
-
-    <div class="articles-grid" style="margin-top:20px">
-      {{ range $gridCards }}
-      <a href="{{ .Permalink }}" class="article-card">
-        {{ if .Params.image }}
-        <div class="article-card-image">
-          <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
-        </div>
-        {{ end }}
-        <div class="article-card-body">
-          {{ if .Params.categories }}
-          <span class="article-cat">{{ index .Params.categories 0 | title }}</span>
-          {{ end }}
-          <h3 class="article-title">{{ .Title }}</h3>
-          <p class="article-excerpt">{{ .Summary | plainify | truncate 100 }}</p>
-          <div class="article-meta">
-            <span>{{ .ReadingTime }} min read</span>
-            <span class="card-read-more">Read &rarr;</span>
+        <a href="{{ $wideCard.Permalink }}" class="article-card article-card-wide">
+          {{ if $wideCard.Params.image }}
+          <div class="article-card-image article-card-image-wide">
+            <img src="{{ $wideCard.Params.image }}" alt="{{ $wideCard.Title }}" loading="lazy">
           </div>
+          {{ end }}
+          <div class="article-card-body">
+            {{ if $wideCard.Params.categories }}
+            <span class="article-cat">{{ index $wideCard.Params.categories 0 | title }}</span>
+            {{ end }}
+            <h2 class="article-title article-title-wide">{{ $wideCard.Title }}</h2>
+            <p class="article-excerpt">{{ $wideCard.Summary | plainify | truncate 160 }}</p>
+            <div class="article-meta">
+              <span>{{ $wideCard.PublishDate.Format "Jan 2, 2006" }}</span>
+              <span>{{ $wideCard.ReadingTime }} min read</span>
+              <span class="card-read-more">Read Article &rarr;</span>
+            </div>
+          </div>
+        </a>
+
+        <div class="articles-grid" style="margin-top:28px">
+          {{ range $gridCards }}
+          <a href="{{ .Permalink }}" class="article-card">
+            {{ if .Params.image }}
+            <div class="article-card-image">
+              <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="lazy">
+            </div>
+            {{ end }}
+            <div class="article-card-body">
+              {{ if .Params.categories }}
+              <span class="article-cat">{{ index .Params.categories 0 | title }}</span>
+              {{ end }}
+              <h3 class="article-title">{{ .Title }}</h3>
+              <p class="article-excerpt">{{ .Summary | plainify | truncate 100 }}</p>
+              <div class="article-meta">
+                <span>{{ .ReadingTime }} min read</span>
+                <span class="card-read-more">Read &rarr;</span>
+              </div>
+            </div>
+          </a>
+          {{ end }}
         </div>
-      </a>
-      {{ end }}
-    </div>
-    {{ end }}
-  </div>
-
-  <!-- Col 3: Sidebar -->
-  <aside class="gdp-sidebar-col">
-    <!-- Newsletter -->
-    {{- if .Site.Params.mailchimp_form_url }}
-    <div class="widget">
-      <div class="widget-title">Producer Dispatch</div>
-      <p style="font-size:13px;color:var(--muted);margin-bottom:14px;line-height:1.6">Weekly best practices, tools, and industry intel — straight to your inbox.</p>
-      <form action="{{ .Site.Params.mailchimp_form_url }}" method="post" target="_blank" style="display:flex;gap:6px;flex-wrap:wrap">
-        <input type="email" name="EMAIL" placeholder="your@email.com" required style="flex:1;min-width:120px;padding:8px 12px;border:1px solid var(--border);border-radius:6px;font-size:13px;background:var(--surface);color:var(--text)">
-        <button type="submit" style="background:var(--accent);color:#fff;border:none;border-radius:6px;padding:8px 16px;font-size:13px;font-weight:700;cursor:pointer;white-space:nowrap">Join</button>
-      </form>
-    </div>
-    {{- else }}
-    <div class="widget">
-      <div class="widget-title">Producer Dispatch</div>
-      <p style="font-size:13px;color:var(--muted);margin-bottom:14px;line-height:1.6">Weekly best practices, tools, and industry intel — straight to your inbox.</p>
-      <div style="display:flex;gap:6px">
-        <input type="email" placeholder="your@email.com" disabled style="flex:1;padding:8px 12px;border:1px solid var(--border);border-radius:6px;font-size:13px;background:var(--surface);color:var(--muted)">
-        <button disabled style="background:var(--accent);color:#fff;border:none;border-radius:6px;padding:8px 16px;font-size:13px;font-weight:700;opacity:.65">Soon</button>
-      </div>
-    </div>
-    {{- end }}
-
-    {{ partial "cta-box.html" . }}
-
-    <div class="widget">
-      <div class="widget-title">Browse by Topic</div>
-      <ul class="widget-list">
-        {{- range $name, $taxonomy := .Site.Taxonomies.categories }}
-        {{- $lbl := title (replace $name "-" " ") -}}
-        {{- $lbl = replace $lbl "Pm" "PM" -}}{{- $lbl = replace $lbl "Hr" "HR" -}}{{- $lbl = replace $lbl "Rv" "RV" -}}
-        <li>
-          <a href="/categories/{{ urlize $name }}/">{{ $lbl }}</a>
-        </li>
-        {{- end }}
-      </ul>
-    </div>
-
-    <div class="widget">
-      <div class="widget-title">Recent Articles</div>
-      <ul class="widget-list">
-        {{ range first 5 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ end }}
-      </ul>
+      </div>
+
+      <aside class="sidebar">
+        {{ partial "cta-box.html" . }}
+        {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_sidebar (ne .Site.Params.adsense_slot_sidebar "auto") }}
+        <div class="widget" style="padding:0;border:none;background:transparent">
+          <ins class="adsbygoogle" style="display:block"
+            data-ad-client="{{ .Site.Params.adsense_id }}"
+            data-ad-slot="{{ .Site.Params.adsense_slot_sidebar }}"
+            data-ad-format="rectangle"
+            data-full-width-responsive="true"></ins>
+          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+        </div>
+        {{ end }}
+        <div class="widget">
+          <div class="widget-title">Browse Topics</div>
+          <ul class="widget-list">
+            {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+            {{ $lbl := title (replace $name "-" " ") }}
+            {{ $lbl = replace $lbl "Hr" "HR" }}{{ $lbl = replace $lbl "Pm" "PM" }}{{ $lbl = replace $lbl "Diy" "DIY" }}{{ $lbl = replace $lbl "Hoa" "HOA" }}{{ $lbl = replace $lbl "Hvac" "HVAC" }}{{ $lbl = replace $lbl "Rv" "RV" }}
+            <li><a href="/categories/{{ urlize $name }}/">{{ $lbl }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <div class="widget">
+          <div class="widget-title">Recent Articles</div>
+          <ul class="widget-list">
+            {{ range first 6 (where .Site.RegularPages "Section" "posts").ByDate.Reverse }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      </aside>
+
     </div>
-
-    {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_sidebar (ne .Site.Params.adsense_slot_sidebar "auto") }}
-    <div class="widget" style="padding:0;border:none;background:transparent">
-      <ins class="adsbygoogle" style="display:block"
-        data-ad-client="{{ .Site.Params.adsense_id }}"
-        data-ad-slot="{{ .Site.Params.adsense_slot_sidebar }}"
-        data-ad-format="rectangle"
-        data-full-width-responsive="true"></ins>
-      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-    </div>
-    {{ end }}
-  </aside>
-
-</div>
-
-<!-- Author strip -->
-<div class="gdp-author-strip">
-  <div class="gdp-author-inner">
-    <p class="gdp-author-label">Site Editor</p>
-    <img src="/img/author.jpg" alt="{{ .Site.Params.author_real_name }}" class="gdp-author-avatar">
-    <div class="gdp-author-name">{{ .Site.Params.author_real_name }}</div>
-    <div class="gdp-author-title">{{ .Site.Params.author_real_title }} &middot; Epic Games</div>
-    <p class="gdp-author-bio">Lead producer for Fortnite and Unreal Engine features. 12+ years shipping games across platforms — these articles are frameworks and lessons from the actual work.</p>
-    <a href="/about/" class="gdp-author-cta">Full bio &amp; career &rarr;</a>
   </div>
-</div>
-
-<script>
-/* Decode HTML entities in news headlines */
-document.addEventListener('DOMContentLoaded', function() {
-  document.querySelectorAll('.gdp-news-headline').forEach(function(a) {
-    var txt = document.createElement('textarea');
-    txt.innerHTML = a.innerHTML;
-    a.textContent = txt.value;
-  });
-});
-</script>
+</section>
 
 {{ end }}
