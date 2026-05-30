@@ -3,7 +3,7 @@ title: "Onboarding New Team Members On A Live Game Project"
 date: 2026-05-29T21:48:43.460650+00:00
 draft: false
 description: "Discover proven strategies for onboarding new team members onto a live game project without disrupting updates, player experience, or your existing development "
-image: ""
+image: "https://images.pexels.com/photos/7794049/pexels-photo-7794049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["onboarding", "team", "members", "live", "game"]
 author: "Claire Novak"

@@ -3,7 +3,7 @@ title: "Multi-Title Production How To Manage Multiple Games At Once"
 date: 2026-05-29T21:42:07.824749+00:00
 draft: false
 description: "Learn how to manage multiple game productions simultaneously with expert strategies for prioritizing tasks, balancing teams, and delivering successful titles on"
-image: ""
+image: "https://images.pexels.com/photos/35082583/pexels-photo-35082583.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["multi-title", "production", "manage", "multiple", "games"]
 author: "Maria Vasquez"

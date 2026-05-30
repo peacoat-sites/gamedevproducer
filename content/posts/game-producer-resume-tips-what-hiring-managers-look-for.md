@@ -3,7 +3,7 @@ title: "Game Producer Resume Tips What Hiring Managers Look For"
 date: 2026-05-29T22:01:04.450570+00:00
 draft: false
 description: "Learn what hiring managers really want in a game producer resume. Discover key skills, formatting tips, and standout strategies to land your next role in game d"
-image: ""
+image: "https://images.pexels.com/photos/4225921/pexels-photo-4225921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "resume", "tips", "what"]
 author: "Dana Hargrove"
