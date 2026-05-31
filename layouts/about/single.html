@@ -1,28 +1,20 @@
 {{ define "main" }}
 <section class="hero" style="padding:60px 24px 50px">
   <div style="max-width:700px;margin:0 auto;text-align:center">
-    <img src="/img/author.jpg" alt="Stephen Brenish" style="width:80px;height:80px;border-radius:50%;object-fit:cover;object-position:top;border:3px solid rgba(255,255,255,0.4);margin:0 auto 20px;display:block">
+    <img src="/img/author.jpg" alt="Stephen Brenish" style="width:80px;height:80px;border-radius:50%;object-fit:cover;object-position:top;border:3px solid rgba(0,0,0,0.08);margin:0 auto 20px;display:block">
     <h1 style="font-size:2rem;margin-bottom:8px">Stephen Brenish</h1>
-    <p style="color:rgba(255,255,255,0.7);font-size:1.05rem">Lead Game Producer · Epic Games</p>
-    <div style="margin-top:16px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
-      <a href="https://www.linkedin.com/in/stephenbrenish/" target="_blank" rel="noopener" style="background:rgba(255,255,255,0.15);color:#fff;padding:8px 20px;border-radius:6px;font-size:13px;font-weight:600;display:inline-flex;align-items:center;gap:6px;text-decoration:none">
+    <p style="color:#57534e;font-size:1.05rem">Lead Game Producer · Epic Games</p>
+    <div style="margin-top:18px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap">
+      <a href="https://www.linkedin.com/in/sbrenish/" target="_blank" rel="noopener" style="background:var(--primary,#6d28d9);color:#fff;padding:9px 20px;border-radius:6px;font-size:13px;font-weight:600;display:inline-flex;align-items:center;gap:6px;text-decoration:none">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
         LinkedIn Profile
       </a>
-      <a href="mailto:sbrenish@gmail.com" style="background:rgba(255,255,255,0.1);color:rgba(255,255,255,0.85);padding:8px 20px;border-radius:6px;font-size:13px;font-weight:600;text-decoration:none">Get in touch</a>
+      <a href="/contact/" style="background:#fff;border:1px solid var(--border,#e7e5e4);color:#1c1917;padding:9px 20px;border-radius:6px;font-size:13px;font-weight:600;text-decoration:none">Get in touch</a>
     </div>
   </div>
 </section>
 
-<div class="container" style="max-width:880px;padding:48px 24px">
-
-  <!-- LinkedIn badge -->
-  <div style="display:flex;justify-content:center;margin-bottom:40px">
-    <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="stephenbrenish" data-version="v1">
-      <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/stephenbrenish/?trk=profile-badge">Stephen Brenish</a>
-    </div>
-    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-  </div>
+<div class="container" style="max-width:880px;margin:0 auto;padding:48px 24px">
 
   <!-- About intro -->
   <div style="background:#fff;border:1px solid var(--border);border-radius:12px;padding:32px;margin-bottom:32px">
@@ -115,8 +107,6 @@
       <div style="color:var(--muted);font-size:12px;margin-top:4px">Run of Show · Resource Planning</div>
     </div>
   </div>
-
-  {{ .Content }}
 
 </div>
 {{ end }}
