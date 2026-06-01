@@ -1,0 +1,149 @@
+{
+  "title": "Do You Have What It Takes to Be a Game Producer?",
+  "intro": "Answer 7 quick questions to see how naturally the game producer role fits your habits, strengths, and what gets you out of bed. This is for fun and self-reflection, not a hiring test.",
+  "disclaimer": "This quiz is just for fun and self-reflection. There's no single 'right' personality for a game producer \u00e2\u20ac\u201d plenty of great ones started out scoring low. Treat it as a conversation starter, not a verdict.",
+  "questions": [
+    {
+      "q": "A project you're on is quietly falling behind. What's your gut reaction?",
+      "options": [
+        {
+          "t": "I want to map out exactly where it slipped and get everyone realigned",
+          "s": 3
+        },
+        {
+          "t": "I'd flag it to whoever's in charge and help where I can",
+          "s": 1
+        },
+        {
+          "t": "I'd rather just focus on my own tasks and trust it works out",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about meetings, check-ins, and keeping people in the loop?",
+      "options": [
+        {
+          "t": "Honestly, I kind of enjoy them \u00e2\u20ac\u201d that's where things get unblocked",
+          "s": 3
+        },
+        {
+          "t": "They're fine in moderation if they have a clear point",
+          "s": 1
+        },
+        {
+          "t": "I find them draining and would skip most if I could",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "When a team disagrees about which feature to cut, you tend to be the one who...",
+      "options": [
+        {
+          "t": "Hears all sides, then helps the group land a decision and move on",
+          "s": 3
+        },
+        {
+          "t": "Shares my opinion and goes with whatever the group decides",
+          "s": 1
+        },
+        {
+          "t": "Stays out of it \u00e2\u20ac\u201d I'd rather not referee other people's debates",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What sounds like the most satisfying win to you?",
+      "options": [
+        {
+          "t": "A messy, complicated project actually shipping on time",
+          "s": 3
+        },
+        {
+          "t": "Solving one tough problem really elegantly myself",
+          "s": 1
+        },
+        {
+          "t": "Getting deep into my craft with no interruptions all day",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How comfortable are you holding lots of half-finished threads in your head at once?",
+      "options": [
+        {
+          "t": "Very \u00e2\u20ac\u201d I like tracking many things and nudging each one forward",
+          "s": 3
+        },
+        {
+          "t": "Okay for a while, but I prefer finishing one thing before the next",
+          "s": 1
+        },
+        {
+          "t": "It stresses me out; I do my best work on a single focused task",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Someone on the team is blocked and a little frustrated. You...",
+      "options": [
+        {
+          "t": "Check in, figure out what they need, and clear the path for them",
+          "s": 3
+        },
+        {
+          "t": "Offer help if they ask, but don't want to hover",
+          "s": 1
+        },
+        {
+          "t": "Assume they'll sort it out \u00e2\u20ac\u201d people don't love being chased",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Why are you curious about the producer role in the first place?",
+      "options": [
+        {
+          "t": "I love seeing a whole game come together and want to drive that",
+          "s": 3
+        },
+        {
+          "t": "It seems like a solid path to grow and lead someday",
+          "s": 1
+        },
+        {
+          "t": "Mostly I just want to be near game development in any role",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "Producing might not be your easiest path right now",
+      "body": "Your answers lean toward focused, hands-on craft work \u00e2\u20ac\u201d and that's a real strength, not a weakness. Many of the best people in games are happiest deep in their discipline rather than coordinating others. If producing still calls to you, that's totally workable: it's a learnable skill. Start by owning the schedule for one small side project and see how it feels before committing to the full role.",
+      "cta": "Read what a game producer actually does"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "You could grow into a great producer with a plan",
+      "body": "You've got several producer instincts already \u00e2\u20ac\u201d you'll step up when things drift, you care about the team, and you like seeing projects land. The gap is mostly reps. Get deliberate practice coordinating people: run a game jam team, volunteer to keep a project's tasks organized, or shadow a producer's standup. The role will start feeling natural surprisingly fast.",
+      "cta": "See our roadmap for breaking into production"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You're a natural fit for game production",
+      "body": "You think like a producer already \u00e2\u20ac\u201d you align teams, unblock people, thrive on juggling many threads, and you're driven by the whole game shipping, not just your slice of it. That's the core of the job. Now it's about sharpening the craft: scheduling, risk-tracking, communication, and stakeholder management. Dig into the deeper guides and start putting these instincts to work on a real project.",
+      "cta": "Explore our advanced producer guides"
+    }
+  ]
+}
