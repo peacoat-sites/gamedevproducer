@@ -3,7 +3,7 @@ title: "How To Scope An Indie Game Project Realistically"
 date: 2026-05-31T11:11:35.901305+00:00
 draft: false
 description: "Learn how to scope an indie game project realistically with practical tips on setting limits, cutting features, and shipping a finished game without burning out"
-image: ""
+image: "https://images.pexels.com/photos/6090833/pexels-photo-6090833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["scope", "indie", "game", "project", "realistically"]
 author: "Dana Hargrove"
