@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "console-game-certification-process-for-producers"
 affiliate_disclosure: true
+faqs:
+  - q: "How far in advance should I start the certification process?"
+    a: "Start your internal compliance pass no later than eight weeks before your target ship date. If you're doing a simultaneous multi-platform launch, add another two weeks of buffer. Platform cert windows are largely outside your control, so the only variable you can manage is how ready your build is when it enters the queue."
+  - q: "What happens if we fail certification?"
+    a: "You'll receive a certification failure report listing every non-compliant item with a severity rating. You fix the issues, cut a new build, and resubmit. There's no penalty beyond time lost. That said, if you're on a tight retailer-mandated ship date for a physical release, repeat failures can have real business consequences."
+  - q: "Can we ship a patch day-one to fix things that didn't make cert?"
+    a: "No. The build that passes cert is the build that ships. Any changes after certification require a patch, which also goes through a (usually faster) certification review. Day-one patches are common, but they don't replace certification."
+  - q: "Is certification different for patches and DLC?"
+    a: "Yes, and usually faster. Patch and DLC submissions go through a lighter review process than a full game submission. Typical turnaround is a few business days to a week. The requirements still apply, but the scope of testing is smaller."
+  - q: "Do indie studios get treated differently in cert than large publishers?"
+    a: "The requirements are the same regardless of studio size. What differs is access to platform support. Larger publishers often have a dedicated platform relations contact who can expedite questions or flag issues before submission. Indie studios working through the standard developer programs typically rely on documentation and developer forums. Joining programs like the ID@Xbox or PlayStation Indies initiative can improve your access to support resources."
 ---
 
 You've just hit your ship date. The build is stable, the team is exhausted, and someone in the room asks, "So how long does cert actually take?" The honest answer is: longer than you budgeted, almost certainly. Sony's PlayStation certification process alone has historically taken anywhere from two to six weeks for a first submission, and Nintendo's Lotcheck can stretch even longer if your documentation isn't airtight. Microsoft's Xbox certification runs on a similar timeline. If you didn't plan for that buffer, you're already in trouble. This article is for producers who want to stop being surprised by that number.

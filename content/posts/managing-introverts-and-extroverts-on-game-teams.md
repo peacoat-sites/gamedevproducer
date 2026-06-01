@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "managing-introverts-and-extroverts-on-game-teams"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I get introverts to speak up in standups without putting them on the spot?"
+    a: "Change the format before you change the person. Give everyone a written prompt the night before: 'What's one thing you're working on and one blocker?' Let them post async answers first. The standup becomes a quick confirmation, not a cold performance. Introverts will contribute more when they've had time to prepare. Extroverts won't mind, they'll just talk slightly less."
+  - q: "My extroverted team members dominate every brainstorm. How do I fix this without shutting them down?"
+    a: "Use the silent write-first format every single time. Five minutes, everyone writes independently, then you go around the room. You're not punishing extroverts, you're just collecting ideas before the loudest voice shapes everyone else's thinking. Extroverts generally respect this if you explain why: better ideas, not less talking."
+  - q: "What if someone claims they're introverted just to avoid accountability or standups?"
+    a: "Introversion isn't a performance exemption. Being introverted means you need different conditions to do your best work, not fewer expectations. If someone isn't delivering or communicating, that's a performance conversation, not a personality accommodation. Keep those separate. Don't let legitimate flexibility become a loophole."
+  - q: "How do I spot burnout differently in introverts vs. extroverts?"
+    a: "Introverts burning out go more internal. You'll see more single-word answers, missed async contributions, camera off during calls where they used to be engaged. Extroverts burning out get brittle. More friction in feedback sessions, more reactive in Slack, sudden withdrawal from the social rituals they normally initiate. Neither is dramatic. Both require you to ask a direct question in private before it becomes a crisis."
+  - q: "Is it worth doing a team personality assessment like Myers-Briggs or DISC?"
+    a: "Useful for opening conversations, not for making decisions. I've seen teams use DISC well as a shared language: 'I process better in writing, here's why.' That's valuable. Where assessments go wrong is when people use them to categorize or excuse: 'She's an introvert so she won't want to present.' Run the assessment, use the vocabulary, then watch the actual behavior. The person is always more accurate than the type."
 ---
 
 Your lead engineer hasn't spoken in three standups this week. Your narrative designer won't stop talking in them. Both are doing excellent work. The problem isn't performance. The problem is you've built one communication system and expected two fundamentally different people to thrive in it equally. They won't.

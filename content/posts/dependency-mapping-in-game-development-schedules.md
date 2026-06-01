@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "dependency-mapping-in-game-development-schedules"
 affiliate_disclosure: true
+faqs:
+  - q: "How detailed should a dependency map be for a small indie team?"
+    a: "Lean toward more detail than you think you need, even on a small team. The overhead of mapping dependencies is low compared to the cost of discovering them late. On a two to four person team, you can do this in a shared spreadsheet or a simple board. The goal isn't a formal deliverable, it's shared understanding of what's blocking what."
+  - q: "What's the difference between a dependency map and a Gantt chart?"
+    a: "A Gantt chart shows tasks over time. A dependency map shows the relationships between tasks. A good Gantt chart incorporates dependency data to show you how delays propagate. A Gantt chart without dependency information just shows you what you hoped would happen in what order."
+  - q: "How do I handle circular dependencies in game dev?"
+    a: "Circular dependencies, where Task A needs Task B which needs Task A, are usually a sign that something hasn't been decomposed correctly. Break the tasks down further. Often you'll find that a specific output from Task A is what's actually needed to unblock Task B, and that output can be produced before the rest of Task A is complete."
+  - q: "Should dependencies be tracked at the task level or the milestone level?"
+    a: "Both, but for different purposes. Milestone-level dependencies give leadership visibility into how major deliverables connect. Task-level dependencies give teams the information they need to sequence their daily work. The milestone map won't catch the engine integration issue. The task map will."
+  - q: "How often should dependency maps be reviewed during production?"
+    a: "At minimum, review after any significant scope change and at the start of each new production phase. On a fast-moving project, a quick dependency audit at the start of each sprint or two-week cycle is worth the hour it takes. Stale dependency data is worse than no data because it creates false confidence."
 ---
 
 Most game projects don't die because the team ran out of talent. They die because nobody noticed that the combat system needed finalized player stats, which needed a locked design doc, which needed sign-off from a creative director who was waiting on competitive research that nobody had assigned. One blocked task becomes five blocked tasks becomes a sprint where half the team is spinning wheels. I've watched this happen on a 40-person project where the producer had a perfectly color-coded Gantt chart. The schedule looked great. The dependencies were invisible. That's the problem this article is about.

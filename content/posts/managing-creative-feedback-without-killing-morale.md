@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "managing-creative-feedback-without-killing-morale"
 affiliate_disclosure: true
+faqs:
+  - q: "How do you give feedback to someone who gets defensive every time?"
+    a: "Defensiveness is usually a trust signal. The person doesn't yet believe the feedback is calibrated or fair. Go back to criteria: start every session by referencing the agreed brief. Make feedback about the work against a standard, not about the person's judgment. Do it consistently for several cycles. Trust is rebuilt through pattern, not a single conversation."
+  - q: "What if the creative director or lead skips the process and gives vague feedback directly to the team?"
+    a: "Name it as a process problem, not a personality one. Bring it to the CD privately: 'When the team gets direction changes without criteria, I'm seeing it create rework and morale issues. Can we agree on routing feedback through the brief framework before it reaches the team?' Most CDs will respond better to 'here's the production cost' than 'here's why you're wrong.'"
+  - q: "How do you handle feedback on experimental or exploratory work?"
+    a: "Change your criteria. Exploratory work shouldn't be evaluated on production-ready standards. Define upfront what the exploration is trying to learn or discover, and evaluate against that. 'Did this prototype tell us whether the mechanic is fun in under four hours?' is a fair question. 'Why isn't this shippable?' is not."
+  - q: "My team has stopped pushing back on feedback even when it's wrong. How do I reverse that?"
+    a: "This one takes time to reverse because it means the psychological safety is already gone. Start by actively soliciting disagreement in review sessions: 'What am I missing here?' or 'Does anyone see a problem with this direction?' When someone pushes back and turns out to be right, make that visible to the group. You're rebuilding a norm, not fixing a single incident."
+  - q: "Is there a good tool for async visual feedback on game assets?"
+    a: "Frame.io is strong for video and animation reviews. ShotGrid (formerly Shotgun) is the industry standard for larger teams tracking asset reviews across a full pipeline. For smaller teams where budget matters, Loom plus a shared Notion page gets you surprisingly far."
 ---
 
 Halfway through sprint review, your lead artist goes quiet. The creative director just called their environment work "a good start" and asked for "more energy." No specifics. No examples. Just vibes-based criticism delivered in front of the team. The artist nods, says nothing, and spends the next two weeks technically doing their job while emotionally checking out. You've just watched morale die in real time, and the worst part is the creative director genuinely thought they were being helpful.

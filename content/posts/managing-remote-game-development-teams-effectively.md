@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "managing-remote-game-development-teams-effectively"
 affiliate_disclosure: true
+faqs:
+  - q: "How do you run effective sprint planning with a team across multiple time zones?"
+    a: "Hold sprint planning synchronously if at all possible, even if it means one person takes an awkward call time. Async sprint planning works on paper but tends to produce half-engaged backlogs because people approve tasks without really thinking through dependencies. If truly async is unavoidable, send a pre-recorded walkthrough of the proposed sprint and give 24 hours for written feedback before locking it."
+  - q: "What's the minimum viable overlap time for a remote game dev team?"
+    a: "Three hours per day of synchronous availability for the majority of your team. Below that, you're running a fully async operation, which requires a much more disciplined documentation culture and a lead on each discipline who can make independent decisions without constant approval."
+  - q: "How do you handle performance issues on a remote team?"
+    a: "The same way you would in person: directly and early. Remote doesn't make hard conversations easier but it does make them easier to avoid, which is the trap. Use your 1:1s (weekly, not monthly) to create consistent documentation of what you've discussed. Vague 'just checking in' calls don't protect you or the developer when something becomes a formal issue."
+  - q: "Which project management tool is best for small indie remote teams?"
+    a: "Hack n Plan for pure game production tracking. Notion for documentation and lightweight project management if your team has fewer than six people. Jira if you're already in an organization that uses it and your team is larger than eight or needs detailed reporting. Don't adopt Jira for a five-person remote indie because it sounds professional. The overhead will eat you."
+  - q: "How do you prevent remote developers from feeling isolated or disconnected from the project vision?"
+    a: "Over-communicate the 'why.' Every sprint should open with a brief reminder of what you're building toward and where this sprint fits. Share player feedback, test session recordings, playtest reactions. Remote developers who can see the game's impact on real people stay connected to the work in a way no team ritual can replicate. Also run milestone celebrations. Ship a build, acknowledge it publicly, and make it feel like a moment."
 ---
 
 Your lead programmer is in Warsaw. Your UI artist is in Toronto. Your narrative designer just moved to Chiang Mai. It's 9 AM somewhere and nobody's online at the same time. If you're managing a remote game dev team right now and it feels like herding cats across four time zones, the problem usually isn't the tools you're using. It's that you're running a distributed team with a co-located mindset.

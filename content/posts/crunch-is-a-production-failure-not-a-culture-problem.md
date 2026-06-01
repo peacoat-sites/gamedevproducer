@@ -10,6 +10,17 @@ author: "Jordan Reyes"
 author_bio: "Scrum master turned producer. Translates agile methodology into game dev reality -- what works, what breaks."
 slug: "crunch-is-a-production-failure-not-a-culture-problem"
 affiliate_disclosure: true
+faqs:
+  - q: "Isn't some amount of crunch just inevitable near launch?"
+    a: "A short, bounded push in the final two to three weeks of a project isn't inherently catastrophic if the team is healthy going into it and there's a plan for recovery afterward. The problem is chronic crunch, the six-to-twelve-month grind that becomes the default state. If your 'final push' starts eight months before launch, the production plan failed, not the team."
+  - q: "What's the best project management tool for tracking capacity and avoiding crunch?"
+    a: "There's no single magic tool, but the combination I've seen work most reliably is Jira or Shortcut (formerly Clubhouse) for sprint tracking combined with a producer-maintained capacity spreadsheet in Google Sheets or Notion. Shotgun (now ShotGrid) is common in larger studios for asset-level tracking. The tool matters less than the discipline to update it accurately and review it weekly."
+  - q: "How do I convince leadership that cutting scope is better than crunching the team?"
+    a: "Lead with cost, not compassion, because unfortunately that's what gets traction in most organizations. Calculate your expected turnover cost if crunch continues. Show the bug rate correlation with overtime hours (your QA team likely has this data). Present scope reduction as protecting the ROI on the project, not protecting feelings. You'll win more arguments that way."
+  - q: "What books or resources actually help producers get better at this?"
+    a: "Jason Schreier's Blood, Sweat, and Pixels is essential context for understanding how crunch happens at real studios. For practical production frameworks, The Art of Game Design by Jesse Schell has useful mental models, and Agile Game Development by Clinton Keith is the closest thing to a field manual for applying agile to game production specifically. For general project management thinking that transfers well, Making Things Happen by Scott Berkun is underrated and practical."
+  - q: "Can a small indie team apply these systems without a dedicated producer?"
+    a: "Yes, and they should. The tools scale down. A two-person team can maintain a simple Trello board with a backlog, a 'must ship' column, and a running capacity note in a shared doc. The principles don't require a project management department. They require the habit of looking at the gap between work remaining and time available before it becomes a crisis."
 ---
 
 A studio hits week fourteen of a scheduled twelve-week sprint. The lead designer hasn't slept more than five hours in three nights. The QA team is running on energy drinks and quiet resentment. The executive producer sends a "we're almost there" email that nobody believes. Sound familiar? This scenario plays out across the industry constantly, and the usual response is to treat it like a cultural artifact, something baked into game development's DNA that you either accept or leave the industry to avoid. That framing is wrong, and it's costing studios money, talent, and sometimes lives.

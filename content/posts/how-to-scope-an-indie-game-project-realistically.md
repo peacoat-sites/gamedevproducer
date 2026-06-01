@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-scope-an-indie-game-project-realistically"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I know if my game idea is too big for my team?"
+    a: "If completing your game requires skills, tools, or team members you don't currently have, it's probably too big. A useful test: can you build a playable prototype of the core mechanic in two weeks with the people and skills you have right now? If not, the idea needs to shrink until you can. The game you ship will teach you how to make the bigger game you imagined."
+  - q: "Should I cut features or push the deadline when I'm behind?"
+    a: "Cut features. Almost always. Deadlines are motivational anchors and moving them repeatedly destroys team morale and creates a culture where the schedule doesn't mean anything. Cutting a feature from a locked list is a production decision. Continuously extending the deadline is a sign that the scope was never real in the first place."
+  - q: "How do I handle teammates who keep pitching new features mid-development?"
+    a: "Create a formal backlog. Every new idea goes into the backlog, not into the current sprint. This does two things: it respects the idea without derailing the work, and it gives the pitcher a place to put enthusiasm that isn't 'let's do this right now.' Most backlog items look much less urgent three weeks later. Review the backlog only at the end of each milestone."
+  - q: "My solo project has been in development for 18 months and I can't see the end. What now?"
+    a: "Stop adding. Seriously, stop. Make a list of every incomplete feature and divide it into two columns: required to have any version of this game ship, and everything else. Move the second column to a post-launch document. Now set a hard ship date 90 days out and cut everything that won't be done by then. A flawed game that ships is infinitely more valuable to your career and sanity than a perfect game that doesn't."
+  - q: "Is early access a valid strategy for scoping problems?"
+    a: "It can be, but it's not a magic fix. Early access works when you have a genuinely playable core loop that players find fun, a transparent roadmap, and the discipline to keep shipping updates. It doesn't work as a way to sell an unfinished game while you figure out what you're building. Players remember bad early access launches and the refund rates will show you immediately if you misjudged your readiness."
 ---
 
 You've got a game idea. It's good. Maybe it's great. You've been sketching systems on napkins, you've got a Discord server with twelve friends who are "definitely in," and you've already mentally cast the launch trailer. Then someone asks the question: "How long do you think this will take?" You say six months. Everyone nods. Two years later, you're still in development, three people have quietly quit, and the scope has ballooned into something that would challenge a mid-size studio. I've watched this happen to more teams than I can count, and I've lived a version of it myself. The problem was never passion or talent. It was scope.

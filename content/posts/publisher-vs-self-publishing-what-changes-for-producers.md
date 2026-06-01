@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "publisher-vs-self-publishing-what-changes-for-producers"
 affiliate_disclosure: true
+faqs:
+  - q: "Does working with a publisher mean I have less creative control as a producer?"
+    a: "Not automatically, but contractually, yes. Publisher agreements almost always include approval rights over major creative decisions, and milestone gates are often where creative pushback happens. How much this constrains you depends on the specific contract and the relationship you build with the publisher's product team. Some publishers are hands-off after greenlight. Others have strong opinions about every feature."
+  - q: "Can a small studio handle self-publishing without a dedicated marketing person?"
+    a: "It's possible but genuinely difficult. The production work expands significantly when you absorb marketing functions. Many small studios underestimate the time cost of community management, asset creation for storefronts, and coordinating press and influencer outreach. If your producer is already at capacity managing development, something will give. Consider whether a part-time PR contractor is worth the budget before committing to fully DIY."
+  - q: "How do milestone payments from a publisher typically work in practice?"
+    a: "The publisher advances a total development budget, paid in installments tied to approved milestones. If your game earns enough revenue post-launch to cover that advance, you start receiving royalties. If it doesn't, depending on your contract, you may owe the unrecouped amount back, or it may simply offset future earnings. Always have a lawyer review recoupment language before signing."
+  - q: "What happens if I miss a milestone under a publisher deal?"
+    a: "It depends on the contract. Most publisher agreements have a cure period, typically 30 days, where you can address the shortfall before any formal breach occurs. Repeated misses or significant scope deviations can trigger renegotiation, reduced milestone payments, or in worst cases, publisher rights to take over the project. Proactive communication when you see a miss coming is almost always better than missing silently."
+  - q: "Should a first-time producer prefer a publisher deal for the structure it provides?"
+    a: "There's real value in it. Publisher milestone structures force documentation habits, reporting discipline, and external accountability that help producers build skills faster. The constraints aren't just bureaucratic overhead. They're a training environment. That said, the tradeoffs around creative control and revenue sharing are significant, and going in without understanding those tradeoffs is where producers get burned."
 ---
 
 Imagine you're three months into pre-production on your studio's first original IP. You've got a vertical slice that's actually impressive, a team of twelve people, and two very different conversations happening in parallel: one with a mid-tier publisher who's offering an advance against royalties, and another with your CFO who thinks you should self-publish on Steam and keep 100% of the revenue. Both paths are viable. Both paths will completely reshape your job as a producer. That tension, right there, is what this article is about.

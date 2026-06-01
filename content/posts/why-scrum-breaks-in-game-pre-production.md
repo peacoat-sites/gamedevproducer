@@ -10,6 +10,17 @@ author: "Jordan Reyes"
 author_bio: "Scrum master turned producer. Translates agile methodology into game dev reality -- what works, what breaks."
 slug: "why-scrum-breaks-in-game-pre-production"
 affiliate_disclosure: true
+faqs:
+  - q: "Is Scrum ever appropriate for game pre-production?"
+    a: "Yes, in specific situations. If your pre-production is primarily technical, with a known feature set and defined engine requirements, Scrum can work reasonably well. It also works if your team has strong Scrum discipline and experience adapting the framework creatively. The failure mode I'm describing is most acute when Scrum is applied rigidly to highly exploratory work by teams who treat the framework as a rule set rather than a set of tools."
+  - q: "What about Scrumban or hybrid approaches?"
+    a: "Scrumban, which combines Scrum's cadence with Kanban's flow-based task management, is often a solid middle ground for pre-production. You keep regular retrospectives and review meetings from Scrum, but you let work items flow based on priority rather than forcing them into sprint-sized buckets. Many game studios use something like this in practice even when they don't have a name for it. Tools like Jira support both modes without major reconfiguration."
+  - q: "How do you explain a non-Scrum pre-production process to stakeholders who expect Scrum?"
+    a: "Frame it in terms of outcomes, not process names. 'We're using a question-driven planning approach that gives us clearer visibility into creative and technical risk' lands better than 'we're not doing Scrum anymore.' Show stakeholders a clean list of open questions, their current status, and your exit criteria. That transparency usually satisfies the people who pushed for Scrum in the first place, because what they actually wanted was predictability and visibility."
+  - q: "How long should pre-production last for a mid-size game?"
+    a: "For an AA game with a team of 30-60 people, pre-production typically runs 6 to 18 months. A vertical slice is usually the production-ready milestone. The dangerous failure mode is pre-production that never officially ends, which happens when teams don't define their exit criteria upfront. If you don't know what questions must be answered before production starts, pre-production will expand to fill whatever time it's given."
+  - q: "Can you recommend any tools specifically for pre-production planning?"
+    a: "Hacknplan is built for game development and handles milestone-based, non-ticket work better than generic tools. Notion is excellent for decision logs and research documentation. Miro or FigJam work well for visual planning sessions where the team maps dependencies between open questions. For broader production management later in the project, Shotgrid (formerly Ftrack) is the industry standard for larger teams tracking asset pipelines. For learning the underlying skills, the Game Design and Production specialization on Coursera covers phase-specific production planning in detail."
 ---
 
 Your team just wrapped a killer prototype. The creative director is buzzing, stakeholders are nodding, and someone tapes a sprint board to the wall. Two weeks later, half the tickets are in "In Progress," nobody can agree on what "done" means for a concept exploration task, and the lead designer hasn't touched the board in a week because she's busy writing a 30-page GDD that will probably change three more times before alpha. Sound familiar? That's not a discipline problem. That's Scrum colliding with a phase it was never built for.

@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "capacity-planning-for-game-development-teams"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I convince stakeholders that a 70% capacity model isn't sandbagging?"
+    a: "Show them the data from previous sprints. If your team consistently planned at 100% and delivered 65%, the argument makes itself. If you don't have that data yet, start collecting it now. Three sprints of evidence is more persuasive than any theoretical argument."
+  - q: "Should I use hours or story points for capacity planning?"
+    a: "The research here is genuinely mixed. Story points reduce the illusion of false precision and work well for teams with stable velocity. Hours work better when team composition changes frequently or when you need to communicate timelines to non-developers. I've seen both work. Pick one and be consistent for at least six sprints before deciding it isn't working."
+  - q: "How do I handle capacity planning for a team with a lot of contractors?"
+    a: "Contractors often have split attention across multiple clients. Treat their stated weekly availability at 50 to 60% of what they quote unless you have direct evidence otherwise. Also factor in ramp-up time for any new contractor: the first two weeks are rarely full-productivity weeks."
+  - q: "What's the biggest capacity planning mistake new producers make?"
+    a: "Counting people, not work. New producers often start by listing who's on the team. The better starting point is listing the work that needs to happen, estimating it honestly, and then figuring out whether the team can do it. That order change forces a confrontation with reality earlier."
+  - q: "How often should I revisit capacity models during a long production cycle?"
+    a: "At minimum, every milestone. In practice, I'd recommend a light recalibration every four to six sprints, especially if team composition has changed, scope has shifted, or your velocity data is drifting significantly from your estimates. Capacity models are not set-and-forget."
 ---
 
 You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The post-mortem reveals no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.

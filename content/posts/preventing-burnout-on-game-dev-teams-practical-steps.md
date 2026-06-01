@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "preventing-burnout-on-game-dev-teams-practical-steps"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I convince leadership to cut scope when they're not seeing burnout signs yet?"
+    a: "Lead with project risk, not team welfare, because that's what moves budget conversations. Frame it as: 'At current load, we're tracking toward a quality or schedule miss in eight weeks. Here's what we cut to prevent that.' Burnout is the cause; shipping problems are the effect leadership cares about. Use the effect to justify the fix."
+  - q: "What if my team denies being burned out?"
+    a: "They probably are and don't realize it, or they don't feel safe saying so. Look at the behavioral data: hours logged, velocity trends, vacation patterns. Trust the data more than the self-report. Also ask differently. 'Is the current pace sustainable for another three months?' gets more honest answers than 'are you burned out?'"
+  - q: "How do I handle one person who seems burned out but is a top performer?"
+    a: "This is the highest-risk situation in game dev. Top performers absorb more scope, receive less protection, and exit with the least warning. Don't wait for performance to drop. Have the direct conversation now: 'I want to make sure we're not running you into the ground. What would sustainable look like for you?' Then actually act on the answer."
+  - q: "Can remote teams burn out faster than in-office ones?"
+    a: "Yes, for a specific reason: the commute, annoying as it was, created a hard start and stop signal. Remote work removes that boundary, and 'one more thing before I log off' has no natural ceiling. Remote teams need more explicit structure around working hours, not less."
+  - q: "What's the single highest-leverage change a producer can make today?"
+    a: "Cancel one recurring meeting that could be an async update. This sounds trivial. It isn't. Every meeting you eliminate returns protected time and signals that you value focused work over performed productivity. Do it publicly and explain why. It models the culture shift you want."
 ---
 
 Your lead programmer hasn't taken a real day off in eleven weeks. She's still hitting deadlines, her code still ships clean, and when you ask how she's doing, she says "fine." Three weeks later she hands in her notice. You never saw it coming, but you absolutely should have.

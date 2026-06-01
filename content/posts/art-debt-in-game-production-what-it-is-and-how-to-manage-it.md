@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "art-debt-in-game-production-what-it-is-and-how-to-manage-it"
 affiliate_disclosure: true
+faqs:
+  - q: "Is art debt the same as a bug?"
+    a: "Not exactly. Bugs are defects in functionality: a character falls through geometry, a shader renders incorrectly on a specific GPU. Art debt is more often a quality or compliance gap: an asset that works technically but doesn't meet the final bar, a texture that's placeholder but functional. Some art debt manifests as bugs, especially around LOD, pivot points, and shader assignments, but they're distinct categories that belong in separate tracking systems."
+  - q: "When should a producer first audit art debt?"
+    a: "Ideally, start tracking it from the first sprint of production, not just at Alpha. Create the art debt register early and update it continuously rather than discovering the full scope in one painful pre-Beta audit. The earlier you have visibility, the more options you have for managing it."
+  - q: "How do you stop leads from hiding art debt from the producer?"
+    a: "Build a culture where surfacing debt is rewarded, not punished. If leads learn that flagging an issue leads to help and capacity, they'll flag issues. If they learn it leads to blame or schedule pressure, they'll hide it until it explodes. This is a trust problem as much as a process problem."
+  - q: "Can art debt affect game performance?"
+    a: "Absolutely. Non-compliant texture atlases break batching and increase draw calls. Excessive polygon counts on background assets eat GPU budget. Unoptimized particle effects stack up in scenes. Art debt that reads as a visual quality issue often has a performance shadow that only shows up on minimum spec hardware."
+  - q: "What tools help track art debt?"
+    a: "Jira and Shotgrid (formerly Shotgun) are the most common in mid-to-large studios. Jira is more flexible for custom workflows; Shotgrid was built specifically for media asset pipelines. For smaller teams, Notion databases or even a well-structured Google Sheet will serve you fine. The tool matters less than the discipline of keeping it current."
 ---
 
 You ship Alpha, the milestone review goes well, and leadership is happy. Then someone on your art team quietly mentions that half the environment assets are placeholder geometry with temporary textures slapped on top. The character rigs are messy because they were built fast during pre-production. The UI icons are inconsistent because three different artists made them during a crunch sprint six months ago. Nobody wrote it down. Nobody triaged it. It just... accumulated. That's art debt, and if you've never dealt with it deliberately, you've probably already lost weeks to it without knowing.

@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-estimate-game-development-costs"
 affiliate_disclosure: true
+faqs:
+  - q: "How much does it cost to make an indie game in 2024?"
+    a: "The range is genuinely enormous. A solo developer working without salary can ship a small game for under $10,000 in tool and asset costs. A team of four to six full-time people with salaries working for 18 months can easily spend $500,000 to $800,000. The number that matters is yours, based on your scope, your team structure, and your actual cost rates. Averages from articles don't tell you what your game will cost."
+  - q: "Should I use a top-down or bottom-up estimation approach?"
+    a: "Bottom-up almost always produces more accurate results. Start from tasks, build to features, build to project total. Top-down (deciding the budget first and working backward to fit scope into it) can work for scoping exercises when you have a fixed budget, but it often results in optimistic assumptions quietly baked into the plan that blow up later."
+  - q: "How do I estimate a game when the team has never shipped a title before?"
+    a: "Aggressively apply the inexperience multiplier. I'd apply 40 to 50 percent buffers on first-time tasks and plan for a longer pre-production phase to establish team velocity before committing to a full production timeline. Running a small prototype sprint first gives you real data to estimate from, which is worth far more than any formula."
+  - q: "What's the biggest mistake producers make in game dev estimation?"
+    a: "Not separating out risk. Treating a known, repeatable task the same as experimental new work is how estimates collapse. Novel mechanics, new engine features, and first-time tech integrations carry fundamentally different uncertainty profiles than building the fourth UI screen in a well-established design system. Estimate them differently."
+  - q: "When should I revisit my estimate?"
+    a: "At every major milestone, after any significant scope change, and whenever actual velocity diverges from planned velocity for two or more consecutive sprints. Estimates aren't a contract. They're a living forecast. Treating them as fixed after pre-production is one of the most common ways studios walk into production debt without noticing until it's too late."
 ---
 
 Most studios don't blow their budgets on big decisions. They bleed out on the small ones nobody estimated properly. The character rig that needed three passes. The audio implementation that got scoped as "two weeks" by someone who'd never opened FMOD. The month of crunch that cost nothing on paper and cost everything in turnover afterward. Estimation isn't a box you check before funding. It's the skill that separates studios that ship from studios that send a heartfelt update to their Kickstarter backers explaining why the game is five years late.

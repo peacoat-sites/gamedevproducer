@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "waterfall-vs-agile-for-game-development-comparison"
 affiliate_disclosure: true
+faqs:
+  - q: "Does AAA game development use Agile?"
+    a: "Yes and no. Most large studios use Agile terminology and sprint structures, but they operate within larger waterfall-style milestone frameworks driven by publisher contracts. It's a hybrid in practice, even if they call it Agile internally."
+  - q: "Can a solo developer benefit from Agile?"
+    a: "Agile with a team of one is mostly just a to-do list with extra steps. What solo devs genuinely benefit from is the underlying principle: build small, test often, kill what isn't working early. You don't need a daily standup with yourself."
+  - q: "What is 'scrumfall' and is it a bad thing?"
+    a: "Scrumfall is the informal term for teams running Agile sprints inside a waterfall structure. It gets mocked, but honestly, done intentionally, it's often the right model for game production. The question is whether you're doing it on purpose or by accident."
+  - q: "How long should game development sprints be?"
+    a: "Two weeks is the standard recommendation and it's usually right. One-week sprints create overhead that eats your capacity. Four-week sprints lose the feedback benefit that makes Agile worth doing. Some teams use three-week sprints successfully in production phases when tasks are larger."
+  - q: "When should I switch from Agile to more structured planning?"
+    a: "When you've answered the core question: is this game fun? Once your prototype has validated the loop and you understand the scope, locking into a structured production plan with real milestones and feature locks is the right move. Staying in 'iterate forever' mode past that point is how projects die quietly."
 ---
 
 Most people who've been in game development long enough will tell you that Agile "won" the methodology war. Waterfall is old-fashioned, rigid, a relic of the pre-indie era. I've heard that argument dozens of times. What surprised me when I actually started digging into how shipped games get made is that the picture is messier, more interesting, and more useful than that simple narrative suggests. Some of the best-run projects I've seen blend both approaches deliberately. And some of the worst disasters I've witnessed were Agile projects that used the methodology as a shield against ever making hard decisions.

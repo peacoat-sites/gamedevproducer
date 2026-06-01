@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "how-game-engine-choice-affects-your-production-plan"
 affiliate_disclosure: true
+faqs:
+  - q: "Does the engine choice affect how I structure my sprints?"
+    a: "Yes, directly. Engines with slow build times tend to push teams toward longer integration cycles, which means sprint lengths of two weeks or more often work better than one-week sprints. Engines with fast hot-reload capabilities support shorter feedback loops. When you're deciding between Kanban and Scrum approaches, this comparison of Kanban vs. Scrum for game development is worth reading alongside your engine evaluation."
+  - q: "Should the producer have final say on engine selection?"
+    a: "Rarely. The producer's role is to surface the production implications of each option, quantify the risk and cost associated with each choice, and ensure the decision is made with full information. The final call typically lives with the technical director or studio head, but it should happen in a room where the producer's analysis has been heard."
+  - q: "How do I evaluate an engine I'm not personally technical enough to assess?"
+    a: "Work with your technical lead to build a simple scorecard using the dimensions that matter to production: build times, hiring availability, licensing costs, platform certification readiness, and tooling maturity. You don't need to evaluate the renderer. You need to evaluate the production constraints. Those are translatable into plain language."
+  - q: "What's the biggest mistake producers make when planning around a new engine?"
+    a: "Assuming the learning curve is a one-time event. Engine updates, new features, workflow changes, and team turnover mean the learning curve is ongoing. Budget for approximately one 'engine orientation' sprint per major engine version bump, and make ongoing engine training a recurring line item in your team development budget."
+  - q: "When should a team consider a proprietary engine?"
+    a: "When the platform or performance requirements genuinely can't be met by a commercial engine, or when the studio already has deep institutional knowledge in the proprietary toolchain. The production cost of a proprietary engine is significant: no external hiring, no community support, and no third-party middleware integration without custom work. It's often the right call for first-party console studios or highly specialized genres, but it should be a deliberate decision with eyes open to the overhead."
 ---
 
 You've just locked in your concept, the team is excited, and someone in the room says "so, are we using Unreal or Unity?" What follows that question will quietly shape every sprint, every milestone, every staffing decision, and every late-night fire drill for the next two to five years. Most producers treat engine selection as a technical decision. It isn't. It's a production decision, and getting it wrong costs you months before you've written a single line of game code.

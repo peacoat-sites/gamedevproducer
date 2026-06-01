@@ -10,6 +10,17 @@ author: "Editorial Team"
 author_bio: "Content team."
 slug: "agile-game-development-what-actually-works-in-practice"
 affiliate_disclosure: true
+faqs:
+  - q: "What if our team is mostly remote? Does agile still work?"
+    a: "Absolutely, but your ceremonies need to be stricter. Remote teams need more structure, not less. Asynchronous standups work well: post updates in Slack, read them async, schedule sync conversations for blockers. Use a shared Jira board as your source of truth for what's happening. Remote retrospectives work better when shorter and more focused."
+  - q: "How do we handle scope creep in agile? Doesn't agile make it worse?"
+    a: "Agile doesn't cause scope creep, poor product ownership does. Assign a single person with veto power over scope changes mid-sprint. They exist to say 'no' and defer to the next sprint. This sounds anti-agile but it's the opposite: you're protecting sprint goals so you can be flexible about what's next."
+  - q: "We're shipping on three platforms. Do we need separate sprints for each?"
+    a: "No. Build once, test on three platforms. If platform-specific work comes up (like optimization for Switch hardware), make it a feature story that pulls in whoever's qualified. Same sprint, shared velocity."
+  - q: "Should we track velocity differently for artists and engineers?"
+    a: "Yes, track them separately so you can see bottlenecks. If artists have 100 points and engineers have 150 consistently, your feature planning is mismatched. Use that signal to rebalance work or bring in more art support."
+  - q: "How do we know if our agile process is actually working?"
+    a: "You're hitting milestones. Team morale isn't declining. You're not shipping crunch regularly. You can see what's blocking progress. You can add new features without cascading failures. If those things are true, your process is working. The goal isn't perfect agile. It's shipping better games with sustainable practices. If your process gets you there, it's working. If it doesn't, change it."
 ---
 
 You're three weeks into sprint planning, and your tech lead just told you that the animation system needs a complete rebuild. Your art director says they can work around it. Your marketing team says you've already committed to a vertical slice demo next month. Your lead producer looks at you like you're supposed to have an answer. This is where agile meets reality in game development, and it's rarely as clean as the textbooks suggest.

@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "why-game-developers-leave-after-a-successful-launch"
 affiliate_disclosure: true
+faqs:
+  - q: "Why do developers leave even when the launch goes well?"
+    a: "Success creates leverage, not loyalty. A well-reviewed shipped title is the best resume asset a developer can have. That's not cynical, it's just how the market works. Good launches accelerate departures at studios where people already felt undervalued, because now they have the proof point to go get something better."
+  - q: "Is crunch the main driver of post-launch attrition?"
+    a: "Crunch is a major contributing factor, but it's not sufficient on its own. Studios with significant crunch and strong culture, clear communication, and genuine recovery time lose fewer people than studios with moderate crunch and poor recognition. The crunch itself isn't always the dealbreaker. The sense that it wasn't worth it is."
+  - q: "What tools can help producers manage team health through this period?"
+    a: "For project continuity, Notion and Confluence are solid for documentation handoffs. For tracking team sentiment, anonymous pulse tools like Officevibe or Culture Amp give you actual data instead of guesswork. For your own production framework, Jason Schreier's Blood, Sweat, and Pixels is required reading for understanding what your team just survived, and Rami Ismail's talks on team sustainability are worth your time. On the learning side, the IGDA Game Production Certificate courses cover team health frameworks that apply directly to this problem."
+  - q: "How early should studios start retention planning?"
+    a: "Practically, mid-project. If you're starting retention conversations at launch, you're already late for some of your people. The developers who feel most valued are the ones who received ongoing recognition throughout development, not a single thank-you when the credits rolled."
+  - q: "What's the best thing a producer can do in the first two weeks after launch?"
+    a: "Slow down the operational tempo deliberately and visibly. If the producer is immediately running at the same velocity post-launch, the team reads that as more crunch with a different label. Protect the recovery window. Schedule it. Defend it from stakeholder pressure. Your team will remember that you did."
 ---
 
 Your game ships. Reviews are good. Steam numbers are climbing. The Discord is alive. And then, over the next 90 days, three of your best people hand in their notice.

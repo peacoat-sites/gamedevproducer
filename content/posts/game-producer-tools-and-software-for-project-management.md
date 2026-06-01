@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "game-producer-tools-and-software-for-project-management"
 affiliate_disclosure: true
+faqs:
+  - q: "What project management tool do most professional game studios use?"
+    a: "Jira is the most common at mid-size and large studios. It integrates well with version control, supports QA workflows, and has enough flexibility to handle the weird shapes game production takes. That said, plenty of successful indie studios run entirely on ClickUp, Notion, or Hack n Plan. The tool matters less than whether your team actually uses it consistently."
+  - q: "Is Trello good enough for a small indie game project?"
+    a: "For a solo project or a two-person team in early pre-production, yes. Once you have more than five people or start tracking dependencies across disciplines, Trello's flat kanban structure starts creating more problems than it solves. That's usually when teams move to something with more structure like ClickUp or Hack n Plan."
+  - q: "How do I get a team to actually use the project management tool I set up?"
+    a: "Keep the initial setup simple, 10 task types maximum, and make sure everyone has a single answer to 'where do I put this?' Adoption fails when the tool is configured for an ideal world instead of how the team actually works. Run one onboarding session, record it with Loom, and make yourself available for questions in the first two weeks. After that, make it visible: review the board in every team meeting so people see that it's where the real work lives."
+  - q: "Can I run agile sprints in Notion?"
+    a: "Sort of. Notion doesn't have native sprint tracking, burn-down charts, or velocity calculations. You can fake it with databases and linked views, and some templates do this reasonably well. But if sprint discipline matters to your production, you'll hit the ceiling fast and wish you'd started in a tool built for it. Use Notion for documentation and a real project management tool for task tracking."
+  - q: "What's the difference between Hack n Plan and Jira for game dev?"
+    a: "Hack n Plan is built specifically for games, so things like discipline tagging, milestone structure, and estimation are already built in without configuration. Jira is more powerful and more flexible but starts as a blank slate you have to shape for game dev use. For a team that doesn't have a producer or project manager with Jira experience, Hack n Plan gets you productive faster. For a team with complex QA pipelines or publisher reporting requirements, Jira's depth is worth the setup time."
 ---
 
 You're three weeks into production, your team is split across two time zones, and someone just pinged you asking which version of the level design doc is "the real one." There are four copies. Two are in Discord, one's in a Google Drive folder nobody can find, and the last one is in a Notion page that got duplicated by accident. This is not a rare situation. I've seen it kill momentum on otherwise solid projects, and I've watched teams spend entire sprint reviews untangling documentation chaos instead of reviewing actual work. The right tools don't make you a better producer overnight, but the wrong ones, or the absence of any real system, will quietly wreck you.

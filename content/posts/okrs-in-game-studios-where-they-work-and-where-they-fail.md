@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "okrs-in-game-studios-where-they-work-and-where-they-fail"
 affiliate_disclosure: true
+faqs:
+  - q: "Should every team in a game studio use OKRs?"
+    a: "No. OKRs work best where the work is measurable and repeatable within a quarter. Live service teams, publishing, business development, and studio leadership are natural fits. Pure creative production teams mid-project are usually better served by milestone-based goals. Don't apply the framework universally just for consistency's sake."
+  - q: "How do you set OKRs during pre-production when nothing is certain?"
+    a: "Focus your OKRs on learning outcomes rather than delivery outcomes. Instead of 'complete 10 levels,' write 'validate that our core loop is fun with three rounds of playtesting.' Pre-production is about reducing uncertainty. Your OKRs should reflect that."
+  - q: "How many OKRs should a game studio team have per quarter?"
+    a: "Three to five objectives maximum, with two to four key results each. More than that and you're not setting priorities, you're listing everything you were going to do anyway. If you can't fit your team's priorities into five objectives, your team probably has a scope problem, not an OKR problem."
+  - q: "What's the difference between a key result and a task?"
+    a: "A key result is an outcome you can measure. A task is a thing you do. 'Write the onboarding tutorial' is a task. 'New players complete the tutorial at a rate of 70% or higher' is a key result. If your key results sound like a to-do list, rewrite them around what success looks like, not what work needs to happen."
+  - q: "How do you handle OKRs when a project slips?"
+    a: "Update them. Seriously. OKRs that no longer reflect reality are worse than no OKRs, because they force teams to either lie about progress or ignore the system entirely. If the project slips and your Q3 OKRs become irrelevant, call a brief review, update the key results to reflect the new situation, and move forward. The cadence serves the work, not the other way around."
 ---
 
 You rolled out OKRs six months ago. The leadership team was energized. You ran the kickoff, everyone wrote their objectives, and the key results looked measurable on paper. Now it's the end of the quarter and half the teams are scrambling to update numbers they haven't touched since week two, and nobody can quite explain how "increase player retention by 15%" connects to the artist who spent the last eight weeks building environment assets. Sound familiar? You're not alone, and the problem probably isn't your people.

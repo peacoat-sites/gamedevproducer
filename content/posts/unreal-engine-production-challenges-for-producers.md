@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "unreal-engine-production-challenges-for-producers"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I estimate timelines accurately when my team is new to Unreal?"
+    a: "Add 40 to 60 percent buffer to any estimate your team gives you during their first three months with the engine. Unreal has steep learning curves for almost every discipline, and the hidden costs (asset pipeline setup, Blueprint debugging, performance profiling) almost never show up in initial estimates. Run a two-week technical spike before locking any milestone dates."
+  - q: "Should I hire Unreal specialists or train my existing team?"
+    a: "If your timeline allows six or more months, training existing team members who already know your product and culture is often the better investment. If you're under pressure, hire at least one senior Unreal technical director with shipped credits first. They'll set the architecture that everyone else builds on, and bad early architecture decisions in Unreal are brutally expensive to fix later."
+  - q: "How do I handle Unreal Engine version updates mid-production?"
+    a: "You don't, unless you have a critical bug or security issue forcing your hand. Lock your engine version at the start of production and document it in your technical design document. Engine upgrades mid-project cost weeks of integration and testing time that almost never appear in anyone's initial estimate. Track new engine releases, but save them for the next project."
+  - q: "My team keeps gold-plating features with Unreal's visual tools. How do I stop this?"
+    a: "This is a scope discipline problem, not an Unreal problem. The fix is tighter definition of done criteria on your tickets, combined with producer review before any feature is marked complete. If a feature is 'functionally done' but the developer wants to iterate further, that needs to be a separate ticket with explicit prioritization, not silent scope expansion."
+  - q: "What's the biggest mistake producers make when moving to Unreal for the first time?"
+    a: "Treating Unreal like a faster version of whatever engine they used before. Unreal has specific opinions about asset management, level streaming, and code architecture that require genuine adaptation, not just translation. The producers I've seen succeed fastest are the ones who spend their first two weeks shadowing their technical director and asking questions instead of assuming their old workflow maps cleanly."
 ---
 
 You asked your lead programmer how long the new shader system would take to integrate with your Unreal project. They said "two weeks." Six weeks later, you're still waiting, your milestone is blown, and half your team is blocked waiting on assets that can't be finalized until the shaders are done. If this sounds familiar, you're not alone. Unreal Engine is one of the most powerful game development platforms on the planet, but for producers, it comes with a specific flavor of chaos that nobody really warns you about beforehand.
