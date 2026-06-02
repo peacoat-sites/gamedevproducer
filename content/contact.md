@@ -9,8 +9,6 @@ Have a question, correction, or feedback about something you read on gamedevprod
 
 **Email:** [support@gamedevproducer.com](mailto:support@gamedevproducer.com)
 
-Ryan Cole personally reads every message and aims to respond within 2–3 business days.
-
 ## What to Include
 
 To help us respond quickly, please include:
