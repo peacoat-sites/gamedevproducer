@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-description: "Get in touch with Ryan Cole at gamedevproducer.com."
+description: "Get in touch with the GameDevProducer team. Questions, corrections, or feedback welcome."
 ---
 
 # Contact Us
