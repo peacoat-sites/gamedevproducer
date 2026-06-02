@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-01",
+  "updated": "2026-06-02",
   "items": [
     {
-      "name": "ELLUSION",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4567480/c0abb8c86f09ed470a862ad43addeb21c05c5c24/header.jpg?t=1780312201",
-      "url": "https://store.steampowered.com/app/4567480/",
+      "name": "My Garage",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1578390/header.jpg?t=1780394150",
+      "url": "https://store.steampowered.com/app/1578390/",
       "short_description": "",
-      "final_price": 119
+      "final_price": 1999
     },
     {
-      "name": "Arcane Merchant",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086760/dc0e22953aa5e431ed6103afaf020c5a7d7809f1/header.jpg?t=1780311691",
-      "url": "https://store.steampowered.com/app/4086760/",
-      "short_description": "",
-      "final_price": 1349
-    },
-    {
-      "name": "Fatimopolis",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4619290/71b82f4cc7e4047c85fe813b7bfa89d446d73a44/header.jpg?t=1780311430",
-      "url": "https://store.steampowered.com/app/4619290/",
-      "short_description": "",
-      "final_price": 269
-    },
-    {
-      "name": "Sodaman",
-      "header_image": null,
-      "url": "https://store.steampowered.com/app/2178990/",
-      "short_description": "",
-      "final_price": 399
-    },
-    {
-      "name": "Suck It Up!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515400/66ee8fd93c6d21f8b985ce3458d373b47780a3ca/header.jpg?t=1780306664",
-      "url": "https://store.steampowered.com/app/4515400/",
+      "name": "Gobballing",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4697060/23183a6e84012dabc81fb7cce75527e883e7c442/header.jpg?t=1780393169",
+      "url": "https://store.steampowered.com/app/4697060/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Dragon Climb",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4518080/f9d1a111fbb6816b49ae4fa486e7295df87bb78c/header.jpg?t=1780301715",
-      "url": "https://store.steampowered.com/app/4518080/",
+      "name": "Phoenix 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2678070/14c4da11622879a3a96366a15d21153dd5e9cab4/header.jpg?t=1780392997",
+      "url": "https://store.steampowered.com/app/2678070/",
       "short_description": "",
-      "final_price": 989
+      "final_price": 0
     },
     {
-      "name": "Dear My Bot - Programming Game",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4628900/86f166a7931163e851df135b1c5b4d168ae4cc14/header.jpg?t=1780300982",
-      "url": "https://store.steampowered.com/app/4628900/",
+      "name": "Monster Girl Factory",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4585540/adf107218c0165d205a83c3bf839e17723d539f0/header.jpg?t=1780390833",
+      "url": "https://store.steampowered.com/app/4585540/",
       "short_description": "",
-      "final_price": 179
+      "final_price": 959
     },
     {
-      "name": "MagicPods for Linux",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4486410/6d457b6a3ea8f235b55bcdf0811e17c93a70eeec/header.jpg?t=1780299314",
-      "url": "https://store.steampowered.com/app/4486410/",
+      "name": "ULTRA0",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019180/9bb73b44e0400cdc1f8a1b6d0a4c81fd6d7b0f04/header.jpg?t=1780387208",
+      "url": "https://store.steampowered.com/app/4019180/",
+      "short_description": "",
+      "final_price": 899
+    },
+    {
+      "name": "The Tracy Arm Tsunami Experience",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4726250/d790b52f43d5d39157cacada12381c91a2f81183/header.jpg?t=1780387112",
+      "url": "https://store.steampowered.com/app/4726250/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Space Bross",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2962280/4b2cb06abe30f8a26649fe6d55286f6ed24bbac4/header.jpg?t=1780385153",
+      "url": "https://store.steampowered.com/app/2962280/",
+      "short_description": "",
+      "final_price": 799
+    },
+    {
+      "name": "Collie Companion",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707480/8a1b7d6f19c56dc9f5f04e58f5144209a4857a71/header.jpg?t=1780384932",
+      "url": "https://store.steampowered.com/app/4707480/",
+      "short_description": "",
+      "final_price": 449
+    },
+    {
+      "name": "Run Run Iguana!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607840/3974a615ef5a8efd8de15cb17c225a4ea8191ed3/header.jpg?t=1780384507",
+      "url": "https://store.steampowered.com/app/4607840/",
       "short_description": "",
       "final_price": 299
     },
     {
-      "name": "Imminence",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530360/5d0071544c9dac7d1ba94c87df8ba81d6cab29b2/header.jpg?t=1780298917",
-      "url": "https://store.steampowered.com/app/4530360/",
+      "name": "DeMon Researcher 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729300/a5f677dcda0674b8d0b53735233de1d3a6819fdb/header.jpg?t=1780383954",
+      "url": "https://store.steampowered.com/app/4729300/",
       "short_description": "",
-      "final_price": 999
+      "final_price": 509
     },
     {
-      "name": "Enter The Moshpit",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296980/e21b5f67ed80858ffb2f43b07eeb33cd71e0ad1c/header.jpg?t=1780297390",
-      "url": "https://store.steampowered.com/app/4296980/",
+      "name": "Soul Land: Awakening World",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4584110/45014ea459d97292535a41072b2f2df6e95b5292/header.jpg?t=1780365992",
+      "url": "https://store.steampowered.com/app/4584110/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "ORBITAL",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4245820/f6f977916527fb01cf6be0bb868543099a7e2ca1/header.jpg?t=1780296957",
-      "url": "https://store.steampowered.com/app/4245820/",
+      "name": "SporeWars",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607110/cd12c7bfcd40ead3c670629b45baedb0134c34ff/header.jpg?t=1780363561",
+      "url": "https://store.steampowered.com/app/4607110/",
       "short_description": "",
-      "final_price": 849
-    },
-    {
-      "name": "Rogue Assault",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264680/81f41cc4e2eb60c2c08c5ea9118a491adeb13720/header.jpg?t=1780294330",
-      "url": "https://store.steampowered.com/app/4264680/",
-      "short_description": "",
-      "final_price": 0
+      "final_price": 539
     }
   ]
 }
