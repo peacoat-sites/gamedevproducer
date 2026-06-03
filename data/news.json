@@ -1,36 +1,114 @@
 {
-  "updated": "2026-06-02",
+  "updated": "2026-06-03",
   "count": 25,
   "items": [
     {
       "source": "IGN",
-      "title": "Crimson Desert Dev Says It's Going to Improve the Game's Story to 'Make It More Engaging' as Part of Significant Changes Coming Soon",
-      "url": "https://www.ign.com/articles/crimson-desert-dev-says-its-going-to-improve-the-games-story-to-make-it-more-engaging-as-part-of-significant-changes-coming-soon",
-      "date": "Tue, 2 Jun"
+      "title": "Gabe Newell Says Players Have 'Enormous Choice' When Pressed on Steam Monopoly Accusations, Report Says",
+      "url": "https://www.ign.com/articles/gabe-newell-says-players-have-enormous-choice-when-pressed-on-steam-monopoly-accusations-report-says",
+      "date": "Wed, 3 Jun"
     },
     {
       "source": "IGN",
-      "title": "Nintendo Music Launches Web Player, With Over 4 Hours of Mario Kart World Tunes",
-      "url": "https://www.ign.com/articles/nintendo-music-launches-web-player-with-over-4-hours-of-mario-kart-world-tunes",
-      "date": "Tue, 2 Jun"
+      "title": "Naughty Dog No-Show at PlayStation State of Play Leaves Fans Fearing Intergalactic: The Heretic Prophet is Still a Long Way From Launch",
+      "url": "https://www.ign.com/articles/naughty-dog-no-show-at-playstation-state-of-play-leaves-fans-fearing-intergalactic-the-heretic-prophet-is-still-a-long-way-from-launch",
+      "date": "Wed, 3 Jun"
     },
     {
       "source": "IGN",
-      "title": "Resident Evil Series May Finally Set Future Game in Japan, Producer Says",
-      "url": "https://www.ign.com/articles/resident-evil-series-may-finally-set-future-game-in-japan-producer-says",
-      "date": "Tue, 2 Jun"
+      "title": "The Internet Reacts to God of War Laufey",
+      "url": "https://www.ign.com/articles/the-internet-reacts-to-god-of-war-laufey",
+      "date": "Wed, 3 Jun"
     },
     {
       "source": "IGN",
-      "title": "Maverick Games\u2019 New Open-World Driving Game Will Be Revealed in Under 12 Hours",
-      "url": "https://www.ign.com/articles/maverick-games-new-open-world-driving-game-will-be-revealed-in-under-12-hours",
-      "date": "Tue, 2 Jun"
+      "title": "Avengers: Doomsday and Secret Wars Directors Rule Out a Third Movie, Both Are a 'Complete Expression'",
+      "url": "https://www.ign.com/articles/avengers-doomsday-and-secret-wars-directors-rule-out-a-third-movie-both-are-a-complete-expression",
+      "date": "Wed, 3 Jun"
     },
     {
       "source": "IGN",
-      "title": "PlayStation 'Shovelware' Crackdown Continues as Major Publisher Warns Its Games Will Soon Be Pulled",
-      "url": "https://www.ign.com/articles/playstation-shovelware-crackdown-continues-as-major-publisher-warns-its-games-will-soon-be-pulled",
-      "date": "Tue, 2 Jun"
+      "title": "Final Fantasy VII Rebirth Update Adds 'Streamlined Progression' to Make the Game Easier",
+      "url": "https://www.ign.com/articles/final-fantasy-vii-rebirth-update-adds-streamlined-progression-to-make-the-game-easier",
+      "date": "Wed, 3 Jun"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Mina the Hollower sells 300,000 copies in three days",
+      "url": "https://www.gamedeveloper.com/business/mina-the-hollower-sold-300-000-copies-in-three-days",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "212 Million Americans Play Video Games, Including A Third Of Those Aged Over 80",
+      "url": "https://kotaku.com/esa-essential-facts-survey-gaming-demographics-mobile-boomers-2000701941",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Server Issues Plague Marathon\u2018s Big Comeback Moment [Update: Bungie Is Giving Players Free Loot]]",
+      "url": "https://kotaku.com/server-issues-plague-marathons-big-comeback-moment-2000701778",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Michael Bay's unwatchable TMNT movies at least got one thing right",
+      "url": "https://www.polygon.com/tmnt-out-of-the-shadows-10th-anniversary-michael-bay-bebop-rocksteady/",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "New ESA industry report reveals 212 million Americans are gamers",
+      "url": "https://www.polygon.com/esa-video-game-industry-report-2026/",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "What time does Arknights: Endfield 1.3 release in your time zone?",
+      "url": "https://www.polygon.com/arknights-endfield-ake-1-3-release-time-maintenance-countdown/",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Tomb Raider: Legacy of Atlantis comes with an AI disclaimer",
+      "url": "https://www.eurogamer.net/tomb-raider-legacy-of-atlantis-comes-with-an-ai-disclaimer",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Fallout 76 is finally getting native PS5 and Xbox Series X/S versions with improved graphics and performance, but Bethesda needs to test them first",
+      "url": "https://www.eurogamer.net/fallout-76-ps5-xbox-series-upgrade-details",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Marathon season 2 suffers rocky launch thanks to rampant errors and bugs",
+      "url": "https://www.eurogamer.net/marathon-season-2-launch-bugs",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Grand Theft Auto 6 looms like a black hole in the release schedule, but is pushing everything into September the way to deal with it?",
+      "url": "https://www.eurogamer.net/gta-6-release-date-black-hole",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "\"I don't think we can ask people to pay $30 for a pixel art game\" - How Mina the Hollower's modest $20 price point may have saved developer Yacht Club Games",
+      "url": "https://www.eurogamer.net/mina-the-hollower-release-weekend-sales",
+      "date": "Wed, 03 Ju"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Tekken 8 game director Kohei Ikeda has left Bandai Namco",
+      "url": "https://www.gamedeveloper.com/business/tekken-8-game-director-kohei-ikeda-has-departed-bandai-namco",
+      "date": "Tue, 02 Ju"
+    },
+    {
+      "source": "Game Developer",
+      "title": "PlayStation first-party game sales show a decline since 2020",
+      "url": "https://www.gamedeveloper.com/business/playstation-first-party-game-sales-are-in-decline",
+      "date": "Tue, 02 Ju"
     },
     {
       "source": "Game Developer",
@@ -39,118 +117,40 @@
       "date": "Tue, 02 Ju"
     },
     {
-      "source": "Eurogamer",
-      "title": "Streets of Rage movie gains momentum as Sonic the Hedgehog writers and The Harder They Fall director board the adaptation",
-      "url": "https://www.eurogamer.net/streets-of-rage-movie-sonic-writers",
+      "source": "Game Developer",
+      "title": "Bungie experiments by adding casual PvP-lite mode to Marathon",
+      "url": "https://www.gamedeveloper.com/design/bungie-experiments-by-adding-casual-pvp-lite-mode-to-marathon",
       "date": "Tue, 02 Ju"
     },
     {
-      "source": "Eurogamer",
-      "title": "Star Wars Jedi 3 rumour suggests we might see an older Cal Kestis after a time jump, which lines up with recent promises of \"more Cal stories\"",
-      "url": "https://www.eurogamer.net/star-wars-jedi-3-cal-kestis-rumours",
+      "source": "Kotaku",
+      "title": "Sony\u2019s State Of Play Showed That Every Publisher Is Terrified Of GTA 6",
+      "url": "https://kotaku.com/sonys-state-of-play-showed-that-every-publisher-is-terrified-of-gta-6-2000701746",
       "date": "Tue, 02 Ju"
     },
     {
-      "source": "Eurogamer",
-      "title": "EA announces national line-up for FC 26's unofficial world cup mode",
-      "url": "https://www.eurogamer.net/ea-fc-26-world-cup-teams",
+      "source": "Kotaku",
+      "title": "The Internet Reacts To Phranque, The New God Of War\u2019s Talking Cube Voiced By Jack Quaid",
+      "url": "https://kotaku.com/new-god-of-war-talking-cube-phranque-laufey-faye-2000701723",
       "date": "Tue, 02 Ju"
     },
     {
-      "source": "Eurogamer",
-      "title": "The Witcher 3's acclaimed Blood and Wine expansion was almost called something entirely different",
-      "url": "https://www.eurogamer.net/the-witcher-3-blood-and-wine-expansion-different-name",
+      "source": "Kotaku",
+      "title": "Everything We Saw At PlayStation\u2019s Big Summer State Of Play Showcase",
+      "url": "https://kotaku.com/state-of-play-ps5-god-of-war-laufey-wolverine-until-dawn-2000701641",
       "date": "Tue, 02 Ju"
     },
     {
-      "source": "Game Developer",
-      "title": "UK social media ban could impact video game platforms",
-      "url": "https://www.gamedeveloper.com/business/uk-social-media-ban-could-impact-video-game-platforms",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Atari to acquire Crossy Road developer Hipster Whale",
-      "url": "https://www.gamedeveloper.com/business/atari-to-acquire-crossy-road-developer-hipster-whale",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Fable reboot delayed until February 2027",
-      "url": "https://www.gamedeveloper.com/business/fable-reboot-delayed-until-february-2027",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "GameStop Snuck An Alarming AI Disclosure Into The Risks Section Of Its Latest Annual Report",
-      "url": "https://kotaku.com/gamestop-ai-disclosure-risks-annual-report-2000701213",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Star Wars: The Mandalorian And Grogu Is Getting Crushed With A 69-Percent Drop At The Box Office",
-      "url": "https://kotaku.com/star-wars-the-mandalorian-and-grogu-is-getting-crushed-with-a-69-percent-drop-at-the-box-office-2000701200",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "People Are Going Wild Over Fortnite\u2019s Most Revealing Skin Yet",
-      "url": "https://kotaku.com/people-are-going-wild-over-fortnites-most-revealing-skin-yet-2000701201",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "\u2018Mormon Mafia\u2019 Conspiracy Trends Online After YouTuber Investigating $200,000 Lego Collection Dispute Flees To Mexico Following Arrest",
-      "url": "https://kotaku.com/star-wars-lego-collection-reckless-ben-bricks-minifigs-youtube-mormon-mafia-arrest-mexico-2000701091",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "The Worst Part Of 007 First Light Is\u2014DISCONNECTED",
-      "url": "https://kotaku.com/the-worst-part-of-007-first-light-is-disconnected-server-error-2000701169",
-      "date": "Mon, 01 Ju"
+      "source": "Polygon",
+      "title": "September 2026 has too many new video games trying to escape GTA 6",
+      "url": "https://www.polygon.com/september-2026-new-video-games/",
+      "date": "Tue, 02 Ju"
     },
     {
       "source": "Polygon",
-      "title": "Zack Snyder's Escape from New York remake is happening",
-      "url": "https://www.polygon.com/zack-snyder-escape-from-new-york-remake-john-carpenter/",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Escape the Backrooms quietly added to Xbox Game Pass",
-      "url": "https://www.polygon.com/escape-the-backrooms-xbox-game-pass/",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Gravity Circuit 2 announced, and the first is now free on Steam",
-      "url": "https://www.polygon.com/steam-free-game-june-1-2026/",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "5 SGF game announcements that haven\u2019t had updates in years",
-      "url": "https://www.polygon.com/sgf-summer-game-fest-announcements-old-resurface/",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "SGF 2026 schedule: All Summer Game Fest event dates and times",
-      "url": "https://www.polygon.com/sgf-summer-game-fest-2026-schedule-all-conference-dates-and-times/",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "As Path of Exile 2 player numbers surge, Grinding Gear Games promises it won't forget about Path of Exile 1",
-      "url": "https://www.eurogamer.net/arpg-path-of-exile-1-2-support-forever",
-      "date": "Mon, 01 Ju"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Crafting Clair Obscur: Expedition 33's mournful tale ft. Jennifer Svedeberg-Yen",
-      "url": "https://www.gamedeveloper.com/design/crafting-clair-obscur-expedition-33-s-mournful-tale-ft-jennifer-svedeberg-yen",
-      "date": "Fri, 29 Ma"
+      "title": "Control Resonant may have quietly changed its release date",
+      "url": "https://www.polygon.com/control-resonant-release-date-change/",
+      "date": "Tue, 02 Ju"
     }
   ]
 }
