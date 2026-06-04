@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-03",
+  "updated": "2026-06-04",
   "items": [
     {
-      "name": "ImpossibleBosses",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4711050/5022a29b5a8485c3e583e39e1526436e4cbfeaec/header.jpg?t=1780481245",
-      "url": "https://store.steampowered.com/app/4711050/",
+      "name": "Deep Sea Fish: Hidden World",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710400/458897e9345c69727c53d693742fce4e301a5795/header.jpg?t=1780564151",
+      "url": "https://store.steampowered.com/app/4710400/",
+      "short_description": "",
+      "final_price": 319
+    },
+    {
+      "name": "Tour de France 2026",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936520/768fdd83ab20a7327dd6e21de5b0ce01d2ba4140/header.jpg?t=1780560168",
+      "url": "https://store.steampowered.com/app/3936520/",
+      "short_description": "",
+      "final_price": 3999
+    },
+    {
+      "name": "The 7th Guest Remake",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4491360/ba4e68cf5d709de4d3c4971850548d66321c6110/header.jpg?t=1780559355",
+      "url": "https://store.steampowered.com/app/4491360/",
+      "short_description": "",
+      "final_price": 1699
+    },
+    {
+      "name": "Cream Pie",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113240/e96903fa8e36b4da51bedfb0b1784e2c567963d5/header.jpg?t=1780552717",
+      "url": "https://store.steampowered.com/app/4113240/",
+      "short_description": "",
+      "final_price": 199
+    },
+    {
+      "name": "Factory",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4631250/a74e136084de2c58a325eb9cb440f0f7ebf6808b/header.jpg?t=1780552515",
+      "url": "https://store.steampowered.com/app/4631250/",
+      "short_description": "",
+      "final_price": 84
+    },
+    {
+      "name": "Snowlike",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2519710/7ffd80f1ed803d9ce97bb495f8d8ee376a7733d4/header.jpg?t=1780549998",
+      "url": "https://store.steampowered.com/app/2519710/",
+      "short_description": "",
+      "final_price": 559
+    },
+    {
+      "name": "An Automaton's Journey",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4184020/8886c1712486f17386087813d33e9b0d212f78ba/header.jpg?t=1780544973",
+      "url": "https://store.steampowered.com/app/4184020/",
+      "short_description": "",
+      "final_price": 719
+    },
+    {
+      "name": "Unforgettable Love",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511140/a9c095f938d24f6612e9078305ab8dc0d2848f69/header.jpg?t=1780559826",
+      "url": "https://store.steampowered.com/app/4511140/",
       "short_description": "",
       "final_price": 1439
     },
     {
-      "name": "Divine Descent: Chu-Han",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719050/46cb7aed766fc573cae31240f2dedf96a619e3df/header.jpg?t=1780480069",
-      "url": "https://store.steampowered.com/app/4719050/",
+      "name": "Pure Heat",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3470050/header.jpg?t=1780533139",
+      "url": "https://store.steampowered.com/app/3470050/",
       "short_description": "",
-      "final_price": 1900
+      "final_price": 2999
     },
     {
-      "name": "Pawful Dice",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4072320/d8f077ecb0213dfc15bca1598b6181a47faa55fa/header.jpg?t=1780477456",
-      "url": "https://store.steampowered.com/app/4072320/",
-      "short_description": "",
-      "final_price": 4291
-    },
-    {
-      "name": "Dead Engine",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234100/9e3dc97d18cd3c4722c17716696014162224bdb6/header.jpg?t=1780477121",
-      "url": "https://store.steampowered.com/app/3234100/",
-      "short_description": "",
-      "final_price": 1917
-    },
-    {
-      "name": "Pull Out! Spotted Garden Eels",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650380/65fa998fa4010365a8485829d1be4c33818d2f2d/header.jpg?t=1780471051",
-      "url": "https://store.steampowered.com/app/4650380/",
-      "short_description": "",
-      "final_price": 967
-    },
-    {
-      "name": "Harmonic Drive",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4709930/64b2bd2dd1d9cd6a0b9a3f7a7a2392e83861edea/header.jpg?t=1780470657",
-      "url": "https://store.steampowered.com/app/4709930/",
-      "short_description": "",
-      "final_price": 1211
-    },
-    {
-      "name": "Hidden Legends",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4711870/dc662b40b6ac60040b94c6f4571359ef01e0c487/header.jpg?t=1780470845",
-      "url": "https://store.steampowered.com/app/4711870/",
-      "short_description": "",
-      "final_price": 1425
-    },
-    {
-      "name": "Into The Deep",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4612780/8b0835c4c4bcca79a64111a48c78a3022ddc1b79/header.jpg?t=1780470340",
-      "url": "https://store.steampowered.com/app/4612780/",
+      "name": "Dig You Fools",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706790/09ca0d587d52177801fe2c18880537175b46b1a1/header.jpg?t=1780526605",
+      "url": "https://store.steampowered.com/app/4706790/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "WARNO - Nemesis #7 - State of Emergency",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4579490/2df4a9786f098e12960116ad2a951a87b0023288/header.jpg?t=1780469919",
-      "url": "https://store.steampowered.com/app/4579490/",
-      "short_description": "",
-      "final_price": 1900
-    },
-    {
-      "name": "Learn-E",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4287590/08b10e03a5793288461097ccc10cfbde301eae6a/header.jpg?t=1780467159",
-      "url": "https://store.steampowered.com/app/4287590/",
+      "name": "Earth Forge",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539110/68a2e59ea7c2e68ccf5b17c0b0763d22fa87d056/header.jpg?t=1780524823",
+      "url": "https://store.steampowered.com/app/4539110/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Bean There, Jumped That",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698230/522a500e4e91392b550d49d17a46eb7f9eb0bd95/header.jpg?t=1780466230",
-      "url": "https://store.steampowered.com/app/4698230/",
+      "name": "Laika Space Adventure",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504680/2d9cda2c8f0b7164f4be4c9b3d9b1ad340b0e19a/header.jpg?t=1780522777",
+      "url": "https://store.steampowered.com/app/4504680/",
       "short_description": "",
-      "final_price": 1425
-    },
-    {
-      "name": "Comedian In The Big City",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213630/24c5e17a6825f6ba105e2623e717062513ed1aa1/header.jpg?t=1780464260",
-      "url": "https://store.steampowered.com/app/4213630/",
-      "short_description": "",
-      "final_price": 0
+      "final_price": 599
     }
   ]
 }
