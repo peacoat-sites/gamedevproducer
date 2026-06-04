@@ -3,7 +3,7 @@ title: "How To Run A Game Development Retrospective"
 date: 2026-05-26T15:52:35.566788+00:00
 draft: false
 description: "Learn how to run a game development retrospective that boosts team performance, uncovers key lessons, and helps your studio ship better games faster."
-image: "https://images.pexels.com/photos/7915273/pexels-photo-7915273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33879866/pexels-photo-33879866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["game", "development", "retrospective"]
 author: "Alex Reeves"

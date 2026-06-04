@@ -3,7 +3,7 @@ title: "Showrunner Model For Live Service Game Production"
 date: 2026-05-26T06:07:59.621512+00:00
 draft: false
 description: "Discover how the showrunner model transforms live service game production, streamlining creative leadership, content delivery, and long-term player engagement s"
-image: "https://images.pexels.com/photos/5380660/pexels-photo-5380660.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/10443203/pexels-photo-10443203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["showrunner", "model", "live", "service", "game"]
 author: "Dana Hargrove"

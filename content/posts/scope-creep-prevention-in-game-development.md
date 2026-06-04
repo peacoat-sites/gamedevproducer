@@ -3,7 +3,7 @@ title: "Scope Creep Prevention In Game Development"
 date: 2026-05-21T19:57:14.185998+00:00
 draft: false
 description: "Learn proven strategies to prevent scope creep in game development, keep projects on track, meet deadlines, and deliver polished games without budget overruns."
-image: "https://images.pexels.com/photos/7915273/pexels-photo-7915273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30965500/pexels-photo-30965500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["scope", "creep", "prevention", "game", "development"]
 author: "Alex Reeves"
