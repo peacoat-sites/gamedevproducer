@@ -1,13 +1,7 @@
 {
-  "updated": "2026-06-05",
+  "updated": "2026-06-06",
   "count": 25,
   "items": [
-    {
-      "source": "Game Developer",
-      "title": "PlayerUnknown Productions is laying off staff and halting development on Go Wayback",
-      "url": "https://www.gamedeveloper.com/business/playerunknown-productions-is-laying-off-staff-and-halting-development",
-      "date": "Wed, 03 Ju"
-    },
     {
       "source": "Game Developer",
       "title": "Nintendo to debut a Switch 2 model with replaceable batteries in the EU",
@@ -27,100 +21,94 @@
       "date": "Thu, 04 Ju"
     },
     {
-      "source": "Kotaku",
-      "title": "Valve Confirms Steam Machine Will Ship This Summer",
-      "url": "https://kotaku.com/valve-confirms-steam-machine-will-ship-this-summer-2000702624",
-      "date": "Thu, 04 Ju"
+      "source": "IGN",
+      "title": "Final Fantasy 7 Revelation Director Confirms New Voice Actor for Sephiroth",
+      "url": "https://www.ign.com/articles/final-fantasy-7-revelation-director-confirms-new-voice-actor-for-sephiroth",
+      "date": "Sat, 6 Jun"
+    },
+    {
+      "source": "IGN",
+      "title": "Fortnite Live Event Stuns Fans as The Rock's Fate Is Revealed and Ben Starr's Character Is Unmasked in Shock Twist",
+      "url": "https://www.ign.com/articles/fortnite-live-event-stuns-fans-as-the-rocks-fate-is-revealed-and-ben-starrs-character-is-unmasked-in-shock-twist",
+      "date": "Sat, 6 Jun"
+    },
+    {
+      "source": "IGN",
+      "title": "God of War Laufey Director 'Understands' Skepticism Following Reveal, but Hopes Fans Give It a Chance",
+      "url": "https://www.ign.com/articles/god-of-war-laufey-director-understands-skepticism-following-reveal-but-hopes-fans-give-it-a-chance",
+      "date": "Sat, 6 Jun"
+    },
+    {
+      "source": "IGN",
+      "title": "007 First Light Reveals Road Map; Story DLC, New Game+, and More Coming Soon",
+      "url": "https://www.ign.com/articles/007-first-light-reveals-road-map-story-dlc-new-game-and-more-coming-soon",
+      "date": "Sat, 6 Jun"
+    },
+    {
+      "source": "IGN",
+      "title": "Telltale CEO Explains Why The Wolf Among Us 2 Has Taken So Long, And What Happened With That Split With Dispatch Maker Ad Hoc",
+      "url": "https://www.ign.com/articles/telltale-ceo-explains-why-the-wolf-among-us-2-has-taken-so-long-and-what-happened-with-that-split-with-dispatch-maker-ad-hoc",
+      "date": "Sat, 6 Jun"
     },
     {
       "source": "Kotaku",
-      "title": "The Internet Is Convinced Guy Fieri Has Never Swallowed Food On Camera",
-      "url": "https://kotaku.com/the-internet-is-convinced-guy-fieri-has-never-swallowed-food-on-camera-2000702608",
-      "date": "Thu, 04 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "I Wish Big Corporations Would Leave The Lord Of The Rings Alone Already (They Won\u2019t)",
-      "url": "https://kotaku.com/amazon-embracer-leave-the-lord-of-the-rings-alone-2000702588",
-      "date": "Thu, 04 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Police Force Involved In Lego Investigation \u2018Hacked,\u2019 YouTuber Claims, As New Footage Is Released",
-      "url": "https://kotaku.com/reckless-ben-lego-star-wars-bricks-minifigs-mormon-mafia-youtube-2000702473",
-      "date": "Thu, 04 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "As Another Game Delays An Xbox Port Due To Series S Memory Issues, Some Think Microsoft Should Change Its Parity Rule",
-      "url": "https://kotaku.com/as-another-game-delays-an-xbox-port-due-to-series-s-memory-issues-some-think-microsoft-should-change-its-parity-rule-2000702496",
-      "date": "Thu, 04 Ju"
+      "title": "Fans Are Sad And Confused After Discovering Final Fantasy 7 Revelation Will Change The Actor Who Plays Sephiroth",
+      "url": "https://kotaku.com/fans-are-sad-and-confused-after-discovering-final-fantasy-7-revelation-will-change-the-actor-who-plays-sephiroth-2000703224",
+      "date": "Sat, 06 Ju"
     },
     {
       "source": "Polygon",
-      "title": "What time does Summer Game Fest start and how to watch SGF 2026?",
-      "url": "https://www.polygon.com/summer-game-fest-2026-start-time-what-to-expect-sgf/",
-      "date": "Thu, 04 Ju"
+      "title": "Magic just brought back its deadliest mechanic and put it in the command zone",
+      "url": "https://www.polygon.com/magic-poison-counters-marvel/",
+      "date": "Sat, 06 Ju"
     },
     {
       "source": "Polygon",
-      "title": "Does Masters of the Universe have a post-credits scene? Director explains what it means for a sequel",
-      "url": "https://www.polygon.com/masters-of-the-universe-post-credits-scene-sequel/",
-      "date": "Thu, 04 Ju"
+      "title": "Critical Role Campaign 4 just proved that performance trumps dice rolls",
+      "url": "https://www.polygon.com/critical-role-brennan-lee-mulligan-campaign-4/",
+      "date": "Sat, 06 Ju"
     },
     {
       "source": "Polygon",
-      "title": "All chaos cube locations in Fortnite Chapter 7 Season 2",
-      "url": "https://www.polygon.com/fortnite-chapter-7-season-2-chaos-cube-locations-dark-voyager-path-all/",
-      "date": "Thu, 04 Ju"
+      "title": "Hugh Jackman\u2019s new Logan replacement officially releases in 2 weeks",
+      "url": "https://www.polygon.com/hugh-jackman-death-of-robin-hood-movies-like-logan/",
+      "date": "Sat, 06 Ju"
     },
     {
       "source": "Polygon",
-      "title": "Where to find Edogawa Baseball Stadium in Forza Horizon 6",
-      "url": "https://www.polygon.com/forza-horizon-6-fh6-edogawa-baseball-stadium-location-where-to-find/",
-      "date": "Thu, 04 Ju"
+      "title": "Final Fantasy 7 Revelation trailer hints that a happy ending isn't off the table",
+      "url": "https://www.polygon.com/final-fantasy-7-revelation-title-meaning/",
+      "date": "Sat, 06 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "Subnautica 2 studio \"hard at work\" on new updates as it shares more details on the features its 4 million players can expect next",
-      "url": "https://www.eurogamer.net/subnautica-2-developer-video-next-updates",
-      "date": "Thu, 04 Ju"
+      "title": "Yooka-Laylee is back in a SNES-style kart racer from some of the team behind Diddy Kong Racing",
+      "url": "https://www.eurogamer.net/super-yooka-laylee-kart-announced-playtonic",
+      "date": "Sat, 06 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "Amazon will publish whatever 007 First Light sequels there may be, as it muscles in on IO Interactive's operation as new owner of James Bond",
-      "url": "https://www.eurogamer.net/james-bond-007-first-light-ioi-amazon",
-      "date": "Thu, 04 Ju"
+      "title": "What we've been playing - \"Have you ever downloaded a game on Steam just to boot it up and delete it five minutes later?\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-deleted-steam",
+      "date": "Sat, 06 Ju"
     },
     {
-      "source": "IGN",
-      "title": "Subnautica 2 Dev Reveals What to Expect From Upcoming Early Access 1.1 Update",
-      "url": "https://www.ign.com/articles/subnautica-2-dev-reveals-what-to-expect-from-upcoming-early-access-11-update",
-      "date": "Fri, 5 Jun"
+      "source": "Eurogamer",
+      "title": "IO Interactive's James Bond game 007 First Light sells 2.7 million copies in its first week, as dev reiterates free Year One content",
+      "url": "https://www.eurogamer.net/io-interactives-james-bond-game-007-first-light-sells-27-million-copies-in-its-first-week-as-dev-reiterates-free-year-one-content",
+      "date": "Sat, 06 Ju"
     },
     {
-      "source": "IGN",
-      "title": "Cyberpunk TCG Already Faces Significant Rule Changes After Massive $28M Kickstarter Campaign",
-      "url": "https://www.ign.com/articles/cyberpunk-tcg-rule-changes-kickstarter",
-      "date": "Fri, 5 Jun"
+      "source": "Eurogamer",
+      "title": "Day of the Devs 2026 - everything announced in the big Summer Game Fest indie showcase",
+      "url": "https://www.eurogamer.net/day-of-the-devs-2026-everything-announced-summer-game-fest-indie-showcase",
+      "date": "Sat, 06 Ju"
     },
     {
-      "source": "IGN",
-      "title": "Crimson Desert Has a Pinball Minigame Now Because of Course It Does",
-      "url": "https://www.ign.com/articles/crimson-desert-has-a-pinball-minigame-now-because-of-course-it-does",
-      "date": "Fri, 5 Jun"
-    },
-    {
-      "source": "IGN",
-      "title": "LEGO Reseller Bricks and Minifigs Will Return 'Stolen' Star Wars Sets to Collector; Parting Ways With Controversial Management",
-      "url": "https://www.ign.com/articles/lego-reseller-bricks-and-minifigs-will-return-stolen-star-wars-sets-to-collector-parting-ways-with-controversial-management",
-      "date": "Fri, 5 Jun"
-    },
-    {
-      "source": "IGN",
-      "title": "Cape Fear Episodes 1 & 2 Review",
-      "url": "https://www.ign.com/articles/apple-tv-cape-fear-episode-1-2-review",
-      "date": "Fri, 5 Jun"
+      "source": "Game Developer",
+      "title": "Paramount unveils new 'unified' Paramount Games Studio",
+      "url": "https://www.gamedeveloper.com/business/paramount-games-studio-breaks-cover",
+      "date": "Fri, 05 Ju"
     },
     {
       "source": "Game Developer",
@@ -129,27 +117,39 @@
       "date": "Fri, 05 Ju"
     },
     {
+      "source": "Kotaku",
+      "title": "Everything We Saw At Summer Game Fest 2026",
+      "url": "https://kotaku.com/everything-we-saw-at-summer-game-fest-2026-2000703088",
+      "date": "Fri, 05 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Stellar Blade Is Back With A New Game But The Same Jiggle",
+      "url": "https://kotaku.com/stellar-blade-is-back-with-a-new-game-but-the-same-jiggle-2000703186",
+      "date": "Fri, 05 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Final Fantasy 7 Remake: Part 3 Is Officially Titled Revelation, Coming Next Spring",
+      "url": "https://kotaku.com/final-fantasy-7-remake-part-3-is-officially-titled-revelation-2000703021",
+      "date": "Fri, 05 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Wolf Among Us 2 Is Actually Coming Out Next Year, Plus A Remaster Of The First Game Arrives Soon",
+      "url": "https://kotaku.com/wolf-among-us-2-is-actually-coming-out-next-year-plus-a-remaster-of-the-first-game-arrives-soon-2000703184",
+      "date": "Fri, 05 Ju"
+    },
+    {
       "source": "Polygon",
-      "title": "The Nintendo Switch 2 price seemed too expensive until it really didn't",
-      "url": "https://www.polygon.com/nintendo-switch-2-price-analysis-one-year-on/",
+      "title": "Stellar Blade Blood Rain and its new protagonist revealed at Summer Game Fest",
+      "url": "https://www.polygon.com/stellar-blade-blood-rain-announced/",
       "date": "Fri, 05 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "Yet another new Crimson Desert update is here, and this one adding Pinball, because of course",
-      "url": "https://www.eurogamer.net/yet-another-new-crimson-desert-update-is-here-and-this-one-adding-pinball-because-of-course",
-      "date": "Fri, 05 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "PlayStation 5 hardware sales dropped dramatically in the UK last month vs Xbox",
-      "url": "https://www.eurogamer.net/playstation-5-uk-sales-may-2026-big-drop",
-      "date": "Fri, 05 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Steam Machine and Steam Frame both shipping \"this summer\", Valve affirms",
-      "url": "https://www.eurogamer.net/steam-machine-frame-summer-2026-verified",
+      "title": "Aion 2's global release date announced at Summer Game Fest",
+      "url": "https://www.eurogamer.net/aion-2-global-release-date-announced-at-summer-game-fest",
       "date": "Fri, 05 Ju"
     }
   ]
