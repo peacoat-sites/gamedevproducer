@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-07",
+  "updated": "2026-06-08",
   "items": [
     {
-      "name": "BCKSPCE",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650350/434fa912b4612dcaec298ee65ad82227d17923f1/header.jpg?t=1780790503",
-      "url": "https://store.steampowered.com/app/4650350/",
-      "short_description": "",
-      "final_price": 238
-    },
-    {
-      "name": "Electro Havoc",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2980110/fb80de00738745864d6dc121996628a65a11962b/header.jpg?t=1780788257",
-      "url": "https://store.steampowered.com/app/2980110/",
-      "short_description": "",
-      "final_price": 529
-    },
-    {
-      "name": "67 Minutes in Heaven",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673140/20e63ad7dcb0b81c6b99ce27484c7e7420a502ca/header.jpg?t=1780786413",
-      "url": "https://store.steampowered.com/app/4673140/",
+      "name": "Damn Exam",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653340/73ec405702d797381eebddab680b38f0cf2abd98/header.jpg?t=1780908434",
+      "url": "https://store.steampowered.com/app/4653340/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Trading Card Inspector",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3723750/e9673f48b1ac547878c4baa15fcc96adb6fa8d63/header_alt_assets_0.jpg?t=1780785153",
-      "url": "https://store.steampowered.com/app/3723750/",
+      "name": "Tellyport",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656760/b9a1c5b23fbe08b5b1905026530e95e047660bdb/header.jpg?t=1780907574",
+      "url": "https://store.steampowered.com/app/4656760/",
       "short_description": "",
-      "final_price": 440
+      "final_price": 0
     },
     {
-      "name": "Nowhere To Go",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001360/521e120f80de31298f82a7636bb154dc49b3f92c/header.jpg?t=1780780412",
-      "url": "https://store.steampowered.com/app/4001360/",
+      "name": "Rollie",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4752130/e218d91dda0fc6cc895294680b4fbf9ad4237c4f/header.jpg?t=1780906736",
+      "url": "https://store.steampowered.com/app/4752130/",
       "short_description": "",
-      "final_price": 459
+      "final_price": 139
     },
     {
-      "name": "Paper Cannon",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3236230/header.jpg?t=1780779950",
-      "url": "https://store.steampowered.com/app/3236230/",
+      "name": "Warring Clans",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4760640/33b52855837fc7e2b0cafbaa5c38d5ad58226791/header.jpg?t=1780903337",
+      "url": "https://store.steampowered.com/app/4760640/",
       "short_description": "",
-      "final_price": 169
+      "final_price": 0
     },
     {
-      "name": "Hanta Hearts",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720650/5f5be5a794f42583c6b579101d75ce5c5e4684c5/header.jpg?t=1780771314",
-      "url": "https://store.steampowered.com/app/4720650/",
+      "name": "One Degree Off",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4504560/7d5a3fcf04473d1ada36b5f6913eac3c6eee2916/header.jpg?t=1780906098",
+      "url": "https://store.steampowered.com/app/4504560/",
       "short_description": "",
-      "final_price": 377
+      "final_price": 399
     },
     {
-      "name": "Anomalous zone",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4696570/e4d133a45bea6267a3be17c4f6293f66dc997986/header.jpg?t=1780767849",
-      "url": "https://store.steampowered.com/app/4696570/",
+      "name": "Decks of Dexterity",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968530/header.jpg?t=1780902036",
+      "url": "https://store.steampowered.com/app/968530/",
       "short_description": "",
-      "final_price": 225
+      "final_price": 1049
     },
     {
-      "name": "nurny battles HD",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4267330/b11d0b791020b55d169c16174833ba7a03f633d5/header.jpg?t=1780763121",
-      "url": "https://store.steampowered.com/app/4267330/",
+      "name": "LaryWaves Studio",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657410/55acb97dbd1e0edc259c9d5a2c2184ae9c1236a3/header.jpg?t=1780895648",
+      "url": "https://store.steampowered.com/app/4657410/",
       "short_description": "",
-      "final_price": 214
+      "final_price": 449
     },
     {
-      "name": "Your Own Cozy Motel",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4668390/4c06c3f20ac3247e14fd8f1baa74c1ad80035d0d/header.jpg?t=1780760509",
-      "url": "https://store.steampowered.com/app/4668390/",
+      "name": "Duppy Detective Tashia",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1958800/da5632ee36dbfbc702a4cd0f8bb9d62683a146b7/header.jpg?t=1780894733",
+      "url": "https://store.steampowered.com/app/1958800/",
       "short_description": "",
-      "final_price": 1237
+      "final_price": 719
     },
     {
-      "name": "Giant Waifu Wash Simulator \ud83d\udca6",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719730/30386679d39aec5cd1dc0d7c2e714ce8a12d50ca/header.jpg?t=1780824327",
-      "url": "https://store.steampowered.com/app/4719730/",
+      "name": "SPACEFIGHTER - The Bullet Hell",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451950/d61ed01fdb0c8df083bdc41f423c224152d039c8/header.jpg?t=1780892323",
+      "url": "https://store.steampowered.com/app/4451950/",
       "short_description": "",
-      "final_price": 880
+      "final_price": 239
     },
     {
-      "name": "Journey Express",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2127350/header.jpg?t=1780759645",
-      "url": "https://store.steampowered.com/app/2127350/",
+      "name": "Realm of Balls",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566870/bccc700fe2410db07bc5b9617b84a42469fc1b68/header.jpg?t=1780891437",
+      "url": "https://store.steampowered.com/app/4566870/",
       "short_description": "",
-      "final_price": 499
+      "final_price": 209
+    },
+    {
+      "name": "\u960e\u7f57\u7d22\u547d",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4060150/1fdfea0d70b4c66ab8f1b22ce5c87f5f8550e529/header.jpg?t=1780891085",
+      "url": "https://store.steampowered.com/app/4060150/",
+      "short_description": "",
+      "final_price": 374
+    },
+    {
+      "name": "\u5927\u822a\u6d77\u5f81\u9014",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755840/06e093fd7e38980342ded6b9182a5e8db22fd16e/header.jpg?t=1780888155",
+      "url": "https://store.steampowered.com/app/1755840/",
+      "short_description": "",
+      "final_price": 0
     }
   ]
 }
