@@ -3,8 +3,6 @@ title: "Crunch Aftermath How To Rebuild Team Trust"
 date: 2026-05-26T22:06:48.084678+00:00
 draft: false
 description: "After a brutal crunch, your team is burned out and updating resumes. Here is how to rebuild trust, repair morale, and prevent the next death march."
-
-Learn proven strategies to rebuild team trust after a brutal crunch period and restore morale, c"
 image: "https://images.pexels.com/photos/7849517/pexels-photo-7849517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["crunch", "aftermath", "rebuild", "team", "trust"]
