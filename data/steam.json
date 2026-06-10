@@ -1,87 +1,87 @@
 {
-  "updated": "2026-06-09",
+  "updated": "2026-06-10",
   "items": [
     {
-      "name": "Throne of Desire",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4496710/cdb8d45c2b8d6ae6d38904a1e2fba0bddd099c4d/header.jpg?t=1780995178",
-      "url": "https://store.steampowered.com/app/4496710/",
+      "name": "Lastgirl Survivor",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353510/2ac2e66e7fd3fd2ec4090749347f8a80702fcbfa/header.jpg?t=1781082599",
+      "url": "https://store.steampowered.com/app/4353510/",
+      "short_description": "",
+      "final_price": 157000
+    },
+    {
+      "name": "Come in",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701370/56c48e32db2e2f169f747800b5af3925b8f3c483/header.jpg?t=1781080846",
+      "url": "https://store.steampowered.com/app/4701370/",
+      "short_description": "",
+      "final_price": 396000
+    },
+    {
+      "name": "ABOVE",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4318420/40b07d7f10f9bd68d4caff4adaa9270309be5ce9/header.jpg?t=1781076929",
+      "url": "https://store.steampowered.com/app/4318420/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Nova Swarm",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4765070/2ce712060158c577b184ce2907cad14ece8892d2/header.jpg?t=1780992853",
-      "url": "https://store.steampowered.com/app/4765070/",
+      "name": "Hold Your King",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3564340/73845ec77cbc1a99efcfd68939599879a4b946ab/header.jpg?t=1781083801",
+      "url": "https://store.steampowered.com/app/3564340/",
       "short_description": "",
-      "final_price": 359
+      "final_price": 560000
     },
     {
-      "name": "My Summer Love: Memories",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3794600/2b06a3913c988a589cdbf6a324d4da03371652fb/header.jpg?t=1780992847",
-      "url": "https://store.steampowered.com/app/3794600/",
+      "name": "Shadow Among Nove",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651510/f225989117e8fd988536f3bafd1cf475b7b99a79/header.jpg?t=1781074962",
+      "url": "https://store.steampowered.com/app/2651510/",
       "short_description": "",
-      "final_price": 899
+      "final_price": 589000
     },
     {
-      "name": "Echoes of Sin: Confusion",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4426280/bc589c5ab724ae1c1a7b2d554c3c1a63b10b1255/header.jpg?t=1780991455",
-      "url": "https://store.steampowered.com/app/4426280/",
+      "name": "MECCHA CHAMELEON",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781061285",
+      "url": "https://store.steampowered.com/app/4704690/",
       "short_description": "",
-      "final_price": 799
+      "final_price": 524000
     },
     {
-      "name": "Haru : Ritual of Sacrifice",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4762670/6c6b0c3770d765c1153bff27cfc80e861c5ba9fb/header.jpg?t=1780989068",
-      "url": "https://store.steampowered.com/app/4762670/",
+      "name": "Re:Bloom \u82b1\u7cbe\u970a\u306e\u307d\u304b\u307d\u304b\u6e29\u6cc9\u90f7",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4658670/f1e8d7b7cf0fae7bb81bc79f018656d95b5b0089/header.jpg?t=1781055497",
+      "url": "https://store.steampowered.com/app/4658670/",
       "short_description": "",
-      "final_price": 199
+      "final_price": 437000
     },
     {
-      "name": "Foundation Typer",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703670/087913b3e85564c15a30a49fc8df7f8eb46b5282/header.jpg?t=1780988669",
-      "url": "https://store.steampowered.com/app/4703670/",
+      "name": "Idlemoor",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724050/c681a70825716a56ab7166b4b8e8d0bdd6c3eb71/header.jpg?t=1781057352",
+      "url": "https://store.steampowered.com/app/4724050/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Until the Abyss",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651450/85e32a5dc42a642fc6d9b9eaf1bdc90f9355c2f2/header.jpg?t=1780988486",
-      "url": "https://store.steampowered.com/app/2651450/",
+      "name": "Restoration: Chronicles of Survival",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4347480/30245d6766d3f08d547ddd203e0a3ef47ae20752/header.jpg?t=1781044569",
+      "url": "https://store.steampowered.com/app/4347480/",
       "short_description": "",
-      "final_price": 539
+      "final_price": 204000
     },
     {
-      "name": "Road to Empress \u2161",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/a994e29533755a5222da77b7302a486eda38d105/header.jpg?t=1780997401",
-      "url": "https://store.steampowered.com/app/4148240/",
+      "name": "RETURN Machine.Love()",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761170/54d3d049d1415df8a455620f5221e8790addcb78/header.jpg?t=1781042391",
+      "url": "https://store.steampowered.com/app/4761170/",
       "short_description": "",
-      "final_price": 1440
+      "final_price": 0
     },
     {
-      "name": "Manga Archive Translator",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710770/bc46dbf931ead475a4a085f7addecc5d67af2c2c/header.jpg?t=1780970980",
-      "url": "https://store.steampowered.com/app/4710770/",
+      "name": "Crownseeker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4632470/5499350a713cade7f53ceddc52fa65661d0c3f39/header.jpg?t=1781042477",
+      "url": "https://store.steampowered.com/app/4632470/",
       "short_description": "",
-      "final_price": 449
+      "final_price": 760000
     },
     {
-      "name": "The Echoes",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4708080/3fd7ee35746e4343391d56ea7110239ccf6b44f9/header.jpg?t=1780970418",
-      "url": "https://store.steampowered.com/app/4708080/",
-      "short_description": "",
-      "final_price": 809
-    },
-    {
-      "name": "Xiaye's Doors of Magic: Lightchaser",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3574100/efc83ea2ba082cb167dd9a5af52a272937a87bad/header.jpg?t=1780985552",
-      "url": "https://store.steampowered.com/app/3574100/",
-      "short_description": "",
-      "final_price": 899
-    },
-    {
-      "name": "Player's New World",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3705350/aead9595f0c5e13211da7e7b38063925c0fa66a9/header.jpg?t=1780970251",
-      "url": "https://store.steampowered.com/app/3705350/",
+      "name": "Chasing Whiskers",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4515430/63f5dcdd8528cc32ac3728e6d1ad19adf3cb6f1b/header.jpg?t=1781030379",
+      "url": "https://store.steampowered.com/app/4515430/",
       "short_description": "",
       "final_price": 0
     }
