@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-11",
+  "updated": "2026-06-12",
   "items": [
     {
-      "name": "Imago Season",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4207140/15ed0cfce5f43ae0329c15f14e85e5bb082d2996/header.jpg?t=1781172208",
-      "url": "https://store.steampowered.com/app/4207140/",
+      "name": "Sakura Hime 6",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3559840/5ea28dc64b9487402887b3ea81ea5de5b1a3a98e/header.jpg?t=1781257846",
+      "url": "https://store.steampowered.com/app/3559840/",
       "short_description": "",
-      "final_price": 539
+      "final_price": 290
     },
     {
-      "name": "VHS // Anima 021",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731010/b6fe3fbc1d68c9de1d51cc9fe9cf0c4f5dcbcb26/header.jpg?t=1781172151",
-      "url": "https://store.steampowered.com/app/4731010/",
+      "name": "Tidal Strings",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732870/18929d2592249b4b1d19f0ab2407d60aa97d2e78/header.jpg?t=1781257576",
+      "url": "https://store.steampowered.com/app/4732870/",
+      "short_description": "",
+      "final_price": 65
+    },
+    {
+      "name": "Cradle of the Dark Brood",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745450/0732e966a935732fb04600180236a6a7384dfbde/header.jpg?t=1781256672",
+      "url": "https://store.steampowered.com/app/4745450/",
+      "short_description": "",
+      "final_price": 415
+    },
+    {
+      "name": "Manhandled With Care",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362860/6b6baae23be502ae76122f93f79091f42334e0ad/header.jpg?t=1781254907",
+      "url": "https://store.steampowered.com/app/4362860/",
+      "short_description": "",
+      "final_price": 179
+    },
+    {
+      "name": "Clown Camp",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765700/63a8ee18c0db32171c9116810bc6fb307adb5fdb/header.jpg?t=1781254899",
+      "url": "https://store.steampowered.com/app/3765700/",
+      "short_description": "",
+      "final_price": 709
+    },
+    {
+      "name": "DON'T STOP SMILING",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229600/02f6b9f542d278aca0f4bff989302939ed59925c/header.jpg?t=1781253001",
+      "url": "https://store.steampowered.com/app/4229600/",
+      "short_description": "",
+      "final_price": 373
+    },
+    {
+      "name": "Trust Me",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701420/1cd94fb15b6da582ade2b29dcb1c8836268c07dc/header.jpg?t=1781251167",
+      "url": "https://store.steampowered.com/app/4701420/",
+      "short_description": "",
+      "final_price": 255
+    },
+    {
+      "name": "Idle Asteroids",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687700/385eb6b879e3aabd69f43f4927edf54a7f0456c0/header.jpg?t=1781248910",
+      "url": "https://store.steampowered.com/app/4687700/",
+      "short_description": "",
+      "final_price": 352
+    },
+    {
+      "name": "RR",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4758120/021753ead4d247a3ca6f052a40550a8a48034c9e/header.jpg?t=1781248765",
+      "url": "https://store.steampowered.com/app/4758120/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Terra Dice",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766680/72a7aa6b5d497f8161b4d46ee420b77d3ddbd283/header.jpg?t=1781171032",
-      "url": "https://store.steampowered.com/app/4766680/",
+      "name": "UNKNOWN CONQUEST",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288830/bd67a57bce8e62c7cc4bce60d5fa11538f7e902d/header.jpg?t=1781247655",
+      "url": "https://store.steampowered.com/app/4288830/",
       "short_description": "",
-      "final_price": 90
+      "final_price": 499
     },
     {
-      "name": "Ray of Life",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2279130/514ea0a5b40b7e2844d1661cbde99b5b11ebd1f9/header.jpg?t=1781162810",
-      "url": "https://store.steampowered.com/app/2279130/",
+      "name": "Match! The 12 CZ Wars",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/43d619d2233234a3e286e5ca0c47876d46e4331d/header.jpg?t=1781247627",
+      "url": "https://store.steampowered.com/app/3400030/",
+      "short_description": "",
+      "final_price": 492
+    },
+    {
+      "name": "R.E.G.O",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387480/8d401f8af7d746d5c05cc53c204dbd3deb390eb7/header.jpg?t=1781246556",
+      "url": "https://store.steampowered.com/app/4387480/",
       "short_description": "",
       "final_price": 0
-    },
-    {
-      "name": "D.O.T. Defence",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124850/1db052b099ea341228310ccb73d104bc560e0805/header_alt_assets_0.jpg?t=1781169415",
-      "url": "https://store.steampowered.com/app/3124850/",
-      "short_description": "",
-      "final_price": 520
-    },
-    {
-      "name": "\u5c11\u5973\u7ec8\u7aef",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4555380/8060052a673f4aa10a5b41e79ba7f306671b48aa/header.jpg?t=1781161237",
-      "url": "https://store.steampowered.com/app/4555380/",
-      "short_description": "",
-      "final_price": 104
-    },
-    {
-      "name": "Stall Tycoon: A Cozy English Word Game",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710590/e182a843cc91141ff334df59d7e6e6ec5c790a54/header.jpg?t=1781160660",
-      "url": "https://store.steampowered.com/app/4710590/",
-      "short_description": "",
-      "final_price": 296
-    },
-    {
-      "name": "Lost Castle 2",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/f6619cdbb283b34d8fc5bdd12472127a2efd0866/header.jpg?t=1781171074",
-      "url": "https://store.steampowered.com/app/2445690/",
-      "short_description": "",
-      "final_price": 650
-    },
-    {
-      "name": "Dreamstranded",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3326670/1791e9f0758da0c712bc2e292d5ecf4184054903/header.jpg?t=1781146513",
-      "url": "https://store.steampowered.com/app/3326670/",
-      "short_description": "",
-      "final_price": 602
-    },
-    {
-      "name": "Mousebusters",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2823200/8ece9b787fc03089b18f3230c43edba58014c749/header.jpg?t=1781146237",
-      "url": "https://store.steampowered.com/app/2823200/",
-      "short_description": "",
-      "final_price": 674
-    },
-    {
-      "name": "Doo 'N' Dash",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562100/c369de82d4a5aeff083b136c450bacb4fa49d84f/header.jpg?t=1781143239",
-      "url": "https://store.steampowered.com/app/4562100/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Billionaire MAX",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4677890/943ad9e99b9d8e9dba584914c9203023e31ef007/header.jpg?t=1781143204",
-      "url": "https://store.steampowered.com/app/4677890/",
-      "short_description": "",
-      "final_price": 575
     }
   ]
 }
