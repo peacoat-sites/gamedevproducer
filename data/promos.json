@@ -5,5 +5,11 @@
     "label": "Half-Price Amazon Prime for Ages 18–24",
     "blurb": "Get Amazon Prime at the student rate — plus Prime Gaming unlocks free PC games and in-game loot every month.",
     "cta": "Claim Half-Price Prime →"
+  },
+  "audible": {
+    "url": "https://www.amazon.com/hz/audible/mlp?tag=contentportfo-20",
+    "label": "Listen to industry books on Audible — free trial for new members",
+    "blurb": "From Masters of Doom to The Art of Game Design — Audible has the game dev reading list, all in audio. Perfect for long playtests, commutes, and crunch.",
+    "cta": "Try Audible Free →"
   }
 }
