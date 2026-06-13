@@ -1,0 +1,63 @@
+{
+  "updated": "2024",
+  "source": "U.S. Bureau of Labor Statistics OES 2024 + GDC Annual Salary Survey 2024",
+  "note": "U.S. median annual salary in USD. AAA studios and senior roles skew higher.",
+  "roles": [
+    {
+      "title": "Lead Programmer",
+      "icon": "💻",
+      "median": 128000,
+      "low": 85000,
+      "high": 185000,
+      "note": "Highly variable by platform and studio size"
+    },
+    {
+      "title": "Technical Artist",
+      "icon": "🎨",
+      "median": 95000,
+      "low": 65000,
+      "high": 142000,
+      "note": "Bridge between art and engineering"
+    },
+    {
+      "title": "Game Producer",
+      "icon": "🎬",
+      "median": 98000,
+      "low": 65000,
+      "high": 150000,
+      "note": "Broad range based on studio type"
+    },
+    {
+      "title": "Game Designer",
+      "icon": "🎮",
+      "median": 83000,
+      "low": 55000,
+      "high": 130000,
+      "note": "Includes level, systems, and narrative design"
+    },
+    {
+      "title": "Game Artist / Animator",
+      "icon": "🖌️",
+      "median": 72000,
+      "low": 45000,
+      "high": 110000,
+      "note": "3D generalists command higher rates"
+    },
+    {
+      "title": "Sound Designer",
+      "icon": "🎵",
+      "median": 68000,
+      "low": 42000,
+      "high": 105000,
+      "note": "Often freelance at smaller studios"
+    },
+    {
+      "title": "QA / Game Tester",
+      "icon": "🔍",
+      "median": 48000,
+      "low": 35000,
+      "high": 72000,
+      "note": "Common entry point into the industry"
+    }
+  ]
+}
