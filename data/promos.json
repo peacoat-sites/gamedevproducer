@@ -1,0 +1,10 @@
+{
+  "prime_young_adults": {
+    "url": "https://www.amazon.com/prime/primeforadults?tag=contentportfo-20",
+    "end_date": "2026-10-09",
+    "label": "Half-Price Amazon Prime for Ages 18–24",
+    "blurb": "Get Amazon Prime at the student rate — plus Prime Gaming unlocks free PC games and in-game loot every month.",
+    "cta": "Claim Half-Price Prime →",
+    "note": "Verify this URL in Associates SiteStripe / Creator Central → Promotions → Subscription Programs before going live. Bounty pays $30/signup."
+  }
+}
