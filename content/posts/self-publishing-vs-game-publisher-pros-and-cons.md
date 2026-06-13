@@ -3,7 +3,7 @@ title: "Self Publishing Vs Game Publisher Pros And Cons"
 date: 2026-06-13T10:42:26.687492+00:00
 draft: false
 description: "Discover the key pros and cons of self publishing vs game publishers to help you choose the best path for launching your board game or video game successfully."
-image: ""
+image: "https://images.pexels.com/photos/18848524/pexels-photo-18848524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["publishing"]
 tags: ["self", "publishing", "game", "publisher", "pros"]
 author: "Claire Novak"
