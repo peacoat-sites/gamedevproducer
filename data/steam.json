@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-12",
+  "updated": "2026-06-13",
   "items": [
     {
-      "name": "Sakura Hime 6",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3559840/5ea28dc64b9487402887b3ea81ea5de5b1a3a98e/header.jpg?t=1781257846",
-      "url": "https://store.steampowered.com/app/3559840/",
+      "name": "Tollway Tycoon",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3976220/8a2eae7c05b192488504ac54aa5d7b3a8183598f/header.jpg?t=1781332366",
+      "url": "https://store.steampowered.com/app/3976220/",
       "short_description": "",
-      "final_price": 290
+      "final_price": 489
     },
     {
-      "name": "Tidal Strings",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732870/18929d2592249b4b1d19f0ab2407d60aa97d2e78/header.jpg?t=1781257576",
-      "url": "https://store.steampowered.com/app/4732870/",
-      "short_description": "",
-      "final_price": 65
-    },
-    {
-      "name": "Cradle of the Dark Brood",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745450/0732e966a935732fb04600180236a6a7384dfbde/header.jpg?t=1781256672",
-      "url": "https://store.steampowered.com/app/4745450/",
-      "short_description": "",
-      "final_price": 415
-    },
-    {
-      "name": "Manhandled With Care",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4362860/6b6baae23be502ae76122f93f79091f42334e0ad/header.jpg?t=1781254907",
-      "url": "https://store.steampowered.com/app/4362860/",
-      "short_description": "",
-      "final_price": 179
-    },
-    {
-      "name": "Clown Camp",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765700/63a8ee18c0db32171c9116810bc6fb307adb5fdb/header.jpg?t=1781254899",
-      "url": "https://store.steampowered.com/app/3765700/",
-      "short_description": "",
-      "final_price": 709
-    },
-    {
-      "name": "DON'T STOP SMILING",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4229600/02f6b9f542d278aca0f4bff989302939ed59925c/header.jpg?t=1781253001",
-      "url": "https://store.steampowered.com/app/4229600/",
-      "short_description": "",
-      "final_price": 373
-    },
-    {
-      "name": "Trust Me",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4701420/1cd94fb15b6da582ade2b29dcb1c8836268c07dc/header.jpg?t=1781251167",
-      "url": "https://store.steampowered.com/app/4701420/",
-      "short_description": "",
-      "final_price": 255
-    },
-    {
-      "name": "Idle Asteroids",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4687700/385eb6b879e3aabd69f43f4927edf54a7f0456c0/header.jpg?t=1781248910",
-      "url": "https://store.steampowered.com/app/4687700/",
-      "short_description": "",
-      "final_price": 352
-    },
-    {
-      "name": "RR",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4758120/021753ead4d247a3ca6f052a40550a8a48034c9e/header.jpg?t=1781248765",
-      "url": "https://store.steampowered.com/app/4758120/",
+      "name": "Super Dark Deception - Chapter 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860900/0d55a9836a92f1c1deaf028d49b66bc4c17df218/header.jpg?t=1781327646",
+      "url": "https://store.steampowered.com/app/2860900/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "UNKNOWN CONQUEST",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4288830/bd67a57bce8e62c7cc4bce60d5fa11538f7e902d/header.jpg?t=1781247655",
-      "url": "https://store.steampowered.com/app/4288830/",
-      "short_description": "",
-      "final_price": 499
-    },
-    {
-      "name": "Match! The 12 CZ Wars",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400030/43d619d2233234a3e286e5ca0c47876d46e4331d/header.jpg?t=1781247627",
-      "url": "https://store.steampowered.com/app/3400030/",
-      "short_description": "",
-      "final_price": 492
-    },
-    {
-      "name": "R.E.G.O",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4387480/8d401f8af7d746d5c05cc53c204dbd3deb390eb7/header.jpg?t=1781246556",
-      "url": "https://store.steampowered.com/app/4387480/",
+      "name": "DAL'T-4",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4624670/93cabad4c4afdec644fe8f35fae112e5cf0873ac/header.jpg?t=1781325023",
+      "url": "https://store.steampowered.com/app/4624670/",
       "short_description": "",
       "final_price": 0
+    },
+    {
+      "name": "Hentai Tales: Secrets Glasses & Gyaru",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650610/3887572e5991d07da4885dabd62f907adaf408d4/header.jpg?t=1781323654",
+      "url": "https://store.steampowered.com/app/4650610/",
+      "short_description": "",
+      "final_price": 59
+    },
+    {
+      "name": "Silk Home: echoes of the forbidden",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682760/83233052690063e2d01475a3b91c62612639750d/header.jpg?t=1781323258",
+      "url": "https://store.steampowered.com/app/4682760/",
+      "short_description": "",
+      "final_price": 99
+    },
+    {
+      "name": "Reverse Dream of the Menasphere",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4398360/5f97608c0c77e99ab81aff178160ac932b69844f/header.jpg?t=1781323378",
+      "url": "https://store.steampowered.com/app/4398360/",
+      "short_description": "",
+      "final_price": 1039
+    },
+    {
+      "name": "Yandere Goth Boss 2: First Session",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4762210/acdffd6069f448eadbc0078f710ac7f8b10b143c/header.jpg?t=1781321038",
+      "url": "https://store.steampowered.com/app/4762210/",
+      "short_description": "",
+      "final_price": 99
+    },
+    {
+      "name": "Rina's Undercover Train Operation",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260530/a2c94b4fbb7b143c19c8610acc2221644eba5b2b/header.jpg?t=1781320510",
+      "url": "https://store.steampowered.com/app/4260530/",
+      "short_description": "",
+      "final_price": 1119
+    },
+    {
+      "name": "Folklore Reloaded",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935130/2276a6151980f49aa72c974b3ecdfbf4855f0c94/header.jpg?t=1781319628",
+      "url": "https://store.steampowered.com/app/3935130/",
+      "short_description": "",
+      "final_price": 159
+    },
+    {
+      "name": "Hentai Age Car",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776000/8573b1db0b5b13692699977142fbf7c46d3ccc89/header.jpg?t=1781314539",
+      "url": "https://store.steampowered.com/app/4776000/",
+      "short_description": "",
+      "final_price": 79
+    },
+    {
+      "name": "BitRoca",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4644600/30ea9a48f373a66d54bc20f84813a7e1eb005026/header.jpg?t=1781308528",
+      "url": "https://store.steampowered.com/app/4644600/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Hunk Battle Gems",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763730/f32c1c922735c812fd4162134551cfafa162b482/header.jpg?t=1781307907",
+      "url": "https://store.steampowered.com/app/4763730/",
+      "short_description": "",
+      "final_price": 899
     }
   ]
 }
