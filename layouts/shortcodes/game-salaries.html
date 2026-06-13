@@ -1,0 +1,40 @@
+{{ $data := site.Data.gamesalaries }}
+<div class="gs-wrap">
+<style>
+.gs-wrap{margin:2rem 0}
+.gs-wrap h2{font-size:1.35rem;font-weight:700;margin-bottom:.5rem}
+.gs-meta{font-size:.82rem;color:#64748b;margin-bottom:1rem}
+.gs-table{width:100%;border-collapse:collapse;font-size:.9rem}
+.gs-table th{background:#4338ca;color:#fff;padding:10px 14px;text-align:left;font-size:.75rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase}
+.gs-table td{padding:12px 14px;border-bottom:1px solid #e2e8f0;vertical-align:middle}
+.gs-table tr:nth-child(even) td{background:#f8f7ff}
+.gs-table tr:hover td{background:#f0edff}
+.gs-role{font-weight:600}
+.gs-median{font-weight:700;font-size:1rem;color:#4338ca}
+.gs-range{color:#64748b;font-size:.85rem}
+.gs-bar-wrap{height:8px;background:#e2e8f0;border-radius:4px;margin-top:4px;overflow:hidden;min-width:80px}
+.gs-bar{height:100%;background:linear-gradient(90deg,#818cf8,#4338ca);border-radius:4px}
+.gs-source{font-size:.75rem;color:#94a3b8;margin-top:.75rem}
+</style>
+<h2>Game Industry Salary Guide {{ now.Format "2006" }}</h2>
+<p class="gs-meta">Source: {{ $data.source }} &middot; {{ $data.note }}</p>
+<table class="gs-table">
+  <thead>
+    <tr><th>Role</th><th>Median Salary</th><th>Typical Range</th></tr>
+  </thead>
+  <tbody>
+    {{ range $data.roles }}
+    {{ $pct := div (mul (sub .median $data.roles.0.low) 100) (sub $data.roles.0.high $data.roles.0.low) }}
+    <tr>
+      <td><span class="gs-role">{{ .icon }} {{ .title }}</span>{{ if .note }}<br><small style="color:#94a3b8">{{ .note }}</small>{{ end }}</td>
+      <td>
+        <span class="gs-median">${{ div .median 1000 }}k</span>
+        <div class="gs-bar-wrap"><div class="gs-bar" style="width:{{ div (mul (sub .median 35000) 100) 150000 }}%"></div></div>
+      </td>
+      <td class="gs-range">${{ div .low 1000 }}k – ${{ div .high 1000 }}k</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+<p class="gs-source">{{ $data.source }}</p>
+</div>
