@@ -1,0 +1,62 @@
+{{ $data := site.Data.engines }}
+<div class="ge-wrap">
+<style>
+.ge-wrap{margin:2rem 0}
+.ge-wrap h2{font-size:1.35rem;font-weight:700;margin-bottom:.5rem}
+.ge-meta{font-size:.82rem;color:#64748b;margin-bottom:1rem}
+.ge-table-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.ge-table{width:100%;border-collapse:collapse;font-size:.85rem;min-width:700px}
+.ge-table th{background:#4338ca;color:#fff;padding:10px 12px;text-align:left;font-size:.75rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap}
+.ge-table td{padding:10px 12px;border-bottom:1px solid #e2e8f0;vertical-align:top}
+.ge-table tr:nth-child(even) td{background:#f8f7ff}
+.ge-table tr:hover td{background:#f0edff}
+.ge-name{font-weight:700;color:#1e1b4b}
+.ge-link{display:inline-block;font-size:.75rem;color:#4338ca;margin-top:2px}
+.ge-license-note{display:block;font-size:.75rem;color:#94a3b8;margin-top:2px}
+.ge-verdict{font-size:.78rem;font-style:italic;color:#475569}
+.ge-badge{display:inline-block;font-size:.7rem;font-weight:600;padding:2px 7px;border-radius:10px;white-space:nowrap}
+.ge-badge.low{background:#dcfce7;color:#16a34a}
+.ge-badge.moderate{background:#fef9c3;color:#ca8a04}
+.ge-badge.steep{background:#fee2e2;color:#dc2626}
+.ge-badge.very-low{background:#dcfce7;color:#16a34a}
+.ge-badge.growing{background:#dbeafe;color:#1d4ed8}
+.ge-badge.very-high{background:#f3e8ff;color:#7c3aed}
+.ge-source{font-size:.75rem;color:#94a3b8;margin-top:.75rem}
+.ge-source a{color:#94a3b8}
+</style>
+<h2>Game Engine Comparison {{ now.Format "2006" }}</h2>
+<p class="ge-meta">Updated {{ $data.updated }} &middot; {{ $data.source_note }}</p>
+<div class="ge-table-scroll">
+<table class="ge-table">
+  <thead>
+    <tr>
+      <th>Engine</th>
+      <th>License / Cost</th>
+      <th>Language</th>
+      <th>Best For</th>
+      <th>Learning Curve</th>
+      <th>Job Demand</th>
+      <th>Steam Share</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $data.engines }}
+    <tr>
+      <td>
+        <span class="ge-name">{{ .name }}</span><br>
+        <a class="ge-link" href="{{ .url }}" rel="nofollow noopener" target="_blank">Official site ↗</a><br>
+        <span class="ge-verdict">{{ .verdict }}</span>
+      </td>
+      <td>{{ .license }}<span class="ge-license-note">{{ .license_note }}</span></td>
+      <td><code>{{ .language }}</code></td>
+      <td>{{ .best_for }}</td>
+      <td>{{ $lc := .learning_curve }}{{ $cls := "moderate" }}{{ if eq $lc "Low" }}{{ $cls = "low" }}{{ else if eq $lc "Very Low" }}{{ $cls = "very-low" }}{{ else if eq $lc "Steep" }}{{ $cls = "steep" }}{{ end }}<span class="ge-badge {{ $cls }}">{{ .learning_curve }}</span></td>
+      <td>{{ $jd := .job_demand }}{{ $jcls := "moderate" }}{{ if eq $jd "Very High" }}{{ $jcls = "very-high" }}{{ else if eq $jd "Growing fast" }}{{ $jcls = "growing" }}{{ else if eq $jd "Low" }}{{ $jcls = "steep" }}{{ end }}<span class="ge-badge {{ $jcls }}">{{ .job_demand }}</span></td>
+      <td>{{ .steam_share }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+</div>
+<p class="ge-source">Sources: <a href="https://store.steampowered.com/hwsurvey/devtools/" rel="nofollow noopener" target="_blank">Steam Developer Survey 2024</a> &middot; official engine pricing pages. Steam share = percentage of games released using each engine.</p>
+</div>
