@@ -1,0 +1,84 @@
+{
+  "updated": "2025-Q4",
+  "source_note": "Pricing as of late 2025. Market share from Steam Developer Survey 2024.",
+  "engines": [
+    {
+      "name": "Unity",
+      "license": "Free (Personal); $185/mo Pro",
+      "license_note": "Runtime fee removed 2024; revenue tiers still apply",
+      "language": "C#",
+      "platforms": "PC · Mac · Linux · iOS · Android · Console · Web · VR",
+      "best_for": "Mobile, indie 2D/3D, AR/VR, cross-platform titles",
+      "learning_curve": "Moderate",
+      "job_demand": "Very High",
+      "steam_share": "~38%",
+      "verdict": "Best overall for indie devs and mobile",
+      "url": "https://unity.com"
+    },
+    {
+      "name": "Unreal Engine 5",
+      "license": "Free; 5% royalty after $1M gross",
+      "license_note": "Royalty on shipped commercial products only",
+      "language": "C++ / Blueprints (visual)",
+      "platforms": "PC · Mac · iOS · Android · Console · VR",
+      "best_for": "AAA/large-scale 3D, shooters, open-world games",
+      "learning_curve": "Steep",
+      "job_demand": "High",
+      "steam_share": "~13%",
+      "verdict": "Best for cinematic 3D and AAA-quality games",
+      "url": "https://www.unrealengine.com"
+    },
+    {
+      "name": "Godot 4",
+      "license": "Free — MIT (no royalties, ever)",
+      "license_note": "Fully open source; community-driven development",
+      "language": "GDScript · C# · C++",
+      "platforms": "PC · Mac · Linux · iOS · Android · Web",
+      "best_for": "2D games, indie 3D, rapid prototyping, students",
+      "learning_curve": "Low–Moderate",
+      "job_demand": "Growing fast",
+      "steam_share": "~8%",
+      "verdict": "Best free option — especially for 2D and learners",
+      "url": "https://godotengine.org"
+    },
+    {
+      "name": "GameMaker",
+      "license": "$9.99/mo or $99.99/yr",
+      "license_note": "One-time $149.99 also available; free tier limited",
+      "language": "GML (Game Maker Language)",
+      "platforms": "PC · Mac · iOS · Android · Console · Web",
+      "best_for": "2D pixel art games, beginners, small indie titles",
+      "learning_curve": "Low",
+      "job_demand": "Moderate",
+      "steam_share": "~10%",
+      "verdict": "Best for 2D pixel art and beginner makers",
+      "url": "https://gamemaker.io"
+    },
+    {
+      "name": "Construct 3",
+      "license": "Free (limited); $7.99/mo or $69.99/yr",
+      "license_note": "Browser-based — no install required",
+      "language": "Visual scripting (event-based, no-code)",
+      "platforms": "Web · PC · Mac · iOS · Android",
+      "best_for": "Browser games, absolute beginners, rapid prototyping",
+      "learning_curve": "Very Low",
+      "job_demand": "Low",
+      "steam_share": "<1%",
+      "verdict": "Best for pure beginners — zero coding required",
+      "url": "https://www.construct.net"
+    },
+    {
+      "name": "RPG Maker MZ",
+      "license": "$79.99 one-time",
+      "license_note": "No royalties; asset packs sold separately",
+      "language": "JavaScript plugins (visual by default)",
+      "platforms": "PC · Mac · iOS · Android · Web",
+      "best_for": "JRPG-style games, story-driven RPGs, visual novels",
+      "learning_curve": "Very Low",
+      "job_demand": "Niche",
+      "steam_share": "~3%",
+      "verdict": "Best for JRPGs and story-driven games without coding",
+      "url": "https://www.rpgmakerweb.com"
+    }
+  ]
+}
