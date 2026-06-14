@@ -6,8 +6,8 @@ description: "Plan your game's pre-production phase the right way. Discover how 
 image: "https://images.pexels.com/photos/7915395/pexels-photo-7915395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["pre-production", "planning", "games", "long"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "pre-production-planning-for-games-how-long-and-why"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Absolutely, and it's arguably more important at that scale because you have less capacity to absorb expensive mistakes later. The scope is different. A solo dev's pre-production might be 6-8 weeks of prototype iteration and a 2-week technical spike. The principles are the same: prove your loop works, validate your pipeline, estimate based on real data. Tools like Notion for documentation and Codecks for task tracking keep it lightweight without sacrificing structure."
   - q: "How does pre-production differ on a sequel or a game using an existing engine and IP?"
     a: "Significantly shorter in some areas, not shorter in others. Technical risks are lower if you're on a familiar engine. Art pipeline is more predictable. But design validation still matters, sometimes more, because the temptation on sequels is to assume what worked before will work again without testing it. Some of the most costly production failures I've seen were sequels that skipped design validation because 'we know this IP.' Treat the core loop as unproven until you've tested it, regardless of franchise history."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most studios blow their launch dates not in production, but months earlier, in a pre-production phase they rushed through or skipped entirely. I've watched teams celebrate hitting "full production" at the three-month mark on a project that needed at least eight months of foundational work, then spend the next two years paying for that decision in crunch, scope cuts, and eventual cancellation. The uncomfortable truth is that pre-production is where your game either gets a real shot at shipping, or gets quietly set up to fail.
