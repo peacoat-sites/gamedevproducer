@@ -6,8 +6,8 @@ description: "Learn how to pitch a game to a publisher with expert tips on craft
 image: "https://images.pexels.com/photos/7792746/pexels-photo-7792746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["publishing"]
 tags: ["pitch", "game", "publisher"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Samantha Roberts"
+author_bio: "Samantha Roberts writes about game publishing, pitching, and bringing games to market."
 slug: "how-to-pitch-a-game-to-a-publisher"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "The range is genuinely wide. After recoupment, net revenue splits of 50/50 are common, though some indie-friendly publishers offer 60/40 or even 70/30 in the developer's favor. The split matters less than the recoupment terms and what's included in recoupable expenses. A 70/30 split with a 2x recoupment multiple can easily be worse than a 50/50 split with a 1x multiple."
   - q: "Should I pitch to multiple publishers at the same time?"
     a: "Yes. Exclusivity in a pitch process isn't the norm, and unless a publisher explicitly asks for a period of exclusive negotiation (which sometimes happens after serious interest), you should be talking to multiple people simultaneously. Having competing interest, even implied interest, improves your negotiating position considerably."
+author_slug: "samantha-roberts"
+author_title: "Contributing Writer"
 ---
 
 Most pitches fail before the publisher opens the deck. I know this because I've been on both sides of the table, and the number of times I've watched a genuinely interesting game concept crash and burn because the team didn't understand what they were actually being asked to prove is, honestly, kind of painful to think about.
