@@ -6,8 +6,8 @@ description: "Publisher vs Self-Publishing: What Changes for Producers - Compare
 image: "https://images.pexels.com/photos/7967584/pexels-photo-7967584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["publisher", "self-publishing", "what", "changes", "producers"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "publisher-vs-self-publishing-what-changes-for-producers"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "It depends on the contract. Most publisher agreements have a cure period, typically 30 days, where you can address the shortfall before any formal breach occurs. Repeated misses or significant scope deviations can trigger renegotiation, reduced milestone payments, or in worst cases, publisher rights to take over the project. Proactive communication when you see a miss coming is almost always better than missing silently."
   - q: "Should a first-time producer prefer a publisher deal for the structure it provides?"
     a: "There's real value in it. Publisher milestone structures force documentation habits, reporting discipline, and external accountability that help producers build skills faster. The constraints aren't just bureaucratic overhead. They're a training environment. That said, the tradeoffs around creative control and revenue sharing are significant, and going in without understanding those tradeoffs is where producers get burned."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Imagine you're three months into pre-production on your studio's first original IP. You've got a vertical slice that's actually impressive, a team of twelve people, and two very different conversations happening in parallel: one with a mid-tier publisher who's offering an advance against royalties, and another with your CFO who thinks you should self-publish on Steam and keep 100% of the revenue. Both paths are viable. Both paths will completely reshape your job as a producer. That tension, right there, is what this article is about.
