@@ -6,8 +6,8 @@ description: "Discover how team dynamics shape AAA game development. Explore col
 image: "https://images.pexels.com/photos/9071490/pexels-photo-9071490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["team", "dynamics", "game", "studios"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "team-dynamics-in-aaa-game-studios"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Producers should attempt a single structured conversation between the parties before escalating. Not an open-ended 'let's talk about this' but a specific facilitated session with a defined outcome: what does each person need from the other to move forward on this specific issue. If that conversation doesn't produce a workable agreement, escalate. Producers aren't therapists and they're not HR. Their job is to unblock production, and sometimes unblocking production means handing a conflict to someone with more authority."
   - q: "How do you maintain team cohesion through crunch?"
     a: "Honestly? You're mostly in damage-limitation mode. The things that help: extreme transparency about exactly how long the crunch period is expected to last, visible acknowledgment from leadership that the situation is not normal and not permanent, and protecting a minimal amount of schedule space for team connection even when everything feels on fire. Post-launch recovery time, clearly communicated in advance, helps people endure the end of a project. What destroys cohesion isn't crunch itself. It's indefinite crunch with no visible end and leadership that pretends everything is fine."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 You're three weeks from a content-complete milestone, your lead animator hasn't spoken directly to the lead programmer in eleven days, and your producer just told you "the team is fine" while two senior engineers quietly updated their LinkedIn profiles. This is not a dysfunction story. This is Tuesday at a AAA studio.
