@@ -6,8 +6,8 @@ description: "Learn how to estimate game development costs with expert tips on b
 image: "https://images.pexels.com/photos/7054368/pexels-photo-7054368.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["budgeting"]
 tags: ["estimate", "game", "development", "costs"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Jordan Lee"
+author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
 slug: "how-to-estimate-game-development-costs"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Not separating out risk. Treating a known, repeatable task the same as experimental new work is how estimates collapse. Novel mechanics, new engine features, and first-time tech integrations carry fundamentally different uncertainty profiles than building the fourth UI screen in a well-established design system. Estimate them differently."
   - q: "When should I revisit my estimate?"
     a: "At every major milestone, after any significant scope change, and whenever actual velocity diverges from planned velocity for two or more consecutive sprints. Estimates aren't a contract. They're a living forecast. Treating them as fixed after pre-production is one of the most common ways studios walk into production debt without noticing until it's too late."
+author_slug: "jordan-lee"
+author_title: "Contributing Writer"
 ---
 
 Most studios don't blow their budgets on big decisions. They bleed out on the small ones nobody estimated properly. The character rig that needed three passes. The audio implementation that got scoped as "two weeks" by someone who'd never opened FMOD. The month of crunch that cost nothing on paper and cost everything in turnover afterward. Estimation isn't a box you check before funding. It's the skill that separates studios that ship from studios that send a heartfelt update to their Kickstarter backers explaining why the game is five years late.
