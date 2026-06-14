@@ -6,8 +6,8 @@ description: "Learn what game post-mortems reveal about common production failur
 image: "https://images.pexels.com/photos/1102797/pexels-photo-1102797.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 categories: ["industry intel"]
 tags: ["what", "game", "post-mortems", "reveal", "about"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "what-game-post-mortems-reveal-about-production-failures"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Unclear ownership. Not scope, not crunch, not communication, though those all connect to it. When nobody knows who has final decision-making authority on a feature, that feature takes twice as long and satisfies nobody. Define ownership before you write a single line of code."
   - q: "Are there good resources for reading real game post-mortems?"
     a: "Yes. GDC Vault has hundreds archived, many free to access. The book Postmortems: Selected Essays Volume One by various GDC authors collects some of the best ones in print. Gamasutra (now Game Developer) has a full archive online. Reading ten of them back to back is more valuable than most production courses."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 You shipped the game. Or maybe you didn't, and it's sitting in a folder somewhere labeled "v_final_ACTUAL_final2." Either way, something went wrong during production, and you're trying to figure out what. Here's a fact that tends to surprise people outside the industry: the Game Developers Conference has published post-mortems since 1997, and across hundreds of them, the same five or six failure patterns show up over and over again. Not variations on a theme. The exact same problems. That should tell you something about how rarely teams learn from each other, and how much they could.
