@@ -6,8 +6,8 @@ description: "Learn practical strategies to prevent crunch on your game team, pr
 image: "https://images.pexels.com/photos/7915378/pexels-photo-7915378.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team management"]
 tags: ["prevent", "crunch", "game", "team"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "how-to-prevent-crunch-on-a-game-team"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Document everything, protect your immediate team as much as you can, and be honest with your reports about what's in your control versus what isn't. If there's a producer above you driving the crunch, escalate your concerns in writing. If the culture is organizational and persistent, that's genuinely useful information for your career decisions going forward."
   - q: "Are there games that shipped great without crunch?"
     a: "Yes, and more than people assume. Celeste was made by a tiny team with conscious attention to sustainable pace. Supergiant Games (Bastion, Hades) has been publicly vocal about their no-crunch approach for years. The thing these teams share isn't magic. It's scope discipline and a culture where leadership actually meant what they said about people's wellbeing. It's replicable. It just takes will."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Crunch killed two of my closest friends in the industry. Not literally, but one left games entirely after shipping a AAA title that required 80-hour weeks for eight months straight, and the other had a health scare at 34 that her cardiologist directly linked to sustained stress and sleep deprivation. I've watched talented producers, engineers, and artists grind themselves into dust on games that didn't even ship well. And the part that still makes me angry? Most of that crunch was preventable.
