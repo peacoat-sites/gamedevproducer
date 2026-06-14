@@ -6,8 +6,8 @@ description: "Learn what crunch means in the game industry, why it happens, how 
 image: "https://images.pexels.com/photos/4714924/pexels-photo-4714924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team management"]
 tags: ["what", "crunch", "game", "industry"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "what-is-crunch-in-the-game-industry"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Almost certainly not, and the evidence points the other way. Extended overwork produces more bugs, worse creative decisions, and higher turnover. You lose experienced people mid-project, which destroys institutional knowledge exactly when you need it. Jason Schreier's reporting and multiple GDC post-mortems suggest that games released in crisis-crunch conditions tend to have the most severe launch quality problems. The extra hours are often spent cleaning up the problems the exhaustion created."
   - q: "How does crunch affect game quality and the final product?"
     a: "This is where it gets complicated. Some games ship in rough shape after brutal development (Cyberpunk 2077 at launch). Others ship in decent shape despite brutal development. The variable isn't usually the crunch itself, it's whether leadership maintained realistic scope and feature discipline while the crunch was happening. Crunch can ship a game. It can't fix a game that has fundamental design problems or scope it couldn't support. The two things get conflated, and that conflation is part of what lets studios keep crunching and calling it necessary."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 It's 11 PM on a Tuesday. You haven't seen your family for dinner in three weeks. Your Slack is on fire with messages from a producer asking for build status. The game ships in six weeks and the feature list hasn't shrunk, it's grown. You're not alone in this moment. You're in crunch, and somewhere right now, thousands of developers across the industry are right there with you.
