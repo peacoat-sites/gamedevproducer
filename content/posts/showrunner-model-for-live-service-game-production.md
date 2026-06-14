@@ -6,8 +6,8 @@ description: "Discover how the showrunner model transforms live service game pro
 image: "https://images.pexels.com/photos/10443203/pexels-photo-10443203.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["showrunner", "model", "live", "service", "game"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Marcus Webb"
+author_bio: "Marcus Webb covers game engines, technical development, and programming at GameDevProducer."
 slug: "showrunner-model-for-live-service-game-production"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "QA should have a direct reporting line to the showrunner during the production cycle, not a separate track that merges late. QA leads need to be in week 3 scope-lock conversations so they can flag testability issues before they become week-10 emergencies. The showrunner makes the final call on ship/no-ship based on QA data, not in spite of it."
   - q: "Can a studio run multiple seasons simultaneously with this model?"
     a: "Yes, but you need one showrunner per season in active production, not one showrunner across all seasons. The overlap period where one showrunner is winding down a season and ramping up the next is the danger zone. Build at least a two-week handoff buffer between those phases in your staffing model."
+author_slug: "marcus-webb"
+author_title: "Technical Editor"
 ---
 
 You're three weeks out from your Season 3 launch and your lead designer just told you the new map isn't going to make it. Your community manager is already fielding questions on Discord. Your narrative lead has been rewriting the seasonal storyline around an asset that might get cut. And your producer? They're in back-to-back meetings trying to get a straight answer from four different discipline leads who each have a different understanding of what the season is actually supposed to be. This is the moment when most live service teams realize their production model wasn't built for the thing they're actually making.
