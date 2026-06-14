@@ -6,8 +6,8 @@ description: "Discover how Agile and Waterfall methodologies compare for game de
 image: "https://images.pexels.com/photos/7915522/pexels-photo-7915522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["agile", "waterfall", "game", "development"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "agile-vs-waterfall-for-game-development"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Two weeks is the standard and I think it's usually right, but one-week sprints work well in pre-production when you're iterating quickly on prototypes. Three or four-week sprints tend to lose urgency. If your team is regularly not finishing sprint work, that's a scope problem, not a sprint length problem."
   - q: "What's the biggest mistake teams make when adopting agile for game dev?"
     a: "Treating the sprint backlog like a to-do list and ignoring the retrospective. The retrospective is actually where agile earns its value: it's the team's chance to identify what's slowing them down and change it. I've seen teams run Scrum for six months, never run a real retrospective, and wonder why nothing improved. Run the retro. Be honest in it. That's the part that compounds."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Fourteen years in, and I still watch teams make the same call for the wrong reasons: they pick waterfall because it feels "professional," or they pick agile because they heard a podcast about Scrum and it sounded modern. Neither instinct is a good enough reason. The method you choose shapes everything from your budget burn rate to whether your lead designer is still speaking to your lead programmer by month six.
