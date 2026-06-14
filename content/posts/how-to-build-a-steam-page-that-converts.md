@@ -6,8 +6,8 @@ description: "Learn how to build a Steam page that converts browsers into buyers
 image: "https://images.pexels.com/photos/7915273/pexels-photo-7915273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["publishing"]
 tags: ["build", "steam", "page", "that", "converts"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Samantha Roberts"
+author_bio: "Samantha Roberts writes about game publishing, pitching, and bringing games to market."
 slug: "how-to-build-a-steam-page-that-converts"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "You can and should update it as your game develops. Capsule images, trailers, screenshots, and descriptions can all be updated. Many developers do a full refresh in the weeks before launch when they have final assets. Just don't let the page go stale: if your trailer is from 18 months ago and your game looks substantially better now, update it."
   - q: "What tools do game producers actually use to manage Steam page launches?"
     a: "For project management around Steam launches, Notion works well for building content calendars and asset checklists. Trello is simpler if you want Kanban-style task tracking for milestone deadlines like 'capsule final' or 'trailer submitted.' For understanding your page performance, SteamDB is indispensable. For learning how to think about this more strategically, Chris Zukowski's blog (How To Market A Game) is the single most useful resource I've seen for indie developers on Steam marketing, and he posts detailed breakdowns of what's working right now. Udemy also has credible game marketing c"
+author_slug: "samantha-roberts"
+author_title: "Contributing Writer"
 ---
 
 You spent eight months building a demo. You finally get it live on Steam, share the link everywhere, and... 127 wishlists in three weeks. Your friend's game, which honestly looks rougher than yours, already has 4,000. You refresh the page, wondering what you're missing. I've seen this exact situation more times than I can count, and almost every time the problem isn't the game. It's the page.
