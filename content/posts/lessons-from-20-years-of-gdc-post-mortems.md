@@ -1,5 +1,5 @@
 ---
-title: "Lessons From 20 Years Of Gdc Post-Mortems"
+title: "Lessons From 20 Years Of GDC Post-Mortems"
 date: 2026-05-21T22:45:08.395370+00:00
 draft: false
 description: "Lessons from 20 years of GDC post-mortems: insights on game development failures, successes, and industry trends shared by veteran developers."

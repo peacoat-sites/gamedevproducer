@@ -1,5 +1,5 @@
 ---
-title: "Gdc State Of The Industry What It Means For Producers"
+title: "GDC State Of The Industry What It Means For Producers"
 date: 2026-05-27T19:58:40.601042+00:00
 draft: false
 description: "Insights from GDC's State of the Industry report examined through a producer's lens, covering key trends, challenges, and opportunities shaping game development"
