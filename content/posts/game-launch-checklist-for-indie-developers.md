@@ -6,8 +6,8 @@ description: "Plan the perfect game launch with our indie developer checklist. C
 image: "https://images.pexels.com/photos/12832570/pexels-photo-12832570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["publishing"]
 tags: ["game", "launch", "checklist", "indie", "developers"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Samantha Roberts"
+author_bio: "Samantha Roberts writes about game publishing, pitching, and bringing games to market."
 slug: "game-launch-checklist-for-indie-developers"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Start with Steam unless you have a specific console deal or you're targeting a platform where your genre clearly lives. Multi-platform launches split your attention, double your QA requirements, and complicate your patch pipeline. Nail one platform first. Port later."
   - q: "What's the most common technical issue that tanks launch day reviews?"
     a: "Save file corruption and missing controller support are the two that come up most consistently in post-mortems I've read. A corrupted save after two hours of play is an immediate refund and a furious review. Test your save system until you're sick of testing it, then test it again."
+author_slug: "samantha-roberts"
+author_title: "Contributing Writer"
 ---
 
 Most indie games don't fail because they're bad games. They fail because they launched badly. I've watched genuinely good games sell fewer than 200 copies at launch because the developer treated "upload to Steam and post on Twitter" as a release strategy. The game sat there, invisible, while the developer refreshed their sales dashboard in quiet despair. What surprised me most when I started digging into post-mortems and talking to other developers was how consistent the pattern is: the game was fine, sometimes great, but the launch infrastructure was completely missing. A checklist won't save a bad game, but the absence of one has killed plenty of good ones.
