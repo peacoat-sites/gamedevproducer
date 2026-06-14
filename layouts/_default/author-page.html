@@ -8,20 +8,17 @@
 <div class="author-page-wrap" style="max-width:1080px;margin:0 auto;padding:48px 24px 64px">
 
   {{/* ── Hero ── */}}
-  <div class="author-hero" style="display:flex;gap:28px;align-items:flex-start;margin-bottom:48px;flex-wrap:wrap">
+  <div class="author-hero" style="display:flex;flex-direction:column;align-items:center;text-align:center;margin-bottom:48px;gap:14px">
     <img src="/img/authors/{{ $slug }}.jpg" alt="{{ $name }}"
-         style="width:120px;height:120px;border-radius:50%;object-fit:cover;flex-shrink:0;
+         style="width:120px;height:120px;border-radius:50%;object-fit:cover;
                 box-shadow:0 4px 16px rgba(0,0,0,.12)">
-    <div style="flex:1;min-width:240px">
+    <div>
       <h1 style="margin:0 0 6px;font-size:1.9rem;color:var(--heading,#1e293b)">{{ $name }}</h1>
       <div style="font-size:.9rem;font-weight:600;color:var(--accent,#4338ca);margin-bottom:6px;text-transform:uppercase;letter-spacing:.05em">
         {{ $title }}
       </div>
-      <div style="font-size:.9rem;color:var(--muted,#64748b);margin-bottom:14px">
+      <div style="font-size:.9rem;color:var(--muted,#64748b)">
         {{ $spec }}
-      </div>
-      <div style="font-size:.85rem;color:var(--muted,#94a3b8)">
-        {{ len $articles }} article{{ if ne (len $articles) 1 }}s{{ end }} published on GameDevProducer
       </div>
     </div>
   </div>
