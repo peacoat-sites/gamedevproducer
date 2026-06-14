@@ -6,10 +6,12 @@ description: "Track project progress effectively with our complete guide to mile
 image: "https://images.pexels.com/photos/7915437/pexels-photo-7915437.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["pm frameworks"]
 tags: ["milestone", "deliverable", "documents", "what", "include"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "milestone-deliverable-documents-what-to-include"
 affiliate_disclosure: true
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 You're three weeks out from a major milestone review. Your studio lead asks for the deliverable document. You panic slightly because you realize you've never actually written a formal one, and you're not sure what should go in it. You've got spreadsheets, meeting notes, and a general sense of what's been completed, but there's no single source of truth. Sound familiar?
