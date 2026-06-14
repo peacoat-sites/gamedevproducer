@@ -6,8 +6,8 @@ description: "How game engine choice affects your production plan. Learn why sel
 image: "https://images.pexels.com/photos/9409819/pexels-photo-9409819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["game", "engine", "choice", "affects", "your"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Marcus Webb"
+author_bio: "Marcus Webb covers game engines, technical development, and programming at GameDevProducer."
 slug: "how-game-engine-choice-affects-your-production-plan"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Assuming the learning curve is a one-time event. Engine updates, new features, workflow changes, and team turnover mean the learning curve is ongoing. Budget for approximately one 'engine orientation' sprint per major engine version bump, and make ongoing engine training a recurring line item in your team development budget."
   - q: "When should a team consider a proprietary engine?"
     a: "When the platform or performance requirements genuinely can't be met by a commercial engine, or when the studio already has deep institutional knowledge in the proprietary toolchain. The production cost of a proprietary engine is significant: no external hiring, no community support, and no third-party middleware integration without custom work. It's often the right call for first-party console studios or highly specialized genres, but it should be a deliberate decision with eyes open to the overhead."
+author_slug: "marcus-webb"
+author_title: "Technical Editor"
 ---
 
 You've just locked in your concept, the team is excited, and someone in the room says "so, are we using Unreal or Unity?" What follows that question will quietly shape every sprint, every milestone, every staffing decision, and every late-night fire drill for the next two to five years. Most producers treat engine selection as a technical decision. It isn't. It's a production decision, and getting it wrong costs you months before you've written a single line of game code.
