@@ -6,8 +6,8 @@ description: "Learn proven strategies to prevent scope creep in game production,
 image: "https://images.pexels.com/photos/7915241/pexels-photo-7915241.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["avoiding", "scope", "creep", "game", "production"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "avoiding-scope-creep-in-game-production"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "The moment you have more than two people working on the project. Not after you hire a producer. Not after you hit your first milestone. From the start. The habit of writing things down and putting them through a change process is much easier to build from zero than to retrofit onto a team that's already been operating informally for six months."
   - q: "My studio doesn't have a formal producer. Who owns scope management?"
     a: "Someone has to own it, even informally. If there's no producer, the most organized person on the team needs to take this on as a defined responsibility, not a vague shared one. 'Everyone is responsible for scope' means no one is. Pick a person, give them the authority to say no, and support that authority publicly when it gets tested."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Scope creep killed the last game I worked on at a AAA studio. Not the whole project, technically -- it shipped, four years late and $12 million over budget, with half the team burned out and two leads who quit before release. The game was fine. The production was a disaster. And the thing that started the slow collapse wasn't a catastrophic decision. It was a hundred small ones, each of which seemed completely reasonable at the time.
