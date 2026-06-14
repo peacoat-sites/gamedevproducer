@@ -6,8 +6,8 @@ description: "Discover what game producers earn in 2024, including entry-level t
 image: "https://images.pexels.com/photos/7862609/pexels-photo-7862609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["careers"]
 tags: ["game", "producer", "salary", "guide", "explained"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "game-producer-salary-guide-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "In many U.S. states, employers are legally prohibited from asking for your salary history. Even where it's not prohibited, you're not obligated to share it. I'd recommend anchoring the conversation around market rate and your expectations rather than your previous number. 'I'm looking for something in the $105,000 to $115,000 range based on my experience and what I'm seeing in the market' is a stronger position than confirming you were making $88,000."
   - q: "What's the best book on building a career as a game producer?"
     a: "Heather Maxwell Chandler's The Game Production Handbook (third edition) is the most comprehensive resource specific to the producer role. For career strategy more broadly, I also recommend Cracking the PM Interview by Gayle McDowell, which is technically for product management but covers negotiation and career leveling in ways that translate directly."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Let me be direct with you: most salary guides for game producers are useless. They pull a number from somewhere, slap a range on it, and call it research. You end up with something like "$60,000 to $150,000 depending on experience" which tells you approximately nothing about whether the offer sitting in your inbox is fair.
