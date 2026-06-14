@@ -6,8 +6,8 @@ description: "Crunch in game development isnt a culture issue its a systemic fai
 image: "https://images.pexels.com/photos/35378672/pexels-photo-35378672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["crunch", "production", "failure", "culture", "problem"]
-author: "Jordan Reyes"
-author_bio: "Scrum master turned producer. Translates agile methodology into game dev reality -- what works, what breaks."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "crunch-is-a-production-failure-not-a-culture-problem"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Jason Schreier's Blood, Sweat, and Pixels is essential context for understanding how crunch happens at real studios. For practical production frameworks, The Art of Game Design by Jesse Schell has useful mental models, and Agile Game Development by Clinton Keith is the closest thing to a field manual for applying agile to game production specifically. For general project management thinking that transfers well, Making Things Happen by Scott Berkun is underrated and practical."
   - q: "Can a small indie team apply these systems without a dedicated producer?"
     a: "Yes, and they should. The tools scale down. A two-person team can maintain a simple Trello board with a backlog, a 'must ship' column, and a running capacity note in a shared doc. The principles don't require a project management department. They require the habit of looking at the gap between work remaining and time available before it becomes a crisis."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 A studio hits week fourteen of a scheduled twelve-week sprint. The lead designer hasn't slept more than five hours in three nights. The QA team is running on energy drinks and quiet resentment. The executive producer sends a "we're almost there" email that nobody believes. Sound familiar? This scenario plays out across the industry constantly, and the usual response is to treat it like a cultural artifact, something baked into game development's DNA that you either accept or leave the industry to avoid. That framing is wrong, and it's costing studios money, talent, and sometimes lives.
