@@ -6,8 +6,8 @@ description: "Game Producer vs Film Producer: Explore the key differences in pro
 image: "https://images.pexels.com/photos/7292701/pexels-photo-7292701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "film", "producer", "differences"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Jordan Lee"
+author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
 slug: "game-producer-vs-film-producer-key-differences"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "In film, distributors typically come into play after production is complete, or at the financing stage. In games, publishers often have active oversight throughout development, including milestone approvals, regular builds, and embedded quality assurance feedback. Game producers have to manage upward to a publisher as an ongoing working relationship, not just a one-time deal. That's closer to how an executive producer manages a studio relationship in television than anything in film."
   - q: "What's the biggest mistake film producers make when moving into game development?"
     a: "Assuming the schedule is sacred. In film, a shooting schedule is built to be followed. In game development, the schedule is a planning tool that gets revised constantly as technical discoveries surface and design decisions change. Film producers often react to schedule slippage as a crisis. Game producers have to learn to treat it as information and respond with replanning rather than alarm. Related to that: underestimating how long things take in game development is the single most common source of crunch, which is a production failure, not an unavoidable feature of the industry."
+author_slug: "jordan-lee"
+author_title: "Contributing Writer"
 ---
 
 Imagine you've spent ten years producing indie films. You know how to wrangle a crew, manage a shooting schedule, and sweet-talk a distributor. Then someone offers you a senior producer role at a mid-sized game studio, and you think: "How different can it be?" Very. The skill overlap is real but deceptively shallow. People who make this transition without understanding the structural differences often find themselves three months in, completely overwhelmed, wondering why nothing they learned on set is working the way it should.
