@@ -6,8 +6,8 @@ description: "Discover how psychological safety transforms milestone reviews in 
 image: "https://images.pexels.com/photos/7495291/pexels-photo-7495291.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 categories: ["team psychology"]
 tags: ["psychological", "safety", "milestone", "reviews", "game"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "psychological-safety-and-milestone-reviews-in-game-dev"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "The principles are identical. Sprint reviews just give you more frequent cycles to build or destroy trust. A sprint review where leads feel safe saying 'we didn't hit these three points and here's why' is gold. That honesty compounds over 12 sprints into a team that can actually estimate and actually deliver. A sprint review run as a performance has the same failure mode as a milestone review, just on a two-week cycle."
   - q: "How long does it take to build genuine psychological safety on a team?"
     a: "Longer than you want. Research suggests six to twelve months of consistent behavior before trust is genuinely internalized. The good news: you'll start seeing functional benefits within the first few weeks of structural changes, even before full trust is established. People don't need to trust you completely to use an anonymous survey. Start there. The goal isn't a team where everyone feels great. It's a team where real problems surface fast enough for you to solve them. That's what makes games ship, and it's what the best milestone reviews are actually measuring."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 The milestone review ends. The lead designer closes their laptop and says, "Looks good, we're on track." Three weeks later, the vertical slice is a disaster. What happened? Nobody lied, exactly. But nobody told the full truth either. The combat lead knew the hit detection was held together with duct tape. The narrative designer had quietly cut 40% of the planned content. The producer, you, had no idea because you'd built a review culture where "on track" meant "I don't want this conversation right now." That's not a milestone problem. That's a psychological safety problem wearing a milestone problem's clothes.
