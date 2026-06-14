@@ -6,8 +6,8 @@ description: "Learn how to hire your first game developer with confidence. Disco
 image: "https://images.pexels.com/photos/9072217/pexels-photo-9072217.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team management"]
 tags: ["hiring", "your", "first", "game", "developer"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "hiring-your-first-game-developer-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Hiring a generalist when they need a specialist. 'Someone who can do everything' is tempting when budget is tight, but generalists who claim to do everything usually do three things adequately and six things poorly. Know the one or two specific gaps that are blocking you and hire for exactly those."
   - q: "How long should a trial contract be?"
     a: "Sixty days is a reasonable starting point for most first hires on an indie project. Long enough for both of you to understand the working rhythm and see real output. Short enough that a bad fit doesn't cost you four months of runway. Structure it around a defined deliverable rather than just time: 'complete the movement system and first enemy AI by this date' beats 'work for sixty days.'"
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Most first-time game studio founders hire wrong. Not because they don't care, but because they hire the person they *like talking to* rather than the person who can actually ship the thing they're trying to build. I watched three separate indie studios collapse in 2021 and 2022 partly because of that exact mistake, two of them people I'd worked alongside. Liking someone is not a hiring criterion. Let's get into what actually is.
