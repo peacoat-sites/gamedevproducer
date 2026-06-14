@@ -6,8 +6,8 @@ description: "A game milestone explained: discover what alpha, beta, and gold me
 image: "https://images.pexels.com/photos/6892904/pexels-photo-6892904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["what", "game", "milestone", "alpha", "beta"]
-author: "Jordan Reyes"
-author_bio: "Scrum master turned producer. Translates agile methodology into game dev reality -- what works, what breaks."
+author: "Samantha Roberts"
+author_bio: "Samantha Roberts writes about game publishing, pitching, and bringing games to market."
 slug: "what-is-a-game-milestone-alpha-beta-gold"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "The publisher will usually issue a formal rejection with a list of deficiencies. Your contract should specify a cure period, typically 2-4 weeks, during which you address the issues and resubmit. Payment for that milestone is withheld until acceptance. This is why exit criteria documents matter so much. If your criteria were clear and agreed upon upfront, a rejection dispute is much easier to resolve."
   - q: "What tools do game producers use to track milestones?"
     a: "Jira is industry-standard for bug tracking and sprint management in studios with 10 or more people. Hack n Plan is a strong choice for smaller indie teams and has milestone tracking built specifically for game production workflows. For documentation and production bibles, Notion and Confluence are both commonly used. Some studios use Shotgun (now ShotGrid) for asset tracking alongside a separate task manager. The specific tool matters less than having a consistent, team-wide practice of updating it."
+author_slug: "samantha-roberts"
+author_title: "Contributing Writer"
 ---
 
 You're three months into production on a mid-sized mobile RPG when the publisher emails asking for your Alpha build delivery date. Your lead programmer looks at you. Your art director looks at you. You look at the calendar. Nobody in the room agrees on what "Alpha" actually means, and now you're negotiating a contractual deadline against a definition your team has never formally discussed. This happens constantly, and it costs studios real money.
