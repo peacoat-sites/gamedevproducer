@@ -6,8 +6,8 @@ description: "Learn what hiring managers really want in a game producer resume. 
 image: "https://images.pexels.com/photos/4225921/pexels-photo-4225921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "resume", "tips", "what"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "game-producer-resume-tips-what-hiring-managers-look-for"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Yes, selectively. If a role asks for 5 years and you have 3 strong years, apply. Requirements lists are wishlists, not contracts. What matters is whether your experience maps to the actual work. What's not worth your time: applying to senior roles when you're entry-level, or applying to highly specialized roles (like audio producer or tech producer) without any relevant background in that specialty."
   - q: "What project management tools should I learn right now to be competitive?"
     a: "Jira is non-negotiable for mid-to-large studios. Learn it well enough that you can build out sprints, manage backlogs, and generate basic reports. Confluence often pairs with it. Shotgrid (formerly Shotgun) is used heavily in studios with large art pipelines. For smaller studios and indie work, Notion and Airtable are increasingly common. Asana shows up in mobile and casual game companies. Pick two and actually use them on a project, even a personal one. Certification courses on Coursera or LinkedIn Learning won't hurt for the resume, but real usage is what holds up in an interview."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 You sent your resume to six studios last month. Nothing. Not even an automated rejection. You tweaked your formatting, swapped in some keywords, sent it to six more. Still silence. Here's what's probably happening: your resume isn't failing because of typos or font choices. It's failing because it looks like every other producer resume in the pile, and hiring managers at studios are spending about 15 seconds on each one before moving on. I've reviewed hundreds of these on both sides of the table, and the gap between the resumes that get calls and the ones that disappear is almost always the same thing: specificity.
