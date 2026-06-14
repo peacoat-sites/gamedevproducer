@@ -6,8 +6,8 @@ description: "Discover the key pros and cons of self publishing vs game publishe
 image: "https://images.pexels.com/photos/18848524/pexels-photo-18848524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["publishing"]
 tags: ["self", "publishing", "game", "publisher", "pros"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Samantha Roberts"
+author_bio: "Samantha Roberts writes about game publishing, pitching, and bringing games to market."
 slug: "self-publishing-vs-game-publisher-pros-and-cons"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Publishers want to see enough to evaluate the game -- usually a playable vertical slice and strong key art, not a finished product. Approaching too early (concept only) wastes everyone's time. Approaching post-launch with a game that's already selling removes your negotiating leverage because you don't need them anymore. The sweet spot is roughly six to twelve months before your planned release date."
   - q: "What happens if my publisher goes bankrupt or gets acquired?"
     a: "This is more common than people expect. Your contract should specify what happens to your IP in these scenarios. In acquisition cases, your contract typically transfers to the acquiring company. In bankruptcy, it gets complicated fast and may end up in IP limbo. Rights reversion clauses triggered by breach of contract or insolvency are something to negotiate for, even if you don't expect to use them."
+author_slug: "samantha-roberts"
+author_title: "Contributing Writer"
 ---
 
 Most coverage of this topic frames the choice as "creative control vs. money." That framing is almost useless in practice, because it flattens about fifteen genuinely different tradeoffs into one fake binary. Let me give you the actual picture.
