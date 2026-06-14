@@ -6,8 +6,8 @@ description: "Struggling with imposter syndrome as a game producer? Discover pra
 image: "https://images.pexels.com/photos/20684842/pexels-photo-20684842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["imposter", "syndrome", "game", "producer"]
-author: "Marcus Webb"
-author_bio: "Senior producer with 10+ years across AAA and indie. Obsessed with pre-production frameworks and green-light documentation."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "imposter-syndrome-as-a-game-producer"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Have a few grounding phrases ready that buy you thinking time without sounding evasive. 'Let me make sure I'm giving you the most useful answer' followed by a pause is neutral and professional. If you genuinely don't know something in the room, 'I want to verify that before I commit to a number' is far better than guessing under pressure. Preparation is your best tool here. Brief the meeting agenda in advance, know the three or four questions likely to come your way, and have your data ready. Confidence in high-stakes moments is mostly preparation wearing a good suit."
   - q: "Are there specific production roles where imposter syndrome is worse?"
     a: "Associate producers and first-time leads report it most acutely, but senior producers changing studios often experience a sharp resurgence because they've lost their institutional context. When you don't know the codebase, the culture, the team history, or the political landscape yet, you feel incompetent even if your skills are fully intact. Give yourself a 90-day acclimation window, be explicit with yourself that you're in a learning phase, and don't measure your confidence against your eventual steady-state performance. The moment in that milestone review, the blank second, the quiet doubt,"
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 You're sitting in a milestone review. The creative director just asked you to defend the sprint plan you built, and suddenly your mind goes blank. Not because you don't know the answer, but because a quiet voice in the back of your head is whispering: *who are you to be running this?* You nod, buy yourself three seconds with "great question," and recover. But the feeling lingers for the rest of the day. If you recognize that moment, you're not alone, and you're almost certainly not the fraud you think you are.
