@@ -6,8 +6,8 @@ description: "Discover the best funding options for indie game studios, from gra
 image: "https://images.pexels.com/photos/7849520/pexels-photo-7849520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["budgeting"]
 tags: ["funding", "options", "indie", "game", "studios"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Jordan Lee"
+author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
 slug: "funding-options-for-indie-game-studios-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Waiting too long to start looking for money. Most funding processes take 3-9 months from first contact to cash in your account. If you start looking when you're already in financial trouble, you're negotiating from desperation, which almost always leads to bad deals or no deals at all."
   - q: "Do publishers care about Metacritic scores from previous games?"
     a: "More than most devs expect. If you've shipped a game before, publishers will look at your Steam reviews, your Metacritic score if you have one, and your sales history. A previous game with mixed reviews isn't automatically disqualifying, but you'll need to speak to what you learned and why the next project is different. Pretending a rough launch didn't happen is one of the fastest ways to lose credibility in a pitch meeting."
+author_slug: "jordan-lee"
+author_title: "Contributing Writer"
 ---
 
 Most indie studios run out of money before they run out of ideas. That's not a pessimistic take -- it's just the most common way games don't get finished. And if you're reading this, you're probably trying to figure out how to make sure that doesn't happen to you.
