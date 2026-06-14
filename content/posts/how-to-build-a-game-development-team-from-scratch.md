@@ -6,8 +6,8 @@ description: "Learn how to build a game development team from scratch with exper
 image: "https://images.pexels.com/photos/5734961/pexels-photo-5734961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team management"]
 tags: ["build", "game", "development", "team", "from"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "how-to-build-a-game-development-team-from-scratch"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "For hiring conversations, an NDA is reasonable but rarely the most important document. Most experienced developers won't sign overly restrictive ones, and your idea is worth less than your execution anyway. Focus your legal energy on a clear collaboration agreement once someone actually joins."
   - q: "What project management software is best for a beginner game dev team?"
     a: "Start with Notion for documentation and Hacknplan or GitHub Projects for task tracking. Both are free at small scale. Don't set up Jira or a complex Scrum framework on your first project. The overhead will eat you alive before you've shipped anything."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Most first-time game dev team builders make the same mistake: they hire for roles before they understand what they're actually building.
