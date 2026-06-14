@@ -6,8 +6,8 @@ description: "Learn how to plan a realistic game release date with expert tips o
 image: "https://images.pexels.com/photos/7915419/pexels-photo-7915419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["planning"]
 tags: ["plan", "realistic", "game", "release", "date"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "how-to-plan-a-realistic-game-release-date"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Add 6-8 weeks to your schedule for the first certification attempt and assume you'll fail it once. Budget for a second submission. Microsoft and Sony both publish their Technical Requirements Checklists publicly -- read them before you're in QA, not after, and build compliance into development rather than retrofitting it at the end."
   - q: "Which project management tools do game developers actually use?"
     a: "Hacknplan and Codecks are the two most game-specific options and both have free tiers worth trying. Larger teams use Jira (expensive but powerful) or Shortcut (cleaner than Jira, around $8.50 per user per month). A lot of small indie teams run just fine in Notion or even a well-structured Google Sheet. The tool matters less than whether your team actually updates it."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most game release dates are picked backwards. Someone in a meeting says "we should ship before the holidays" or "let's aim for a year from now," and then the schedule gets built to justify that number instead of derive it. I've sat in those meetings. I've also shipped games that hit their dates and ones that didn't, and the difference almost always traces back to this exact moment.
