@@ -6,8 +6,8 @@ description: "Discover the essential skills every game producer needs to succeed
 image: "https://images.pexels.com/photos/8445642/pexels-photo-8445642.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["what", "makes", "good", "game", "producer"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Marcus Webb"
+author_bio: "Marcus Webb covers game engines, technical development, and programming at GameDevProducer."
 slug: "what-makes-a-good-game-producer-essential-skills"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Agile-adjacent approaches work well for most teams, specifically Scrum with modifications for the creative parts of game dev. Pure Scrum doesn't map perfectly because games have phases (pre-production, production, polish) that don't fit cleanly into identical two-week sprints. Read Clinton Keith's Agile Game Development and adapt from there rather than adopting any method wholesale."
   - q: "How early should a producer join a project?"
     a: "As early as possible, ideally before pre-production ends. Producers who join mid-production spend months undoing decisions that were made without any production oversight. If you're a solo dev thinking 'I'll add a producer later,' that's the game development equivalent of saying 'I'll add load-bearing walls after the house is built.'"
+author_slug: "marcus-webb"
+author_title: "Technical Editor"
 ---
 
 You're three weeks from alpha, the build is broken, your lead programmer just went silent on Slack, and the art team is asking whether they should keep working on assets that might get cut. Nobody's panicking yet, but you can feel the pressure moving through the room like a change in air pressure before a storm. This is the moment that separates producers who are good on paper from producers who are actually essential. It's not about your spreadsheet skills. It's about what you do in the next 90 minutes.
