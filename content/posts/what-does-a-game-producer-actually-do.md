@@ -6,8 +6,8 @@ description: "Learn what a game producer actually does, from managing budgets an
 image: "https://images.pexels.com/photos/11022643/pexels-photo-11022643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["what", "does", "game", "producer", "actually"]
-author: "Marcus Webb"
-author_bio: "Senior producer with 10+ years across AAA and indie. Obsessed with pre-production frameworks and green-light documentation."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "what-does-a-game-producer-actually-do"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Carefully and incrementally. You can't impose process on a creative team and expect it to stick. The producers I've seen do this well start by solving a real problem the team is already feeling, whether that's unclear priorities, too many surprise meetings, or constant context-switching. When process solves a visible pain point, adoption follows. When process feels like overhead with no payoff, people route around it. Build trust before you build systems."
   - q: "What metrics should a producer track?"
     a: "At minimum: velocity against planned velocity (are you completing what you commit to?), bug open/close rate as you approach launch, milestone hit rate, and build stability. Beyond that, track whatever is causing the most risk on your specific project. If outsource asset delivery is your biggest dependency, track that weekly. If your engine is unstable, track crash rate and build times. Metrics should reflect your current risk profile, not a generic production dashboard template."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 You're three weeks from a milestone review and your lead programmer just told you the combat system is six weeks out. Your art director thinks scope is fine. Your studio head thinks everything is on track. You're the only person in the room who knows all three of those things at once. That's the job.
