@@ -6,8 +6,8 @@ description: "Learn proven strategies to prevent scope creep in game development
 image: "https://images.pexels.com/photos/30965500/pexels-photo-30965500.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["scope", "creep", "prevention", "game", "development"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "scope-creep-prevention-in-game-development"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "The mechanics are the same but the stakes and politics differ. Indie teams usually have more flexibility to adapt their own process. AAA teams often have publisher milestones that function as external scope enforcement, which can actually be helpful if the milestones are well-defined. The bigger risk at AAA scale is that scope creep gets absorbed into crunch rather than surfaced as a scheduling problem, which is how you get 80-hour weeks instead of a delay conversation."
   - q: "When is it actually okay to add scope?"
     a: "When you have concrete evidence that what you have isn't working and the fix is clearly worth the cost. Playtest data that shows a core loop is broken is a legitimate reason to revisit scope. 'I think this would be cooler' is not. The bar should be: does this change the game from not-shippable to shippable, or from shippable to marginally better? Only the first justifies late scope addition. Scope creep is a solvable problem, but only if you treat it as a system issue rather than a discipline issue. Teams don't fail to manage scope because they're lazy or undisciplined. They fail because they"
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 You greenlit a feature at 9am standup because a designer said it would "only take a day." Three weeks later, that feature has spawned four sub-features, two art revisions, and a backend change that touched six other systems. Your ship date is now a suggestion. Sound familiar? Scope creep doesn't usually announce itself. It accumulates quietly, one reasonable-sounding request at a time, until the project is unrecognizable from what you originally planned.
