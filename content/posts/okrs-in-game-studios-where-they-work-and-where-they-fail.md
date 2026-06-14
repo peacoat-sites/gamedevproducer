@@ -6,8 +6,8 @@ description: "Discover how OKRs work in game studios, where they drive focus and
 image: "https://images.pexels.com/photos/7047200/pexels-photo-7047200.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["OKRs", "game", "studios", "where", "they"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Jordan Lee"
+author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
 slug: "okrs-in-game-studios-where-they-work-and-where-they-fail"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "A key result is an outcome you can measure. A task is a thing you do. 'Write the onboarding tutorial' is a task. 'New players complete the tutorial at a rate of 70% or higher' is a key result. If your key results sound like a to-do list, rewrite them around what success looks like, not what work needs to happen."
   - q: "How do you handle OKRs when a project slips?"
     a: "Update them. Seriously. OKRs that no longer reflect reality are worse than no OKRs, because they force teams to either lie about progress or ignore the system entirely. If the project slips and your Q3 OKRs become irrelevant, call a brief review, update the key results to reflect the new situation, and move forward. The cadence serves the work, not the other way around."
+author_slug: "jordan-lee"
+author_title: "Contributing Writer"
 ---
 
 You rolled out OKRs six months ago. The leadership team was energized. You ran the kickoff, everyone wrote their objectives, and the key results looked measurable on paper. Now it's the end of the quarter and half the teams are scrambling to update numbers they haven't touched since week two, and nobody can quite explain how "increase player retention by 15%" connects to the artist who spent the last eight weeks building environment assets. Sound familiar? You're not alone, and the problem probably isn't your people.
