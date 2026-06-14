@@ -6,8 +6,8 @@ description: "Learn the key differences between a game producer and a scrum mast
 image: "https://images.pexels.com/photos/28715052/pexels-photo-28715052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "scrum", "master", "what"]
-author: "Jordan Reyes"
-author_bio: "Scrum master turned producer. Translates agile methodology into game dev reality -- what works, what breaks."
+author: "Priya Sharma"
+author_bio: "Priya Sharma covers game design, systems mechanics, and narrative at GameDevProducer."
 slug: "game-producer-vs-scrum-master-what-is-the-difference"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "This is the most common and most disruptive conflict. The Scrum framework says scope changes mid-sprint require a sprint cancellation, which is a drastic and rarely-used tool. In game dev practice, the Producer and Scrum Master need a pre-agreed protocol: usually, mid-sprint additions require removing something of equivalent size, and that trade has to be visible to the whole team. Hiding scope additions from the team is how you break trust and start burning people out."
   - q: "Is the Scrum Master role even necessary for game development?"
     a: "Honestly, it depends on team size and maturity. Teams of fewer than six people who are experienced with agile can often self-facilitate. Larger teams, or teams new to Scrum, benefit enormously from a dedicated facilitator and coach. The mistake studios make is hiring a Scrum Master and then treating them like an administrative assistant or a junior Producer. If you're going to have the role, give it the authority and space to actually do the job."
+author_slug: "priya-sharma"
+author_title: "Contributing Writer"
 ---
 
 You've just joined a mid-sized studio as a Scrum Master, but three weeks in, the Game Producer keeps assigning you tasks that have nothing to do with facilitation: negotiating with external audio vendors, writing milestone reports for the publisher, and deciding which features get cut before the next sprint. You're confused. So is the Producer. Nobody defined these roles clearly before the project kicked off, and now you're both stepping on each other's toes while the team watches the awkward dance.
