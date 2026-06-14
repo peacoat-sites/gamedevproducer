@@ -6,8 +6,8 @@ description: "Learn how to become a game producer with no experience. Discover k
 image: "https://images.pexels.com/photos/9071462/pexels-photo-9071462.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["careers"]
 tags: ["become", "game", "producer", "with", "experience"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "how-to-become-a-game-producer-with-no-experience"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Applying for producer roles before targeting associate producer or production coordinator roles. The leap is too far without credits or industry experience. Starting at the coordinator level, building internal credibility, and moving up is the path that actually works. The other common one is underinvesting in the networking side and expecting job applications alone to get them in."
   - q: "Can I become a game producer remotely without being near a games hub?"
     a: "It's harder but not impossible. Your best remote path is building a strong enough online presence in game dev communities that people know your work before you apply, and targeting companies with established remote cultures like Riot, certain mobile studios, or remote-first indie publishers. Expect it to take longer than if you were physically present in a games market."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Nobody in games has a clean origin story. The producers I respect most started as QA testers, English teachers, failed musicians, one guy I know was a Subway sandwich artist for three years before landing his first coordinator role at a mid-size studio. The path into production is genuinely messy, and most advice you'll find online treats it like a linear career ladder when it's really more like a climbing wall with half the handholds missing.
