@@ -6,8 +6,8 @@ description: "Discover the key operational challenges remote game development pr
 image: "https://images.pexels.com/photos/7869093/pexels-photo-7869093.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["remote", "game", "development", "operational", "challenges"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Samantha Roberts"
+author_bio: "Samantha Roberts writes about game publishing, pitching, and bringing games to market."
 slug: "remote-game-development-operational-challenges-for-producers"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Over-meeting to compensate for lack of visibility. It feels productive. It destroys your team's actual output. The instinct to add a sync when things feel uncertain is understandable, but the cure is better async infrastructure, not more calendar events."
   - q: "How do I onboard new remote hires onto a game project effectively?"
     a: "Give them a structured first-two-weeks document, not a wiki link and a wave. This should include: who to meet and when, what tools to get access to (with step-by-step instructions, not just tool names), what the project's current state is in plain language, and a small, meaningful task they can complete and ship in week one. Getting something real done early builds confidence and integration faster than any number of onboarding calls."
+author_slug: "samantha-roberts"
+author_title: "Contributing Writer"
 ---
 
 You sent the Slack message at 9 AM your time. Your lead animator is in Warsaw, your engine programmer is in Vancouver, and your narrative designer just moved to Cape Town. By the time everyone has theoretically read your update, it's tomorrow. And somehow, the sprint still ends on Friday. If you're producing a remote game development team right now, you already know this feeling. The question is what to actually do about it.
