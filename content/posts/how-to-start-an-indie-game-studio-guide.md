@@ -6,8 +6,8 @@ description: "Learn how to start an indie game studio with our complete guide co
 image: "https://images.pexels.com/photos/1579240/pexels-photo-1579240.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["strategy"]
 tags: ["start", "indie", "game", "studio", "guide"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "how-to-start-an-indie-game-studio-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Unity and Unreal Engine 4/5 are the realistic choices for most teams. Unity has a larger indie ecosystem and more accessible learning curve; Unreal is more powerful out of the box for 3D but has a steeper ramp. Godot is free, open source, and increasingly capable for 2D. The honest answer: use whatever your team already knows. Switching engines to chase features costs more than people admit."
   - q: "How do I find co-founders or team members for an indie studio?"
     a: "The most reliable sources are people you've already worked with, game jams (Ludum Dare and Global Game Jam both produce real professional relationships), and communities like TIGSource forums or the r/gamedev Discord. Be skeptical of strangers who are 'very passionate' but have no shipped work and no specific skills. Passion without track record is a risk, not an asset."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Most guides about starting an indie studio spend three thousand words telling you to "follow your passion" and "build what you love." They skip the part where you run out of money in month eight and wonder why nobody told you about quarterly estimated taxes.
