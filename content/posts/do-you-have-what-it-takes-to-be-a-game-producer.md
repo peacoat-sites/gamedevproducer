@@ -5,6 +5,10 @@ description: "Take this fun 7-question quiz to find out if game producer is the 
 slug: "do-you-have-what-it-takes-to-be-a-game-producer"
 date: 2026-05-27T10:00:00+00:00
 tags: ["game producer", "game dev careers", "career quiz", "production", "breaking into games"]
+author: "Marcus Webb"
+author_slug: "marcus-webb"
+author_bio: "Marcus Webb covers game engines, technical development, and programming at GameDevProducer."
+author_title: "Technical Editor"
 ---
 
 Producers are the glue of a game studio. They keep dozens of moving parts â€” art, design, engineering, audio, marketing â€” pointed at the same goal and shipping on time. It's less about making the game yourself and more about making sure the game *gets made*.
