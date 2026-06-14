@@ -6,8 +6,8 @@ description: "Struggling with burnout on your game dev team? Discover practical 
 image: "https://images.pexels.com/photos/5380660/pexels-photo-5380660.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team management"]
 tags: ["dealing", "with", "burnout", "game", "team"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "dealing-with-burnout-on-a-game-dev-team"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Don't push directly, because that usually backfires. Instead, reduce their load without making it punitive, and give them a legitimate off-ramp: 'I'm moving X to the backlog so we can focus on Y.' Then check back in two weeks with the same low-pressure question. People often admit what they're actually experiencing once the pressure drops enough to feel safe."
   - q: "Are there any tools specifically for tracking team health in game dev?"
     a: "A few teams I know use Officevibe or its successor Workleap (about $5 per user per month) for anonymous weekly pulse surveys. It's not game-dev-specific but it gives you signal before problems become visible in behavior. Some studios have started using Miro boards for retrospective health checks: anonymous sticky notes, no attribution. Low tech, but people are more honest when their name isn't on it."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Three people quit my team in six weeks once. Not because the game was bad. Not because anyone was difficult to work with. Because we just... kept going. Milestone after milestone, crunch after crunch, and nobody said the thing that needed to be said out loud.
