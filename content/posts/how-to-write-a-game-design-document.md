@@ -6,8 +6,8 @@ description: "Learn how to write a game design document with our step-by-step gu
 image: "https://images.pexels.com/photos/5685982/pexels-photo-5685982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["production"]
 tags: ["write", "game", "design", "document"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "how-to-write-a-game-design-document"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Yes, but a short one. Even if you're the only person on the project, you're not the same person at month eight that you were at month one. A short document that records your core decisions and open questions saves you from relitigating the same design problems repeatedly. Think of it as writing notes to your future, exhausted self."
   - q: "What's the most common GDD mistake?"
     a: "Writing too much before anyone has played anything. The second most common is writing a document nobody can find or knows to update. Both of these kill the document's usefulness. Start lean, keep it in a shared wiki, and treat updates as a team habit."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most game design documents are dead on arrival. Not because the designer didn't care, not because the game idea was bad. Because the writer confused thoroughness with usefulness, and produced something so dense that nobody on the team actually read it.
