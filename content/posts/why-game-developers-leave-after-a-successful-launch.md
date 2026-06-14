@@ -6,8 +6,8 @@ description: "Discover the real reasons game developers quit after a successful 
 image: "https://images.pexels.com/photos/6643685/pexels-photo-6643685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["game", "developers", "leave", "after", "successful"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "why-game-developers-leave-after-a-successful-launch"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Practically, mid-project. If you're starting retention conversations at launch, you're already late for some of your people. The developers who feel most valued are the ones who received ongoing recognition throughout development, not a single thank-you when the credits rolled."
   - q: "What's the best thing a producer can do in the first two weeks after launch?"
     a: "Slow down the operational tempo deliberately and visibly. If the producer is immediately running at the same velocity post-launch, the team reads that as more crunch with a different label. Protect the recovery window. Schedule it. Defend it from stakeholder pressure. Your team will remember that you did."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Your game ships. Reviews are good. Steam numbers are climbing. The Discord is alive. And then, over the next 90 days, three of your best people hand in their notice.
