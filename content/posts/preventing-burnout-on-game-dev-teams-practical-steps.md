@@ -6,8 +6,8 @@ description: "Learn practical strategies to prevent burnout on game dev teams, i
 image: "https://images.pexels.com/photos/9072205/pexels-photo-9072205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["preventing", "burnout", "game", "teams", "practical"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "preventing-burnout-on-game-dev-teams-practical-steps"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Yes, for a specific reason: the commute, annoying as it was, created a hard start and stop signal. Remote work removes that boundary, and 'one more thing before I log off' has no natural ceiling. Remote teams need more explicit structure around working hours, not less."
   - q: "What's the single highest-leverage change a producer can make today?"
     a: "Cancel one recurring meeting that could be an async update. This sounds trivial. It isn't. Every meeting you eliminate returns protected time and signals that you value focused work over performed productivity. Do it publicly and explain why. It models the culture shift you want."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Your lead programmer hasn't taken a real day off in eleven weeks. She's still hitting deadlines, her code still ships clean, and when you ask how she's doing, she says "fine." Three weeks later she hands in her notice. You never saw it coming, but you absolutely should have.
