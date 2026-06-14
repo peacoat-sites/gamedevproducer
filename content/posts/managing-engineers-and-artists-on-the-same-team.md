@@ -6,8 +6,8 @@ description: "Discover proven strategies for managing engineers and artists on t
 image: "https://images.pexels.com/photos/5257005/pexels-photo-5257005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["managing", "engineers", "artists", "same", "team"]
-author: "Jordan Reyes"
-author_bio: "Scrum master turned producer. Translates agile methodology into game dev reality -- what works, what breaks."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "managing-engineers-and-artists-on-the-same-team"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Frame it as a business decision with costs on both sides, not as a request for a favor. Show them what blocked art production costs in schedule days. Then work with them to define a formal 'early access spec,' a documented subset of system functionality that's stable enough for art to work against without triggering rework. Engineers are much more comfortable with early access when it's scoped and documented rather than open-ended."
   - q: "Which productivity or project management tools are most useful for a producer running a mixed team?"
     a: "For small to mid-size teams: HacknPlan for its game-specific task structures, Notion for documentation and decision logs, and Slack or Discord with structured channels per discipline plus a dedicated cross-discipline channel for dependency callouts. For larger teams, Shotgrid for art pipeline management alongside Jira for engineering, with a producer-maintained integration layer between them. The tool matters less than having a single source of truth that both disciplines actually use."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 You're three weeks from alpha, your lead engineer just told you the UI system isn't ready to accept art assets yet, and your lead artist is standing in the doorway asking why her team has been blocked for five days. Both of them are right. Both of them are frustrated. And you're the producer sitting between two people who speak entirely different professional languages, trying to keep the project moving without losing either of them. If that scenario sounds familiar, you've already discovered the core challenge of mixed-discipline team management in game development.
