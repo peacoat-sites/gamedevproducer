@@ -6,8 +6,8 @@ description: "Discover the best project management tools for game studios. Compa
 image: "https://images.pexels.com/photos/17063686/pexels-photo-17063686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["best", "project", "management", "tools", "game"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "best-project-management-tools-for-game-studios"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Using too many simultaneously. I've seen teams with tasks split across Jira, Notion, a Google Sheet, and a Trello board, with different disciplines 'preferring' different ones. That's not a tooling problem anymore, it's a culture problem. Pick one authoritative tool for task tracking. Everything else supports it or gets cut."
   - q: "When should a studio consider switching tools?"
     a: "When your current tool creates more work than it eliminates. Specific signs: producers spend more than 30 minutes a day just maintaining the tool; team members regularly bypass it for 'real' work tracking; you can't answer basic questions like 'how many tasks are blocked right now?' or 'what's the risk to the next milestone?' in under five minutes. Migration is painful, but the pain is finite. Living in the wrong tool costs you every single day."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most game studios don't fail because they lack talent. They fail because nobody could answer the question "what is actually happening right now?" at 9am on a Monday morning. A producer I know spent three weeks reconstructing a sprint history from Slack threads and a whiteboard photo because their studio had been tracking work in four different tools simultaneously, none of them authoritative. That's not a planning problem. That's a tooling problem, and it's more common than anyone in this industry likes to admit.
