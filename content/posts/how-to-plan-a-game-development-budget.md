@@ -6,8 +6,8 @@ description: "Learn how to plan a game development budget with expert tips on es
 image: "https://images.pexels.com/photos/29457610/pexels-photo-29457610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["budgeting"]
 tags: ["plan", "game", "development", "budget"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Jordan Lee"
+author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
 slug: "how-to-plan-a-game-development-budget"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Yes, even if it's below market rate. Deferred pay is not free. It's debt the project owes you, and it needs to show up in your financial model. If your game needs to earn $800,000 to pay back deferred salaries before it turns a profit, you need to know that going in so you can evaluate whether the revenue projections actually support it."
   - q: "What's a good tool for game development budgeting?"
     a: "For small teams, a well-structured spreadsheet or Airtable base honestly covers most of what you need. For mid-size projects tracking multiple roles and contract work, Runn ($8/person/month) is worth a look. For overall project tracking alongside budget, Notion's project templates can work well once you've built out the structure. The book The Game Producer's Handbook by Dan Irish is dated in some places but still has the most practical chapter on game budgeting I've found in print."
+author_slug: "jordan-lee"
+author_title: "Contributing Writer"
 ---
 
 Most first-time game budgets are wrong by a factor of two. Not 10-20% off. Double. I've seen it enough times that I stopped being surprised by it, but I still find it worth investigating why that happens, because the reasons aren't what most people assume.
