@@ -6,8 +6,8 @@ description: "After a brutal crunch, your team is burned out and updating resume
 image: "https://images.pexels.com/photos/7849517/pexels-photo-7849517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["crunch", "aftermath", "rebuild", "team", "trust"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "crunch-aftermath-how-to-rebuild-team-trust"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Direct conversation, privately. Don't reference the checked-out behavior indirectly. Ask what they need to feel invested again. Sometimes the answer is a specific creative problem they care about. Sometimes they're already mentally out the door and the honest thing is helping them transition well. Trying to manufacture engagement without addressing the underlying issue just delays the exit and frustrates everyone."
   - q: "When is it okay to start talking about the next project?"
     a: "When your pulse survey scores are back above 3.5 across the board, when you've addressed at least the highest-priority structural issue that caused crunch, and when people are voluntarily bringing energy and ideas to conversations rather than waiting to be asked. That's the signal. Calendar date alone means nothing."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 The project shipped. Congratulations. Your team worked 70-hour weeks for three months, someone cried in the parking lot, two people quietly updated their LinkedIn profiles mid-crunch, and now you're sitting in a fluorescent-lit conference room trying to lead a "we did it!" retrospective while half the room stares at the table. The game is out. The team is broken. And nobody in leadership is talking about the second problem.
