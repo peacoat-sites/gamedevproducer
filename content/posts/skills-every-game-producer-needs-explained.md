@@ -6,8 +6,8 @@ description: "Learn the essential skills every game producer needs to succeed, f
 image: "https://images.pexels.com/photos/9068934/pexels-photo-9068934.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["careers"]
 tags: ["skills", "every", "game", "producer", "needs"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "skills-every-game-producer-needs-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Mixed answer here: pure Scrum is a bad fit for game dev and a lot of studios know it. But the underlying principles, short feedback loops, visible work, regular retrospectives, are genuinely useful. Most successful studios run some hybrid. The biggest mistake is adopting the ceremony without the mindset."
   - q: "What's the best way to get better at estimation and scheduling?"
     a: "Track your actuals obsessively for six months. Compare what you planned to what shipped, and be honest about why the gaps happened. No tool will make you a better estimator faster than your own project data. Mike Cohn's Agile Estimating and Planning is also worth reading if you want a framework to go with the practice."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Most game producers I've met either learned the job by accident or got promoted from a discipline they were already good at. A programmer who was good at talking to people. A designer who kept the spreadsheet everyone else ignored. An artist who started running the standup because nobody else would. That's not a bad origin story, actually. But it does mean a lot of producers are operating on instinct, patching gaps as they appear, without ever sitting down and asking: what does this job actually require?
