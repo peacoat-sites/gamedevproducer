@@ -6,8 +6,8 @@ description: "Explore how psychological safety transforms game development playt
 image: "https://images.pexels.com/photos/7047617/pexels-photo-7047617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["psychological", "safety", "game", "development", "playtests"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "psychological-safety-in-game-development-playtests"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "More frequent, lower-stakes sessions build better feedback culture than infrequent high-stakes ones. A weekly 30-minute session where one feature is tested feels less threatening than a quarterly review where the entire game's direction hangs in the balance. Teams that test frequently develop a healthier relationship with critique because no single session carries existential weight. What is a game milestone and how do alpha, beta, and gold relate to playtest cadence is useful context here for producers structuring their testing calendar."
   - q: "What do you do when playtest data directly contradicts the creative director's vision?"
     a: "Present the data clearly and let it speak without editorializing. Don't frame it as 'players hate the vision.' Frame it as 'here's the specific behavior we observed, and here are three possible explanations for why it's happening.' Give the creative director ownership of the interpretation. Your job as a producer or researcher is to make sure the data gets seen accurately, not to win an argument. If the creative director consistently overrides clear player feedback and it's creating production risk, that's a leadership conversation, not a playtest facilitation problem."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Picture this: your lead designer has spent six weeks building a core combat loop. It's their baby. The first playtest session arrives, and a tester sits down, fumbles through the tutorial, puts the controller down after twelve minutes, and says "I don't really get what I'm supposed to be doing." The room goes quiet. The designer's jaw tightens. Two testers notice the tension and spend the next forty minutes saying things like "it's pretty fun" and "I just need to learn the controls better." You walk away with almost no usable data, and nobody talks about what actually happened.
