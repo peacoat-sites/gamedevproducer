@@ -6,8 +6,8 @@ description: "Art debt in game production refers to shortcuts and compromises ma
 image: "https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["pm frameworks"]
 tags: ["debt", "game", "production", "what", "manage"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "art-debt-in-game-production-what-it-is-and-how-to-manage-it"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Absolutely. Non-compliant texture atlases break batching and increase draw calls. Excessive polygon counts on background assets eat GPU budget. Unoptimized particle effects stack up in scenes. Art debt that reads as a visual quality issue often has a performance shadow that only shows up on minimum spec hardware."
   - q: "What tools help track art debt?"
     a: "Jira and Shotgrid (formerly Shotgun) are the most common in mid-to-large studios. Jira is more flexible for custom workflows; Shotgrid was built specifically for media asset pipelines. For smaller teams, Notion databases or even a well-structured Google Sheet will serve you fine. The tool matters less than the discipline of keeping it current."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 You ship Alpha, the milestone review goes well, and leadership is happy. Then someone on your art team quietly mentions that half the environment assets are placeholder geometry with temporary textures slapped on top. The character rigs are messy because they were built fast during pre-production. The UI icons are inconsistent because three different artists made them during a crunch sprint six months ago. Nobody wrote it down. Nobody triaged it. It just... accumulated. That's art debt, and if you've never dealt with it deliberately, you've probably already lost weeks to it without knowing.
