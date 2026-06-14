@@ -6,8 +6,8 @@ description: "Game producer career path: Learn essential steps from associate to
 image: "https://images.pexels.com/photos/7915361/pexels-photo-7915361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "career", "path", "from"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Jordan Lee"
+author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
 slug: "game-producer-career-path-from-associate-to-executive"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "This is normal and fine. Some of the best producers in the industry spend 10+ years as Senior Producer, running bigger and bigger projects. The trap is staying at Senior Producer level while feeling undervalued and overworked. If you're not moving up, make sure you're being compensated appropriately and that you genuinely enjoy the work. If you're burnt out, that's a production failure, not a culture problem, and you should probably move studios."
   - q: "Q: What books or courses help you prepare for promotion?"
     a: "'The Goal' by Goldratt is the classic for understanding constraint theory and project management. 'Radical Candor' by Kim Scott is useful for the people side. 'The Phoenix Project' applies manufacturing concepts to software. For game-specific learning, look for courses on production methodology, and more importantly, spend time in your actual game's pre-production and production phases. Real projects teach you more than any book. Tools like Asana, Monday.com, or Jira Academy have free learning paths for their platforms, which is time well spent. Your career as a producer isn't a straight line"
+author_slug: "jordan-lee"
+author_title: "Contributing Writer"
 ---
 
 You've been promoted to Associate Producer. Your first week, someone asks you to "own" the art schedule. You nod, open a spreadsheet, and realize you have no idea what you're actually supposed to do. Sound familiar? You're not alone. The jump from QA, design, engineering, or marketing into production is one of the sharpest learning curves in game development, and nobody really tells you what the next five to ten years looks like. That's what we're covering here.
