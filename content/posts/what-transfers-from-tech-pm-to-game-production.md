@@ -6,8 +6,8 @@ description: "Discover how tech PM skills like roadmapping, stakeholder manageme
 image: "https://images.pexels.com/photos/8123885/pexels-photo-8123885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["what", "transfers", "from", "tech", "game"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Jordan Lee"
+author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
 slug: "what-transfers-from-tech-pm-to-game-production"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Yes, but rarely by the book. Most studios run a hybrid: sprint structure borrowed from Scrum, milestone-based planning from waterfall, and a lot of informal iteration that doesn't show up in any framework. Your job is to make whatever process exists more visible and more predictable, not to implement textbook Agile."
   - q: "What's the biggest mistake tech PMs make when switching to game production?"
     a: "Optimizing for process correctness over team trust. Coming in with a better system than the studio currently uses doesn't matter if you haven't built enough credibility for people to follow it. Fix the culture of your Jira board after you've fixed your relationships."
+author_slug: "jordan-lee"
+author_title: "Contributing Writer"
 ---
 
 You're three weeks into your new associate producer role at a mid-sized game studio, and your Jira board looks immaculate. Epics are nested, tickets are groomed, velocity is tracked. Your engineering lead walks by, glances at the screen, and says "that's cute." Not mean about it. Just... unimpressed. You've run software sprints for five years. You shipped a payments platform used by millions. And somehow, you feel like you're starting from zero. That gap between tech PM confidence and game production reality is real, and it catches almost everyone off guard.
