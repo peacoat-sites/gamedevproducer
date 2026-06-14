@@ -184,6 +184,26 @@
       </ul>
     </div>
 
+    {{ with .Params.author }}
+    {{ $authorName := . }}
+    {{ $authorSlug := $.Params.author_slug | default (urlize .) }}
+    {{ $authorPosts := where site.RegularPages "Params.author" $authorName }}
+    {{ if gt (len $authorPosts) 1 }}
+    <div class="widget">
+      <div class="widget-title">More by {{ $authorName }}</div>
+      <ul class="widget-list">
+        {{ $currentPermalink := $.Permalink }}
+        {{ range ($authorPosts | first 6) }}
+          {{ if ne .Permalink $currentPermalink }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}<span>{{ (int (math.Round (div .WordCount 450.0))) }} min</span></a></li>
+          {{ end }}
+        {{ end }}
+      </ul>
+      <a href="/{{ $authorSlug }}/" style="display:block;margin-top:10px;font-size:.8rem;font-weight:600;color:var(--accent,#4338ca);text-decoration:none">View all articles &rsaquo;</a>
+    </div>
+    {{ end }}
+    {{ end }}
+
   </aside>
 </div>
 
