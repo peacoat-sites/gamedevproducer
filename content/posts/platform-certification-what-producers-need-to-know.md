@@ -6,8 +6,8 @@ description: "Learn what platform certification means for producers, why it matt
 image: "https://images.pexels.com/photos/12899191/pexels-photo-12899191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["platform", "certification", "what", "producers", "need"]
-author: "Jordan Reyes"
-author_bio: "Scrum master turned producer. Translates agile methodology into game dev reality -- what works, what breaks."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "platform-certification-what-producers-need-to-know"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "The base requirements apply to everyone. That said, some platform holders offer a 'self-certification' or expedited path for certain developer tiers or for small, low-risk titles (particularly on Nintendo eShop). Larger partners with strong track records also tend to get more detailed feedback and sometimes faster turnaround. None of these exceptions eliminate the process, they just smooth some of the edges."
   - q: "What tools or resources should producers use to prepare for cert?"
     a: "The most useful resources are the official requirement documents themselves (always check the version number), your platform technical account manager if you have one, and a well-maintained tracking spreadsheet. For project management, Jira and Hacknplan both work well for tagging cert requirements to tasks. For broader production knowledge, the book 'The Game Production Handbook' by Heather Maxwell Chandler covers cert-adjacent processes clearly. Jason Schreier's 'Press Reset' is less prescriptive but gives you a clear picture of what goes wrong when these processes break down."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 You've locked content. The game runs. QA has signed off. Then someone on your team quietly mentions the cert submission deadline is in three days, and you realize you've never actually read the platform holder's technical requirements document. That moment of cold dread is completely avoidable, and it happens more often than anyone in the industry likes to admit. Platform certification has ended careers, delayed launches by months, and cost studios hundreds of thousands of dollars in overtime and lost revenue. It doesn't have to go that way.
