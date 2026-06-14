@@ -6,8 +6,8 @@ description: "Learn how to level up from associate producer to producer with pro
 image: "https://images.pexels.com/photos/6804068/pexels-photo-6804068.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 categories: ["role identity"]
 tags: ["associate", "producer", "producer", "level"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "associate-producer-to-producer-how-to-level-up"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "A Certified Scrum Master (CSM) is genuinely respected in game dev circles and takes a weekend. PMP is more work and more recognized outside the industry, which matters if you ever want to move laterally into tech or film production. Neither is required, but both signal initiative. The Scrum.org PSM I is free to study for and carries real weight."
   - q: "How do I ask for a promotion without damaging the relationship with my producer?"
     a: "Frame it as a conversation about growth, not a demand. Ask your producer directly: 'What would I need to demonstrate to be considered for a producer role here?' That question does two things. It puts the criteria on the table, and it signals you're serious without being threatening. If they can't answer it or dodge it, that's useful information about whether internal growth is actually possible."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 You're running the daily standup. You've been doing it for eight months. You know every ticket in Jira, every blocker, every dev who always lowballs their estimates. Your producer is in back-to-back meetings and the team functionally treats you like the producer already. Then the senior producer role opens up internally, and someone from outside gets it. That's the moment most APs realize: doing the job isn't the same as being ready for the job.
