@@ -6,8 +6,8 @@ description: "Discover what a game production pipeline is, how it works, and why
 image: "https://images.pexels.com/photos/9072275/pexels-photo-9072275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["production"]
 tags: ["what", "game", "production", "pipeline"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "what-is-a-game-production-pipeline"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Pre-production, and specifically in the first few weeks of it. The worst time to define your pipeline is when you're already under production pressure. The second-worst time is never. If you're mid-production without a defined pipeline, it's not too late to establish one, but expect a painful transition period as the team adjusts to new processes mid-flight."
   - q: "What happens when the pipeline breaks down?"
     a: "Crunch, missed milestones, and a specific kind of team morale damage that's hard to recover from. When handoffs between disciplines consistently fail, people stop trusting each other's work, start duplicating effort defensively, and begin working around the process instead of through it. Fixing a broken pipeline usually requires stopping, doing a short honest retrospective, and re-establishing the agreements that make the workflow function. It's uncomfortable, and it takes time you feel like you don't have. You have less time if you don't do it."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most people who ask "what is a game production pipeline?" are expecting an org chart answer. A neat flowchart with Pre-Production feeding into Production feeding into Post-Launch. What they actually need to understand is something messier, more interesting, and honestly more useful: a pipeline is a set of agreements about how work flows through a team, and when those agreements break down, games die.
