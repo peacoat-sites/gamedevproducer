@@ -6,8 +6,8 @@ description: "Discover the key game development milestones every developer shoul
 image: "https://images.pexels.com/photos/34037760/pexels-photo-34037760.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["milestones"]
 tags: ["game", "development", "milestones", "explained"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "game-development-milestones-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "A sprint review happens at the end of a 2-4 week sprint and assesses progress against that sprint's goals. A milestone is a larger gate that assesses the project's overall health and readiness to move to the next phase of development. Sprint reviews are tactical; milestones are strategic. You need both."
   - q: "What happens if a team misses a milestone?"
     a: "You assess why, honestly. Missing a milestone isn't automatically a project failure, but it is data. Was the scope wrong? Was the estimate wrong? Was something unexpected technically? The answer shapes what changes next. If a team misses multiple milestones in a row without changing anything, that's when the project is in real trouble."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most games don't die because the team ran out of talent. They die because nobody knew when to stop, reassess, or kill something early enough.
