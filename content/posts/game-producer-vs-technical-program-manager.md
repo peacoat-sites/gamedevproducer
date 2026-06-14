@@ -6,8 +6,8 @@ description: "Discover the key differences between a game producer and a technic
 image: "https://images.pexels.com/photos/5945799/pexels-photo-5945799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "technical", "program", "manager"]
-author: "Priya Nair"
-author_bio: "Associate producer turned executive. Writes about team dynamics, escalation patterns, and the human side of game dev."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "game-producer-vs-technical-program-manager"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Write it down. Seriously. A one-page RACI (Responsible, Accountable, Consulted, Informed) document for the 10 most common decisions you'll face: scope changes, milestone adjustments, team staffing shifts, external partner delays, build health escalations. Ambiguity is fine at the start of a project but costs you badly by the middle. The best producer/TPM partnerships I've seen had a clear written agreement on who owns what, revisited it quarterly, and had enough trust to call out when lines were being crossed."
   - q: "Should game studios hire more TPMs as the industry shifts toward live service?"
     a: "Yes, cautiously. Live service fundamentally changes the coordination problem. You're not shipping once; you're shipping continuously across backend, client, content, and balance updates, often with contractual content cadences and platform partner dependencies. That's a program management challenge that benefits from TPM thinking. But hiring TPMs without also investing in strong producers is a mistake. The TPM makes the machine run better. The producer keeps the machine pointed at something worth shipping."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 You're three months into shipping a live-service title, sprint planning is a mess, and your studio head just told you they're bringing in a "Technical Program Manager" to help. Your first thought: *isn't that just what I do?* It's a reasonable question, and the fact that nobody has a clean answer to it is causing real dysfunction at studios right now.
