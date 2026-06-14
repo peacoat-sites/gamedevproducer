@@ -17,6 +17,10 @@ faqs:
     a: "Unity has the highest job demand by volume — it powers roughly 38% of games on Steam and dominates mobile game development. Unreal Engine is close behind for 3D and console roles."
   - q: "What salary can I expect as a game developer?"
     a: "In the U.S., median game developer salaries range from $48k (QA tester) to $128k (lead programmer). Game producers earn around $98k median. Compensation is higher at AAA studios and in major markets like Seattle, Los Angeles, and Austin."
+author: "Ryan Cole"
+author_slug: "ryan-cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author_title: "Senior Contributing Writer"
 ---
 
 Choosing the right game engine is one of the most consequential decisions in your game development journey — it affects your workflow, job prospects, royalties, and the ceiling of what you can build.
