@@ -6,8 +6,8 @@ description: "Discover the best game producer tools and software for project man
 image: "https://images.pexels.com/photos/24497392/pexels-photo-24497392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "tools", "software", "project"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Marcus Webb"
+author_bio: "Marcus Webb covers game engines, technical development, and programming at GameDevProducer."
 slug: "game-producer-tools-and-software-for-project-management"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Sort of. Notion doesn't have native sprint tracking, burn-down charts, or velocity calculations. You can fake it with databases and linked views, and some templates do this reasonably well. But if sprint discipline matters to your production, you'll hit the ceiling fast and wish you'd started in a tool built for it. Use Notion for documentation and a real project management tool for task tracking."
   - q: "What's the difference between Hack n Plan and Jira for game dev?"
     a: "Hack n Plan is built specifically for games, so things like discipline tagging, milestone structure, and estimation are already built in without configuration. Jira is more powerful and more flexible but starts as a blank slate you have to shape for game dev use. For a team that doesn't have a producer or project manager with Jira experience, Hack n Plan gets you productive faster. For a team with complex QA pipelines or publisher reporting requirements, Jira's depth is worth the setup time."
+author_slug: "marcus-webb"
+author_title: "Technical Editor"
 ---
 
 You're three weeks into production, your team is split across two time zones, and someone just pinged you asking which version of the level design doc is "the real one." There are four copies. Two are in Discord, one's in a Google Drive folder nobody can find, and the last one is in a Notion page that got duplicated by accident. This is not a rare situation. I've seen it kill momentum on otherwise solid projects, and I've watched teams spend entire sprint reviews untangling documentation chaos instead of reviewing actual work. The right tools don't make you a better producer overnight, but the wrong ones, or the absence of any real system, will quietly wreck you.
