@@ -6,8 +6,8 @@ description: "Learn how to run an effective playtest, collect meaningful feedbac
 image: "https://images.pexels.com/photos/9072221/pexels-photo-9072221.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["metrics"]
 tags: ["playtest", "gather", "feedback"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Priya Sharma"
+author_bio: "Priya Sharma covers game design, systems mechanics, and narrative at GameDevProducer."
 slug: "how-to-run-a-playtest-and-gather-feedback"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Averaging qualitative data. When five players give you written responses and one of them says the combat felt slow, that's not '20% of players found combat pacing problematic.' That's one person's impression. Weight feedback by frequency, specificity, and behavioral evidence, not by counting mentions."
   - q: "How do I handle it when playtesters give contradictory feedback?"
     a: "Contradictory feedback usually means you're testing with people who have different expectations, not that the feedback is useless. Segment by player profile first. If two players with identical profiles give opposite reactions, that's genuinely ambiguous and worth investigating further rather than picking a winner."
+author_slug: "priya-sharma"
+author_title: "Contributing Writer"
 ---
 
 Most playtest advice teaches you how to run a session. Almost none of it teaches you how to get information you can actually use. Those are different skills, and conflating them is why so many teams walk out of playtests feeling good and walk into crunch six months later discovering the same problems players warned them about in February.
