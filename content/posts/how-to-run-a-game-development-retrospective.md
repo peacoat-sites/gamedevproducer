@@ -6,8 +6,8 @@ description: "Learn how to run a game development retrospective that boosts team
 image: "https://images.pexels.com/photos/33879866/pexels-photo-33879866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["game", "development", "retrospective"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "how-to-run-a-game-development-retrospective"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Run them, but adjust. Post-crunch retros need more time, maybe 90 minutes, and the Mad/Sad/Glad format works better than a process-focused one. People need to process the emotional reality before they can think clearly about systemic fixes. Acknowledge the crunch directly and specifically before jumping into what to change next time."
   - q: "How long should a project post-mortem take vs a sprint retro?"
     a: "Sprint retro: 60 minutes max. Milestone retro: 90 minutes to 2 hours. Full project post-mortem: this can take a half day done properly, especially for projects over a year long. For post-mortems I recommend a timeline exercise where the team reconstructs major events from memory before analysis. It surfaces things that no one person remembered alone and builds a shared understanding of what actually happened."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most retrospectives I've sat in felt like group therapy sessions where nothing actually changed. The team vented, someone wrote stuff on sticky notes, and three weeks later we were repeating the exact same mistakes. Sound familiar? The problem usually isn't the format. It's that producers treat retros as a ceremony to complete rather than a tool to use. After running retrospectives across projects ranging from 6-week mobile jam games to multi-year console titles, I've learned that a good retro can be the single highest-leverage hour of your sprint. A bad one actively damages trust. Here's how to run one that does real work.
