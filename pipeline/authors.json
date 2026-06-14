@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Ryan Cole",
+    "slug": "ryan-cole",
+    "title": "Production Lead",
+    "bio": "Ryan Cole has spent a decade working in game production across mobile, PC, and console projects. He started as a junior producer at a mid-size studio and worked his way up by learning to ship on schedule without burning out his team. At GameDevProducer, he covers production frameworks, milestone planning, and the practical side of getting a game from concept to launch."
+  },
+  {
+    "name": "Samantha Roberts",
+    "slug": "samantha-roberts",
+    "title": "Publishing Strategist",
+    "bio": "Samantha Roberts has spent her career navigating the publisher side of the games industry: first pitching indie studios to publishers, then working inside a publishing label evaluating hundreds of projects. She knows what publishers look for and what indie developers consistently get wrong in their pitch decks. At GameDevProducer, she covers publishing strategy, funding, and the business of bringing a game to market."
+  },
+  {
+    "name": "Marcus Webb",
+    "slug": "marcus-webb",
+    "title": "Technical Lead",
+    "bio": "Marcus Webb is a game programmer who has shipped titles on four different engines and spent years leading technical teams on projects ranging from small indie releases to mid-budget productions. He approaches technical leadership as a craft, not just a job title. At GameDevProducer, he covers engine decisions, technical architecture, programming pipelines, and leading developers without micromanaging them."
+  },
+  {
+    "name": "Jordan Lee",
+    "slug": "jordan-lee",
+    "title": "Contributing Writer",
+    "bio": "Jordan Lee went from solo developer to small studio founder, shipping three commercial titles across PC and mobile over six years. Along the way, he learned most of what he knows about pricing, discoverability, and platform strategy the hard way, usually by getting them wrong first. At GameDevProducer, Jordan covers the business side of indie development: Steam algorithms, pricing strategy, how to build a sustainable studio without outside funding, and what actually moves the needle on launch day."
+  },
+  {
+    "name": "Priya Sharma",
+    "slug": "priya-sharma",
+    "title": "Design & Narrative Editor",
+    "bio": "Priya Sharma is a game designer with a particular focus on systems that create engaging games, covering everything from core loop design to narrative structure. She has worked on titles across multiple genres and believes that good design is invisible to the player. At GameDevProducer, she covers game design principles, narrative mechanics, player psychology, and the craft of building experiences that keep people playing."
+  },
+  {
+    "name": "Tyler Brooks",
+    "slug": "tyler-brooks",
+    "title": "Studio & Leadership Writer",
+    "bio": "Tyler Brooks has managed game development teams for over a decade, scaling one studio from a two-person project to a full team. He has navigated the full studio lifecycle and writes about what actually works when it comes to building and leading a game development organization. At GameDevProducer, he covers team management, studio operations, hiring, culture, and the leadership challenges that come with growing a game development business."
+  }
+]
