@@ -3,6 +3,9 @@
 {{- if eq .Section "posts" -}}
 
 <div class="post-wrap">
+  <aside class="left-rail">
+    {{ partial "amazon-products.html" . }}
+  </aside>
   <article class="post-main">
 
     <!-- Breadcrumb -->
@@ -225,9 +228,7 @@
   </aside>
 </div>
 
-<!-- Amazon Products bottom strip (articles only) -->
 
-{{ partial "amazon-products.html" . }}
 
 {{- else -}}
 
