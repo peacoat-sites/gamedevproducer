@@ -6,8 +6,8 @@ description: "Learn how to manage introverts and extroverts on game teams effect
 image: "https://images.pexels.com/photos/7212946/pexels-photo-7212946.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 categories: ["team psychology"]
 tags: ["managing", "introverts", "extroverts", "game", "teams"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "managing-introverts-and-extroverts-on-game-teams"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Introverts burning out go more internal. You'll see more single-word answers, missed async contributions, camera off during calls where they used to be engaged. Extroverts burning out get brittle. More friction in feedback sessions, more reactive in Slack, sudden withdrawal from the social rituals they normally initiate. Neither is dramatic. Both require you to ask a direct question in private before it becomes a crisis."
   - q: "Is it worth doing a team personality assessment like Myers-Briggs or DISC?"
     a: "Useful for opening conversations, not for making decisions. I've seen teams use DISC well as a shared language: 'I process better in writing, here's why.' That's valuable. Where assessments go wrong is when people use them to categorize or excuse: 'She's an introvert so she won't want to present.' Run the assessment, use the vocabulary, then watch the actual behavior. The person is always more accurate than the type."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Your lead engineer hasn't spoken in three standups this week. Your narrative designer won't stop talking in them. Both are doing excellent work. The problem isn't performance. The problem is you've built one communication system and expected two fundamentally different people to thrive in it equally. They won't.
