@@ -6,8 +6,8 @@ description: "Lessons from 20 years of GDC post-mortems: insights on game develo
 image: "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["industry intel"]
 tags: ["lessons", "from", "years", "post-mortems"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "lessons-from-20-years-of-gdc-post-mortems"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Based on postmortems from the last decade, the single most predictive metric is whether estimated work completed per week is trending up, stable, or down. Trending down early in production is a warning sign that estimation is breaking down or scope is expanding silently. Stable throughout production is what successful projects show."
   - q: "Q: How do you keep the team motivated after you've frozen scope and delayed features?"
     a: "Transparency helps more than you'd think. Teams get demoralized by surprises, not by clear expectations. When you tell people upfront 'we're shipping these features by month 12, here's what's deferred,' they adjust. When you tell them everything's launching on schedule and then cut features in month 11, morale collapses. The 2016 postmortem from a team that handled this well specifically noted that being clear about deferral from month two made their team more engaged, not less."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 # Article Body
