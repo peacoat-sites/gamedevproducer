@@ -6,8 +6,8 @@ description: "Plan game dev team capacity effectively with proven strategies. Le
 image: "https://images.pexels.com/photos/10607624/pexels-photo-10607624.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["capacity", "planning", "game", "development", "teams"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "capacity-planning-for-game-development-teams"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Counting people, not work. New producers often start by listing who's on the team. The better starting point is listing the work that needs to happen, estimating it honestly, and then figuring out whether the team can do it. That order change forces a confrontation with reality earlier."
   - q: "How often should I revisit capacity models during a long production cycle?"
     a: "At minimum, every milestone. In practice, I'd recommend a light recalibration every four to six sprints, especially if team composition has changed, scope has shifted, or your velocity data is drifting significantly from your estimates. Capacity models are not set-and-forget."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The post-mortem reveals no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.
