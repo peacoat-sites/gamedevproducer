@@ -6,8 +6,8 @@ description: "Agile game development methodologies explained. Learn proven pract
 image: "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["pm frameworks"]
 tags: ["agile", "game", "development", "what", "actually"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "agile-game-development-what-actually-works-in-practice"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Yes, track them separately so you can see bottlenecks. If artists have 100 points and engineers have 150 consistently, your feature planning is mismatched. Use that signal to rebalance work or bring in more art support."
   - q: "How do we know if our agile process is actually working?"
     a: "You're hitting milestones. Team morale isn't declining. You're not shipping crunch regularly. You can see what's blocking progress. You can add new features without cascading failures. If those things are true, your process is working. The goal isn't perfect agile. It's shipping better games with sustainable practices. If your process gets you there, it's working. If it doesn't, change it."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 You're three weeks into sprint planning, and your tech lead just told you that the animation system needs a complete rebuild. Your art director says they can work around it. Your marketing team says you've already committed to a vertical slice demo next month. Your lead producer looks at you like you're supposed to have an answer. This is where agile meets reality in game development, and it's rarely as clean as the textbooks suggest.
