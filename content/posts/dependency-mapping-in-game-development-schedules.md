@@ -6,8 +6,8 @@ description: "Discover how dependency mapping streamlines game development sched
 image: "https://images.pexels.com/photos/7915382/pexels-photo-7915382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["dependency", "mapping", "game", "development", "schedules"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "dependency-mapping-in-game-development-schedules"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Both, but for different purposes. Milestone-level dependencies give leadership visibility into how major deliverables connect. Task-level dependencies give teams the information they need to sequence their daily work. The milestone map won't catch the engine integration issue. The task map will."
   - q: "How often should dependency maps be reviewed during production?"
     a: "At minimum, review after any significant scope change and at the start of each new production phase. On a fast-moving project, a quick dependency audit at the start of each sprint or two-week cycle is worth the hour it takes. Stale dependency data is worse than no data because it creates false confidence."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most game projects don't die because the team ran out of talent. They die because nobody noticed that the combat system needed finalized player stats, which needed a locked design doc, which needed sign-off from a creative director who was waiting on competitive research that nobody had assigned. One blocked task becomes five blocked tasks becomes a sprint where half the team is spinning wheels. I've watched this happen on a 40-person project where the producer had a perfectly color-coded Gantt chart. The schedule looked great. The dependencies were invisible. That's the problem this article is about.
