@@ -6,8 +6,8 @@ description: "Learn the top game producer interview questions and answers to hel
 image: "https://images.pexels.com/photos/9068901/pexels-photo-9068901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "interview", "questions", "answers"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Priya Sharma"
+author_bio: "Priya Sharma covers game design, systems mechanics, and narrative at GameDevProducer."
 slug: "game-producer-interview-questions-and-answers"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Yes, if you have them. A one-page production timeline, a sample risk log, or a sprint structure you built from a real project signals that you're already doing the job, not just talking about doing it. Don't force it into the conversation awkwardly, but have it available if the topic comes up naturally."
   - q: "How do I handle a question about a production failure I was genuinely responsible for?"
     a: "Own it directly. Describe what you missed, what signals you ignored or didn't know to look for, and specifically what you changed afterward. Producers who can't account for their own failures are a liability. The people interviewing you have their own list of things they got wrong. Honesty here builds more trust than a polished deflection."
+author_slug: "priya-sharma"
+author_title: "Contributing Writer"
 ---
 
 You're sitting across from a lead producer at a studio you've wanted to work at for two years. They ask: "Walk me through how you handled a major scope change mid-production." You have a story. You know you have a story. But under pressure, you start rambling about a feature cut that happened mostly because of budget, and you can't quite remember the timeline, and the interviewer is nodding politely in that way that means they've already moved on mentally. That moment, right there, is the one this article is going to help you avoid.
