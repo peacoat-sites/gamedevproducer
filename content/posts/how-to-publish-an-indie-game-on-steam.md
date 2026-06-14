@@ -6,8 +6,8 @@ description: "Learn how to publish your indie game on Steam with our step-by-ste
 image: "https://images.pexels.com/photos/16323444/pexels-photo-16323444.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["publishing"]
 tags: ["publish", "indie", "game", "steam"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Samantha Roberts"
+author_bio: "Samantha Roberts writes about game publishing, pitching, and bringing games to market."
 slug: "how-to-publish-an-indie-game-on-steam"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "No. Individuals can publish on Steam under their own name and SSN (or equivalent). That said, an LLC costs $50-$150 to form in most US states and protects your personal assets if something goes legally sideways. Talk to an actual lawyer or accountant about what makes sense for your situation before you start generating real revenue."
   - q: "When should I set my launch date?"
     a: "Don't set a launch date until your build is in final testing and you're confident in a two-to-four week window. Announcing a date and missing it damages player trust and gets you negative press coverage before you've sold a single copy. Pick the date when the game is done, not when you hope it'll be done."
+author_slug: "samantha-roberts"
+author_title: "Contributing Writer"
 ---
 
 Steam takes a $100 fee just to list your game, keeps 30% of every sale, and still manages to be the single best distribution platform for most indie developers. That math should tell you something about where the market is.
