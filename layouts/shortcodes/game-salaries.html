@@ -24,7 +24,6 @@
   </thead>
   <tbody>
     {{ range $data.roles }}
-    {{ $pct := div (mul (sub .median $data.roles.0.low) 100) (sub $data.roles.0.high $data.roles.0.low) }}
     <tr>
       <td><span class="gs-role">{{ .icon }} {{ .title }}</span>{{ if .note }}<br><small style="color:#94a3b8">{{ .note }}</small>{{ end }}</td>
       <td>
