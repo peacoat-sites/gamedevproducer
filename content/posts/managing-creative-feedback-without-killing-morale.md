@@ -6,8 +6,8 @@ description: "Learn how to give and receive creative feedback that improves work
 image: "https://images.pexels.com/photos/7849513/pexels-photo-7849513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["managing", "creative", "feedback", "without", "killing"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "managing-creative-feedback-without-killing-morale"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "This one takes time to reverse because it means the psychological safety is already gone. Start by actively soliciting disagreement in review sessions: 'What am I missing here?' or 'Does anyone see a problem with this direction?' When someone pushes back and turns out to be right, make that visible to the group. You're rebuilding a norm, not fixing a single incident."
   - q: "Is there a good tool for async visual feedback on game assets?"
     a: "Frame.io is strong for video and animation reviews. ShotGrid (formerly Shotgun) is the industry standard for larger teams tracking asset reviews across a full pipeline. For smaller teams where budget matters, Loom plus a shared Notion page gets you surprisingly far."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Halfway through sprint review, your lead artist goes quiet. The creative director just called their environment work "a good start" and asked for "more energy." No specifics. No examples. Just vibes-based criticism delivered in front of the team. The artist nods, says nothing, and spends the next two weeks technically doing their job while emotionally checking out. You've just watched morale die in real time, and the worst part is the creative director genuinely thought they were being helpful.
