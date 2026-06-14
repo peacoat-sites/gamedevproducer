@@ -6,8 +6,8 @@ description: "Explore the key differences in producing live service games versus
 image: "https://images.pexels.com/photos/14629387/pexels-photo-14629387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 categories: ["industry intel"]
 tags: ["live", "service", "game", "production", "ship"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Samantha Roberts"
+author_bio: "Samantha Roberts writes about game publishing, pitching, and bringing games to market."
 slug: "live-service-game-production-vs-ship-and-done-titles"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Almost always yes. Bug fixes and quality-of-life patches should be free. You're fulfilling the implicit promise of the game players bought. Paid DLC that adds substantial new content is fine and expected. Charging for patches or content that fixes design problems from the base game damages trust and review scores. If you're unsure, watch how your genre's community reacts when comparable studios charge for updates."
   - q: "What project management tools work best for live service production?"
     a: "Jira remains the industry standard for sprint-based live ops work, especially if you need custom workflows and integration with your CI/CD pipeline. Hacknplan is a strong alternative built specifically for game production that handles the hierarchical feature structure common in game dev better than generic PM tools. For communication and async coordination across a distributed live ops team, Slack combined with a solid Confluence or Notion wiki keeps institutional knowledge from walking out the door when staff turns over. The honest truth is that neither model is inherently better. Ship-and-d"
+author_slug: "samantha-roberts"
+author_title: "Contributing Writer"
 ---
 
 You're six months into pre-production and someone just asked you the question your whole team has been quietly avoiding: "Are we making a live service game or not?" The room goes quiet. Everyone has opinions. Nobody has a plan. This single decision will shape your team size, your budget runway, your monetization model, your post-launch roadmap, and frankly your personal stress levels for the next several years. Getting it wrong doesn't just hurt your game. It can sink your studio.
