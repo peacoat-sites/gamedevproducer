@@ -6,8 +6,8 @@ description: "Discover why Scrum often fails during game pre-production and lear
 image: "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["scrum", "breaks", "game", "pre-production"]
-author: "Jordan Reyes"
-author_bio: "Scrum master turned producer. Translates agile methodology into game dev reality -- what works, what breaks."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "why-scrum-breaks-in-game-pre-production"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "For an AA game with a team of 30-60 people, pre-production typically runs 6 to 18 months. A vertical slice is usually the production-ready milestone. The dangerous failure mode is pre-production that never officially ends, which happens when teams don't define their exit criteria upfront. If you don't know what questions must be answered before production starts, pre-production will expand to fill whatever time it's given."
   - q: "Can you recommend any tools specifically for pre-production planning?"
     a: "Hacknplan is built for game development and handles milestone-based, non-ticket work better than generic tools. Notion is excellent for decision logs and research documentation. Miro or FigJam work well for visual planning sessions where the team maps dependencies between open questions. For broader production management later in the project, Shotgrid (formerly Ftrack) is the industry standard for larger teams tracking asset pipelines. For learning the underlying skills, the Game Design and Production specialization on Coursera covers phase-specific production planning in detail."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Your team just wrapped a killer prototype. The creative director is buzzing, stakeholders are nodding, and someone tapes a sprint board to the wall. Two weeks later, half the tickets are in "In Progress," nobody can agree on what "done" means for a concept exploration task, and the lead designer hasn't touched the board in a week because she's busy writing a 30-page GDD that will probably change three more times before alpha. Sound familiar? That's not a discipline problem. That's Scrum colliding with a phase it was never built for.
