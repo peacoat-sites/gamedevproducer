@@ -6,8 +6,8 @@ description: "Learn how producers can navigate Unreal Engine production challeng
 image: "https://images.pexels.com/photos/9068924/pexels-photo-9068924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["unreal", "engine", "production", "challenges", "producers"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
+author: "Priya Sharma"
+author_bio: "Priya Sharma covers game design, systems mechanics, and narrative at GameDevProducer."
 slug: "unreal-engine-production-challenges-for-producers"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "This is a scope discipline problem, not an Unreal problem. The fix is tighter definition of done criteria on your tickets, combined with producer review before any feature is marked complete. If a feature is 'functionally done' but the developer wants to iterate further, that needs to be a separate ticket with explicit prioritization, not silent scope expansion."
   - q: "What's the biggest mistake producers make when moving to Unreal for the first time?"
     a: "Treating Unreal like a faster version of whatever engine they used before. Unreal has specific opinions about asset management, level streaming, and code architecture that require genuine adaptation, not just translation. The producers I've seen succeed fastest are the ones who spend their first two weeks shadowing their technical director and asking questions instead of assuming their old workflow maps cleanly."
+author_slug: "priya-sharma"
+author_title: "Contributing Writer"
 ---
 
 You asked your lead programmer how long the new shader system would take to integrate with your Unreal project. They said "two weeks." Six weeks later, you're still waiting, your milestone is blown, and half your team is blocked waiting on assets that can't be finalized until the shaders are done. If this sounds familiar, you're not alone. Unreal Engine is one of the most powerful game development platforms on the planet, but for producers, it comes with a specific flavor of chaos that nobody really warns you about beforehand.
