@@ -6,8 +6,8 @@ description: "Learn what a vertical slice is in game development, why studios us
 image: "https://images.pexels.com/photos/7862634/pexels-photo-7862634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["what", "vertical", "slice", "game", "development"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "what-is-a-vertical-slice-in-game-development"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Yes, and this is actually the goal. The vertical slice shouldn't be throwaway work. It should be the first fully finished section of your game. Some studios ship the exact content from their vertical slice in the final product. Others rebuild it later as their production process matures, but the target is always to treat it as real work, not a disposable proof."
   - q: "What's the difference between a vertical slice and an alpha build?"
     a: "An alpha is typically a much more complete version of the game with significant missing polish, content gaps, and known bugs. A vertical slice is tiny in scope but polished to final quality in that scope. Think of it this way: alpha is wide and rough, vertical slice is narrow and finished."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Somewhere around month eight of a 24-month project, a publisher asked us to show them "the game." Not a prototype. Not a proof of concept with placeholder assets and a camera that clipped through the floor. The game. A real, representative slice of what players would actually experience when the finished product shipped.
