@@ -6,8 +6,8 @@ description: "The creative director producer relationship explained: understand 
 image: "https://images.pexels.com/photos/28808422/pexels-photo-28808422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["creative", "director", "producer", "relationship", "explained"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Jordan Lee"
+author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
 slug: "the-creative-director-producer-relationship-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "This is a bad sign. It usually means either (a) the CD doesn't respect the producer's role, or (b) the producer isn't visibly engaged enough in creative conversations. Fix it by having the producer in more creative discussions and making sure the CD understands that scope changes require producer awareness, even if the producer doesn't make the final creative call. If the CD still won't collaborate, you need a conversation with leadership about whether this partnership can work."
   - q: "How do you measure if the CD-producer relationship is healthy?"
     a: "Watch for these signs: Decisions get made in reasonable timeframes. Both roles show up in relevant meetings and engage substantively. Scope changes come with timeline impact discussion. The team isn't confused about creative direction or schedule. People aren't burning out from constant conflict or unclear goals. Neither role is publicly undermining the other. If you see most of these, you're doing okay. If you see none of them, you've got work to do."
+author_slug: "jordan-lee"
+author_title: "Contributing Writer"
 ---
 
 You're sitting in a pre-production meeting. The creative director just pitched a radical art direction change three weeks before greenlight. The producer in you sees scope creep and timeline risk. The part of you that hired this CD respects their vision. Nobody says anything for seven seconds. That silence is the relationship problem nobody talks about in game production.
