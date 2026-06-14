@@ -6,8 +6,8 @@ description: "Learn how to build a game development roadmap with clear steps, ti
 image: "https://images.pexels.com/photos/9071504/pexels-photo-9071504.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["build", "game", "development", "roadmap"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "how-to-build-a-game-development-roadmap"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Early and often. The roadmap shouldn't be a producer artifact handed down from above. Getting your leads involved in setting milestone definitions and identifying the critical path dramatically improves buy-in and surfaces risks you won't see from a spreadsheet. Even a 30-minute working session with your leads before you finalize anything is worth it."
   - q: "What do I do when the roadmap is clearly wrong but leadership won't adjust it?"
     a: "Document everything. Update your confidence percentages. Make the delta between the current plan and realistic delivery visible in writing, repeatedly. If you're being pressured to maintain a roadmap you know is wrong, that's a project health problem, not a roadmap problem, and your job is to make the risk legible, not to paper over it."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most game development roadmaps I've seen are either dishonestly optimistic or so vague they're useless. And I'll be honest: I was guilty of building both kinds before I figured out what actually works.
