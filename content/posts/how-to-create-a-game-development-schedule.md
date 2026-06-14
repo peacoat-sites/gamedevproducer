@@ -6,8 +6,8 @@ description: "Plan your game dev project with confidence. Learn how to create a 
 image: "https://images.pexels.com/photos/6862840/pexels-photo-6862840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["planning"]
 tags: ["create", "game", "development", "schedule"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "how-to-create-a-game-development-schedule"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Map your critical path explicitly. The critical path is the sequence of dependent tasks where any delay directly delays the milestone. In game dev, this is often: design spec locks, then art starts, then programming integrates, then QA validates. If art is waiting on design, that's a critical path block. Dependencies need to be visible in your schedule tool, not just in someone's head. I keep a separate 'dependency register' (even if it's just a short table) that lists every cross-discipline hand-off point, who owns it, and when it needs to land."
   - q: "What do I do when my team consistently underestimates tasks?"
     a: "Stop trying to fix the estimates. Start tracking actuals and calculate your team's estimation ratio. If estimates are consistently 60% of actuals, apply a 1.7x multiplier to all future estimates automatically. This is called a velocity adjustment and it's much more reliable than trying to get people to estimate better through willpower. Over time, as you build a history of similar tasks, your estimates will naturally improve because they'll be anchored to real data rather than optimism."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most game development schedules are wrong the moment you finish writing them. I don't mean slightly off. I mean the average game ships 40-75% later than its original internal estimate, and that's not a stat from bad studios -- it's basically industry standard. I spent a long time thinking this was a discipline problem, a planning problem, or a "we just need better tools" problem. What I eventually figured out is that it's actually a fundamental misunderstanding of what a game development schedule is supposed to do.
