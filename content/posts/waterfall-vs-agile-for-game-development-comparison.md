@@ -6,8 +6,8 @@ description: "Explore the key differences between Waterfall and Agile methodolog
 image: "https://images.pexels.com/photos/11798773/pexels-photo-11798773.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["waterfall", "agile", "game", "development", "comparison"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "waterfall-vs-agile-for-game-development-comparison"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Two weeks is the standard recommendation and it's usually right. One-week sprints create overhead that eats your capacity. Four-week sprints lose the feedback benefit that makes Agile worth doing. Some teams use three-week sprints successfully in production phases when tasks are larger."
   - q: "When should I switch from Agile to more structured planning?"
     a: "When you've answered the core question: is this game fun? Once your prototype has validated the loop and you understand the scope, locking into a structured production plan with real milestones and feature locks is the right move. Staying in 'iterate forever' mode past that point is how projects die quietly."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Most people who've been in game development long enough will tell you that Agile "won" the methodology war. Waterfall is old-fashioned, rigid, a relic of the pre-indie era. I've heard that argument dozens of times. What surprised me when I actually started digging into how shipped games get made is that the picture is messier, more interesting, and more useful than that simple narrative suggests. Some of the best-run projects I've seen blend both approaches deliberately. And some of the worst disasters I've witnessed were Agile projects that used the methodology as a shield against ever making hard decisions.
