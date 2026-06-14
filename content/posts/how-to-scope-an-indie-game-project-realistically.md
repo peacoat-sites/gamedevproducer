@@ -6,8 +6,8 @@ description: "Learn how to scope an indie game project realistically with practi
 image: "https://images.pexels.com/photos/6090833/pexels-photo-6090833.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["scope", "indie", "game", "project", "realistically"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "how-to-scope-an-indie-game-project-realistically"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Stop adding. Seriously, stop. Make a list of every incomplete feature and divide it into two columns: required to have any version of this game ship, and everything else. Move the second column to a post-launch document. Now set a hard ship date 90 days out and cut everything that won't be done by then. A flawed game that ships is infinitely more valuable to your career and sanity than a perfect game that doesn't."
   - q: "Is early access a valid strategy for scoping problems?"
     a: "It can be, but it's not a magic fix. Early access works when you have a genuinely playable core loop that players find fun, a transparent roadmap, and the discipline to keep shipping updates. It doesn't work as a way to sell an unfinished game while you figure out what you're building. Players remember bad early access launches and the refund rates will show you immediately if you misjudged your readiness."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 You've got a game idea. It's good. Maybe it's great. You've been sketching systems on napkins, you've got a Discord server with twelve friends who are "definitely in," and you've already mentally cast the launch trailer. Then someone asks the question: "How long do you think this will take?" You say six months. Everyone nods. Two years later, you're still in development, three people have quietly quit, and the scope has ballooned into something that would challenge a mid-size studio. I've watched this happen to more teams than I can count, and I've lived a version of it myself. The problem was never passion or talent. It was scope.
