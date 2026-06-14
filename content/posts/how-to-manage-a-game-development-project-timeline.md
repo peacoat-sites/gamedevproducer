@@ -6,8 +6,8 @@ description: "Plan your game development project timeline with confidence. Learn
 image: "https://images.pexels.com/photos/6804084/pexels-photo-6804084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["manage", "game", "development", "project", "timeline"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
+author: "Ryan Cole"
+author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
 slug: "how-to-manage-a-game-development-project-timeline"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Estimating tasks in hours instead of days and treating those hours as if they'll actually be spent on that one task. Real work doesn't happen in a vacuum. A 'four-hour task' that gets interrupted twice, hits an unexpected bug, and requires a design conversation is a two-day task. Estimate in days, plan in weeks."
   - q: "How do you manage timeline when your team is all-volunteer or part-time?"
     a: "Part-time and volunteer teams need even more scheduling discipline, not less. Calculate actual available hours per person per week honestly (not aspirationally), use those numbers in your capacity planning, and treat contributor availability as a first-class constraint in your sprint planning. The projects I've seen succeed with part-time teams are the ones that kept scope extremely tight and milestones extremely clear."
+author_slug: "ryan-cole"
+author_title: "Senior Contributing Writer"
 ---
 
 Sixty percent of the indie games I've watched fail in the last decade didn't fail because of bad code or weak art. They failed because someone made a timeline in month one and then never looked at it again.
