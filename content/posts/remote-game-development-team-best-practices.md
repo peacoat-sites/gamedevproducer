@@ -6,8 +6,8 @@ description: "Learn how to build and manage a remote game development team with 
 image: "https://images.pexels.com/photos/3277808/pexels-photo-3277808.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team management"]
 tags: ["remote", "game", "development", "team", "best"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "remote-game-development-team-best-practices"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Send the onboarding document before day one. Grant tool access 48 hours early so they're not spending their first morning on IT tickets. Have a defined first deliverable within the first week that's small enough to be achievable and real enough to matter. Contractors lose momentum fast when they're waiting on access or clarity."
   - q: "Should a remote game dev team use Discord or Slack?"
     a: "Discord if your team is primarily under 35 and you value low-friction voice channels and don't need sophisticated integrations. Slack if you need Jira, Notion, or GitHub integrations and want more structured information architecture. The wrong answer is using both."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 Forty percent of my last studio's dev team was remote before COVID made it fashionable. We figured it out the hard way, which means I have very specific opinions about what the internet gets wrong when it covers this topic.
