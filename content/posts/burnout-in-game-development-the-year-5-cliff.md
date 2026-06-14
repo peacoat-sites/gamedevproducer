@@ -6,8 +6,8 @@ description: "Burnout in Game Development: The Year 5 Cliff explores the mental 
 image: "https://images.pexels.com/photos/8439008/pexels-photo-8439008.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["burnout", "game", "development", "year", "cliff"]
-author: "Editorial Team"
-author_bio: "Content team."
+author: "Tyler Brooks"
+author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
 slug: "burnout-in-game-development-the-year-5-cliff"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +21,8 @@ faqs:
     a: "Sometimes, temporarily. A new environment with fresh challenges can reactivate engagement for one to three years. But if the underlying patterns, overcommitment, identity fusion with work, poor boundaries, follow you to the new studio, the clock starts again from a depleted baseline. Changing studios while actively burned out without addressing the root cause often just accelerates the next cycle."
   - q: "Are junior developers at risk for the Year 5 Cliff too, or is it mainly senior staff?"
     a: "The pattern occurs across levels, but it manifests differently. Junior developers often hit it as disillusionment, the gap between what they expected game development to be and what it actually is becomes too wide. Senior developers tend to experience it more as depletion, the sense that they've given everything and the tank is empty. Both are real, both deserve attention, and neither is a sign of weakness or poor professional judgment."
+author_slug: "tyler-brooks"
+author_title: "Contributing Writer"
 ---
 
 You're three months into your fifth year at the same studio. Your skills are sharper than ever, your title finally reflects your contributions, and from the outside everything looks like a success story. But you wake up on Monday morning and feel absolutely nothing. Not dread, not excitement. Just a hollow flatness where motivation used to live. If that sounds familiar, you're not alone, and there's actually a name for what's happening.
