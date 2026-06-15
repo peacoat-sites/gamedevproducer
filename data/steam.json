@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-14",
+  "updated": "2026-06-15",
   "items": [
     {
-      "name": "Star Hero",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4569020/d1123699aa05823eb748c7d9a66bc93ad8593f10/header.jpg?t=1781428127",
-      "url": "https://store.steampowered.com/app/4569020/",
+      "name": "Slime Tempest",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228920/4d55ded575c1078dcf7a45035e309002165f88a5/header.jpg?t=1781522319",
+      "url": "https://store.steampowered.com/app/4228920/",
       "short_description": "",
-      "final_price": 999
+      "final_price": 1025
     },
     {
-      "name": "CacaClicker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730330/86776c9159857812c3f6380955aad389f3fa2c18/header.jpg?t=1781412085",
-      "url": "https://store.steampowered.com/app/4730330/",
+      "name": "Lane 4: Track and Field Coach Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787740/fa2845604d0dc2e4ea1a4b5d50570a2d49cb8984/header.jpg?t=1781515472",
+      "url": "https://store.steampowered.com/app/4787740/",
+      "short_description": "",
+      "final_price": 1146
+    },
+    {
+      "name": "Tilt It! Golf",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733610/d8ea38110467c19553082b5442ecad1ef80a9341/header.jpg?t=1781516374",
+      "url": "https://store.steampowered.com/app/4733610/",
+      "short_description": "",
+      "final_price": 399
+    },
+    {
+      "name": "Pro Cycling Manager 26",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936530/7b0a2788ebb3439bbe6f74c871bf9c58f27035f2/header.jpg?t=1781510393",
+      "url": "https://store.steampowered.com/app/3936530/",
+      "short_description": "",
+      "final_price": 3999
+    },
+    {
+      "name": "Ember Seeker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160880/e53cef438a16600ff3adc5d599dd6e969be3d6fa/header.jpg?t=1781504764",
+      "url": "https://store.steampowered.com/app/4160880/",
+      "short_description": "",
+      "final_price": 701
+    },
+    {
+      "name": "BanPick",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536080/db792a37560bebe71bdfcdc1073bc668d8a8e7c2/header.jpg?t=1781504648",
+      "url": "https://store.steampowered.com/app/4536080/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Unattached: City of Shadows Prologue",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487850/4df99f5743b670b7d1594f00e36a76da91ab717f/header.jpg?t=1781410301",
-      "url": "https://store.steampowered.com/app/4487850/",
+      "name": "Crime Shadows: Stolen Spotlight Collector's Edition",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093630/3691f4c56e0572c4241ef9aec610b4e9899d0e48/header.jpg?t=1781503027",
+      "url": "https://store.steampowered.com/app/4093630/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 1579
     },
     {
-      "name": "Pact of Steel",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2258380/header.jpg?t=1781408975",
-      "url": "https://store.steampowered.com/app/2258380/",
+      "name": "Phantom Loop: Full Circle",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3761910/66c095b52820fa85d115d234faa485048b32c941/header.jpg?t=1781495910",
+      "url": "https://store.steampowered.com/app/3761910/",
       "short_description": "",
-      "final_price": 1499
+      "final_price": 720
     },
     {
-      "name": "\u68cb\u685c",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4257900/a45593a2feb13a9fc6eb073a6f282eb84ceaae9f/header.jpg?t=1781401526",
-      "url": "https://store.steampowered.com/app/4257900/",
+      "name": "Seal of Shadows",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4089110/b8887a283bfc1943c01c5a9f20a97f94916e30a1/header.jpg?t=1781484634",
+      "url": "https://store.steampowered.com/app/4089110/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 1267
     },
     {
-      "name": "MINESTRIKE SURVIVORS",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4762280/a0c2d28298ba6bf831bd8e6e063a5183fd61a74c/header.jpg?t=1781397904",
-      "url": "https://store.steampowered.com/app/4762280/",
+      "name": "Reverie Unbound",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736620/62499e75783fd693317301462e8f3f64c6406f94/header.jpg?t=1781483903",
+      "url": "https://store.steampowered.com/app/4736620/",
       "short_description": "",
-      "final_price": 449
+      "final_price": 415
     },
     {
-      "name": "Anomaly Watcher",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766570/4206f78781bed98e74664cb94e0d168c67751b9b/header.jpg?t=1781383199",
-      "url": "https://store.steampowered.com/app/4766570/",
+      "name": "Beauties and the Stranded",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828610/d9d58445d2d848aaeda02a1618ba5231a691b050/header.jpg?t=1781481574",
+      "url": "https://store.steampowered.com/app/3828610/",
       "short_description": "",
-      "final_price": 499
+      "final_price": 1484
     },
     {
-      "name": "Tower Defense Monster",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888760/3c6f86af19582081de1e69e699b63edda0c070e9/header.jpg?t=1781377742",
-      "url": "https://store.steampowered.com/app/1888760/",
+      "name": "Atomic Synthesis",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299160/d49ea0f3229411bf926c7012c1818411e0cff840/header.jpg?t=1781478827",
+      "url": "https://store.steampowered.com/app/4299160/",
       "short_description": "",
-      "final_price": 199
-    },
-    {
-      "name": "Logissey",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414480/54c65e120d1fcbf1bc33332b42dbd56f50de32ac/header.jpg?t=1781370621",
-      "url": "https://store.steampowered.com/app/4414480/",
-      "short_description": "",
-      "final_price": 594
-    },
-    {
-      "name": "The Blackwood Project",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4566920/fe8b1a11c63430fbd4eca421be61677c2834c125/header.jpg?t=1781366594",
-      "url": "https://store.steampowered.com/app/4566920/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Gooner Studio",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755830/29304acbc2f211d9432815ad098ce0ff4005d42a/header.jpg?t=1781366419",
-      "url": "https://store.steampowered.com/app/4755830/",
-      "short_description": "",
-      "final_price": 424
-    },
-    {
-      "name": "WHERE the F$CK is my BITCOIN \u2049\ufe0f",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4705620/6df37df224253fca108357127041572b7408576a/header.jpg?t=1781374426",
-      "url": "https://store.steampowered.com/app/4705620/",
-      "short_description": "",
-      "final_price": 475
+      "final_price": 399
     }
   ]
 }
