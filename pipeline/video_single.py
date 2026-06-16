@@ -11,7 +11,7 @@ Called by .github/workflows/video.yml in each site repo.
 All config comes from environment variables (GitHub Actions secrets/vars).
 """
 
-import os, sys, json, time, re, subprocess
+import os, sys, json, time, re, subprocess, random
 from pathlib import Path
 from datetime import datetime, timezone, date
 
@@ -127,8 +127,13 @@ def read_latest_article() -> dict | None:
     body = re.sub(r'^---.*?---', '', body, flags=re.DOTALL).strip()
 
     article_slug = latest.stem
+    # Capture the hero image (reused as the video thumbnail — already subject-accurate, no extra API call).
+    hero_image = ""
+    mi = re.search(r'^image\s*[:=]\s*"?(https?://[^"\s]+?)"?\s*$', raw, re.MULTILINE)
+    if mi:
+        hero_image = mi.group(1)
     print(f"  Article file: {latest.name}")
-    return {"title": title, "body": body, "article_slug": article_slug}
+    return {"title": title, "body": body, "article_slug": article_slug, "image": hero_image}
 
 
 # ── Step 1b: Duplicate article guard ─────────────────────────────────────────
@@ -179,10 +184,16 @@ def generate_script(article: dict) -> dict:
         "  ],\n"
         '  "title": "YouTube title under 80 chars — number or power word, curiosity gap",\n'
         '  "description": "2-3 educational sentences under 400 chars — no website links or CTAs",\n'
-        '  "tags": ["tag1","tag2","tag3","tag4","tag5","tag6","tag7","tag8","tag9","tag10"]\n'
+        '  "tags": ["tag1","tag2","tag3","tag4","tag5","tag6","tag7","tag8","tag9","tag10"],\n'
+        '  "visual_queries": ["q1","q2","q3","q4","q5"]\n'
         "}\n\n"
         "Total spoken word count (hook + problem + all points + resolution) must be 130-155 words. "
-        "No calls to action, no website references, no subscribe prompts."
+        "No calls to action, no website references, no subscribe prompts.\n\n"
+        "For visual_queries: give EXACTLY 5 CONCRETE, photographable B-roll stock-video search phrases "
+        "(2-3 words each) that depict THIS article's specific subject — each must lead with the literal "
+        "object/person/scene and the 5 must be DISTINCT from each other so the video has visual variety. "
+        "Avoid abstract words (tips, guide, treatment, cost, symptoms, mistakes, results). "
+        "Example for a keto avocado article: [\"avocado halved closeup\",\"sliced avocado toast\",\"measuring ketone strip\",\"grilled salmon fillet\",\"fresh green vegetables\"]."
     )
 
     msg = client.messages.create(
@@ -206,6 +217,10 @@ def generate_script(article: dict) -> dict:
     data.setdefault("callout_cards", [])
     data.setdefault("problem", "")
     data.setdefault("resolution", "")
+    vq = data.get("visual_queries")
+    if not isinstance(vq, list):
+        vq = []
+    data["visual_queries"] = [str(q).strip() for q in vq if str(q).strip()]
     return data
 
 
@@ -335,14 +350,32 @@ def validate_audio(audio_bytes: bytes, words: list, audio_duration: float) -> No
 
 # ── Step 4: Fetch Pexels clips ────────────────────────────────────────────────
 
-def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
+def _dedup_queries(qs: list) -> list:
+    """Order-preserving, case-insensitive dedup of non-empty query strings."""
+    seen, out = set(), []
+    for q in qs:
+        q = (q or "").strip()
+        k = q.lower()
+        if q and k not in seen:
+            seen.add(k)
+            out.append(q)
+    return out
+
+
+def _niche_fallback_queries() -> list:
     niche_words = SITE_NICHE.replace(" & ", " ").replace(",", "").split()
-    queries = [
+    return [
         SITE_NICHE,
         " ".join(niche_words[:2]) if len(niche_words) >= 2 else niche_words[0],
         "professional advice",
         "helping people",
     ]
+
+
+def fetch_pexels_clips(count: int = 4, orientation: str = "portrait", queries: list = None) -> list:
+    # Prefer per-article visual queries (subject-accurate + diverse); pad with the niche fallback
+    # so we always have enough queries to fill `count` even if the article queries return little.
+    queries = _dedup_queries((queries or []) + _niche_fallback_queries())
     selected, used_ids = [], set()
     headers = {"Authorization": PEXELS_KEY}
 
@@ -354,7 +387,7 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
             r = requests.get(
                 "https://api.pexels.com/videos/search",
                 headers=headers,
-                params={"query": q, "per_page": 8, "orientation": orientation, "size": "medium"},
+                params={"query": q, "per_page": 30, "orientation": orientation, "size": "medium"},
                 timeout=20,
             )
             if r.status_code == 429:
@@ -369,6 +402,8 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
             print(f"  [WARN] Pexels query '{query}' failed after retries: {exc} — skipping")
             continue
 
+        # Shuffle the wider candidate pool so repeated/similar queries don't collapse to the same clip.
+        random.shuffle(videos)
         for vid in videos:
             if len(selected) >= count or vid["id"] in used_ids:
                 continue
@@ -387,15 +422,11 @@ def fetch_pexels_clips(count: int = 4, orientation: str = "portrait") -> list:
 
 # ── Step 4b: Fetch Pixabay clips (round-robin partner to Pexels) ─────────────
 
-def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait") -> list:
+def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait", queries: list = None) -> list:
     """Fetch video clips from Pixabay. Used in round-robin with Pexels."""
-    niche_words = SITE_NICHE.replace(" & ", " ").replace(",", "").split()
-    queries = [
-        SITE_NICHE,
-        " ".join(niche_words[:2]) if len(niche_words) >= 2 else niche_words[0],
-        "professional lifestyle",
-        "people activity",
-    ]
+    # Per-article visual queries first (subject-accurate), padded with the niche fallback.
+    pixabay_fallback = _niche_fallback_queries()[:2] + ["professional lifestyle", "people activity"]
+    queries = _dedup_queries((queries or []) + pixabay_fallback)
     selected, used_ids = [], set()
 
     for query in queries:
@@ -406,7 +437,7 @@ def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait") -> list:
             params = {
                 "key":        PIXABAY_KEY,
                 "q":          q,
-                "per_page":   10,
+                "per_page":   30,
                 "video_type": "all",
                 "safesearch": "true",
             }
@@ -423,6 +454,8 @@ def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait") -> list:
             print(f"  [WARN] Pixabay query '{query}' failed: {exc} — skipping")
             continue
 
+        # Shuffle the wider candidate pool for variety across runs/articles.
+        random.shuffle(videos)
         for vid in videos:
             if len(selected) >= count or vid["id"] in used_ids:
                 continue
@@ -437,12 +470,13 @@ def fetch_pixabay_clips(count: int = 4, orientation: str = "portrait") -> list:
     return selected[:count]
 
 
-def fetch_clips_roundrobin(count: int = 4, orientation: str = "portrait") -> list:
+def fetch_clips_roundrobin(count: int = 4, orientation: str = "portrait", queries: list = None) -> list:
     """
     Round-robin B-roll fetching: alternates primary source by day of week.
     Even days → Pexels first, odd days → Pixabay first.
     Whichever is primary goes first; the other fills any remaining slots.
     This spreads API rate limits and keeps clip variety high across runs.
+    `queries` carries per-article subject-accurate B-roll search phrases.
     """
     use_pexels_first = (date.today().toordinal() % 2 == 0)
     label_primary   = "Pexels" if use_pexels_first else "Pixabay"
@@ -450,12 +484,12 @@ def fetch_clips_roundrobin(count: int = 4, orientation: str = "portrait") -> lis
     fetch_primary   = fetch_pexels_clips   if use_pexels_first else fetch_pixabay_clips
     fetch_secondary = fetch_pixabay_clips  if use_pexels_first else fetch_pexels_clips
 
-    clips = fetch_primary(count=count, orientation=orientation)
+    clips = fetch_primary(count=count, orientation=orientation, queries=queries)
     print(f"  [{label_primary}] {len(clips)} clips")
 
     if len(clips) < count:
         needed = count - len(clips)
-        extra  = fetch_secondary(count=needed, orientation=orientation)
+        extra  = fetch_secondary(count=needed, orientation=orientation, queries=queries)
         print(f"  [{label_secondary}] +{len(extra)} supplemental clips")
         clips.extend(extra)
 
@@ -942,6 +976,37 @@ def commit_youtube_json(article: dict, script: dict, shorts_id: str, standard_id
     print("  Committed data/youtube.json")
 
 
+# ── Step 9c: Custom thumbnail (additive — never fatal) ───────────────────────
+
+def set_youtube_thumbnail(video_id: str, image_url: str, label: str) -> None:
+    """Set a clean, subject-accurate custom thumbnail (the article hero image) on a video.
+    Fully non-fatal: any failure — including HTTP 403 when the channel isn't verified for
+    custom thumbnails — is logged and ignored so it can never break a successful upload."""
+    if not video_id or not image_url:
+        return
+    try:
+        img = requests.get(image_url, timeout=30)
+        ctype = img.headers.get("Content-Type", "")
+        if img.status_code != 200 or "image" not in ctype:
+            print(f"  [thumb-{label}] skip: image fetch HTTP {img.status_code} ({ctype})")
+            return
+        if len(img.content) > 2 * 1024 * 1024:
+            print(f"  [thumb-{label}] skip: image larger than 2MB")
+            return
+        token = get_access_token()
+        r = requests.post(
+            f"https://www.googleapis.com/upload/youtube/v3/thumbnails/set?videoId={video_id}",
+            headers={"Authorization": f"Bearer {token}", "Content-Type": ctype or "image/jpeg"},
+            data=img.content, timeout=60,
+        )
+        if r.status_code == 200:
+            print(f"  [thumb-{label}] ✓ custom thumbnail set")
+        else:
+            print(f"  [thumb-{label}] thumbnails.set HTTP {r.status_code}: {r.text[:140]} (non-fatal)")
+    except Exception as exc:
+        print(f"  [thumb-{label}] skip (non-fatal): {exc}")
+
+
 # ── Main ──────────────────────────────────────────────────────────────────────
 
 def main():
@@ -989,8 +1054,10 @@ def main():
         return
 
     print("STEP 4: Fetching B-roll clips (Pexels + Pixabay round-robin)...")
-    portrait_clips  = fetch_clips_roundrobin(count=4, orientation="portrait")
-    landscape_clips = fetch_clips_roundrobin(count=4, orientation="landscape")
+    visual_queries = script.get("visual_queries") or []
+    print(f"  Visual queries: {visual_queries or '(none — niche fallback)'}")
+    portrait_clips  = fetch_clips_roundrobin(count=4, orientation="portrait", queries=visual_queries)
+    landscape_clips = fetch_clips_roundrobin(count=4, orientation="landscape", queries=visual_queries)
     print(f"  Portrait: {len(portrait_clips)} clips  |  Landscape: {len(landscape_clips)} clips")
     if len(portrait_clips) < 2:
         raise RuntimeError(f"Not enough portrait clips ({len(portrait_clips)}) — need ≥2 for Shorts B-roll")
@@ -1048,6 +1115,13 @@ def main():
         delete_youtube_video(shorts_id)
         raise
     print(f"  Published: https://www.youtube.com/watch?v={standard_id}")
+
+    # STEP 9c: Custom thumbnail on the Standard (16:9) video — reuse the article's
+    # subject-accurate hero image. Non-fatal; Shorts keep their now-diverse auto-frame.
+    thumb_url = article.get("image", "")
+    if thumb_url:
+        print("STEP 9c: Setting custom thumbnail on Standard video...")
+        set_youtube_thumbnail(standard_id, thumb_url, "Standard")
 
     print("STEP 10: Committing youtube.json...")
     commit_youtube_json(article, script, shorts_id, standard_id)
