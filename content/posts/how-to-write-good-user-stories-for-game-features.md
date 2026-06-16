@@ -79,26 +79,5 @@ Linear Jira, Shortcut (formerly Clubhouse, which is what I currently use for mos
 
 ---
 
-## FAQ
-
-### Do user stories replace a game design document?
-
-No, and they shouldn't try to. User stories describe requirements from the player's perspective and serve as units of work. A GDD captures design intent, world logic, tone, and system design in a way that stories can't. The two documents should reference each other, but they do different jobs.
-
-### How long should a user story actually be?
-
-The story itself, the "as a / I want / so that" part, should fit in two or three sentences. If you can't summarize it that concisely, you're probably combining multiple stories. The acceptance criteria can be longer, and for complex systems often should be. But the story statement itself needs to be something a dev can read at standup without losing the thread.
-
-### Should designers or producers write user stories?
-
-Both, ideally with input from engineering. Designers often understand player intent better. Producers understand scope and dependencies. Engineers understand what's actually ambiguous once implementation starts. Stories written in a vacuum by one discipline tend to have blind spots that create rework. At minimum, run new stories past whoever has to build them before they hit the sprint.
-
-### What about technical stories that don't have a visible player benefit?
-
-Write them honestly as technical stories rather than forcing a player-facing "as a player" framing onto them. "As an engineer, I want to refactor the inventory serialization layer so that save/load operations are under 100ms on target hardware" is a legitimate story. The fake-player wrapper on a purely technical task just makes everyone roll their eyes and ignore the format entirely.
-
-### How do you handle stories for feel and juice -- things that are hard to quantify?
-
-This is genuinely hard, and anyone who tells you it's easy is lying. The best approach I've found: write the experiential acceptance criteria as specifically as you can ("the jump feels snappy, with a minimum 200ms hang time at peak height"), and schedule a dedicated playtest review as part of the acceptance process. Some things can only be validated by playing them. Building that into your definition of done is more honest than pretending a checkbox will catch it.
 
 *Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*

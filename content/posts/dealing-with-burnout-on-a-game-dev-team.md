@@ -96,27 +96,6 @@ Also: I've done a 6-week online production course through Coursera from the UC S
 
 ---
 
-## FAQ
-
-### How do I tell the difference between normal crunch and actual burnout?
-
-Crunch is a schedule state. Burnout is a psychological state that results from sustained crunch without recovery. The practical difference: after crunch ends, people who are tired bounce back in a week or two. People who are burned out don't. If your team finishes a milestone and still seems depleted three weeks later, you're dealing with burnout, not fatigue.
-
-### What if my studio leadership doesn't believe burnout is real?
-
-Document the business cost, not the human cost. That's cynical but effective. Replacement cost for a mid-level engineer is typically 50 to 200 percent of their annual salary when you include recruiting, onboarding, and lost productivity. Present turnover risk in those terms. Three people leaving a 12-person team mid-production is a project-ending event. Most leaders who discount burnout respond to that math even if they won't respond to the human argument.
-
-### Can a team recover from burnout mid-production, or does it have to wait until after launch?
-
-Partial recovery is possible mid-production, but it requires actually removing work from the schedule, not just offering sympathy. You can't recover capacity you're still spending. The minimum viable intervention is a real scope cut plus a genuine week of low-pressure time before the next major push.
-
-### How do I handle a team member who says they're fine but is clearly not?
-
-Don't push directly, because that usually backfires. Instead, reduce their load without making it punitive, and give them a legitimate off-ramp: "I'm moving X to the backlog so we can focus on Y." Then check back in two weeks with the same low-pressure question. People often admit what they're actually experiencing once the pressure drops enough to feel safe.
-
-### Are there any tools specifically for tracking team health in game dev?
-
-A few teams I know use Officevibe or its successor Workleap (about $5 per user per month) for anonymous weekly pulse surveys. It's not game-dev-specific but it gives you signal before problems become visible in behavior. Some studios have started using Miro boards for retrospective health checks: anonymous sticky notes, no attribution. Low tech, but people are more honest when their name isn't on it.
 
 ---
 

@@ -97,27 +97,6 @@ The studios that ship well aren't the ones with the most committed teams. They'r
 
 ---
 
-## FAQ
-
-### Isn't some amount of crunch just inevitable near launch?
-
-A short, bounded push in the final two to three weeks of a project isn't inherently catastrophic if the team is healthy going into it and there's a plan for recovery afterward. The problem is chronic crunch, the six-to-twelve-month grind that becomes the default state. If your "final push" starts eight months before launch, the production plan failed, not the team.
-
-### What's the best project management tool for tracking capacity and avoiding crunch?
-
-There's no single magic tool, but the combination I've seen work most reliably is Jira or Shortcut (formerly Clubhouse) for sprint tracking combined with a producer-maintained capacity spreadsheet in Google Sheets or Notion. Shotgun (now ShotGrid) is common in larger studios for asset-level tracking. The tool matters less than the discipline to update it accurately and review it weekly.
-
-### How do I convince leadership that cutting scope is better than crunching the team?
-
-Lead with cost, not compassion, because unfortunately that's what gets traction in most organizations. Calculate your expected turnover cost if crunch continues. Show the bug rate correlation with overtime hours (your QA team likely has this data). Present scope reduction as protecting the ROI on the project, not protecting feelings. You'll win more arguments that way.
-
-### What books or resources actually help producers get better at this?
-
-Jason Schreier's *Blood, Sweat, and Pixels* is essential context for understanding how crunch happens at real studios. For practical production frameworks, *The Art of Game Design* by Jesse Schell has useful mental models, and *Agile Game Development* by Clinton Keith is the closest thing to a field manual for applying agile to game production specifically. For general project management thinking that transfers well, *Making Things Happen* by Scott Berkun is underrated and practical.
-
-### Can a small indie team apply these systems without a dedicated producer?
-
-Yes, and they should. The tools scale down. A two-person team can maintain a simple Trello board with a backlog, a "must ship" column, and a running capacity note in a shared doc. The principles don't require a project management department. They require the habit of looking at the gap between work remaining and time available before it becomes a crisis.
 
 ---
 

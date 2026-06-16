@@ -110,27 +110,6 @@ What surprised me when I started doing this consistently was how quickly team mo
 
 ---
 
-## FAQ
-
-### How often should game dev teams run retrospectives?
-
-Every sprint, which is typically every one to two weeks. If you're not running sprints, run a retro at the end of every major milestone: alpha, beta, content complete, ship. Don't wait until the full project post-mortem. By then the details have faded and the lessons are too late to apply.
-
-### What if my team doesn't want to participate or stays silent?
-
-Silent retros almost always signal a safety problem, not a format problem. Try running an anonymous version first using a tool like EasyRetro where cards are posted without names. This often surfaces issues that people were afraid to raise publicly. If anonymity doesn't help, you need a direct conversation with the team outside the retro context to understand what's blocking honesty.
-
-### Should the project lead or director attend the retrospective?
-
-This is genuinely tricky. Senior presence can suppress honest feedback. I've found a useful middle path: the direct lead attends but explicitly participates as a team member, not an evaluator. More senior directors generally shouldn't attend sprint retros. They can review summarized outputs afterward. The team needs a space to talk about process without feeling watched.
-
-### How do you handle retros for crunch periods or post-crunch?
-
-Run them, but adjust. Post-crunch retros need more time, maybe 90 minutes, and the Mad/Sad/Glad format works better than a process-focused one. People need to process the emotional reality before they can think clearly about systemic fixes. Acknowledge the crunch directly and specifically before jumping into what to change next time.
-
-### How long should a project post-mortem take vs a sprint retro?
-
-Sprint retro: 60 minutes max. Milestone retro: 90 minutes to 2 hours. Full project post-mortem: this can take a half day done properly, especially for projects over a year long. For post-mortems I recommend a timeline exercise where the team reconstructs major events from memory before analysis. It surfaces things that no one person remembered alone and builds a shared understanding of what actually happened.
 
 ---
 

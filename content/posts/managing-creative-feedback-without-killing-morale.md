@@ -121,27 +121,6 @@ For producers who want a more structured approach to team health, [TeamRetro](ht
 
 ---
 
-## FAQ
-
-### How do you give feedback to someone who gets defensive every time?
-
-Defensiveness is usually a trust signal. The person doesn't yet believe the feedback is calibrated or fair. Go back to criteria: start every session by referencing the agreed brief. Make feedback about the work against a standard, not about the person's judgment. Do it consistently for several cycles. Trust is rebuilt through pattern, not a single conversation.
-
-### What if the creative director or lead skips the process and gives vague feedback directly to the team?
-
-Name it as a process problem, not a personality one. Bring it to the CD privately: "When the team gets direction changes without criteria, I'm seeing it create rework and morale issues. Can we agree on routing feedback through the brief framework before it reaches the team?" Most CDs will respond better to "here's the production cost" than "here's why you're wrong."
-
-### How do you handle feedback on experimental or exploratory work?
-
-Change your criteria. Exploratory work shouldn't be evaluated on production-ready standards. Define upfront what the exploration is trying to learn or discover, and evaluate against that. "Did this prototype tell us whether the mechanic is fun in under four hours?" is a fair question. "Why isn't this shippable?" is not.
-
-### My team has stopped pushing back on feedback even when it's wrong. How do I reverse that?
-
-This one takes time to reverse because it means the psychological safety is already gone. Start by actively soliciting disagreement in review sessions: "What am I missing here?" or "Does anyone see a problem with this direction?" When someone pushes back and turns out to be right, make that visible to the group. You're rebuilding a norm, not fixing a single incident.
-
-### Is there a good tool for async visual feedback on game assets?
-
-[Frame.io](https://frame.io/) is strong for video and animation reviews. [ShotGrid](https://www.autodesk.com/products/shotgrid/overview) (formerly Shotgun) is the industry standard for larger teams tracking asset reviews across a full pipeline. For smaller teams where budget matters, [Loom](https://www.loom.com/) plus a shared Notion page gets you surprisingly far.
 
 ---
 

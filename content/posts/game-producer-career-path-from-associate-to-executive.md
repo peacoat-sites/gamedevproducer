@@ -99,28 +99,5 @@ Move studios strategically. Your first game ships at Studio A. Your second game 
 
 Invest in relationships with people who've made it further than you. Not for favors, but for advice. The producer community is small enough that people remember who was helpful and collaborative. This matters when you're looking for a role at a new studio.
 
-## FAQ
-
-### Q: What's the difference between a Producer and a Scrum Master?
-
-A [Game Producer and a Scrum Master have different core responsibilities](/game-producer-vs-scrum-master-what-is-the-difference/). A Scrum Master is a role defined by the Scrum framework. They remove impediments, run ceremonies, and protect the team's process. A Producer is a much broader role that includes risk management, strategic planning, cross-team coordination, and sometimes P&L responsibility. A studio might hire both roles on the same project, or the Producer might be expected to do both jobs. Understanding which you are hired to do is crucial for career planning.
-
-### Q: How long does it typically take to go from Associate to Senior Producer?
-
-Five to seven years is typical, but it varies wildly. If you ship multiple games and develop strong mentorship, you might do it in four. If you stay at one studio with slow growth or no openings, you might be at Associate or Coordinator level after eight years. The metric that matters isn't time served, it's shipped games and demonstrated capability. Push for feedback on what the next promotion actually requires at your studio.
-
-### Q: Should I specialize or stay generalist as a producer?
-
-Both paths work. Generalist producers who can run any project are valuable and promotable, but specialists often earn more and have clearer career arcs. Most successful producers eventually specialize, even if they started as generalists. By year three or four, start noticing where you're naturally stronger and where you genuinely enjoy the work. That's your specialization direction.
-
-### Q: What happens if I'm stuck at Senior Producer and don't want to move to Director?
-
-This is normal and fine. Some of the best producers in the industry spend 10+ years as Senior Producer, running bigger and bigger projects. The trap is staying at Senior Producer level while feeling undervalued and overworked. If you're not moving up, make sure you're being compensated appropriately and that you genuinely enjoy the work. If you're burnt out, that's a [production failure, not a culture problem](/crunch-is-a-production-failure-not-a-culture-problem/), and you should probably move studios.
-
-### Q: What books or courses help you prepare for promotion?
-
-"The Goal" by Goldratt is the classic for understanding constraint theory and project management. "Radical Candor" by Kim Scott is useful for the people side. "The Phoenix Project" applies manufacturing concepts to software. For game-specific learning, look for courses on production methodology, and more importantly, spend time in your actual game's pre-production and production phases. Real projects teach you more than any book. Tools like Asana, Monday.com, or Jira Academy have free learning paths for their platforms, which is time well spent.
-
-Your career as a producer isn't a straight line from Associate to Director. It's a series of decisions about what skills you build, what risks you take, and when you move studios. The people who advance fastest aren't necessarily the smartest. They're the ones who ship, build credibility, develop judgment, and know when to move on.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

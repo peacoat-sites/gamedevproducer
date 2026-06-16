@@ -89,27 +89,6 @@ If you're running a more structured milestone approach: Notion combined with a s
 
 Regardless of which method you use: Slack or Discord for communication, Google Sheets for budget tracking until you need something more sophisticated, and a version control system that your whole team actually uses (GitHub for code, Perforce for larger teams with big assets, Plastic SCM if you're in Unity and want something more integrated).
 
-## Frequently Asked Questions
-
-### Can a solo developer even use agile?
-
-Yes, and a lot of solo devs find Kanban specifically useful because there's no team coordination overhead. A simple three-column board (To Do, In Progress, Done) limits your scope creep and gives you forward momentum. The sprint ceremony stuff (standups, retrospectives) doesn't translate well to solo work, but the core idea of limiting work in progress absolutely does.
-
-### Is waterfall ever the right choice for indie games?
-
-For very small, well-scoped projects where the design is genuinely fixed (a visual novel with a complete script, for example, or a small puzzle game with a defined mechanic), waterfall-style sequential planning can work fine and has less overhead. The mistake is applying it to anything with uncertain design or emergent gameplay.
-
-### Do I need a Scrum Master for game development?
-
-Probably not in the formal certified sense. What you actually need is someone whose job it is to protect the team from scope creep, facilitate communication, and keep the backlog honest. That might be a producer, a project lead, or a co-founder who's good at process. A $2,000 Scrum certification doesn't replace the judgment that comes from shipping actual games.
-
-### How long should sprints be in game development?
-
-Two weeks is the standard and I think it's usually right, but one-week sprints work well in pre-production when you're iterating quickly on prototypes. Three or four-week sprints tend to lose urgency. If your team is regularly not finishing sprint work, that's a scope problem, not a sprint length problem.
-
-### What's the biggest mistake teams make when adopting agile for game dev?
-
-Treating the sprint backlog like a to-do list and ignoring the retrospective. The retrospective is actually where agile earns its value: it's the team's chance to identify what's slowing them down and change it. I've seen teams run Scrum for six months, never run a real retrospective, and wonder why nothing improved. Run the retro. Be honest in it. That's the part that compounds.
 
 ---
 

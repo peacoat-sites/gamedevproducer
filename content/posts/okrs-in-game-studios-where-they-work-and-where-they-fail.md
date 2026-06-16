@@ -75,27 +75,6 @@ For project management, **Jira** and **Hansoft** are still the industry workhors
 
 ---
 
-## Frequently Asked Questions
-
-### Should every team in a game studio use OKRs?
-
-No. OKRs work best where the work is measurable and repeatable within a quarter. Live service teams, publishing, business development, and studio leadership are natural fits. Pure creative production teams mid-project are usually better served by milestone-based goals. Don't apply the framework universally just for consistency's sake.
-
-### How do you set OKRs during pre-production when nothing is certain?
-
-Focus your OKRs on learning outcomes rather than delivery outcomes. Instead of "complete 10 levels," write "validate that our core loop is fun with three rounds of playtesting." Pre-production is about reducing uncertainty. Your OKRs should reflect that.
-
-### How many OKRs should a game studio team have per quarter?
-
-Three to five objectives maximum, with two to four key results each. More than that and you're not setting priorities, you're listing everything you were going to do anyway. If you can't fit your team's priorities into five objectives, your team probably has a scope problem, not an OKR problem.
-
-### What's the difference between a key result and a task?
-
-A key result is an outcome you can measure. A task is a thing you do. "Write the onboarding tutorial" is a task. "New players complete the tutorial at a rate of 70% or higher" is a key result. If your key results sound like a to-do list, rewrite them around what success looks like, not what work needs to happen.
-
-### How do you handle OKRs when a project slips?
-
-Update them. Seriously. OKRs that no longer reflect reality are worse than no OKRs, because they force teams to either lie about progress or ignore the system entirely. If the project slips and your Q3 OKRs become irrelevant, call a brief review, update the key results to reflect the new situation, and move forward. The cadence serves the work, not the other way around.
 
 ---
 

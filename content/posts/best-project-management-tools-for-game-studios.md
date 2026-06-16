@@ -145,27 +145,6 @@ Your PM software doesn't exist in isolation. The tools around it matter.
 
 ---
 
-## FAQ
-
-### Does every game studio need dedicated project management software?
-
-A two-person project with a six-month timeline can survive on a shared spreadsheet and a weekly call. Once you hit three or more people, meaningful scope, or any external deadline (publisher, platform, Early Access), you need something structured. The cost of a tool is almost never the issue. The cost of coordination failures at $5,000 lost dev time per week makes a $10/user/month subscription look embarrassing.
-
-### Is Jira actually worth learning for game dev?
-
-Yes, with caveats. Jira's learning curve is real, and the default setup is actively bad for game teams. But if you spend 20 hours upfront configuring custom workflows, issue types, and dashboards for game production, the ongoing ROI is significant. For studios above 15 people, Jira configured well beats every other general-purpose option. If you're below that, the overhead might not be worth it.
-
-### How do you handle tools for remote or hybrid game teams?
-
-The same tools apply, but the discipline around them has to be stricter. Remote teams can't rely on hallway conversations to resolve ambiguity. Everything needs to live in the tool. Async stand-ups (written status updates in a dedicated channel or tool) replace the physical standup. Loom or similar async video tools are genuinely useful for design reviews and feedback that would otherwise require a scheduled meeting.
-
-### What's the biggest mistake studios make with PM tools?
-
-Using too many simultaneously. I've seen teams with tasks split across Jira, Notion, a Google Sheet, and a Trello board, with different disciplines "preferring" different ones. That's not a tooling problem anymore, it's a culture problem. Pick one authoritative tool for task tracking. Everything else supports it or gets cut.
-
-### When should a studio consider switching tools?
-
-When your current tool creates more work than it eliminates. Specific signs: producers spend more than 30 minutes a day just maintaining the tool; team members regularly bypass it for "real" work tracking; you can't answer basic questions like "how many tasks are blocked right now?" or "what's the risk to the next milestone?" in under five minutes. Migration is painful, but the pain is finite. Living in the wrong tool costs you every single day.
 
 ---
 

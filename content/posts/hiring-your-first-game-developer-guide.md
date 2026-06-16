@@ -101,26 +101,5 @@ For tools to track budget and stay on top of your hiring costs, HackerOne's no-c
 
 ---
 
-## FAQ
-
-### How do I hire a game developer when I have no budget?
-
-Revenue share can attract the right people, but only if you're transparent upfront and the project has evidence behind it (a playable demo, a track record, real momentum). Most experienced developers won't work for equity alone. Your realistic options are: find a co-founder instead of an employee, use a game jam to identify collaborators organically, or scope the paid work small enough to be affordable.
-
-### Do I need a lawyer to hire my first contractor?
-
-You don't need one for a basic contractor agreement, but you do need a written contract with an IP assignment clause. Sites like Clerky offer template agreements for under $200. For anything more complicated (equity, exclusivity, complex IP situations), pay for an hour with an attorney who knows software or games. Zachary Strebeck's blog is a solid free starting point to understand what you actually need.
-
-### Should I hire someone I met at a game jam?
-
-Yes, potentially, and honestly this is one of the better talent pipelines for indie studios. You've already seen how they work under pressure, how they handle constraints, and whether you can spend 48 straight hours around them. Just make sure the jam project gives you real signal on the skills you actually need. A great jam writer isn't automatically a great programmer.
-
-### What's the biggest mistake first-time studio founders make when hiring?
-
-Hiring a generalist when they need a specialist. "Someone who can do everything" is tempting when budget is tight, but generalists who claim to do everything usually do three things adequately and six things poorly. Know the one or two specific gaps that are blocking you and hire for exactly those.
-
-### How long should a trial contract be?
-
-Sixty days is a reasonable starting point for most first hires on an indie project. Long enough for both of you to understand the working rhythm and see real output. Short enough that a bad fit doesn't cost you four months of runway. Structure it around a defined deliverable rather than just time: "complete the movement system and first enemy AI by this date" beats "work for sixty days."
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*

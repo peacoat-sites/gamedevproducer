@@ -115,27 +115,6 @@ And for learning more about game production specifically, the Game Production tr
 
 ---
 
-## FAQ
-
-### How long should a game development timeline actually be?
-
-There's no universal answer, but most indie games are underestimated by 40-60% on first estimate. A game you think will take 12 months will probably take 18-24. Build your timeline honestly with the 0.6 capacity rule, then sanity-check against comparable shipped games of similar scope.
-
-### How do you handle timeline uncertainty when you're still in pre-production?
-
-Keep your pre-production timeline loose by design. Pre-production is where you're figuring out what the game actually is, so locking down a detailed task-level schedule in that phase is mostly theater. Set a firm pre-production end date (when you'll have a vertical slice), and plan in detail only for the phase you're currently in.
-
-### Should I use Agile sprints for my indie game?
-
-Two-week sprints work well for most game dev teams, but don't adopt Scrum wholesale without adapting it. The rituals designed for software engineering teams don't map cleanly onto game dev, especially in phases with heavy creative work. Use sprints for structure and velocity tracking; ditch the parts that create overhead without value. Clinton Keith's book covers this in real depth.
-
-### What's the most common timeline mistake you see first-time game developers make?
-
-Estimating tasks in hours instead of days and treating those hours as if they'll actually be spent on that one task. Real work doesn't happen in a vacuum. A "four-hour task" that gets interrupted twice, hits an unexpected bug, and requires a design conversation is a two-day task. Estimate in days, plan in weeks.
-
-### How do you manage timeline when your team is all-volunteer or part-time?
-
-Part-time and volunteer teams need even more scheduling discipline, not less. Calculate actual available hours per person per week honestly (not aspirationally), use those numbers in your capacity planning, and treat contributor availability as a first-class constraint in your sprint planning. The projects I've seen succeed with part-time teams are the ones that kept scope extremely tight and milestones extremely clear.
 
 ---
 

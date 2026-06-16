@@ -106,28 +106,5 @@ For learning more about production practice, I'd recommend the [Game Production 
 
 ---
 
-## FAQ
-
-### How do I tell the difference between scope creep and necessary iteration?
-
-Necessary iteration improves something that's already in scope. Scope creep adds something new. If you're polishing combat that's already designed and committed, that's iteration. If you're adding a new combat mode because the original felt thin, that's a scope conversation. The question to ask: does this change what we said we'd ship, or does it improve how well we ship it?
-
-### What if my team keeps estimating wrong and that's causing the creep?
-
-Estimation problems and scope creep are related but different issues. If your estimates are consistently off, the fix is better estimation practices, not tighter scope control. Try breaking tasks into chunks smaller than four hours, use three-point estimation (best case, expected, worst case), and build a historical velocity baseline over several sprints. Scope control won't help you if your time math is broken underneath it.
-
-### How do I handle a team member who keeps adding features without asking?
-
-This is a culture and accountability problem more than a process problem. The process fix is requiring all feature work to appear in the task tracker before it starts, and reviewing anything unplanned in retrospective. The culture fix is being explicit that the goal isn't to limit creativity but to surface decisions so the whole team can plan around them. Most people adding unauthorized features aren't trying to cause problems. They're excited. Channel that.
-
-### Should scope agreements work differently for crunch-prone AAA teams vs. indie teams?
-
-The mechanics are the same but the stakes and politics differ. Indie teams usually have more flexibility to adapt their own process. AAA teams often have publisher milestones that function as external scope enforcement, which can actually be helpful if the milestones are well-defined. The bigger risk at AAA scale is that scope creep gets absorbed into crunch rather than surfaced as a scheduling problem, which is how you get 80-hour weeks instead of a delay conversation.
-
-### When is it actually okay to add scope?
-
-When you have concrete evidence that what you have isn't working and the fix is clearly worth the cost. Playtest data that shows a core loop is broken is a legitimate reason to revisit scope. "I think this would be cooler" is not. The bar should be: does this change the game from not-shippable to shippable, or from shippable to marginally better? Only the first justifies late scope addition.
-
-Scope creep is a solvable problem, but only if you treat it as a system issue rather than a discipline issue. Teams don't fail to manage scope because they're lazy or undisciplined. They fail because they lack clear processes, clear definitions, and clear decision authority. Build those three things, and the individual judgment calls get a lot easier.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

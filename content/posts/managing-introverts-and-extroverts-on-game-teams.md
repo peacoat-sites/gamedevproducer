@@ -86,27 +86,6 @@ Build a check-in cadence that doesn't depend on people self-reporting distress. 
 
 ---
 
-## FAQ
-
-### How do I get introverts to speak up in standups without putting them on the spot?
-
-Change the format before you change the person. Give everyone a written prompt the night before: "What's one thing you're working on and one blocker?" Let them post async answers first. The standup becomes a quick confirmation, not a cold performance. Introverts will contribute more when they've had time to prepare. Extroverts won't mind, they'll just talk slightly less.
-
-### My extroverted team members dominate every brainstorm. How do I fix this without shutting them down?
-
-Use the silent write-first format every single time. Five minutes, everyone writes independently, then you go around the room. You're not punishing extroverts, you're just collecting ideas before the loudest voice shapes everyone else's thinking. Extroverts generally respect this if you explain why: better ideas, not less talking.
-
-### What if someone claims they're introverted just to avoid accountability or standups?
-
-Introversion isn't a performance exemption. Being introverted means you need different conditions to do your best work, not fewer expectations. If someone isn't delivering or communicating, that's a performance conversation, not a personality accommodation. Keep those separate. Don't let legitimate flexibility become a loophole.
-
-### How do I spot burnout differently in introverts vs. extroverts?
-
-Introverts burning out go more internal. You'll see more single-word answers, missed async contributions, camera off during calls where they used to be engaged. Extroverts burning out get brittle. More friction in feedback sessions, more reactive in Slack, sudden withdrawal from the social rituals they normally initiate. Neither is dramatic. Both require you to ask a direct question in private before it becomes a crisis.
-
-### Is it worth doing a team personality assessment like Myers-Briggs or DISC?
-
-Useful for opening conversations, not for making decisions. I've seen teams use DISC well as a shared language: "I process better in writing, here's why." That's valuable. Where assessments go wrong is when people use them to categorize or excuse: "She's an introvert so she won't want to present." Run the assessment, use the vocabulary, then watch the actual behavior. The person is always more accurate than the type.
 
 ---
 

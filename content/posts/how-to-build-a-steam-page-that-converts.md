@@ -101,27 +101,6 @@ After your page goes live: link to it everywhere. Email list, social media, game
 
 ---
 
-## Frequently Asked Questions
-
-### How many wishlists do I need before launch to have a successful launch?
-
-There's no magic number, but most developers who post-mortem their launches honestly will tell you that 7,000 wishlists is a rough floor for a sustainable indie launch that doesn't feel like a disaster. Games launching below that often get lost in the noise. The top 10% of indie launches (commercial successes, not mega-hits) typically have 30,000 or more wishlists at launch. Work toward 10,000 as a realistic goal and treat every thousand as meaningful momentum.
-
-### Should I hire someone to build my Steam page?
-
-You don't need to hire someone for the whole page, but there are two specific pieces worth paying for: the capsule image and the trailer. Everything else (copywriting, screenshots, tags, metadata) you can do yourself if you're willing to study what works. Read the Steam developer documentation thoroughly, then study 20 pages from successful games in your genre and take notes on what they do.
-
-### Does having a sale right after launch hurt me?
-
-Yes, almost certainly. Discounting your game within the first 30 days after launch undercuts your full-price momentum and can signal to buyers that the game isn't selling, which reduces trust. Valve also has cool-down periods that affect when you can discount. Plan your first sale for a Seasonal Sale event (Summer Sale, Winter Sale, etc.) after your launch window has closed.
-
-### Can I update my Steam page after it goes live?
-
-You can and should update it as your game develops. Capsule images, trailers, screenshots, and descriptions can all be updated. Many developers do a full refresh in the weeks before launch when they have final assets. Just don't let the page go stale: if your trailer is from 18 months ago and your game looks substantially better now, update it.
-
-### What tools do game producers actually use to manage Steam page launches?
-
-For project management around Steam launches, [Notion](https://www.notion.so) works well for building content calendars and asset checklists. [Trello](https://trello.com) is simpler if you want Kanban-style task tracking for milestone deadlines like "capsule final" or "trailer submitted." For understanding your page performance, [SteamDB](https://www.steamdb.info) is indispensable. For learning how to think about this more strategically, Chris Zukowski's blog (How To Market A Game) is the single most useful resource I've seen for indie developers on Steam marketing, and he posts detailed breakdowns of what's working right now. [Udemy](https://www.udemy.com) also has credible game marketing courses if you want structured learning, and books like *Press Reset* by Jason Schreier give you honest context about what the industry actually looks like.
 
 ---
 

@@ -95,24 +95,3 @@ If you're in Canada, the UK, or several other countries, tax credits and governm
 
 ---
 
-## FAQ
-
-### How much does it cost to make an indie game?
-
-This varies enormously by scope, team size, and whether founders are paid. A very small game made by one or two people over a year might cost $20,000-$80,000 in real expenses if the founders defer pay. A mid-size indie with a paid team of five for 18 months realistically costs $600,000-$1.2M when you include labor, tools, QA, and marketing.
-
-### What percentage of a game budget should go to marketing?
-
-The most common rule of thumb is 20-30% of development cost, but this is contested. Some genres and platforms respond very differently to paid marketing. What's consistent is that $0 marketing budgets rarely produce successful launches, and building in at least 10-15% is usually the minimum worth taking seriously.
-
-### How do you budget for a game when you don't know the scope yet?
-
-You don't. Seriously, do the scope document first. If you genuinely can't nail down scope, build your budget in ranges (best case/expected/worst case) and treat the worst case as your planning number. Releasing a game with half the features you planned is recoverable. Running out of money four months before launch is not.
-
-### Should indie developers pay themselves a salary?
-
-Yes, even if it's below market rate. Deferred pay is not free. It's debt the project owes you, and it needs to show up in your financial model. If your game needs to earn $800,000 to pay back deferred salaries before it turns a profit, you need to know that going in so you can evaluate whether the revenue projections actually support it.
-
-### What's a good tool for game development budgeting?
-
-For small teams, a well-structured spreadsheet or Airtable base honestly covers most of what you need. For mid-size projects tracking multiple roles and contract work, Runn ($8/person/month) is worth a look. For overall project tracking alongside budget, Notion's project templates can work well once you've built out the structure. The book *The Game Producer's Handbook* by Dan Irish is dated in some places but still has the most practical chapter on game budgeting I've found in print.

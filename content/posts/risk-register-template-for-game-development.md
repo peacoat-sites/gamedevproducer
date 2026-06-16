@@ -104,27 +104,6 @@ If you want to go deeper on the production methodology behind all of this, Heath
 
 ---
 
-## FAQ
-
-### How often should we update a game dev risk register?
-
-High-priority risks (score 15+) should be reviewed every sprint or every two weeks. Lower-priority items can go to a monthly review cadence. The key is consistency over frequency. A monthly review that actually happens beats a weekly review that gets skipped.
-
-### Who should own the risk register?
-
-The producer or project manager typically owns the register as a document, but individual risks should have named owners who aren't the producer. The producer's job is to facilitate the process and chase updates, not personally mitigate every risk on the list.
-
-### What's the difference between a risk and an assumption?
-
-An assumption is something you're treating as true without proof. A risk is something that might go wrong. In practice, your biggest risks often hide inside unchallenged assumptions. "We're assuming the audio middleware license covers console" is an assumption. If it's wrong, it becomes a risk. Running an assumption log alongside your risk register is worth doing for any project over six months.
-
-### Should small indie teams bother with a formal risk register?
-
-Yes, but size it appropriately. A solo developer or two-person team doesn't need eleven columns and a dedicated review meeting. A ten-item list in a notes app with monthly check-ins covers most of what you need. The habit matters more than the format.
-
-### Can a risk register help with publisher conversations?
-
-Genuinely yes, and this is underused. Walking into a publisher milestone review with a current risk register shows professional rigor. It also gives you a structured way to surface risks that need publisher input, like platform certification strategy or marketing timeline dependencies, without it feeling like you're delivering bad news.
 
 ---
 

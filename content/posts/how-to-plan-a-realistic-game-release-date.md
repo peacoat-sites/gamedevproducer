@@ -92,27 +92,6 @@ Moving the date is the right call when the alternative is shipping something tha
 
 ---
 
-## FAQ
-
-### How far in advance should I announce a release date?
-
-For most indie games, 4-8 weeks is the minimum viable window to do anything meaningful with a release date announcement: a trailer, a press outreach cycle, a wishlist push. 3-6 months is better if you have the audience and budget for a sustained campaign. Announcing more than a year out is a risk you're taking on yourself.
-
-### Should I use a specific date or a quarter/season announcement?
-
-Use a quarter ("Q2 2026") until your certification and QA timelines are confirmed and locked. A quarter gives you roughly 13 weeks of flexibility without appearing evasive. Once you're 6-8 weeks out and confident, convert to a specific date and announce it properly.
-
-### What's a realistic timeline for a solo developer's first game?
-
-A small, focused game -- something in the 2-4 hour range with defined scope -- takes most solo developers 18-30 months if they're working part-time, or 10-18 months if they're full-time. Anything with procedural generation, multiplayer, or novel mechanics will push those numbers up significantly. The single biggest variable is whether the design is locked early.
-
-### How do I account for certification when planning a console release?
-
-Add 6-8 weeks to your schedule for the first certification attempt and assume you'll fail it once. Budget for a second submission. Microsoft and Sony both publish their Technical Requirements Checklists publicly -- read them before you're in QA, not after, and build compliance into development rather than retrofitting it at the end.
-
-### Which project management tools do game developers actually use?
-
-Hacknplan and Codecks are the two most game-specific options and both have free tiers worth trying. Larger teams use Jira (expensive but powerful) or Shortcut (cleaner than Jira, around $8.50 per user per month). A lot of small indie teams run just fine in Notion or even a well-structured Google Sheet. The tool matters less than whether your team actually updates it.
 
 ---
 

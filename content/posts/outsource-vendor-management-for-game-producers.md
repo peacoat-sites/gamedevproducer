@@ -84,27 +84,6 @@ A few things worth having in your stack:
 
 ---
 
-## FAQ
-
-### How many vendors can one producer realistically manage at once?
-
-Most producers can actively manage two to four vendor relationships at a time without quality slipping. Beyond that, you need dedicated outsource production support or a producer specifically assigned to vendor management. The mistake is treating vendor management as a background task.
-
-### What's the biggest red flag when evaluating a new vendor?
-
-They can't show you a clear internal QA process. Any studio producing assets for you should be doing their own quality check before delivery. If they're shipping you raw first-pass work and expecting you to catch everything, your revision rounds will spiral.
-
-### How do I handle a vendor who keeps missing deadlines?
-
-First, check whether your approvals are the bottleneck. If you're sitting on feedback for five days, the vendor's deadline slips. If your side is clean, have a direct conversation with your vendor contact: acknowledge the pattern, identify the root cause together, and agree on a corrective plan with a two-week window to see change. If it doesn't improve, invoke your contract's performance clause.
-
-### Should I use one large vendor or multiple smaller ones?
-
-Both have tradeoffs. A single larger studio reduces coordination overhead but creates a single point of failure. Multiple smaller vendors give you redundancy and competitive pricing, but your management load scales up. For most indie and mid-size projects, one primary vendor with one backup relationship is the practical sweet spot.
-
-### How do I protect unreleased game content when working with outsource partners?
-
-A solid NDA is the baseline. Beyond that, compartmentalize information. Vendors should only receive the assets, references, and context they need for their specific scope. Don't share full game design documents or unreleased narrative content unless it's operationally necessary. Watermarked references and access-controlled shared drives (Google Drive with link expiry, or SharePoint with role permissions) add another layer.
 
 ---
 

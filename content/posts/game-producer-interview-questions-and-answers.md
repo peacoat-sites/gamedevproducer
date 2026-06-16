@@ -104,27 +104,6 @@ For structured learning: **Udemy** has production-focused game dev courses that 
 
 ---
 
-## FAQ
-
-### How long should my answers be in a producer interview?
-
-Aim for 90 seconds to two minutes per behavioral question. Shorter than that and you haven't given enough context. Longer and you're probably losing them. If you're consistently going over two minutes, you're either setting too much context upfront or not editing the story down before you walk in.
-
-### Do I need to have shipped a AAA game to get a producer role at a mid-size studio?
-
-No, but you need to have managed something with real stakes: scope decisions, resource constraints, cross-discipline coordination. Shipping an indie title, producing a game jam team, or managing a vertical slice at a smaller studio all count if you can speak to the production specifics clearly.
-
-### What if I don't have a great answer for a question I get asked?
-
-Say so. "I haven't encountered that exact situation, but here's how I'd approach it based on what I have done." Interviewers respect that more than watching someone construct a fictional story in real time. They've seen it before and they'll see the seams.
-
-### Should I bring a portfolio or documentation samples to a producer interview?
-
-Yes, if you have them. A one-page production timeline, a sample risk log, or a sprint structure you built from a real project signals that you're already doing the job, not just talking about doing it. Don't force it into the conversation awkwardly, but have it available if the topic comes up naturally.
-
-### How do I handle a question about a production failure I was genuinely responsible for?
-
-Own it directly. Describe what you missed, what signals you ignored or didn't know to look for, and specifically what you changed afterward. Producers who can't account for their own failures are a liability. The people interviewing you have their own list of things they got wrong. Honesty here builds more trust than a polished deflection.
 
 ---
 

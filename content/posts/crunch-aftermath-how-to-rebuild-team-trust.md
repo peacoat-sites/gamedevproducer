@@ -89,27 +89,6 @@ The other common mistake is the team event. Pizza party, escape room, bowling. T
 
 ---
 
-## FAQ
-
-### How long does it actually take to rebuild trust after a bad crunch?
-
-Realistically, six to twelve months if you do the work consistently. The first 90 days determine whether people stay long enough to participate in the rebuild at all. You're not repairing a relationship to its pre-crunch state. You're building a new one with better foundations, which takes longer but ends up more durable.
-
-### What if leadership won't acknowledge the crunch was a problem?
-
-This is common and genuinely difficult. If you're a producer without authority over studio policy, you can still do the individual-level work: one-on-ones, protecting your team's time within your scope, being transparent about what you can and can't control. Document what happened and what you recommended. It protects you professionally and sometimes becomes useful when leadership eventually has to reckon with turnover numbers.
-
-### Should we do a post-mortem right after launch?
-
-Not immediately. A post-mortem requires psychological safety to be useful. If you run it while people are still exhausted and guarded, you'll get surface-level observations and no real diagnosis. Wait four to six weeks, after some decompression, and structure it so it separates process issues from individual accountability. The goal is system improvement, not blame assignment.
-
-### One senior team member is clearly checked out. How do I re-engage them?
-
-Direct conversation, privately. Don't reference the checked-out behavior indirectly. Ask what they need to feel invested again. Sometimes the answer is a specific creative problem they care about. Sometimes they're already mentally out the door and the honest thing is helping them transition well. Trying to manufacture engagement without addressing the underlying issue just delays the exit and frustrates everyone.
-
-### When is it okay to start talking about the next project?
-
-When your pulse survey scores are back above 3.5 across the board, when you've addressed at least the highest-priority structural issue that caused crunch, and when people are voluntarily bringing energy and ideas to conversations rather than waiting to be asked. That's the signal. Calendar date alone means nothing.
 
 ---
 

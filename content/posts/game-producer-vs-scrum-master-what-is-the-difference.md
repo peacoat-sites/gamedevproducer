@@ -137,27 +137,6 @@ Whether you're a Producer, a Scrum Master, or doing both, the right toolset matt
 
 ---
 
-## FAQ
-
-### Can one person be both the Game Producer and the Scrum Master?
-
-Yes, and it happens all the time in indie or mid-sized studios. The risk is that the two roles have competing instincts: the Producer wants to push scope when deadlines approach, while the Scrum Master should be protecting the team's sustainable pace. If you're filling both roles, be explicit with yourself about which hat you're wearing in each meeting. Some practitioners use a literal physical signal, like switching chairs, to mark the context shift. That sounds silly until you've watched a team burn out because nobody was playing the Scrum Master role seriously.
-
-### Who should the Scrum Master report to?
-
-Technically, the Scrum Master serves the team, not a manager. In practice, most studios place the Scrum Master on the organizational chart under the Development Director or Studio Head, not under the Producer. This matters because a Scrum Master who reports to the Producer loses the independence they need to push back on production decisions that harm the team. If your Scrum Master reports to your Producer, watch for that dynamic carefully.
-
-### Does a Game Producer need Scrum training?
-
-Not formally, but it helps. A Producer who understands sprint mechanics, velocity, and the purpose of a retrospective will make much better decisions about how to communicate with the team and when to adjust scope. You don't need a CSM certification, but reading Clinton Keith's book and sitting through a sprint planning session with your eyes open will make you a better Producer.
-
-### What happens when the Producer and Scrum Master disagree on scope mid-sprint?
-
-This is the most common and most disruptive conflict. The Scrum framework says scope changes mid-sprint require a sprint cancellation, which is a drastic and rarely-used tool. In game dev practice, the Producer and Scrum Master need a pre-agreed protocol: usually, mid-sprint additions require removing something of equivalent size, and that trade has to be visible to the whole team. Hiding scope additions from the team is how you break trust and start burning people out.
-
-### Is the Scrum Master role even necessary for game development?
-
-Honestly, it depends on team size and maturity. Teams of fewer than six people who are experienced with agile can often self-facilitate. Larger teams, or teams new to Scrum, benefit enormously from a dedicated facilitator and coach. The mistake studios make is hiring a Scrum Master and then treating them like an administrative assistant or a junior Producer. If you're going to have the role, give it the authority and space to actually do the job.
 
 ---
 

@@ -111,27 +111,6 @@ For producers looking to build formal UX research skills, the **Nielsen Norman G
 
 ---
 
-## FAQ
-
-### How do you handle a developer who refuses to leave the room during playtests?
-
-Start with the data argument, not the feelings argument. Show them specific examples where their presence changed tester behavior. Most developers who resist leaving do so because they're afraid they'll miss something important. Offer them a real-time video feed and a structured debrief instead. If someone genuinely refuses after that conversation, escalate it as a production risk to leadership, because it is one.
-
-### What's the difference between a playtest and a focus group, and does it change how you approach psychological safety?
-
-A playtest is primarily observational: you're watching someone play. A focus group is primarily conversational: you're asking people to discuss their reactions. Psychological safety matters in both but shows up differently. In playtests, the key is removing social pressure from the observation environment. In focus groups, it's about preventing dominant voices from suppressing quieter ones and creating space for dissenting opinions. Many sessions combine both, which is fine as long as you're deliberate about when you're doing which.
-
-### Should you tell playtesters which studio or team made the game?
-
-This depends on your goals. If you're testing a published IP or a sequel, testers already have brand associations that will color their responses. Blind testing, where you withhold the studio identity, can produce cleaner data. If you're testing internal builds with your own staff, that anonymization isn't really possible anyway. The bigger issue is ensuring testers don't feel personally connected to the developers in the room, which is a stronger driver of social bias than studio branding.
-
-### How often should you run playtests, and does frequency affect the culture around them?
-
-More frequent, lower-stakes sessions build better feedback culture than infrequent high-stakes ones. A weekly 30-minute session where one feature is tested feels less threatening than a quarterly review where the entire game's direction hangs in the balance. Teams that test frequently develop a healthier relationship with critique because no single session carries existential weight. [What is a game milestone and how do alpha, beta, and gold relate to playtest cadence](/what-is-a-game-milestone-alpha-beta-gold/) is useful context here for producers structuring their testing calendar.
-
-### What do you do when playtest data directly contradicts the creative director's vision?
-
-Present the data clearly and let it speak without editorializing. Don't frame it as "players hate the vision." Frame it as "here's the specific behavior we observed, and here are three possible explanations for why it's happening." Give the creative director ownership of the interpretation. Your job as a producer or researcher is to make sure the data gets seen accurately, not to win an argument. If the creative director consistently overrides clear player feedback and it's creating production risk, that's a leadership conversation, not a playtest facilitation problem.
 
 ---
 

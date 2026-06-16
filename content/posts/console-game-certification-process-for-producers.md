@@ -107,27 +107,6 @@ For learning the production side more deeply, Jason Della Rocca's work on game p
 
 ---
 
-## FAQ
-
-### How far in advance should I start the certification process?
-
-Start your internal compliance pass no later than eight weeks before your target ship date. If you're doing a simultaneous multi-platform launch, add another two weeks of buffer. Platform cert windows are largely outside your control, so the only variable you can manage is how ready your build is when it enters the queue.
-
-### What happens if we fail certification?
-
-You'll receive a certification failure report listing every non-compliant item with a severity rating. You fix the issues, cut a new build, and resubmit. There's no penalty beyond time lost. That said, if you're on a tight retailer-mandated ship date for a physical release, repeat failures can have real business consequences.
-
-### Can we ship a patch day-one to fix things that didn't make cert?
-
-No. The build that passes cert is the build that ships. Any changes after certification require a patch, which also goes through a (usually faster) certification review. Day-one patches are common, but they don't replace certification.
-
-### Is certification different for patches and DLC?
-
-Yes, and usually faster. Patch and DLC submissions go through a lighter review process than a full game submission. Typical turnaround is a few business days to a week. The requirements still apply, but the scope of testing is smaller.
-
-### Do indie studios get treated differently in cert than large publishers?
-
-The requirements are the same regardless of studio size. What differs is access to platform support. Larger publishers often have a dedicated platform relations contact who can expedite questions or flag issues before submission. Indie studios working through the standard developer programs typically rely on documentation and developer forums. Joining programs like the ID@Xbox or PlayStation Indies initiative can improve your access to support resources.
 
 ---
 

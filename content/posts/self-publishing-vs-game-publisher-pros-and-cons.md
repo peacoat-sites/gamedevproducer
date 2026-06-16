@@ -106,27 +106,6 @@ If you're doing your own marketing, **Chris Zukowski's How To Market A Game** bl
 
 ---
 
-## Frequently Asked Questions
-
-### Can a small studio realistically self-publish a console game?
-
-Yes, but it's significantly harder than a PC-only release. Console certification, devkits, and first-party submission processes add real time and cost. Platform holders like Nintendo and Sony have programs for independent developers (Nintendo's Developer Portal, PlayStation's developer site), but getting promotional placement without a publisher is a steep climb.
-
-### What's a fair royalty split in a publishing deal?
-
-There's no universal "fair" -- it depends entirely on what the publisher is contributing. If they're funding development and marketing, 50/50 post-recoupment is common. If they're only doing marketing with no advance, you should be getting 65-70% or better. Any deal where you don't own your IP outright at the end needs extra scrutiny.
-
-### How long does a typical indie publishing contract last?
-
-Most standard contracts run for the life of the game's commercial release, which in practice means indefinitely on the platforms you launch on. Rights reversion clauses (which return your IP if the publisher stops actively distributing or marketing the game) are worth fighting for during negotiation. Not every publisher will agree, but it's a reasonable ask.
-
-### Should I go to publishers before finishing the game or after?
-
-Publishers want to see enough to evaluate the game -- usually a playable vertical slice and strong key art, not a finished product. Approaching too early (concept only) wastes everyone's time. Approaching post-launch with a game that's already selling removes your negotiating leverage because you don't need them anymore. The sweet spot is roughly six to twelve months before your planned release date.
-
-### What happens if my publisher goes bankrupt or gets acquired?
-
-This is more common than people expect. Your contract should specify what happens to your IP in these scenarios. In acquisition cases, your contract typically transfers to the acquiring company. In bankruptcy, it gets complicated fast and may end up in IP limbo. Rights reversion clauses triggered by breach of contract or insolvency are something to negotiate for, even if you don't expect to use them.
 
 ---
 

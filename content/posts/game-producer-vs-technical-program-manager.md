@@ -110,27 +110,6 @@ For **personal productivity**, producers specifically benefit from tools that ma
 
 ---
 
-## FAQ
-
-### Can one person do both the Game Producer and TPM role simultaneously?
-
-On small teams, yes, often by necessity. At a studio under 50 people, a senior producer might own both the creative coordination and the technical program tracking because the scale doesn't warrant two separate people. But past a certain size (roughly 100+ developers on a single project), trying to hold both roles degrades performance in both. The context-switching cost is real, and the skills required start to genuinely diverge.
-
-### Who does a TPM report to in a game studio?
-
-It varies, and this is where studios make mistakes. TPMs hired from tech backgrounds often expect to report to an engineering or operations leader. At game studios, they frequently end up reporting to the Head of Production or a Senior Executive Producer. That's not wrong, but it's important that the TPM has a clear mandate from engineering leadership too, or they'll lack the credibility to run cross-team processes effectively. Dual accountability structures, where the TPM reports to production but has an engineering sponsor, tend to work better than pure-line reporting.
-
-### Is "Technical Producer" the same as a TPM?
-
-Not quite, though they're related. A Technical Producer at most studios is a producer with deep engineering literacy, often responsible for things like build pipelines, DevOps coordination, and tech debt triage. A TPM is specifically a program management role, not a production role. A Technical Producer might perform TPM-like functions, but they're usually embedded in a production hierarchy with creative responsibilities. The TPM role is more likely to be borrowed from the tech industry's organizational vocabulary.
-
-### How do you avoid the TPM and Producer stepping on each other?
-
-Write it down. Seriously. A one-page RACI (Responsible, Accountable, Consulted, Informed) document for the 10 most common decisions you'll face: scope changes, milestone adjustments, team staffing shifts, external partner delays, build health escalations. Ambiguity is fine at the start of a project but costs you badly by the middle. The best producer/TPM partnerships I've seen had a clear written agreement on who owns what, revisited it quarterly, and had enough trust to call out when lines were being crossed.
-
-### Should game studios hire more TPMs as the industry shifts toward live service?
-
-Yes, cautiously. Live service fundamentally changes the coordination problem. You're not shipping once; you're shipping continuously across backend, client, content, and balance updates, often with contractual content cadences and platform partner dependencies. That's a program management challenge that benefits from TPM thinking. But hiring TPMs without also investing in strong producers is a mistake. The TPM makes the machine run better. The producer keeps the machine pointed at something worth shipping.
 
 ---
 

@@ -83,26 +83,3 @@ You don't need specialized software to write a good milestone document, but cert
 
 For deeper grounding in production methodology, Heather Maxwell Chandler's *The Game Production Handbook* remains one of the most practical resources on milestone planning in a publisher context. If you prefer applied learning, the Game Production course on [Udemy by Jason Schreiber](https://www.udemy.com/) or the production-focused content on [GDC Vault](https://gdcvault.com/) (many sessions are free) will give you real examples from shipped projects. For tracking your own productivity and milestone prep work, [Todoist](https://todoist.com/) or [Linear](https://linear.app/) both handle personal production task management without the overhead of enterprise tools.
 
-## FAQ
-
-### How long should a milestone document be?
-
-Long enough to eliminate ambiguity, short enough that people actually read it. In practice, a well-written milestone document for a single milestone is usually 1 to 3 pages. If you're writing a full project milestone plan covering all major checkpoints from concept to ship, 8 to 15 pages is normal. The length problem I see most often is the opposite of what you'd expect: documents are too short, not too long, because producers skip the acceptance criteria section.
-
-### What's the difference between a milestone document and a GDD?
-
-Completely different artifacts. A Game Design Document describes what the game is and how it works. A milestone document describes what evidence you'll produce by a specific date to demonstrate that development is on track. The GDD is a design reference. The milestone document is a production contract. You need both.
-
-### Should the development team see the milestone document?
-
-Yes, always. I've encountered studios where milestone documents were treated as publisher-facing artifacts that the team wasn't shown. This is almost always a sign that leadership doesn't trust the team with business information, and it creates the exact misalignment that milestone documents are supposed to prevent. The team needs to know what "done" means so they can make good daily decisions about priority and scope.
-
-### How do you handle milestone documents when you're using Agile or Scrum?
-
-Milestones and sprints operate at different time scales and serve different purposes, so they're not in conflict. Sprints manage two-week execution cycles. Milestones manage 6 to 16 week strategic objectives. In practice, I map milestones to groups of sprints, write the milestone document first to define the outcomes, and then let the sprint planning process figure out how to get there. The acceptance criteria from your milestone document become useful reference points during sprint reviews when you're asking: are we moving toward this thing?
-
-### What happens when you can't hit a milestone?
-
-You communicate early, document the gap formally, and revise with a recovery plan attached. Never let a milestone slip quietly. The moment you know a milestone is at risk, that information goes to every stakeholder immediately, along with a revised date and a clear account of what changed and why. Publishers and investors can usually absorb a delay. What they can't absorb is finding out about it on the day the milestone was due. In contractual milestone situations, check your agreement: many have provisions for milestone renegotiation that are far less painful than breach-of-contract territory.
-
-The milestone document is not the glamorous part of game production. Nobody's going to post about it on social media or put it in their portfolio. But in my experience, it's one of the clearest predictors of whether a project ships on terms everyone can live with. Get the document right, and you've given your team a shared definition of success. That's rarer in this industry than it should be, and it's worth the two days it takes to do properly.

@@ -87,26 +87,5 @@ Update your roadmap in a regular cadence, at least monthly, more often if you're
 
 ---
 
-## FAQ
-
-### How far out should a game development roadmap go?
-
-For most projects, plan in detail for the next three to four months and keep everything beyond that at milestone granularity. If your total production timeline is under 18 months, you can sketch the full arc. Beyond 24 months, detailed long-range planning is mostly fiction.
-
-### What's the difference between a roadmap and a production schedule?
-
-A roadmap defines *what* you're building and *when* you'll hit key gates. A production schedule defines *who* is doing *what task* on *which days*. You need both, but they live at different levels of detail and change for different reasons. Don't conflate them or you'll manage by spreadsheet and lose sight of direction.
-
-### Should I use Agile or a milestone-based approach for my game?
-
-Honestly, most successful game teams I've worked with use both. Agile sprints handle day-to-day task management and keep teams moving. Milestone gates handle the bigger directional decisions. The mistake is trying to use pure Scrum all the way to ship, because it creates the illusion of progress without answering whether you're building the right thing.
-
-### When should I first share the roadmap with my team?
-
-Early and often. The roadmap shouldn't be a producer artifact handed down from above. Getting your leads involved in setting milestone definitions and identifying the critical path dramatically improves buy-in and surfaces risks you won't see from a spreadsheet. Even a 30-minute working session with your leads before you finalize anything is worth it.
-
-### What do I do when the roadmap is clearly wrong but leadership won't adjust it?
-
-Document everything. Update your confidence percentages. Make the delta between the current plan and realistic delivery visible in writing, repeatedly. If you're being pressured to maintain a roadmap you know is wrong, that's a project health problem, not a roadmap problem, and your job is to make the risk legible, not to paper over it.
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*

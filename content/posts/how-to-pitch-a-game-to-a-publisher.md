@@ -77,27 +77,6 @@ Get a lawyer. Specifically, get one who knows games contracts. Erin Hoffman-John
 
 Recoupment terms are where a lot of deals quietly become bad deals. If a publisher invests $250k and takes 100% of revenue until they've recouped $500k (a 2x recoupment multiple is not uncommon in bad deals), you could sell 30,000 copies and see nothing. Read every clause around recoupment, marketing spend counted toward recoupment, and what happens if the publisher is acquired. These aren't hypotheticals; they're regular occurrences.
 
-## FAQ
-
-### How long should a game pitch deck be?
-
-Aim for 15 to 20 slides for most pitches. If you're a first-time team, err shorter and let your demo do more work. Decks over 30 slides rarely get read in full, and padding with lore, art dumps, or backstory before you've established the commercial case is a common mistake.
-
-### Do I need a playable demo before pitching to publishers?
-
-You don't always need one, but having one dramatically improves your odds. Publishers in 2024 are dealing with a flooded market and cautious about early-stage deals. A vertical slice that demonstrates the core loop and visual direction answers questions that no deck can. If you're six to twelve months from having one, it's often worth waiting.
-
-### How do I find the right publisher for my game?
-
-Start with the publisher's existing catalog. Find three to five games they've published that are in your genre or share your target audience, and check how those games have performed. If the performance is strong and your game is adjacent, you're probably a fit. GDC Vault talks, GamesIndustry.biz interviews with publisher heads, and the publisher's own blog posts are all good for understanding their acquisition philosophy.
-
-### What revenue split should I expect from a publisher deal?
-
-The range is genuinely wide. After recoupment, net revenue splits of 50/50 are common, though some indie-friendly publishers offer 60/40 or even 70/30 in the developer's favor. The split matters less than the recoupment terms and what's included in recoupable expenses. A 70/30 split with a 2x recoupment multiple can easily be worse than a 50/50 split with a 1x multiple.
-
-### Should I pitch to multiple publishers at the same time?
-
-Yes. Exclusivity in a pitch process isn't the norm, and unless a publisher explicitly asks for a period of exclusive negotiation (which sometimes happens after serious interest), you should be talking to multiple people simultaneously. Having competing interest, even implied interest, improves your negotiating position considerably.
 
 ---
 

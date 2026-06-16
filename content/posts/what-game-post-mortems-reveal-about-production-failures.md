@@ -87,27 +87,6 @@ If you're writing a post-mortem right now, push your team to be uncomfortable in
 
 ---
 
-## FAQ
-
-### How long should a game post-mortem actually be?
-
-Long enough to be honest, short enough that people read it. For an internal post-mortem, I'd aim for 1,500 to 3,000 words with specific examples attached. GDC post-mortems run longer because they're written for a public audience. The format matters less than whether the people who made the decisions actually wrote it.
-
-### Should post-mortems be shared publicly?
-
-That depends on your studio culture and contractual obligations. Public post-mortems are enormously valuable for the industry. But internal ones should happen first, without the editing that comes with public disclosure. Don't let the fear of public scrutiny turn your internal post-mortem into a PR document.
-
-### When in development should you run a post-mortem?
-
-After every major milestone, not just at the end of the project. Waiting until ship means you're reviewing 18 months of decisions all at once. Milestone post-mortems let you actually change behavior during production, which is the whole point.
-
-### What's the single most common production failure across post-mortems?
-
-Unclear ownership. Not scope, not crunch, not communication, though those all connect to it. When nobody knows who has final decision-making authority on a feature, that feature takes twice as long and satisfies nobody. Define ownership before you write a single line of code.
-
-### Are there good resources for reading real game post-mortems?
-
-Yes. GDC Vault has hundreds archived, many free to access. The book *Postmortems: Selected Essays Volume One* by various GDC authors collects some of the best ones in print. Gamasutra (now Game Developer) has a full archive online. Reading ten of them back to back is more valuable than most production courses.
 
 ---
 

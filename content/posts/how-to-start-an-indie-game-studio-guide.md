@@ -93,27 +93,6 @@ Wishlist building on Steam should start the moment your game's concept is solid 
 
 ---
 
-## FAQ
-
-### How much money do I need to start an indie studio?
-
-That depends almost entirely on your burn rate and timeline. A solo developer with a day job and a two-year part-time project might need $5,000-15,000 for software, assets, and legal setup. A two-person team going full-time with an 18-month target needs to cover $150,000-250,000 in living and operating costs before revenue. Know your actual monthly number before you quit anything.
-
-### Do I need to incorporate before making my first game?
-
-Technically no, but you should do it before signing any contracts, accepting any payments, or working with collaborators. The protection and clarity it provides is worth the $200-500 it costs. Doing it retroactively when something goes wrong is more expensive and more stressful.
-
-### Should my indie studio have a publisher?
-
-Not automatically. A publisher makes sense when you need capital you don't have, marketing infrastructure you can't build, or platform relationships you can't access on your own. If you can self-fund, ship, and market a smaller game, keeping 100% of revenue and 100% of IP is a real advantage. The calculus changes as your project scale increases.
-
-### What engine should a new indie studio use?
-
-Unity and Unreal Engine 4/5 are the realistic choices for most teams. Unity has a larger indie ecosystem and more accessible learning curve; Unreal is more powerful out of the box for 3D but has a steeper ramp. Godot is free, open source, and increasingly capable for 2D. The honest answer: use whatever your team already knows. Switching engines to chase features costs more than people admit.
-
-### How do I find co-founders or team members for an indie studio?
-
-The most reliable sources are people you've already worked with, game jams (Ludum Dare and Global Game Jam both produce real professional relationships), and communities like TIGSource forums or the r/gamedev Discord. Be skeptical of strangers who are "very passionate" but have no shipped work and no specific skills. Passion without track record is a risk, not an asset.
 
 ---
 

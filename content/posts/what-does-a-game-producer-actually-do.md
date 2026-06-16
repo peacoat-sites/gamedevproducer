@@ -126,27 +126,6 @@ With studio leadership, the producer is often the primary conduit between the de
 
 ---
 
-## Frequently Asked Questions
-
-### Do producers need to know how to code or make art?
-
-You don't need to be a programmer or an artist, but you need to understand what those disciplines actually do well enough to have credible conversations and spot when estimates are off. Producers who've spent time in another discipline have a real advantage. If you haven't, invest in building technical literacy. Learn what a rendering pipeline is. Understand the difference between a physics bug and a gameplay bug. Read through post-mortems. The credibility you build by being knowledgeable compounds over time.
-
-### What's the difference between a producer and an executive producer?
-
-At most studios, the executive producer is either a senior oversight role (someone who spans multiple projects) or a publishing-side role responsible for the business relationship, budget approval, and green-light decisions. The producer runs the day-to-day. In practice, EP titles vary enormously across studios, and at smaller companies the distinction can be mostly cosmetic.
-
-### Is production a good career path for someone who wants to make games creatively?
-
-It depends on what "creatively" means to you. Producers often have significant creative influence, particularly in pre-production and when working closely with a director who trusts them. But if you want to design levels, write dialogue, or build systems, production is not a shortcut to that. It's its own discipline. The people who thrive in production genuinely like the organizational and interpersonal work, not just the proximity to the creative output.
-
-### How do producers handle teams that resist process?
-
-Carefully and incrementally. You can't impose process on a creative team and expect it to stick. The producers I've seen do this well start by solving a real problem the team is already feeling, whether that's unclear priorities, too many surprise meetings, or constant context-switching. When process solves a visible pain point, adoption follows. When process feels like overhead with no payoff, people route around it. Build trust before you build systems.
-
-### What metrics should a producer track?
-
-At minimum: velocity against planned velocity (are you completing what you commit to?), bug open/close rate as you approach launch, milestone hit rate, and build stability. Beyond that, track whatever is causing the most risk on your specific project. If outsource asset delivery is your biggest dependency, track that weekly. If your engine is unstable, track crash rate and build times. Metrics should reflect your current risk profile, not a generic production dashboard template.
 
 ---
 

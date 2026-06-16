@@ -91,27 +91,6 @@ For tools: I've found Machinations genuinely useful for documenting economy and 
 
 ---
 
-## FAQ
-
-### How long should a game design document be?
-
-There's no correct length. A focused indie game's GDD might be fifteen pages; a live-service title might have hundreds of pages spread across a wiki. The better question is whether every section is doing real work. If you can cut a page without losing any information the team actually needs, cut it.
-
-### Should I write the GDD before or after prototyping?
-
-Write a short pitch and core mechanics overview first, then prototype, then expand the GDD based on what you learned. GDDs written entirely before any prototyping tend to describe imaginary games that don't match what actually feels good to play. The document should follow understanding, not substitute for it.
-
-### What software is best for writing a GDD?
-
-Notion is the most popular choice for indie teams right now and it's genuinely good for the price (free for small teams). Confluence is the standard in larger studios. Google Docs works fine with discipline. Avoid Word or PDFs for anything you expect to keep current; static formats die the moment the game changes.
-
-### Do solo developers actually need a GDD?
-
-Yes, but a short one. Even if you're the only person on the project, you're not the same person at month eight that you were at month one. A short document that records your core decisions and open questions saves you from relitigating the same design problems repeatedly. Think of it as writing notes to your future, exhausted self.
-
-### What's the most common GDD mistake?
-
-Writing too much before anyone has played anything. The second most common is writing a document nobody can find or knows to update. Both of these kill the document's usefulness. Start lean, keep it in a shared wiki, and treat updates as a team habit.
 
 ---
 

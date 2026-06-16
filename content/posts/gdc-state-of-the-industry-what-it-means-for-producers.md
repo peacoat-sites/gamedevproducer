@@ -86,27 +86,6 @@ Two resources worth your time right now: the [Agile Game Development](https://ww
 
 ---
 
-## FAQ
-
-### What does the GDC State of the Industry report actually cover?
-
-The report covers developer sentiment across topics including employment conditions, platform priorities, genre focus, technology adoption, and industry outlook. It's published annually and based on a survey sent to GDC's registered attendee and newsletter audience. The sample size is typically 2,000 to 3,000 respondents. It's a broad snapshot, most useful for identifying trends over multiple years rather than drawing conclusions from any single data point.
-
-### Should I be worried about job security as a producer right now?
-
-Worried enough to be proactive, not worried enough to be paralyzed. Producers who document their output, maintain external professional relationships, and develop genuine cross-disciplinary fluency are in a better position than those who rely entirely on institutional goodwill. Keep your portfolio of shipped milestones updated. Know your numbers.
-
-### How should producers talk to studio leadership about the industry report findings?
-
-Bring the data in as context, not as an argument. If you're using industry numbers to justify a production change, connect them directly to your studio's specific situation. Leadership responds to "here's what the trend means for our next milestone" much better than "the industry report says things are bad."
-
-### Are small studios or indie teams affected differently by these trends?
-
-Yes. Small studios often feel economic pressure later than large ones because they have less overhead to cut, but they also have less cushion when a title underperforms. The GDC data tends to underrepresent indie teams, so take the survey results with that in mind. For indie producers specifically, following the [Indie Game Business](https://www.gamedeveloper.com) coverage on Game Developer (formerly Gamasutra) gives you a more relevant signal.
-
-### What's the most important skill a producer should develop in the current climate?
-
-Risk identification. Not risk elimination, because you can't eliminate risk in game development, but the ability to surface risks early, communicate them clearly, and present decision-makers with real options rather than false reassurance. Every studio right now is operating with tighter margins and less tolerance for surprises. A producer who sees problems coming and names them honestly is worth keeping.
 
 ---
 

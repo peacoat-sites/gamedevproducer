@@ -125,27 +125,6 @@ Revisit and reforecast regularly. In my experience, studios that reforecast ever
 
 ---
 
-## Frequently Asked Questions
-
-### How much does it cost to make an indie game in 2024?
-
-The range is genuinely enormous. A solo developer working without salary can ship a small game for under $10,000 in tool and asset costs. A team of four to six full-time people with salaries working for 18 months can easily spend $500,000 to $800,000. The number that matters is yours, based on your scope, your team structure, and your actual cost rates. Averages from articles don't tell you what your game will cost.
-
-### Should I use a top-down or bottom-up estimation approach?
-
-Bottom-up almost always produces more accurate results. Start from tasks, build to features, build to project total. Top-down (deciding the budget first and working backward to fit scope into it) can work for scoping exercises when you have a fixed budget, but it often results in optimistic assumptions quietly baked into the plan that blow up later.
-
-### How do I estimate a game when the team has never shipped a title before?
-
-Aggressively apply the inexperience multiplier. I'd apply 40 to 50 percent buffers on first-time tasks and plan for a longer pre-production phase to establish team velocity before committing to a full production timeline. Running a small prototype sprint first gives you real data to estimate from, which is worth far more than any formula.
-
-### What's the biggest mistake producers make in game dev estimation?
-
-Not separating out risk. Treating a known, repeatable task the same as experimental new work is how estimates collapse. Novel mechanics, new engine features, and first-time tech integrations carry fundamentally different uncertainty profiles than building the fourth UI screen in a well-established design system. Estimate them differently.
-
-### When should I revisit my estimate?
-
-At every major milestone, after any significant scope change, and whenever actual velocity diverges from planned velocity for two or more consecutive sprints. Estimates aren't a contract. They're a living forecast. Treating them as fixed after pre-production is one of the most common ways studios walk into production debt without noticing until it's too late.
 
 ---
 

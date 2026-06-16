@@ -112,27 +112,6 @@ What I'll say is this: crunch has survived every cultural intervention the indus
 
 ---
 
-## FAQ
-
-### Is crunch ever actually necessary or is it always avoidable?
-
-The honest answer is: it depends on how you define necessary. In a genuine emergency, like a platform-breaking bug discovered two days before launch, short intensive effort is a reasonable response to an abnormal situation. That's not crunch as an industry problem. The crunch that damages careers and health is the kind that runs for months and is baked into the plan from the start. That version is almost always a planning and incentive failure, not an unavoidable reality.
-
-### How long is a "normal" crunch period?
-
-There's no safe answer here, because the research on overwork is clear that sustained periods beyond 50 hours per week show measurable cognitive and health impacts within weeks. Anecdotally, many developers describe crunches of four to twelve weeks as typical for AAA milestone and launch periods. Death march crunches of six months or more are less common but well-documented in major studio post-mortems. Any crunch that doesn't have a defined end date is a red flag.
-
-### As a junior developer, how do I push back on crunch without damaging my career?
-
-This is one of the hardest questions in the industry and I won't pretend there's a clean answer. Document your hours. Build relationships with other developers who share your concerns so you're not a single voice. When you raise workload concerns, frame them around project risk and quality, not personal discomfort. "At this pace I'm worried we'll accumulate bugs we won't have time to fix" lands differently than "I'm tired." And honestly, pay attention to whether your studio's leadership responds to those concerns or dismisses them. That tells you a lot about whether the culture can change.
-
-### Does crunch actually produce better games?
-
-Almost certainly not, and the evidence points the other way. Extended overwork produces more bugs, worse creative decisions, and higher turnover. You lose experienced people mid-project, which destroys institutional knowledge exactly when you need it. Jason Schreier's reporting and multiple GDC post-mortems suggest that games released in crisis-crunch conditions tend to have the most severe launch quality problems. The extra hours are often spent cleaning up the problems the exhaustion created.
-
-### How does crunch affect game quality and the final product?
-
-This is where it gets complicated. Some games ship in rough shape after brutal development (Cyberpunk 2077 at launch). Others ship in decent shape despite brutal development. The variable isn't usually the crunch itself, it's whether leadership maintained realistic scope and feature discipline while the crunch was happening. Crunch can ship a game. It can't fix a game that has fundamental design problems or scope it couldn't support. The two things get conflated, and that conflation is part of what lets studios keep crunching and calling it necessary.
 
 ---
 

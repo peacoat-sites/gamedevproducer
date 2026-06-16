@@ -87,26 +87,3 @@ Community trust is your most important asset in live service. When *No Man's Sky
 
 I've seen smaller studios launch a "live service" game with one content designer and no dedicated community manager. By month four, players feel abandoned, reviews tank, new player acquisition dries up, and the game enters maintenance mode before it ever found its audience. The lesson: if you're going to commit to live, commit fully, or don't start.
 
-## FAQ
-
-### Can a small indie team realistically run a live service game?
-
-Yes, but it requires a different kind of small team. Studios like *Motion Twin* (*Dead Cells*) and *Re-Logic* (*Terraria*) have supported long-running games with small teams, but they built games with exceptional word-of-mouth and didn't rely on constant new content for retention. If your live model depends on regular content drops to keep players engaged, you need more capacity than most indie teams have. A game that retains players through depth rather than novelty is much more sustainable at small scale.
-
-### What's the right monetization model if I go live service?
-
-Battle passes with seasonal themes have become the baseline expectation for fairness in live service. Cosmetics-only monetization preserves competitive integrity. Pay-to-win mechanics damage long-term trust and accelerate churn, particularly in Western markets. Spend time in your genre's community before you finalize your monetization design. Players are vocal about what they consider predatory, and that reputation follows your game.
-
-### How do I scope a live service game's initial launch content?
-
-Think of launch as your "season zero." It needs enough content to establish the core loop and justify the buy-in, but not so much that you've burned your content budget before you've validated retention. Many successful live service titles launched relatively lean and used early player data to prioritize what to build next. A 20-40 hour launch experience for a PvE game with strong seasonal content planned for months 2 and 4 is a reasonable structure.
-
-### Should post-launch patches for a ship-and-done game be free?
-
-Almost always yes. Bug fixes and quality-of-life patches should be free. You're fulfilling the implicit promise of the game players bought. Paid DLC that adds substantial new content is fine and expected. Charging for patches or content that fixes design problems from the base game damages trust and review scores. If you're unsure, watch how your genre's community reacts when comparable studios charge for updates.
-
-### What project management tools work best for live service production?
-
-**Jira** remains the industry standard for sprint-based live ops work, especially if you need custom workflows and integration with your CI/CD pipeline. **Hacknplan** is a strong alternative built specifically for game production that handles the hierarchical feature structure common in game dev better than generic PM tools. For communication and async coordination across a distributed live ops team, **Slack** combined with a solid **Confluence** or **Notion** wiki keeps institutional knowledge from walking out the door when staff turns over.
-
-The honest truth is that neither model is inherently better. Ship-and-done games can build careers and sustain studios for decades. Live service games can become cultural phenomena or expensive mistakes. What matters is that you choose deliberately, staff appropriately, and build the production infrastructure that matches the commitment you're actually making. The games that struggle most aren't the ones that picked the wrong model. They're the ones that never really picked one at all.

@@ -87,27 +87,6 @@ Notion works well for the living onboarding document. Spend time building it onc
 
 ---
 
-## FAQ
-
-### How many synchronous meetings does a remote game dev team actually need per week?
-
-Fewer than you think, but not zero. For a typical sprint-based team, one sprint planning session, one end-of-sprint review and retrospective, and one cross-discipline creative sync per week is a reasonable baseline. Everything else can be async if your documentation discipline is solid. That's roughly 3-5 hours of synchronous time per week, not 20.
-
-### What's the best project management tool specifically for remote indie game teams?
-
-Shortcut (formerly Clubhouse) for teams that want something cleaner and more intuitive than Jira. Notion combined with GitHub Projects if you're very small and want to minimize tool sprawl. Avoid Trello for anything beyond a 3-person hobby project: it looks deceptively simple and falls apart when your backlog gets real.
-
-### How do you handle code reviews and creative reviews across time zones?
-
-Make them async by default. Code reviews work fine in GitHub pull request comments with a 24-hour response expectation. Creative reviews can be handled through recorded Loom walkthroughs with timestamped feedback left in Notion or Frame.io (Frame.io is excellent for video and art asset review, with a free tier that's genuinely usable). Reserve synchronous review sessions for complex decisions where the real-time back-and-forth genuinely changes the outcome.
-
-### How do you onboard a remote contractor in a short engagement without wasting half the contract?
-
-Send the onboarding document before day one. Grant tool access 48 hours early so they're not spending their first morning on IT tickets. Have a defined first deliverable within the first week that's small enough to be achievable and real enough to matter. Contractors lose momentum fast when they're waiting on access or clarity.
-
-### Should a remote game dev team use Discord or Slack?
-
-Discord if your team is primarily under 35 and you value low-friction voice channels and don't need sophisticated integrations. Slack if you need Jira, Notion, or GitHub integrations and want more structured information architecture. The wrong answer is using both.
 
 ---
 

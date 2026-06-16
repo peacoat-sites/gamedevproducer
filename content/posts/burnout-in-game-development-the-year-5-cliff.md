@@ -103,27 +103,6 @@ I've seen producers and senior developers stay in that loop for two or three yea
 
 ---
 
-## Frequently Asked Questions
-
-### Is the Year 5 Cliff inevitable if you stay at the same studio long enough?
-
-No, it's not inevitable. It's a risk pattern, not a guarantee. Developers who have genuine variety in their work, strong psychological safety on their teams, reasonable workloads, and visible career growth regularly make it well past five years without hitting this wall. The cliff is a sign that one or more of those protective factors has been missing, not a death sentence for anyone who stays put.
-
-### Can you recover from Year 5 burnout without leaving your job?
-
-Yes, but it depends on how deep the burnout has gone and whether the underlying conditions can change. Mild-to-moderate burnout often responds well to role recalibration, reduced scope, a true vacation of two weeks or more, and supportive management. Severe burnout, the kind involving persistent physical symptoms and complete emotional disengagement, usually requires more significant intervention including a leave of absence or a role change. Staying and trying to push through severe burnout rarely works.
-
-### How do I talk to my manager about feeling burned out without damaging my career?
-
-Frame it around sustainability and output quality rather than emotional state. Saying "I'm struggling to maintain the quality I want to deliver and I'd like to talk about workload" opens a professional conversation. Most decent managers respond better than people expect, especially when the conversation happens before performance visibly suffers. If your studio's culture makes that conversation genuinely risky, that itself is important information about whether it's the right long-term environment.
-
-### Does changing studios reset the burnout clock?
-
-Sometimes, temporarily. A new environment with fresh challenges can reactivate engagement for one to three years. But if the underlying patterns, overcommitment, identity fusion with work, poor boundaries, follow you to the new studio, the clock starts again from a depleted baseline. Changing studios while actively burned out without addressing the root cause often just accelerates the next cycle.
-
-### Are junior developers at risk for the Year 5 Cliff too, or is it mainly senior staff?
-
-The pattern occurs across levels, but it manifests differently. Junior developers often hit it as disillusionment, the gap between what they expected game development to be and what it actually is becomes too wide. Senior developers tend to experience it more as depletion, the sense that they've given everything and the tank is empty. Both are real, both deserve attention, and neither is a sign of weakness or poor professional judgment.
 
 ---
 

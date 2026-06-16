@@ -104,27 +104,6 @@ For community communication, the same principle applies. "We're targeting Q3" is
 
 ---
 
-## Frequently Asked Questions
-
-### How many milestones should a typical indie game have?
-
-For a game with an 18 to 24 month development cycle, somewhere between eight and fourteen formal milestones is reasonable. Too few and you lose visibility into whether you're on track between major phases. Too many and milestone prep work eats into actual production time. A good rhythm is roughly one milestone review every four to six weeks during active production, with longer gaps in pre-production when experimentation needs room to breathe.
-
-### Should every team member be involved in setting milestones?
-
-Yes, at the task-estimation level. The people doing the work are the only ones who can honestly estimate it. What you don't want is estimation by committee at the milestone definition level. Define the deliverables with your leads and producer, then bring individual contributors in to estimate the tasks underneath those deliverables. This keeps the milestone definition clear while making sure estimates are grounded in reality.
-
-### What's the difference between a milestone and a sprint goal?
-
-A sprint goal is internal: it's what the team commits to delivering in a two-week (or one-week, or three-week, depending on your cadence) sprint. A milestone is a checkpoint that often has external visibility and corresponds to a meaningful state of the game. Multiple sprints feed into a milestone. Think of sprints as the steps and milestones as the landings on the staircase.
-
-### How do I handle scope creep in relation to milestones?
-
-Scope creep is a milestone problem disguised as a feature problem. The best defense is a change control process, even a simple one. Any new feature or change request that affects a milestone's definition goes through a quick written assessment: what does this add, what does it cost in time, and what do we cut or delay to accommodate it? The answer might be "nothing, we have the budget." But the question must always be asked and answered explicitly, not absorbed silently into the schedule.
-
-### What online resources help with game dev production skills?
-
-A few I regularly recommend: the Game Developers Conference (GDC) Vault has years of production talks available for free or cheap, and the project management content there is specifically game-industry-applicable. Coursera and LinkedIn Learning both have project management courses covering agile and scrum fundamentals that translate well to game dev. Ryan Sumo's writing on game production for small teams is also worth seeking out. And if you want something structured, the Scrum.org Professional Scrum Master certification gives you a rigorous foundation in sprint-based planning that you can adapt to your team's context.
 
 ---
 

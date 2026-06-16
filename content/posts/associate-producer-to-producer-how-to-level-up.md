@@ -67,27 +67,6 @@ This document also forces you to see your own growth clearly. APs often undersel
 
 ---
 
-## Frequently Asked Questions
-
-### How long does it typically take to move from AP to producer?
-
-At most mid-size and large studios, the range is 2 to 4 years, but I've seen it happen in 18 months when someone was proactive and had the right opportunities land at the right time. Title inflation is real in this industry, so a "producer" at one studio might have less scope than a "senior AP" at another. Focus on the actual responsibilities you're taking on, not just the title.
-
-### Do I need to switch studios to get promoted?
-
-Not always, but sometimes yes. If your studio has a flat structure and no producer is leaving anytime soon, internal promotion can take a long time regardless of your performance. Moving externally while stepping up in title is common and completely legitimate. Don't wait indefinitely for a door that isn't opening.
-
-### What's the single most important skill to develop?
-
-Stakeholder communication. Specifically, the ability to translate technical reality into business language and back again. If you can sit in a room with a GM and an engineering lead and speak fluently to both, you're operating at the producer level.
-
-### Should I get a formal certification like PMP or Scrum Master?
-
-A Certified Scrum Master (CSM) is genuinely respected in game dev circles and takes a weekend. PMP is more work and more recognized outside the industry, which matters if you ever want to move laterally into tech or film production. Neither is required, but both signal initiative. The Scrum.org PSM I is free to study for and carries real weight.
-
-### How do I ask for a promotion without damaging the relationship with my producer?
-
-Frame it as a conversation about growth, not a demand. Ask your producer directly: "What would I need to demonstrate to be considered for a producer role here?" That question does two things. It puts the criteria on the table, and it signals you're serious without being threatening. If they can't answer it or dodge it, that's useful information about whether internal growth is actually possible.
 
 ---
 

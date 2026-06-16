@@ -90,27 +90,6 @@ For tools: **Jira** or **Shortcut** for sprint tracking, **Notion** for the seas
 
 If you want structured learning on this, the **Coursera Game Design and Production specialization** from Michigan State covers production fundamentals, and **The Game Production Masterclass** on Udemy has solid content on live service-specific workflows.
 
-## FAQ
-
-### Is the showrunner model only for large studios?
-
-No, and honestly it maps well to smaller teams too. A 15-person live service team can absolutely use this model. The season bible might be shorter, the cycle might be 8 weeks instead of 12, but the core principle, one person holding creative and delivery authority together, scales down cleanly. What doesn't scale down is bureaucracy, so smaller teams often benefit even more.
-
-### What happens when the showrunner burns out?
-
-This is a real and documented problem. Build a deputy showrunner into your staffing plan from day one. Treat it like a succession plan. The deputy should be in every key meeting, co-authoring the season bible, and capable of stepping in with a week's ramp-up. Studios that treat the showrunner as irreplaceable end up with a fragile system held together by one person's calendar.
-
-### How do you give showrunners actual authority without undermining exec leadership?
-
-You need a written scope-of-authority document. Literally write it down: what the showrunner can approve unilaterally, what requires exec sign-off, and what the escalation timeline is. "Escalation within 24 hours or showrunner makes the call" is a workable standard. Ambiguous authority is not authority.
-
-### How does QA fit into the showrunner model?
-
-QA should have a direct reporting line to the showrunner during the production cycle, not a separate track that merges late. QA leads need to be in week 3 scope-lock conversations so they can flag testability issues before they become week-10 emergencies. The showrunner makes the final call on ship/no-ship based on QA data, not in spite of it.
-
-### Can a studio run multiple seasons simultaneously with this model?
-
-Yes, but you need one showrunner per season in active production, not one showrunner across all seasons. The overlap period where one showrunner is winding down a season and ramping up the next is the danger zone. Build at least a two-week handoff buffer between those phases in your staffing model.
 
 ---
 

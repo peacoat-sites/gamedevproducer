@@ -103,26 +103,5 @@ For scheduling, basic Microsoft Project literacy doesn't hurt but isn't required
 
 ---
 
-## FAQ
-
-### Do I need a degree in game design or game production to become a producer?
-
-No. Most working producers I know have degrees in unrelated fields, or no degree at all. Practical skills, demonstrated experience, and industry knowledge matter far more to most hiring managers than your academic background. A project management certification and a solid portfolio of production documentation will do more for you than a game design degree in most cases.
-
-### How long does it realistically take to break into game production with zero experience?
-
-Honestly, 12 to 36 months is a realistic window for most people who are actively working at it. The low end is possible if you have transferable project management experience, get into QA quickly, and network effectively. The high end is more common and shouldn't be taken as failure. The people who make it are the ones who stay consistent, not the ones who sprint for six months and burn out.
-
-### Is it better to target indie studios or AAA studios when you're starting out?
-
-Indie studios are harder to break into than people think because they have small teams, no budget for training, and need people who can contribute immediately. Mid-size studios (50-200 people) with dedicated QA departments and production coordinator roles are often the best target. AAA studios have formal coordinator programs but also massive applicant pools.
-
-### What's the most common mistake people make when trying to become a game producer?
-
-Applying for producer roles before targeting associate producer or production coordinator roles. The leap is too far without credits or industry experience. Starting at the coordinator level, building internal credibility, and moving up is the path that actually works. The other common one is underinvesting in the networking side and expecting job applications alone to get them in.
-
-### Can I become a game producer remotely without being near a games hub?
-
-It's harder but not impossible. Your best remote path is building a strong enough online presence in game dev communities that people know your work before you apply, and targeting companies with established remote cultures like Riot, certain mobile studios, or remote-first indie publishers. Expect it to take longer than if you were physically present in a games market.
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*

@@ -87,27 +87,6 @@ And then there's the problem of undocumented assumptions. "We assumed the engine
 
 ---
 
-## FAQ
-
-### How detailed should a dependency map be for a small indie team?
-
-Lean toward more detail than you think you need, even on a small team. The overhead of mapping dependencies is low compared to the cost of discovering them late. On a two to four person team, you can do this in a shared spreadsheet or a simple board. The goal isn't a formal deliverable, it's shared understanding of what's blocking what.
-
-### What's the difference between a dependency map and a Gantt chart?
-
-A Gantt chart shows tasks over time. A dependency map shows the relationships between tasks. A good Gantt chart incorporates dependency data to show you how delays propagate. A Gantt chart without dependency information just shows you what you hoped would happen in what order.
-
-### How do I handle circular dependencies in game dev?
-
-Circular dependencies, where Task A needs Task B which needs Task A, are usually a sign that something hasn't been decomposed correctly. Break the tasks down further. Often you'll find that a specific output from Task A is what's actually needed to unblock Task B, and that output can be produced before the rest of Task A is complete.
-
-### Should dependencies be tracked at the task level or the milestone level?
-
-Both, but for different purposes. Milestone-level dependencies give leadership visibility into how major deliverables connect. Task-level dependencies give teams the information they need to sequence their daily work. The milestone map won't catch the engine integration issue. The task map will.
-
-### How often should dependency maps be reviewed during production?
-
-At minimum, review after any significant scope change and at the start of each new production phase. On a fast-moving project, a quick dependency audit at the start of each sprint or two-week cycle is worth the hour it takes. Stale dependency data is worse than no data because it creates false confidence.
 
 ---
 

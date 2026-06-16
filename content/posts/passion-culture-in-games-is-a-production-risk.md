@@ -120,27 +120,6 @@ Companies like Supergiant Games, Annapurna Interactive, and some internal teams 
 
 **They link schedule ownership to execution teams.** Artists estimate art work. Engineers estimate engineering work. This creates accountability for realistic planning and makes it much harder to blame passion levels for planning failures.
 
-## FAQ
-
-### Q: Isn't some crunch necessary in game development?
-
-No. Some schedule pressure is normal. Crunch, meaning systematic overwork over weeks or months, is a sign that planning failed. [Crunch is fundamentally a production failure](https://www.gameproducerhq.com/crunch-is-a-production-failure-not-a-culture-problem/), not a culture attribute. Studios that don't crunch ship games. They just plan differently.
-
-### Q: How do I tell my publisher that our timeline is unrealistic without looking uncommitted?
-
-Frame it as risk. "Our current estimate is X, which assumes normal productivity. If we encounter any technical blockers or scope increases, we'll miss this date. Would you prefer we deliver on time with reduced scope, or deliver full scope with extended timeline?" This moves the conversation from passion to planning.
-
-### Q: Can I fix passion culture if I'm not the studio head?
-
-Partially. As a producer, you can protect your team's hours, push back on unrealistic scope, and be transparent about capacity. You can also document what happens when you do this right. If leadership won't support sustainable planning, that's information about where you should work. Some companies won't change until they lose people.
-
-### Q: What if my team actually wants to work those hours?
-
-Some people do. Some people also want to work themselves into exhaustion because they've internalized the belief that it's necessary. Your job is to create conditions where they can choose sustainably. Offer the option of normal hours. See what happens. You'll probably find that when the choice is real, the hours normalize.
-
-### Q: How do I onboard people into a sustainable culture if we've been doing crunch?
-
-Be honest about what changed and why. Explain that the studio is switching to realistic planning, which means the schedule will actually be achievable. Set clear boundaries on hours. Back them up. When someone does work a long night, ask why the plan failed. The first few people you hire into the new culture will be skeptical. But when the schedule holds and they can actually have a life outside work, you'll attract better people consistently.
 
 ---
 

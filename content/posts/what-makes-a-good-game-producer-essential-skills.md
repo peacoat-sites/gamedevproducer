@@ -74,27 +74,6 @@ Sustainable pace isn't a nice-to-have. It's a retention strategy, a quality stra
 
 ---
 
-## FAQ
-
-### Do you need a technical background to be a good game producer?
-
-You don't need to write code, but you need enough technical literacy to have an honest conversation with engineers about complexity and risk. If you can't tell the difference between a two-day bug fix and a two-week architectural problem, you'll get burned on estimates constantly. Take a basic Unity or Unreal course, read about pipelines, ask questions without fear of looking dumb.
-
-### What's the difference between a producer and a project manager in game dev?
-
-A project manager in most industries focuses on process. A game producer does that AND is deeply embedded in the creative work: understanding design intent, protecting the vision while managing constraints, and often making real-time calls that affect the shipped product. The lines blur on small teams, but the producer role carries more creative responsibility.
-
-### How do you handle a team lead who keeps missing milestones?
-
-Start with curiosity, not accountability. Is the problem estimation (they're optimistic by nature)? Resources (they're doing two people's jobs)? Clarity (the milestone criteria weren't precise enough)? Most milestone failures have a systemic cause. Find it before you make it a performance conversation.
-
-### What project management methodology works best for game development?
-
-Agile-adjacent approaches work well for most teams, specifically Scrum with modifications for the creative parts of game dev. Pure Scrum doesn't map perfectly because games have phases (pre-production, production, polish) that don't fit cleanly into identical two-week sprints. Read Clinton Keith's *Agile Game Development* and adapt from there rather than adopting any method wholesale.
-
-### How early should a producer join a project?
-
-As early as possible, ideally before pre-production ends. Producers who join mid-production spend months undoing decisions that were made without any production oversight. If you're a solo dev thinking "I'll add a producer later," that's the game development equivalent of saying "I'll add load-bearing walls after the house is built."
 
 ---
 

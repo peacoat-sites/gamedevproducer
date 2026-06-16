@@ -126,27 +126,6 @@ For tracking analytics post-launch, **Steam's built-in dashboard** covers the ba
 
 ---
 
-## Frequently Asked Questions
-
-### How far in advance should I set my Steam release date?
-
-Set it at least 6-8 weeks out, and announce it publicly the moment you do. A public release date creates accountability and triggers wishlist notifications to your existing wishlist followers. Avoid "Coming Soon" without a date for longer than necessary -- it's a conversion dead zone.
-
-### Do I actually need a launch trailer, or will screenshots do?
-
-You need a trailer. Full stop. Research from Valve's own developer materials shows that games with trailers significantly outperform games without them on conversion from page visit to wishlist or purchase. 60-90 seconds, start with gameplay within the first 10 seconds, and don't lead with your studio logo.
-
-### How many review keys should I send out, and to whom?
-
-There's no magic number, but a realistic starting budget is 50-100 keys for a solo developer launch. Prioritize YouTube creators and streamers in the 1,000-50,000 subscriber range over major outlets -- their audiences are more targeted, their coverage is more accessible, and the conversion rate is often better. Tools like Keymailer let you vet who's actually covering your genre.
-
-### Should I launch on multiple platforms simultaneously or start with Steam?
-
-Start with Steam unless you have a specific console deal or you're targeting a platform where your genre clearly lives. Multi-platform launches split your attention, double your QA requirements, and complicate your patch pipeline. Nail one platform first. Port later.
-
-### What's the most common technical issue that tanks launch day reviews?
-
-Save file corruption and missing controller support are the two that come up most consistently in post-mortems I've read. A corrupted save after two hours of play is an immediate refund and a furious review. Test your save system until you're sick of testing it, then test it again.
 
 ---
 

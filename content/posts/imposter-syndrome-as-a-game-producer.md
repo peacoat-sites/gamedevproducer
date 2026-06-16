@@ -91,28 +91,5 @@ You can be transparent about professional development without exposing vulnerabi
 
 With trusted peers and mentors, be more direct. The isolation of not saying it out loud is part of what makes imposter syndrome calcify. Naming it to one person who's been through it often deflates it immediately.
 
-## FAQ
-
-### Does imposter syndrome ever go away completely?
-
-For most people, no, and that's actually fine. What changes is your relationship to it. Experienced producers learn to recognize the feeling as a familiar visitor rather than a verdict. You start to notice that it spikes at transitions, new studio, new project, new seniority level, and you get faster at running the evidence check that brings you back to ground. The goal isn't eliminating the doubt. It's reducing the time it takes to recover from it.
-
-### I'm early in my production career. Is it too soon to push back on imposter syndrome, or should I just accept that I'm still learning?
-
-Push back now. Learning and belonging are not mutually exclusive. Every senior producer is still learning. The mental habit of treating self-doubt as information rather than verdict is much easier to build early than to retrofit later. Accepting "I'm still learning" as a reason to defer your confidence indefinitely is a trap.
-
-### What if my imposter syndrome is at least partially justified? What if I actually was promoted too fast?
-
-Then you separate the two problems and address them independently. If you were promoted into a scope you're not fully ready for, that's a resourcing and mentorship conversation, not a character indictment. Talk to your lead about what structured support looks like. Get a mentor. Narrow the gap systematically. The feeling of being underprepared doesn't mean you don't belong. It means you need scaffolding, which is a normal and solvable problem.
-
-### How do I handle imposter syndrome when it strikes during a high-stakes meeting?
-
-Have a few grounding phrases ready that buy you thinking time without sounding evasive. "Let me make sure I'm giving you the most useful answer" followed by a pause is neutral and professional. If you genuinely don't know something in the room, "I want to verify that before I commit to a number" is far better than guessing under pressure. Preparation is your best tool here. Brief the meeting agenda in advance, know the three or four questions likely to come your way, and have your data ready. Confidence in high-stakes moments is mostly preparation wearing a good suit.
-
-### Are there specific production roles where imposter syndrome is worse?
-
-Associate producers and first-time leads report it most acutely, but senior producers changing studios often experience a sharp resurgence because they've lost their institutional context. When you don't know the codebase, the culture, the team history, or the political landscape yet, you feel incompetent even if your skills are fully intact. Give yourself a 90-day acclimation window, be explicit with yourself that you're in a learning phase, and don't measure your confidence against your eventual steady-state performance.
-
-The moment in that milestone review, the blank second, the quiet doubt, that's not evidence you're a fraud. It's evidence you understand the weight of what you're doing. The producers I've seen burn out or wash out weren't the ones who felt the doubt. They were the ones who either never felt it at all or let it run so long unchecked that it became self-fulfilling. Your awareness of the gap between where you are and where you want to be is the thing that keeps you growing. Don't mistake the growing pains for failure.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

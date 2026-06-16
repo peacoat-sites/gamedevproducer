@@ -126,27 +126,6 @@ One underrated productivity tool: a simple **weekly check-in template** in Googl
 
 ---
 
-## FAQ
-
-### How do I know if my game idea is too big for my team?
-
-If completing your game requires skills, tools, or team members you don't currently have, it's probably too big. A useful test: can you build a playable prototype of the core mechanic in two weeks with the people and skills you have right now? If not, the idea needs to shrink until you can. The game you ship will teach you how to make the bigger game you imagined.
-
-### Should I cut features or push the deadline when I'm behind?
-
-Cut features. Almost always. Deadlines are motivational anchors and moving them repeatedly destroys team morale and creates a culture where the schedule doesn't mean anything. Cutting a feature from a locked list is a production decision. Continuously extending the deadline is a sign that the scope was never real in the first place.
-
-### How do I handle teammates who keep pitching new features mid-development?
-
-Create a formal backlog. Every new idea goes into the backlog, not into the current sprint. This does two things: it respects the idea without derailing the work, and it gives the pitcher a place to put enthusiasm that isn't "let's do this right now." Most backlog items look much less urgent three weeks later. Review the backlog only at the end of each milestone.
-
-### My solo project has been in development for 18 months and I can't see the end. What now?
-
-Stop adding. Seriously, stop. Make a list of every incomplete feature and divide it into two columns: required to have any version of this game ship, and everything else. Move the second column to a post-launch document. Now set a hard ship date 90 days out and cut everything that won't be done by then. A flawed game that ships is infinitely more valuable to your career and sanity than a perfect game that doesn't.
-
-### Is early access a valid strategy for scoping problems?
-
-It can be, but it's not a magic fix. Early access works when you have a genuinely playable core loop that players find fun, a transparent roadmap, and the discipline to keep shipping updates. It doesn't work as a way to sell an unfinished game while you figure out what you're building. Players remember bad early access launches and the refund rates will show you immediately if you misjudged your readiness.
 
 ---
 

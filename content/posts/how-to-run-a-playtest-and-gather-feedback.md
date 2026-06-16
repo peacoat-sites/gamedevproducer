@@ -97,26 +97,5 @@ The trap is the opposite one: using "vision" as a shield against feedback that's
 
 ---
 
-## FAQ
-
-### How many playtest rounds should a game go through before launch?
-
-There's no fixed number, but a reasonable baseline for an indie production is four to six distinct rounds across the development timeline: one in early prototype, one to two in alpha when core systems are locked, one or two in beta for polish and balance, and a final round pre-launch focused on onboarding. Each round should target a specific set of questions, not just "general impressions."
-
-### Should I tell testers what kind of game they're playing?
-
-Tell them the genre and rough premise, the same way a store page or trailer would. Don't over-brief. If your game needs extensive verbal explanation before someone can play it, that's actually the first piece of feedback worth writing down.
-
-### Can I run a useful playtest with only two or three testers?
-
-Yes, with caveats. Two or three players won't give you statistically reliable data, but they'll absolutely surface your most severe usability and comprehension problems. Run the session, take it seriously, but don't treat a three-person test as confirmation of anything.
-
-### What's the biggest mistake teams make when analyzing playtest feedback?
-
-Averaging qualitative data. When five players give you written responses and one of them says the combat felt slow, that's not "20% of players found combat pacing problematic." That's one person's impression. Weight feedback by frequency, specificity, and behavioral evidence, not by counting mentions.
-
-### How do I handle it when playtesters give contradictory feedback?
-
-Contradictory feedback usually means you're testing with people who have different expectations, not that the feedback is useless. Segment by player profile first. If two players with identical profiles give opposite reactions, that's genuinely ambiguous and worth investigating further rather than picking a winner.
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*

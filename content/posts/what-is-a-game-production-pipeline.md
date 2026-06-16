@@ -75,27 +75,6 @@ The Game Production Master Class on Udemy (usually around $15-20 on sale) covers
 
 ---
 
-## FAQ
-
-### How long does a game production pipeline take?
-
-It depends entirely on scope. A solo developer making a short narrative game might run a production pipeline of 6-12 months. A mid-size AA studio making a 15-hour action game might be looking at 3-4 years across pre-production and full production. The pipeline isn't a fixed-length thing; it's scaled to the project, and one of a producer's core jobs is figuring out how to size it correctly against your actual team capacity.
-
-### What's the difference between a production pipeline and a development pipeline?
-
-Mostly terminology, and different studios use these words differently. In practice, "production pipeline" tends to refer to the organizational and workflow structure, how work moves through the team. "Development pipeline" sometimes refers more specifically to the technical infrastructure, build systems, version control, CI/CD tooling. In a lot of smaller studios, these are the same conversation.
-
-### Do indie games need a production pipeline?
-
-Yes, though the scale is different. A solo developer absolutely needs a personal production pipeline, meaning a consistent workflow for moving from design to implementation to testing to release, even if that pipeline lives in a single Notion doc and a Trello board. The pipeline doesn't need to be complex. It needs to exist and be followed. Most indie projects that fail in development don't fail for lack of talent; they fail because there was no system keeping work moving forward.
-
-### When should you define the pipeline on a new project?
-
-Pre-production, and specifically in the first few weeks of it. The worst time to define your pipeline is when you're already under production pressure. The second-worst time is never. If you're mid-production without a defined pipeline, it's not too late to establish one, but expect a painful transition period as the team adjusts to new processes mid-flight.
-
-### What happens when the pipeline breaks down?
-
-Crunch, missed milestones, and a specific kind of team morale damage that's hard to recover from. When handoffs between disciplines consistently fail, people stop trusting each other's work, start duplicating effort defensively, and begin working around the process instead of through it. Fixing a broken pipeline usually requires stopping, doing a short honest retrospective, and re-establishing the agreements that make the workflow function. It's uncomfortable, and it takes time you feel like you don't have. You have less time if you don't do it.
 
 ---
 

@@ -94,27 +94,6 @@ Also worth having in your back pocket: tools like Notion and Airtable are free o
 
 ---
 
-## FAQ
-
-### Is $70,000 a good salary for a game producer?
-
-It depends heavily on your experience level, location, and studio size. For a first or second full-time producer role at a small studio in a mid-cost city, $70,000 is reasonable. At a major publisher in Seattle or Los Angeles with three years of experience, it's below market. Use the benchmarks above as context and supplement with research specific to the studio you're evaluating.
-
-### Do game producers at indie studios get paid significantly less than AAA?
-
-Yes, usually. The gap can be $30,000 to $50,000 or more at the senior level. Some indie studios partially offset this with flexibility, creative ownership, and profit-sharing structures, but you should go in with realistic expectations. The indie prestige premium is real but it doesn't show up in your bank account.
-
-### How much does becoming a senior producer actually increase your salary?
-
-The jump from Producer to Senior Producer is often the most significant single-level increase in the producer track, typically $15,000 to $30,000 depending on studio size. The jump from Senior Producer to Executive Producer or Development Director is meaningful in dollars but often depends heavily on whether the studio has that role and the budget for it.
-
-### Should I disclose my current salary when negotiating?
-
-In many U.S. states, employers are legally prohibited from asking for your salary history. Even where it's not prohibited, you're not obligated to share it. I'd recommend anchoring the conversation around market rate and your expectations rather than your previous number. "I'm looking for something in the $105,000 to $115,000 range based on my experience and what I'm seeing in the market" is a stronger position than confirming you were making $88,000.
-
-### What's the best book on building a career as a game producer?
-
-Heather Maxwell Chandler's *The Game Production Handbook* (third edition) is the most comprehensive resource specific to the producer role. For career strategy more broadly, I also recommend *Cracking the PM Interview* by Gayle McDowell, which is technically for product management but covers negotiation and career leveling in ways that translate directly.
 
 ---
 

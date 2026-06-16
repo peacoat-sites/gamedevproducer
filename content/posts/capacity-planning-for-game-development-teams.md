@@ -75,27 +75,6 @@ Map your decision dependencies the same way you map task dependencies. Know who 
 
 ---
 
-## FAQ
-
-### How do I convince stakeholders that a 70% capacity model isn't sandbagging?
-
-Show them the data from previous sprints. If your team consistently planned at 100% and delivered 65%, the argument makes itself. If you don't have that data yet, start collecting it now. Three sprints of evidence is more persuasive than any theoretical argument.
-
-### Should I use hours or story points for capacity planning?
-
-The research here is genuinely mixed. Story points reduce the illusion of false precision and work well for teams with stable velocity. Hours work better when team composition changes frequently or when you need to communicate timelines to non-developers. I've seen both work. Pick one and be consistent for at least six sprints before deciding it isn't working.
-
-### How do I handle capacity planning for a team with a lot of contractors?
-
-Contractors often have split attention across multiple clients. Treat their stated weekly availability at 50 to 60% of what they quote unless you have direct evidence otherwise. Also factor in ramp-up time for any new contractor: the first two weeks are rarely full-productivity weeks.
-
-### What's the biggest capacity planning mistake new producers make?
-
-Counting people, not work. New producers often start by listing who's on the team. The better starting point is listing the work that needs to happen, estimating it honestly, and then figuring out whether the team can do it. That order change forces a confrontation with reality earlier.
-
-### How often should I revisit capacity models during a long production cycle?
-
-At minimum, every milestone. In practice, I'd recommend a light recalibration every four to six sprints, especially if team composition has changed, scope has shifted, or your velocity data is drifting significantly from your estimates. Capacity models are not set-and-forget.
 
 ---
 

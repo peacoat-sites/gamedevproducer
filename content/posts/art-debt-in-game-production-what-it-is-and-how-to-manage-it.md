@@ -102,27 +102,6 @@ Acknowledge the debt explicitly with the team. Explain why it happened. Show the
 
 ---
 
-## FAQ
-
-### Is art debt the same as a bug?
-
-Not exactly. Bugs are defects in functionality: a character falls through geometry, a shader renders incorrectly on a specific GPU. Art debt is more often a quality or compliance gap: an asset that works technically but doesn't meet the final bar, a texture that's placeholder but functional. Some art debt manifests as bugs, especially around LOD, pivot points, and shader assignments, but they're distinct categories that belong in separate tracking systems.
-
-### When should a producer first audit art debt?
-
-Ideally, start tracking it from the first sprint of production, not just at Alpha. Create the art debt register early and update it continuously rather than discovering the full scope in one painful pre-Beta audit. The earlier you have visibility, the more options you have for managing it.
-
-### How do you stop leads from hiding art debt from the producer?
-
-Build a culture where surfacing debt is rewarded, not punished. If leads learn that flagging an issue leads to help and capacity, they'll flag issues. If they learn it leads to blame or schedule pressure, they'll hide it until it explodes. This is a trust problem as much as a process problem.
-
-### Can art debt affect game performance?
-
-Absolutely. Non-compliant texture atlases break batching and increase draw calls. Excessive polygon counts on background assets eat GPU budget. Unoptimized particle effects stack up in scenes. Art debt that reads as a visual quality issue often has a performance shadow that only shows up on minimum spec hardware.
-
-### What tools help track art debt?
-
-Jira and Shotgrid (formerly Shotgun) are the most common in mid-to-large studios. Jira is more flexible for custom workflows; Shotgrid was built specifically for media asset pipelines. For smaller teams, Notion databases or even a well-structured Google Sheet will serve you fine. The tool matters less than the discipline of keeping it current.
 
 ---
 

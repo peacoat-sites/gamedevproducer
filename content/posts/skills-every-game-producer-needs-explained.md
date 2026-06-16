@@ -93,26 +93,5 @@ When producers try to manage people directly, without the formal authority to do
 
 ---
 
-## FAQ
-
-### Do game producers need a degree in game design or computer science?
-
-No, and honestly some of the best producers I've worked with have backgrounds in theatre, psychology, or business. What matters more is project management experience, communication ability, and a genuine interest in games as a medium. A degree can help you get your first job interview, but it won't make you good at the job.
-
-### How do you get into game production with no game industry experience?
-
-The path most people take is adjacent experience: project coordination or production assistant roles in film, software, or tech. Get comfortable with Jira, learn basic agile methodology (Scrum.org has free resources), and start building something with an indie team, even a volunteer game jam project. It gets you real credits and a conversation to have in interviews.
-
-### What's the difference between a producer and a project manager in games?
-
-Structurally they often do similar things, but a game producer is usually expected to have stronger creative awareness and more direct involvement with what's being made. A project manager in a corporate context can often treat the deliverable as abstract. In games, not understanding what's actually being built will eventually hurt you.
-
-### Is Agile actually useful in game development or is it just buzzword compliance?
-
-Mixed answer here: pure Scrum is a bad fit for game dev and a lot of studios know it. But the underlying principles, short feedback loops, visible work, regular retrospectives, are genuinely useful. Most successful studios run some hybrid. The biggest mistake is adopting the ceremony without the mindset.
-
-### What's the best way to get better at estimation and scheduling?
-
-Track your actuals obsessively for six months. Compare what you planned to what shipped, and be honest about why the gaps happened. No tool will make you a better estimator faster than your own project data. Mike Cohn's *Agile Estimating and Planning* is also worth reading if you want a framework to go with the practice.
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*

@@ -105,26 +105,5 @@ And take breaks. Real ones. Crunch culture isn't a discipline problem, it's a pl
 
 ---
 
-## FAQ
-
-### How many people do you really need to ship an indie game?
-
-One, technically. Eric Barone shipped Stardew Valley solo after four years of work. More practically, most successful small indie games ship from teams of two to five people. The right number is whatever fills your genuine skill gaps without creating more coordination overhead than you can manage.
-
-### Should I hire friends or keep the team professional?
-
-Working with friends is fine as long as you treat the working relationship professionally from day one. Write the agreements, have the hard conversations, define roles clearly. Friendship doesn't survive badly managed creative conflict; clear expectations usually do.
-
-### What's a realistic budget to build a small indie game team?
-
-For a serious twelve-to-eighteen month project with paid collaborators, budget at minimum $80,000 to $120,000 if you want to pay people fairly, even below market rates. Revenue share arrangements can get you started with less but carry significant completion risk. Government grants (Canada Media Fund, Creative Europe, Australian Screen Production grants) and publisher advances are real funding sources worth researching early.
-
-### Do I need an NDA before sharing my game idea?
-
-For hiring conversations, an NDA is reasonable but rarely the most important document. Most experienced developers won't sign overly restrictive ones, and your idea is worth less than your execution anyway. Focus your legal energy on a clear collaboration agreement once someone actually joins.
-
-### What project management software is best for a beginner game dev team?
-
-Start with Notion for documentation and Hacknplan or GitHub Projects for task tracking. Both are free at small scale. Don't set up Jira or a complex Scrum framework on your first project. The overhead will eat you alive before you've shipped anything.
 
 *Photo: [Ramazan Ataş](https://www.pexels.com/@ramazannatass) via Pexels*

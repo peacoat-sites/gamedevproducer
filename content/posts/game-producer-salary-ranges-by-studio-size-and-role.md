@@ -112,27 +112,6 @@ Staying on top of compensation trends is easier when you're tracking your own ou
 
 ---
 
-## FAQ
-
-### Is a game producer salary lower than a software PM salary at a similar company size?
-
-Yes, usually. Software PMs at tech companies with 100+ employees routinely earn $130K to $180K at the senior level. Game production at similar-sized studios tops out 20 to 40 percent lower on average. The tradeoff is industry alignment, creative ownership, and in some studios, profit participation tied to titles you actually care about. Whether that tradeoff is worth it is a personal decision, but don't make it blindly.
-
-### Do remote game producer roles pay the same as in-office roles?
-
-Increasingly, yes, especially at mid-size and larger studios that went remote-first during the pandemic and stayed there. A few studios still apply geographic pay bands and will offer less for remote workers outside expensive metro areas. Ask explicitly whether the role uses location-based compensation before you get to offer stage.
-
-### What's the fastest path to higher producer compensation?
-
-Technical fluency, every time. Producers who can hold a genuine technical conversation with engineers, understand build pipelines, and evaluate scope risk at a technical level earn more and advance faster. You don't need to code. You need to understand what you're asking for when you put something in a sprint.
-
-### Should I disclose my current salary during negotiations?
-
-No. In many U.S. states, employers can't legally ask for your salary history. Even where they can, you're not obligated to volunteer it. The relevant number is the market rate for the role you're interviewing for, not what your previous employer decided to pay you.
-
-### Are game producer bonuses meaningful or mostly on paper?
-
-At AAA publishers with structured bonus programs, they're real and can add $10K to $30K annually. At indie and mid-size studios, discretionary bonuses are less predictable and sometimes disappear when a title underperforms. Ask specifically whether the bonus is tied to company performance, personal performance, or both, and ask what bonuses looked like in the last two or three years. How a company answers that question tells you a lot.
 
 ---
 

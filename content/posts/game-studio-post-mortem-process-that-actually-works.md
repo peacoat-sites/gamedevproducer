@@ -77,26 +77,3 @@ A few things that actually help: keep post-mortem documents in a centralized, se
 
 For further reading on building sustainable production processes, I'd recommend Jason Schreier's *Blood, Sweat, and Pixels* as a grounding read on what shipping actually costs, and Clinton Keith's *Agile Game Development* for the operational framework. For project management tooling, Jira and Shortcut (formerly Clubhouse) are both used widely in mid-sized studios, and tools like Linear are gaining traction for smaller teams that want less overhead.
 
-## FAQ
-
-### How long should a post-mortem document actually be?
-
-Long enough to be specific, short enough to be read. In practice, that's usually 1,500 to 3,000 words for a project of 12 months or more. If you're writing a 10,000-word document, you've written a history, not a post-mortem. Nobody reads it and nothing changes.
-
-### Should the whole team attend the post-mortem session?
-
-For teams under 15 people, yes. For larger teams, run discipline-specific sessions first (engineering, art, design, production), then hold a cross-functional session with leads that focuses on inter-team friction specifically. You get more honest input in smaller groups, and the cross-team session is more focused because the intra-team issues are already resolved.
-
-### Who should facilitate the post-mortem?
-
-Ideally someone with enough distance from the day-to-day decisions to not be defensive. On small teams that often means the producer. On larger projects, consider rotating facilitation to a lead who wasn't the primary decision-maker on the issues being discussed. If your studio has a dedicated production director or project management office, this is a great use of that role.
-
-### What do you do when people are too burned out to engage?
-
-Don't force the session immediately post-ship. Give the team one to two weeks. People need to decompress before they can reflect usefully. But don't wait more than three weeks, because after that the specific details start to blur and attendance becomes harder to coordinate as people shift onto new work.
-
-### How do you handle sensitive findings, like a specific person or decision-maker who caused significant problems?
-
-The post-mortem document should focus on systems and processes, not individuals. "The approval chain for art assets required sign-off from four people, which created a 2-week average delay" is something you can fix. "Person X was a bottleneck" creates defensiveness and doesn't tell you what to change. If a specific personnel issue needs addressing, that's a separate conversation between the right people, not a post-mortem finding.
-
-The post-mortem is one of the few moments in a project cycle when the entire team has permission to look honestly at how work actually happened. Most studios waste it. The ones that don't tend to get measurably better with each project, not because they're smarter, but because they stop starting from zero every time.

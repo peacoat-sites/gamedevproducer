@@ -103,27 +103,6 @@ Don't over-tool. Pick what you'll actually use. A Jira instance no one understan
 
 ---
 
-## FAQ
-
-### How many hours of overlap do remote game dev teams actually need?
-
-Two hours of genuine, protected overlap per day is workable for most teams if you have strong async systems supporting it. Four hours is comfortable. Below two hours, you start seeing decision bottlenecks that visibly affect velocity. If you have team members with zero business-hour overlap, you're essentially running a relay race, which can work but requires extremely clean handoff documentation.
-
-### Should a remote game studio use sprints or a Kanban flow?
-
-Sprints work better for remote teams in my experience, specifically because they create a regular forcing function for synchronous communication. Kanban can work, but without the sprint ceremony cadence, remote teams tend to lose shared context faster. Two-week sprints with a synchronous sprint review and planning session give you a rhythm that holds distributed teams together.
-
-### How do I handle a blocker when the person who can unblock it is asleep?
-
-This is where decision rights documentation earns its keep. If you've defined who can make what calls without escalation, most blockers resolve themselves. For the ones that don't, have a written async escalation path: the blocked person documents the issue clearly, tags the relevant person with a clear "need decision by X time" message, and picks up the next available unblocked task. Never let a single blocker stop all work.
-
-### What's the biggest producer mistake in remote game dev?
-
-Over-meeting to compensate for lack of visibility. It feels productive. It destroys your team's actual output. The instinct to add a sync when things feel uncertain is understandable, but the cure is better async infrastructure, not more calendar events.
-
-### How do I onboard new remote hires onto a game project effectively?
-
-Give them a structured first-two-weeks document, not a wiki link and a wave. This should include: who to meet and when, what tools to get access to (with step-by-step instructions, not just tool names), what the project's current state is in plain language, and a small, meaningful task they can complete and ship in week one. Getting something real done early builds confidence and integration faster than any number of onboarding calls.
 
 ---
 

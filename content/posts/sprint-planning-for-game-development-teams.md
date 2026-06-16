@@ -75,27 +75,6 @@ Confluence paired with Jira is the right call for documentation-heavy teams. Goo
 
 ---
 
-## FAQ
-
-### How long should a sprint planning meeting actually be?
-
-For a 2-week sprint with a team of 6-12, budget 90 minutes to 2 hours. If it's consistently running over 3 hours, the backlog wasn't groomed properly before the meeting. Separate grooming from planning and watch your planning sessions tighten up fast.
-
-### Should artists and designers estimate their own tasks?
-
-Yes, always. Producers estimating creative work on behalf of the people doing it is one of the fastest ways to destroy trust and accuracy at the same time. Your job in planning is to facilitate, challenge vague tasks, and protect the team from overcommitment, not to set the numbers yourself.
-
-### What sprint length works best for game development?
-
-Two weeks is the most common and generally the most functional. One-week sprints create too much planning overhead during active production. Four-week sprints lose accountability too quickly. The research on this in games specifically is thin, but two weeks has the strongest practitioner consensus for teams I've talked to.
-
-### How do you handle tasks that span multiple sprints?
-
-Break them down until they don't. If you genuinely can't break a task below the sprint length, it's a milestone or an epic, not a sprint task. A task that spans two sprints can't be properly blocked, reviewed, or adjusted within normal sprint cadence. It's a planning smell that something hasn't been defined tightly enough.
-
-### What's the right way to measure velocity in a game dev team?
-
-Track completed story points per sprint and average over at least 6 sprints before you trust the number for forecasting. Earlier than that, you're averaging noise. Also track carryover points separately. A team that completes 40 points but carries 15 into the next sprint doesn't have 40-point velocity. They have a carryover problem disguised by a velocity number.
 
 ---
 

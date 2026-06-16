@@ -105,22 +105,6 @@ When risk discussions focus on technical risk but ignore scheduling risk, you're
 
 When "everyone knows" something is a problem but it's not on the official tracking list, that's a sign the process is broken. Multiple postmortems mention that teams were aware of scope issues weeks before they became visible in official status reports. That gap is where projects fail.
 
-## FAQ
-
-### Q: Should we restart our project if we recognize these patterns mid-schedule?
-A reboot mid-project is rarely the right answer. What matters is course-correcting immediately. Freeze scope, communicate what's actually feasible by launch, and decide whether launch dates or feature lists change. A 2014 postmortem from a team that made this decision mid-project noted it was painful but cheaper than six months of failed rework.
-
-### Q: How do you implement scope freeze when leadership keeps adding features?
-Scope freeze only works if it's backed by explicit leadership agreement beforehand. Document that after date X, new features require removing existing features of equivalent effort. When leadership proposes something, show the cost in terms of existing features that won't ship. The 2018 postmortem on a successfully managed console title showed this forced the conversation from "nice to have" to "what are we willing to cut?"
-
-### Q: Can small teams really use these practices without adding overhead?
-Yes, but the process needs to scale down, not disappear. A three-person team doesn't need formal sprint planning, but they do need a vision document and a scope freeze. A five-person team can't have daily standups with a full process, but they can have three-person checklists. The problem isn't team size; it's doing nothing and hoping alignment happens naturally.
-
-### Q: What's the most important metric to track to prevent failures?
-Based on postmortems from the last decade, the single most predictive metric is whether estimated work completed per week is trending up, stable, or down. Trending down early in production is a warning sign that estimation is breaking down or scope is expanding silently. Stable throughout production is what successful projects show.
-
-### Q: How do you keep the team motivated after you've frozen scope and delayed features?
-Transparency helps more than you'd think. Teams get demoralized by surprises, not by clear expectations. When you tell people upfront "we're shipping these features by month 12, here's what's deferred," they adjust. When you tell them everything's launching on schedule and then cut features in month 11, morale collapses. The 2016 postmortem from a team that handled this well specifically noted that being clear about deferral from month two made their team more engaged, not less.
 
 ---
 

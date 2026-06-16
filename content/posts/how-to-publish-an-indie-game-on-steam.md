@@ -95,26 +95,5 @@ Books: "Blood, Sweat, and Pixels" by Jason Schreier won't teach you Steam specif
 
 ---
 
-## FAQ
-
-### How long does it take to get a game approved on Steam?
-
-Account approval after the $100 payment takes roughly five business days. Once you submit your finished build for launch review, expect three to five more business days, sometimes longer during major sales events when Valve's review queue backs up.
-
-### Can I release a demo separately from the main game?
-
-Yes. In Steamworks, you create a Demo App associated with your base game's App ID. The demo has its own store page (linked to the main game) and its own build upload. Wishlists and followers on the main game carry over; the demo page doesn't accumulate separate wishlists.
-
-### What percentage does Steam take from sales?
-
-Steam takes 30% up to $10 million in lifetime revenue, 25% from $10 million to $50 million, and 20% above $50 million. For most indie games, you're planning around a 70% revenue share to you.
-
-### Do I need a business entity to publish on Steam?
-
-No. Individuals can publish on Steam under their own name and SSN (or equivalent). That said, an LLC costs $50-$150 to form in most US states and protects your personal assets if something goes legally sideways. Talk to an actual lawyer or accountant about what makes sense for your situation before you start generating real revenue.
-
-### When should I set my launch date?
-
-Don't set a launch date until your build is in final testing and you're confident in a two-to-four week window. Announcing a date and missing it damages player trust and gets you negative press coverage before you've sold a single copy. Pick the date when the game is done, not when you hope it'll be done.
 
 *Photo: [Ofspace LLC, Culture](https://www.pexels.com/@ofspace) via Pexels*

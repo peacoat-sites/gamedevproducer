@@ -106,27 +106,6 @@ Online, **Scrum.org's Professional Scrum Master courses** are worth the time eve
 
 ---
 
-## FAQ
-
-### Can you run Scrum and Kanban at the same time in one studio?
-
-Yes, and many studios above thirty people do exactly this. Feature teams run two-week sprints while QA, live ops, and art outsourcing pipelines run on Kanban boards. The key is not mixing metrics. Don't average QA cycle time into feature team velocity. Keep the boards and the conversations separate.
-
-### What's the most common mistake game teams make with Scrum?
-
-Treating sprint planning as a formality and then quietly swapping tasks mid-sprint without telling anyone. This destroys velocity data and, more importantly, it erodes trust in the process. If your team is regularly starting things that weren't in the sprint plan, the sprint goal wasn't meaningful to begin with. Fix the goal before blaming the framework.
-
-### Do small indie teams need a framework at all?
-
-A team of two to three people doesn't need Scrum ceremonies, but they still benefit from a visible board and explicit WIP limits. Even a physical sticky-note board with "Doing," "Review," and "Done" columns adds enough structure to avoid the invisible work problem, where someone spends three days on something nobody knew was in progress.
-
-### How do you handle a game director who keeps changing priorities mid-sprint?
-
-This is the number-one political problem with Scrum in game studios. The framework gives you a tool: the sprint goal. If a director wants to change priority mid-sprint, the conversation becomes "that change breaks the sprint goal we agreed to, which means we either abandon the sprint or we treat this as an exception, not a habit." That's not confrontational, it's just making the cost visible. Keep a record of how often sprint goals get broken. That data is useful in retrospectives.
-
-### Is Kanban actually faster than Scrum?
-
-Neither framework is inherently faster. Kanban often feels faster because it removes the overhead of sprint planning and review ceremonies. But speed is really a function of WIP limits, clear definitions of done, and fast feedback loops. A Scrum team with tight sprint goals and a two-day review cycle can ship faster than a Kanban team with no WIP limits and a clogged review column.
 
 ---
 

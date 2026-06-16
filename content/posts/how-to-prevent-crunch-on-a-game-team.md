@@ -87,26 +87,5 @@ Third, and I say this knowing it's hard to hear: if the crunch is being driven b
 
 ---
 
-## FAQ
-
-### How much overtime is too much before it starts hurting productivity?
-
-Most research points to around four to five weeks of 55-plus-hour weeks as the threshold where per-hour output starts declining meaningfully. After eight weeks of that kind of sustained effort, many teams see absolute productivity drops. Short two-to-three week pushes for a specific milestone are generally survivable if followed by recovery time.
-
-### Should I track team hours, and won't that feel like surveillance?
-
-Tracking hours is useful when it's framed as a health signal rather than a performance metric. Tools like Clockify or Toggl work well for this. Make it clear the data exists to catch unsustainable patterns early, not to punish people for not working enough. Buy-in matters here: if your team understands why you're tracking it, most people are fine with it.
-
-### What's the right amount of buffer to build into a game production schedule?
-
-I generally aim for 20-25% buffer across milestone plans, with tighter buffers on well-understood tasks and looser ones on anything involving new tech or first-time collaborators. That number is going to get challenged by executives and publishers; hold it anyway, because the cost of not having it is almost always higher than the discomfort of the negotiation.
-
-### What do I do if crunch pressure is coming from above and I have no authority to push back directly?
-
-Document everything, protect your immediate team as much as you can, and be honest with your reports about what's in your control versus what isn't. If there's a producer above you driving the crunch, escalate your concerns in writing. If the culture is organizational and persistent, that's genuinely useful information for your career decisions going forward.
-
-### Are there games that shipped great without crunch?
-
-Yes, and more than people assume. Celeste was made by a tiny team with conscious attention to sustainable pace. Supergiant Games (Bastion, Hades) has been publicly vocal about their no-crunch approach for years. The thing these teams share isn't magic. It's scope discipline and a culture where leadership actually meant what they said about people's wellbeing. It's replicable. It just takes will.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
