@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-15",
+  "updated": "2026-06-16",
   "items": [
     {
-      "name": "Slime Tempest",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228920/4d55ded575c1078dcf7a45035e309002165f88a5/header.jpg?t=1781522319",
-      "url": "https://store.steampowered.com/app/4228920/",
-      "short_description": "",
-      "final_price": 1025
-    },
-    {
-      "name": "Lane 4: Track and Field Coach Simulator",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787740/fa2845604d0dc2e4ea1a4b5d50570a2d49cb8984/header.jpg?t=1781515472",
-      "url": "https://store.steampowered.com/app/4787740/",
-      "short_description": "",
-      "final_price": 1146
-    },
-    {
-      "name": "Tilt It! Golf",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733610/d8ea38110467c19553082b5442ecad1ef80a9341/header.jpg?t=1781516374",
-      "url": "https://store.steampowered.com/app/4733610/",
-      "short_description": "",
-      "final_price": 399
-    },
-    {
-      "name": "Pro Cycling Manager 26",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936530/7b0a2788ebb3439bbe6f74c871bf9c58f27035f2/header.jpg?t=1781510393",
-      "url": "https://store.steampowered.com/app/3936530/",
-      "short_description": "",
-      "final_price": 3999
-    },
-    {
-      "name": "Ember Seeker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4160880/e53cef438a16600ff3adc5d599dd6e969be3d6fa/header.jpg?t=1781504764",
-      "url": "https://store.steampowered.com/app/4160880/",
-      "short_description": "",
-      "final_price": 701
-    },
-    {
-      "name": "BanPick",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536080/db792a37560bebe71bdfcdc1073bc668d8a8e7c2/header.jpg?t=1781504648",
-      "url": "https://store.steampowered.com/app/4536080/",
+      "name": "Fight or Flight",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775620/header.jpg?t=1781607742",
+      "url": "https://store.steampowered.com/app/775620/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Crime Shadows: Stolen Spotlight Collector's Edition",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093630/3691f4c56e0572c4241ef9aec610b4e9899d0e48/header.jpg?t=1781503027",
-      "url": "https://store.steampowered.com/app/4093630/",
+      "name": "Junkster",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1675860/1a3fc88ff380ba9bcb6d325fce4f8c710c56507e/header.jpg?t=1781607634",
+      "url": "https://store.steampowered.com/app/1675860/",
       "short_description": "",
-      "final_price": 1579
+      "final_price": 799
     },
     {
-      "name": "Phantom Loop: Full Circle",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3761910/66c095b52820fa85d115d234faa485048b32c941/header.jpg?t=1781495910",
-      "url": "https://store.steampowered.com/app/3761910/",
+      "name": "\u6251\u514b\u8ff7\u9635 Poker Matrix",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4407460/e72d7c2ec36c185165aa8209d06db31e654a7a4f/header.jpg?t=1781604840",
+      "url": "https://store.steampowered.com/app/4407460/",
       "short_description": "",
-      "final_price": 720
+      "final_price": 0
     },
     {
-      "name": "Seal of Shadows",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4089110/b8887a283bfc1943c01c5a9f20a97f94916e30a1/header.jpg?t=1781484634",
-      "url": "https://store.steampowered.com/app/4089110/",
+      "name": "Pollux The Hero in The BOX",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694800/7109a65ec3652f4f25588b3ee8d1982262653979/header.jpg?t=1781603670",
+      "url": "https://store.steampowered.com/app/4694800/",
       "short_description": "",
-      "final_price": 1267
+      "final_price": 479
     },
     {
-      "name": "Reverie Unbound",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736620/62499e75783fd693317301462e8f3f64c6406f94/header.jpg?t=1781483903",
-      "url": "https://store.steampowered.com/app/4736620/",
+      "name": "Cat Store",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773680/aeb44de21abdb3d6ff981603b31283eae01f4802/header.jpg?t=1781602613",
+      "url": "https://store.steampowered.com/app/4773680/",
       "short_description": "",
-      "final_price": 415
+      "final_price": 149
     },
     {
-      "name": "Beauties and the Stranded",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828610/d9d58445d2d848aaeda02a1618ba5231a691b050/header.jpg?t=1781481574",
-      "url": "https://store.steampowered.com/app/3828610/",
+      "name": "Astropath",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731470/f6527c125edfbe405a9fe519754c56dbbbea2452/header.jpg?t=1781602198",
+      "url": "https://store.steampowered.com/app/4731470/",
       "short_description": "",
-      "final_price": 1484
+      "final_price": 0
     },
     {
-      "name": "Atomic Synthesis",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4299160/d49ea0f3229411bf926c7012c1818411e0cff840/header.jpg?t=1781478827",
-      "url": "https://store.steampowered.com/app/4299160/",
+      "name": "ARC Raiders - The Reaver Set",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4741040/fcb2e4939e051b2935d3d45d36d0fa0824fcc064/header.jpg?t=1781600507",
+      "url": "https://store.steampowered.com/app/4741040/",
       "short_description": "",
-      "final_price": 399
+      "final_price": 2000
+    },
+    {
+      "name": "I FORGOT TO TAKE THE CHICKEN OUT OF THE FREEZER",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754000/e179e9ff8ff376c560b79c496177391e6439de2c/header.jpg?t=1781599627",
+      "url": "https://store.steampowered.com/app/4754000/",
+      "short_description": "",
+      "final_price": 159
+    },
+    {
+      "name": "Doom Party",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3935190/19a372d13b44017eccee2195619b65f10e7a5d87/header.jpg?t=1781598203",
+      "url": "https://store.steampowered.com/app/3935190/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Tom Clancy\u2019s The Division 2 \u2013 Into the Dark Supply Drop",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4662010/a8c0b47a5b51a0ac8ac7fb3e1921c21f0840d835/header.jpg?t=1781597689",
+      "url": "https://store.steampowered.com/app/4662010/",
+      "short_description": "",
+      "final_price": 4999
+    },
+    {
+      "name": "Tom Clancy\u2019s The Division 2 \u2013 Into the Dark Bundle",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661990/233778397b4646801ff9f87ad90a68faae215ef3/header.jpg?t=1781596932",
+      "url": "https://store.steampowered.com/app/4661990/",
+      "short_description": "",
+      "final_price": 2999
+    },
+    {
+      "name": "Tom Clancy\u2019s The Division 2 \u2013 CBRN Mask Pack",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661970/dad0832d52586868ca75be6824f1a334663875ca/header.jpg?t=1781596927",
+      "url": "https://store.steampowered.com/app/4661970/",
+      "short_description": "",
+      "final_price": 1999
     }
   ]
 }
