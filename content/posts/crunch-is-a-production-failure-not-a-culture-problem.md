@@ -3,7 +3,7 @@ title: "Crunch Is A Production Failure Not A Culture Problem"
 date: 2026-05-28T07:10:57.893004+00:00
 draft: false
 description: "Crunch in game development isnt a culture issue its a systemic failure. Learn why studios must fix broken pipelines and planning, not blame employee mindsets."
-image: "https://images.pexels.com/photos/35378672/pexels-photo-35378672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30839678/pexels-photo-30839678.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["crunch", "production", "failure", "culture", "problem"]
 author: "Ryan Cole"
@@ -102,4 +102,4 @@ The studios that ship well aren't the ones with the most committed teams. They'r
 
 The game industry has a talent pipeline problem, and crunch is one of the main valves draining it. Every developer who burns out and leaves takes institutional knowledge, creativity, and craft with them. Fixing this isn't about being soft on deadlines. It's about building production systems that are honest about reality from day one, so your team can do their best work instead of just their most hours. That's not idealism. It's how you ship good games repeatedly, which is the only metric that actually matters.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*

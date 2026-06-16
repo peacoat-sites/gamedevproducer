@@ -3,7 +3,7 @@ title: "Game Producer Career Path From Associate To Executive"
 date: 2026-05-25T00:30:02.124120+00:00
 draft: false
 description: "Game producer career path: Learn essential steps from associate to executive roles, required skills, salary growth, and industry advancement strategies."
-image: "https://images.pexels.com/photos/7915361/pexels-photo-7915361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7915282/pexels-photo-7915282.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "career", "path", "from"]
 author: "Jordan Lee"

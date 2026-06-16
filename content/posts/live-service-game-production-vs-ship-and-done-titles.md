@@ -3,7 +3,7 @@ title: "Live Service Game Production Vs Ship And Done Titles"
 date: 2026-05-27T03:26:05.671809+00:00
 draft: false
 description: "Explore the key differences in producing live service games versus traditional ship and done titles, from ongoing costs and team structures to long-term player "
-image: "https://images.pexels.com/photos/14629387/pexels-photo-14629387.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://images.pexels.com/photos/7862367/pexels-photo-7862367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["live", "service", "game", "production", "ship"]
 author: "Samantha Roberts"

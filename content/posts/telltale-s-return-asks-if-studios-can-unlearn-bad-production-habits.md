@@ -3,7 +3,7 @@ title: "Telltale's Return Asks If Studios Can Unlearn Bad Production Habits"
 date: 2026-06-14T18:32:33.980554+00:00
 draft: false
 description: "Telltale is back, but can it shed the crunch culture and mismanagement that doomed it before? We explore whether the revived studio has truly changed its ways."
-image: "https://images.pexels.com/photos/7821673/pexels-photo-7821673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/219377/pexels-photo-219377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry"]
 tags: ["telltale", "return", "asks", "studios", "unlearn"]
 author: "Ryan Cole"
@@ -52,4 +52,4 @@ Whether LCG Entertainment's Telltale has genuinely internalized those lessons or
 - [Telltale Is 'Actively Looking At What We'll Do Next'](https://www.psu.com/news/telltale-is-actively-looking-at-what-well-do-next-says-there-are-three-or-four-frontrunners-in-terms-of-what-wed-like-to-do/) (June 12, 2026)
 - [The Wolf Among Us 2 Finally Lands a 2027 Release Window as Telltale Preps a 2026 Remaster](https://windowsnews.ai/article/the-wolf-among-us-2-finally-lands-a-2027-release-window-as-telltale-preps-a-2026-remaster.423472) (June 7, 2026)
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [FOX ^.ᆽ.^= ∫](https://www.pexels.com/@fox-58267) via Pexels*

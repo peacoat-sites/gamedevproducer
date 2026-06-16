@@ -3,7 +3,7 @@ title: "What Does A Game Producer Actually Do"
 date: 2026-05-29T00:38:31.708410+00:00
 draft: false
 description: "Learn what a game producer actually does, from managing budgets and timelines to leading teams and keeping game development on track from concept to launch."
-image: "https://images.pexels.com/photos/11022643/pexels-photo-11022643.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8132453/pexels-photo-8132453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["what", "does", "game", "producer", "actually"]
 author: "Tyler Brooks"
@@ -131,4 +131,4 @@ With studio leadership, the producer is often the primary conduit between the de
 
 The best producers I've worked with share one quality: they care more about the team shipping something good than about being right. They surface bad news early, make options visible, protect their teams from preventable chaos, and know when to push back and when to let a creative decision breathe. It's not a glamorous job description. But without it, most games that get finished wouldn't be.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Anna Pou](https://www.pexels.com/@anna-pou) via Pexels*

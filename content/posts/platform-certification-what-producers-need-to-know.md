@@ -3,7 +3,7 @@ title: "Platform Certification What Producers Need To Know"
 date: 2026-05-29T00:01:37.787948+00:00
 draft: false
 description: "Learn what platform certification means for producers, why it matters, and how to meet key requirements to get your content approved and distributed successfull"
-image: "https://images.pexels.com/photos/12899191/pexels-photo-12899191.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8112176/pexels-photo-8112176.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["platform", "certification", "what", "producers", "need"]
 author: "Tyler Brooks"
@@ -103,4 +103,4 @@ Nintendo's Lotcheck process tends to be the most detail-oriented of the three. T
 
 Certification doesn't reward heroics at the end of a project. It rewards diligence throughout. The producers who ship on time aren't the ones who got lucky in cert, they're the ones who treated the requirements document like a design constraint from day one, assigned real ownership to each item, and built their schedules around the reality of the process rather than the hope of skipping it. Start early, stay specific, and never assume your last game's checklist still applies. The platform holders will update their requirements whether you're watching or not.
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*

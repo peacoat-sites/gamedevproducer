@@ -3,7 +3,7 @@ title: "Pre-Production Planning For Games How Long And Why"
 date: 2026-05-22T02:30:23.037856+00:00
 draft: false
 description: "Plan your game's pre-production phase the right way. Discover how long pre-production planning takes, what's involved, and why skipping it can derail your entir"
-image: "https://images.pexels.com/photos/7915395/pexels-photo-7915395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4792491/pexels-photo-4792491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["pre-production", "planning", "games", "long"]
 author: "Ryan Cole"
@@ -99,4 +99,4 @@ The studios I've watched scale well understand that pre-production is essentiall
 
 The studios shipping games on time and on budget aren't the ones who found a way to skip pre-production. They're the ones who figured out how to run it with discipline and treat it as the highest-leverage phase of development. Spend the time. Answer the expensive questions early. The game you actually ship will be better for it.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Anete Lusina](https://www.pexels.com/@anete-lusina) via Pexels*

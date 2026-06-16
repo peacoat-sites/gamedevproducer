@@ -3,7 +3,7 @@ title: "What Is A Game Production Pipeline"
 date: 2026-06-10T11:53:12.726680+00:00
 draft: false
 description: "Discover what a game production pipeline is, how it works, and why it's essential for delivering polished games on time and within budget."
-image: "https://images.pexels.com/photos/9072275/pexels-photo-9072275.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4832263/pexels-photo-4832263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["production"]
 tags: ["what", "game", "production", "pipeline"]
 author: "Ryan Cole"
@@ -80,4 +80,4 @@ The Game Production Master Class on Udemy (usually around $15-20 on sale) covers
 
 The pipeline conversation is the production conversation. Everything else, the tools you pick, the methodology you use, the way you run standups, is in service of getting work to flow. When I'm assessing a team I've never worked with before, the first thing I try to understand isn't their backlog or their roadmap. It's how a piece of work moves from someone's head to something in the build. That answer tells me almost everything I need to know about whether the project is going to make it.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [Adonis Arias](https://www.pexels.com/@adonisariass) via Pexels*

@@ -3,7 +3,7 @@ title: "Psychological Safety In Game Development Playtests"
 date: 2026-05-28T17:30:21.603085+00:00
 draft: false
 description: "Explore how psychological safety transforms game development playtests, enabling honest feedback, reducing player anxiety, and improving game quality through tr"
-image: "https://images.pexels.com/photos/7047617/pexels-photo-7047617.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/31916803/pexels-photo-31916803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["psychological", "safety", "game", "development", "playtests"]
 author: "Tyler Brooks"
@@ -116,4 +116,4 @@ For producers looking to build formal UX research skills, the **Nielsen Norman G
 
 Psychological safety in playtests isn't a soft skill or a nice-to-have. It's a data quality problem with real production consequences. The teams that get this right consistently make better feature decisions earlier, cut the right things, and ship games that feel polished because the feedback loops that produced them were honest. Getting there takes intentional design of your session structure, your facilitator role, and the norms you establish around how critique flows in both directions. Start with removing the authors from the room. Everything else builds from there.
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Berna](https://www.pexels.com/@mibernaa) via Pexels*

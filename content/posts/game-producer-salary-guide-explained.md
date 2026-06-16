@@ -3,7 +3,7 @@ title: "Game Producer Salary Guide Explained"
 date: 2026-06-09T11:36:45.990476+00:00
 draft: false
 description: "Discover what game producers earn in 2024, including entry-level to senior salaries, factors affecting pay, and tips to boost your income in the gaming industry"
-image: "https://images.pexels.com/photos/7862609/pexels-photo-7862609.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4691477/pexels-photo-4691477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["careers"]
 tags: ["game", "producer", "salary", "guide", "explained"]
 author: "Tyler Brooks"
@@ -99,4 +99,4 @@ Also worth having in your back pocket: tools like Notion and Airtable are free o
 
 The last thing I'll say is this: salaries in games have historically lagged behind tech, but that gap has been closing at the senior and specialized levels as studios compete harder for experienced producers who can actually ship products. The leverage is real. You just have to know what you're worth before you walk into that conversation.
 
-*Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*
+*Photo: [Aukid phumsirichat](https://www.pexels.com/@aukid-phumsirichat-3095759) via Pexels*

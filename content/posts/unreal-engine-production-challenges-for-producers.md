@@ -3,7 +3,7 @@ title: "Unreal Engine Production Challenges For Producers"
 date: 2026-05-27T19:13:44.449831+00:00
 draft: false
 description: "Learn how producers can navigate Unreal Engine production challenges, from managing real-time workflows and budgets to coordinating teams and delivering project"
-image: "https://images.pexels.com/photos/9068924/pexels-photo-9068924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34803994/pexels-photo-34803994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["unreal", "engine", "production", "challenges", "producers"]
 author: "Priya Sharma"
@@ -97,4 +97,4 @@ The right tooling around your Unreal project matters as much as what's inside it
 
 The throughline in almost every Unreal production challenge is the same: decisions that feel technical are actually organizational. Build pipelines, source control, Blueprint conventions, engine feature scope, all of them are production decisions wearing an engineering costume. The more fluent you get in what those decisions actually mean for your team's day-to-day work, the better your chances of shipping something you're proud of.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [Daniil Komov](https://www.pexels.com/@dkomov) via Pexels*

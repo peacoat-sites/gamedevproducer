@@ -3,7 +3,7 @@ title: "How To Run A Game Development Retrospective"
 date: 2026-05-26T15:52:35.566788+00:00
 draft: false
 description: "Learn how to run a game development retrospective that boosts team performance, uncovers key lessons, and helps your studio ship better games faster."
-image: "https://images.pexels.com/photos/33879866/pexels-photo-33879866.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/13907429/pexels-photo-13907429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["game", "development", "retrospective"]
 author: "Ryan Cole"
@@ -115,4 +115,4 @@ What surprised me when I started doing this consistently was how quickly team mo
 
 The teams I've seen get the most out of retrospectives aren't the ones with the fanciest process. They're the ones where running a retro is treated as seriously as a sprint review or a milestone build. The ceremony matters less than the commitment: we are going to look honestly at how we work, and we're going to actually change something. One small, specific, owned action item per retro, applied consistently, compounds over the life of a project into something that genuinely ships better games.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Quyn Phạm](https://www.pexels.com/@quyn-ph-m-255082234) via Pexels*

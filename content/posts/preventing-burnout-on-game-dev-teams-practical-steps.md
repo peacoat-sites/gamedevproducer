@@ -3,7 +3,7 @@ title: "Preventing Burnout On Game Dev Teams Practical Steps"
 date: 2026-05-28T18:49:43.845416+00:00
 draft: false
 description: "Learn practical strategies to prevent burnout on game dev teams, improve work-life balance, boost morale, and keep your crew motivated through crunch and beyond"
-image: "https://images.pexels.com/photos/9072205/pexels-photo-9072205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7414226/pexels-photo-7414226.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["preventing", "burnout", "game", "teams", "practical"]
 author: "Tyler Brooks"
@@ -109,4 +109,4 @@ For professional development on this specifically: Jason Schreier's *Blood, Swea
 
 The best producers I've worked with treat team sustainability the same way they treat the critical path: something to be actively managed, with clear owners and visible metrics, not left to chance or goodwill. The games that ship well aren't made by teams who grind hardest. They're made by teams that were still functional, still motivated, and still actually there in the final three months when it mattered most.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

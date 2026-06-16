@@ -3,7 +3,7 @@ title: "How To Write Good User Stories For Game Features"
 date: 2026-06-15T14:43:22.903943+00:00
 draft: false
 description: "Learn how to write effective user stories for game features that keep your team aligned and players happy with clear, actionable formats and examples."
-image: "https://images.pexels.com/photos/8035292/pexels-photo-8035292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7888981/pexels-photo-7888981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["write", "good", "user", "stories", "game"]
 author: "Ryan Cole"
@@ -80,4 +80,4 @@ Linear Jira, Shortcut (formerly Clubhouse, which is what I currently use for mos
 ---
 
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

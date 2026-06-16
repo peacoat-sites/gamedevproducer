@@ -3,7 +3,7 @@ title: "How To Build A Game Development Team From Scratch"
 date: 2026-06-11T12:28:16.002551+00:00
 draft: false
 description: "Learn how to build a game development team from scratch with expert tips on hiring developers, artists, designers, and project managers to launch your dream gam"
-image: "https://images.pexels.com/photos/5734961/pexels-photo-5734961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6804073/pexels-photo-6804073.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team management"]
 tags: ["build", "game", "development", "team", "from"]
 author: "Tyler Brooks"
@@ -106,4 +106,4 @@ And take breaks. Real ones. Crunch culture isn't a discipline problem, it's a pl
 ---
 
 
-*Photo: [Ramazan Ataş](https://www.pexels.com/@ramazannatass) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

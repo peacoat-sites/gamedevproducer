@@ -3,7 +3,7 @@ title: "Kanban Vs Scrum For Game Development Which To Use"
 date: 2026-05-23T07:33:30.020874+00:00
 draft: false
 description: "Discover the key differences between Kanban and Scrum for game development. Learn which agile framework best suits your team's workflow, project size, and goals"
-image: "https://images.pexels.com/photos/6914070/pexels-photo-6914070.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5393593/pexels-photo-5393593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["kanban", "scrum", "game", "development", "which"]
 author: "Ryan Cole"
@@ -111,4 +111,4 @@ Online, **Scrum.org's Professional Scrum Master courses** are worth the time eve
 
 The honest answer to the Kanban vs. Scrum question is that most game teams eventually land on a hybrid, with Scrum providing the milestone structure and Kanban handling the continuous flow work that doesn't fit neatly into time boxes. Start with whichever framework matches your current phase, track one or two real metrics (velocity or cycle time, not both simultaneously), and revisit the choice every couple of months. The framework should serve the game. If it's not, change it.
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*

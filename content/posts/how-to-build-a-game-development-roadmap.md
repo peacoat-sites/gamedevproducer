@@ -3,7 +3,7 @@ title: "How To Build A Game Development Roadmap"
 date: 2026-06-12T11:58:23.150495+00:00
 draft: false
 description: "Learn how to build a game development roadmap with clear steps, timelines, and milestones to take your game from concept to launch successfully."
-image: "https://images.pexels.com/photos/9071504/pexels-photo-9071504.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7964147/pexels-photo-7964147.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["build", "game", "development", "roadmap"]
 author: "Ryan Cole"
@@ -88,4 +88,4 @@ Update your roadmap in a regular cadence, at least monthly, more often if you're
 ---
 
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [Felicity Tai](https://www.pexels.com/@felicity-tai) via Pexels*

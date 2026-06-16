@@ -3,7 +3,7 @@ title: "How Game Engine Choice Affects Your Production Plan"
 date: 2026-05-25T16:52:27.165707+00:00
 draft: false
 description: "How game engine choice affects your production plan. Learn why selecting the right engine impacts timelines, costs, and team workflow in game development."
-image: "https://images.pexels.com/photos/9409819/pexels-photo-9409819.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34803998/pexels-photo-34803998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["game", "engine", "choice", "affects", "your"]
 author: "Marcus Webb"
@@ -113,4 +113,4 @@ If a migration is unavoidable, treat it as a separate project within the project
 
 The engine your team picks isn't a technical footnote. It's embedded in every risk item, every hiring conversation, every build failure, and every cert submission you'll touch for the life of the project. Treat it that way from day one, and your production plan will be built on something solid. Treat it as someone else's problem, and you'll spend the next two years managing the consequences.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [Daniil Komov](https://www.pexels.com/@dkomov) via Pexels*

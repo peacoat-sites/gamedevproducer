@@ -3,7 +3,7 @@ title: "Risk Register Template For Game Development"
 date: 2026-05-23T09:32:32.667926+00:00
 draft: false
 description: "Plan, track, and mitigate project risks with a risk register template built for game development. Protect your timeline, budget, and launch with confidence."
-image: "https://images.pexels.com/photos/9072216/pexels-photo-9072216.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8171198/pexels-photo-8171198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["risk", "register", "template", "game", "development"]
 author: "Ryan Cole"
@@ -109,4 +109,4 @@ If you want to go deeper on the production methodology behind all of this, Heath
 
 The best risk registers I've ever seen weren't the most elaborate ones. They were the ones the team actually read. Start simple, review consistently, and use the postmortem from your last project to seed the register for your next one. The risks that killed your last schedule are almost always lurking in your next one, just wearing different names.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

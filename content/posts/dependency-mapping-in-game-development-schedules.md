@@ -3,7 +3,7 @@ title: "Dependency Mapping In Game Development Schedules"
 date: 2026-05-24T06:20:17.951193+00:00
 draft: false
 description: "Discover how dependency mapping streamlines game development schedules, reduces bottlenecks, and helps teams deliver projects on time by visualizing task relati"
-image: "https://images.pexels.com/photos/7915382/pexels-photo-7915382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7046723/pexels-photo-7046723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["dependency", "mapping", "game", "development", "schedules"]
 author: "Ryan Cole"
@@ -92,4 +92,4 @@ And then there's the problem of undocumented assumptions. "We assumed the engine
 
 The teams I've seen ship on time weren't the ones with the most sophisticated tools or the biggest budgets. They were the ones who understood what was actually blocking what, named it explicitly, and tracked it relentlessly. Dependency mapping isn't glamorous production work. Nobody's writing case studies about the producer who caught a certification dependency eight weeks early. But they shipped. That's the whole job.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*

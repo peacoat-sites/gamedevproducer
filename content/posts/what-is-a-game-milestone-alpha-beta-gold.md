@@ -3,7 +3,7 @@ title: "What Is A Game Milestone Alpha Beta Gold"
 date: 2026-05-22T10:02:50.859818+00:00
 draft: false
 description: "A game milestone explained: discover what alpha, beta, and gold mean in game development, how each stage differs, and why they matter before a game launches."
-image: "https://images.pexels.com/photos/6892904/pexels-photo-6892904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/30965502/pexels-photo-30965502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["what", "game", "milestone", "alpha", "beta"]
 author: "Samantha Roberts"
@@ -124,4 +124,4 @@ Exit criteria documents also protect you in publisher conversations. If a publis
 
 Milestone definitions won't make your game good on their own, but blurry definitions will absolutely make your project harder than it needs to be. Get your exit criteria written before your next milestone gate, share them with your publisher if you have one, and make sure every department lead can recite what "Beta" means on your project without looking anything up. That single discipline change has saved more than one project I've worked on from a very expensive disagreement at exactly the wrong moment.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*

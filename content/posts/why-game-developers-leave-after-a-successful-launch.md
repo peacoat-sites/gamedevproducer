@@ -3,7 +3,7 @@ title: "Why Game Developers Leave After A Successful Launch"
 date: 2026-05-23T12:42:33.382487+00:00
 draft: false
 description: "Discover the real reasons game developers quit after a successful launch, from burnout and creative burnout to poor management, low pay, and lack of future visi"
-image: "https://images.pexels.com/photos/6643685/pexels-photo-6643685.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/340152/pexels-photo-340152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["game", "developers", "leave", "after", "successful"]
 author: "Tyler Brooks"
@@ -110,4 +110,4 @@ The pattern is consistent. Studios that retain talent treat the post-launch wind
 
 Post-launch attrition isn't an industry inevitability. It's a producer problem, which means it's a solvable one. The studios that consistently ship and retain their core teams aren't doing anything magical: they're treating the post-launch period as seriously as they treat pre-production. That's the whole difference. Start the retention work before you need it, and you might actually get to build something together twice.
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [hitesh choudhary](https://www.pexels.com/@hiteshchoudhary) via Pexels*

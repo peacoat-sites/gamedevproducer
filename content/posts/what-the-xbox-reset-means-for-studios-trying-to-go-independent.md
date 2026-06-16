@@ -3,7 +3,7 @@ title: "What the Xbox Reset Means for Studios Trying to Go Independent"
 date: 2026-06-16T13:10:58.796499+00:00
 draft: false
 description: "Xbox's shakeup is pushing studios toward independence. Discover what this reset means for developers seeking autonomy, funding, and survival in a shifting games"
-image: "https://images.pexels.com/photos/5912616/pexels-photo-5912616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8782572/pexels-photo-8782572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["what", "xbox", "reset", "means", "studios"]
 author: "Marcus Webb"
@@ -61,4 +61,4 @@ The Xbox reset is going to produce some genuinely cautionary case studies over t
 - [Xbox Spin-Off Now on the Table as $500M Revenue Drop Triggers July Layoffs](https://www.techtimes.com/articles/318431/20260615/xbox-spin-off-now-table-500m-revenue-drop-triggers-july-layoffs.htm) (June 15, 2026)
 - [Xbox studios face closure or spin-off from Microsoft](https://tbreak.com/ninja-theory-double-fine-compulsion-microsoft-spinoff/) (June 16, 2026)
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Bryce Carithers](https://www.pexels.com/@bryce-carithers-11680701) via Pexels*

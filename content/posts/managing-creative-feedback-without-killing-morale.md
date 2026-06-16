@@ -3,7 +3,7 @@ title: "Managing Creative Feedback Without Killing Morale"
 date: 2026-05-27T09:53:35.958300+00:00
 draft: false
 description: "Learn how to give and receive creative feedback that improves work without demoralising your team. Practical tips for leaders and collaborators to get results."
-image: "https://images.pexels.com/photos/7849513/pexels-photo-7849513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/21704604/pexels-photo-21704604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["managing", "creative", "feedback", "without", "killing"]
 author: "Tyler Brooks"
@@ -126,4 +126,4 @@ For producers who want a more structured approach to team health, [TeamRetro](ht
 
 Feedback culture is a production problem. That means it's yours to own, whether or not you're the one giving the feedback. The best thing you can do right now is look at your next review session and ask one question: does everyone in that room know what they're being evaluated against? If the answer is no, start there. Everything else follows.
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [Ben Khatry](https://www.pexels.com/@ben-khatry-430197437) via Pexels*

@@ -3,7 +3,7 @@ title: "What Is A Vertical Slice In Game Development"
 date: 2026-06-06T10:26:49.467427+00:00
 draft: false
 description: "Learn what a vertical slice is in game development, why studios use it to pitch and prototype games, and how it differs from a standard demo or prototype."
-image: "https://images.pexels.com/photos/7862634/pexels-photo-7862634.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/20653990/pexels-photo-20653990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["what", "vertical", "slice", "game", "development"]
 author: "Ryan Cole"
@@ -104,4 +104,4 @@ If you want a course, the Game Production courses on Coursera through Michigan S
 
 The publisher meeting I described at the start of this article was genuinely painful. But it was also clarifying. We didn't lose that deal because our game was bad. We lost it because we couldn't demonstrate what our game was. That's a solvable problem, and the vertical slice is how you solve it.
 
-*Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*
+*Photo: [Stas Knop](https://www.pexels.com/@stasknop) via Pexels*

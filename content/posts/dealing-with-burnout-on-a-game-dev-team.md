@@ -3,7 +3,7 @@ title: "Dealing With Burnout On A Game Dev Team"
 date: 2026-06-03T14:10:15.967709+00:00
 draft: false
 description: "Struggling with burnout on your game dev team? Discover practical strategies to recognize warning signs, support your crew, and keep creativity and productivity"
-image: "https://images.pexels.com/photos/5380660/pexels-photo-5380660.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/34804011/pexels-photo-34804011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team management"]
 tags: ["dealing", "with", "burnout", "game", "team"]
 author: "Tyler Brooks"
@@ -103,4 +103,4 @@ The three people who left in 2017 weren't weak. They were, honestly, some of the
 
 The game industry will ask everything you'll give it. That's just true. Your job as a producer, lead, or peer is to decide how much of that is actually necessary, and to fight hard for the part that isn't.
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Daniil Komov](https://www.pexels.com/@dkomov) via Pexels*

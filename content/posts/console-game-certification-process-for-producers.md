@@ -3,7 +3,7 @@ title: "Console Game Certification Process For Producers"
 date: 2026-05-24T09:15:10.803142+00:00
 draft: false
 description: "Learn how the console game certification process works for producers, covering submission requirements, technical checks, and approval steps for major platforms"
-image: "https://images.pexels.com/photos/9071711/pexels-photo-9071711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4523032/pexels-photo-4523032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["console", "game", "certification", "process", "producers"]
 author: "Samantha Roberts"
@@ -112,4 +112,4 @@ For learning the production side more deeply, Jason Della Rocca's work on game p
 
 Certification isn't the enemy. It's a system you can learn, plan for, and build around. The studios that get blindsided by it are the ones who treated it as someone else's problem until the last month of development. The ones who ship on time are the ones who made compliance a first-class part of production from the beginning. That's the whole secret.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*

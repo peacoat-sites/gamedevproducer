@@ -3,7 +3,7 @@ title: "What Xbox's Reset Memo Means for Indie Developers"
 date: 2026-06-15T14:41:21.351204+00:00
 draft: false
 description: "Xbox's internal reset memo signals major shifts for indie developers. Discover what these changes mean for game discovery, funding opportunities, and the future"
-image: "https://images.pexels.com/photos/3861967/pexels-photo-3861967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/28978363/pexels-photo-28978363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["what", "xbox's", "reset", "memo", "means"]
 author: "Tyler Brooks"
@@ -60,4 +60,4 @@ The Xbox reset is a real event with real consequences for indie developers who'v
 - [Microsoft's Xbox Reset Triggers a Fresh Round of Layoffs](https://www.metaintro.com/blog/microsoft-xbox-reset-gaming-layoffs-2026) (June 12, 2026)
 - [Every Video Game Layoff and Studio Closure in 2026 So Far](https://gamerant.com/every-video-game-layoff-and-studio-closure-in-2026-so-far/) (updated March 2026)
 
-*Photo: [ThisIsEngineering](https://www.pexels.com/@thisisengineering) via Pexels*
+*Photo: [Mahmoud Yahyaoui](https://www.pexels.com/@mahmoud-yahyaoui) via Pexels*

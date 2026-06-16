@@ -3,7 +3,7 @@ title: "How To Pitch A Game To A Publisher"
 date: 2026-06-08T12:46:51.779389+00:00
 draft: false
 description: "Learn how to pitch a game to a publisher with expert tips on crafting a compelling proposal, preparing a demo, and securing the deal for your dream project."
-image: "https://images.pexels.com/photos/7792746/pexels-photo-7792746.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9034249/pexels-photo-9034249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["publishing"]
 tags: ["pitch", "game", "publisher"]
 author: "Samantha Roberts"
@@ -82,4 +82,4 @@ Recoupment terms are where a lot of deals quietly become bad deals. If a publish
 
 The teams I've watched get good deals share one trait: they treated the pitch as a business conversation, not a performance. They knew their numbers, they knew their risks, they'd played the comparable games, and they walked in knowing what they were willing to walk away from. That last part matters more than most pitching guides will tell you. If you don't know your walk-away terms before you sit down, you're negotiating against yourself.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

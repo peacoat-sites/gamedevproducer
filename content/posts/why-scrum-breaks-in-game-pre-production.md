@@ -3,7 +3,7 @@ title: "Why Scrum Breaks In Game Pre-Production"
 date: 2026-05-29T15:17:14.397761+00:00
 draft: false
 description: "Discover why Scrum often fails during game pre-production and learn which agile approaches better support the creative, exploratory nature of early game develop"
-image: "https://images.pexels.com/photos/6291261/pexels-photo-6291261.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7437491/pexels-photo-7437491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["pm frameworks"]
 tags: ["scrum", "breaks", "game", "pre-production"]
 author: "Ryan Cole"
@@ -107,4 +107,4 @@ That last one is the most dangerous. When your most creative people decouple fro
 
 Pre-production is where games live or die. Get it wrong and you spend production fixing design problems that should have been caught earlier, which is the most expensive possible time to catch them. The framework you use during this phase should be designed to maximize learning speed and creative clarity, not task completion rate. Scrum is a great tool. It's just not always the right tool for this job, and knowing the difference is one of the things that separates a good producer from a great one.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

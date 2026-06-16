@@ -3,7 +3,7 @@ title: "How To Plan A Realistic Game Release Date"
 date: 2026-06-05T12:21:33.735417+00:00
 draft: false
 description: "Learn how to plan a realistic game release date with expert tips on scheduling, avoiding crunch, managing milestones, and setting deadlines your team can actual"
-image: "https://images.pexels.com/photos/7915419/pexels-photo-7915419.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29509485/pexels-photo-29509485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["planning"]
 tags: ["plan", "realistic", "game", "release", "date"]
 author: "Ryan Cole"
@@ -99,4 +99,4 @@ A release date isn't a deadline you impose on the project. It's a prediction you
 
 Do the math early. It's a lot less painful than doing it in public.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Matheus Bertelli](https://www.pexels.com/@bertellifotografia) via Pexels*

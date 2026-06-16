@@ -3,7 +3,7 @@ title: "What Transfers From Tech Pm To Game Production"
 date: 2026-05-22T22:09:38.812601+00:00
 draft: false
 description: "Discover how tech PM skills like roadmapping, stakeholder management, and agile workflows translate seamlessly into game production roles and help you make the "
-image: "https://images.pexels.com/photos/8123885/pexels-photo-8123885.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7862518/pexels-photo-7862518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["what", "transfers", "from", "tech", "game"]
 author: "Jordan Lee"
@@ -88,4 +88,4 @@ The contextual stakes in game production are wildly variable depending on whethe
 
 The skills that made you effective in tech are real assets. The gap isn't in your competence. It's in context, domain vocabulary, and a more nuanced relationship with creativity as a production variable. Close that gap deliberately, stay humble in the places where your experience doesn't map cleanly, and you'll get there faster than you think.
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*

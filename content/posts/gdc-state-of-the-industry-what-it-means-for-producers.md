@@ -3,7 +3,7 @@ title: "GDC State Of The Industry What It Means For Producers"
 date: 2026-05-27T19:58:40.601042+00:00
 draft: false
 description: "Insights from GDC's State of the Industry report examined through a producer's lens, covering key trends, challenges, and opportunities shaping game development"
-image: "https://images.pexels.com/photos/9071736/pexels-photo-9071736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29708260/pexels-photo-29708260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["state", "industry", "what", "means", "producers"]
 author: "Samantha Roberts"
@@ -91,4 +91,4 @@ Two resources worth your time right now: the [Agile Game Development](https://ww
 
 The GDC State of the Industry report isn't a verdict on your career or your studio. It's a reading of conditions. Conditions change, and producers who stay useful across cycles are the ones who treat data as something to act on, not something to react to. You've got enough information now to do something with what you're reading. That's the job.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [Matheus Bertelli](https://www.pexels.com/@bertellifotografia) via Pexels*

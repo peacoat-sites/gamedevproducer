@@ -3,7 +3,7 @@ title: "Onboarding New Team Members On A Live Game Project"
 date: 2026-05-26T06:45:30.142207+00:00
 draft: false
 description: "Discover proven strategies for onboarding new team members onto a live game project without disrupting updates, player experience, or your existing development "
-image: "https://images.pexels.com/photos/7794049/pexels-photo-7794049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8550657/pexels-photo-8550657.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["onboarding", "team", "members", "live", "game"]
 author: "Tyler Brooks"

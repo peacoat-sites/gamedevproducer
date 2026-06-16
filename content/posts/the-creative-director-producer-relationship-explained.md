@@ -3,7 +3,7 @@ title: "The Creative Director Producer Relationship Explained"
 date: 2026-05-25T23:01:02.934254+00:00
 draft: false
 description: "The creative director producer relationship explained: understand collaboration dynamics, roles, responsibilities, and best practices for successful creative pa"
-image: "https://images.pexels.com/photos/28808422/pexels-photo-28808422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9809836/pexels-photo-9809836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["creative", "director", "producer", "relationship", "explained"]
 author: "Jordan Lee"
@@ -189,4 +189,4 @@ This isn't the CD being controlled. It's shared situational awareness.
 
 The CD-producer relationship is fundamentally about respect for different types of expertise. The best partnerships I've worked with were built on the same foundation: both people believed the other was genuinely trying to make the game better. The CD wasn't trying to blow up the budget. The producer wasn't trying to kill creativity. They were just solving the problem from different angles. When both roles start from that assumption, the hard conversations become collaborative instead of combative.
 
-*Photo: [Vladimir Kalugin](https://www.pexels.com/@grizzly) via Pexels*
+*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*

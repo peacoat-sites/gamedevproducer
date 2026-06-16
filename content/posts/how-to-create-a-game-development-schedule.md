@@ -3,7 +3,7 @@ title: "How To Create A Game Development Schedule"
 date: 2026-06-01T15:35:05.536548+00:00
 draft: false
 description: "Plan your game dev project with confidence. Learn how to create a realistic game development schedule, set milestones, manage tasks, and hit your deadlines."
-image: "https://images.pexels.com/photos/6862840/pexels-photo-6862840.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/273153/pexels-photo-273153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["planning"]
 tags: ["create", "game", "development", "schedule"]
 author: "Ryan Cole"

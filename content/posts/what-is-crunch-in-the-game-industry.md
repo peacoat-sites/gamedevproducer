@@ -3,7 +3,7 @@ title: "What Is Crunch In The Game Industry"
 date: 2026-06-02T12:56:29.944638+00:00
 draft: false
 description: "Learn what crunch means in the game industry, why it happens, how it affects developers, and what studios are doing to address this widespread workplace issue."
-image: "https://images.pexels.com/photos/4714924/pexels-photo-4714924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6963942/pexels-photo-6963942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team management"]
 tags: ["what", "crunch", "game", "industry"]
 author: "Tyler Brooks"
@@ -117,4 +117,4 @@ What I'll say is this: crunch has survived every cultural intervention the indus
 
 Crunch isn't going away this year. It might not go away in the next five. But the developers asking questions about it, building production systems that make it visible, organizing for structural protections, and making career choices based on studio culture rather than just title credit are the ones actually moving the needle. Understanding what crunch is, where it comes from, and what the real levers are is where that work starts.
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*

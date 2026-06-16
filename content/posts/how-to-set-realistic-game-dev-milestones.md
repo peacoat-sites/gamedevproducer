@@ -3,7 +3,7 @@ title: "How To Set Realistic Game Dev Milestones"
 date: 2026-05-31T11:09:17.889188+00:00
 draft: false
 description: "Learn how to set realistic game dev milestones that keep your project on track. Avoid common planning mistakes and ship your game with confidence."
-image: "https://images.pexels.com/photos/19107724/pexels-photo-19107724.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7947841/pexels-photo-7947841.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["milestones"]
 tags: ["realistic", "game", "milestones"]
 author: "Ryan Cole"

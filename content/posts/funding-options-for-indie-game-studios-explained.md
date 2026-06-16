@@ -3,7 +3,7 @@ title: "Funding Options For Indie Game Studios Explained"
 date: 2026-06-07T10:41:45.025833+00:00
 draft: false
 description: "Discover the best funding options for indie game studios, from grants and crowdfunding to publisher deals and investors, and find the right path to finance your"
-image: "https://images.pexels.com/photos/7849520/pexels-photo-7849520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5849558/pexels-photo-5849558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["budgeting"]
 tags: ["funding", "options", "indie", "game", "studios"]
 author: "Jordan Lee"
@@ -106,4 +106,4 @@ If you have 6+ months of content playable and a Discord or mailing list with at 
 ---
 
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [Monstera Production](https://www.pexels.com/@gabby-k) via Pexels*

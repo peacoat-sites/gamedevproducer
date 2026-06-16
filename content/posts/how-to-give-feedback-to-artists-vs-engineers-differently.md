@@ -3,7 +3,7 @@ title: "How To Give Feedback To Artists Vs Engineers Differently"
 date: 2026-05-26T02:56:40.422288+00:00
 draft: false
 description: "Learn how to tailor feedback for artists and engineers effectively. Discover key communication differences to inspire creativity and drive technical precision i"
-image: "https://images.pexels.com/photos/7915392/pexels-photo-7915392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5657673/pexels-photo-5657673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["give", "feedback", "artists", "engineers", "differently"]
 author: "Tyler Brooks"
@@ -88,4 +88,4 @@ On the production knowledge side, *The Art of Game Design* by Jesse Schell sharp
 
 The underlying principle here isn't complicated: good feedback meets people where they actually are, not where you assume they are. Artists need to understand the experience you're trying to create. Engineers need to understand the problem you need solved. Get that distinction right, and your revision cycles get shorter, your team gets less frustrated, and you start shipping things that actually match the vision you had in your head.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

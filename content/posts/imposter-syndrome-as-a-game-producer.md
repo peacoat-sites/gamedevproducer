@@ -3,7 +3,7 @@ title: "Imposter Syndrome As A Game Producer"
 date: 2026-05-23T05:06:59.667313+00:00
 draft: false
 description: "Struggling with imposter syndrome as a game producer? Discover practical strategies to overcome self-doubt, build confidence, and thrive in your creative leader"
-image: "https://images.pexels.com/photos/20684842/pexels-photo-20684842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7862673/pexels-photo-7862673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["imposter", "syndrome", "game", "producer"]
 author: "Tyler Brooks"
@@ -92,4 +92,4 @@ You can be transparent about professional development without exposing vulnerabi
 With trusted peers and mentors, be more direct. The isolation of not saying it out loud is part of what makes imposter syndrome calcify. Naming it to one person who's been through it often deflates it immediately.
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Alena Darmel](https://www.pexels.com/@a-darmel) via Pexels*

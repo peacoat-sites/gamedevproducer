@@ -3,7 +3,7 @@ title: "How To Write A Game Design Document"
 date: 2026-06-04T12:23:59.741108+00:00
 draft: false
 description: "Learn how to write a game design document with our step-by-step guide. Cover key sections, structure your ideas, and keep your team aligned throughout developme"
-image: "https://images.pexels.com/photos/5685982/pexels-photo-5685982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9572697/pexels-photo-9572697.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["production"]
 tags: ["write", "game", "design", "document"]
 author: "Ryan Cole"
@@ -96,4 +96,4 @@ For tools: I've found Machinations genuinely useful for documenting economy and 
 
 One last thing. The GDD doesn't make the game. The game makes the game. The document's only job is to get the team building the same thing. If it's doing that, it's a good GDD regardless of how it looks or how long it runs. If it's not doing that, adding more sections won't fix it.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*

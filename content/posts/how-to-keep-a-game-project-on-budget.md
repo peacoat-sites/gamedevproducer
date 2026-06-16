@@ -3,7 +3,7 @@ title: "How To Keep A Game Project On Budget"
 date: 2026-06-16T13:08:53.550724+00:00
 draft: false
 description: "Learn proven strategies to keep your game project on budget, from planning and scope control to tracking costs and avoiding common financial pitfalls."
-image: "https://images.pexels.com/photos/6694535/pexels-photo-6694535.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821566/pexels-photo-7821566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["budgeting"]
 tags: ["keep", "game", "project", "budget"]
 author: "Samantha Roberts"
@@ -90,4 +90,4 @@ The books that genuinely helped me think through these decisions were "The Game 
 ---
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

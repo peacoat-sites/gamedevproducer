@@ -3,7 +3,7 @@ title: "What Game Post-Mortems Reveal About Production Failures"
 date: 2026-05-23T07:37:14.864428+00:00
 draft: false
 description: "Learn what game post-mortems reveal about common production failures, from scope creep to poor communication, and how developers can avoid repeating costly mist"
-image: "https://images.pexels.com/photos/1102797/pexels-photo-1102797.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image: "https://images.pexels.com/photos/7437090/pexels-photo-7437090.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["what", "game", "post-mortems", "reveal", "about"]
 author: "Ryan Cole"

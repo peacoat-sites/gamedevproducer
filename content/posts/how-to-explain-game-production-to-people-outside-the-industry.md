@@ -3,7 +3,7 @@ title: "How To Explain Game Production To People Outside The Industry"
 date: 2026-05-28T09:40:22.492275+00:00
 draft: false
 description: "Learn how to explain game production to friends, family, and clients in simple terms. Break down complex pipelines, roles, and processes without the industry ja"
-image: "https://images.pexels.com/photos/9072245/pexels-photo-9072245.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8369603/pexels-photo-8369603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["explain", "game", "production", "people", "outside"]
 author: "Jordan Lee"
@@ -133,4 +133,4 @@ Coursera's **Game Design and Development Specialization** from Michigan State al
 
 The goal of all of this isn't to make outsiders love game development or fully understand it. The goal is to get them informed enough to trust you and your team. You're not writing a textbook. You're building just enough of a shared vocabulary that the conversation can be useful. Most people, once they understand that "we're discovering the game as we build it" isn't an excuse but a description of how creative software works, will cut you a lot more slack than you'd expect.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

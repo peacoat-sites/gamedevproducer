@@ -3,7 +3,7 @@ title: "How To Plan A Game Development Budget"
 date: 2026-06-14T11:11:29.586527+00:00
 draft: false
 description: "Learn how to plan a game development budget with expert tips on estimating costs, managing resources, avoiding overruns, and keeping your project on track and p"
-image: "https://images.pexels.com/photos/29457610/pexels-photo-29457610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6801682/pexels-photo-6801682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["budgeting"]
 tags: ["plan", "game", "development", "budget"]
 author: "Jordan Lee"

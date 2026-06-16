@@ -3,7 +3,7 @@ title: "Team Dynamics In Aaa Game Studios"
 date: 2026-05-21T22:26:43.388358+00:00
 draft: false
 description: "Discover how team dynamics shape AAA game development. Explore collaboration, communication, and leadership strategies that drive successful game studios and hi"
-image: "https://images.pexels.com/photos/9071490/pexels-photo-9071490.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7923257/pexels-photo-7923257.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["team", "dynamics", "game", "studios"]
 author: "Tyler Brooks"
@@ -118,4 +118,4 @@ The tell is usually whether the problem is getting smaller or larger over time w
 
 The teams that ship great games aren't the ones that avoided dysfunction. They're the ones that built enough trust and process to catch dysfunction early, fix it without drama, and keep moving. That's a skill that gets built deliberately, not by accident, and it compounds across every project that follows.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [Andres Garcia](https://www.pexels.com/@andres-garcia-57040618) via Pexels*

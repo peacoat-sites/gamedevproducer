@@ -3,7 +3,7 @@ title: "Managing Engineers And Artists On The Same Team"
 date: 2026-05-25T00:32:18.894919+00:00
 draft: false
 description: "Discover proven strategies for managing engineers and artists on the same team, bridging creative and technical mindsets to boost collaboration, productivity, a"
-image: "https://images.pexels.com/photos/5257005/pexels-photo-5257005.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5922202/pexels-photo-5922202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["managing", "engineers", "artists", "same", "team"]
 author: "Tyler Brooks"
@@ -110,4 +110,4 @@ For personal productivity as a producer managing this level of complexity, **Not
 
 The goal isn't to make engineers think like artists or artists think like engineers. It's to build a production environment where both ways of thinking can operate at their best and hand off to each other without friction becoming failure. That's a design problem, and designing it is your job as a producer.
 
-*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

@@ -3,7 +3,7 @@ title: "Crunch Aftermath How To Rebuild Team Trust"
 date: 2026-05-26T22:06:48.084678+00:00
 draft: false
 description: "After a brutal crunch, your team is burned out and updating resumes. Here is how to rebuild trust, repair morale, and prevent the next death march."
-image: "https://images.pexels.com/photos/7849517/pexels-photo-7849517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6806095/pexels-photo-6806095.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team psychology"]
 tags: ["crunch", "aftermath", "rebuild", "team", "trust"]
 author: "Tyler Brooks"
@@ -94,4 +94,4 @@ The other common mistake is the team event. Pizza party, escape room, bowling. T
 
 The studios that survive long-term aren't the ones that never crunch. They're the ones that treat recovery as production-critical work, not a soft courtesy. Your team's capacity to make the next game depends on what you do in the next 90 days. That's not a morale problem. It's a scheduling problem, and you know how to solve those.
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

@@ -3,7 +3,7 @@ title: "How To Run A Playtest And Gather Feedback"
 date: 2026-06-07T10:39:21.931626+00:00
 draft: false
 description: "Learn how to run an effective playtest, collect meaningful feedback from players, and use insights to improve your game design with our step-by-step guide."
-image: "https://images.pexels.com/photos/9072221/pexels-photo-9072221.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/9071735/pexels-photo-9071735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["metrics"]
 tags: ["playtest", "gather", "feedback"]
 author: "Priya Sharma"

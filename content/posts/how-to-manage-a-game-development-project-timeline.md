@@ -3,7 +3,7 @@ title: "How To Manage A Game Development Project Timeline"
 date: 2026-06-04T12:22:00.674646+00:00
 draft: false
 description: "Plan your game development project timeline with confidence. Learn key strategies for scheduling milestones, managing scope, and keeping your team on track."
-image: "https://images.pexels.com/photos/6804084/pexels-photo-6804084.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7580765/pexels-photo-7580765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["project management"]
 tags: ["manage", "game", "development", "project", "timeline"]
 author: "Ryan Cole"
@@ -122,4 +122,4 @@ The calendar is going to move whether you're watching it or not. The only questi
 
 Make the timeline. Tend it every week. Cut before you crunch. That's genuinely most of it.
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

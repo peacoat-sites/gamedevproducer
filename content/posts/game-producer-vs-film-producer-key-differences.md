@@ -3,7 +3,7 @@ title: "Game Producer Vs Film Producer Key Differences"
 date: 2026-05-26T02:16:16.016541+00:00
 draft: false
 description: "Game Producer vs Film Producer: Explore the key differences in production timelines, team structures, budgets, and creative processes between these two roles."
-image: "https://images.pexels.com/photos/7292701/pexels-photo-7292701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/66134/pexels-photo-66134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "film", "producer", "differences"]
 author: "Jordan Lee"
@@ -110,4 +110,4 @@ If you're making the transition from film to game production (or just trying to 
 
 The gap between film production and game production is real, but it's not uncrossable. The skills that make a great film producer, clear communication, team leadership, financial fluency, conflict resolution, are all valuable in games. What changes is the context around those skills: more technical, more iterative, longer-term, and more organizationally complex. Go in with clear eyes about that gap, do the homework to close it, and the transition is genuinely achievable.
 
-*Photo: [Ben Collins](https://www.pexels.com/@ben-collins-41034267) via Pexels*
+*Photo: [Donald Tong](https://www.pexels.com/@donaldtong94) via Pexels*

@@ -3,7 +3,7 @@ title: "Game Studio Post-Mortem Process That Actually Works"
 date: 2026-05-25T21:47:02.833180+00:00
 draft: false
 description: "Learn how a structured game studio post-mortem process can improve your team, fix recurring problems, and ship better games with honest, actionable retrospectiv"
-image: "https://images.pexels.com/photos/7172661/pexels-photo-7172661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7550286/pexels-photo-7550286.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["industry intel"]
 tags: ["game", "studio", "post-mortem", "process", "that"]
 author: "Ryan Cole"

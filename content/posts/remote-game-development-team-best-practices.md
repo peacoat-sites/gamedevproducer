@@ -3,7 +3,7 @@ title: "Remote Game Development Team Best Practices"
 date: 2026-06-03T14:07:39.349173+00:00
 draft: false
 description: "Learn how to build and manage a remote game development team with proven best practices covering communication, tools, workflows, and collaboration strategies."
-image: "https://images.pexels.com/photos/3277808/pexels-photo-3277808.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6804580/pexels-photo-6804580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["team management"]
 tags: ["remote", "game", "development", "team", "best"]
 author: "Tyler Brooks"
@@ -92,4 +92,4 @@ Notion works well for the living onboarding document. Spend time building it onc
 
 The teams I've seen succeed at remote game development aren't the ones with the most sophisticated tools. They're the ones who made explicit decisions about how they work, wrote those decisions down, and actually enforced them. That last part is the producer's job, specifically. Nobody else is going to do it.
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

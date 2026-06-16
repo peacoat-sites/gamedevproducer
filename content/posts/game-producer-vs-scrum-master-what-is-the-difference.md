@@ -3,7 +3,7 @@ title: "Game Producer Vs Scrum Master What Is The Difference"
 date: 2026-05-26T16:14:21.992029+00:00
 draft: false
 description: "Learn the key differences between a game producer and a scrum master, including their roles, responsibilities, and how each contributes to a successful game dev"
-image: "https://images.pexels.com/photos/28715052/pexels-photo-28715052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7698706/pexels-photo-7698706.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["role identity"]
 tags: ["game", "producer", "scrum", "master", "what"]
 author: "Priya Sharma"
@@ -142,4 +142,4 @@ Whether you're a Producer, a Scrum Master, or doing both, the right toolset matt
 
 The clearest signal that a studio has this right is simple: the Producer and Scrum Master are seen as a unit by the team, with distinct but complementary functions. Neither is surprised by what the other is doing. The team knows exactly who to go to for what. If that's not your situation today, the gap between where you are and where you need to be is smaller than you think, and it starts with one honest conversation about who owns what.
 
-*Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
+*Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*

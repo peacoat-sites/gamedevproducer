@@ -3,7 +3,7 @@ title: "How To Build A Steam Page That Converts"
 date: 2026-06-02T12:54:05.390929+00:00
 draft: false
 description: "Learn how to build a Steam page that converts browsers into buyers with tips on capsule art, descriptions, trailers, and screenshots that boost wishlists and sa"
-image: "https://images.pexels.com/photos/7915273/pexels-photo-7915273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/16027821/pexels-photo-16027821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["publishing"]
 tags: ["build", "steam", "page", "that", "converts"]
 author: "Samantha Roberts"
@@ -106,4 +106,4 @@ After your page goes live: link to it everywhere. Email list, social media, game
 
 Your Steam page is never truly done until your game is off sale forever. Treat it as a living document, review it quarterly if you're in a long development cycle, and get feedback on it from people who have never heard of your game before. The hardest part of this whole process is that you've been looking at your game so long that you've lost the ability to see it the way a stranger does. Find that stranger. Buy them a coffee. Ask them to narrate their thoughts as they scroll your page for the first time. That 10 minutes of feedback will be worth more than most of what you'll read about Steam marketing, including this article.
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Matheus Bertelli](https://www.pexels.com/@bertellifotografia) via Pexels*
