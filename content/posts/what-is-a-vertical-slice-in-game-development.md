@@ -99,27 +99,6 @@ If you want a course, the Game Production courses on Coursera through Michigan S
 
 ---
 
-## Questions People Actually Ask About Vertical Slices
-
-### How long should a vertical slice be?
-
-Five to twenty minutes of gameplay is the typical range for most games. Don't optimize for length; optimize for representativeness. Your slice should show exactly what playing the finished game feels like, not as much of it as possible.
-
-### Does every game need a vertical slice?
-
-Honestly, not every tiny project does. If you're a solo developer building a very small mobile puzzle game, you might reach "finished product" faster than you'd build a formal vertical slice. But for anything requiring a team, a publishing deal, or more than six months of development, skipping the vertical slice is a bet I've watched teams lose repeatedly.
-
-### When should you build your vertical slice?
-
-Early. As in, it should be your first major milestone. If you're starting development and your vertical slice is scheduled for the back half of the project, something is wrong with your plan. The whole point is to validate your game's core experience before you've committed to building everything else around an assumption.
-
-### Can your vertical slice become part of the final game?
-
-Yes, and this is actually the goal. The vertical slice shouldn't be throwaway work. It should be the first fully finished section of your game. Some studios ship the exact content from their vertical slice in the final product. Others rebuild it later as their production process matures, but the target is always to treat it as real work, not a disposable proof.
-
-### What's the difference between a vertical slice and an alpha build?
-
-An alpha is typically a much more complete version of the game with significant missing polish, content gaps, and known bugs. A vertical slice is tiny in scope but polished to final quality in that scope. Think of it this way: alpha is wide and rough, vertical slice is narrow and finished.
 
 ---
 
