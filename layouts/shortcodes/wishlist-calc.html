@@ -1,0 +1,180 @@
+{{- /* Steam Wishlist to Sales Estimator */ -}}
+<div class="swse-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Steam Wishlist to First-Week Sales Estimator</div>
+  <div style="padding:20px">
+    <p style="margin:0 0 4px;color:var(--muted);font-size:.88rem;font-style:italic">Community-derived estimates based on developer postmortems and the Boxleiter Method. Not official Valve data.</p>
+    <p style="margin:0 0 18px;color:var(--muted);font-size:.95rem">Enter your expected wishlists at launch to project first-week sales and revenue.</p>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin-bottom:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Wishlists at Launch
+        <input id="swse-wl" type="number" min="0" value="10000" placeholder="e.g. 10000" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Game Price ($)
+        <input id="swse-price" type="number" min="0" step="0.01" value="14.99" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+      </label>
+    </div>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin-bottom:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Release Type
+        <select id="swse-release" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="full" selected>Full release</option>
+          <option value="ea">Early Access</option>
+          <option value="f2p">Free to Play</option>
+        </select>
+      </label>
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Marketing Tier
+        <select id="swse-mkt" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="none">No marketing (organic only)</option>
+          <option value="some" selected>Some marketing ($1–5k spent)</option>
+          <option value="sig">Significant marketing ($5k+)</option>
+          <option value="pub">Publisher-backed</option>
+        </select>
+      </label>
+    </div>
+
+    <div style="margin-bottom:20px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Genre
+        <select id="swse-genre" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="1.0">Action / Platformer (1.0x)</option>
+          <option value="1.15">RPG / Open World (1.15x)</option>
+          <option value="0.9">Puzzle / Casual (0.9x)</option>
+          <option value="1.2">Roguelike / Roguelite (1.2x)</option>
+          <option value="0.85">Visual Novel / Narrative (0.85x)</option>
+          <option value="1.1">Strategy / Simulation (1.1x)</option>
+          <option value="1.05">Horror / Thriller (1.05x)</option>
+          <option value="0.95">Sports / Racing (0.95x)</option>
+          <option value="1.0">Other (1.0x)</option>
+        </select>
+      </label>
+    </div>
+
+    <button id="swse-btn" style="width:100%;padding:14px;background:var(--accent);color:#fff;border:none;border-radius:10px;font-size:1rem;font-weight:700;cursor:pointer;font-family:inherit;letter-spacing:.01em">Estimate Sales</button>
+
+    <div id="swse-f2p-note" style="display:none;margin-top:14px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem">
+      <strong>Free to Play note:</strong> Wishlists are a weaker predictor for F2P titles. Revenue depends heavily on monetization design (cosmetics, battle pass, IAP). The estimates below use a conversion-to-download proxy and are especially rough.
+    </div>
+
+    <div id="swse-results" style="display:none;margin-top:20px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Launch Week Units</span>
+          <span id="swse-r-units" style="display:block;font-size:1.5rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+          <span id="swse-r-units-range" style="display:block;font-size:11px;color:var(--stone)"></span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Launch Week Gross</span>
+          <span id="swse-r-gross" style="display:block;font-size:1.5rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+          <span id="swse-r-gross-range" style="display:block;font-size:11px;color:var(--stone)"></span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Dev Net (launch wk)</span>
+          <span id="swse-r-net" style="display:block;font-size:1.5rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+          <span id="swse-r-net-range" style="display:block;font-size:11px;color:var(--stone)"></span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">First Month Est.</span>
+          <span id="swse-r-month" style="display:block;font-size:1.5rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">First Year (rough)</span>
+          <span id="swse-r-year" style="display:block;font-size:1.5rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+        </div>
+      </div>
+
+      <!-- Benchmark table -->
+      <div style="margin-top:20px;overflow-x:auto">
+        <div style="font-size:13px;font-weight:700;color:var(--text);margin-bottom:10px">Wishlist Benchmark Reference</div>
+        <table style="width:100%;border-collapse:collapse;font-size:13px">
+          <thead>
+            <tr style="background:var(--surface2)">
+              <th style="text-align:left;padding:10px 12px;font-weight:700;color:var(--muted);border-bottom:1px solid var(--border)">Wishlists</th>
+              <th style="text-align:left;padding:10px 12px;font-weight:700;color:var(--muted);border-bottom:1px solid var(--border)">Territory</th>
+              <th style="text-align:right;padding:10px 12px;font-weight:700;color:var(--muted);border-bottom:1px solid var(--border)">Launch Wk Units</th>
+              <th style="text-align:right;padding:10px 12px;font-weight:700;color:var(--muted);border-bottom:1px solid var(--border)">Dev Net @ $14.99</th>
+            </tr>
+          </thead>
+          <tbody id="swse-bench-body">
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+#swse-btn:hover{opacity:.9}
+#swse-wl:focus,#swse-price:focus,#swse-release:focus,#swse-mkt:focus,#swse-genre:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)}
+#swse-bench-body tr:nth-child(even){background:var(--surface2)}
+#swse-bench-body td{padding:9px 12px;border-bottom:1px solid var(--border)}
+</style>
+
+<script>
+(function(){
+  var convRates={none:0.12,some:0.20,sig:0.30,pub:0.40};
+  var benchmarks=[
+    {wl:1000,label:'Micro release territory',units:120,net:1260},
+    {wl:5000,label:'Small indie',units:600,net:6300},
+    {wl:10000,label:'Solid indie',units:1200,net:12600},
+    {wl:50000,label:'Strong position',units:6000,net:63000},
+    {wl:100000,label:'Hit potential',units:12000,net:126000}
+  ];
+
+  function fmt(n){return'$'+Math.round(n).toLocaleString();}
+  function fmtN(n){return Math.round(n).toLocaleString();}
+
+  // Build benchmark table once
+  var tbody=document.getElementById('swse-bench-body');
+  benchmarks.forEach(function(b){
+    var tr=document.createElement('tr');
+    tr.innerHTML='<td>'+b.wl.toLocaleString()+'</td><td>'+b.label+'</td><td style="text-align:right">~'+b.units.toLocaleString()+' units</td><td style="text-align:right">~'+fmt(b.net)+'</td>';
+    tbody.appendChild(tr);
+  });
+
+  document.getElementById('swse-btn').addEventListener('click',function(){
+    var wl=parseInt(document.getElementById('swse-wl').value)||0;
+    var price=parseFloat(document.getElementById('swse-price').value)||14.99;
+    var release=document.getElementById('swse-release').value;
+    var mkt=document.getElementById('swse-mkt').value;
+    var genre=parseFloat(document.getElementById('swse-genre').value)||1.0;
+
+    // F2P note
+    document.getElementById('swse-f2p-note').style.display=release==='f2p'?'block':'none';
+
+    var baseConv=convRates[mkt];
+    if(release==='ea') baseConv*=0.60;
+    // f2p: treat as full but with note
+    var conv=baseConv*genre;
+
+    var units=wl*conv;
+    var unitsLow=units*0.7;
+    var unitsHigh=units*1.4;
+
+    var gross=units*price;
+    var grossLow=unitsLow*price;
+    var grossHigh=unitsHigh*price;
+
+    var net=gross*0.70*0.92;
+    var netLow=grossLow*0.70*0.92;
+    var netHigh=grossHigh*0.70*0.92;
+
+    var month1Net=net*1.5;
+    var year1Net=month1Net*4;
+
+    document.getElementById('swse-r-units').textContent=fmtN(units);
+    document.getElementById('swse-r-units-range').textContent='Range: '+fmtN(unitsLow)+' – '+fmtN(unitsHigh);
+    document.getElementById('swse-r-gross').textContent=fmt(gross);
+    document.getElementById('swse-r-gross-range').textContent='Range: '+fmt(grossLow)+' – '+fmt(grossHigh);
+    document.getElementById('swse-r-net').textContent=fmt(net);
+    document.getElementById('swse-r-net-range').textContent='Range: '+fmt(netLow)+' – '+fmt(netHigh);
+    document.getElementById('swse-r-month').textContent=fmt(month1Net);
+    document.getElementById('swse-r-year').textContent=fmt(year1Net);
+
+    document.getElementById('swse-results').style.display='block';
+  });
+})();
+</script>

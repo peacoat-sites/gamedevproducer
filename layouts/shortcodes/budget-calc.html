@@ -1,0 +1,227 @@
+{{- /* Indie Game Budget Estimator */ -}}
+<div class="igbe-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Indie Game Budget Estimator</div>
+  <div style="padding:20px">
+    <p style="margin:0 0 18px;color:var(--muted);font-size:.95rem">Estimate the true cost to ship your game — including the hidden costs most first-timers miss.</p>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-bottom:14px">
+      <!-- Game scope -->
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Game Scope
+        <select id="igbe-scope" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="jam">Jam / Micro (1–4 weeks)</option>
+          <option value="small">Small (3–6 months)</option>
+          <option value="mid" selected>Mid-size (6–18 months)</option>
+          <option value="large">Large (18+ months)</option>
+        </select>
+      </label>
+      <!-- Employment type -->
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Employment Type
+        <select id="igbe-employ" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="freelance">All freelance</option>
+          <option value="mix">Mix of freelance + employees</option>
+          <option value="equity" selected>Founders working for equity (no salary)</option>
+        </select>
+      </label>
+    </div>
+
+    <!-- Hourly rate (hidden when equity) -->
+    <div id="igbe-rate-row" style="margin-bottom:14px;display:none">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Average Hourly Rate ($)
+        <input id="igbe-rate" type="number" min="10" max="500" value="75" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+      </label>
+    </div>
+
+    <!-- Team composition -->
+    <div style="margin-bottom:14px">
+      <div style="font-size:13px;font-weight:600;color:var(--muted);margin-bottom:8px">Team Composition</div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px">
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer">
+          <input type="checkbox" id="igbe-prog" checked style="width:16px;height:16px;accent-color:var(--accent)">
+          Programmer(s)
+          <input id="igbe-prog-n" type="number" min="1" max="5" value="1" style="width:54px;padding:4px 8px;border:1.5px solid var(--border-strong);border-radius:7px;font-size:14px;color:var(--text);background:var(--surface);font-family:inherit">
+        </label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer">
+          <input type="checkbox" id="igbe-art" style="width:16px;height:16px;accent-color:var(--accent)">
+          Artist(s)
+          <input id="igbe-art-n" type="number" min="1" max="5" value="1" style="width:54px;padding:4px 8px;border:1.5px solid var(--border-strong);border-radius:7px;font-size:14px;color:var(--text);background:var(--surface);font-family:inherit">
+        </label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer">
+          <input type="checkbox" id="igbe-audio" style="width:16px;height:16px;accent-color:var(--accent)">
+          Sound / Music
+        </label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer">
+          <input type="checkbox" id="igbe-gd" style="width:16px;height:16px;accent-color:var(--accent)">
+          Game Designer
+        </label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer">
+          <input type="checkbox" id="igbe-qa" style="width:16px;height:16px;accent-color:var(--accent)">
+          QA Tester
+        </label>
+      </div>
+    </div>
+
+    <!-- Platforms -->
+    <div style="margin-bottom:14px">
+      <div style="font-size:13px;font-weight:600;color:var(--muted);margin-bottom:8px">Target Platforms</div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:8px">
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer"><input type="checkbox" id="igbe-pc" checked style="width:16px;height:16px;accent-color:var(--accent)"> PC (Steam)</label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer"><input type="checkbox" id="igbe-mac" style="width:16px;height:16px;accent-color:var(--accent)"> Mac</label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer"><input type="checkbox" id="igbe-linux" style="width:16px;height:16px;accent-color:var(--accent)"> Linux</label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer"><input type="checkbox" id="igbe-ios" style="width:16px;height:16px;accent-color:var(--accent)"> iOS</label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer"><input type="checkbox" id="igbe-android" style="width:16px;height:16px;accent-color:var(--accent)"> Android</label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer"><input type="checkbox" id="igbe-switch" style="width:16px;height:16px;accent-color:var(--accent)"> Nintendo Switch</label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer"><input type="checkbox" id="igbe-ps" style="width:16px;height:16px;accent-color:var(--accent)"> PlayStation</label>
+        <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer"><input type="checkbox" id="igbe-xbox" style="width:16px;height:16px;accent-color:var(--accent)"> Xbox</label>
+      </div>
+    </div>
+
+    <!-- Marketing -->
+    <div style="margin-bottom:20px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Marketing Budget Philosophy
+        <select id="igbe-mkt" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="minimal">Minimal ($500–2k flat)</option>
+          <option value="standard" selected>Standard (10–15% of dev budget)</option>
+          <option value="aggressive">Aggressive (20–30% of dev budget)</option>
+        </select>
+      </label>
+    </div>
+
+    <button id="igbe-btn" style="width:100%;padding:14px;background:var(--accent);color:#fff;border:none;border-radius:10px;font-size:1rem;font-weight:700;cursor:pointer;font-family:inherit;letter-spacing:.01em">Calculate Budget</button>
+
+    <div id="igbe-results" style="display:none;margin-top:20px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Dev Cost</span>
+          <span id="igbe-r-dev" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Platform & Cert</span>
+          <span id="igbe-r-plat" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Tools & Software</span>
+          <span id="igbe-r-tools" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Music / SFX</span>
+          <span id="igbe-r-audio" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Marketing</span>
+          <span id="igbe-r-mkt" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+        </div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Contingency (20%)</span>
+          <span id="igbe-r-cont" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+        </div>
+      </div>
+      <div style="margin-top:14px;background:var(--surface2);border-radius:12px;padding:16px 20px;text-align:center;border:2px solid var(--accent)">
+        <span style="display:block;font-size:12px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)">Total Budget</span>
+        <span id="igbe-r-total" style="display:block;font-size:2.2rem;font-weight:800;color:var(--accent);line-height:1.1;margin:4px 0">—</span>
+      </div>
+
+      <div id="igbe-equity-note" style="display:none;margin-top:14px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem"></div>
+
+      <div style="margin-top:14px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem">
+        <strong>Most indie games take 2–3x longer than estimated.</strong> The 20% contingency here is a minimum — experienced devs often pad 50–100%.
+      </div>
+
+      <div id="igbe-breakeven" style="margin-top:14px;padding:14px 18px;border-radius:12px;background:var(--surface2);font-size:.95rem;font-weight:600"></div>
+
+      <p style="margin:16px 0 0;font-size:12px;color:var(--stone)">This estimate does not include your own time value if working for equity, living expenses, or ongoing post-launch support costs.</p>
+    </div>
+  </div>
+</div>
+
+<style>
+#igbe-btn:hover{opacity:.9}
+#igbe-scope:focus,#igbe-employ:focus,#igbe-rate:focus,#igbe-mkt:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)}
+</style>
+
+<script>
+(function(){
+  var scopeHrs={jam:300,small:2000,mid:10000,large:40000};
+  var mktPct={minimal:0,standard:.125,aggressive:.25};
+  var mktFlat={minimal:1250};
+
+  function fmt(n){return'$'+Math.round(n).toLocaleString();}
+
+  document.getElementById('igbe-employ').addEventListener('change',function(){
+    document.getElementById('igbe-rate-row').style.display=this.value==='equity'?'none':'block';
+  });
+
+  document.getElementById('igbe-btn').addEventListener('click',function(){
+    var scope=document.getElementById('igbe-scope').value;
+    var employ=document.getElementById('igbe-employ').value;
+    var rate=parseFloat(document.getElementById('igbe-rate').value)||75;
+    var mkt=document.getElementById('igbe-mkt').value;
+
+    // team headcount
+    var members=0;
+    if(document.getElementById('igbe-prog').checked) members+=parseInt(document.getElementById('igbe-prog-n').value)||1;
+    if(document.getElementById('igbe-art').checked) members+=parseInt(document.getElementById('igbe-art-n').value)||1;
+    if(document.getElementById('igbe-audio').checked) members+=1;
+    if(document.getElementById('igbe-gd').checked) members+=1;
+    if(document.getElementById('igbe-qa').checked) members+=1;
+    if(members<1) members=1;
+
+    var baseHrs=scopeHrs[scope];
+    var totalHrs=baseHrs*members;
+
+    // dev cost
+    var devCost=employ==='equity'?0:totalHrs*rate;
+    var opCost=employ==='equity'?totalHrs*75:0; // opportunity cost at $75/hr
+
+    // platform fees
+    var platCost=0;
+    if(document.getElementById('igbe-pc').checked) platCost+=100;
+    if(document.getElementById('igbe-ios').checked) platCost+=99+25;
+    if(document.getElementById('igbe-android').checked) platCost+=25+(document.getElementById('igbe-ios').checked?0:99);
+    if(document.getElementById('igbe-switch').checked) platCost+=500;
+    if(document.getElementById('igbe-ps').checked) platCost+=5000;
+    if(document.getElementById('igbe-xbox').checked) platCost+=5000;
+
+    // tools
+    var toolsCost=350*members; // midpoint $200-500
+
+    // audio
+    var audioCost=document.getElementById('igbe-audio').checked?0:4000;
+
+    // marketing
+    var mktCost;
+    if(mkt==='minimal'){mktCost=1250;}
+    else if(mkt==='standard'){mktCost=(devCost||opCost)*0.125;}
+    else{mktCost=(devCost||opCost)*0.25;}
+
+    var subtotal=devCost+platCost+toolsCost+audioCost+mktCost;
+    var contingency=subtotal*0.20;
+    var total=subtotal+contingency;
+
+    document.getElementById('igbe-r-dev').textContent=fmt(devCost);
+    document.getElementById('igbe-r-plat').textContent=fmt(platCost);
+    document.getElementById('igbe-r-tools').textContent=fmt(toolsCost);
+    document.getElementById('igbe-r-audio').textContent=fmt(audioCost);
+    document.getElementById('igbe-r-mkt').textContent=fmt(mktCost);
+    document.getElementById('igbe-r-cont').textContent=fmt(contingency);
+    document.getElementById('igbe-r-total').textContent=fmt(total);
+
+    var eqNote=document.getElementById('igbe-equity-note');
+    if(employ==='equity'&&opCost>0){
+      eqNote.style.display='block';
+      eqNote.innerHTML='<strong>Equity mode:</strong> $0 salary shown, but opportunity cost is approximately <strong>'+fmt(opCost)+'</strong> if the team were paid market rate ($75/hr).';
+    } else {eqNote.style.display='none';}
+
+    // break-even
+    if(total>0){
+      var units=Math.ceil(total/(14.99*0.70*0.92));
+      document.getElementById('igbe-breakeven').textContent='Break-even units needed at $14.99 (after Steam 30% cut + ~8% refunds): '+units.toLocaleString()+' units sold.';
+    }
+
+    document.getElementById('igbe-results').style.display='block';
+  });
+})();
+</script>
