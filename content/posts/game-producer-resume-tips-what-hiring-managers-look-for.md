@@ -27,6 +27,16 @@ author_title: "Senior Contributing Writer"
 
 You sent your resume to six studios last month. Nothing. Not even an automated rejection. You tweaked your formatting, swapped in some keywords, sent it to six more. Still silence. Here's what's probably happening: your resume isn't failing because of typos or font choices. It's failing because it looks like every other producer resume in the pile, and hiring managers at studios are spending about 15 seconds on each one before moving on. I've reviewed hundreds of these on both sides of the table, and the gap between the resumes that get calls and the ones that disappear is almost always the same thing: specificity.
 
+
+<div class="value-module">
+  <div class="vm-head">Resume Line Strength Assessment Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this checklist to evaluate each bullet point on your resume before submitting—weak lines should be rewritten or cut.</p>
+    <table><thead><tr><th>Criterion</th><th>Passing Threshold</th><th>Fail Example</th><th>Pass Example</th></tr></thead><tbody><tr><td>Contains a specific number</td><td>At least 1 quantifiable metric (team size, budget, timeline, users)</td><td>"Managed project schedules and deliverables"</td><td>"Managed sprint planning for 12-person team across 6-month dev cycle"</td></tr><tr><td>Names a concrete outcome</td><td>States what shipped, launched, or resolved</td><td>"Supported live operations efforts"</td><td>"Reduced critical bug backlog by 40% before soft launch"</td></tr><tr><td>Specifies your role vs. team's role</td><td>Uses "I led/owned/drove" not "team achieved"</td><td>"Team successfully launched new feature"</td><td>"Owned feature rollout from greenlight through certification"</td></tr><tr><td>Includes a constraint or challenge</td><td>Mentions deadline, budget limit, pivot, or dependency</td><td>"Coordinated with multiple departments"</td><td>"Shipped 2 weeks early despite losing lead engineer mid-milestone"</td></tr><tr><td>Platform/scale context</td><td>Names platform, user count, or project scope</td><td>"Worked on mobile games"</td><td>"Shipped F2P title on iOS/Android with 500K DAU at peak"</td></tr><tr><td>Avoids producer buzzwords</td><td>No "synergy," "cross-functional," "stakeholder alignment" without specifics</td><td>"Drove cross-functional alignment across stakeholders"</td><td>"Ran weekly leads syncs that cut blocker resolution time from 5 days to 2"</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Hiring Managers Are Actually Looking For
 
 Let me be direct about this. Producers are hired to reduce chaos and ship things. That's the job. So the first thing a hiring manager is looking for is evidence that you have actually done that, in real conditions, on a real project.

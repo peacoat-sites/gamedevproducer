@@ -29,6 +29,16 @@ Fourteen years in, and I still watch teams make the same call for the wrong reas
 
 Let me tell you what actually happens.
 
+
+<div class="value-module">
+  <div class="vm-head">Method Fit by Project Phase</div>
+  <div class="vm-body">
+    <p class="vm-intro">This matrix maps which approach typically works better for each development phase, based on the actual decision factors that matter.</p>
+    <table><thead><tr><th>Development Phase</th><th>Waterfall Fit</th><th>Agile Fit</th><th>Key Decision Factor</th></tr></thead><tbody><tr><td>Concept/Pitch</td><td>Low</td><td>High</td><td>Vision is fluid; rapid prototyping reveals what's fun</td></tr><tr><td>Pre-production</td><td>Medium</td><td>High</td><td>Core mechanics need iteration cycles to validate feel</td></tr><tr><td>Vertical Slice</td><td>Medium</td><td>High</td><td>Scope is narrow but quality bar is high; needs feedback loops</td></tr><tr><td>Full Production (Art Pipeline)</td><td>High</td><td>Low</td><td>Asset specs are locked; predictable throughput matters</td></tr><tr><td>Full Production (Gameplay Systems)</td><td>Low</td><td>High</td><td>Balance and feel require constant playtesting and pivots</td></tr><tr><td>Full Production (Engine/Tools)</td><td>Medium</td><td>Medium</td><td>Dependencies are rigid, but requirements shift as content evolves</td></tr><tr><td>Alpha (Feature Complete)</td><td>High</td><td>Medium</td><td>Scope must freeze; change management becomes critical</td></tr><tr><td>Beta (Content Complete)</td><td>High</td><td>Low</td><td>Bug triage is linear; predictable burndown is essential</td></tr><tr><td>Certification/Submission</td><td>High</td><td>Low</td><td>Platform requirements are fixed checklists with zero flexibility</td></tr><tr><td>Live Ops/Post-Launch</td><td>Low</td><td>High</td><td>Player data drives rapid iteration; roadmap stays flexible</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What These Methods Look Like When the Rubber Meets the Road
 
 On paper, waterfall is sequential: design everything, then build everything, then test everything, then ship. Agile (in its various flavors: Scrum, Kanban, SAFe, or whatever hybrid your studio cobbled together) means working in short cycles, constantly reassessing, and treating the design document as a living thing rather than a contract.

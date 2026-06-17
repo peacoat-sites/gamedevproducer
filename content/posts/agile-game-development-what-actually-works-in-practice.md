@@ -31,6 +31,16 @@ Agile methodologies promise flexibility, faster iteration, and better team moral
 
 What actually works in practice is pragmatic agile: taking the useful principles from agile methodologies and bending them to fit how games are actually made. That means respecting the reality that you can't fully predict creative output, that art and code have different workflows, and that publisher milestones don't disappear just because you're doing two-week sprints.
 
+
+<div class="value-module">
+  <div class="vm-head">Agile Practice Fit Matrix by Discipline</div>
+  <div class="vm-body">
+    <p class="vm-intro">Different game development disciplines have fundamentally different workflow characteristics—this matrix shows which agile practices actually align with each team's reality.</p>
+    <table><thead><tr><th>Agile Practice</th><th>Engineering</th><th>Art/Animation</th><th>Design</th><th>QA</th><th>Audio</th></tr></thead><tbody><tr><td><strong>2-week fixed sprints</strong></td><td>Good fit</td><td>Poor fit—iteration cycles rarely align</td><td>Moderate—depends on prototype scope</td><td>Good fit</td><td>Poor fit—asset delivery is bursty</td></tr><tr><td><strong>Story point estimation</strong></td><td>Useful after 3-4 sprints calibration</td><td>Unreliable—creative discovery skews estimates</td><td>Moderate—prototypes are estimable, tuning is not</td><td>Useful for regression, not exploratory</td><td>Unreliable—implementation complexity varies wildly</td></tr><tr><td><strong>Daily standups</strong></td><td>Valuable for dependency tracking</td><td>Often wasteful—async updates work better</td><td>Valuable during active prototyping</td><td>Essential during crunch, optional otherwise</td><td>Weekly sync usually sufficient</td></tr><tr><td><strong>Definition of Done</strong></td><td>Clear criteria possible</td><td>Subjective—requires art director sign-off gate</td><td>Requires playtest validation, not just completion</td><td>Clear criteria possible</td><td>Requires mix-in-context validation</td></tr><tr><td><strong>Kanban continuous flow</strong></td><td>Good for live ops, weaker for features</td><td>Strong fit—matches actual workflow</td><td>Good for iteration phase</td><td>Strong fit</td><td>Strong fit</td></tr><tr><td><strong>Sprint retrospectives</strong></td><td>High value</td><td>High value</td><td>High value</td><td>High value</td><td>Moderate—smaller team, less process debt</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## How Traditional Agile Breaks in Game Development
 
 Standard Scrum assumes that tasks are divisible into roughly equal chunks of effort, that velocity becomes predictable after a few sprints, and that a feature is done when it's done. None of these assumptions hold well in game production.

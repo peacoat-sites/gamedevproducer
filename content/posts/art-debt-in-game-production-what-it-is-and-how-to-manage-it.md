@@ -27,6 +27,16 @@ author_title: "Senior Contributing Writer"
 
 You ship Alpha, the milestone review goes well, and leadership is happy. Then someone on your art team quietly mentions that half the environment assets are placeholder geometry with temporary textures slapped on top. The character rigs are messy because they were built fast during pre-production. The UI icons are inconsistent because three different artists made them during a crunch sprint six months ago. Nobody wrote it down. Nobody triaged it. It just... accumulated. That's art debt, and if you've never dealt with it deliberately, you've probably already lost weeks to it without knowing.
 
+
+<div class="value-module">
+  <div class="vm-head">Art Debt Triage Matrix by Severity</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to categorize and prioritize accumulated art debt items based on their visibility and technical impact.</p>
+    <table><thead><tr><th>Severity Tier</th><th>Visibility</th><th>Technical Impact</th><th>Examples</th><th>Action Threshold</th></tr></thead><tbody><tr><td>Critical (Fix before Alpha)</td><td>Player-facing, hero assets</td><td>Blocks builds, breaks certification, causes crashes</td><td>Non-compliant shaders on main character; missing LOD0 on hero props; texture streaming failures</td><td>Immediately add to sprint; blocks other dependent work</td></tr><tr><td>High (Fix before Beta)</td><td>Frequently seen in gameplay</td><td>Performance degradation, batching issues, visual inconsistency</td><td>Inconsistent texture atlases causing draw call spikes; placeholder environment geo in main paths; broken vertex colors on foliage</td><td>Schedule within 2 sprints; assign owner</td></tr><tr><td>Medium (Fix before Content Lock)</td><td>Occasionally visible, secondary areas</td><td>Minor perf cost, workflow friction</td><td>Incomplete LOD chains on mid-tier assets; UI icons not matching style guide; animation polish passes deferred</td><td>Add to backlog with estimates; review at milestone</td></tr><tr><td>Low (Fix if time permits)</td><td>Rarely seen, debug/edge cases</td><td>Negligible runtime cost</td><td>Wrong pivot points on non-hero props; inconsistent naming conventions; redundant texture variants</td><td>Document only; address during polish phase or post-launch</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Art Debt Actually Is
 
 Technical debt gets talked about constantly in game development circles. Art debt almost never does. That's a problem, because art debt can derail a project just as badly as spaghetti code.

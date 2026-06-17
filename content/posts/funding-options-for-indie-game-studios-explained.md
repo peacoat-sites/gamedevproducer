@@ -31,6 +31,16 @@ Here's what I tell people who ask me about funding: there's no single right answ
 
 So let's go through the real options -- not the fantasy versions, the actual ones.
 
+
+<div class="value-module">
+  <div class="vm-head">Funding Options Comparison by Studio Profile</div>
+  <div class="vm-body">
+    <p class="vm-intro">Each funding source has distinct trade-offs in control, timeline, and realistic capital access—here's how they map to common indie studio situations.</p>
+    <table><thead><tr><th>Funding Source</th><th>Realistic Capital Range</th><th>Typical Timeline to Funds</th><th>Equity/Revenue Given Up</th><th>Best Fit Studio Profile</th><th>Key Threshold to Qualify</th></tr></thead><tbody><tr><td>Bootstrapping</td><td>$50K–$150K</td><td>Immediate (existing savings)</td><td>0%</td><td>Solo devs or pairs with day jobs; games scoped for 12–18 months</td><td>6+ months personal runway before starting</td></tr><tr><td>Crowdfunding (Kickstarter/etc.)</td><td>$20K–$300K</td><td>3–6 months (prep + campaign)</td><td>0% equity; platform takes 8–12%</td><td>Teams with existing audience (2K+ wishlists or social following); visually demo-able concepts</td><td>Playable vertical slice or polished trailer</td></tr><tr><td>Publisher Deal</td><td>$100K–$2M+</td><td>3–9 months negotiation</td><td>15–50% revenue share typical; sometimes recoup-first</td><td>Studios with proven prototype; games needing marketing muscle or platform connections</td><td>Working build + clear market comp + 18+ month runway ask</td></tr><tr><td>Government/Arts Grants</td><td>$10K–$500K</td><td>4–12 months (application cycles)</td><td>0%</td><td>Studios in grant-friendly regions (Canada, UK, Nordic, Germany); culturally distinctive projects</td><td>Incorporated entity; often requires matched funding or prior release</td></tr><tr><td>Angel/VC Investment</td><td>$250K–$5M+</td><td>2–6 months due diligence</td><td>10–40% equity typical</td><td>Studios building platform/IP with multi-game ambitions; teams with industry track record</td><td>Prior shipped title or founding team with notable credits</td></tr><tr><td>Revenue-Based Financing</td><td>$50K–$500K</td><td>2–8 weeks</td><td>0% equity; 1.3–2× repayment from revenue</td><td>Studios with existing revenue stream (Early Access sales, prior title royalties)</td><td>Demonstrable $5K+/month recurring revenue</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Bootstrapping (And Why Most People Do It Longer Than They Should)
 
 Almost every indie studio starts here. You use savings, keep a day job, maybe cut your living expenses down to the bone. This is the most common funding model in indie games, and it's also the one that quietly destroys the most projects.

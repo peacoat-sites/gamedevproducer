@@ -29,6 +29,16 @@ You've been promoted to Associate Producer. Your first week, someone asks you to
 
 The producer track is unlike most career paths in tech. There's no single "producer engineering ladder" that everyone follows. You could spend four years as an Associate, get promoted based on shipping a game, then plateau for years. Or you could accelerate through mentorship and deliberate skill-building. The difference between stalling out and advancing often comes down to understanding the unwritten rules of the role and making strategic choices about what you learn next.
 
+
+<div class="value-module">
+  <div class="vm-head">Producer Level Progression Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these concrete milestones to gauge readiness for each promotion conversation—most studios expect 70-80% of criteria met before advancing.</p>
+    <table><thead><tr><th>Level</th><th>Typical Tenure</th><th>Scope Ownership</th><th>Key Milestone Thresholds</th><th>Promotion Blockers to Avoid</th></tr></thead><tbody><tr><td>Associate Producer</td><td>1.5–3 years</td><td>Single feature or process (builds, localization, one discipline's schedule)</td><td>Shipped 1+ title in any production role; can identify critical path without help; 90%+ accuracy on 2-week schedule forecasts</td><td>Overstepping into cross-team decisions; poor estimation calibration; avoiding technical conversations</td></tr><tr><td>Producer</td><td>3–5 years</td><td>Full feature team or single platform SKU (15–40 people)</td><td>Owned a feature through alpha-to-ship; managed 1+ external partner or vendor; resolved a team-blocking crisis independently</td><td>Becoming a "schedule cop" instead of enabler; weak stakeholder communication; no mentorship of juniors</td></tr><tr><td>Senior Producer</td><td>4–7 years</td><td>Multiple feature teams or full project (40–100 people)</td><td>Shipped 2+ titles as lead producer; built or rebuilt a production process adopted studio-wide; managed $2M+ budget segment</td><td>Micromanaging producers under you; avoiding exec-level visibility; no cross-project influence</td></tr><tr><td>Executive Producer</td><td>7–12+ years</td><td>Full game or portfolio (100+ people, multi-year roadmap)</td><td>P&amp;L ownership or direct budget accountability; shipped a title with Metacritic/sales accountability; built and retained a producer team through full dev cycle</td><td>Losing touch with production realities; poor franchise/business instincts; inability to represent project externally</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## The Associate Producer Year: Building the Foundation
 
 Your first 18 months matter more than you think. This is when you figure out if production is actually for you.

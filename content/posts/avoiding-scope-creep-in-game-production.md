@@ -29,6 +29,16 @@ Scope creep killed the last game I worked on at a AAA studio. Not the whole proj
 
 That's the nature of scope creep. It doesn't announce itself.
 
+
+<div class="value-module">
+  <div class="vm-head">Feature Request Triage Decision Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to evaluate new feature requests during production—score each criterion, then follow the action threshold.</p>
+    <table><thead><tr><th>Criterion</th><th>Score 1 (Red Flag)</th><th>Score 3 (Caution)</th><th>Score 5 (Green Light)</th></tr></thead><tbody><tr><td>Dependency Clarity</td><td>Unknown systems affected; needs investigation</td><td>2-3 known dependencies; some unknowns</td><td>All dependencies mapped; isolated system</td></tr><tr><td>Estimation Confidence</td><td>Estimate from non-implementer or pre-prototype</td><td>Implementer estimate without spike/prototype</td><td>Estimate backed by completed spike or similar past work</td></tr><tr><td>Removal Cost (if cut later)</td><td>Touches 3+ systems; would require significant rollback</td><td>Moderate integration; 1-2 week rollback</td><td>Self-contained; clean removal possible</td></tr><tr><td>Core Loop Impact</td><td>Nice-to-have; no playtest data supporting need</td><td>Addresses known friction; alternatives exist</td><td>Directly fixes validated player-facing problem</td></tr><tr><td>Schedule Buffer Consumed</td><td>Would use &gt;50% of remaining contingency</td><td>Would use 20-50% of contingency</td><td>Fits within &lt;20% of contingency</td></tr></tbody><tfoot><tr><td colspan="4"><strong>Action Thresholds:</strong> 20-25 pts = Approve · 13-19 pts = Require prototype + re-score · 5-12 pts = Defer to post-launch or reject</td></tr></tfoot></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Why "We'll Just Add One More Thing" Is the Most Dangerous Sentence in Game Dev
 
 Every feature that sinks a game's schedule started as a good idea. I want to be clear about that, because a lot of scope creep advice treats it like the team was being stupid or undisciplined. Usually they weren't. The problem is that good ideas don't arrive with price tags attached. Someone pitches a dynamic weather system, the room gets excited, and nobody stops to work out that "dynamic weather" means three more months of QA, a shader rewrite, and about forty edge cases that will interact badly with your existing AI pathfinding.

@@ -27,6 +27,16 @@ author_title: "Senior Contributing Writer"
 
 Most game projects don't die because the team ran out of talent. They die because nobody noticed that the combat system needed finalized player stats, which needed a locked design doc, which needed sign-off from a creative director who was waiting on competitive research that nobody had assigned. One blocked task becomes five blocked tasks becomes a sprint where half the team is spinning wheels. I've watched this happen on a 40-person project where the producer had a perfectly color-coded Gantt chart. The schedule looked great. The dependencies were invisible. That's the problem this article is about.
 
+
+<div class="value-module">
+  <div class="vm-head">Dependency Type Decision Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to correctly classify dependencies and identify the scheduling flexibility each type actually permits.</p>
+    <table><thead><tr><th>Dependency Type</th><th>Rule</th><th>Game Dev Example</th><th>Scheduling Flexibility</th><th>Common Misclassification</th></tr></thead><tbody><tr><td>Finish-to-Start (FS)</td><td>B cannot start until A completes</td><td>Character rigging → animation production</td><td>None without crashing quality; hard blocker</td><td>Often assumed when Start-to-Start would work</td></tr><tr><td>Start-to-Start (SS)</td><td>B cannot start until A starts</td><td>Level design doc drafting → greybox blockout</td><td>High; parallel work possible with communication overhead</td><td>Treated as FS, killing parallel runway</td></tr><tr><td>Finish-to-Finish (FF)</td><td>B cannot finish until A finishes</td><td>Audio mix → final cinematic render</td><td>Moderate; work proceeds but completion syncs</td><td>Ignored entirely; causes late-stage bottlenecks</td></tr><tr><td>Human/Approval</td><td>B blocked pending decision or sign-off</td><td>Creative director approval → asset production</td><td>Variable; depends on availability and decision clarity</td><td>Not tracked at all; treated as implicit</td></tr><tr><td>Knowledge/Training</td><td>B blocked until person gains capability</td><td>Engine training → shader implementation</td><td>Predictable if scheduled; catastrophic if discovered late</td><td>Assumed complete; actual readiness never verified</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What Dependency Mapping Actually Is (And Isn't)
 
 A lot of producers treat dependency mapping like a checkbox. You draw arrows between tasks in your project management tool, call it done, move on. That's not mapping. That's decoration.

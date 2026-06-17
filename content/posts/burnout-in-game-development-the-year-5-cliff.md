@@ -27,6 +27,16 @@ author_title: "Contributing Writer"
 
 You're three months into your fifth year at the same studio. Your skills are sharper than ever, your title finally reflects your contributions, and from the outside everything looks like a success story. But you wake up on Monday morning and feel absolutely nothing. Not dread, not excitement. Just a hollow flatness where motivation used to live. If that sounds familiar, you're not alone, and there's actually a name for what's happening.
 
+
+<div class="value-module">
+  <div class="vm-head">Burnout Warning Signs by Career Stage</div>
+  <div class="vm-body">
+    <p class="vm-intro">This matrix helps you distinguish normal fatigue from the cumulative burnout pattern that characterizes the Year 5 Cliff.</p>
+    <table><thead><tr><th>Indicator</th><th>Years 1–2 (Normal Adjustment)</th><th>Years 3–4 (Early Warning)</th><th>Years 5–6 (Cliff Zone)</th></tr></thead><tbody><tr><td>Monday morning feeling</td><td>Nervous excitement or mild anxiety about tasks</td><td>Reluctance that lifts once you start working</td><td>Emotional flatness; neither dread nor interest</td></tr><tr><td>Relationship to craft</td><td>Eager to learn; mistakes feel frustrating but motivating</td><td>Competent but occasionally bored by familiar problems</td><td>Skills feel hollow; mastery brings no satisfaction</td></tr><tr><td>Recovery after crunch</td><td>2–4 weeks to feel recharged</td><td>6–10 weeks; energy never fully returns to baseline</td><td>No identifiable recovery point between cycles</td></tr><tr><td>Identity connection</td><td>Strong pride in shipped work; defines self through projects</td><td>Selective pride; some projects feel meaningful, others transactional</td><td>Difficulty remembering why the work ever mattered</td></tr><tr><td>Physical symptoms</td><td>Occasional tension headaches or sleep disruption near milestones</td><td>Persistent low-grade fatigue; weekend sleep doesn't restore</td><td>Chronic symptoms (insomnia, headaches, muscle tension) unlinked to specific deadlines</td></tr><tr><td>Response to good news</td><td>Genuine excitement at positive reviews or team wins</td><td>Brief satisfaction that fades within hours</td><td>Intellectual acknowledgment without emotional response</td></tr><tr><td>Suggested action</td><td>Build sustainable habits early; set boundary precedents</td><td>Take accumulated PTO; evaluate whether role still fits growth goals</td><td>Consult a mental-health professional; seriously assess role or studio change</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## What the Year 5 Cliff Actually Is
 
 The "Year 5 Cliff" isn't an official clinical term, but it's a pattern that's well-documented in game development circles and increasingly recognized by occupational psychologists studying creative industries. It describes a specific kind of burnout that doesn't arrive after a single brutal crunch. It builds slowly, over years, and then hits all at once around the four-to-six-year mark at a single studio or in a particular role.

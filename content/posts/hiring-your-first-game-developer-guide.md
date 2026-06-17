@@ -27,6 +27,16 @@ author_title: "Contributing Writer"
 
 Most first-time game studio founders hire wrong. Not because they don't care, but because they hire the person they *like talking to* rather than the person who can actually ship the thing they're trying to build. I watched three separate indie studios collapse in 2021 and 2022 partly because of that exact mistake, two of them people I'd worked alongside. Liking someone is not a hiring criterion. Let's get into what actually is.
 
+
+<div class="value-module">
+  <div class="vm-head">First Hire Decision Matrix by Project Type</div>
+  <div class="vm-body">
+    <p class="vm-intro">Match your game's primary technical bottleneck to the right first hire—wrong role selection is the most common indie studio hiring mistake.</p>
+    <table><thead><tr><th>Your Current Blocker</th><th>Hire This Role First</th><th>Key Portfolio Evidence</th><th>Typical Hourly Range (USD, Contractor)</th><th>Red Flag to Watch</th></tr></thead><tbody><tr><td>Prototype code is fragile/unscalable</td><td>Generalist Programmer (mid-level)</td><td>Refactored or maintained someone else's codebase; shipped at least one complete project</td><td>$35–65</td><td>Only shows game jam projects with no post-jam polish</td></tr><tr><td>Art placeholder blocking funding pitches</td><td>2D Artist or 3D Generalist</td><td>Consistent style across 10+ pieces; assets that shipped in a real game</td><td>$30–55</td><td>Beautiful concept art but no in-engine or export-ready work</td></tr><tr><td>No build pipeline for multi-platform release</td><td>Technical Artist or DevOps-savvy Programmer</td><td>CI/CD setup experience; has shipped to Steam + console or mobile</td><td>$50–80</td><td>Only worked on single-platform projects</td></tr><tr><td>Game feel is off (controls, juice, feedback)</td><td>Gameplay Programmer</td><td>Playable demos with tight controls; iteration history visible</td><td>$40–70</td><td>Talks about systems but can't show a 30-second feel-good loop</td></tr><tr><td>Narrative/dialogue system doesn't exist</td><td>Technical Writer or Narrative Designer with scripting skills</td><td>Ink, Yarn, or Twine projects; branching dialogue samples</td><td>$25–45</td><td>Writing samples only, no implementation or tool experience</td></tr><tr><td>No sound and you're 3 months from release</td><td>Audio Generalist (SFX + music)</td><td>Audio implemented in a shipped game, not just standalone tracks</td><td>$30–50</td><td>Sends a SoundCloud link but has never integrated with Wwise/FMOD/Unity</td></tr></tbody></table>
+    <p class="vm-note">General information for comparison — confirm specifics for your situation.</p>
+  </div>
+</div>
+
 ## Know What You're Buying Before You Shop
 
 Before you post a single job listing, you need brutal clarity on one question: what does your game require in the next six months, specifically?
