@@ -1,0 +1,33 @@
+{
+  "title": "Game Engine Comparison (2026)",
+  "search_placeholder": "Search engines, languages, use cases…",
+  "note": "Pricing and royalty terms current as of 2026 — always verify an engine's latest licensing before committing a commercial project.",
+  "filters": [
+    {"key": "opensource", "label": "Open source"},
+    {"key": "focus", "label": "Focus"},
+    {"key": "curve", "label": "Difficulty"}
+  ],
+  "columns": [
+    {"key": "name", "label": "Engine", "primary": true},
+    {"key": "langs", "label": "Language(s)"},
+    {"key": "focus", "label": "Focus"},
+    {"key": "bestfor", "label": "Best for", "wide": true},
+    {"key": "pricing", "label": "Pricing / royalty", "wide": true},
+    {"key": "curve", "label": "Difficulty"},
+    {"key": "opensource", "label": "Open source"}
+  ],
+  "rows": [
+    {"name": "Unity 6", "langs": "C#", "focus": "2D & 3D", "bestfor": "Mobile, indie 3D, cross-platform, AR/VR", "pricing": "Free under $200k revenue; Pro subscription above. No royalty (2023 runtime fee was reverted).", "curve": "Moderate", "opensource": "No"},
+    {"name": "Unreal Engine 5", "langs": "C++, Blueprints", "focus": "3D (AAA)", "bestfor": "High-fidelity 3D, AAA, archviz, virtual production", "pricing": "Free; 5% royalty after $1M lifetime gross per game", "curve": "Steep", "opensource": "Source-available"},
+    {"name": "Godot 4", "langs": "GDScript, C#, C++", "focus": "2D & 3D", "bestfor": "Indie 2D/3D, open-source fans, mobile", "pricing": "Free (MIT) — no royalties, ever", "curve": "Easy-Moderate", "opensource": "Yes"},
+    {"name": "GameMaker", "langs": "GML, visual", "focus": "2D", "bestfor": "2D indies, beginners, pixel-art games", "pricing": "Free; paid tier for console export", "curve": "Easy", "opensource": "No"},
+    {"name": "Construct 3", "langs": "No-code, JS", "focus": "2D", "bestfor": "No-code 2D, web games, fast prototyping", "pricing": "Subscription (~$99/yr)", "curve": "Very easy", "opensource": "No"},
+    {"name": "Defold", "langs": "Lua", "focus": "2D & light 3D", "bestfor": "Lightweight cross-platform 2D, mobile/web", "pricing": "Free, royalty-free", "curve": "Moderate", "opensource": "Source-available"},
+    {"name": "Bevy", "langs": "Rust", "focus": "2D & 3D", "bestfor": "Code-first devs, ECS architecture, custom tech", "pricing": "Free (MIT/Apache)", "curve": "Steep", "opensource": "Yes"},
+    {"name": "Cocos Creator", "langs": "TypeScript", "focus": "2D & 3D", "bestfor": "Mobile & web games, hyper-casual", "pricing": "Free, open-source", "curve": "Moderate", "opensource": "Yes"},
+    {"name": "RPG Maker", "langs": "JS plugins", "focus": "2D RPG", "bestfor": "Story-driven JRPGs, low-code", "pricing": "Paid (~$80 one-time)", "curve": "Very easy", "opensource": "No"},
+    {"name": "Ren'Py", "langs": "Python", "focus": "Visual novels", "bestfor": "Visual novels, narrative & dating sims", "pricing": "Free, open-source", "curve": "Easy", "opensource": "Yes"},
+    {"name": "Phaser", "langs": "JavaScript", "focus": "2D (web)", "bestfor": "HTML5/web games, browser & mobile web", "pricing": "Free (MIT)", "curve": "Moderate", "opensource": "Yes"},
+    {"name": "GDevelop", "langs": "No-code, JS", "focus": "2D", "bestfor": "No-code beginners, web/mobile 2D", "pricing": "Free; optional cloud-build subscription", "curve": "Very easy", "opensource": "Yes"}
+  ]
+}
