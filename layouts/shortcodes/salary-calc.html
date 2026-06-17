@@ -1,0 +1,119 @@
+<div style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Game Developer Salary Explorer</div>
+  <div style="padding:20px">
+    <p style="margin:0 0 16px;font-size:.88rem;color:var(--muted)">
+      Salary estimates based on 2024 industry surveys (GDC State of the Industry, Levels.fyi community data). Adjust for your location and experience.
+    </p>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Role
+        <select id="sal-role" oninput="salCalc()"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="programmer">Programmer</option>
+          <option value="designer">Game Designer</option>
+          <option value="artist">Artist</option>
+          <option value="audio">Audio Engineer</option>
+          <option value="producer">Producer</option>
+          <option value="qa">QA Engineer</option>
+          <option value="techartist">Technical Artist</option>
+          <option value="uxui">UX/UI Designer</option>
+          <option value="narrative">Narrative Designer</option>
+        </select>
+      </label>
+
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Experience
+        <select id="sal-exp" oninput="salCalc()"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="junior">Junior (0–2 yrs)</option>
+          <option value="mid">Mid-level (2–5 yrs)</option>
+          <option value="senior">Senior (5–10 yrs)</option>
+          <option value="lead">Lead / Principal (10+ yrs)</option>
+        </select>
+      </label>
+
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Company Size
+        <select id="sal-size" oninput="salCalc()"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="0.75">Indie (&lt;10 people)</option>
+          <option value="0.90">Small studio (10–50)</option>
+          <option value="1.00" selected>Mid-size (50–200)</option>
+          <option value="1.10">Large studio (200–1000)</option>
+          <option value="1.25">AAA Publisher (1000+)</option>
+        </select>
+      </label>
+
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Region
+        <select id="sal-region" oninput="salCalc()"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="1.00">USA Remote</option>
+          <option value="1.25">USA – Seattle / SF / LA</option>
+          <option value="1.10">USA – Austin / NYC</option>
+          <option value="0.95">USA – Other</option>
+          <option value="0.85">Canada</option>
+          <option value="0.82">UK</option>
+          <option value="0.80">EU (West)</option>
+          <option value="0.55">EU (East)</option>
+          <option value="0.88">Australia</option>
+        </select>
+      </label>
+    </div>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px">
+      <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Salary Range</span>
+        <span id="sal-range" style="display:block;font-size:1.3rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+      </div>
+      <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Midpoint</span>
+        <span id="sal-mid" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+      </div>
+      <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Total Comp (with bonus)</span>
+        <span id="sal-comp" style="display:block;font-size:1.3rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+      </div>
+    </div>
+
+    <div style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5">
+      <strong>Negotiation tip:</strong> Senior roles at large studios often have $20–40k variance — always negotiate.
+    </div>
+    <p style="margin:16px 0 0;font-size:12px;color:var(--stone)">Salaries vary significantly by studio culture, funding, and specific skills. Use Glassdoor, LinkedIn Salary, and GDC surveys to verify for your specific role.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+  var BASE={
+    programmer:{junior:[65000,80000],mid:[90000,115000],senior:[130000,160000],lead:[160000,220000]},
+    designer:  {junior:[55000,70000], mid:[75000,100000], senior:[100000,130000],lead:[130000,180000]},
+    artist:    {junior:[50000,65000], mid:[70000,90000],  senior:[90000,120000], lead:[120000,160000]},
+    audio:     {junior:[45000,60000], mid:[65000,85000],  senior:[85000,115000], lead:[115000,150000]},
+    producer:  {junior:[55000,70000], mid:[80000,100000], senior:[105000,140000],lead:[140000,190000]},
+    qa:        {junior:[40000,55000], mid:[55000,70000],  senior:[70000,95000],  lead:[90000,120000]},
+    techartist:{junior:[60000,75000], mid:[85000,110000], senior:[115000,150000],lead:[150000,200000]},
+    uxui:      {junior:[60000,75000], mid:[85000,105000], senior:[110000,145000],lead:[145000,195000]},
+    narrative: {junior:[50000,65000], mid:[70000,90000],  senior:[90000,120000], lead:[110000,150000]}
+  };
+  function fmtD(n){return '$'+(n/1000).toFixed(0)+'k';}
+  window.salCalc=function(){
+    var role=document.getElementById('sal-role').value;
+    var exp=document.getElementById('sal-exp').value;
+    var size=parseFloat(document.getElementById('sal-size').value)||1;
+    var region=parseFloat(document.getElementById('sal-region').value)||1;
+    var b=BASE[role][exp];
+    var lo=Math.round(b[0]*size*region/1000)*1000;
+    var hi=Math.round(b[1]*size*region/1000)*1000;
+    var mid=Math.round((lo+hi)/2/1000)*1000;
+    var bonusPct=(exp==='senior'||exp==='lead')?0.125:0.05;
+    var compLo=Math.round(lo*(1+bonusPct)/1000)*1000;
+    var compHi=Math.round(hi*(1+bonusPct+0.025)/1000)*1000;
+    document.getElementById('sal-range').textContent=fmtD(lo)+' – '+fmtD(hi);
+    document.getElementById('sal-mid').textContent='$'+(mid/1000).toFixed(0)+'k';
+    document.getElementById('sal-comp').textContent=fmtD(compLo)+' – '+fmtD(compHi);
+  };
+  salCalc();
+})();
+</script>

@@ -1,0 +1,128 @@
+<div id="ep-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Which Game Engine Is Right for You?</div>
+  <div style="padding:20px">
+    <p style="margin:0 0 20px;color:var(--muted);font-size:.95rem">Answer 7 questions to find your ideal engine based on your goals, experience, and project type.</p>
+
+    <div id="ep-questions"></div>
+
+    <button id="ep-btn" onclick="epCalc()" style="margin-top:20px;padding:13px 28px;background:var(--accent);color:#fff;border:none;border-radius:10px;font-size:1rem;font-weight:700;cursor:pointer;width:100%">Find My Engine</button>
+
+    <div id="ep-results" style="display:none;margin-top:24px"></div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var Q=[
+    {text:"What type of game are you making?",answers:[
+      {text:"2D game (platformer, RPG, puzzle)",scores:{godot:3,gamemaker:3,unity:2,unreal:0,construct:2,bevy:1}},
+      {text:"3D game (open world, FPS, adventure)",scores:{unity:3,unreal:3,godot:2,gamemaker:0,construct:0,bevy:2}},
+      {text:"Visual novel or narrative game",scores:{renpy:3,godot:2,unity:1,gamemaker:1,construct:1,bevy:0}},
+      {text:"Mobile or web browser game",scores:{unity:3,godot:2,construct:3,gamemaker:2,unreal:1,bevy:0}}
+    ]},
+    {text:"What is your programming experience?",answers:[
+      {text:"None — I want to avoid coding",scores:{construct:3,gdevelop:3,unity:0,unreal:0,godot:1,gamemaker:1}},
+      {text:"Beginner — comfortable with basics",scores:{godot:3,gamemaker:3,construct:2,unity:2,unreal:0,bevy:0}},
+      {text:"Intermediate — know one language well",scores:{unity:3,godot:3,gamemaker:2,unreal:2,bevy:1,construct:1}},
+      {text:"Advanced — comfortable with C++ or Rust",scores:{unreal:3,bevy:3,godot:2,unity:2,gamemaker:1,construct:0}}
+    ]},
+    {text:"What is your budget?",answers:[
+      {text:"Free only — no ongoing costs",scores:{godot:3,bevy:3,gdevelop:3,unity:1,gamemaker:1,construct:0}},
+      {text:"Low cost — up to $20/month or one-time fee",scores:{unity:2,gamemaker:3,construct:2,godot:3,unreal:2,bevy:3}},
+      {text:"Budget not a concern — I want the best tools",scores:{unreal:3,unity:3,gamemaker:2,godot:2,construct:2,bevy:1}}
+    ]},
+    {text:"How important is it to ship on consoles?",answers:[
+      {text:"Very important (Switch/PS/Xbox)",scores:{unity:3,unreal:3,godot:2,gamemaker:2,construct:1,bevy:0}},
+      {text:"PC first, consoles maybe later",scores:{godot:3,unity:3,unreal:2,gamemaker:2,construct:2,bevy:2}},
+      {text:"Web or mobile only",scores:{construct:3,unity:3,godot:2,gamemaker:2,unreal:1,bevy:1}}
+    ]},
+    {text:"What kind of visual fidelity are you targeting?",answers:[
+      {text:"Pixel art or simple 2D sprites",scores:{gamemaker:3,godot:3,construct:3,unity:2,unreal:0,bevy:1}},
+      {text:"3D — stylized or indie look",scores:{godot:3,unity:3,unreal:2,gamemaker:0,construct:0,bevy:2}},
+      {text:"Photorealistic AAA graphics",scores:{unreal:3,unity:2,godot:1,gamemaker:0,construct:0,bevy:1}}
+    ]},
+    {text:"How large is your team?",answers:[
+      {text:"Solo developer",scores:{godot:3,gamemaker:3,construct:3,unity:2,bevy:2,unreal:1}},
+      {text:"Small team (2–5 people)",scores:{unity:3,godot:3,unreal:2,gamemaker:2,construct:2,bevy:2}},
+      {text:"Studio team (6+ people)",scores:{unreal:3,unity:3,godot:2,gamemaker:1,construct:1,bevy:1}}
+    ]},
+    {text:"What matters most to you?",answers:[
+      {text:"Large community and learning resources",scores:{unity:3,unreal:3,godot:2,gamemaker:2,construct:1,bevy:1}},
+      {text:"Open source and no royalties ever",scores:{godot:3,bevy:3,unreal:1,unity:0,gamemaker:0,construct:0}},
+      {text:"Fast prototyping and easy iteration",scores:{construct:3,gamemaker:3,godot:2,unity:2,unreal:1,bevy:0}},
+      {text:"Industry-standard for job market",scores:{unity:3,unreal:3,godot:1,gamemaker:1,construct:0,bevy:0}}
+    ]}
+  ];
+  var ENGINES={
+    godot:{label:"Godot 4",desc:"Godot is free, open-source, and excellent for both 2D and 3D indie games. Its GDScript is beginner-friendly, and it has no royalties ever. The community is booming post-Unity-controversy.",url:"/game-engine-comparison/"},
+    unity:{label:"Unity",desc:"Unity has the largest asset store, the biggest community, and the broadest platform support including consoles and mobile. Best choice if you want job-market skills or a massive ecosystem.",url:"/game-engine-comparison/"},
+    unreal:{label:"Unreal Engine 5",desc:"If you're targeting photorealistic 3D, AAA-quality games, or want visual scripting with Blueprints, Unreal is the industry powerhouse. Steep learning curve but unmatched visual fidelity.",url:"/game-engine-comparison/"},
+    gamemaker:{label:"GameMaker",desc:"GameMaker is the gold standard for 2D indie games — Undertale, Hotline Miami, and Stardew Valley were built in it. Easy for beginners, powerful enough for pros.",url:"/game-engine-comparison/"},
+    construct:{label:"Construct 3",desc:"No programming required. Construct's visual event-based logic lets you build 2D games fast, with great web/mobile export. Perfect for beginners and game jam entries.",url:"/game-engine-comparison/"},
+    bevy:{label:"Bevy (Rust)",desc:"If you know Rust and want a code-first, ECS-based, fully open-source engine with zero royalties, Bevy is the cutting-edge choice. Not for beginners — but rewarding for experienced engineers.",url:"/game-engine-comparison/"},
+    renpy:{label:"Ren'Py",desc:"For visual novels and narrative games, Ren'Py is the industry standard. Python-based, free, and used by thousands of commercial and free games on Steam.",url:"/game-engine-comparison/"},
+    gdevelop:{label:"GDevelop",desc:"GDevelop is a free, no-code 2D engine ideal for absolute beginners. Great for simple mobile and web games with a visual event system.",url:"/game-engine-comparison/"}
+  };
+  var selected=new Array(Q.length).fill(null);
+
+  function render(){
+    var d=document.getElementById('ep-questions');
+    var html='';
+    Q.forEach(function(q,qi){
+      html+='<div style="margin-bottom:22px"><div style="font-weight:700;font-size:.98rem;margin-bottom:10px;color:var(--text)">'+(qi+1)+'. '+q.text+'</div>';
+      html+='<div style="display:flex;flex-direction:column;gap:8px">';
+      q.answers.forEach(function(a,ai){
+        var sel=selected[qi]===ai;
+        html+='<button onclick="epSelect('+qi+','+ai+')" style="text-align:left;padding:11px 15px;border:2px solid '+(sel?'var(--accent)':'var(--border-strong)')+';border-radius:10px;background:'+(sel?'color-mix(in srgb,var(--accent) 12%,#fff)':'var(--surface)')+';color:var(--text);cursor:pointer;font-size:.93rem;font-family:inherit;line-height:1.4">'+a.text+'</button>';
+      });
+      html+='</div></div>';
+    });
+    d.innerHTML=html;
+  }
+
+  window.epSelect=function(qi,ai){selected[qi]=ai;render();};
+
+  window.epCalc=function(){
+    var answered=selected.filter(function(v){return v!==null;}).length;
+    if(answered<Q.length){
+      alert('Please answer all '+Q.length+' questions before seeing your results.');return;
+    }
+    var totals={};
+    Q.forEach(function(q,qi){
+      var scores=q.answers[selected[qi]].scores;
+      Object.keys(scores).forEach(function(eng){
+        totals[eng]=(totals[eng]||0)+scores[eng];
+      });
+    });
+    var sorted=Object.keys(totals).sort(function(a,b){return totals[b]-totals[a];}).slice(0,3);
+    var html='<div style="font-weight:800;font-size:1.05rem;margin-bottom:14px">Your Top 3 Engine Matches</div>';
+    sorted.forEach(function(eng,rank){
+      var e=ENGINES[eng]||{label:eng,desc:'',url:'/game-engine-comparison/'};
+      var badge=rank===0?'Best Match':'#'+(rank+1)+' Pick';
+      var accent=rank===0;
+      html+='<div style="margin-bottom:14px;padding:16px 18px;border-radius:12px;border:2px solid '+(accent?'var(--accent)':'var(--border-strong)')+';background:'+(accent?'color-mix(in srgb,var(--accent) 8%,#fff)':'var(--surface2)')+'">'
+        +'<div style="display:flex;align-items:center;gap:10px;margin-bottom:8px">'
+        +'<span style="background:var(--accent);color:#fff;font-size:.75rem;font-weight:800;padding:3px 10px;border-radius:99px">'+badge+'</span>'
+        +'<strong style="font-size:1.1rem">'+e.label+'</strong>'
+        +'<span style="margin-left:auto;font-size:.85rem;color:var(--muted);font-weight:700">Score: '+totals[eng]+'</span>'
+        +'</div>'
+        +'<p style="margin:0 0 10px;font-size:.92rem;line-height:1.55;color:var(--text)">'+e.desc+'</p>'
+        +'<a href="'+e.url+'" style="font-size:.88rem;font-weight:700;color:var(--accent)">Compare all engines &rarr;</a>'
+        +'</div>';
+    });
+    html+='<button onclick="epReset()" style="margin-top:6px;padding:9px 20px;border:1.5px solid var(--border-strong);border-radius:8px;background:var(--surface);color:var(--muted);font-weight:600;cursor:pointer;font-size:.9rem">Retake Quiz</button>';
+    document.getElementById('ep-results').innerHTML=html;
+    document.getElementById('ep-results').style.display='block';
+    document.getElementById('ep-btn').style.display='none';
+  };
+
+  window.epReset=function(){
+    selected=new Array(Q.length).fill(null);
+    render();
+    document.getElementById('ep-results').style.display='none';
+    document.getElementById('ep-btn').style.display='block';
+  };
+
+  render();
+})();
+</script>

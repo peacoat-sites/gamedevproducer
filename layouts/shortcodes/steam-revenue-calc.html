@@ -1,0 +1,160 @@
+<div style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+  <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Steam Game Revenue Estimator</div>
+  <div style="padding:20px">
+    <p style="margin:0 0 16px;padding:12px 16px;background:color-mix(in srgb,var(--accent) 8%,#fff);border:1px solid color-mix(in srgb,var(--accent) 25%,transparent);border-radius:10px;font-size:.9rem;color:var(--muted)">
+      <strong>Estimates only.</strong> Actual results vary enormously. Uses the Boxleiter Method and community-sourced data — not official Steam figures.
+    </p>
+
+    <!-- Mode toggle -->
+    <div style="display:flex;gap:10px;margin-bottom:18px">
+      <button id="src-ccu" onclick="srcToggle('ccu')" style="flex:1;padding:10px;border:2px solid var(--accent);border-radius:10px;background:var(--accent);color:#fff;font-weight:700;cursor:pointer;font-size:.95rem">Peak CCU Mode</button>
+      <button id="src-wish" onclick="srcToggle('wish')" style="flex:1;padding:10px;border:2px solid var(--border-strong);border-radius:10px;background:var(--surface);color:var(--text);font-weight:700;cursor:pointer;font-size:.95rem">Wishlist Mode</button>
+    </div>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Game Price ($)
+        <input id="src-price" type="number" value="14.99" min="0.99" step="0.01"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s"
+          onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'"
+          onblur="this.style.borderColor='';this.style.boxShadow=''" oninput="srcCalc()">
+      </label>
+
+      <label id="lbl-ccu" style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Peak Concurrent Players (CCU)
+        <input id="src-ccu-val" type="number" value="500" min="1"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s"
+          onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'"
+          onblur="this.style.borderColor='';this.style.boxShadow=''" oninput="srcCalc()">
+      </label>
+
+      <label id="lbl-wish" style="display:none;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Wishlist Count at Launch
+        <input id="src-wish-val" type="number" value="10000" min="1"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s"
+          onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'"
+          onblur="this.style.borderColor='';this.style.boxShadow=''" oninput="srcCalc()">
+      </label>
+
+      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Genre
+        <select id="src-genre" oninput="srcCalc()"
+          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="1.0">Action / Shooter</option>
+          <option value="0.9">Platformer</option>
+          <option value="1.1">RPG</option>
+          <option value="1.0">Strategy</option>
+          <option value="0.75">Puzzle / Casual</option>
+          <option value="1.2">Simulation</option>
+          <option value="0.9">Horror</option>
+          <option value="0.6">Visual Novel</option>
+          <option value="1.0">Other</option>
+        </select>
+      </label>
+    </div>
+
+    <label style="display:flex;align-items:center;gap:10px;margin-top:16px;font-size:14px;font-weight:600;color:var(--text);cursor:pointer">
+      <input id="src-dlc" type="checkbox" onchange="srcCalc()" style="width:18px;height:18px;accent-color:var(--accent)">
+      Has DLC? <span style="font-weight:400;color:var(--muted)">(adds ~15% to revenue estimate)</span>
+    </label>
+
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px" id="src-results">
+      <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Est. Units Sold</span>
+        <span id="src-units" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+      </div>
+      <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Gross Revenue</span>
+        <span id="src-gross" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+      </div>
+      <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Dev Net (after Steam + refunds)</span>
+        <span id="src-net" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+      </div>
+      <div id="src-dlc-card" style="display:none;background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
+        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">With DLC Revenue</span>
+        <span id="src-dlc-val-out" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+      </div>
+    </div>
+
+    <!-- Scenarios table -->
+    <div style="margin-top:24px">
+      <div style="font-weight:700;font-size:.95rem;margin-bottom:10px">Revenue Scenarios (rough benchmarks)</div>
+      <div style="overflow-x:auto">
+        <table style="width:100%;border-collapse:collapse;font-size:.88rem">
+          <thead>
+            <tr style="background:var(--surface2)">
+              <th style="padding:9px 12px;text-align:left;border:1px solid var(--border);white-space:nowrap">Peak CCU</th>
+              <th style="padding:9px 12px;text-align:right;border:1px solid var(--border);white-space:nowrap">Owners est.</th>
+              <th style="padding:9px 12px;text-align:right;border:1px solid var(--border);white-space:nowrap">@ $9.99 net</th>
+              <th style="padding:9px 12px;text-align:right;border:1px solid var(--border);white-space:nowrap">@ $14.99 net</th>
+              <th style="padding:9px 12px;text-align:right;border:1px solid var(--border);white-space:nowrap">@ $24.99 net</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td style="padding:8px 12px;border:1px solid var(--border)">100</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">~30,000</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$209k</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$314k</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$523k</td></tr>
+            <tr style="background:var(--surface2)"><td style="padding:8px 12px;border:1px solid var(--border)">500</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">~150,000</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$1.05M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$1.57M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$2.6M</td></tr>
+            <tr><td style="padding:8px 12px;border:1px solid var(--border)">1,000</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">~300,000</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$2.1M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$3.1M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$5.2M</td></tr>
+            <tr style="background:var(--surface2)"><td style="padding:8px 12px;border:1px solid var(--border)">5,000</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">~1.5M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$10.5M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$15.7M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$26.2M</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p style="margin:10px 0 0;font-size:12px;color:var(--stone)">These are rough estimates. Use as order-of-magnitude benchmarks only.</p>
+    </div>
+
+    <div style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5">
+      <strong>Disclaimer:</strong> The Boxleiter Method is an unverified community heuristic. Valve does not publish sales data. These are order-of-magnitude estimates for planning, not predictions.
+    </div>
+  </div>
+</div>
+
+<script>
+(function(){
+  var mode='ccu';
+  window.srcToggle=function(m){
+    mode=m;
+    document.getElementById('lbl-ccu').style.display=m==='ccu'?'flex':'none';
+    document.getElementById('lbl-wish').style.display=m==='wish'?'flex':'none';
+    document.getElementById('src-ccu').style.background=m==='ccu'?'var(--accent)':'var(--surface)';
+    document.getElementById('src-ccu').style.color=m==='ccu'?'#fff':'var(--text)';
+    document.getElementById('src-ccu').style.borderColor=m==='ccu'?'var(--accent)':'var(--border-strong)';
+    document.getElementById('src-wish').style.background=m==='wish'?'var(--accent)':'var(--surface)';
+    document.getElementById('src-wish').style.color=m==='wish'?'#fff':'var(--text)';
+    document.getElementById('src-wish').style.borderColor=m==='wish'?'var(--accent)':'var(--border-strong)';
+    srcCalc();
+  };
+  function fmt(n){
+    if(n>=1e6) return '$'+(n/1e6).toFixed(2)+'M';
+    if(n>=1e3) return '$'+(n/1e3).toFixed(0)+'k';
+    return '$'+n.toFixed(0);
+  }
+  function fmtN(n){
+    if(n>=1e6) return (n/1e6).toFixed(2)+'M';
+    if(n>=1e3) return (n/1e3).toFixed(0)+'k';
+    return n.toFixed(0);
+  }
+  window.srcCalc=function(){
+    var price=parseFloat(document.getElementById('src-price').value)||0;
+    var genre=parseFloat(document.getElementById('src-genre').value)||1;
+    var dlc=document.getElementById('src-dlc').checked;
+    var owners=0;
+    if(mode==='ccu'){
+      var ccu=parseFloat(document.getElementById('src-ccu-val').value)||0;
+      owners=ccu*300*genre;
+    } else {
+      var wish=parseFloat(document.getElementById('src-wish-val').value)||0;
+      owners=wish*0.2;
+    }
+    owners=Math.round(owners);
+    var gross=owners*price;
+    var devNet=gross*0.70*0.92;
+    var devNetDlc=devNet*1.15;
+    document.getElementById('src-units').textContent=fmtN(owners);
+    document.getElementById('src-gross').textContent=fmt(gross);
+    document.getElementById('src-net').textContent=fmt(devNet);
+    document.getElementById('src-dlc-card').style.display=dlc?'block':'none';
+    document.getElementById('src-dlc-val-out').textContent=fmt(devNetDlc);
+  };
+  srcCalc();
+})();
+</script>
