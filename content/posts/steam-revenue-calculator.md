@@ -7,11 +7,11 @@ description: "Use our free Steam revenue estimator to project your indie game's 
 author: "Ryan Cole"
 ---
 
-Launching a game on Steam without a revenue projection is like shipping without a milestone plan. You might land somewhere interesting — or you might run out of runway before you get there. This Steam revenue calculator gives indie developers a data-backed starting point for financial planning, using the Boxleiter Method and community-sourced multipliers.
+Launching a game on Steam without a revenue projection is like shipping without a milestone plan. You might land somewhere interesting, or you might run out of runway before you get there. This Steam revenue calculator gives indie developers a data-backed starting point for financial planning, using the Boxleiter Method and community-sourced multipliers.
 
 ## What Is the Boxleiter Method?
 
-The Boxleiter Method is a community-derived heuristic, named after Simon Carless (formerly of Game Developer magazine), that estimates a game's total owners from its peak concurrent player count (CCU). The rough formula: **Owners ≈ Peak CCU × 200–400**, with 300 being the commonly used midpoint. It's not an official Valve formula — Valve doesn't publish sales data — but it has been corroborated repeatedly by developers who have shared their actual Steam numbers publicly.
+The Boxleiter Method is a community-derived heuristic, named after Simon Carless (formerly of Game Developer magazine), that estimates a game's total owners from its peak concurrent player count (CCU). The rough formula: **Owners ≈ Peak CCU × 200–400**, with 300 being the commonly used midpoint. It's not an official Valve formula, Valve doesn't publish sales data, but it has been corroborated repeatedly by developers who have shared their actual Steam numbers publicly.
 
 The method is most reliable for mid-tier indie games. It tends to overestimate for games with very low retention (players quit immediately, depressing CCU relative to owners) and underestimate for games with extremely high daily-active ratios.
 
@@ -23,11 +23,11 @@ Enter your game's price, your estimated peak CCU or wishlist count, and your gen
 
 ## Understanding the Steam Revenue Cut
 
-Steam takes **30%** of every sale for most developers. This drops to **25%** once lifetime revenue on that title crosses $10 million, and to **20%** above $50 million — but for the vast majority of indie games, the effective rate is 30%. After that, factor in a roughly **8% refund rate** (Valve's 2-hour playtime refund policy means impulse purchases get returned at a meaningful rate). The calculator applies both to arrive at a realistic developer net figure.
+Steam takes **30%** of every sale for most developers. This drops to **25%** once lifetime revenue on that title crosses $10 million, and to **20%** above $50 million, but for the vast majority of indie games, the effective rate is 30%. After that, factor in a roughly **8% refund rate** (Valve's 2-hour playtime refund policy means impulse purchases get returned at a meaningful rate). The calculator applies both to arrive at a realistic developer net figure.
 
 ## Wishlist-to-Sales Conversion
 
-If you're pre-launch, wishlist count is the most accessible proxy for demand. Industry consensus — corroborated by developers who have shared launch data publicly — puts the typical **wishlist-to-first-month-sales conversion at roughly 10–25%**, with 20% used here as a midpoint. This varies enormously: a launch with strong press coverage, a Steam Next Fest demo hit, or influencer coverage can drive conversion well above 30%, while a quiet launch with no external momentum may convert under 10%.
+If you're pre-launch, wishlist count is the most accessible proxy for demand. Industry consensus, corroborated by developers who have shared launch data publicly, puts the typical **wishlist-to-first-month-sales conversion at roughly 10–25%**, with 20% used here as a midpoint. This varies enormously: a launch with strong press coverage, a Steam Next Fest demo hit, or influencer coverage can drive conversion well above 30%, while a quiet launch with no external momentum may convert under 10%.
 
 ## DLC Revenue Bump
 
@@ -35,12 +35,12 @@ DLC is one of the highest-ROI investments a studio can make. Once you have an ex
 
 ## Revenue Scenarios Table
 
-The scenarios table above is intentionally hardcoded using round numbers so you can gut-check your estimate against known reference points. The $14.99 column is particularly useful — it's the most common price point for mid-tier indie games and has the best public data set.
+The scenarios table above is intentionally hardcoded using round numbers so you can gut-check your estimate against known reference points. The $14.99 column is particularly useful, it's the most common price point for mid-tier indie games and has the best public data set.
 
 ## Planning Your Studio Budget
 
-A common rookie mistake is to project "best case" revenue, sign a lease on an office, hire a team of eight, and then discover your actual sales were 15% of the estimate. A more durable approach: model three scenarios (pessimistic at 20% of estimate, realistic at 60%, optimistic at 100%) and ensure the studio can survive the pessimistic case. The calculator's output is your optimistic upper bound — plan for less.
+A common rookie mistake is to project "best case" revenue, sign a lease on an office, hire a team of eight, and then discover your actual sales were 15% of the estimate. A more durable approach: model three scenarios (pessimistic at 20% of estimate, realistic at 60%, optimistic at 100%) and ensure the studio can survive the pessimistic case. The calculator's output is your optimistic upper bound, plan for less.
 
-Revenue estimation is one input into a broader financial model. Factor in development costs, marketing spend, QA, localization, and porting before treating a revenue number as profit. For most indie games, the real margin after all costs sits between 20–40% of developer net — sometimes much less on a first project.
+Revenue estimation is one input into a broader financial model. Factor in development costs, marketing spend, QA, localization, and porting before treating a revenue number as profit. For most indie games, the real margin after all costs sits between 20–40% of developer net, sometimes much less on a first project.
 
 Used alongside solid milestone planning and a realistic scope, revenue modeling helps you make better decisions about team size, feature cuts, and launch timing. It won't guarantee a hit, but it will help you avoid the most common financial failure mode: running out of money before launch.
