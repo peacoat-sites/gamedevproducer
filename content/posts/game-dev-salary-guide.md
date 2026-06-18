@@ -1,9 +1,9 @@
 ---
-title: "Game Developer Salary Guide 2024: What Do Game Devs Actually Earn?"
+title: "Game Developer Salary Guide: What Do Game Devs Actually Earn?"
 slug: "game-developer-salary"
 date: 2026-06-10
 categories: ["Game Industry"]
-description: "Explore real 2024 game developer salary ranges by role, experience level, studio size, and region — with an interactive salary calculator."
+description: "Explore real game developer salary ranges by role, experience level, studio size, and region with an interactive salary calculator."
 author: "Ryan Cole"
 ---
 
