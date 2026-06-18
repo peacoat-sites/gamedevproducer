@@ -1,5 +1,5 @@
 ---
-title: "Best Game Engine in 2026: Unity vs Unreal vs Godot (Full Comparison)"
+title: "Best Game Engine: Unity vs Unreal vs Godot (Full Comparison)"
 date: 2026-06-12
 lastmod: 2026-06-12
 description: "A data-driven comparison of every major game engine in 2026 — Unity, Unreal Engine 5, Godot, GameMaker, and more — covering cost, learning curve, job demand, and Steam market share."
