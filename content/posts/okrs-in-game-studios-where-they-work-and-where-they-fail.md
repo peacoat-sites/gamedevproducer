@@ -1,5 +1,5 @@
 ---
-title: "Okrs In Game Studios Where They Work And Where They Fail"
+title: "OKRs in Game Studios: Where They Work and Where They Fail"
 date: 2026-05-27T11:38:39.076702+00:00
 draft: false
 description: "Discover how OKRs work in game studios, where they drive focus and results, and where they fall short. Learn what makes or breaks goal-setting in game developme"
