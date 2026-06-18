@@ -1,0 +1,30 @@
+{{ if and (not .IsHome) (gt .WordCount 300) .TableOfContents }}
+<div class="toc-widget">
+  <div class="widget-title" style="padding:14px 16px 12px;margin:0;border-radius:var(--radius,8px) var(--radius,8px) 0 0">In this article</div>
+  <div class="toc-widget-body">
+    {{ .TableOfContents }}
+  </div>
+</div>
+<script>
+(function(){
+  var nav=document.querySelector('.toc-widget nav');
+  if(!nav||!('IntersectionObserver' in window))return;
+  var links=[].slice.call(nav.querySelectorAll('a'));
+  var ids=links.map(function(a){return decodeURIComponent(a.getAttribute('href').replace('#',''));});
+  var headings=ids.map(function(id){return document.getElementById(id);}).filter(Boolean);
+  if(!headings.length)return;
+  function setActive(id){
+    links.forEach(function(a){
+      var active=decodeURIComponent(a.getAttribute('href').replace('#',''))===id;
+      a.classList.toggle('toc-active',active);
+      if(active)a.scrollIntoView({block:'nearest'});
+    });
+  }
+  var obs=new IntersectionObserver(function(entries){
+    entries.forEach(function(e){if(e.isIntersecting)setActive(e.target.id);});
+  },{rootMargin:'-10% 0px -75% 0px'});
+  headings.forEach(function(h){obs.observe(h);});
+  if(headings[0])setActive(headings[0].id);
+})();
+</script>
+{{ end }}
