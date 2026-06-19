@@ -24,7 +24,6 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
 You're three weeks from a content-complete milestone, your lead animator hasn't spoken directly to the lead programmer in eleven days, and your producer just told you "the team is fine" while two senior engineers quietly updated their LinkedIn profiles. This is not a dysfunction story. This is Tuesday at a AAA studio.
 
 Team dynamics in large-scale game development get a lot of soft-skills coverage that doesn't survive contact with actual production. Let's fix that.
@@ -45,11 +44,11 @@ These aren't personality conflicts. They're structural discipline misalignments 
 
 Every AAA studio has two org charts. The official one shows reporting lines. The real one shows who actually controls information, who gets listened to in meetings, and who can unblock a problem without filing a ticket.
 
-The unofficial power centers are usually: the senior technical director who has been at the studio since before the current engine was chosen, the lead producer who everyone knows has the director's ear, and occasionally a mid-level designer who became the de facto taste arbiter because their instincts kept being right.
+The unofficial power centers are usually: the senior technical director who's been there since before the current engine was chosen, the lead producer who everyone knows has the director's ear, and occasionally a mid-level designer who became the taste arbiter because their instincts kept being right.
 
-If you're new to a studio and you're trying to understand team dynamics, don't read the org chart. Watch who people Slack when something breaks. Watch who gets CC'd on escalations that technically don't require them. That's your real map.
+If you're new to a studio and trying to understand team dynamics, don't read the org chart. Watch who people Slack when something breaks. Watch who gets CC'd on escalations that technically don't require them. That's your real map.
 
-Producers who ignore the informal hierarchy spend enormous energy doing things the hard way. The ones who learn it early can move twice as fast because they're working with social gravity instead of against it.
+Producers who ignore the informal hierarchy spend enormous energy doing things the hard way. The ones who learn it early move twice as fast because they're working with social gravity instead of against it.
 
 ---
 
@@ -66,7 +65,7 @@ Practical fixes that actually work in production:
 3. **Decision logs, not just meeting notes.** Record the decision, who made it, and what information it was based on. When a decision turns out to be wrong six weeks later, you want to understand why it was reasonable at the time.
 4. **Explicit dependency maps.** For any major feature, produce a simple one-pager showing which teams are blocked by which other teams. Update it weekly. Make it visible.
 
-Tools worth using here: Jira or Jira Align for dependency tracking at scale, Confluence for decision documentation, and Miro for visual dependency maps that non-producers can actually read at a glance.
+Tools worth using: Jira or Jira Align for dependency tracking at scale, Confluence for decision documentation, and Miro for visual dependency maps that non-producers can actually read at a glance.
 
 ---
 
@@ -93,29 +92,26 @@ A comparison worth keeping in mind:
 
 "Psychologically safe" teams don't mean teams where everyone feels good all the time. They mean teams where bad news travels up faster than good news. That's the operational definition that matters in game dev.
 
-If your team is psychologically unsafe, you will find out about a critical problem two weeks after you could have fixed it cheaply. Guaranteed. I've seen milestone reviews get blindsided by issues that three different people knew about but didn't raise because the last person who raised a similar issue got visibly shut down in a review.
+If your team is psychologically unsafe, you will find out about a critical problem two weeks after you could've fixed it cheaply. Guaranteed. I've seen milestone reviews get blindsided by issues that three different people knew about but didn't raise because the last person who raised a similar issue got visibly shut down in a review.
 
 Building real safety on a large team requires a few non-negotiable behaviors from leadership. Reward the person who brings the problem, not just the person who fixes it. Separate critique of work from critique of person with enough consistency that people stop bracing during reviews. And when someone escalates a risk that turns out to be nothing, don't make them feel stupid for raising it.
 
-For producers looking for a structured framework here, Amy Edmondson's research on psychological safety is the canonical source. Her book *The Fearless Organization* translates cleanly to game studio contexts. Combine it with practical retrospective structures from resources like *Agile Game Development* by Clinton Keith, which remains one of the most grounded books on actually running iterative production on games.
+For producers looking for a structured framework, Amy Edmondson's research on psychological safety is the canonical source. Her book *The Fearless Organization* translates cleanly to game studio contexts. Pair it with practical retrospective structures from *Agile Game Development* by Clinton Keith, which remains one of the most grounded books on actually running iterative production on games.
 
 ---
 
 ## When to Escalate, When to Absorb, and How to Know the Difference
 
-Not every conflict needs to go up the chain. A lot of producer growth is learning to distinguish between friction that resolves itself with a little facilitation and friction that's a signal of a structural problem that will not get better on its own.
+Not every conflict needs to go up the chain. A lot of producer growth is learning to distinguish between friction that resolves itself with a little facilitation and friction that's a signal of a structural problem that won't get better on its own.
 
 Absorb and facilitate: interpersonal tension between peers over workflow preferences, disagreements about art direction that are within the director's established vision, frustration venting after a rough milestone.
 
-Escalate immediately: a senior person creating a pattern of exclusion or information hoarding, scope disagreements that will materially affect the milestone, resource conflicts where two teams both need the same person and one of them is going to miss a deadline.
+Escalate immediately: a senior person creating a pattern of exclusion or information hoarding, scope disagreements that'll materially affect the milestone, resource conflicts where two teams both need the same person and one of them will miss a deadline.
 
 The tell is usually whether the problem is getting smaller or larger over time without intervention. Friction that's shrinking, absorb. Friction that's growing, escalate before it becomes an incident you're managing instead of a conversation you're having.
 
 ---
 
-
----
-
-The teams that ship great games aren't the ones that avoided dysfunction. They're the ones that built enough trust and process to catch dysfunction early, fix it without drama, and keep moving. That's a skill that gets built deliberately, not by accident, and it compounds across every project that follows.
+The teams that ship great games aren't the ones that avoided dysfunction. They're the ones that built enough trust and process to catch dysfunction early, fix it without drama, and keep moving. That's a skill that gets built deliberately, not by accident. And it compounds across every project that follows.
 
 *Photo: [Andres Garcia](https://www.pexels.com/@andres-garcia-57040618) via Pexels*

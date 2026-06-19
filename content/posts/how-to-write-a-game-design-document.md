@@ -24,7 +24,6 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 Most game design documents are dead on arrival. Not because the designer didn't care, not because the game idea was bad. Because the writer confused thoroughness with usefulness, and produced something so dense that nobody on the team actually read it.
 
 I'll be honest: I've been guilty of this myself. My first GDD at a mid-size studio in 2011 was 94 pages. Gorgeous formatting, a table of contents with four levels of nesting, a five-page section on the fictional history of a kingdom the player would spend about forty minutes in. My lead programmer read the first twelve pages, then asked me to walk him through the rest verbally. That conversation took twenty minutes. The GDD took six weeks.
@@ -47,13 +46,13 @@ I've reviewed probably 300 GDDs at this point, from solo projects to $40M produc
 
 **The one-page pitch.** Always first. Before anything else, a reader needs to know: what is this game, who is it for, why does it exist, and what's the core loop. One page, no exceptions. If you can't do it in one page you don't understand your own game well enough yet. Harsh, but true. The format I use: a logline (one sentence, genre plus hook), a target player description, a core experience statement ("the player should feel like..."), and a short paragraph on the primary mechanic. Done.
 
-**Core mechanics.** This is the heart of the document and where most GDDs either earn their keep or collapse. You're not describing what the game looks like, you're describing how it works, specifically enough that someone could build a prototype without asking you a single question. I want to see: what the player can do, how systems interact, what creates tension or progression, and what the primary feedback loops are. Use diagrams if they help. A hand-drawn flowchart photographed on your phone beats three paragraphs of prose about the same system every time.
+**Core mechanics.** This is where the document either earns its keep or collapses entirely. You're not describing what the game looks like, you're describing how it works, specifically enough that someone could build a prototype without asking you a single question. I want to see: what the player can do, how systems interact, what creates tension or progression, and what the primary feedback loops are. Use diagrams if they help. A hand-drawn flowchart photographed on your phone beats three paragraphs of prose about the same system every time.
 
 **Content inventory.** Levels, characters, items, enemy types, whatever the game contains. This section is primarily for your producer and your scope conversations. You don't need full design detail here, just enough to know what exists and roughly what it'll take to build. A table works fine. A list works fine. The point is that someone can look at this and say "oh, we have thirty enemy types, that's a conversation."
 
-**Game feel and reference.** This is the section most GDDs skip and most teams miss. How should this game feel? Not mechanically, but experientially. What are your reference games? What's the camera behavior trying to accomplish emotionally? What does juice mean in this project's context? I've started including short video reference links in digital GDDs and it's made art direction conversations dramatically more productive. A screenshot from Hollow Knight or a clip from a GDC talk communicates in four seconds what would take a paragraph to describe badly.
+**Game feel and reference.** Most GDDs skip this entirely. Most teams miss it. How should this game feel? Not mechanically, but experientially. What are your reference games? What's the camera behavior trying to accomplish emotionally? What does juice mean in this project's context? I've started including short video reference links in digital GDDs and it's made art direction conversations dramatically more productive. A screenshot from Hollow Knight or a clip from a GDC talk communicates in four seconds what would take a paragraph to describe badly.
 
-**Open questions.** Honest list of things you haven't decided yet. This sounds like weakness, it's actually the opposite. Every design has unresolved questions. Writing them down prevents the team from making silent assumptions that conflict with each other. I include a column for "decision deadline" next to each open question, which forces you to actually close them out.
+**Open questions.** Honest list of things you haven't decided yet. This sounds like weakness. It's actually the opposite. Every design has unresolved questions. Writing them down prevents the team from making silent assumptions that conflict with each other. I include a column for "decision deadline" next to each open question, which forces you to actually close them out.
 
 Some GDDs need a narrative design section, a monetization section, an audio direction section. Most don't, or those sections belong in separate documents maintained by the people responsible for them. The narrative designer should own the narrative bible. The GDD just needs to say "tone is X, narrative delivery is Y, see the narrative bible for detail."
 
@@ -88,11 +87,6 @@ Use a glossary. Define every piece of jargon the first time it appears and link 
 Prototype before you write. I know that feels backwards, but the GDD for a system you've actually playtested is ten times more accurate and half as long as the GDD for a system you've only imagined. If something's in the doc but hasn't been touched in a prototype, flag it with an uncertainty marker. We use a simple emoji convention: a question mark for unvalidated assumptions. Keeps everyone honest.
 
 For tools: I've found Machinations genuinely useful for documenting economy and loop systems visually, and the free tier covers most indie needs. For flowcharts, Miro or even FigJam work well if your team is already in Figma. For the actual writing, I like Notion for smaller teams and Confluence once you're past about fifteen people.
-
----
-
-
----
 
 One last thing. The GDD doesn't make the game. The game makes the game. The document's only job is to get the team building the same thing. If it's doing that, it's a good GDD regardless of how it looks or how long it runs. If it's not doing that, adding more sections won't fix it.
 

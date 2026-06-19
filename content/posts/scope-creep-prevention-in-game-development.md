@@ -24,37 +24,36 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 You greenlit a feature at 9am standup because a designer said it would "only take a day." Three weeks later, that feature has spawned four sub-features, two art revisions, and a backend change that touched six other systems. Your ship date is now a suggestion. Sound familiar? Scope creep doesn't usually announce itself. It accumulates quietly, one reasonable-sounding request at a time, until the project is unrecognizable from what you originally planned.
 
-I'll be honest: in my first few years as a producer, I treated scope creep like weather. Annoying, inevitable, something you just managed reactively. What changed my thinking was watching two nearly identical projects, same team size, similar budgets, wildly different outcomes. One shipped on time. One didn't. The difference wasn't talent. It was how each team handled the boundary between "yes" and "not this version."
+I treated scope creep like weather in my first few years as a producer. Annoying, inevitable, something you just managed reactively. What changed my thinking was watching two nearly identical projects ship with radically different outcomes. Same team size, similar budgets, one hit the date and one didn't. The difference wasn't talent. It was how each team handled the boundary between "yes" and "not this version."
 
 ## Why Scope Creep Happens Even to Experienced Teams
 
-The research here is mixed on whether better planning actually prevents scope creep, or just changes where it shows up. But one thing is consistently true across post-mortems I've read and projects I've lived through: creep rarely comes from recklessness. It comes from optimism and ambiguity.
+The research on whether better planning actually prevents scope creep is messy. But one thing shows up consistently across every post-mortem I've read: creep rarely comes from recklessness. It comes from optimism and ambiguity.
 
-Teams add features because they genuinely believe in them. Designers see a gap in the player experience. Engineers find a more elegant solution that requires rearchitecting something adjacent. Stakeholders play a build and want more. Every individual decision looks reasonable in isolation. The problem is that no one is adding up the cumulative weight.
+Teams add features because they genuinely believe in them. Designers spot a gap in player experience. Engineers find a more elegant solution that requires rearchitecting something adjacent. Stakeholders play a build and want more. Every individual decision looks reasonable in isolation. The problem is nobody's keeping a running total of the weight.
 
-The second driver is fuzzy initial definitions. If your design doc says "the player should feel powerful," that's not a spec, it's an intention. And intentions expand to fill whatever space you give them. The "feel powerful" note becomes 12 new combat mechanics and a progression overhaul if nobody draws a hard line.
+The second driver is fuzzy initial definitions. If your design doc says "the player should feel powerful," that's not a spec. That's an intention. Intentions expand to fill whatever space you give them. The "feel powerful" note becomes 12 new combat mechanics and a progression overhaul if nobody draws a hard line.
 
 ## The Document That Will Save Your Ship Date
 
-What surprised me most when I started taking scope management seriously was how few teams actually use a formal Scope Agreement document, or anything equivalent. They have a GDD, maybe a milestone plan, but nothing that explicitly defines what is OUT of this version.
+What surprised me most when I started taking scope seriously was how few teams actually use a formal Scope Agreement document or anything equivalent. They have a GDD, maybe a milestone plan, but nothing that explicitly defines what is OUT of this version.
 
 A Scope Agreement is exactly what it sounds like: a written, signed-off document that defines the game's boundaries. Not just what's in, but what's explicitly deferred. Two columns. In scope. Out of scope this version. Both columns matter equally.
 
-Include these elements in yours:
+Include these elements:
 
 - Feature list with definitions clear enough that two people would implement them the same way
 - A "parking lot" section for good ideas that are explicitly saved for post-launch or a sequel
 - A change request process, even if that process is just a weekly producer review
 - Sign-off from your leads, your director, and if applicable, your publisher
 
-That last point is not bureaucracy for its own sake. Getting signatures creates psychological commitment. People second-guess themselves before verbally agreeing to change something they've already signed their name to. It's a simple friction mechanism that buys you time to think.
+That last point isn't bureaucracy for its own sake. Getting signatures creates psychological commitment. People second-guess themselves before verbally agreeing to change something they've already signed their name to. It's simple friction that buys you time to think.
 
 ## Building a Change Request Process That Doesn't Kill Creativity
 
-The worst outcome of scope management is a team that stops bringing ideas. You don't want that. Good ideas show up late in development all the time, and occasionally one is worth incorporating. The goal isn't to freeze the game at concept. It's to make change a conscious decision rather than a reflexive one.
+The worst outcome of scope management is a team that stops bringing ideas. Good ideas show up late in development all the time, and occasionally one is worth incorporating. The goal isn't to freeze the game at concept. It's to make change a conscious decision rather than a reflexive one.
 
 Here's the process I've seen work well for teams of 5 to 30 people:
 
@@ -64,17 +63,17 @@ Here's the process I've seen work well for teams of 5 to 30 people:
 
 **Step 3: Identify the trade.** Every addition needs a trade. What comes out, what gets descoped, or what moves to a later milestone? If the proposer can't answer this, the request isn't ready.
 
-**Step 4: Producer review, not group vote.** Feature decisions made by committee in a room tend to trend toward yes because nobody wants to be the one who killed a good idea. One person with accountability makes better scope decisions.
+**Step 4: Producer review, not group vote.** Feature decisions made by committee in a room tend toward yes because nobody wants to be the one who killed a good idea. One person with accountability makes better scope decisions.
 
 **Step 5: Document the outcome.** Approved, deferred to parking lot, or rejected, with a one-line rationale. This log becomes invaluable when someone asks three months later why a feature doesn't exist.
 
-The whole process should take less than 48 hours for small changes. If it takes longer, you've built a bureaucracy, not a process.
+The whole thing should take less than 48 hours for small changes. If it takes longer, you've built bureaucracy, not a process.
 
 ## Velocity Tracking as an Early Warning System
 
 One of the most practical things you can do is track planned vs. actual velocity every sprint. Not to punish teams for missing estimates, but to catch scope creep before it becomes a crisis.
 
-When a team consistently completes 60% of what they planned, something is wrong. Maybe estimates are bad. Maybe the sprint goals are shifting mid-sprint. Maybe there are dependencies nobody logged. Velocity divergence is a diagnostic signal, and the earlier you catch it, the more options you have.
+When a team consistently completes 60% of what they planned, something's wrong. Maybe estimates are bad. Maybe sprint goals are shifting mid-sprint. Maybe there are dependencies nobody logged. Velocity divergence is a diagnostic signal, and the earlier you catch it, the more options you have.
 
 I've used [Jira](https://www.atlassian.com/software/jira) for this on larger projects and [Hacknplan](https://hacknplan.com/) on smaller indie productions. Hacknplan is worth knowing about if you haven't tried it; it's built specifically for game development workflows and makes milestone tracking considerably more intuitive than adapting a generic project management tool.
 
@@ -82,11 +81,11 @@ If you want to go deeper on production fundamentals, Heather Maxwell Chandler's 
 
 ## The Honest Conversation You Need to Have With Your Director
 
-Here's the real version of a scope problem: sometimes the creep isn't coming from the team. It's coming from above. A creative director who keeps adding features. A publisher who expands requirements after milestone. A CEO who played a competitor's game and wants their feature in too.
+Here's the real version of a scope problem: sometimes the creep isn't coming from the team. It's coming from above. A creative director who keeps adding features. A publisher who expands requirements after a milestone. A CEO who played a competitor's game and wants that feature in too.
 
 This is harder to manage, and I won't pretend there's a clean process fix for a power dynamic issue. But there are approaches that help.
 
-Show the cost in time, not in argument. "Yes, we can add that. Here's what it costs" followed by a concrete schedule impact is more effective than "that's out of scope." You're not refusing, you're informing. The decision is theirs to make. Most reasonable decision-makers, when shown that adding Feature X pushes the ship date by six weeks, will reconsider.
+Show the cost in time, not in argument. "Yes, we can add that. Here's what it costs" followed by a concrete schedule impact is more effective than "that's out of scope." You're not refusing, you're informing. The decision is theirs. Most reasonable decision-makers, when shown that adding Feature X pushes the ship date by six weeks, will reconsider.
 
 If that doesn't work, you need to document it. Not as protection (though it is that), but because when the ship date slips, having a paper trail of the decisions that caused it is the only way to learn from it properly.
 
@@ -103,8 +102,5 @@ A few specific recommendations based on what I've actually used:
 | Google Sheets | Fast and flexible scope tracking on tiny budgets | Free |
 
 For learning more about production practice, I'd recommend the [Game Production Masterclass on Udemy](https://www.udemy.com/topic/game-development/) and GDC's free YouTube content, specifically anything from producers at Supergiant, Double Fine, or Bungie discussing their milestone processes.
-
----
-
 
 *Photo: [nappy](https://www.pexels.com/@nappy) via Pexels*

@@ -24,7 +24,6 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 Most game projects don't die because the team ran out of talent. They die because nobody noticed that the combat system needed finalized player stats, which needed a locked design doc, which needed sign-off from a creative director who was waiting on competitive research that nobody had assigned. One blocked task becomes five blocked tasks becomes a sprint where half the team is spinning wheels. I've watched this happen on a 40-person project where the producer had a perfectly color-coded Gantt chart. The schedule looked great. The dependencies were invisible. That's the problem this article is about.
 
 
@@ -39,67 +38,62 @@ Most game projects don't die because the team ran out of talent. They die becaus
 
 ## What Dependency Mapping Actually Is (And Isn't)
 
-A lot of producers treat dependency mapping like a checkbox. You draw arrows between tasks in your project management tool, call it done, move on. That's not mapping. That's decoration.
+Most producers treat dependency mapping like a checkbox. Draw some arrows between tasks, mark it done, move on. That's not mapping. That's window dressing.
 
-Real dependency mapping is the process of identifying every task that cannot start, or cannot finish, until something else is complete. It forces you to ask a question most schedules skip entirely: what has to be true before this work can begin?
+Real dependency mapping asks a question your schedule has probably never asked: what has to be true before this work can begin? It's the process of identifying every single task that cannot start, or cannot finish, until something else is complete.
 
-There are four dependency types worth knowing. Finish-to-Start is the common one: Task B can't start until Task A finishes. Then there's Start-to-Start (Task B can't start until Task A starts), Finish-to-Finish (Task B can't finish until Task A finishes), and Start-to-Finish, which is rare and mostly useful in scheduling theory. In game dev, Finish-to-Start and Start-to-Start cover about 90% of real situations. The animator can't start blocking a combat move until the design has locked the hitbox data. That's Finish-to-Start. The level art team can start grey-boxing while the design documentation is being written. That's Start-to-Start, and recognizing it is how you find parallel work that teams often miss.
+There are four dependency types you should know. Finish-to-Start is the common one: Task B can't start until Task A finishes. The animator can't block a combat move until the designer locks the hitbox data. Start-to-Start means Task B can't start until Task A starts, which is where teams find parallel work they usually miss. The level art team can start grey-boxing while the design doc is still being written. Finish-to-Finish means Task B can't finish until Task A finishes. And then Start-to-Finish, which is rare and mostly academic. In actual game development, Finish-to-Start and Start-to-Start handle about 90% of what you'll encounter.
 
-What surprised me when I started doing this rigorously was how many dependencies aren't technical. They're human. Someone needs to review and approve. Someone needs to be trained on a tool before they can produce assets. Someone is the only person who knows the answer to a question that's blocking three other people. Those don't show up in your engine pipeline. They show up when the task is already late.
+Here's what caught me off guard when I started doing this seriously: most dependencies aren't technical. They're human. Someone needs to review. Someone needs training. Someone's the only person who knows the answer blocking three other people. These don't live in your engine documentation. They show up when tasks are already late.
 
 ## How to Build a Dependency Map for a Game Project
 
-This doesn't require expensive software. I've done first-pass dependency mapping on whiteboards and in spreadsheets before moving anything into a formal tool. The process matters more than the platform.
+You don't need expensive software for this. Whiteboards, spreadsheets, even a text file can work for the first pass. What matters is the process, not the tool.
 
-**Step 1: Decompose the work first.** You can't map dependencies on tasks that are too vague. "Build the combat system" is not a task. "Implement player parry state machine," "design parry window timing values," and "create parry animation set" are tasks. Get specific before you connect anything.
+**Step 1: Decompose the work first.** You can't map dependencies on tasks that are too vague. "Build the combat system" isn't a task. "Implement player parry state machine," "design parry window timing values," and "create parry animation set" are tasks. Get specific before you connect anything.
 
-**Step 2: Ask the predecessor question for every task.** Go line by line. For each task, ask: what must be complete, or at least started, before this work can proceed? Write those relationships down. Don't assume the team knows. Ask them.
+**Step 2: Ask the predecessor question for every single task.** Go line by line. What must be complete, or at least started, before this work can proceed? Write it down. Don't assume the team knows implicitly.
 
-**Step 3: Separate hard dependencies from soft ones.** A hard dependency is technical reality. You cannot rig a character before the skeleton exists. A soft dependency is a preference or a habit. "We usually wait for the concept art before starting modeling" might be a soft dependency that you can challenge with a placeholder workflow.
+**Step 3: Separate hard dependencies from soft ones.** Hard dependencies are technical reality. You cannot rig a character before the skeleton exists. Soft dependencies are preferences or habits. "We usually wait for concept art before modeling" might be a soft dependency you can challenge with a placeholder workflow.
 
-**Step 4: Identify your critical path.** The critical path is the longest chain of dependent tasks that determines your minimum possible completion date. Any delay on the critical path delays the whole project. Tasks off the critical path have float, meaning they can slip without affecting the ship date. Knowing which is which tells you where to apply pressure and where you can breathe.
+**Step 4: Find your critical path.** The critical path is the longest chain of dependent tasks that determines your minimum ship date. Any delay on the critical path delays the whole project. Tasks off the critical path have float, meaning they can slip without affecting your release. Knowing the difference tells you where to push hard and where you can relax.
 
-**Step 5: Look for dependency clusters.** These are bottleneck assets or decisions that many other tasks are waiting on. A locked world map. A finalized control scheme. An approved character design. These are your highest-risk items and they need to be driven to resolution faster than everything else.
+**Step 5: Look for dependency clusters.** These are bottleneck assets or decisions that many other tasks are waiting on. A locked world map. A finalized control scheme. An approved character design. These are your highest-risk items and they need to be resolved faster than everything else.
 
-**Step 6: Review with the team, not just leads.** The people actually doing the work know things about their workflow that don't make it into the WBS. A five-minute conversation with an animator or technical artist often surfaces a dependency that would have hit you in week three.
+**Step 6: Review with the team, not just leads.** The people actually doing the work know their workflow better than the WBS ever will. Five minutes with an animator or technical artist surfaces dependencies that would have hit you in week three otherwise.
 
 ## The Hidden Dependencies That Kill Schedules
 
-I'll be honest: the dependencies that bite you hardest aren't the ones in your pipeline documentation. They're the ones that feel too obvious to write down, or the ones nobody wants to say out loud.
+The dependencies that bite hardest aren't in your pipeline documentation. They're the ones that feel too obvious to write down, or the ones nobody wants to say out loud.
 
-Third-party dependencies are brutal. Middleware licenses, platform certification requirements, asset store packages that don't quite work as advertised. I've seen projects where console submission prep had no formal relationship mapped to QA completion, then the team was scrambling for two weeks because the cert build needed a QA pass that wasn't scheduled to happen until after the submission date.
+Third-party dependencies are brutal. Middleware licenses, platform certification requirements, asset store packages that don't work as advertised. I've seen projects where console submission had no formal relationship to QA completion, then the team scrambled for two weeks because the cert build needed a QA pass that wasn't scheduled until after submission.
 
-Approval chains are another silent killer. If a feature requires creative director approval before it can be called done, that approval is a dependency. Schedule it. Put a person's name on it. Give it a deadline. "We'll get sign-off when it's ready" is not a plan.
+Approval chains are another silent killer. If a feature needs creative director sign-off before it's done, that approval is a dependency. Schedule it. Put a name on it. Give it a deadline. "We'll get sign-off when it's ready" isn't a plan.
 
-External team dependencies, especially in co-development or outsourcing arrangements, need their own review. When you're dependent on a third-party studio delivering character models, that relationship needs buffer, communication checkpoints, and a contingency. Most schedules treat outsourced deliveries as fixed dates. They almost never are.
+External team dependencies, especially in co-development or outsourcing, need their own review. When you're dependent on a third-party studio delivering character models, that relationship needs buffer, communication checkpoints, and contingency planning. Most schedules treat outsourced deliverables as fixed dates. They almost never are.
 
 ## Tools That Actually Help
 
-For dependency mapping and project scheduling, a few tools genuinely earn their place in a game dev workflow.
+For dependency mapping and scheduling, a few tools are worth their weight in a game dev workflow.
 
-**Hacknplan** is built for game development specifically. It handles task dependencies, milestones, and discipline-based planning in a way that generic tools don't.
+**Hacknplan** is built for game development specifically. It handles task dependencies, milestones, and discipline-based planning in ways generic tools don't.
 
-**Jira** with proper epic and story linking can model complex dependency chains, though it requires discipline to keep the dependency graph clean. It gets messy fast on larger teams if nobody owns the structure.
+**Jira** with proper epic and story linking can model complex dependency chains, though it requires discipline to keep the graph clean. Larger teams tend to make it messy fast without someone owning the structure.
 
-**TeamGantt** is straightforward for visual dependency mapping with Gantt views that actually show your critical path without much configuration overhead.
+**TeamGantt** is straightforward for visual dependency mapping. The Gantt views show your critical path without much setup overhead.
 
-For books, *The Art of Game Design* by Jesse Schell doesn't cover scheduling directly, but the framework thinking transfers. For production-specific reading, *Blood, Sweat, and Pixels* by Jason Schreier is worth your time not as a how-to but as a case study collection in what happens when dependencies and scope aren't managed.
+For books, *The Art of Game Design* by Jesse Schell doesn't cover scheduling directly, but the framework thinking carries over. *Blood, Sweat, and Pixels* by Jason Schreier is worth reading not as a how-to but as a collection of case studies in what happens when dependencies and scope aren't managed.
 
-The **Game Production Masterclass** on Udemy covers dependency management in the context of full production pipelines and is one of the more practically grounded courses I've found for working producers rather than students.
+The **Game Production Masterclass** on Udemy covers dependency management within full production pipelines and is one of the more practically grounded courses I've found for working producers rather than students.
 
 ## Common Mistakes Producers Make With Dependencies
 
-Mapping dependencies once and not revisiting them is probably the most common error. A dependency map is a living document. When scope changes, when a team member leaves, when a tech decision gets reversed, your dependency relationships change too. A map that was accurate in pre-production can be actively misleading in alpha.
+Mapping dependencies once and never revisiting them is probably the most common mistake. A dependency map is a living document. When scope changes, when someone leaves, when a tech decision flips, your dependency relationships change too. A map that was accurate in pre-production can actively mislead you in alpha.
 
-Conflating dependencies with milestones is another one. A milestone is a point in time. A dependency is a relationship between work items. They interact, but they're not the same thing. Scheduling a milestone without understanding the dependency chain that feeds it is how you get milestones that slip by weeks while everyone insists they're on track.
+Conflating dependencies with milestones is another one. A milestone is a point in time. A dependency is a relationship between work items. They interact, but they're not the same thing. Scheduling a milestone without understanding the dependency chain feeding it is how you get milestones that slip by weeks while everyone insists they're on track.
 
-And then there's the problem of undocumented assumptions. "We assumed the engine update would be done before we started the physics overhaul" is a dependency that lived in someone's head. When it surfaces in a post-mortem, it always sounds obvious in hindsight.
+Then there's undocumented assumptions. "We assumed the engine update would be done before physics overhaul" is a dependency that lived in someone's head. When it surfaces in a post-mortem, it always sounds obvious in hindsight.
 
----
-
-
----
-
-The teams I've seen ship on time weren't the ones with the most sophisticated tools or the biggest budgets. They were the ones who understood what was actually blocking what, named it explicitly, and tracked it relentlessly. Dependency mapping isn't glamorous production work. Nobody's writing case studies about the producer who caught a certification dependency eight weeks early. But they shipped. That's the whole job.
+The teams I've seen ship on time weren't the ones with the fanciest tools or the biggest budgets. They were the ones who understood what was actually blocking what, named it explicitly, and tracked it relentlessly. Dependency mapping isn't glamorous. Nobody writes case studies about the producer who caught a certification dependency eight weeks early. But they shipped. That's the whole job.
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*

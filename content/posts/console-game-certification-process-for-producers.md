@@ -24,22 +24,21 @@ faqs:
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
 ---
-
 You've just hit your ship date. The build is stable, the team is exhausted, and someone in the room asks, "So how long does cert actually take?" The honest answer is: longer than you budgeted, almost certainly. Sony's PlayStation certification process alone has historically taken anywhere from two to six weeks for a first submission, and Nintendo's Lotcheck can stretch even longer if your documentation isn't airtight. Microsoft's Xbox certification runs on a similar timeline. If you didn't plan for that buffer, you're already in trouble. This article is for producers who want to stop being surprised by that number.
 
 ## What Certification Actually Is (and Why It Exists)
 
-You might be wondering if cert is just a formality. It isn't. Console certification is a mandatory quality and compliance gate controlled by the platform holder. Sony, Microsoft, and Nintendo each maintain their own set of technical requirements, and your game has to pass every single applicable one before it can appear on their storefronts.
+Cert isn't a formality. It's a mandatory quality and compliance gate controlled by the platform holder. Sony, Microsoft, and Nintendo each maintain their own set of technical requirements, and your game has to pass every single applicable one before it can appear on their storefronts.
 
-These requirements aren't arbitrary. They exist to protect the platform experience: consistent network behavior, correct handling of system-level events like low storage or incoming calls, accessibility standards, age rating compliance, and crash-free operation across all supported hardware SKUs. Players expect a certain floor of quality when they buy from a walled-garden storefront. Certification is how the platform holder enforces it.
+These requirements aren't arbitrary. They're designed to protect the platform experience: consistent network behavior, correct handling of system-level events like low storage or incoming calls, accessibility standards, age rating compliance, and crash-free operation across all supported hardware SKUs. Players expect a certain floor of quality when they buy from a walled-garden storefront. Certification is how the platform holder enforces it.
 
-Each platform calls it something different. Sony calls it Submission and Certification. Microsoft calls it Xbox Certification (XC). Nintendo calls it Lotcheck. The mechanics differ, but the stakes are the same: fail, and you don't ship.
+Each platform calls it something different. Sony calls it Submission and Certification. Microsoft calls it Xbox Certification. Nintendo calls it Lotcheck. The mechanics differ, but the stakes don't: fail, and you don't ship.
 
 ## The Cert Requirements Documents You Need to Read Before Your Pre-Alpha
 
-Here's what I tell people who are just starting a console project: read the technical requirements documentation now, not six weeks before submission. All three major holders publish their requirements documents through their developer portals. Sony has the Technical Requirements Checklist (TRC). Microsoft has the Xbox Requirements (XR). Nintendo has their Guidelines documentation.
+Read the technical requirements documentation now, not six weeks before submission. All three major holders publish their requirements documents through their developer portals. Sony has the Technical Requirements Checklist (TRC). Microsoft has the Xbox Requirements (XR). Nintendo has their Guidelines documentation.
 
-These documents are dense, sometimes hundreds of items long, but they're your actual test plan. The ones that bite studios most often:
+These documents are dense, sometimes hundreds of items long, but they're your actual test plan. The ones that bite studios most often are:
 
 - **Save and load behavior**: Your game must handle corrupt or missing save data gracefully, without crashing or hanging.
 - **Network error handling**: Every online feature must fail cleanly if the connection drops mid-session.
@@ -47,11 +46,11 @@ These documents are dense, sometimes hundreds of items long, but they're your ac
 - **Suspend and resume**: On modern consoles, players can put their system in rest mode and come back. Your game needs to handle that without data loss.
 - **Trophy and Achievement integration**: These must behave exactly as the platform specifies, including offline unlocking behavior.
 
-Assign someone on your team the explicit job of tracking your compliance against these requirements from the beginning of production. It's infinitely easier to build to spec than to retrofit compliance in the last two months.
+Assign someone on your team the explicit job of tracking your compliance against these requirements from day one. It's infinitely easier to build to spec than to retrofit compliance in the last two months.
 
 ## The Submission Process, Step by Step
 
-This is the part producers actually need to manage. The exact steps vary by platform, but this is the general shape of a submission cycle:
+This is the part producers actually need to manage. The exact steps vary by platform, but here's the general shape:
 
 1. **Complete your first-party developer registration**: You need an approved developer account and access to the partner portal before you can submit anything. This alone can take weeks if you haven't started the process.
 2. **Obtain your age ratings**: You'll need ratings from ESRB (North America), PEGI (Europe), and any other relevant regional bodies before submission. Apply early. IARC (the unified self-classification tool) speeds this up for digital releases.
@@ -79,7 +78,7 @@ Nintendo's Lotcheck is widely regarded as the most demanding of the three, parti
 
 ## Common Certification Failures and How to Prevent Them
 
-In my experience, the same categories of failures show up across almost every studio going through cert for the first time.
+The same categories of failures show up across almost every studio going through cert for the first time.
 
 **Crash on edge-case hardware configurations**: Test on every hardware SKU the platform supports, including older models and digital editions. A PS5 crash on the disc version that doesn't happen on the digital edition is a cert failure.
 
@@ -95,21 +94,18 @@ Run a pre-certification audit six to eight weeks before your planned submission 
 
 ## Tools That Help Producers Manage Cert
 
-You don't need to manage this process in a spreadsheet and prayer. Here are tools worth having:
+You don't need to manage this process in a spreadsheet and prayer.
 
 **TestRail** is purpose-built for test case management. Create a test suite directly mapped to the TRC or XR document items and track your team's compliance pass results in one place.
 
 **Jira with Zephyr Scale** works well if your studio already lives in Jira. You get test cycle tracking alongside your existing project backlog.
 
-**Notion or Confluence** are solid for building your certification knowledge base. Document every CF you receive, how you fixed it, and what caused it. That institutional memory is gold on your next project.
+**Notion or Confluence** are solid for building your certification knowledge base. Document every certification failure you receive, how you fixed it, and what caused it. That institutional memory is gold on your next project.
 
-For learning the production side more deeply, Jason Della Rocca's work on game production methodology is worth your time, and the book "The Art of Game Design" by Jesse Schell builds intuition for why platform holders care about certain experience standards. If you want a structured course, the IGDA and Coursera both offer game production fundamentals that cover compliance workflows.
-
----
-
+For learning the production side more deeply, Jason Della Rocca's work on game production methodology is worth your time, and Jesse Schell's "The Art of Game Design" builds intuition for why platform holders care about certain experience standards. If you want a structured course, the IGDA and Coursera both offer game production fundamentals that cover compliance workflows.
 
 ---
 
-Certification isn't the enemy. It's a system you can learn, plan for, and build around. The studios that get blindsided by it are the ones who treated it as someone else's problem until the last month of development. The ones who ship on time are the ones who made compliance a first-class part of production from the beginning. That's the whole secret.
+Certification isn't the enemy. It's a system you can learn, plan for, and build around. The studios that get blindsided are the ones who treated it as someone else's problem until the last month of development. The ones who ship on time are the ones who made compliance a first-class part of production from the start. That's the whole secret.
 
 *Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*

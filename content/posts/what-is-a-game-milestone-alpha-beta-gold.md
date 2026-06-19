@@ -24,7 +24,6 @@ faqs:
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
 ---
-
 You're three months into production on a mid-sized mobile RPG when the publisher emails asking for your Alpha build delivery date. Your lead programmer looks at you. Your art director looks at you. You look at the calendar. Nobody in the room agrees on what "Alpha" actually means, and now you're negotiating a contractual deadline against a definition your team has never formally discussed. This happens constantly, and it costs studios real money.
 
 Milestone terminology sounds like basic industry vocabulary, but it's one of the most consistently misunderstood areas in game development. I've been in rooms where two senior producers argued for twenty minutes about whether a build qualified as Beta. The labels are old, they're borrowed from software development, and different publishers use them slightly differently. What you need is a working framework that keeps your team aligned and protects you during publisher conversations.
@@ -59,7 +58,7 @@ Alpha is the most abused term in game development. Here's the clearest definitio
 
 Every system the game ships with should be code-complete or very close to it by Alpha. Combat, inventory, save systems, UI flows, monetization hooks, whatever your game has, they should all exist and be testable. You're not adding new features after Alpha. That's the line.
 
-What Alpha is not: bug-free. Not content-complete. Not polished. Alpha builds are often a mess, and that's expected. QA begins ramping up seriously at Alpha because you now have enough surface area to test methodically. Bug counts typically spike at Alpha acceptance, and that's a healthy sign, not a bad one.
+What Alpha isn't: bug-free. Content-complete. Polished. Alpha builds are often a mess, and that's expected. QA begins ramping up seriously at Alpha because you now have enough surface area to test methodically. Bug counts typically spike at Alpha acceptance, and that's a healthy sign, not a bad one.
 
 For a 30-person studio shipping a 15-hour action RPG, a realistic Alpha might have:
 
@@ -72,7 +71,7 @@ Publishers reviewing an Alpha build are checking whether you've built what you p
 
 ## Beta: Content Complete, Quality Campaign Begins
 
-Beta is where the game becomes the game. The defining characteristic of Beta: **content complete.** Every level is in. Every enemy type is in. Every cutscene, every item, every quest. The end credits play. You can finish the game.
+Beta is where the game becomes the game. The defining characteristic: **content complete.** Every level is in. Every enemy type is in. Every cutscene, every item, every quest. The end credits play. You can finish the game.
 
 What Beta is not: ship-ready. The Beta phase is a sustained quality campaign. Your QA team is running full regression passes. You're closing bugs, tuning difficulty curves, and stress-testing multiplayer if your game has it. Platform certification requirements (TRCs for PlayStation, TCRs for Xbox, Nintendo's lotcheck) become a daily concern.
 
@@ -116,9 +115,6 @@ Exit criteria documents also protect you in publisher conversations. If a publis
 **Use a purpose-built project management tool.** For game production, [Jira](https://www.atlassian.com/software/jira) remains the most widely used bug and task tracker in mid-to-large studios. For smaller teams, [Hack n Plan](https://hacknplan.com/) was built specifically for game development and has milestone tracking baked in. [Notion](https://www.notion.so/) works well for your production bible and exit criteria docs. Whatever you use, your milestone definitions should live somewhere the whole team can access, not just in the producer's head.
 
 **For producers who want to go deeper on milestone management and production fundamentals,** _The Game Production Handbook_ by Heather Maxwell Chandler is the most thorough reference I've found. _Blood, Sweat, and Pixels_ by Jason Schreier is not a how-to manual, but it shows in painful detail what happens when milestone planning breaks down in the real world. Both belong on your shelf.
-
----
-
 
 ---
 

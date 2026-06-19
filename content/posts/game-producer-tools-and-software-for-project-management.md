@@ -24,18 +24,13 @@ faqs:
 author_slug: "marcus-webb"
 author_title: "Technical Editor"
 ---
-
-You're three weeks into production, your team is split across two time zones, and someone just pinged you asking which version of the level design doc is "the real one." There are four copies. Two are in Discord, one's in a Google Drive folder nobody can find, and the last one is in a Notion page that got duplicated by accident. This is not a rare situation. I've seen it kill momentum on otherwise solid projects, and I've watched teams spend entire sprint reviews untangling documentation chaos instead of reviewing actual work. The right tools don't make you a better producer overnight, but the wrong ones, or the absence of any real system, will quietly wreck you.
-
----
+You're three weeks into production, your team is split across two time zones, and someone just pinged you asking which version of the level design doc is "the real one." There are four copies. Two are in Discord, one's in a Google Drive folder nobody can find, and the last one is in a Notion page that got duplicated by accident. This kills momentum on otherwise solid projects. I've watched teams spend entire sprint reviews untangling documentation chaos instead of reviewing actual work. The right tools won't make you a better producer overnight, but the wrong ones, or having no system at all, will quietly wreck you.
 
 ## Why Game Dev Has Unique Project Management Needs
 
-Most project management advice is written for software teams shipping quarterly updates or marketing teams running campaigns. Game development is neither. You're managing art dependencies, audio handoffs, design-to-engineering loops, and milestone deliverables that shift every time a mechanic gets cut or a publisher review goes sideways.
+Most project management advice is written for software teams shipping quarterly updates or marketing teams running campaigns. Game development is different. You're managing art dependencies, audio handoffs, design-to-engineering loops, and milestone deliverables that shift every time a mechanic gets cut or a publisher review goes sideways.
 
-What most people don't realize is that the tool doesn't have to be games-specific to work. It has to be flexible enough to handle the weird, non-linear way game production actually moves. A lot of studios waste months searching for the "perfect" game dev tool when a well-configured general-purpose tool would've gotten them shipping months ago.
-
----
+Here's what most people miss: the tool doesn't have to be games-specific to work. It has to be flexible enough to handle the weird, non-linear way game production actually moves. A lot of studios waste months searching for the "perfect" game dev tool when a well-configured general-purpose tool would've gotten them shipping months ago.
 
 ## Core Project Management Platforms: A Honest Comparison
 
@@ -50,31 +45,25 @@ Here's how the main options stack up for game teams specifically:
 | **Trello** | Simple kanban, early pre-production | Gets messy fast at scale | Yes |
 | **Linear** | Engineering-focused teams, clean UI | Not built for art/design workflows | Yes |
 
-My honest take: for indie teams under 10 people, ClickUp or a well-organized Notion workspace gets you 80% of what Jira does at 10% of the complexity. For anything with a publisher contract or a QA team, Jira is worth the learning curve.
-
----
+For indie teams under 10 people, ClickUp or a well-organized Notion workspace gets you 80% of what Jira does at 10% of the complexity. For anything with a publisher contract or a QA team, Jira is worth the learning curve. That's my honest take.
 
 ## Documentation and Knowledge Management
 
-Your task board is only half the system. The other half is where the decisions live. Why did you cut that mechanic? What was the final art style direction from week four? Who approved that scope change?
+Your task board is only half the system. The other half is where the decisions live: why'd you cut that mechanic, what was the final art style direction from week four, who approved that scope change?
 
-**Notion** is still the most flexible documentation layer I've seen for game teams. Pair it with a clear page hierarchy and a naming convention your whole team actually follows, and it becomes a production wiki that onboards new contractors in hours instead of days.
+Notion is still the most flexible documentation layer I've seen for game teams. Pair it with a clear page hierarchy and a naming convention your whole team actually follows, and it becomes a production wiki that onboards new contractors in hours instead of days.
 
-**Confluence** is the enterprise alternative if you're already in the Atlassian ecosystem with Jira. It's more structured than Notion but also more rigid. Good if you need formal review processes or are working with a publishing partner who wants audit trails.
+Confluence is the enterprise alternative if you're already in the Atlassian ecosystem with Jira. More structured than Notion, yes, but also more rigid. Good if you need formal review processes or you're working with a publishing partner who wants audit trails.
 
-For version control on actual game files and assets, **Perforce (Helix Core)** is the industry standard for larger studios. **Git with Git LFS** works for smaller teams and keeps costs down. Don't skip version control on your production docs either. I've seen a single accidentally overwritten design doc set a team back two weeks.
-
----
+For version control on actual game files and assets, Perforce (Helix Core) is the industry standard for larger studios. Git with Git LFS works for smaller teams and keeps costs down. Don't skip version control on your production docs either. I've seen a single accidentally overwritten design doc set a team back two weeks.
 
 ## Communication Tools That Don't Create Chaos
 
 Discord is where most indie teams live, and that's fine, but Discord without structure is just a faster way to lose information. Set up dedicated channels per discipline, a clear #announcements channel that only leads post in, and a searchable #decisions log where you drop any call-to-action from meetings.
 
-**Slack** is the more professional alternative with better search and thread management. If you're working with external partners or have more than 15 people, Slack's thread-based conversations age better than Discord's channel flow.
+Slack is the more professional alternative with better search and thread management. If you're working with external partners or have more than 15 people, Slack's thread-based conversations age better than Discord's channel flow.
 
-For async video communication, **Loom** is genuinely useful for producers. Instead of writing a three-paragraph explanation of a complex bug or a new workflow change, you record a 90-second walkthrough. Faster to create, faster to consume, and it leaves a record.
-
----
+For async video communication, Loom is genuinely useful for producers. Instead of writing a three-paragraph explanation of a complex bug or a new workflow change, you record a 90-second walkthrough. Faster to create, faster to consume, and it leaves a record.
 
 ## Scheduling, Estimation, and Milestone Tracking
 
@@ -88,29 +77,24 @@ A basic process that actually works:
 4. Build in a 20% buffer per sprint. Not because your team is slow, but because game dev always has surprises.
 5. Review your burn-down every Friday. Fifteen minutes. Don't skip it.
 
-**Codecks** is worth a mention here. It's a card-based project management tool designed specifically for game studios, with built-in milestone tracking and a structure that maps well to how game features actually develop. Small teams love it. It's not as powerful as Jira at scale but it's much friendlier to get started with.
+Codecks deserves a mention here. It's a card-based project management tool designed specifically for game studios, with built-in milestone tracking and a structure that maps well to how game features actually develop. Small teams love it. It's not as powerful as Jira at scale, but it's much friendlier to get started with.
 
-For scheduling across a team with mixed availability, **Teamup Calendar** or even a shared Google Calendar with per-person layers works better than trying to force a Gantt chart into a tool that wasn't built for it.
-
----
+For scheduling across a team with mixed availability, Teamup Calendar or even a shared Google Calendar with per-person layers works better than trying to force a Gantt chart into a tool that wasn't built for it.
 
 ## Books and Courses Worth Your Time
 
-Tools are only useful if you know how to think about production. These are worth the investment:
+Tools only work if you know how to think about production. These are worth the investment:
 
 **Books:**
-- *The Game Producer's Handbook* by Dan Irish. Still one of the most practical books on the craft. Dated in some specifics but the production thinking is solid.
+- *The Game Producer's Handbook* by Dan Irish is still one of the most practical books on the craft. Dated in some specifics, but the production thinking is solid.
 - *Agile Game Development* by Clinton Keith. If you're trying to figure out how Scrum applies (and where it breaks) in a game context, this is the clearest guide I've found.
 - *Blood, Sweat, and Pixels* by Jason Schreier. Not a how-to, but understanding what goes wrong on real projects is some of the best producer education you can get.
 
 **Courses:**
-- The **Game Production Fundamentals** course on Udemy by various instructors varies in quality, so read reviews carefully. Look for ones that cover milestone planning and stakeholder management specifically.
+- The **Game Production Fundamentals** course on Udemy varies in quality, so read reviews carefully. Look for ones that cover milestone planning and stakeholder management specifically.
 - **Coursera's Game Design and Development specialization** from Michigan State covers production concepts alongside design, which is useful for producers who came up through a different discipline.
 - For Jira specifically, Atlassian's own free training at **university.atlassian.com** is legitimately good and will save you hours of figuring it out by trial and error.
 
 ---
 
-
----
-
-The honest truth is that no tool will fix a team that doesn't have clear ownership, defined milestones, and a producer willing to enforce process. But a good tool, used consistently, removes the friction that wastes hours every week. Start with something simple, set up your conventions before you invite the team in, and review your system every four weeks to cut what isn't working. Your future self, the one who's actually shipping, will thank you.
+No tool will fix a team that doesn't have clear ownership, defined milestones, and a producer willing to enforce process. But a good tool, used consistently, removes the friction that wastes hours every week. Start with something simple, set up your conventions before you invite the team in, and review your system every four weeks to cut what isn't working. Your future self, the one who's actually shipping, will thank you.

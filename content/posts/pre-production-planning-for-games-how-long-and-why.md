@@ -24,54 +24,53 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
-Most studios blow their launch dates not in production, but months earlier, in a pre-production phase they rushed through or skipped entirely. I've watched teams celebrate hitting "full production" at the three-month mark on a project that needed at least eight months of foundational work, then spend the next two years paying for that decision in crunch, scope cuts, and eventual cancellation. The uncomfortable truth is that pre-production is where your game either gets a real shot at shipping, or gets quietly set up to fail.
+Most studios miss their launch dates not because production goes sideways, but because they gutted pre-production six months earlier. I've watched teams pop champagne over hitting "full production" at the three-month mark on a project that needed eight months of groundwork, then spend the next two years in crunch, cutting features, and eventually canceling the whole thing. The hard part nobody wants to admit: pre-production is where your game either gets a real shot or gets quietly set up to fail.
 
 ## What Pre-Production Actually Is (And What It Isn't)
 
-There's a persistent confusion in studios, especially smaller ones, between pre-production and "the part before we start making the real stuff." That framing is almost always fatal.
+There's confusion in most studios, especially small ones, about what pre-production even means. They treat it like "the stuff before the real work starts," which is almost always fatal.
 
-Pre-production is not planning meetings and concept art and vibes. It's a structured phase where you prove your core game loop works, establish your technical pipeline, and answer the most expensive questions before you've hired 30 people to assume the answers. The deliverable isn't a design doc. It's validated decisions. Prototype that tested with actual players. A vertical slice that shows you can hit your art bar. A technical proof-of-concept that confirms your engine can do what you need it to do.
+Pre-production isn't planning meetings and concept art and vibes. It's a structured phase where you prove your core loop actually works, establish your technical pipeline, and answer the expensive questions before you've hired 30 people betting on answers you haven't validated. The deliverable isn't a design doc. It's tested decisions. A prototype actual players have played. A vertical slice that proves you can hit your art quality. A technical proof-of-concept showing your engine can handle what you're promising.
 
-What it isn't: a phase you sprint through to get to the "real" production. I've seen teams treat pre-production as a formality, a box to check before the actual work begins. Those teams almost universally hit a wall around month 8 of full production when they discover their core mechanic doesn't feel good, their tech stack can't support the feature set they promised, or their art pipeline takes three times longer than estimated.
+What it isn't: a box to check before the "real" production starts. I've seen teams sprint through pre-production like they're late for something. By month 8 of full production, they hit a wall. The core mechanic doesn't feel good. The tech stack can't support the promised features. The art pipeline takes three times longer than they estimated. Now they're paying.
 
 ## How Long Pre-Production Should Actually Take
 
-Here's where I'll be honest: there's no universal answer, and anyone who tells you otherwise is selling something. The research and industry data here is genuinely mixed, and the range is wide. But there are patterns.
+There's no universal answer, and anyone claiming otherwise is selling you something. The industry data is genuinely all over the place. But patterns exist.
 
-For a small indie team (2-5 people) making a focused game, pre-production typically runs 3 to 6 months. For a mid-size project with 10-20 people targeting console release, 6 to 12 months is more realistic. For a large-scale project, pre-production can legitimately run 18 to 24 months before a full team ramps up.
+Small indie teams (2-5 people) making something focused: 3 to 6 months. Mid-size projects with 10-20 people on console: 6 to 12 months. Large-scale work: 18 to 24 months before you ramp up your full team.
 
-The factors that push pre-production longer:
+What extends pre-production:
 
-- New technology or a custom engine (add 3-6 months minimum)
-- First game in a genre your team hasn't shipped before
-- Live service or multiplayer infrastructure that needs validation
-- External dependencies like licensed IP, platform partnerships, or co-development
+- New technology or a custom engine (adds 3-6 months minimum)
+- First game in a genre your studio hasn't shipped before
+- Live service or multiplayer infrastructure needing validation
+- Licensed IP, platform exclusivity deals, or co-development commitments
 
-What surprised me when I started digging into post-mortems was how consistently studios that shipped on time reported longer pre-production phases than the industry average, not shorter ones. The teams that "moved fast" in pre-production almost always made up for it in extended full production, emergency redesigns, or post-launch patches that essentially rebuilt systems. They didn't save time. They deferred costs.
+What actually surprised me digging through post-mortems: studios that shipped on time reported longer pre-production phases than the industry average. Not shorter. The teams that "moved fast" in pre-production made it up elsewhere, in extended production or emergency redesigns or post-launch patches that basically rebuilt systems. They didn't save time. They just moved the cost.
 
 ## The Core Outputs Pre-Production Has to Deliver
 
-If you're unsure whether your pre-production is actually done, look at what you have at the end. A completed pre-production phase should produce:
+Not sure if pre-production is actually finished? Look at what you have.
 
 **1. A validated prototype**
-Not a polished demo. A rough, functional test of your core loop that real people outside your team have played. If your core mechanic isn't fun in a grey-box prototype, it won't magically get fun when you add final art.
+Not polished. Functional and rough. Real people outside your team have played it. If your core mechanic isn't fun in a grey-box prototype, final art won't save it.
 
 **2. A technical vertical slice**
-One representative level or section built to final quality through your actual pipeline. Not to show publishers (though that helps). To reveal how long things actually take and where the pipeline breaks.
+One representative section built to final quality through your actual pipeline. Not for publishers (though that helps). To reveal how long things actually take and where the pipeline breaks.
 
-**3. A production plan with genuine estimates**
-Not a wishlist. A schedule built from the vertical slice data, where you know your art team can produce X assets per sprint because you measured it. Tools like [Hacknplan](https://hacknplan.com/) or [Codecks](https://www.codecks.io/) are well-suited to this kind of game-specific planning, and they handle the granular task tracking better than generic tools like Jira for smaller teams.
+**3. A production plan with real estimates**
+Not a wish list. A schedule built from vertical slice data, where you know your art team produces X assets per sprint because you measured it. Tools like [Hacknplan](https://hacknplan.com/) or [Codecks](https://www.codecks.io/) handle game-specific planning better than generic tools like Jira, especially for smaller teams.
 
 **4. Defined scope with cut criteria**
-What's in the game, what's a stretch goal, and critically, what are you willing to cut if you fall behind? Teams that don't define cut criteria in pre-production make those decisions under pressure in full production, and pressure-driven scope decisions are almost never good ones.
+What's in. What's stretch. What are you willing to cut if you fall behind? Teams that skip this step make those decisions under pressure in full production, and panic cuts are almost never good ones.
 
 **5. A staffing and budget plan**
-Based on real pipeline data, not optimistic assumptions.
+Based on actual pipeline data, not optimism.
 
 ## A Practical Framework for Structuring Your Pre-Production
 
-Here's a rough phase breakdown that has worked in my experience for a mid-size project:
+Here's how a mid-size project typically breaks down:
 
 | Phase | Duration | Primary Goal |
 |---|---|---|
@@ -80,23 +79,20 @@ Here's a rough phase breakdown that has worked in my experience for a mid-size p
 | Vertical Slice | 8-12 weeks | Can we hit our quality bar? Build one section to ship quality. |
 | Production Planning | 2-4 weeks | What does full production actually cost and how long does it take? |
 
-These phases aren't always sequential. Technical investigation often overlaps with concept validation. But they all need to happen before you call pre-production done. Skipping any one of them is where the surprises come from.
+These aren't always sequential. Technical investigation overlaps with concept validation constantly. But all of them need to happen before you're done. Skip one, and that's where the disasters start.
 
-For reading that goes deep on this, Jason Schreier's *Blood, Sweat, and Pixels* is less a how-to and more a diagnostic tool, a look at what actually went wrong in real productions. Pair it with the [MasterClass game design course from Will Wright](https://www.masterclass.com/instructors/will-wright) if you want more structured methodology around early design validation.
+Jason Schreier's *Blood, Sweat, and Pixels* is less how-to and more diagnostic tool, a look at what actually broke in real productions. Pair it with the [MasterClass game design course from Will Wright](https://www.masterclass.com/instructors/will-wright) for structured methodology around early design validation.
 
 ## The Business Case for Longer Pre-Production
 
-I know the counterargument. Budget is tight. Investors want to see progress. Publishers want a greenlight build by a specific date. Burning runway on pre-production feels like burning money on something that doesn't ship.
+I get the counterargument. Budget's tight. Investors want to see progress. Publishers want a greenlight build. Pre-production feels like burning money on something that doesn't ship.
 
-Here's the math that changed my mind. If your full production team costs $150,000 per month in salaries and overhead, and your production runs 6 months longer than planned because of a design pivot in month 10, that's $900,000 in unplanned costs. A longer pre-production that costs you 3 extra months at a 5-person team might cost $75,000. The risk-adjusted math almost always favors more pre-production investment, not less.
+The math is different. Say your full production team costs $150,000 a month. Production runs six months longer than planned because of a design pivot in month 10. That's $900,000 in costs you didn't budget. A longer pre-production costing three extra months at a five-person team runs $75,000. The actual math favors pre-production investment, not cuts.
 
-The studios I've watched scale well understand that pre-production is essentially risk purchasing. You're paying to eliminate the most expensive unknowns before the team is big enough that surprises become catastrophic.
-
----
-
+Studios that scale well understand pre-production as risk purchasing. You're paying to kill the most expensive unknowns before the team grows big enough that surprises become catastrophic.
 
 ---
 
-The studios shipping games on time and on budget aren't the ones who found a way to skip pre-production. They're the ones who figured out how to run it with discipline and treat it as the highest-leverage phase of development. Spend the time. Answer the expensive questions early. The game you actually ship will be better for it.
+The studios shipping games on schedule and on budget aren't the ones who found a way to skip pre-production. They're the ones who ran it with discipline and treated it as their highest-leverage phase. Spend the time. Answer the expensive questions early. The game you actually ship will be better.
 
 *Photo: [Anete Lusina](https://www.pexels.com/@anete-lusina) via Pexels*

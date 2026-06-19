@@ -24,14 +24,11 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
 Halfway through sprint review, your lead artist goes quiet. The creative director just called their environment work "a good start" and asked for "more energy." No specifics. No examples. Just vibes-based criticism delivered in front of the team. The artist nods, says nothing, and spends the next two weeks technically doing their job while emotionally checking out. You've just watched morale die in real time, and the worst part is the creative director genuinely thought they were being helpful.
 
 This is the most common production failure no one talks about. Studios obsess over crunch management, milestone planning, and pipeline efficiency. Feedback culture? Mostly an afterthought. But bad feedback loops kill games just as surely as bad budgets. They drive your best people out the door, create a culture of self-censorship where no one takes creative risks, and turn your review sessions into something the team dreads rather than uses.
 
 Here's how to fix it.
-
----
 
 ## Why Creative Feedback Goes Wrong (And It's Usually Structural, Not Personal)
 
@@ -39,19 +36,17 @@ Most feedback problems aren't about bad intentions. The creative director above 
 
 The three structural failures I see most often:
 
-**Feedback without criteria.** If your team doesn't know what "good" looks like before they start work, any criticism lands as arbitrary judgment. You can't hit a target no one drew.
+**Feedback without criteria.** Your team doesn't know what "good" looks like before they start work, so any criticism lands as arbitrary judgment. You can't hit a target no one drew.
 
-**Public critique without psychological safety.** Group review sessions are useful, but they're a terrible place to deliver substantive negative feedback for the first time. People perform defensiveness in public. They actually hear you in private.
+**Public critique without psychological safety.** Group review sessions are useful for some things. They're a terrible place to deliver substantive negative feedback for the first time. People perform defensiveness in public. They actually hear you in private.
 
 **One-way transmission.** Feedback given with no mechanism for response or clarification isn't feedback, it's a verdict. The difference matters enormously to the person receiving it.
 
 Fix the structure and you fix most of the morale damage.
 
----
-
 ## Setting Creative Standards Before the Work Starts
 
-The single highest-leverage thing a producer can do for feedback culture costs nothing and takes about two hours per project phase: write a creative brief that defines the target before anyone opens a tool.
+The single highest-leverage move a producer can make for feedback culture costs nothing and takes about two hours per project phase: write a creative brief that defines the target before anyone opens a tool.
 
 A useful creative brief for a game asset or system isn't a wall of prose. It answers four questions:
 
@@ -62,13 +57,11 @@ A useful creative brief for a game asset or system isn't a wall of prose. It ans
 
 When the brief exists, feedback has a reference point. Instead of "this doesn't feel right," a reviewer can say "the player-facing goal was tension, and this reads as peaceful, here's why." That's a conversation the artist can work with. It also protects them from scope creep masquerading as feedback.
 
-Tools like [Notion](https://www.notion.so/) or [Confluence](https://www.atlassian.com/software/confluence) work well for housing briefs where the whole team can access and comment on them. [Milanote](https://milanote.com/) is worth looking at for visual briefs that need mood references alongside text.
-
----
+[Notion](https://www.notion.so/) or [Confluence](https://www.atlassian.com/software/confluence) work well for housing briefs where the whole team can access and comment on them. [Milanote](https://milanote.com/) is worth looking at for visual briefs that need mood references alongside text.
 
 ## A Step-by-Step Framework for Delivering Feedback That Actually Works
 
-This isn't complicated. What makes it hard is consistency, specifically, doing it this way when you're under deadline pressure and tempted to just fire off a Slack message.
+This isn't complicated. What makes it hard is consistency, specifically doing it this way when you're under deadline pressure and tempted to just fire off a Slack message.
 
 **Step 1: Name what you're evaluating against.**
 Before giving any critique, state the brief criteria you're referencing. "Against what we defined for this level's pacing goals..." This signals that your feedback is principled, not personal.
@@ -84,8 +77,6 @@ Why does it matter? "When the path is hard to read, playtesters miss the objecti
 
 **Step 5: Define the next concrete action.**
 Every feedback session should end with a specific, agreed task. Not "rework the lighting," but "adjust the midpoint lighting so the path marker is visible within two seconds of entering the section, and flag me when it's in for a quick look."
-
----
 
 ## The Public vs. Private Feedback Rule
 
@@ -103,8 +94,6 @@ A workable model:
 
 The group session becomes a lot more functional when it isn't doing the job it was never designed to do. It's for alignment, celebration, and shared context. Not for delivering news that blindsides someone in front of their peers.
 
----
-
 ## Building Feedback Resilience Into Your Team Culture
 
 Morale isn't just about how feedback is delivered. It's about whether the team believes the feedback is worth engaging with at all. If revisions feel arbitrary, if direction changes constantly, if nobody ever explains why a decision was made, people stop investing in getting things right. They start working to avoid criticism rather than achieve something.
@@ -118,11 +107,6 @@ A few things that make a real difference over time:
 **Read Liz Wiseman's *Multipliers* and Kim Scott's *Radical Candor*.** Neither is specifically about games, but both are among the most practically useful books I've given to studio leads dealing with feedback culture issues. *The Art of Game Design* by Jesse Schell also has a sharp chapter on the feedback dynamics specific to creative teams in games.
 
 For producers who want a more structured approach to team health, [TeamRetro](https://www.teamretro.com/) integrates with agile workflows and gives you a regular, structured way to surface feedback issues before they compound.
-
----
-
-
----
 
 Feedback culture is a production problem. That means it's yours to own, whether or not you're the one giving the feedback. The best thing you can do right now is look at your next review session and ask one question: does everyone in that room know what they're being evaluated against? If the answer is no, start there. Everything else follows.
 

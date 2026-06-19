@@ -24,7 +24,6 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 You're three sprints into your new project, the board looks clean, velocity feels steady, and then a senior animator drops a task that reads "character rig polish" estimated at 3 points. Two weeks later it's still open, now flagged at 11 points, and the feature it was blocking has slipped. Nobody lied. Nobody was lazy. The estimate was just wrong in a way nobody caught during planning. That's not an execution problem. That's a sprint planning problem.
 
 Sprint planning in game development breaks differently than it does in software. The work is more ambiguous, the dependencies are weirder, and the creative unpredictability is real. I spent a lot of time assuming that standard Scrum planning was basically fine with a few tweaks. What surprised me was how much that assumption was costing teams I worked with.
@@ -33,11 +32,13 @@ Sprint planning in game development breaks differently than it does in software.
 
 Most Scrum literature was written by and for software engineers building defined systems. The inputs are clear, the outputs are testable, and "done" means the same thing to everyone in the room. Game development has art, design, narrative, engineering, and audio all colliding inside the same sprint. A gameplay feature isn't done when the code ships. It's done when it feels right, and "feels right" is a moving target that shifts every time a creative director looks at it.
 
-I'll be honest: the research here is mixed on exactly how much creative variance adds to schedule overrun, but from my 14 years in studios ranging from 8-person indie teams to 200-person AAA departments, the pattern is consistent. Teams that apply Scrum verbatim without adapting it to creative work suffer higher mid-sprint scope change and more carryover than teams that build their planning sessions around that creative unpredictability upfront.
+I'll be honest: the research here is mixed on exactly how much creative variance adds to schedule overrun. But from my 14 years in studios ranging from 8-person indie teams to 200-person AAA departments, the pattern is consistent. Teams that apply Scrum verbatim without adapting it to creative work suffer higher mid-sprint scope change and more carryover than teams that build their planning sessions around that creative unpredictability upfront.
 
 ## What Actually Goes Into a Game Dev Sprint Planning Session
 
-Most teams treat sprint planning as a backlog grooming meeting that accidentally went longer. It shouldn't be that. A well-run planning session for a game dev team has three distinct phases.
+Most teams treat sprint planning as a backlog grooming meeting that accidentally went longer. It shouldn't be that.
+
+A well-run planning session for a game dev team has three distinct phases.
 
 **Phase 1: Capacity check.** Not just headcount. Actual available hours accounting for meetings, reviews, playtests, and the reality that creative workers don't sustain 8-hour deep work days. A 10-person team does not have 400 hours per 2-week sprint. Budget 60-70% of raw hours as a realistic ceiling until your team's actual velocity proves otherwise.
 
@@ -47,9 +48,11 @@ Most teams treat sprint planning as a backlog grooming meeting that accidentally
 
 ## The Estimation Problem (And How to Make It Less Terrible)
 
-Story points are fine. T-shirt sizing works. What doesn't work is estimating game tasks the same way you'd estimate building a login screen. "Character rig polish" should never be a single task. Break it into: identify rig issues, prioritize fixes by animation dependency, implement fixes, animator review, sign-off. Each step is estimable. The blob isn't.
+Story points are fine. T-shirt sizing works. What doesn't work is estimating game tasks the same way you'd estimate building a login screen.
 
-A practical comparison:
+"Character rig polish" should never be a single task. Break it into: identify rig issues, prioritize fixes by animation dependency, implement fixes, animator review, sign-off. Each step is estimable. The blob isn't.
+
+Here's what that looks like in practice:
 
 | Bad Task | Better Version |
 |---|---|
@@ -61,20 +64,17 @@ The better version can be estimated. It can be blocked or unblocked. It has a cl
 
 ## Dealing With Creative Directors, Producers, and Scope Creep Mid-Sprint
 
-Sprint planning doesn't end at the planning meeting. What I've seen kill more sprints than estimation errors is uncontrolled mid-sprint additions from leadership. A creative director plays a build on day 6 and drops three new requests into the board. This isn't malicious. It's how creative people engage with their work.
+Sprint planning doesn't end at the planning meeting. What kills more sprints than estimation errors is uncontrolled mid-sprint additions from leadership. A creative director plays a build on day 6 and drops three new requests into the board. This isn't malicious. It's how creative people engage with their work.
 
 Build a formal swap protocol. New work in means old work out, with the same point weight, agreed by the team not just the producer. Document the swap in your project management tool so velocity data stays accurate. Jira, Shortcut (formerly Clubhouse), and Hack'n'Plan all support this without much friction. Hack'n'Plan is specifically built for games and handles this better than generic PM tools.
 
 ## Books and Courses That Actually Help
 
-If you want to go deeper, *Agile Game Development* by Clinton Keith is the closest thing the industry has to a canonical reference. Keith worked at Pandemic Studios and writes with actual production credibility. For broader production fundamentals, the Game Production Masterclass on Udemy by Mighty Studios covers sprint workflows for small-to-mid teams at a reasonable price point.
+*Agile Game Development* by Clinton Keith is the closest thing the industry has to a canonical reference. Keith worked at Pandemic Studios and writes with actual production credibility.
 
-For tools: Hack'n'Plan is worth a serious look for any team under 50 people. Jira remains the industry standard at scale but has a setup cost. Notion works surprisingly well for indie teams that need lightweight sprint boards without the infrastructure overhead.
+For broader production fundamentals, the Game Production Masterclass on Udemy by Mighty Studios covers sprint workflows for small-to-mid teams at a price point that won't feel wasted.
 
-Confluence paired with Jira is the right call for documentation-heavy teams. Google Workspace is fine until it isn't. The tool matters less than the discipline of maintaining it.
-
----
-
+On tools: Hack'n'Plan is worth a serious look for any team under 50 people. Jira remains the industry standard at scale, though the setup cost is real. Notion works surprisingly well for indie teams that need lightweight sprint boards without infrastructure overhead. Confluence paired with Jira is the right call for documentation-heavy teams. Google Workspace is fine until it isn't. The tool matters less than the discipline of maintaining it.
 
 ---
 

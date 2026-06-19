@@ -24,14 +24,11 @@ faqs:
 author_slug: "jordan-lee"
 author_title: "Contributing Writer"
 ---
-
 Your publisher contact just forwarded your milestone report to their finance team, and now someone in accounting wants a 30-minute call to understand "why it takes so long to make a video game." You've been in production for eight months. You have 40,000 words of design documentation, a Jira board with 600 tickets, and a team of 12 people who haven't slept properly since Q1. And now you have to explain all of that to someone whose last gaming experience was Minesweeper.
 
-This situation happens constantly. It happens with investors, with family members at Thanksgiving, with journalists who cover tech but not games, and with platform partners who understand software but not *creative* software. Most developers handle it badly, not because they're poor communicators, but because they're explaining the wrong things. They lead with process when they should lead with stakes. They use jargon when they need analogies. And they underestimate how genuinely foreign the game development world looks from the outside.
+This happens constantly. With investors. Family members at Thanksgiving. Journalists who cover tech but not games. Platform partners who understand software but not *creative* software. Most developers bomb these conversations, not because they're bad communicators, but because they're explaining the wrong things. They lead with process when they should lead with stakes. They default to jargon when they need analogies. And they badly underestimate how genuinely foreign the game development world looks from outside the industry.
 
-Here's how to fix that.
-
----
+Here's how to actually fix that.
 
 ## Why Game Development Defies Normal Software Logic
 
@@ -39,11 +36,9 @@ The first thing most outsiders reach for is a comparison: "So it's like building
 
 Building a game means simultaneously producing software, art, music, narrative, UX, and interactive systems that all have to work together and *feel good*. That last part is the killer. "Feels good" isn't a spec. You can't unit-test fun. A combat system can be technically complete and still be miserable to play, which means you throw it out and start again. No app developer has to worry about whether their spreadsheet tool is emotionally satisfying.
 
-I've used this framing with non-technical stakeholders and it lands well: imagine you're building a theme park ride, except you don't know if the ride is enjoyable until you're actually on it, and you can only build one prototype at a time, and the prototype costs six months of work. That's game development. Every design decision is a hypothesis. Every milestone is a test.
+I've used this framing with non-technical stakeholders and it lands every time: imagine you're building a theme park ride, except you don't know if it's enjoyable until you're actually on it, and you can only build one prototype at a time, and the prototype costs six months of work. That's game development. Every design decision is a hypothesis. Every milestone is a test.
 
-What most people don't realize is that a significant portion of game development time isn't spent building features. It's spent *evaluating* features, realizing they don't work, and either reworking or cutting them. A feature that makes it into a shipped game might represent 30% of the actual work that went into that design area. The other 70% is invisible.
-
----
+What most people don't realize is that a huge chunk of game development time isn't spent building features. It's spent *evaluating* features, realizing they don't work, and either reworking or cutting them. A feature that actually ships might represent 30% of the work that went into that design area. The other 70%? Invisible.
 
 ## The Language of Scope, and Why It's Always More Than It Sounds
 
@@ -51,7 +46,7 @@ When you tell someone outside the industry that your game has "two hundred enemy
 
 This is the multiplication problem. Every feature in a game description is actually a cluster of interdependent tasks across multiple disciplines. A single new weapon in an action RPG can touch character art, VFX, audio, UI, game design, engineering, and QA. If any one of those drops a ball, the weapon doesn't ship.
 
-When explaining scope to outsiders, I recommend the "layers" method. Pick one feature your audience can visualize, then walk them down the layers:
+When explaining scope, use the "layers" method. Pick one feature your audience can actually picture, then walk them down the stack:
 
 1. **Concept**: What is it supposed to do? How does it feel?
 2. **Design**: How does it interact with existing systems?
@@ -63,11 +58,9 @@ When explaining scope to outsiders, I recommend the "layers" method. Pick one fe
 
 Seven layers. One feature. That's not inefficiency. That's the work.
 
----
-
 ## How to Talk About Timelines Without Sounding Evasive
 
-Nothing makes a game developer look bad to an outsider faster than a slipping release date. The instinct from people in finance, publishing, or PR is that delays mean poor planning. Sometimes that's true. But often it reflects something that's genuinely hard to explain: creative software development has irreducible uncertainty baked in.
+Nothing makes a game developer look worse to an outsider faster than a slipping release date. Finance people, publishers, and PR teams instinctively assume that delays mean poor planning. Sometimes that's true. But often it reflects something genuinely hard to explain: creative software development has irreducible uncertainty.
 
 Here's a comparison that helps:
 
@@ -79,17 +72,15 @@ Here's a comparison that helps:
 | Scope is fixed at greenlight | Scope evolves as the game reveals itself |
 | QA is a final step | QA is woven through the entire production |
 
-When I'm talking to someone who needs a timeline they can trust, I stop trying to defend the schedule and start explaining *how we manage uncertainty instead of eliminate it*. Agile sprints, vertical slices, alpha/beta gates, these aren't bureaucratic overhead. They're tools for catching expensive mistakes early. Frame it that way and most intelligent business people get it immediately.
+When I'm talking to someone who needs a timeline they can trust, I stop defending the schedule and start explaining *how we manage uncertainty instead of eliminate it*. Agile sprints. Vertical slices. Alpha and beta gates. These aren't bureaucratic overhead. They're tools for catching expensive mistakes early. Frame it that way and most intelligent business people get it immediately.
 
-A useful line I've borrowed from senior producers I respect: "We don't know exactly when we'll be done, but we know exactly what we'll know by this date, and that's what this milestone buys us."
-
----
+A line I've borrowed from senior producers: "We don't know exactly when we'll be done, but we know exactly what we'll know by this date, and that's what this milestone buys us."
 
 ## Making the Team Structure Make Sense
 
 Game studios look bizarre from the outside. Why does a 15-person team need both a game designer and a level designer? What does a technical artist actually do? Why are there three different people with "producer" in their title?
 
-The clearest way I've found to explain studio structure is to map it to something people already understand: film production. It's not a perfect analogy, but it's close enough to be useful.
+The clearest explanation I've found maps studio structure to film production. It's not perfect, but it's close enough.
 
 - The **game director** is your director. Creative vision, final say on feel.
 - The **producer** is your line producer. Schedule, budget, people, risk.
@@ -98,13 +89,11 @@ The clearest way I've found to explain studio structure is to map it to somethin
 - **Game designers** are a hybrid of screenwriter and choreographer. They write the rules that create experience.
 - **QA** is your continuity department, except they also stress-test the set for structural collapse.
 
-Once people have that map, the org chart stops looking like redundancy and starts making sense.
-
----
+Once people have that map, the org chart stops looking like redundancy.
 
 ## Practical Steps for Your Next Stakeholder Conversation
 
-Whether you're prepping for an investor meeting, a publisher check-in, or a family dinner where someone asks why your game "isn't done yet," here's a repeatable approach:
+Whether you're prepping for an investor meeting, a publisher check-in, or explaining to family why the game "isn't done yet," here's what actually works:
 
 1. **Lead with the experience, not the process.** Start with what the player will feel, not how the systems work. Stakeholders care about outcomes.
 2. **Use one concrete example to represent the whole.** Don't try to explain all of production. Pick one feature and walk them through it completely.
@@ -112,15 +101,13 @@ Whether you're prepping for an investor meeting, a publisher check-in, or a fami
 4. **Acknowledge what's hard without being defensive.** Saying "this part is genuinely difficult and here's why" builds more credibility than pretending everything is under control.
 5. **Give them a role.** Ask what they need to feel confident. Sometimes a weekly status email replaces a 30-minute confusion call.
 
----
-
 ## Tools That Make This Easier
 
-If you're a producer trying to communicate production realities to people outside your team, the right tools help enormously. A few that actually earn their place:
+If you're a producer trying to communicate production realities to people outside your team, the right tools help. A few that actually earn their place:
 
-**[Notion](https://www.notion.so)** works well for building stakeholder-facing dashboards that show progress without exposing the chaos of your internal Jira board. You can curate what they see.
+**[Notion](https://www.notion.so)** works well for building stakeholder-facing dashboards that show progress without exposing the chaos of your internal Jira board. You curate what they see.
 
-**[Codecks](https://www.codecks.io)** was designed for game developers specifically. Its visual card format communicates progress in a way that non-technical stakeholders find intuitive.
+**[Codecks](https://www.codecks.io)** was designed specifically for game developers. Its visual card format communicates progress in a way that non-technical stakeholders find intuitive.
 
 For building your own communication skills, *The Art of Game Design* by Jesse Schell is the best book I know for understanding why games work the way they do. When you understand it deeply yourself, explaining it to others gets much easier.
 
@@ -128,9 +115,6 @@ Coursera's **Game Design and Development Specialization** from Michigan State al
 
 ---
 
-
----
-
-The goal of all of this isn't to make outsiders love game development or fully understand it. The goal is to get them informed enough to trust you and your team. You're not writing a textbook. You're building just enough of a shared vocabulary that the conversation can be useful. Most people, once they understand that "we're discovering the game as we build it" isn't an excuse but a description of how creative software works, will cut you a lot more slack than you'd expect.
+The goal of all this isn't to make outsiders love game development or fully understand it. The goal is to get them informed enough to trust you and your team. You're not writing a textbook. You're building just enough of a shared vocabulary that the conversation becomes useful. Most people, once they understand that "we're discovering the game as we build it" isn't an excuse but a description of how creative software works, will cut you way more slack than you'd expect.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

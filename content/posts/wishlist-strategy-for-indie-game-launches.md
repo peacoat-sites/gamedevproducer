@@ -13,34 +13,33 @@ author_bio: "Jordan Lee went from solo developer to small studio founder, shippi
 slug: "wishlist-strategy-for-indie-game-launches"
 affiliate_disclosure: true
 ---
+Most indie developers treat wishlists like a vanity metric. They hit 1,000, post about it on Twitter, then forget the whole thing exists. I've watched this sink otherwise solid launches.
 
-Most indie developers treat wishlists like a vanity metric. They celebrate hitting 1,000, post about it on social media, and then go back to making the game. That's a mistake, and I've watched it sink otherwise solid launches.
+Wishlists aren't a scoreboard. They're your pre-launch distribution engine. The number that actually matters isn't how many you have, it's how many convert on launch day, and everything before release should be engineered backward from that conversion window.
 
-Wishlists are your pre-launch distribution engine. They're not a scoreboard. The number that matters isn't how many you have, it's how many convert on launch day, and everything before release should be engineered around that conversion window.
-
-I'll be honest: I didn't fully understand this until I was post-mortem on a 2021 project where we had 8,400 wishlists and a launch-week conversion rate of just under 11%. That's roughly 920 sales in week one. Decent, but not great for 14 months of visibility work. When I went digging, the problem wasn't the total count. It was when we got the wishlists and how stale the list was by the time we launched.
+I didn't fully understand this until I was doing a post-mortem on a 2021 project. We had 8,400 wishlists and a launch-week conversion rate of just under 11%. That's roughly 920 sales in week one. Decent on paper, but disappointing for 14 months of visibility work. When I started digging into what went wrong, the total count wasn't the problem. It was when we'd gotten those wishlists and how stale they'd gone by the time we launched.
 
 ## The Staleness Problem Nobody Talks About
 
-Here's the thing Steam doesn't advertise loudly: wishlists decay. People add your game, forget about it, buy something else, move on with their lives. The research here is genuinely mixed on exact decay rates, but the practical reality is that wishlists added more than 12-18 months before your launch are converting at a fraction of the rate of recent ones. Some studios report drops to 4-5% conversion on lists that have aged past 18 months versus 20-30%+ on lists built in the 6 months before launch.
+Steam doesn't advertise this loudly: wishlists decay. People add your game, forget about it, buy something else, move on. The research on exact decay rates is mixed, but the practical reality is brutal. Wishlists added more than 12-18 months before your launch convert at a fraction of the rate of recent ones. Some studios report drops to 4-5% conversion on lists aged past 18 months versus 20-30%+ on lists built in the 6 months before launch.
 
-So if your launch is 24 months away and you're grinding for wishlists now because a YouTuber told you to, stop. You're building a leaky bucket.
+So if your launch is 24 months away and you're grinding for wishlists now because a YouTuber said so, stop. You're building a leaky bucket.
 
 The better play is a tiered strategy tied to your actual development timeline.
 
-**Tier 1 (18+ months out):** Minimal wishlist activity. Focus on building community channels you own, a Discord server, an email list, a Substack if you're into that. Email subscribers convert at a completely different rate than cold wishlists because you have an active relationship with them. An email list of 3,000 genuinely interested people is worth more than 10,000 stale wishlists.
+**Tier 1 (18+ months out):** Minimal wishlist activity. Focus instead on community channels you own. A Discord server. An email list. A Substack if you're into that. Email subscribers convert at a completely different rate than cold wishlists because you have an active relationship with them. An email list of 3,000 genuinely interested people beats 10,000 stale wishlists.
 
-**Tier 2 (6-12 months out):** This is when you start real wishlist pushing. A strong Steam Next Fest debut here is gold. The timing matters enormously. I've seen developers blow their Next Fest appearance 18 months before launch and get 30,000 wishlists that mostly evaporated by ship date.
+**Tier 2 (6-12 months out):** This is when real wishlist pushing starts. A strong Steam Next Fest debut here is gold. The timing matters enormously. I've seen developers blow their Next Fest slot 18 months before launch and watch 30,000 wishlists mostly evaporate by ship date.
 
 **Tier 3 (1-3 months out):** Everything. Press, influencers, paid social if your budget allows, your email list, Discord announcements, the works. These are your highest-converting wishlists.
 
 ## What Actually Moves the Needle
 
-Let me give you the specific channels I've seen produce real results, ranked honestly by effort-to-return.
+Here are the specific channels I've seen produce real results, ranked honestly by effort-to-return.
 
-Steam Next Fest is the highest ROI wishlist event in indie game development, full stop. If you're eligible and you skip it, I genuinely don't understand your reasoning. The 2025 June and October editions saw mid-tier indie demos regularly pulling 5,000-15,000 wishlists in six days. Your game needs to be playable and you need a trailer that converts in the first 15 seconds, but the upside is real.
+Steam Next Fest is the highest ROI wishlist event in indie game development. Full stop. If you're eligible and you skip it, I genuinely don't understand your reasoning. The 2025 June and October editions saw mid-tier indie demos regularly pulling 5,000-15,000 wishlists in six days. Your game needs to be playable and you need a trailer that converts in the first 15 seconds, but the upside is real.
 
-What surprised me was how consistently TikTok and YouTube Shorts outperform Twitter/X for actual wishlist clicks. Not engagement, clicks. Short-form video with a direct call to action and a link in bio punches well above its weight for games that have any visual hook. I've tracked campaigns where a single TikTok from a mid-size creator (150K followers, gaming-adjacent) drove more wishlist adds than a press feature on a site with 2M monthly readers.
+What surprised me was how consistently TikTok and YouTube Shorts outperform Twitter/X for actual wishlist clicks. Not engagement, clicks. Short-form video with a direct call to action and a link in bio punches well above its weight for games with any visual hook. I tracked a campaign where a single TikTok from a mid-size creator (150K followers, gaming-adjacent) drove more wishlist adds than a press feature on a site with 2M monthly readers.
 
 Press coverage still matters, but differently than it used to. A review from a major outlet probably isn't moving 10,000 wishlists for an unknown indie. What it does is signal legitimacy to the algorithm and to influencers who vet games before covering them. Think of press as infrastructure, not a direct wishlist driver.
 
@@ -54,17 +53,15 @@ I've A/B tested capsule images on two separate projects. The version with a read
 
 Your short description (the one above the "About This Game" section) gets skipped by most people, but Steam's algorithm reads it for discoverability. Put your genre keywords there naturally. Not stuffed, naturally. "A roguelike deckbuilder set in a crumbling bureaucracy" tells the algorithm something useful and tells the human something useful.
 
-One thing I'd push back on that I hear constantly: "don't launch early access too early." I actually think a confident Early Access launch at 70-80% content completion, with aggressive community involvement and a public roadmap, can be a better wishlist-to-sales conversion play than waiting for a full 1.0. You capture the wishlist at peak audience interest, you maintain that relationship through updates, and your 1.0 becomes a second launch event. Hades did this. So did Vampire Survivors, Satisfactory, and a dozen others. It's not for every game, but the "wait for perfect" instinct kills a lot of indie launches.
+Here's something I'd push back on that I hear constantly: "don't launch Early Access too early." I actually think a confident Early Access launch at 70-80% content completion, with aggressive community involvement and a public roadmap, can be a better wishlist-to-sales conversion play than waiting for a full 1.0. You capture the wishlist at peak audience interest, you maintain that relationship through updates, and your 1.0 becomes a second launch event. Hades did this. Vampire Survivors. Satisfactory. A dozen others I could name. It's not for every game, but the "wait for perfect" instinct kills a lot of indie launches.
 
 ## The 72-Hour Window
 
 Launch week on Steam means the first 72 hours. That's when the algorithm is watching hardest, when the new release boost applies, and when your "New and Trending" visibility is earned or lost. Your wishlist conversion in that window is what determines whether Steam continues showing your game organically or quietly deprioritizes it.
 
-This means your marketing calendar needs to work backward from hour one of launch, not forward from "we announced the release date." Every influencer collaboration, every press send, every email blast to your list should be timed to hit in the 48 hours before and 24 hours after release. Staggered drops over a week sounds sophisticated. It actually diffuses your launch momentum.
+This means your marketing calendar needs to work backward from hour one of launch, not forward from "we announced the release date." Every influencer collaboration, every press send, every email blast to your list should be timed to hit in the 48 hours before and 24 hours after release. Staggered drops over a week sounds sophisticated. It diffuses your launch momentum.
 
 Use a tool like GameAnalytics for post-launch tracking, and set up UTM parameters on every external link before you launch. You need to know exactly where your wishlist conversions came from, or you can't improve the next campaign.
-
----
 
 ### FAQ
 

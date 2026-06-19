@@ -24,14 +24,13 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
-Your team just wrapped a killer prototype. The creative director is buzzing, stakeholders are nodding, and someone tapes a sprint board to the wall. Two weeks later, half the tickets are in "In Progress," nobody can agree on what "done" means for a concept exploration task, and the lead designer hasn't touched the board in a week because she's busy writing a 30-page GDD that will probably change three more times before alpha. Sound familiar? That's not a discipline problem. That's Scrum colliding with a phase it was never built for.
+Your team just wrapped a killer prototype. The creative director is buzzing, stakeholders are nodding, and someone tapes a sprint board to the wall. Two weeks later, half the tickets are stuck in "In Progress," nobody can agree on what "done" means for a concept exploration task, and the lead designer hasn't touched the board in a week because she's busy writing a 30-page GDD that will probably change three more times before alpha. Sound familiar? That's not a discipline problem. That's Scrum colliding with a phase it was never built for.
 
 ## What Pre-Production Actually Is (and Why It's Different)
 
 Pre-production is a discovery process. You're trying to answer questions you don't fully know how to ask yet. What's the core loop? Does it feel fun? What's the production risk? Can we actually build this with the team and budget we have? The deliverables are fuzzy by design, because the whole point is to reduce uncertainty, not ship increments of a known product.
 
-Scrum, on the other hand, was designed for teams that already know what they're building. The framework assumes a stable product backlog, a clear definition of "done," and incremental delivery of working software. It works beautifully when a feature team is implementing a login system, adding weapon skins, or fixing a regression in a lighting system. The shape of the work is clear. The output is verifiable.
+Scrum was designed for something else entirely. It assumes a stable product backlog, a clear definition of "done," and incremental delivery of working software. It works beautifully when a feature team is implementing a login system, adding weapon skins, or fixing a regression in a lighting system. The work has shape. The output is verifiable.
 
 Pre-production breaks those assumptions completely. You might spend three days building a prototype that gets thrown away on purpose. A designer might need two weeks of open-ended play research before she can write a single user story. A technical director might need to spike on three different engine approaches before the team can scope anything at all. None of that maps cleanly to a two-week sprint with defined acceptance criteria.
 
@@ -72,7 +71,7 @@ You don't have to throw out every Agile tool. You just have to be selective.
 
 **Weekly milestones** work better than sprints during this phase. Define what question you'll answer or what prototype you'll have by end of week, keep the team pointed at that, and run a lightweight retrospective focused on "did we answer the question and what did we learn?" not "did we hit our velocity target?"
 
-For producers who want to go deeper on this, *The Art of Game Design* by Jesse Schell has a solid lens on iterative design thinking that maps well onto pre-production planning, even though it's not explicitly a production methodology book. *Blood, Sweat, and Pixels* by Jason Schreier is great for understanding how real pre-production actually went on shipped games, warts and all. For online learning, the Game Production curriculum on Coursera from Michigan State University covers phase-specific management in a way that most generic Agile courses skip entirely.
+For producers who want to go deeper, *The Art of Game Design* by Jesse Schell has a solid lens on iterative design thinking that maps well onto pre-production planning, even though it's not explicitly a production methodology book. *Blood, Sweat, and Pixels* by Jason Schreier is great for understanding how real pre-production actually went on shipped games, warts and all. For online learning, the Game Production curriculum on Coursera from Michigan State University covers phase-specific management in a way that most generic Agile courses skip entirely.
 
 ## How to Transition Your Team Without Blowing Up Trust
 
@@ -100,11 +99,6 @@ Your sprint board has more than 20% of tickets in "In Progress" at any given tim
 
 That last one is the most dangerous. When your most creative people decouple from the process, you don't lose their productivity immediately. You lose it gradually, and you lose the process's ability to surface creative risk, which is exactly what you need pre-production to do.
 
----
-
-
----
-
-Pre-production is where games live or die. Get it wrong and you spend production fixing design problems that should have been caught earlier, which is the most expensive possible time to catch them. The framework you use during this phase should be designed to maximize learning speed and creative clarity, not task completion rate. Scrum is a great tool. It's just not always the right tool for this job, and knowing the difference is one of the things that separates a good producer from a great one.
+Pre-production is where games live or die. Get it wrong and you spend production fixing design problems that should have been caught earlier. That's the most expensive possible time to catch them. The framework you use during this phase should be designed to maximize learning speed and creative clarity, not task completion rate. Scrum is a great tool. It's just not always the right tool for this job, and knowing the difference is one of the things that separates a good producer from a great one.
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

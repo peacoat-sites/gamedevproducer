@@ -24,7 +24,6 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 Fourteen years in, and I still watch teams make the same call for the wrong reasons: they pick waterfall because it feels "professional," or they pick agile because they heard a podcast about Scrum and it sounded modern. Neither instinct is a good enough reason. The method you choose shapes everything from your budget burn rate to whether your lead designer is still speaking to your lead programmer by month six.
 
 Let me tell you what actually happens.
@@ -41,67 +40,64 @@ Let me tell you what actually happens.
 
 ## What These Methods Look Like When the Rubber Meets the Road
 
-On paper, waterfall is sequential: design everything, then build everything, then test everything, then ship. Agile (in its various flavors: Scrum, Kanban, SAFe, or whatever hybrid your studio cobbled together) means working in short cycles, constantly reassessing, and treating the design document as a living thing rather than a contract.
+On paper, waterfall is straightforward: design everything, build everything, test everything, ship. Agile, in whatever flavor your studio cobbled together (Scrum, Kanban, SAFe, or some hybrid), means working in short cycles, constantly reassessing, and treating the design document as something that changes rather than something carved in stone.
 
-What most people don't realize is that both of these descriptions are basically fiction by the time they hit an actual game development team.
+Here's what nobody talks about: both descriptions are basically fantasy once they hit a real game team.
 
-Pure waterfall died in AAA around 2005 to 2008. The post-mortems from that era are a graveyard of "we had a complete GDD and still shipped something broken." The Dungeon Siege II post-mortem, the Tribes: Vengeance retrospectives, dozens of GDC talks, all telling variations of the same story: writing exhaustive specs upfront didn't prevent disaster. It just made the disaster more expensive.
+Pure waterfall died in AAA around 2005 to 2008. The post-mortems from that era are a graveyard of "we had a complete GDD and still shipped something broken." Dungeon Siege II, Tribes: Vengeance, dozens of GDC talks, all the same story. Exhaustive specs upfront didn't prevent disaster. They just made it more expensive.
 
-On the other side, pure Scrum, the way it's described in the Scrum Guide, works great for software products where you're building features toward a known end state. Games are not that. A two-week sprint makes a lot of sense when your backlog is "add payment processing" and "fix login bug." It makes less sense when your backlog item is "figure out whether the combat feels good." Game feel isn't a ticket you can close.
+Pure Scrum works great for software products building toward a known end state. Games aren't that. A two-week sprint makes sense when your backlog reads "add payment processing" and "fix login bug." It falls apart when your backlog item is "figure out whether the combat feels good." Game feel isn't a ticket you close.
 
-So the honest answer is: almost nobody runs pure waterfall or pure agile in game dev. What you're actually choosing is where on the spectrum to sit, and which properties of each approach to deliberately borrow.
+So here's the honest answer: almost nobody runs pure waterfall or pure agile in game dev. You're choosing where on the spectrum to sit and which properties of each approach to steal.
 
 ## Why Waterfall Still Has a Place (and It's Not Where You Think)
 
-Here's a claim I'll stand behind: waterfall thinking, applied to the right phase, is irreplaceable.
+Waterfall thinking, applied correctly, is irreplaceable. I'll stand behind that.
 
-Pre-production is where waterfall earns its keep. Before you spin up a full team, you need a period of constrained, structured work. What's the game? What's the target platform? What's the budget? What are the non-negotiables? Answering these questions in a structured, sequential way before production begins saves you from the worst kind of agile failure mode, which is "we're iterating, but we're iterating without any idea where we're going."
+Pre-production is where it earns its keep. Before spinning up a full team, you need a period of constrained, structured work. What's the game? What's the target platform? What's the budget? What are the non-negotiables? Answering these in a structured, sequential way before production begins saves you from the worst agile failure: iterating without any idea where you're going.
 
 I've seen indie teams burn through $80,000 in runway doing two-week sprints on a game nobody could describe in one sentence. They called it agile. It was chaos with a Jira board.
 
-That said, using waterfall-style phase gates as checkpoints, where the team pauses, reviews what's been built, and makes a deliberate go/no-go call before the next phase, is something I'd recommend to every team regardless of where they fall on the agile spectrum. Notion makes this easy enough to set up in an afternoon. Even a simple Trello board with columns for Pre-Production, Production, Alpha, Beta, and Gold gives people a shared model of where they are.
+That said, using waterfall-style phase gates as checkpoints, where the team pauses, reviews what's been built, and makes a deliberate go/no-go call before moving forward, is something I'd recommend to every team regardless of methodology. Notion makes this easy enough to set up in an afternoon. Even a simple Trello board with columns for Pre-Production, Production, Alpha, Beta, and Gold gives everyone a shared sense of where they actually are.
 
-The mistake isn't using waterfall thinking. The mistake is applying it too granularly: trying to specify every enemy behavior, every level layout, every progression curve before a single player has touched the thing. That's where the method breaks down for games specifically.
+The real mistake isn't using waterfall thinking. It's applying it too granularly: trying to specify every enemy behavior, every level layout, every progression curve before a single player has touched anything. That's where the method breaks down for games specifically.
 
 ## The Case for Agile (With a Strong Caveat)
 
-The honest case for agile in game development isn't "it's more modern" or "big studios do it." The case is simpler: games are discovery products.
+The honest case for agile in game development isn't about being modern or copying big studios. Games are discovery products.
 
-You don't know if your combat is fun until someone plays it. You don't know if your pacing is right until you watch a tester get bored in level three. You don't know if your tutorial communicates the mechanic until you watch a first-time player completely ignore the thing you spent six weeks building. Games require iteration in a way that, say, a tax preparation app does not. Agile frameworks exist precisely to make iteration cheaper and faster.
+You don't know if combat is fun until someone plays it. You don't know if pacing is right until you watch a tester get bored in level three. You don't know if your tutorial actually works until a first-time player completely ignores the thing you spent six weeks on. Games require iteration in a way a tax app doesn't. Agile frameworks exist to make iteration cheaper and faster.
 
-Scrum specifically gives you cadence: regular sprint reviews force the team to have playable builds at predictable intervals. That's genuinely useful. If you're three months into development and you can't show anyone a build, that's a problem. Scrum's forcing function of "you need to demo this at the end of the sprint" catches that drift early.
+Scrum specifically gives you cadence: regular sprint reviews force the team to have playable builds at predictable intervals. That's genuinely useful. If you're three months in and can't show anyone anything, that's a problem. The forcing function of "you need to demo this at the end of the sprint" catches that drift early.
 
-Kanban, which I'll be honest I prefer for smaller indie teams, skips the fixed sprint structure entirely and just focuses on limiting work in progress. It's less ceremony, more visibility. A well-maintained Kanban board in Trello or Linear tells you instantly where the bottlenecks are.
+Kanban, which I honestly prefer for indie teams, skips the fixed sprint structure entirely and just limits work in progress. Less ceremony, more visibility. A well-maintained Kanban board in Trello or Linear tells you instantly where the bottlenecks are.
 
-The caveat, and it's a real one: agile requires psychological safety to work. If your team is afraid to tell a creative director that the core mechanic isn't landing, no amount of sprint reviews will surface that information. I've watched Scrum ceremonies become performance theater where everyone reports green status and nobody says the actual thing that's wrong. The method doesn't fix team culture. Nothing methodological fixes team culture.
+The caveat is real though: agile requires psychological safety. If your team is afraid to tell the creative director that the core mechanic isn't landing, no sprint review will surface that information. I've watched Scrum ceremonies become pure theater, everyone reporting green status, nobody saying the actual thing that's wrong. The method doesn't fix culture. Nothing does.
 
 ## The Hybrid Approach Most Shipped Games Actually Use
 
-Here's what I saw consistently across studios that actually shipped games on time and within reasonable budget: a waterfall-ish macro structure with agile execution inside each phase.
+Here's what I consistently saw at studios that actually shipped games on time and within reasonable budget: a waterfall-ish macro structure with agile execution inside each phase.
 
-Concretely, that looks something like this:
+This looks like:
 
-Pre-production runs as a structured, milestone-driven phase with explicit exit criteria. You're building a vertical slice. You're answering the question "can we make this game?" You're not doing two-week sprints yet because the design is still in flux. You're doing focused, short bursts of prototyping, then stepping back to evaluate. Think of it as a series of short experiments with a checkpoint at the end. Two to four months for most indie projects, six to twelve for mid-size teams.
+Pre-production runs as a structured, milestone-driven phase with explicit exit criteria. You're building a vertical slice. You're answering "can we make this game?" You're not doing two-week sprints because the design is still in flux. You're doing focused short bursts of prototyping, then stepping back to evaluate. A series of short experiments with a checkpoint at the end. Two to four months for most indie projects, six to twelve for mid-size teams.
 
-Production shifts to sprint-based work, typically two-week cycles, with a clearly maintained backlog prioritized by the producer or project lead. The design document informs the backlog but doesn't constrain it. When playtesting reveals something isn't working, you update the backlog. You don't update the GDD as if you failed some test.
+Production shifts to sprint-based work, typically two-week cycles, with a clearly maintained backlog prioritized by producer or project lead. The design document informs the backlog but doesn't constrain it. When playtesting reveals something's broken, you update the backlog. You don't rewrite the GDD as if you failed some test.
 
-Alpha and Beta phases tighten back up. Scope is now locked or nearly locked. This is where waterfall discipline comes back: no new features, rigorous bug tracking, clear exit criteria for each milestone. Tools like Hacknplan (which is built specifically for game dev, unlike Jira which was built for software engineers and it shows) handle this phase well. Hacknplan runs around $5 to $9 per user per month and gives you milestone tracking that actually maps to how games ship.
+Alpha and Beta tighten back up. Scope is now locked or nearly locked. Waterfall discipline returns: no new features, rigorous bug tracking, clear exit criteria for each milestone. Hacknplan (built specifically for game dev, unlike Jira which obviously wasn't) handles this well. It runs about $5 to $9 per user per month and gives you milestone tracking that actually maps to how games ship.
 
-Postmortems matter here too. I've found the book "Blood, Sweat, and Pixels" by Jason Schreier more useful for understanding how shipped games actually handled production decisions than most formal project management courses. It's $15 on Kindle and reading it will tell you more about real-world game production chaos than a weekend Scrum certification will.
+Jason Schreier's "Blood, Sweat, and Pixels" is worth reading here. It's $15 on Kindle and teaches you more about real-world game production chaos than a weekend Scrum certification will. Postmortems matter.
 
 ## The Tools Question (Because It Comes Up Every Time)
 
-The method you choose affects which tools actually help.
+Your method choice determines which tools actually help.
 
-If you're leaning more agile with sprints: Jira (industry standard, starts free for small teams, gets expensive fast at $7.75 per user per month for the cloud version), Linear (cleaner interface, more developer-friendly, $8 per user per month), or Hacknplan (designed specifically for games, worth trying first).
+Leaning agile with sprints? Jira is the industry standard (free for small teams, then $7.75 per user per month for cloud), Linear has a cleaner interface and better developer experience ($8 per user per month), or Hacknplan was designed specifically for games so it's worth trying first.
 
-If you're running a more structured milestone approach: Notion combined with a shared task tracker works surprisingly well. I've seen small teams run entire productions out of a well-organized Notion workspace at $8 per user per month for the Plus plan. The GameDev.tv courses on game production include some genuinely useful Notion templates if you want a starting point rather than building from scratch.
+Running a more structured milestone approach? Notion combined with a shared task tracker works surprisingly well. Small teams run entire productions out of a well-organized Notion workspace at $8 per user per month for the Plus plan. GameDev.tv courses on game production include useful Notion templates if you want to skip the blank page.
 
-Regardless of which method you use: Slack or Discord for communication, Google Sheets for budget tracking until you need something more sophisticated, and a version control system that your whole team actually uses (GitHub for code, Perforce for larger teams with big assets, Plastic SCM if you're in Unity and want something more integrated).
+Regardless of method: Slack or Discord for communication, Google Sheets for budget tracking until you need something better, and a version control system your whole team actually uses (GitHub for code, Perforce for bigger teams with large assets, Plastic SCM if you're in Unity and want better integration).
 
-
----
-
-Pick the method that matches your game's uncertainty level, your team's size, and the phase of development you're actually in. The studios that ship games don't have the perfect methodology. They have good judgment about when to plan and when to iterate, and they're willing to change their process when the evidence tells them to. That's it. That's the whole thing.
+Pick the method that matches your game's uncertainty level, your team's size, and the phase you're actually in. Studios that ship don't have the perfect methodology. They have good judgment about when to plan and when to iterate, and they're willing to change their process when the evidence tells them to. That's it.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

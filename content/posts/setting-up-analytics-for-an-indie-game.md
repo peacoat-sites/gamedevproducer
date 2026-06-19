@@ -24,30 +24,27 @@ faqs:
   - q: "Should I build my own analytics backend instead of using a third-party tool?"
     a: "Almost certainly not, unless you have a specific reason to keep data fully in-house (like a contract requirement or a deep privacy commitment). Building a reliable event ingestion pipeline, storage layer, and query interface is months of engineering work. The free tools are good. Use them."
 ---
+Most indie developers don't think about analytics until something goes wrong. A game ships, reviews are mixed, players are dropping off somewhere, and suddenly everyone's guessing. Was it the tutorial? The difficulty spike in level three? The shop UI? Nobody knows, because nobody set up the tools to find out.
 
-Most indie developers don't think about analytics until something goes wrong. A game ships, the reviews are mixed, players are dropping off somewhere, and suddenly everyone's guessing. Was it the tutorial? The difficulty spike in level three? The shop UI? Nobody knows, because nobody set up the tools to find out.
-
-Here's what I tell people who are just starting to think about this: analytics isn't a "big studio" thing. It's not overkill for a two-person team. It's actually *more* important for small teams, because you don't have the budget to iterate blindly. Every build cycle costs you time you can't get back.
-
-You might be wondering where to even start. That's what this is for.
+Here's what I tell people who are just starting to think about this: analytics isn't a "big studio" thing. It's not overkill for a two-person team. It's actually more important for small teams, because you don't have the budget to iterate blindly. Every build cycle costs you time you can't get back.
 
 ## What you actually need to measure (and what you don't)
 
 Before you touch a single SDK, get clear on your questions. This sounds obvious. It isn't. I've watched teams instrument 40 custom events, generate a CSV the size of a phone book, and then stare at it with no idea what to do next.
 
-Start with three questions that would genuinely change a decision you're about to make. For most indie games, those questions look something like: Where are players stopping? How long is a first session? And what percentage of players who start the tutorial actually finish it?
+Start with three questions that would genuinely change a decision you're about to make. For most indie games, those are: Where are players stopping? How long is a first session? And what percentage of players who start the tutorial actually finish it?
 
-Retention and session length are the backbone. Almost everything else is decorative until you've nailed those two. If your Day 1 retention is below 30%, no amount of monetization data is going to save you. Fix the experience first.
+Retention and session length matter most. Almost everything else is decorative until you've nailed those two. If your Day 1 retention is below 30%, no amount of monetization data is going to save you. Fix the experience first.
 
-Funnels are where most teams get the most immediate value. A funnel is just a sequence of events you expect players to hit in order: launched game, completed tutorial, reached first level, opened shop. Each drop-off point tells you something. A 60% drop between "launched game" and "completed tutorial" is a catastrophic signal. A 15% drop between "opened shop" and "made first purchase" might be totally acceptable, depending on your monetization model.
+Funnels are where most teams get the most immediate value. A funnel is just a sequence of events you expect players to hit in order: launched game, completed tutorial, reached first level, opened shop. Each drop-off point tells you something. A 60% drop between "launched game" and "completed tutorial" is catastrophic. A 15% drop between "opened shop" and "made first purchase" might be totally acceptable, depending on your monetization model.
 
 Don't instrument for completeness. Instrument for decisions.
 
 ## Choosing your tools without overthinking it
 
-The honest answer is that most indie teams should start with GameAnalytics. It's free, it has a Unity SDK and an Unreal SDK, it handles up to 5 billion events per month on the free tier (which you will never hit), and the dashboard is genuinely readable by humans. I've set it up in a weekend project and had data flowing within a couple of hours.
+Most indie teams should start with GameAnalytics. It's free, it has a Unity SDK and an Unreal SDK, it handles up to 5 billion events per month on the free tier (which you will never hit), and the dashboard is genuinely readable by humans. I've set it up in a weekend project and had data flowing within a couple of hours.
 
-If you're already in the Unity ecosystem and you want something tighter, Unity Analytics (now part of Unity Gaming Services) works fine, but the free tier limits have gotten more restrictive over the last couple of years and the pricing for larger studios has gotten messy. Worth knowing about, not necessarily worth defaulting to.
+If you're already in the Unity ecosystem and want something tighter, Unity Analytics (now part of Unity Gaming Services) works fine. But the free tier limits have gotten more restrictive over the last couple of years and the pricing for larger studios has gotten messy. Worth knowing about, not necessarily worth defaulting to.
 
 For more complex needs, Amplitude is excellent. It's what you'll use if your game has real live-service components, a web presence, or a marketing funnel you need to connect to in-game behavior. The free tier supports up to 50,000 monthly tracked users, which covers most indie launches comfortably. The tradeoff is that Amplitude is built for product analysts, not game developers, so the setup takes longer and the mental model is different.
 
@@ -57,15 +54,15 @@ My actual recommendation for a solo dev or tiny team shipping a premium or free-
 
 ## Setting it up without sinking a sprint into it
 
-This is where a lot of producers hesitate. They know they want analytics, but they're afraid it'll eat a week of dev time they don't have. It won't, if you're disciplined.
+A lot of producers hesitate here. They know they want analytics, but they're afraid it'll eat a week of dev time they don't have. It won't, if you're disciplined.
 
 Here's roughly how to approach the initial integration:
 
-First, add the SDK to your project. For GameAnalytics in Unity, it's a package you pull through the Package Manager or download from their site. The initialization is maybe 10 lines of code. Point it at your game key and secret key (both generated when you create a project in their dashboard), call `GameAnalytics.Initialize()` in your startup scene, and you're collecting basic session data immediately.
+Add the SDK to your project. For GameAnalytics in Unity, it's a package you pull through the Package Manager or download from their site. The initialization is maybe 10 lines of code. Point it at your game key and secret key (both generated when you create a project in their dashboard), call `GameAnalytics.Initialize()` in your startup scene, and you're collecting basic session data immediately.
 
-Second, define your event taxonomy before you write any tracking calls. Decide on a naming convention and write it down somewhere your whole team can see. Something like `[feature]:[action]:[detail]` works well. `tutorial:completed:true`, `level:started:3`, `shop:opened:mainmenu`. The specific convention matters less than the consistency. Inconsistent event names are the single fastest way to end up with useless data.
+Define your event taxonomy before you write any tracking calls. Decide on a naming convention and write it down somewhere your whole team can see. Something like `[feature]:[action]:[detail]` works well: `tutorial:completed:true`, `level:started:3`, `shop:opened:mainmenu`. The specific convention matters less than the consistency. Inconsistent event names are the single fastest way to end up with useless data.
 
-Third, instrument your funnel first. Not your wish list. Your funnel. The five to eight events that represent the critical path through your core loop. Ship that. Look at the data for two weeks. Then add more.
+Instrument your funnel first. Not your wish list. Your funnel. The five to eight events that represent the critical path through your core loop. Ship that. Look at the data for two weeks. Then add more.
 
 One thing I've seen go sideways: teams who add analytics right before launch and then have no baseline. You want to be running analytics during playtesting and soft launch, so you have something to compare against when the real player data comes in. Even a small closed beta with 50 people gives you reference points.
 
@@ -75,11 +72,10 @@ Data can be comfortable. You can look at your average session length and feel go
 
 Segment your players. New users vs. returning users. Platform splits if you're on multiple platforms. Paid vs. organic acquisition if you're running ads. GameAnalytics does basic segmentation automatically. Amplitude makes it easy to build custom segments. The point is: aggregate numbers hide things. Medians are often more honest than averages.
 
-The other trap is confirmation bias. You set up a funnel, you see a drop-off at the point where you already suspected there was a problem, and you immediately conclude the data confirms what you knew. Maybe. But also check whether the drop-off is consistent across all device types, all acquisition sources, all play sessions. Sometimes a "tutorial drop-off" is actually an Android-specific crash you don't know about yet.
+The other trap is confirmation bias. You set up a funnel, you see a drop-off at the point where you already suspected there was a problem, and you immediately conclude the data confirms what you knew. Maybe it does. But also check whether the drop-off is consistent across all device types, all acquisition sources, all play sessions. Sometimes a "tutorial drop-off" is actually an Android-specific crash you don't know about yet.
 
 Firebase Crashlytics (free, integrates with Unity and Unreal via the Firebase SDK) alongside your analytics tool is worth setting up at the same time. Crashes and drop-offs can look identical in a funnel. Knowing which is which changes your response entirely.
 
 ---
 
-
-*Photo: [Rajat  Yadav](https://www.pexels.com/@rajat-yadav-441811506) via Pexels*
+*Photo: [Rajat Yadav](https://www.pexels.com/@rajat-yadav-441811506) via Pexels*

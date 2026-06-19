@@ -24,7 +24,6 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
 Your lead programmer hasn't taken a real day off in eleven weeks. She's still hitting deadlines, her code still ships clean, and when you ask how she's doing, she says "fine." Three weeks later she hands in her notice. You never saw it coming, but you absolutely should have.
 
 Burnout doesn't announce itself. It accumulates quietly behind "fine" and "almost done" and one more late night that becomes forty. The games industry loses experienced people every year not because the work is too hard, but because the systems around the work are broken. The good news: most of those systems are fixable, and fixing them is squarely in a producer's job description.
@@ -35,7 +34,7 @@ Every industry has burnout. Games have a specific flavor of it that makes conven
 
 Developers in games are often deeply mission-driven. They care about the product in a way that makes it hard to disengage. That passion is exploitable, and studios, sometimes unconsciously, exploit it. "Crunch culture" is the obvious villain, but the subtler problem is a chronic low-grade overload: 50-hour weeks that aren't officially crunch, scope that never quite gets cut, feedback cycles that reset work already done. That slow grind does more cumulative damage than a single death-march sprint.
 
-There's also the seniority trap. Your most experienced people are the ones most likely to say yes to extra load, least likely to flag that they're drowning, and most catastrophic to lose. They've also usually been burned before and have a quiet countdown running.
+There's also the seniority trap. Your most experienced people are the ones most likely to say yes to extra load, least likely to flag that they're drowning, and most catastrophic to lose. They've already been burned before. They've got a quiet countdown running.
 
 ## Build Sustainable Capacity Before You Need It
 
@@ -78,7 +77,7 @@ The hardest category is the last one. Features survive in scopes because they've
 
 ## Create Recovery Time That Actually Gets Used
 
-Mandatory rest sounds paternalistic until you've watched a team ignore a "no meetings Friday" policy while still answering Slack messages until midnight.
+Mandatory rest sounds paternalistic until you've watched a team ignore a "no meetings Friday" policy while still answering Slack at midnight.
 
 Recovery time only works if leadership visibly participates. If the studio head is sending emails at 11 PM on "recharge Friday," the policy is theater. Model the behavior you're mandating.
 
@@ -86,7 +85,7 @@ Specific tactics that actually move the needle:
 
 1. **Post-milestone recovery time, scheduled in advance.** Not "take some time after launch." An actual calendar block, two to five days, no deliverables, communicated to the team before the milestone crunch starts. This gives people something to work toward and prevents the guilt spiral of "everyone else is still working."
 
-2. **No-meeting core hours, not just days.** Block 10am-12pm and 2pm-4pm as deep work time across the team. Meetings happen outside those windows. Flow state is genuinely restorative; constant interruption is genuinely depleting.
+2. **No-meeting core hours, not just days.** Block 10am-12pm and 2pm-4pm as deep work time across the team. Meetings happen outside those windows. Flow state is genuinely restorative. Constant interruption is genuinely depleting.
 
 3. **Encourage real PTO by covering responsibilities explicitly.** The reason people don't disconnect on vacation is that nothing covers their work while they're gone. Assign a backup. Document the handoff. Make it safe to actually leave.
 
@@ -101,11 +100,6 @@ Burnout prevention is an operational problem, and operations have tooling.
 **Notion or Confluence** for documentation that reduces the bus-factor anxiety driving a lot of overtime. When knowledge lives in one person's head, that person can never fully disconnect.
 
 For professional development on this specifically: Jason Schreier's *Blood, Sweat, and Pixels* is required reading for understanding how scope and crunch interact at the production level. Less a how-to than a brutal case study collection. Rami Ismail's talks on sustainable development (available free on YouTube) are more prescriptive. The Game Dev Unlocked course on project management covers sustainable scheduling in practical terms worth the investment.
-
----
-
-
----
 
 The best producers I've worked with treat team sustainability the same way they treat the critical path: something to be actively managed, with clear owners and visible metrics, not left to chance or goodwill. The games that ship well aren't made by teams who grind hardest. They're made by teams that were still functional, still motivated, and still actually there in the final three months when it mattered most.
 

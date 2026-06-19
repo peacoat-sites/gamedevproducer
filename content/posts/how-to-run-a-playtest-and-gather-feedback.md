@@ -24,7 +24,6 @@ faqs:
 author_slug: "priya-sharma"
 author_title: "Contributing Writer"
 ---
-
 Most playtest advice teaches you how to run a session. Almost none of it teaches you how to get information you can actually use. Those are different skills, and conflating them is why so many teams walk out of playtests feeling good and walk into crunch six months later discovering the same problems players warned them about in February.
 
 I've been on both sides of this. I've run playtests that generated thirty pages of notes and changed nothing meaningful about the game. I've also run a single forty-five-minute session with five strangers at a coffee shop that completely redirected a feature we'd spent eight weeks building. The difference had nothing to do with sample size or fancy observation software. It had everything to do with how the session was structured and, more importantly, what we did with the data afterward.
@@ -37,11 +36,11 @@ The most common playtest mistake I see isn't logistical. It's demographic. Teams
 
 For early-stage testing, particularly when you're validating core loop, you want people who are vaguely familiar with your genre but aren't enthusiasts. A person who plays two or three games a year in your genre will hit your friction points with brutal honesty, because they won't rationalize their way past them the way a hardcore fan will.
 
-For later-stage testing, your audience targeting should match your actual release audience. If you're shipping a mid-core mobile RPG, test with mid-core mobile RPG players. If you're building a narrative walking sim, don't load the session with FPS players who'll spend the whole time annoyed that there's no combat. This sounds obvious. Teams still get it wrong constantly, because finding the right testers takes more work than posting in a subreddit.
+Later-stage testing should match your actual release audience. If you're shipping a mid-core mobile RPG, test with mid-core mobile RPG players. If you're building a narrative walking sim, don't load the session with FPS players who'll spend the whole time annoyed that there's no combat. This sounds obvious. Teams still get it wrong constantly, because finding the right testers takes more work than posting in a subreddit.
 
-Practically speaking: Playtestcloud ($1.50 to $4 per minute of footage, roughly) gives you access to genuine target-audience players with recorded sessions. UserTesting runs more expensive but has solid screener tools. For local sessions, Craigslist and university research boards still work fine if you write a specific screener questionnaire. Look for 3-5 qualifying questions: genre habits, platform, session frequency, specific titles they've played recently. The answers tell you who you're actually talking to.
+Practically speaking: Playtestcloud costs $1.50 to $4 per minute of footage and gives you access to genuine target-audience players with recorded sessions. UserTesting runs more expensive but has solid screener tools. For local sessions, Craigslist and university research boards still work fine if you write a specific screener questionnaire. Look for 3-5 qualifying questions: genre habits, platform, session frequency, specific titles they've played recently. The answers tell you who you're actually talking to.
 
-Number of testers per round: five is the research-validated minimum for qualitative feedback (Jakob Nielsen's work on usability testing has held up reasonably well here). Past twelve or fifteen in a single round, you start hitting diminishing returns on new insights. Run more rounds, not bigger rounds.
+Five testers per round is the research-validated minimum for qualitative feedback (Jakob Nielsen's work on usability testing has held up reasonably well here). Past twelve or fifteen in a single round, you start hitting diminishing returns on new insights. Run more rounds, not bigger rounds.
 
 ## Structuring the Session So It Tells You Something
 
@@ -49,17 +48,15 @@ Before a single tester touches your game, you need to know what question you're 
 
 Write that question down before the session. If you can't name it, postpone the playtest.
 
-The session itself should follow a loose structure:
-
-First, give testers a context brief that mirrors how real players will encounter your game. If it'll launch on Steam with a trailer and a store page, show them that store page for thirty seconds before they play. Context primes interpretation, and skipping it produces feedback about a game experience that will never actually exist.
+The session itself should follow a loose structure. Give testers a context brief that mirrors how real players will encounter your game. If it'll launch on Steam with a trailer and a store page, show them that store page for thirty seconds before they play. Context primes interpretation, and skipping it produces feedback about a game experience that will never actually exist.
 
 Then get out of the way. This is the part nobody wants to hear. Don't explain mechanics. Don't say "this isn't implemented yet." Don't narrate what they're seeing. Every sentence you add to the session is a sentence that masks a real problem. If a player is confused about a mechanic, that confusion is data. The moment you explain it, you've corrupted the sample.
 
-The think-aloud protocol (asking players to narrate their thoughts as they play) is useful for certain things, specifically surface-level readability and moment-to-moment confusion. It's less useful for flow state assessment, because narrating actively disrupts flow. Know what you're measuring and choose your method accordingly. I'll typically use think-aloud for UI and tutorial validation, silent observation for pacing and engagement.
+The think-aloud protocol (asking players to narrate their thoughts as they play) works well for certain things, specifically surface-level readability and moment-to-moment confusion. It's less useful for flow state assessment, because narrating actively disrupts flow. Know what you're measuring and choose your method accordingly. I'll typically use think-aloud for UI and tutorial validation, silent observation for pacing and engagement.
 
 Keep sessions to 30-60 minutes for early builds. Players hit fatigue hard around the 45-minute mark, and fatigued feedback is inaccurate feedback. If you need to test more content, run multiple shorter sessions rather than one marathon.
 
-After play ends, run a short debrief. Five to ten minutes, structured questions. Keep them open-ended: "Walk me through the moment you felt most confused" gets you more than "Was the tutorial clear? (1-5)." Rating scales produce numbers that feel scientific and mean almost nothing in early development. You need language, not averages.
+After play ends, run a short debrief: five to ten minutes, structured questions, kept open-ended. "Walk me through the moment you felt most confused" gets you more than "Was the tutorial clear? (1-5)." Rating scales produce numbers that feel scientific and mean almost nothing in early development. You need language, not averages.
 
 ## Capturing What Actually Happened
 
@@ -67,7 +64,7 @@ Observation notes are where most teams get sloppy. You're watching someone play,
 
 Timestamp everything. "Player confused by inventory @ 4:22 in Session 3" is actionable. "Player confused by inventory" is a feeling.
 
-For remote sessions, OBS (free) captures screen + audio cleanly for local recordings. Loom works fine for quick async tests where testers self-record. If you're willing to spend, Lookback ($25-$99/month depending on plan) handles recording, tagging, and clip-sharing in one place, which saves a lot of post-session admin.
+For remote sessions, OBS (free) captures screen and audio cleanly for local recordings. Loom works fine for quick async tests where testers self-record. If you're willing to spend, Lookback costs $25-$99 per month depending on plan and handles recording, tagging, and clip-sharing in one place, which saves a lot of post-session admin.
 
 For in-person sessions, a second observer dedicated solely to notes is worth more than any software. One person watches behavior, one person watches the screen. Player body language tells you things their words won't. Leaning back, checking their phone, going quiet for an extended stretch: all diagnostic. Someone who's furiously trying things is engaged even if they're frustrated. Someone who's stopped trying has checked out.
 
@@ -77,9 +74,7 @@ I use a simple tagging system during review: green for moments of clear delight 
 
 Here's where I'll be blunt: if you don't have a defined process for what happens to feedback after the session, you're running an expensive therapy session for your team, not a product development tool.
 
-The feedback loop needs three stages.
-
-First, synthesis. Within 24 hours of each session, compile observations into themes. Not "player said the jump felt bad" but "four of five players stopped engaging with platforming segments after the third level" or "two players attempted to use the interact button on non-interactive objects in the same room, unprompted." Patterns across players matter. Individual opinions don't, not yet.
+The feedback loop needs three stages. First, synthesis. Within 24 hours of each session, compile observations into themes. Not "player said the jump felt bad" but "four of five players stopped engaging with platforming segments after the third level" or "two players attempted to use the interact button on non-interactive objects in the same room, unprompted." Patterns across players matter. Individual opinions don't.
 
 Second, prioritization. Not all problems are worth solving. Run your themes through a severity filter: does this block progress? Does it cause player dropout? Does it create a false understanding of a core mechanic? Problems that do any of those things go to the top. Cosmetic confusion, minor QoL gaps, and "I personally prefer X" feedback goes to the backlog or gets ignored.
 
@@ -93,9 +88,6 @@ This comes up constantly, and there's no clean answer. Players aren't designers.
 
 When feedback contradicts your design intent, the question to ask is whether the intent is landing. If you designed a mechanic to feel risky and players say it feels punishing, that might be a tuning problem, not a design problem. If you designed a character to be morally ambiguous and players say they hate her because she's "just mean," that's a different conversation about execution vs. intent.
 
-The trap is the opposite one: using "vision" as a shield against feedback that's actually identifying a real failure. I've watched teams dismiss valid structural problems as "not our audience" when the real issue was that the game wasn't doing what it intended to do. Be honest about which one you're looking at.
-
----
-
+The trap is using "vision" as a shield against feedback that's actually identifying a real failure. I've watched teams dismiss valid structural problems as "not our audience" when the real issue was that the game wasn't doing what it intended to do. Be honest about which one you're looking at.
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*

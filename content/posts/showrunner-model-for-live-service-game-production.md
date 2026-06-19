@@ -24,26 +24,25 @@ faqs:
 author_slug: "marcus-webb"
 author_title: "Technical Editor"
 ---
-
 You're three weeks out from your Season 3 launch and your lead designer just told you the new map isn't going to make it. Your community manager is already fielding questions on Discord. Your narrative lead has been rewriting the seasonal storyline around an asset that might get cut. And your producer? They're in back-to-back meetings trying to get a straight answer from four different discipline leads who each have a different understanding of what the season is actually supposed to be. This is the moment when most live service teams realize their production model wasn't built for the thing they're actually making.
 
-The showrunner model is the answer a lot of studios are landing on. It's borrowed directly from television, and if you've worked in live service long enough, you understand why. A TV showrunner has creative authority, scheduling authority, and final say on what ships. They're not a committee. They're not a consensus-builder who waits for everyone to align. They own the season, top to bottom. That model translates surprisingly well to games, but the implementation is where most teams stumble.
+The showrunner model is what a lot of studios are turning to. It's borrowed directly from television, and if you've worked in live service long enough, you understand why. A TV showrunner has creative authority, scheduling authority, and final say on what ships. They're not a committee. They're not a consensus-builder waiting for everyone to align. They own the season, top to bottom. That model translates surprisingly well to games, but the implementation is where most teams stumble.
 
 ## What the Showrunner Model Actually Is (and Isn't)
 
-Let's clear up the most common misconception first. The showrunner isn't just a producer with a fancier title. And it's not a creative director who also does Gantt charts. It's a hybrid role that holds creative vision and delivery accountability in the same hands, on purpose.
+Let's kill the most common misconception first. The showrunner isn't just a producer with a fancier title. And it's not a creative director who also does Gantt charts. It's a hybrid role that holds creative vision and delivery accountability in the same hands, on purpose.
 
 In television, the showrunner answers the question "what is this season about and will it be ready?" simultaneously. No handoff between creative and production. No "the designer approved the concept but the producer owns the schedule." One person. One throat to choke, as the old phrase goes, though I prefer "one person who gets the credit and the blame."
 
-What this is NOT: a dictatorship that removes team input. The best showrunners I've observed run extremely collaborative development processes during pre-production, then make fast, informed decisions during production when collaboration starts to slow things down. The mode shifts intentionally.
+This is NOT a dictatorship that removes team input. The best showrunners I've observed run extremely collaborative development processes during pre-production, then make fast, informed decisions during production when collaboration starts to slow things down. The mode shifts intentionally.
 
 ## Why Live Service Specifically Needs This Model
 
 Traditional game development has a beginning, a middle, and a ship date. Live service has a ship date and then keeps going, indefinitely, on overlapping cycles. You're building Season 4 while Season 3 is live while Season 2 is being sunset. The interdependencies are constant and punishing.
 
-The standard studio hierarchy, where creative directors approve concepts, producers manage schedules, and leads own their disciplines, creates latency. Decisions bounce between roles. A content call that should take one afternoon takes two weeks of async Slack threads and one meeting that could have been an email.
+The standard studio hierarchy bounces decisions everywhere. Creative directors approve concepts. Producers manage schedules. Leads own their disciplines. A content call that should take one afternoon takes two weeks of async Slack threads and one meeting that could have been an email.
 
-I've seen teams lose entire features not because they couldn't build them, but because approval and revision cycles ate the calendar. One studio I worked with had a governance structure requiring sign-off from five stakeholders on any gameplay change that touched monetization. They missed three consecutive season beats because nobody had the authority to make the call fast enough. The showrunner model collapses that latency by design.
+I've seen teams lose entire features not because they couldn't build them, but because approval and revision cycles ate the calendar. One studio I worked with had a governance structure requiring sign-off from five stakeholders on any gameplay change touching monetization. They missed three consecutive season beats because nobody had the authority to make the call fast enough. The showrunner model collapses that latency by design.
 
 ## How to Structure a Showrunner-Led Season
 
@@ -76,22 +75,19 @@ Real postmortem data: what was cut and why, what took longer than estimated, whe
 | Risk | Misalignment between creative and delivery | Burnout on the showrunner role |
 | Best for | Large studios with deep specialization | Mid-size to large live service teams |
 
-The risk column is honest. The showrunner model concentrates responsibility aggressively. If you put the wrong person in that seat, or fail to give them actual authority, you've created a pressure point, not a solution.
+The risk column is honest. The showrunner model concentrates responsibility aggressively. Put the wrong person in that seat, or fail to give them actual authority, and you've created a pressure point, not a solution.
 
 ## Hiring and Developing Showrunners
 
 This is where most studios stall out. There's no pipeline for this role because it didn't exist in games until recently. You're not going to post a job listing and find 40 qualified candidates.
 
-The people who tend to thrive in this role came up as producers with genuine creative instincts, or as designers who developed strong production discipline. Neither path is automatic. The creative-to-showrunner pipeline requires the person to actually care about schedules and tradeoffs. The producer-to-showrunner pipeline requires them to develop real creative confidence, not just deference to designers.
+The people who thrive in this role came up as producers with genuine creative instincts, or as designers who developed strong production discipline. Neither path is automatic. The creative-to-showrunner pipeline requires the person to actually care about schedules and tradeoffs. The producer-to-showrunner pipeline requires them to develop real creative confidence, not just deference to designers.
 
-Invest in developing this capacity internally. The book *The Lean Startup* by Eric Ries gets cited a lot in game production circles, but for building this specific role, I'd push people toward *Masters of Doom* by David Kushner for understanding what combined creative and delivery leadership actually looks like under pressure, and *Creativity Inc.* by Ed Catmull for how to build the conditions that let that kind of leader succeed.
+Invest in developing this capacity internally. *The Lean Startup* by Eric Ries gets cited a lot in game production circles, but for building this specific role, read *Masters of Doom* by David Kushner. It shows what combined creative and delivery leadership actually looks like under pressure. Then read *Creativity Inc.* by Ed Catmull for how to build the conditions that let that kind of leader succeed.
 
 For tools: **Jira** or **Shortcut** for sprint tracking, **Notion** for the season bible and living documentation, **Miro** for cross-discipline pre-production work, and **Linear** if your team finds Jira too heavyweight. The tooling matters less than the decision rights. Get those right first.
 
-If you want structured learning on this, the **Coursera Game Design and Production specialization** from Michigan State covers production fundamentals, and **The Game Production Masterclass** on Udemy has solid content on live service-specific workflows.
-
-
----
+If you want structured learning, the **Coursera Game Design and Production specialization** from Michigan State covers production fundamentals, and **The Game Production Masterclass** on Udemy has solid content on live service-specific workflows.
 
 The showrunner model isn't a silver bullet. It requires the right person, real institutional authority, and a team that understands why decisions need to move fast. But if you're running live service on a traditional studio structure and constantly missing beats, the structure itself is probably the problem, not your people. Give someone the keys. Let them drive.
 

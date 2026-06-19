@@ -24,84 +24,82 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
+Somewhere around month eight of a 24-month project, a publisher asked us to show them "the game." Not a prototype. Not a proof of concept with placeholder assets and a camera that clipped through the floor. The actual game. A real, representative slice of what players would experience when the finished product shipped.
 
-Somewhere around month eight of a 24-month project, a publisher asked us to show them "the game." Not a prototype. Not a proof of concept with placeholder assets and a camera that clipped through the floor. The game. A real, representative slice of what players would actually experience when the finished product shipped.
-
-We had... none of that. We had systems. We had tech. We had a level designer who kept saying things were "almost ready." We lost the deal.
+We had none of that. We had systems. We had tech. We had a level designer who kept insisting things were "almost ready." We lost the deal.
 
 That was 2017, and it was the last time I ever let a project run that long without building a vertical slice first.
 
 ## What a Vertical Slice Actually Is
 
-A vertical slice is a short, fully polished section of your game that represents every layer of the final product simultaneously. Not a feature demo. Not a tech showcase. Every layer: art at final quality, sound design, UI, gameplay loop, enemy AI, whatever your game is, all working together in one cohesive playable chunk.
+A vertical slice is a short, fully polished section of your game that represents every layer of the final product at the same time. Not a feature demo. Not a tech showcase. Every layer: art at final quality, sound design, UI, gameplay loop, enemy AI, everything working together in one cohesive playable chunk.
 
-The term comes from how you'd draw a software architecture diagram. Imagine your game as a horizontal stack of layers: rendering at the bottom, then game logic, then content, then UI, then audio, then whatever. A vertical slice cuts straight through all of them in one place, giving you a thin but complete column of the full experience.
+The term comes from software architecture diagrams. Picture your game as a horizontal stack of layers: rendering at the bottom, then game logic, then content, then UI, then audio, then whatever else. A vertical slice cuts straight through all of them in one place. You get a thin but complete column of the full experience.
 
-In practice, for most games this means somewhere between five and twenty minutes of polished, ship-ready gameplay. Not "polished for a prototype." Actually shippable quality. If you wouldn't be comfortable showing that specific section at launch, it's not done.
+For most games, that's somewhere between five and twenty minutes of polished, ship-ready gameplay. Not "polished for a prototype." Actually shippable quality. If you wouldn't show that specific section at launch, it's not done.
 
-What most people don't realize is how different this is from a demo or a proof of concept. A proof of concept answers "can we build this?" A vertical slice answers "is this the game we're building, and is it good?" Those are totally different questions, and conflating them causes real production damage.
+Here's what most people miss: how different this is from a demo or a proof of concept. A proof of concept answers "can we build this?" A vertical slice answers "is this the game we're building, and is it actually good?" Those are totally different questions, and mixing them up causes real production damage.
 
 ## Why It Matters More Than Your Roadmap
 
-I've seen studios spend six months on a meticulous Gantt chart and three weeks on a vertical slice, and I'll tell you which one actually predicted whether the game was going to work. It wasn't the Gantt chart.
+I've watched studios spend six months building a meticulous Gantt chart and three weeks on a vertical slice. I'll tell you which one actually predicted whether the game would work.
 
-Here's the thing about game development that's uncomfortable to say directly: you cannot design your way to a fun game on paper. No amount of GDD (game design document) writing, no spreadsheet, no meeting tells you whether your core loop actually feels good to play. You find that out by playing it. A vertical slice forces that reckoning early, when changing course costs weeks instead of years.
+It wasn't the Gantt chart.
+
+Here's the uncomfortable truth about game development: you cannot design your way to a fun game on paper. No game design document, no spreadsheet, no meeting tells you whether your core loop actually feels good to play. You find that out by playing it. A vertical slice forces that reckoning early, when changing course costs weeks instead of years.
 
 It also establishes your production bar. Once your art director signs off on the vertical slice visuals, you have a concrete reference point. Every asset made after that has a real target. Without it, "final quality" means something different to every person on your team, which is how you end up with 47 inconsistent character models six weeks before alpha.
 
-The other thing it does: it grounds your schedule estimates in reality. Before a vertical slice, when someone says "this mechanic will take two sprints," they're guessing. After you've built the vertical slice and felt the production pain of getting one level to final quality, your team actually knows what "done" means. Estimation gets dramatically more accurate.
+And it grounds your schedule estimates in reality. Before a vertical slice, when someone says "this mechanic will take two sprints," they're guessing. After you've built the vertical slice and felt the production pain of getting one level to final quality, your team actually knows what "done" means. Estimation gets dramatically more accurate.
 
 ## Building One Without Wrecking Your Timeline
 
-This is where most teams get it wrong. They treat the vertical slice like a separate project that runs parallel to "real" development, or worse, like something they'll get to after they figure out all the systems. Both approaches fail.
+Most teams get this wrong. They treat the vertical slice like a separate project running parallel to "real" development, or worse, like something they'll get to after they figure out all the systems. Both approaches fail.
 
-The vertical slice should be the first major milestone on your schedule. Not month six. Month three or four, depending on your team size and scope. If you're a two-person indie team, maybe month two. The sooner you're forced to answer "is this fun and can we make it look the way we want it to look," the better.
+The vertical slice should be your first major milestone. Not month six. Month three or four, depending on your team size and scope. A two-person indie team? Maybe month two. The sooner you're forced to answer "is this fun and can we make it look the way we want it to look," the better.
 
-Here's roughly how I'd structure the process for a small-to-mid-size team:
+Here's roughly how I'd structure it for a small-to-mid-size team.
 
-Start by choosing your slice ruthlessly. Pick the ten minutes of gameplay that best represents your game's core identity. Not the flashiest moment. Not the level your art director is most excited about. The part that most accurately represents what players will do for most of the game. If your game is a third-person action RPG and most of it is exploration and combat in an open world, don't pick the boss fight cinematic as your slice. Pick the thing that players will repeat a thousand times.
+Start by choosing your slice ruthlessly. Pick the ten minutes of gameplay that best represents your game's core identity. Not the flashiest moment. Not the level your art director is most excited about. The part that most accurately represents what players will do for most of the game. If your game is a third-person action RPG with exploration and combat in an open world, don't pick the boss fight cinematic. Pick the thing that players will repeat a thousand times.
 
-Then lock the scope of that slice completely. No feature creep inside the vertical slice. Whatever you say is in it, that's the contract. This is where a producer earns their salary, because every single person on the team will want to add one more thing.
+Then lock the scope completely. No feature creep inside the vertical slice. Whatever you say is in it, that's the contract. This is where a producer earns their salary, because every single person on the team will want to add one more thing.
 
-Assign your best people to it. I know that sounds obvious, but teams routinely put their senior developers on infrastructure and their junior folks on the content that will be demoed. Flip that logic. The vertical slice is what publishers see, what players see in Steam Next Fest, what press plays at a preview event. It needs your strongest work.
+Assign your best people to it. Teams routinely put senior developers on infrastructure and junior folks on the content that will be demoed. Flip that. The vertical slice is what publishers see, what players see in Steam Next Fest, what press plays at preview events. It needs your strongest work.
 
-Plan for iteration time after you think it's done. Whatever you estimated for getting the slice to final quality, add 30%. Not because your team is slow. Because the first time you playtest it with fresh eyes, you will find things. Every time. Build the iteration cycles into the schedule from day one.
+Plan for iteration time after you think it's done. Whatever you estimated for getting the slice to final quality, add 30%. Not because your team is slow, but because the first time you playtest it with fresh eyes, you will find things. Every time. Build those iteration cycles into the schedule from day one.
 
 ## The Vertical Slice vs. Everything Else You Might Build
 
-Producers and developers use a lot of overlapping terms for early game builds, and the lack of precision causes real confusion. Let me just be direct about the differences.
+Producers and developers use overlapping terms for early game builds, and that lack of precision causes confusion. Let me be direct about the differences.
 
-A **prototype** is exploratory and throwaway. Ugly code, placeholder art, usually built to answer one specific question. "Does this control scheme feel right?" "Is this puzzle mechanic too hard?" You build it, you learn from it, you often throw it away. Prototypes should be cheap and fast.
+A **prototype** is exploratory and throwaway. Ugly code, placeholder art, usually built to answer one specific question: "Does this control scheme feel right?" or "Is this puzzle too hard?" You build it, learn from it, often throw it away. Prototypes should be cheap and fast.
 
-A **proof of concept** is similar but usually focused on technical feasibility or a specific system rather than feel. "Can our engine handle 200 dynamic physics objects on screen?" That's a proof of concept question.
+A **proof of concept** is similar but usually focused on technical feasibility or a specific system. "Can our engine handle 200 dynamic physics objects on screen?" That's a proof of concept.
 
 A **demo** is a polished, audience-facing build, often shorter than your vertical slice, specifically designed for public consumption. Your vertical slice might become a demo, but they're not the same thing by default. A demo is a marketing artifact. A vertical slice is a production tool.
 
-The vertical slice sits in a specific position: it's internal (mostly), it's thorough, and it's genuinely representative. Publishers understand this distinction and most serious ones will specify they want a vertical slice, not a demo, exactly because they want to evaluate what's actually being built rather than a carefully curated marketing moment.
+The vertical slice sits in a specific position: it's internal mostly, it's thorough, and it's genuinely representative. Publishers understand this distinction, and most serious ones will specify they want a vertical slice, not a demo, exactly because they want to evaluate what's actually being built rather than a carefully curated marketing moment.
 
 ## What Publishers Actually Do With Your Vertical Slice
 
-Since this comes up constantly: if you're seeking funding or a publishing deal, the vertical slice is the thing that closes or kills the conversation.
+If you're seeking funding or a publishing deal, the vertical slice is the thing that closes or kills the conversation.
 
-Publishers like Devolver Digital, Annapurna Interactive, or Raw Fury are not just watching your slice to see if the game is fun. They're watching your production discipline. They want to know: does this team know what they're building? Have they solved the hard problems? Is the art direction coherent? Does the UI feel intentional? Are there signs that things are held together with duct tape?
+Publishers like Devolver Digital, Annapurna Interactive, or Raw Fury aren't just watching your slice to see if the game is fun. They're watching your production discipline. They want to know: does this team know what they're building? Have they solved the hard problems? Is the art direction coherent? Does the UI feel intentional? Are there signs that things are held together with duct tape?
 
 An experienced publisher can watch twenty minutes of a vertical slice and tell you roughly how far away ship is and what the risk profile looks like. They've seen enough to read the signals. Rough edges in the "final quality" slice tell them something. Inconsistent art style tells them something. A mechanic that's obviously not working but that the team hasn't changed tells them something.
 
-The practical implication: your vertical slice is a document of your team's competence as much as it's a document of your game's potential. Treat it accordingly.
+Your vertical slice is a document of your team's competence as much as it's a document of your game's potential. Treat it accordingly.
 
 ## Tools Worth Having for This Process
 
-If you're running vertical slice production without decent project management tooling, you're making this harder than it needs to be. Personally, I've had good results with Hacknplan specifically for game development because it maps naturally to the way games are actually built (disciplines, tasks, milestones, not just generic tickets). For larger teams, Jira is the industry standard even if it requires some setup friction to work well for game dev. Notion works well for the design documentation side of things.
+If you're running vertical slice production without decent project management tooling, you're making this harder than it needs to be. I've had good results with Hacknplan specifically for game development because it maps naturally to how games are actually built (disciplines, tasks, milestones, not just generic tickets). For larger teams, Jira is the industry standard even if it requires setup friction to work well for game dev. Notion works well for the design documentation side.
 
-For building the production knowledge to run this process well, Jason Schreier's "Press Reset" is useful for understanding what happens when vertical slice discipline breaks down at scale (spoiler: it's not pretty). The book "Blood, Sweat, and Pixels" is another good one. For the production methodology side, Heather Maxwell Chandler's "The Game Production Handbook" is the closest thing to a textbook that's actually practical.
+For building the production knowledge to run this process well, Jason Schreier's "Press Reset" shows what happens when vertical slice discipline breaks down at scale (spoiler: it's brutal). "Blood, Sweat, and Pixels" covers similar ground from a different angle. If you want something closer to a textbook, Heather Maxwell Chandler's "The Game Production Handbook" is the most practical option.
 
-If you want a course, the Game Production courses on Coursera through Michigan State University are solid for the fundamentals, and the Game Dev Unlocked podcast covers a lot of real-world indie production topics that you won't find in any textbook.
-
----
-
+The Game Production courses on Coursera through Michigan State University cover fundamentals well, and the Game Dev Unlocked podcast tackles real-world indie production topics you won't find in any textbook.
 
 ---
 
-The publisher meeting I described at the start of this article was genuinely painful. But it was also clarifying. We didn't lose that deal because our game was bad. We lost it because we couldn't demonstrate what our game was. That's a solvable problem, and the vertical slice is how you solve it.
+The publisher meeting I described at the start was genuinely painful. But it was clarifying too. We didn't lose that deal because our game was bad. We lost it because we couldn't demonstrate what our game was. That's a solvable problem, and the vertical slice is how you solve it.
 
 *Photo: [Stas Knop](https://www.pexels.com/@stasknop) via Pexels*

@@ -24,14 +24,15 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
+A studio hits week fourteen of a scheduled twelve-week sprint. The lead designer hasn't slept more than five hours in three nights. The QA team is running on energy drinks and quiet resentment. The executive producer sends a "we're almost there" email that nobody believes. Sound familiar?
 
-A studio hits week fourteen of a scheduled twelve-week sprint. The lead designer hasn't slept more than five hours in three nights. The QA team is running on energy drinks and quiet resentment. The executive producer sends a "we're almost there" email that nobody believes. Sound familiar? This scenario plays out across the industry constantly, and the usual response is to treat it like a cultural artifact, something baked into game development's DNA that you either accept or leave the industry to avoid. That framing is wrong, and it's costing studios money, talent, and sometimes lives.
+This scenario plays out across the industry constantly, and the usual response is to treat it like a cultural artifact, something baked into game development's DNA that you either accept or leave the industry to avoid. That framing is wrong, and it's costing studios money, talent, and sometimes lives.
 
 ## Crunch Is a Symptom of Broken Planning, Not an Industry Rite of Passage
 
 The "crunch culture" label does something insidious: it shifts responsibility from the production system onto the people inside it. Culture implies shared values and organic behavior. What crunch actually represents is a production system that failed to absorb uncertainty, a scope that was never honestly negotiated, or a milestone structure that was optimistic at best and fictional at worst.
 
-I've worked with studios ranging from 12-person indie teams to 400-person AAA houses, and the pattern is almost always the same. Crunch doesn't ambush teams in week fourteen. The signals show up in week three or four, sometimes earlier. A task that was estimated at two days takes five. A dependency between systems wasn't mapped during sprint planning. A publisher deliverable shifted by two weeks but the internal roadmap didn't adjust. These aren't cultural problems. They're planning failures, and they compound like interest.
+I've worked with studios ranging from 12-person indie teams to 400-person AAA houses, and the pattern is almost always the same. Crunch doesn't ambush teams in week fourteen. The signals show up in week three or four, sometimes earlier. A task estimated at two days takes five. A dependency between systems wasn't mapped during sprint planning. A publisher deliverable shifted by two weeks but the internal roadmap didn't adjust. These aren't cultural problems. They're planning failures, and they compound like interest.
 
 The research backs this up. A 2021 survey by the International Game Developers Association found that 42% of developers reported working crunch hours in the previous year, with the majority citing "bad planning" and "scope creep" as primary causes rather than any expressed desire to work long hours. Nobody signs up to spend a holiday weekend debugging a collision system. They end up there because the production infrastructure didn't catch the problem in time to solve it any other way.
 
@@ -47,9 +48,9 @@ If culture is the wrong diagnosis, what's the right one? In most projects I've s
 
 ## What a Production System That Prevents Crunch Actually Looks Like
 
-Prevention requires structural decisions made early, not heroics made late. Here's how a production-healthy project looks different from a crunch-bound one.
+Prevention requires structural decisions made early, not heroics made late.
 
-**Capacity planning uses real numbers.** Before any sprint kicks off, the producer accounts for holidays, known deadlines in other parts of the business, and team-specific factors like a programmer who's part-time for three weeks due to a family situation. A tool like Jira combined with a simple spreadsheet tracking available hours per person per sprint is enough. The math is simple. The discipline to do it consistently is what separates good producers from reactive ones.
+**Capacity planning uses real numbers.** Before any sprint kicks off, the producer accounts for holidays, known deadlines in other parts of the business, and team-specific factors like a programmer who's part-time for three weeks due to a family situation. A tool like Jira combined with a simple spreadsheet tracking available hours per person per sprint is enough. The math is straightforward. The discipline to do it consistently is what separates good producers from reactive ones.
 
 **Scope is tiered from the start.** Features are categorized into must-ship, should-ship, and nice-to-have. When time pressure appears, the nice-to-have list is where you cut, not the team's weekends. This approach, sometimes called MoSCoW prioritization (Must have, Should have, Could have, Won't have), gives the team a pre-negotiated safety valve.
 
@@ -59,7 +60,7 @@ Prevention requires structural decisions made early, not heroics made late. Here
 
 ## Scope Creep vs. Planned Scope Change: A Practical Comparison
 
-Not all scope change is bad. The problem is when teams can't tell the difference between the two.
+Not all scope change is bad. The problem is when teams can't tell the difference.
 
 | Factor | Scope Creep | Planned Scope Change |
 |---|---|---|
@@ -83,7 +84,7 @@ If you're a producer reading this because you're in the middle of a crunch cycle
 
 4. **Document the decision.** Whatever the stakeholders choose, write it down and get a signature or an email confirmation. This protects the team and creates accountability.
 
-5. **If overtime is unavoidable, cap and compensate it.** Six weeks of 10-hour days is survivable. Six months is not. Set an explicit end date for the crunch period, communicate it clearly, and ensure the team gets compensatory time off or additional pay. Teams that crunch without acknowledgment or compensation don't just get tired, they leave.
+5. **If overtime is unavoidable, cap and compensate it.** Six weeks of 10-hour days is survivable. Six months is not. Set an explicit end date for the crunch period, communicate it clearly, and ensure the team gets compensatory time off or additional pay. Teams that crunch without acknowledgment or compensation don't just get tired. They leave.
 
 ## The Business Case for Fixing the System
 
@@ -91,14 +92,9 @@ Studios sometimes treat crunch as a cost-free buffer, extra hours the team absor
 
 Turnover is expensive. Replacing a mid-level programmer costs an estimated $15,000 to $25,000 when you account for recruiting, onboarding, and lost productivity during ramp-up. Senior engineers can cost twice that or more. If a studio crunches a team of 20 through a brutal six-month final push and loses four people post-ship, which is conservative based on industry patterns, that's $60,000 to $100,000 in replacement costs before the next project starts.
 
-Crunch also degrades output quality. Tired people make more bugs. More bugs extend QA cycles. Extended QA cycles push the date, creating more crunch. This is not speculation. It's a well-documented phenomenon in software engineering called the "heroic programming trap," where the response to falling behind (working more hours) actually slows the team down by increasing error rates.
+Crunch also degrades output quality. Tired people make more bugs. More bugs extend QA cycles. Extended QA cycles push the date, creating more crunch. This is well-documented in software engineering research as the "heroic programming trap," where the response to falling behind (working more hours) actually slows the team down by increasing error rates.
 
-The studios that ship well aren't the ones with the most committed teams. They're the ones with the best production infrastructure. Respawn, for all its challenges, shipped Titanfall 2 with a widely praised campaign in an industry where single-player FPS campaigns were considered dead. They did it with a focused team working reasonable hours because they were rigorous about what was in and what was out. Scope discipline is a competitive advantage.
-
----
-
-
----
+The studios that ship well aren't the ones with the most committed teams. They're the ones with the best production infrastructure. Respawn shipped Titanfall 2 with a widely praised campaign in an industry where single-player FPS campaigns were considered dead. They did it with a focused team working reasonable hours because they were rigorous about what was in and what was out. Scope discipline is a competitive advantage.
 
 The game industry has a talent pipeline problem, and crunch is one of the main valves draining it. Every developer who burns out and leaves takes institutional knowledge, creativity, and craft with them. Fixing this isn't about being soft on deadlines. It's about building production systems that are honest about reality from day one, so your team can do their best work instead of just their most hours. That's not idealism. It's how you ship good games repeatedly, which is the only metric that actually matters.
 

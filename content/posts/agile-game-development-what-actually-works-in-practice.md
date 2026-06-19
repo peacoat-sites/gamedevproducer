@@ -24,7 +24,6 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 You're three weeks into sprint planning, and your tech lead just told you that the animation system needs a complete rebuild. Your art director says they can work around it. Your marketing team says you've already committed to a vertical slice demo next month. Your lead producer looks at you like you're supposed to have an answer. This is where agile meets reality in game development, and it's rarely as clean as the textbooks suggest.
 
 Agile methodologies promise flexibility, faster iteration, and better team morale. For game studios, that's genuinely appealing. But "agile" has become a catch-all term that means different things to different teams. Some studios run true Scrum. Others use Kanban. Many frankly do neither and just call it agile because they have standups and sprint retrospectives. The uncomfortable truth is that cargo cult agile, without real adaptation to game dev constraints, creates as many problems as it solves.
@@ -61,7 +60,7 @@ Here's what actually works: run two-week sprints, but separate your sprint plann
 
 Structure your sprints around your milestone deadlines, not the other way around. If you have a vertical slice for a publisher in 16 weeks, work backward. Plan four sprints of focused feature work, then two sprints for stability and polish. Don't try to fit that structure into arbitrary calendar-based sprint boundaries.
 
-Standups should be shorter than they usually are. Most teams do 15-minute standups and waste 12 of those minutes. Try 5-minute standups three days a week. Monday, Wednesday, Friday. Just status and blockers. If someone needs help, you schedule a follow-up conversation. You'll actually get information faster.
+Standups should be shorter than they usually are. Most teams do 15-minute standups and waste 12 of those minutes. Try 5-minute standups three days a week. Monday, Wednesday, Friday. Just status and blockers. If someone needs help, you schedule a follow-up conversation. You'll get information faster.
 
 ## Kanban vs. Scrum: What Works Better
 
@@ -71,7 +70,7 @@ Early in production, before core systems are locked down, Kanban works better. Y
 
 Later in production, as you approach milestones, Scrum becomes more valuable. You need predictability. You need to know that certain features will be done by certain dates. Scrum's time-boxed structure forces that commitment and makes it visible when you're not going to hit deadlines.
 
-Many successful studios use a hybrid: Kanban for the backlog, to manage what's coming, but Scrum-like sprint planning to create time-boxed delivery commitments. Jira and Azure DevOps both support this hybrid approach well. You get the flexibility of Kanban with the predictability of sprint-based delivery.
+Many successful studios use a hybrid: Kanban for the backlog to manage what's coming, but Scrum-like sprint planning to create time-boxed delivery commitments. Jira and Azure DevOps both support this hybrid approach well. You get the flexibility of Kanban with the predictability of sprint-based delivery.
 
 ## Managing Technical Debt and Art Debt Inside Sprints
 
@@ -79,7 +78,7 @@ This is where most game teams struggle. You commit to features, but you also nee
 
 The rule that works: reserve 20% of sprint capacity for stabilization, fixes, and debt reduction. Don't call it "buffer." Call it what it is: essential maintenance. If you have 200 points of capacity in a sprint, allocate 160 to new features and 40 to tech debt, bug fixes, and optimization.
 
-If you don't make this explicit, it happens anyway. Team members work on debt in the evening or weekend, burnout creeps in, and you hit a wall around [year five of production](/burnout-in-game-development-the-year-5-cliff/). That's not a culture problem. [That's a production failure](/crunch-is-a-production-failure-not-a-culture-problem/).
+If you don't make this explicit, it happens anyway. Team members work on debt in the evening or weekend, burnout creeps in, and you hit a wall around year five of production. That's not a culture problem. [That's a production failure](/crunch-is-a-production-failure-not-a-culture-problem/).
 
 Assign one engineer per sprint to be on "tech debt duty." They own optimization passes, refactoring, memory leaks, and whatever's been nagging the team. Rotate this role every sprint so it's not punishment and everyone understands the work. Same for art: designate one artist per sprint for polish and cleanup passes.
 
@@ -105,7 +104,7 @@ Backlog refinement: One hour, once a week. Estimate upcoming work with the team 
 
 Sprint review: 45 minutes. Show what shipped. Get feedback. Move on. Don't make it a formal presentation.
 
-Retrospective: 30 minutes. What went well, what didn't, one thing to try next sprint. That's it. Most teams run them too long.
+Retrospective: 30 minutes. What went well, what didn't, one thing to try next sprint. That's it.
 
 Cut ceremonies ruthlessly. Every meeting should earn its time. If a standup isn't surfacing blockers that need immediate attention, you don't need it.
 
@@ -139,11 +138,10 @@ If you're starting fresh or restructuring an existing team, here's a concrete ap
 
 ## Tools That Help
 
-**Jira** is the industry standard, but it's overkill for teams under 50 people. Shotgun (now RoyalRender) integrates with most game engines well. **Monday.com** is easier for non-technical teams. **Trello** works for smaller teams if you're disciplined about workflow states.
+Jira is the industry standard, but it's overkill for teams under 50 people. Shotgun (now RoyalRender) integrates with most game engines well. Monday.com is easier for non-technical teams. Trello works for smaller teams if you're disciplined about workflow states.
 
-**Azure DevOps** is actually better than Jira for cross-disciplinary work if you're on Microsoft stack. It has better dependency tracking and can integrate with GitHub or on-premises Git.
+Azure DevOps is actually better than Jira for cross-disciplinary work if you're on Microsoft stack. It has better dependency tracking and can integrate with GitHub or on-premises Git.
 
-For documentation and ceremony notes, **Notion** has replaced confluence in most game studios for good reason. It's flexible and doesn't feel like corporate software.
+For documentation and ceremony notes, Notion has replaced Confluence in most game studios for good reason. It's flexible and doesn't feel like corporate software.
 
 Books worth reading: "Agile Game Development" by Clinton Keith is outdated in places but nails the core principles. "The Scrum Master's Bible" by Ted Porter is better for game teams than pure Scrum texts. "Release It!" by Michael Nygard covers the infrastructure side that game producers often miss.
-

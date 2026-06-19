@@ -24,7 +24,6 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
 Someone just accepted your offer. They start Monday. The game launched eight months ago, it's got 200,000 active players, three live events running in parallel, a hotfix due Thursday, and a Confluence wiki that hasn't been touched since beta. Congratulations. You now have approximately two weeks before this person either clicks into gear or quietly starts wondering if they made a mistake.
 
 Most onboarding advice is written for greenfield projects. Clean slate, fresh repo, nobody's production is on fire. Live games are a different animal entirely. The codebase is scar tissue. The processes evolved under pressure. Half the "why we do it this way" knowledge lives in the heads of three people who were there during the Week One Crisis. Getting someone up to speed without dropping the ball on live ops is one of the hardest producer challenges there is, and most studios treat it like a checkbox.
@@ -63,7 +62,7 @@ On live projects, also consider rotating shadowing. Have your new hire spend two
 
 New team members on live games will eventually be in the room when something breaks. If you haven't prepared them for that moment, the first real incident is going to be a terrible experience for everyone.
 
-Run a tabletop review of a past incident during their first two weeks. Walk through an actual postmortem: what broke, how it was detected, who was called, what the communication chain looked like, what the player-facing impact was, and what changed afterward. Real examples are worth more than any process document.
+Run a tabletop review of a past incident during their first two weeks. Walk through an actual postmortem: what broke, how it was detected, who was called, what the communication chain looked like, what the player-facing impact was, and what changed afterward. Real examples beat any process document.
 
 Also be explicit about escalation thresholds. What severity warrants waking up the technical director at 2am versus handling it in the morning? New producers often either escalate everything or, worse, try to handle something silently because they don't want to look like they can't manage. Clear thresholds eliminate both problems.
 
@@ -75,14 +74,11 @@ A few things that actually help:
 
 **Documentation:** Notion or Confluence for the context document. If you're on Confluence already, create an "Orientation" space separate from your main wiki. It signals that someone thought about them specifically.
 
-**Knowledge capture:** Loom for async video walkthroughs of complex systems. A 10-minute screen recording of how the content pipeline works is more useful than a 40-page doc.
+**Knowledge capture:** Loom for async video walkthroughs of complex systems. A 10-minute screen recording of how the content pipeline works beats a 40-page doc.
 
 **Books worth assigning:** *The Art of Game Design* by Jesse Schell for design philosophy grounding, and *Agile Game Development* by Clinton Keith for understanding how sprint cadence applies to live ops specifically. For producers who are also managing people dynamics on a tight team, *The Making of a Manager* by Julie Zhuo is genuinely practical.
 
 **Courses:** Game Production Fundamentals on Coursera and Riot Games' free GDC talks on live service production (available on YouTube) are solid for context-setting without pulling senior staff away from their actual work.
-
----
-
 
 ---
 

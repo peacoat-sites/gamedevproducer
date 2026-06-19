@@ -24,7 +24,6 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
 Let me be direct with you: most salary guides for game producers are useless. They pull a number from somewhere, slap a range on it, and call it research. You end up with something like "$60,000 to $150,000 depending on experience" which tells you approximately nothing about whether the offer sitting in your inbox is fair.
 
 So let's actually talk about this.
@@ -32,7 +31,6 @@ So let's actually talk about this.
 You might be wondering whether you're underpaid, or whether you should ask for more before accepting that new role, or maybe you're just trying to figure out if producing is even a financially viable career. All legitimate questions. Here's what I tell people when they ask me in person: the number on your offer letter is almost never the whole story, and understanding *why* producers get paid what they do is more useful than any static range.
 
 ---
-
 
 <div class="value-module">
   <div class="vm-head">Producer Salary by Studio Type</div>
@@ -45,17 +43,17 @@ You might be wondering whether you're underpaid, or whether you should ask for m
 
 ## What Producers Actually Get Paid (And Why the Range Is So Wide)
 
-The honest answer is that associate producers at small indie studios can make $45,000 to $55,000 in mid-tier cost-of-living cities, while senior producers at AAA publishers in Seattle or San Francisco can clear $160,000 to $180,000 before bonuses. That's not a range. That's essentially different careers.
+An associate producer at a 12-person indie studio in Austin might make $45,000 to $55,000. A senior producer at Riot or EA in San Francisco clears $160,000 to $180,000 before bonuses hit. That's not a range. That's different careers entirely.
 
-A few things drive that gap more than anything else.
+A few concrete things drive that gap.
 
-**Studio size and funding model** matter enormously. A 12-person indie studio in Austin that raised $800K on Kickstarter simply cannot pay you what Riot Games pays. This seems obvious, but I've talked to producers who were surprised their offer from a beloved indie studio was $30,000 less than their previous AAA role. The prestige of working on a beloved game doesn't pay rent. Know what you're walking into.
+**Studio size and funding model** matter enormously. A 12-person indie studio in Austin that raised $800K on Kickstarter simply cannot pay what Riot Games pays. This seems obvious, but I've talked to producers who were genuinely surprised their offer from a beloved indie studio was $30,000 less than their previous AAA role. The prestige of working on a game you love doesn't pay rent. Know what you're walking into.
 
-**Platform and genre** factor in more than people expect. Live service games with ongoing monetization tend to pay producers more, because the production work never really stops and the revenue justifies headcount costs. Mobile game producers at companies like Supercell or Zynga can earn very competitive salaries specifically because the revenue models support it. A narrative adventure studio making a single premium title is in a different financial universe.
+**Platform and genre** factor in more than people expect. Live service games with ongoing monetization tend to pay producers more, because the production work never really stops and the revenue justifies headcount costs. Mobile game producers at companies like Supercell or Zynga can earn very competitive salaries specifically because the monetization models support it. A narrative adventure studio making a single premium title is operating in a different financial universe.
 
-**Geography still matters, even post-COVID.** Remote work has flattened things somewhat, but not as much as LinkedIn posts would have you believe. If you're working remotely for a studio headquartered in San Francisco, you might negotiate a geographic adjustment downward, or you might not, but that conversation is happening behind closed doors regardless. Studios like Insomniac (Santa Monica), Crystal Dynamics (Redwood City), and Bungie (Bellevue) still tend to pay differently than studios in cities without a tech premium baked into the local labor market.
+**Geography still matters, even post-COVID.** Remote work has flattened things somewhat, but not nearly as much as LinkedIn posts would have you believe. If you're working remotely for a studio headquartered in San Francisco, you might negotiate a geographic adjustment downward, or you might not, but that conversation is happening regardless. Studios like Insomniac (Santa Monica), Crystal Dynamics (Redwood City), and Bungie (Bellevue) still pay differently than studios in cities without a tech premium baked into local labor costs.
 
-Here are some rough realistic benchmarks as of 2024. These are composites from job postings, salary data I've personally reviewed, and conversations with producers at various levels:
+Here's what realistic benchmarks look like as of 2024. These come from job postings, salary data I've reviewed, and conversations with producers at various levels:
 
 - **Associate Producer (0-2 years):** $48,000 to $70,000
 - **Producer (3-6 years):** $75,000 to $115,000
@@ -72,41 +70,38 @@ Here's where most salary guides fall apart. They treat level and years of experi
 
 **Shipped titles carry enormous weight.** I've seen producers get offers well above their "level" based on one highly visible shipped game. If you were on the production team for something that sold two million copies or won a BAFTA, that's real leverage. Studios are buying risk mitigation when they hire a producer. The more you can demonstrate that games actually ship with you on the team, the more they'll pay.
 
-**Technical background adds a premium.** Producers who genuinely understand Unreal or Unity pipelines, who can read a shader or understand why a build is failing, command more than producers who only work at the process layer. I'm not saying you need to be an engineer. But the "technical producer" designation is real and it comes with a meaningful pay bump, sometimes $10,000 to $20,000 above a same-level generalist. If you don't have this yet and you're serious about maximizing earning potential, it's worth investing in. The Unreal Online Learning portal is free, and Jason Gregory's *Game Engine Architecture* (third edition) is around $70 and will change how you think about your job.
+**Technical background adds a genuine premium.** Producers who understand Unreal or Unity pipelines, who can read a shader or explain why a build is failing, command more than producers who only work at the process layer. I'm not saying you need to be an engineer. But the "technical producer" designation is real, and it comes with a meaningful pay bump, sometimes $10,000 to $20,000 above a same-level generalist. If you don't have this yet and you're serious about maximizing earning potential, it's worth investing in. The Unreal Online Learning portal is free, and Jason Gregory's *Game Engine Architecture* (third edition) costs around $70 and will change how you think about your job.
 
 **Specialization is underrated.** Producers who specialize in live operations, localization pipelines, or QA process design can earn more within specific contexts than a generalist at the same title level. Studios with complex live service needs will pay a premium for someone who already understands how to manage a seasonal content cadence without the team burning out by Q3.
 
-**Your offer is almost always negotiable.** Almost. Universally. Even the ones that come with "this is our standard band for this level." I've never personally seen a studio rescind an offer because a candidate asked for more. The worst that happens is they say no, or they meet you halfway. A reader emailed me last year after getting a senior producer offer for $118,000. She asked for $130,000 based on her live service experience. They came back at $125,000 and added an extra week of PTO. That $7,000 difference compounds significantly over a few years when you're using it as a salary anchor for your next role.
+**Your offer is almost always negotiable.** Almost universally. Even the ones that come with "this is our standard band for this level." I've never seen a studio rescind an offer because a candidate asked for more. The worst that happens is they say no, or they meet you halfway. A reader emailed me last year after getting a senior producer offer for $118,000. She asked for $130,000 based on her live service experience. They came back at $125,000 and added an extra week of PTO. That $7,000 difference compounds significantly over a few years when you use it as a salary anchor for your next role.
 
 ---
 
 ## Benefits, Bonuses, and the Rest of the Package
 
-This section exists because I've watched smart people fixate on base salary while signing agreements with weak bonus structures, mediocre healthcare, and no real equity conversation. The total compensation picture matters.
+This section exists because I've watched smart people fixate on base salary while signing agreements with weak bonus structures, mediocre healthcare, and no real equity conversation. The total compensation picture matters more than a single number on a spreadsheet.
 
-Bonuses at AAA studios are typically structured around two things: studio performance (did the game ship on time and sell well?) and individual performance review scores. Expect somewhere between 5% and 15% of base salary as a target bonus at most publisher-owned studios, with the actual payout varying wildly. At some studios, a "10% target bonus" has paid out at 0% multiple times in the past five years because the game underperformed or the parent company had a bad quarter. Ask people who work there. LinkedIn, industry Discords, and the Game Dev Network on Slack are all places where real humans will tell you what it's actually like.
+Bonuses at AAA studios typically hinge on two things: studio performance (did the game ship on time and sell well?) and your individual performance review score. Expect somewhere between 5% and 15% of base salary as a target bonus at most publisher-owned studios, with actual payouts varying wildly. At some studios, a "10% target bonus" has paid out at 0% multiple times in the past five years because the game underperformed or the parent company had a rough quarter. Ask people who work there. LinkedIn, industry Discords, and the Game Dev Network on Slack are all places where real humans will tell you what it's actually like.
 
-Equity is mostly a conversation at independent studios or studios with private investors, not at publisher subsidiaries. If a studio is offering you options, the questions you want answered are: what's the current valuation, what's the strike price, what's the vesting cliff, and has the studio raised funding at a credible valuation or is this essentially lottery tickets? I've been given equity that meant nothing and equity that paid out meaningfully. The difference was entirely in asking those questions upfront.
+Equity is mostly a conversation at independent studios or studios with private investors, not at publisher subsidiaries. If a studio offers you options, get clear answers on: current valuation, strike price, vesting cliff, and whether the studio's raised funding at a credible valuation or if this is essentially lottery tickets. I've been given equity that meant nothing and equity that paid out meaningfully. The difference was entirely in asking those questions upfront.
 
-Healthcare and PTO aren't glamorous, but a job with $105,000 salary and excellent healthcare coverage and five weeks PTO can genuinely be worth more to you than a $115,000 salary with a high-deductible plan and two weeks off.
+Healthcare and PTO aren't glamorous. But a job with $105,000 salary and excellent healthcare coverage and five weeks PTO can genuinely be worth more to you than a $115,000 salary with a high-deductible plan and two weeks off.
 
 ---
 
 ## How to Research Your Specific Number
 
-Don't guess. There are actual tools for this.
+Don't guess. Use actual tools.
 
-Levels.fyi has started covering game companies more seriously in the last two years, though it's still stronger for tech than games. Glassdoor is inconsistent but sometimes useful for specific company bands. The IGDA Salary Survey publishes data periodically and is specific to games, though the sample sizes are smaller. LinkedIn Salary has gotten better.
+Levels.fyi has started covering game companies more seriously in the last two years, though it's still stronger for tech than games. Glassdoor is inconsistent but sometimes useful for specific company bands. The IGDA Salary Survey publishes data periodically and is specific to games, though sample sizes are smaller. LinkedIn Salary has improved.
 
-More useful than any of those: talk to people. I know that's uncomfortable advice, but producers in your network will tell you what they make if you ask directly and make it a genuine exchange. "I'm trying to calibrate for a negotiation, would you be willing to share your level and comp range?" works more often than you'd think. The games industry is smaller and more collegible than it seems from the outside.
+More useful than any of those: talk to people. I know that's uncomfortable, but producers in your network will tell you what they make if you ask directly and make it a genuine exchange. "I'm trying to calibrate for a negotiation, would you be willing to share your level and comp range?" works more often than you'd think. The games industry is smaller and more collegial than it seems from the outside.
 
-Also worth having in your back pocket: tools like Notion and Airtable are free or cheap and genuinely useful for building your own comp tracking sheet as you collect offers and informational conversations. Knowing your market takes active work, not one Google search.
-
----
-
+Also worth having in your back pocket: Notion and Airtable are free or cheap and genuinely useful for building your own comp tracking sheet as you collect offers and informational conversations. Knowing your market takes active work, not one Google search.
 
 ---
 
-The last thing I'll say is this: salaries in games have historically lagged behind tech, but that gap has been closing at the senior and specialized levels as studios compete harder for experienced producers who can actually ship products. The leverage is real. You just have to know what you're worth before you walk into that conversation.
+Salaries in games have historically lagged behind tech, but that gap's been closing at the senior and specialized levels as studios compete harder for experienced producers who can actually ship products. The leverage is real. You just have to know what you're worth before you walk into that conversation.
 
 *Photo: [Aukid phumsirichat](https://www.pexels.com/@aukid-phumsirichat-3095759) via Pexels*

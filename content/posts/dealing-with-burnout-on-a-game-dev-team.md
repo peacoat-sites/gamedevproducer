@@ -24,15 +24,13 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
-Three people quit my team in six weeks once. Not because the game was bad. Not because anyone was difficult to work with. Because we just... kept going. Milestone after milestone, crunch after crunch, and nobody said the thing that needed to be said out loud.
+Three people quit my team in six weeks once. Not because the game was bad. Not because anyone was difficult to work with. Because we just kept going. Milestone after milestone, crunch after crunch, and nobody said the thing that needed to be said out loud.
 
 That was 2017, on a mid-size action RPG at a studio that no longer exists. And I'll be honest: I saw every warning sign and told myself we'd deal with it after launch. We didn't get the chance.
 
 You might be wondering if what's happening on your team right now is actually burnout, or just a rough sprint. That's usually the first question, and it's a reasonable one. The answer is: if you're asking, it's probably real.
 
 ---
-
 
 <div class="value-module">
   <div class="vm-head">Burnout Warning Signs: Severity Assessment</div>
@@ -45,20 +43,20 @@ You might be wondering if what's happening on your team right now is actually bu
 
 ## What Burnout Actually Looks Like on a Game Dev Team
 
-Here's where most management advice goes sideways. They describe burnout as an individual problem, something one person is experiencing that needs to be addressed with that person. In game dev, burnout is almost always collective. It spreads. It has a texture.
+Here's where most management advice goes wrong. They treat burnout like an individual problem, something one person is experiencing that needs fixing with that person. In game dev, it's almost always collective. It spreads. It has a texture.
 
-What you'll typically see: your quietest, most dependable people go first. They stop volunteering opinions in standups. They stop the informal Slack messages that used to just happen. Their output stays consistent for a while, which is what makes it so easy to miss. Then one day they're gone, or they're still there but they're not really there.
+What you'll see: your quietest, most dependable people go first. They stop volunteering opinions in standups. The informal Slack messages just stop happening. Their output stays consistent for a while (which is what makes it so easy to miss), and then one day they're gone, or they're still physically there but somewhere else entirely.
 
-Cynicism is the other tell. When your team starts treating player feedback as noise, or mocking their own game in ways that feel less like developer humor and more like genuine contempt, that's not a morale dip. That's a Maslach Burnout Inventory score waiting to happen. (Christina Maslach's work on the subject from UC Berkeley is still the most rigorous research on this, and the framework she built in the 1980s maps onto game dev teams with uncomfortable precision.)
+Cynicism's the other signal. When your team starts treating player feedback as noise, or mocking their own game in ways that feel less like developer humor and more like genuine contempt, that's not a morale dip. That's a Maslach Burnout Inventory score waiting to happen. Christina Maslach's work on the subject from UC Berkeley is still the most rigorous research out there, and the framework she built in the 1980s maps onto game dev teams with uncomfortable precision.
 
-Concrete signals I watch for:
+Watch for these specific things:
 
 - Estimates getting wildly padded or wildly optimistic (both are dissociation)
 - Passive-aggressive responses to scope changes that people used to just absorb
-- Increasing "sick" days clustered around milestones
+- Sick days clustering around milestones
 - Designers or engineers working late not because they're excited but because they're behind and ashamed of it
 
-That last one is particularly important to distinguish. Excitement-driven late nights look different from shame-driven ones. Excited people talk about what they're doing. Ashamed people go quiet.
+That last one matters. Excitement-driven late nights look different from shame-driven ones. Excited people talk about what they're doing. Ashamed people go quiet.
 
 ---
 
@@ -66,51 +64,48 @@ That last one is particularly important to distinguish. Excitement-driven late n
 
 Most industries have a bad quarter. Game dev has a bad two years and calls it the development cycle.
 
-The structure of how games get made is genuinely adversarial to human sustainability. You have front-loaded creative energy, a long middle where the work is grinding and the end isn't visible, and a tail end that compresses all remaining problems into a six-week sprint. Then you ship, and instead of recovery time, there's a patch cycle. Then pre-production on the next thing starts "light," which means four people doing the work of ten with an undefined scope.
+The structure of how games get made is genuinely hostile to human sustainability. You've got front-loaded creative energy, a long grinding middle where the work is tedious and the finish line's invisible, and then a tail end that compresses all remaining problems into a six-week sprint. Then you ship, and instead of recovery, there's a patch cycle. Then pre-production on the next thing starts "light," which means four people doing the work of ten with nobody knowing what the scope actually is.
 
-Indie teams have it different but not better. The vulnerability there is the absence of any institutional rhythm at all. No one's managing utilization. People work on a game for three years, don't pay themselves properly, and are running on pure belief until the belief runs out. I've talked to indie devs who hit launch and felt nothing. Literally nothing. They'd spent all of their capacity getting there.
+Indie teams have it different but not better. The vulnerability is the total absence of any institutional rhythm. Nobody's managing utilization. People work on a game for three years, don't pay themselves properly, and are running on pure belief until the belief runs out. I've talked to indie devs who hit launch and felt nothing. Literally nothing. They'd spent all of their capacity getting there.
 
-The thing that makes this specific to game development (and not just a generic "tech startup" problem) is the passion tax. People enter this field because they love games. That love gets used as currency by studios and by developers themselves. "I don't mind the crunch, I love this game." That's not resilience. That's a loan with a terrible interest rate.
+What makes this specific to game development (not just a generic "tech startup" problem) is the passion tax. People enter this field because they love games. That love gets used as currency by studios and by developers themselves. "I don't mind the crunch, I love this game." That's not resilience. That's a loan with compound interest.
 
 ---
 
 ## What You Can Actually Do About It
 
-Let me be direct here: you cannot yoga your way out of a structural problem. Free lunches and team trivia nights don't fix a schedule that has 14 people on a feature list written for 22. So start there.
+Let me be direct: you cannot yoga your way out of a structural problem. Free lunches and team trivia don't fix a schedule that's got 14 people handling a feature list written for 22. Start there instead.
 
-**Audit the schedule before you touch anything else.** Pull up your roadmap and ask honestly: what is the real critical path? What's on this list because it was promised versus because it's required? I've used Codecks for this on smaller teams (it's built specifically for game dev, about $9 per user per month) and it makes it much easier to visualize feature debt and cut without the political overhead of a whiteboard meeting. For larger teams, Jira still dominates, but the important thing isn't the tool, it's the willingness to have the hard conversation about scope.
+**Audit the schedule before anything else.** Pull up your roadmap and ask honestly: what's actually critical? What's on this list because it was promised versus because it's required? I've used Codecks for this on smaller teams (it's built specifically for game dev, costs about $9 per user per month) and it makes feature debt and cuts way easier without the political overhead of a whiteboard meeting. Larger teams usually stick with Jira, but the tool doesn't matter. What matters is whether you're willing to have the hard conversation about scope.
 
-If you're a team lead or producer, here's what I actually tell people in this situation: take one week and track where everyone's time is really going. Not self-reported, but traced. Look at what's in review, what's blocked, what keeps recurring as a dependency. You will almost always find that 20 to 30 percent of the team's energy is going into coordination overhead, tooling debt, or rework caused by late design changes. That's the lever. Fix those things first.
+If you're a team lead or producer, here's what I actually tell people: spend one week tracking where everyone's time really goes. Not self-reported, but traced. Look at what's in review, what's blocked, what keeps coming back as a dependency. You'll find that 20 to 30 percent of the team's energy goes into coordination overhead, tooling debt, or rework from late design changes. That's your lever. Fix that first.
 
-**Then talk to people individually, but not performatively.** Don't schedule a "how are you really doing" 1-on-1 and arrive with a checklist. Just ask one question: "what's the hardest thing about work right now?" Then actually listen. Don't pivot immediately to solutions. People who are burned out often just need someone to confirm that the thing they're experiencing is real and not a personal failure.
+**Then have individual conversations, but genuinely.** Don't schedule a "how are you really doing" 1-on-1 with a checklist. Just ask: "what's the hardest thing about work right now?" Then actually listen instead of pivoting immediately to solutions. People who are burned out just need someone to confirm that what they're experiencing is real and not some personal failure.
 
-Liz Fosslien and Mollie West Duffy wrote a book called *No Hard Feelings* that I recommend to every team lead I work with. It's not a game dev book, but the chapter on emotional labor in group settings maps almost perfectly onto milestone culture. It's about $15 on Amazon and it's more practical than most "leadership" books in the industry.
+Liz Fosslien and Mollie West Duffy wrote a book called *No Hard Feelings* that I recommend to every team lead I work with. It's not a game dev book, but the chapter on emotional labor in group settings maps almost perfectly onto milestone culture. About $15 on Amazon, and it's more practical than most "leadership" books in the industry.
 
-**Give back some control.** Burnout correlates strongly with a sense of having no agency. One of the most effective things I've seen: let people own their sprint priorities for two weeks. Not the feature list, but the order, the approach, the problem-solving method. This sounds small. It's not. A programmer who gets to decide how to build something instead of being handed a spec with a deadline attached is a fundamentally different psychological situation than one who doesn't.
+**Give people some control back.** Burnout correlates strongly with feeling powerless. One of the most effective things I've seen: let people own their sprint priorities for two weeks. Not the feature list, but the order, the approach, the problem-solving method. Sounds small. It's not. A programmer who decides how to build something instead of being handed a spec with a deadline is in a fundamentally different psychological situation.
 
-If you have any budget at all for this: Calm Business licenses are about $7.50 per user per month, and while I'm not going to pretend that a meditation app fixes crunch, several people on a past team genuinely used it and reported better sleep during production. It's not a solution, but it's a real tool in a real toolkit.
+If you have any budget: Calm Business licenses run about $7.50 per user per month. I'm not going to pretend a meditation app fixes crunch, but several people on a past team actually used it and reported better sleep during production. It's not a solution, but it's a real tool in a real toolkit.
 
-**Recovery time has to be protected on the calendar.** Not suggested. Not offered. Scheduled and defended. After a major milestone, build in at least a week of low-accountability time before the next sprint kicks off. Call it "stabilization" if the word "rest" makes your stakeholders nervous. Block it in whatever project management software you're using so it's visible to everyone, not just whispered about in hallways.
+**Protect recovery time on the calendar.** Not suggested. Not offered. Scheduled and defended. After a major milestone, build in at least a week of low-accountability time before the next sprint. Call it "stabilization" if the word "rest" makes your stakeholders nervous. Block it in your project management software so it's visible, not just whispered about in hallways.
 
 ---
 
 ## When You're the One Who's Burned Out
 
-This section is for producers and leads specifically, because we're often the last ones anyone checks on.
+This is for producers and leads specifically, because we're often the last ones anyone checks on.
 
-You spend so much time holding the team's state that you forget to notice your own. I've been there. You're in every hard conversation, you're managing up to a studio head and down to a team of 15, and somewhere in the middle you forget to eat lunch and start dreading Monday by Thursday afternoon.
+You spend so much time holding the team's state that you forget to notice your own. I've been there. You're in every hard conversation, managing up to a studio head and down to a team of 15, and somewhere in the middle you forget to eat lunch and start dreading Monday by Thursday afternoon.
 
-The honest answer is that you need a peer. Not a direct report, not your boss, but someone at a similar level who understands the specific pressure of production work. If you don't have one inside your studio, the Gamedev.world community on Discord has producer channels that are genuinely good, and the Game Producers Circle has been a useful professional resource for exactly this kind of lateral support.
+You need a peer. Not a direct report, not your boss, but someone at a similar level who understands the specific pressure of production work. If you don't have one inside your studio, Gamedev.world's Discord has producer channels that are genuinely useful, and the Game Producers Circle is a solid professional resource for exactly this kind of lateral support.
 
-Also: I've done a 6-week online production course through Coursera from the UC Santa Cruz game design program, and there's something about structured learning that's different from the grind. It doesn't fix burnout, but it reactivates the part of your brain that got into this work for a reason. Sometimes that's enough to get through a bad quarter.
-
----
-
+Also: I did a 6-week online production course through Coursera from the UC Santa Cruz game design program, and there's something about structured learning that's different from the daily grind. It doesn't fix burnout, but it reactivates the part of your brain that got into this work for a reason. Sometimes that's enough to get through a bad quarter.
 
 ---
 
-The three people who left in 2017 weren't weak. They were, honestly, some of the most talented people I've ever worked with. One of them is a lead designer at a very successful indie studio now. I think about them every time I'm tempted to let a hard sprint turn into a hard six months.
+The three people who left in 2017 weren't weak. They were, honestly, some of the most talented people I've ever worked with. One's a lead designer at a very successful indie studio now. I think about them every time I'm tempted to let a hard sprint turn into a hard six months.
 
-The game industry will ask everything you'll give it. That's just true. Your job as a producer, lead, or peer is to decide how much of that is actually necessary, and to fight hard for the part that isn't.
+The game industry will ask everything you'll give it. Your job as a producer, lead, or peer is to decide how much of that is actually necessary, and to fight hard for the part that isn't.
 
 *Photo: [Daniil Komov](https://www.pexels.com/@dkomov) via Pexels*

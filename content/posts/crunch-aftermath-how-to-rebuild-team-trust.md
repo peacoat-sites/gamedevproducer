@@ -24,7 +24,6 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
 The project shipped. Congratulations. Your team worked 70-hour weeks for three months, someone cried in the parking lot, two people quietly updated their LinkedIn profiles mid-crunch, and now you're sitting in a fluorescent-lit conference room trying to lead a "we did it!" retrospective while half the room stares at the table. The game is out. The team is broken. And nobody in leadership is talking about the second problem.
 
 ## Why "We'll Rest After Launch" Is a Debt, Not a Promise
@@ -39,7 +38,7 @@ I've watched studios lose 40% of their team in the six months after a successful
 
 The instinct after launch is to start something. A new prototype, a GDD, a roadmap meeting. Resist it. Your team needs a genuine decompression period before they can engage honestly with anything future-facing.
 
-Practically, this means:
+Practically:
 
 - **Mandatory time off with zero contact expectations.** Not "take some days if you can." Scheduled, enforced, covered. Two weeks minimum where nobody is expected to answer Slack.
 - **No roadmap conversations for 30 days post-ship.** The moment you start talking about what's next, you signal that recovery is optional.
@@ -77,18 +76,15 @@ This is the sequence that works. Skip steps and you're patching a roof while the
 
 For ongoing team health, **Officevibe** and **Culture Amp** both offer pulse survey functionality built for teams under stress. They're not free, but they're cheaper than replacing three senior developers.
 
-For project management that actually supports sustainable pacing, **Hacknplan** was built specifically for game dev and handles sprint planning without the overhead of adapting Jira to game production workflows. If your team is already in Jira, the important thing isn't the tool, it's whether your velocity metrics account for creative and technical uncertainty, which most default setups don't.
+For project management that actually supports sustainable pacing, **Hacknplan** was built specifically for game dev and handles sprint planning without the overhead of adapting Jira to game production workflows. If your team is already in Jira, the important thing isn't the tool. It's whether your velocity metrics account for creative and technical uncertainty, which most default setups don't.
 
 For producers who want a framework, **The Game Production Handbook** (Heather Maxwell Chandler, ed.) covers team management in ways that go beyond software feature checklists. Pair it with **Project Management for the Unofficial Project Manager** by Kogon and Merrill for the human dynamics side. Neither book will tell you exactly what to say to the artist who considered quitting. But they'll give you the mental models to figure it out yourself.
 
 ## What Leadership Usually Gets Wrong
 
-Leadership often conflates transparency with vulnerability in a way that backfires. There's a version of "we're being honest with you" that's actually just dumping anxiety onto the team. "We're not sure if the studio is profitable" is not helpful transparency if you don't pair it with a clear plan. Honesty without direction reads as instability.
+Leadership often conflates transparency with vulnerability in a way that backfires. There's a version of "we're being honest with you" that's actually just dumping anxiety onto the team. "We're not sure if the studio is profitable" is not helpful if you don't pair it with a clear plan. Honesty without direction reads as instability.
 
-The other common mistake is the team event. Pizza party, escape room, bowling. These are fine. They're also completely irrelevant to trust repair. Nobody leaves laser tag thinking "I believe my producer will protect my time now." Save the budget. Spend the time on the structural fixes instead.
-
----
-
+The other mistake is the team event. Pizza party, escape room, bowling. These are fine. They're completely irrelevant to trust repair though. Nobody leaves laser tag thinking "I believe my producer will protect my time now." Save the budget. Spend the time on the structural fixes.
 
 ---
 

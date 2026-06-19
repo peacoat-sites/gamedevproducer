@@ -24,7 +24,6 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
 Your lead programmer is in Warsaw. Your UI artist is in Toronto. Your narrative designer just moved to Chiang Mai. It's 9 AM somewhere and nobody's online at the same time. If you're managing a remote game dev team right now and it feels like herding cats across four time zones, the problem usually isn't the tools you're using. It's that you're running a distributed team with a co-located mindset.
 
 ## Why Remote Game Dev Is Different From Remote "Work"
@@ -45,7 +44,7 @@ If your time zones are genuinely incompatible (say, someone 11 hours apart from 
 
 ## Async Isn't "Send a Slack Message and Hope"
 
-Good async communication has structure. Without it, questions pile up, decisions stall, and people spend cognitive energy excavating context that should have been documented.
+Good async communication has structure. Without it, questions pile up, decisions stall, and people waste cognitive energy digging through context that should've been documented from the start.
 
 A few things that actually work:
 
@@ -66,7 +65,7 @@ You don't need 12 tools. You need four categories covered: project tracking, com
 | Asset Pipeline | Perforce, Git LFS, ShotGrid | Version control for large binary files |
 | Documentation | Notion, Confluence | Decision logs, design docs, onboarding |
 
-Hack n Plan is worth a specific mention. It's built for game development, not retrofitted from software engineering, and the task breakdown maps naturally to how game disciplines actually work. For small-to-mid remote teams it's often a better fit than Jira.
+Hack n Plan deserves a specific callout. It's built for game development, not retrofitted from software engineering, and the task breakdown maps naturally to how game disciplines actually work. For small-to-mid remote teams it's often a better fit than Jira.
 
 For your own growth as a producer managing distributed teams, Jason Schreier's *Blood, Sweat, and Pixels* is less a how-to and more a cautionary catalog of what remote coordination failures look like at scale. Practical counterpart: *The Art of Agile Development* by James Shore covers the async-friendly agile patterns that actually transfer to game teams.
 
@@ -74,9 +73,9 @@ For your own growth as a producer managing distributed teams, Jason Schreier's *
 
 Co-located teams build culture through friction: shared lunches, overheard conversations, someone showing a weird bug on their screen. Remote teams have none of that. You have to architect it deliberately.
 
-Non-work channels in Slack or Discord aren't optional fluff. They're the substrate for the informal trust that makes people give honest feedback, flag problems early, and stay on the project when it gets hard. A weekly optional "show and tell" where anyone can share something they're excited about, inside or outside the project, does more for team cohesion than any all-hands meeting.
+Non-work channels in Slack or Discord aren't optional fluff. They're where the informal trust happens that makes people give honest feedback, flag problems early, and stay on the project when it gets hard. A weekly optional "show and tell" where anyone can share something they're excited about, inside or outside the project, does more for team cohesion than any all-hands meeting.
 
-Recognition also works differently remote. Nobody sees the 11 PM debugging session. Make it visible. Call it out in standups, in Slack, in your sprint retrospective. People need to know their work is seen, because nobody's walking past their desk.
+Recognition works differently remote too. Nobody sees the 11 PM debugging session. Make it visible. Call it out in standups, in Slack, in your sprint retrospective. People need to know their work is seen, because nobody's walking past their desk.
 
 ## Step-by-Step: Setting Up a Remote Team Operating Rhythm
 
@@ -86,9 +85,6 @@ Recognition also works differently remote. Nobody sees the 11 PM debugging sessi
 4. **Build your decision log.** Create the doc before you need it. Add entries from day one so it becomes habit.
 5. **Run a team retro every two weeks.** Focused specifically on process and communication, not just deliverables. Remote teams need more retro cadence, not less.
 6. **Review your tool stack at the end of month one.** Don't commit to a full suite before you know what your team actually uses.
-
----
-
 
 ---
 

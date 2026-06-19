@@ -24,7 +24,6 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 Most game development schedules are wrong the moment you finish writing them. I don't mean slightly off. I mean the average game ships 40-75% later than its original internal estimate, and that's not a stat from bad studios -- it's basically industry standard. I spent a long time thinking this was a discipline problem, a planning problem, or a "we just need better tools" problem. What I eventually figured out is that it's actually a fundamental misunderstanding of what a game development schedule is supposed to do.
 
 ## Why Your Mental Model of "The Schedule" Is Probably Broken
@@ -33,7 +32,7 @@ Most people come into game production thinking a schedule is a prediction. You l
 
 Games don't have well-defined requirements. You're discovering the game as you make it. A mechanic that looked solid on paper spends three months in engine before your lead designer admits it isn't fun. An artist knocks out a character in two days and then spends three weeks on the next one because the reference was ambiguous. Your milestone date was based on the version of the game you imagined in month one, not the one you're actually building in month six.
 
-What a game development schedule is actually for: it's a communication tool. It tells your team where they're supposed to focus right now. It tells your publisher or leadership what you've committed to. It's a forcing function that creates accountability. The schedule being "wrong" isn't failure -- it's information. What matters is how fast you respond to that information.
+What a game development schedule actually does: it's a communication tool. It tells your team where they're supposed to focus right now. It tells your publisher or leadership what you've committed to. It's a forcing function that creates accountability. The schedule being "wrong" isn't failure -- it's information. What matters is how fast you respond to that information.
 
 Once I started treating schedules as living documents that I expected to change, my whole approach to building them shifted.
 
@@ -99,9 +98,9 @@ For online learning, the Game Producers community and GDC Vault both have solid 
 
 Building the schedule is the easy part. Maintaining it is where most producers burn out or give up and let the schedule become a fiction everyone ignores.
 
-The thing that made the biggest difference for me was weekly actuals tracking. Every week, every feature lead tells me: what was completed, what's in progress, and what's blocked. Not what percentage done something is -- percentage complete is a lie people tell themselves. I want to know: is this feature shippable right now? If yes, it's done. If no, it's not done. Binary.
+The thing that made the biggest difference for me was weekly actuals tracking. Every week, every feature lead tells me what was completed, what's in progress, and what's blocked. Not what percentage done something is -- percentage complete is a lie people tell themselves. I want to know: is this feature shippable right now? If yes, it's done. If no, it's not done. Binary.
 
-When actuals diverge from plan by more than 10-15% two weeks running, you don't wait. You have three choices: cut scope, add time, or add resources (which often adds time, as Brooks' Law famously points out). There is no fourth option where you "make up the time." In 14 years, I have never seen a game team make up significant time. They almost always make it up with crunch, which costs you quality, team health, and future velocity.
+When actuals diverge from plan by more than 10-15% two weeks running, you don't wait. You have three choices: cut scope, add time, or add resources (which often adds time, as Brooks' Law famously points out). There is no fourth option where you "make up the time." In 14 years, I've never seen a game team make up significant time. They almost always make it up with crunch, which costs you quality, team health, and future velocity.
 
 The research on crunch and productivity is actually pretty clear here. Teams working 60-80 hour weeks see a short burst of output followed by a significant quality and velocity drop after about 3-4 weeks. The net time gain is often close to zero, and the human cost is real. Sustainable pace isn't a soft concept. It's a schedule integrity concept.
 
@@ -115,9 +114,4 @@ A good vertical slice solves this. Not a vertical slice as a demo for investors 
 
 What surprised me when I first started doing this consistently was how often the vertical slice revealed that the original production timeline was off not by 10-20%, but by a factor of 2. Better to know that at month 3 than month 12.
 
----
-
-
----
-
-Getting a game development schedule right isn't about finding the perfect template or the best tool. It's about building a system where you learn fast, communicate clearly, and make scope and timeline decisions based on what's actually happening rather than what you hoped would happen. The schedule is never going to be perfectly accurate. The goal is for it to be useful -- and for you to trust it enough to act on what it's telling you.
+Getting a game development schedule right isn't about finding the perfect template or the best tool. It's about building a system where you learn fast, communicate clearly, and make scope and timeline decisions based on what's actually happening rather than what you hoped would happen. The schedule is never going to be perfectly accurate. The goal is for it to be useful.

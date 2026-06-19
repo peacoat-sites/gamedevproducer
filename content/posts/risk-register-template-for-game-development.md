@@ -24,7 +24,6 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 Most game projects don't fail because of bad ideas. They fail because nobody wrote down the thing everyone quietly worried about in week two. I've sat in postmortems where the team collectively remembers the exact moment they knew the dependency on a third-party SDK was going to blow up the milestone, and nobody escalated it. It lived in someone's head. That's not a communication problem. That's a risk management problem, and a risk register is the tool that solves it.
 
 Here's what surprised me when I started taking risk registers seriously: most game teams either skip them entirely or build one in week one and never open it again. Neither approach works. A risk register isn't a document. It's a living habit.
@@ -35,7 +34,7 @@ A risk register is a structured list of potential problems that could affect you
 
 The confusion I see most often is teams conflating risks with issues. An issue is something that's already happening. A risk is something that might happen. Your risk register should only contain the second category. Once a risk becomes reality, it moves to your issue log and gets actively managed there.
 
-For game development specifically, this distinction matters a lot. "Our lead programmer just quit" is an issue. "Our lead programmer is the only person who understands the save system" is a risk. One of those is actionable before the crisis hits.
+For game development specifically, this distinction matters a lot. "Our lead programmer just quit" is an issue. "Our lead programmer is the only person who understands the save system" is a risk. One's a crisis you're already handling. The other's a crisis you can actually prevent.
 
 ## The Core Columns Your Register Needs
 
@@ -55,57 +54,52 @@ You don't need fancy software to start. A Google Sheet or Notion table works fin
 | Status | Open / Triggered / Closed |
 | Last Reviewed | Date. This is how you catch stale risks. |
 
-The risk score column is where most templates fall short. Sorting by score alone gives you a number that sounds scientific but can mislead you. A risk with probability 2 and impact 5 scores 10. A risk with probability 5 and impact 2 also scores 10. Those are completely different conversations. I recommend keeping both columns visible and using judgment alongside the math.
+Most templates treat the risk score column like it's the whole story. It isn't. A risk with probability 2 and impact 5 scores 10. A risk with probability 5 and impact 2 also scores 10. Those are completely different situations. I recommend keeping both columns visible and trusting your judgment alongside the numbers.
 
 ## Game-Specific Risk Categories You Can't Ignore
 
-Generic project management risk templates don't account for the weird ways games die. Here's what you need to add to your category list that a standard PMI template won't give you:
+Generic project management templates don't account for how games actually break. Here's what you need to add that a standard PMI framework won't cover:
 
-**Technology and engine risk.** Engine version locks, middleware licensing changes, platform certification requirements that shift mid-development. I've seen a Unity pricing announcement nearly derail a studio's roadmap in 2023. That's a real category of risk now.
+**Technology and engine risk.** Engine version locks, middleware licensing changes, platform certification requirements that shift mid-development. The Unity pricing announcement in 2023 nearly tanked some studios' entire roadmaps. That's now a risk category that matters.
 
-**Scope creep from creative iteration.** This one's almost unique to games. The game wasn't fun in the first playtest, so the designer wants to rebuild the core loop. That's a legitimate creative need, not a failure. But it needs to be in your risk register with a probability score before the playtest, not after.
+**Scope creep from creative iteration.** This one's almost unique to games. The first playtest shows the core loop isn't fun, so the designer wants to rebuild it. That's legitimate creative work, not a failure. But it needs to be in your register with a probability score before the playtest happens, not after.
 
-**Key person dependency.** Games get made by small teams where one person often owns an entire system. Document it. "Only one person knows how the AI behavior trees work" is a R-Score 15 risk on a team of six.
+**Key person dependency.** Games get made by small teams. One programmer might own the entire save system. One designer might be the only person who understands the AI behavior trees. Document it. That's a risk score of 15 on a team of six.
 
-**Platform and certification risk.** Submission windows, platform holder review backlogs, rating board requirements. If you're shipping on console, first-party cert alone can add four to eight weeks to your timeline if you hit a failure. That's not hypothetical. That's a risk you plan for on day one.
+**Platform and certification risk.** Submission windows, first-party review backlogs, rating board requirements. Console certification alone can add four to eight weeks if you fail the first submission. That's not theoretical. That's something you plan for on day one.
 
-**External dependency risk.** Licensed IP, third-party audio middleware, backend services, localization vendors. Any dependency you don't control directly belongs in this register.
+**External dependency risk.** Licensed IP, audio middleware, backend services, localization vendors. Any dependency you don't control directly belongs here.
 
 ## How to Build Your Register in a Working Session
 
-Don't build this alone. I'll be honest: a risk register written by the producer in isolation is 40% less useful than one built in a focused team session. Here's a process that works:
+Don't build this alone. A risk register written by the producer in isolation is 40% less useful than one built in a focused team session. Here's a process that actually works:
 
 1. Block 90 minutes with your leads (design, engineering, art, audio, production).
-2. Give everyone five minutes of silent writing first. Each person writes their top five worries on sticky notes or a shared doc. No discussion yet.
-3. Read every risk out loud. Group duplicates.
+2. Give everyone five minutes of silent writing first. Each person writes their top five worries on sticky notes or a shared doc.
+3. Read every risk out loud. Group the duplicates.
 4. Score each one together using a quick dot vote for probability and impact. Don't let one voice dominate the scoring.
-5. Assign an owner to every risk with a score above 12. Below that, you can batch-review monthly.
-6. Schedule the first review before anyone leaves the room. Seriously. A risk register with no next review date is already dead.
+5. Assign an owner to every risk with a score above 12. Below that, batch-review monthly.
+6. Schedule the first review before anyone leaves the room. Seriously.
 
-The silent writing step matters more than it sounds. Senior team members can unintentionally shut down honest risk surfacing in a group discussion. Getting everyone's fears on paper before the conversation starts gets you better data.
+The silent writing step matters more than it sounds. Senior people can unintentionally shut down honest risk surfacing in a group discussion. Getting everyone's fears on paper first gets you better data.
 
 ## Maintaining the Register Without It Becoming a Chore
 
 The biggest failure mode I've watched is a beautifully formatted risk register that becomes a museum artifact by sprint three. Here's what keeps it alive:
 
-Review high-score risks every two weeks during your sprint retrospective or milestone check-in. You don't need a dedicated meeting. Five minutes at the end of a standup works if you're consistent.
+Review high-score risks every two weeks during your sprint retrospective or milestone check-in. You don't need a dedicated meeting. Five minutes at the end of standup works if you're consistent.
 
-Set a "stale risk" rule. Any risk that hasn't been reviewed in 30 days gets flagged automatically. Most spreadsheet tools can do this with a simple formula on the "Last Reviewed" date column.
+Set a "stale risk" rule. Any risk that hasn't been reviewed in 30 days gets flagged automatically. Most spreadsheet tools can do this with a simple formula on the "Last Reviewed" column.
 
-Close risks explicitly. When a risk passes, mark it closed with a date and a one-line note on how it resolved. This becomes genuinely valuable reference material for your next project's kickoff session.
+Close risks explicitly. When a risk passes, mark it closed with a date and a one-line note on how it resolved. This becomes genuinely valuable reference material for your next project's kickoff.
 
-Don't let the register grow forever. If you're adding risks but never closing them, you'll hit 60 items within two months and nobody will read it. Ruthlessly close risks that are no longer relevant. A focused list of 15 to 20 live risks is more useful than a sprawling 80-item archive.
+Don't let the register bloat forever. If you're adding risks but never closing them, you'll hit 60 items within two months and nobody will touch it. Close risks ruthlessly. A focused list of 15 to 20 live risks beats an 80-item archive every time.
 
 ## Tools That Actually Help
 
-For the register itself, **Notion** with a filtered database view is my current recommendation for indie and mid-size teams. You can link risks directly to sprint tasks, which creates useful traceability. **Airtable** works similarly. For teams already inside Jira, there are risk register templates in the Confluence marketplace that integrate cleanly.
+For the register itself, **Notion** with a filtered database view is my recommendation for indie and mid-size teams. You can link risks directly to sprint tasks, which creates useful traceability. **Airtable** works similarly. For teams already inside Jira, the Confluence marketplace has risk register templates that integrate cleanly.
 
 If you want to go deeper on the production methodology behind all of this, Heather Maxwell Chandler's *The Game Production Toolbox* is the most practical book I've found on applied production methods for games specifically. For online learning, the Game Production certificate programs through Coursera's industry partners and the IGDA Foundation have solid modules on risk management. Clinton Keith's *Agile Game Development* also covers risk framing in a way that's actually adapted for creative iteration cycles, not just software engineering contexts.
-
----
-
-
----
 
 The best risk registers I've ever seen weren't the most elaborate ones. They were the ones the team actually read. Start simple, review consistently, and use the postmortem from your last project to seed the register for your next one. The risks that killed your last schedule are almost always lurking in your next one, just wearing different names.
 

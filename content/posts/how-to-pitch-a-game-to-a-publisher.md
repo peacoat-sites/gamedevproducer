@@ -24,62 +24,60 @@ faqs:
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
 ---
+Most pitches fail before the publisher even opens the deck. I've been on both sides of the table, and watching genuinely interesting game concepts crash because the team didn't understand what they were actually supposed to prove? It's painful.
 
-Most pitches fail before the publisher opens the deck. I know this because I've been on both sides of the table, and the number of times I've watched a genuinely interesting game concept crash and burn because the team didn't understand what they were actually being asked to prove is, honestly, kind of painful to think about.
-
-Here's the thing most first-time pitchers get wrong: publishers aren't looking for a great game. They're looking for a fundable project from a team that can execute. Those are completely different things, and collapsing them into one is where the trouble starts.
+Here's what first-time pitchers usually get wrong: publishers aren't hunting for a great game. They're hunting for a fundable project from a team that can ship it. Those are completely different things. Treating them the same is where everything falls apart.
 
 ## What Publishers Are Actually Evaluating
 
-Before you write a single slide, you need to internalize what a publisher is doing during a pitch. They're running a risk calculation. Can this team finish? Will this game find an audience? Does the market have room for it right now, in this genre, at this price point? Can we make money together?
+Before you touch a slide, you need to understand what a publisher is actually doing during your pitch. They're running a risk calculation. Can this team finish? Will this game find an audience? Does the market have room for it right now, in this specific genre, at this price point? Can we both make money?
 
-What surprised me when I moved into production consulting was how often publishers articulated this stuff very plainly, and how often pitching teams either didn't hear it or didn't believe it applied to them. A publisher like Raw Fury or Devolver isn't going to take a flier on an unproven team just because the concept is cool. They need signal that you're not going to disappear with $150k of their money after hitting your first major technical problem.
+What struck me moving into production consulting was how plainly publishers stated all this, and how often pitching teams either didn't hear it or figured it didn't apply to them. Raw Fury or Devolver isn't taking a flier on an unproven team just because the concept sounds cool. They need proof you won't vanish with $150k of their money after hitting your first serious technical problem.
 
-This means your pitch has two jobs running in parallel. One is selling the game. The other is selling the team. Most pitches do one reasonably well and neglect the other completely.
+Your pitch has two separate jobs. One sells the game. The other sells the team. Most pitches nail one and ignore the other entirely.
 
 ## Building the Pitch Deck That Actually Gets a Response
 
-A game pitch deck in 2024 is typically 15 to 25 slides. Go shorter if you're early stage, longer only if you have a lot of concrete evidence to show. I've seen teams spend three months on a deck that was 60 slides and got ignored, while a 12-slide deck with a polished vertical slice got a deal in six weeks. Length isn't the signal of seriousness you think it is.
+A game pitch deck in 2024 runs 15 to 25 slides. Go shorter if you're early. Go longer only if you have real evidence to show. I've watched teams spend three months building a 60-slide deck that got ignored, while a 12-slide deck with a polished vertical slice landed a deal in six weeks. Length isn't proof of seriousness.
 
-The sections that have to be there, in some form:
+You need these sections:
 
-The concept hook. One paragraph, maybe two. Not a story summary, not a lore dump. The genre, the core loop, the emotional promise, and the reference titles. "A cozy base-building roguelite in the vein of Hades and Stardew Valley, where every run reshapes your permanent farm" tells a publisher something real. "An epic adventure where players explore a mysterious world" tells them nothing.
+**The concept hook.** One paragraph, maybe two. Not a story summary. Not a lore dump. Genre, core loop, emotional promise, reference titles. "A cozy base-building roguelite in the vein of Hades and Stardew Valley, where every run reshapes your permanent farm" tells a publisher something real. "An epic adventure where players explore a mysterious world" tells them nothing.
 
-Market positioning. This is the slide most indie teams either skip or fumble badly. You need to show where your game sits in the current market, what the comparable titles have done commercially (SteamSpy, VGInsights, and Game Data Crunch are all useful here, though the data is imperfect), and why there's still a gap you're filling. Be honest about this. Publishers talk to a lot of people and they know when you're cherry-picking comps. If your nearest competitor just released six months ago, name it and explain your differentiation.
+**Market positioning.** This is the slide most indie teams skip or botch. You need to show where your game actually sits in the current market, what comparable titles have done commercially (SteamSpy, VGInsights, and Game Data Crunch are your tools here, though the data's imperfect), and why there's still a gap you're filling. Be honest. Publishers talk to everyone. They know when you're cherry-picking comps. If your nearest competitor launched six months ago, name it and explain how you're different.
 
-Team credentials. What has everyone shipped? Not "worked on," shipped. Even if it's a small project, a completed game is evidence. If you're a first-time team, this section needs to work harder. Show vertical slice footage, show your development velocity, show that you can actually make a thing.
+**Team credentials.** What has everyone shipped? Not "worked on." Shipped. A completed game is evidence, even if it's small. First-time team? This section has to work harder. Show vertical slice footage. Show your development velocity. Show you can actually make something.
 
-Vertical slice or demo. This is, genuinely, the single most important thing in a pitch. A playable demo, even a rough one, does more for credibility than any slide deck ever will. If you don't have one, your chances of getting a deal from a reputable publisher drop sharply, especially right now when the market is oversaturated. You don't need the game to be polished. You need it to be playable enough that a publisher can feel the core loop.
+**Vertical slice or demo.** This is the single most important thing in your pitch. A playable demo, even rough, does more for credibility than any slide deck. No demo? Your chances with a reputable publisher drop sharply, especially right now when the market is drowning in pitches. You don't need polish. You need a core loop that's actually playable.
 
-Budget and timeline. Be specific. "$200k over 18 months" with a line-item breakdown is infinitely more credible than "we need around $150k to $300k depending on scope." I've seen deals fall apart at this stage because teams clearly hadn't done the work to know what they needed. Miro has a decent budget template for small studios; so does the Game Dev Budget spreadsheet that's been floating around the indie community for years.
+**Budget and timeline.** Be specific. "$200k over 18 months" with line-item breakdown beats "we need around $150k to $300k depending on scope" every time. I've watched deals die because teams clearly hadn't figured out what they actually needed. Miro has a solid budget template. So does the Game Dev Budget spreadsheet that's been floating around indie circles for years.
 
-Revenue projections. Keep these conservative and show your math. If you're projecting 50,000 copies in year one, show me the comparable games that hit that number and why you think you're in that cohort. Publishers have seen enough fantasy projections that a grounded, conservative estimate reads as a green flag rather than a red one.
+**Revenue projections.** Conservative estimates with math shown. If you're projecting 50,000 copies year one, show me which games hit that number and why you belong in that cohort. Publishers have seen enough fantasy numbers that a grounded, realistic projection reads as a green flag.
 
 ## The Pitch Meeting Itself
 
-Getting a deck in front of someone is only half the problem. The meeting is where a lot of teams who have great decks fall apart.
+Getting your deck in front of someone is half the work. The meeting is where teams with great decks often implode.
 
-My honest advice: do not use the meeting to present your deck. Send the deck ahead of time and use the meeting for conversation. Publishers who've already read your materials want to ask questions, stress-test your thinking, and get a read on you as people. If you spend 45 minutes walking through slides they already have, you've wasted the best part of the meeting.
+Don't present your deck at the meeting. Send it ahead. Use the time for actual conversation. Publishers who've already read your materials want to ask questions, probe your thinking, and get a sense of who you are. Spending 45 minutes walking through slides they already have wastes the best part of the meeting.
 
-Practice the "why this team, why now" question until you can answer it in 90 seconds without sounding defensive. It's going to come up. Every time.
+Practice answering "why this team, why now" in 90 seconds without getting defensive. It'll come up every time.
 
-The thing that actually impresses publishers in meetings, in my experience, is preparedness about failure modes. If you can say "the main risks on this project are X and Y, and here's how we've planned around them," you're demonstrating a level of self-awareness that most pitching teams don't have. Most teams pitch their upside. The teams that get deals often also pitch their downside management.
+What actually impresses publishers in meetings? Preparedness about failure. Say "the main risks here are X and Y, and here's how we've planned around them," and you're showing self-awareness most pitching teams don't have. Most teams sell the upside. The teams that get deals also sell their downside management.
 
-One more thing: know which publisher you're talking to and why. I cannot stress this enough. Pitching a hardcore tactics game to Finji, who publishes games like Tunic and Night in the Woods, is a waste of everyone's time. Research the publisher's catalog, understand their positioning, and reference it in your pitch. It shows you're serious. It also filters you toward publishers who are actually a fit.
+Know which publisher you're talking to and why you're talking to them. Pitching a hardcore tactics game to Finji (Tunic, Night in the Woods) is a waste of everyone's time. Research their catalog. Understand their positioning. Reference it. This shows seriousness and filters you toward publishers who are actually a fit.
 
-Good resources for identifying the right publishers: the Game Developer Conference publishes an annual list, Inkle's blog has talked about their publishing approach, and the How To Fund Your Indie Game database (searchable at indie-fund.com and various GDC resources) is worth spending a few hours in.
+Good places to start: the Game Developer Conference publishes an annual publisher list, Inkle's blog covers their publishing approach, and the How To Fund Your Indie Game database (searchable at indie-fund.com and GDC resources) is worth a few hours of digging.
 
 ## The Contract Stage (And Why This Is Where Things Get Complicated)
 
-A lot of pitching advice stops at the meeting, but honestly, getting an interested publisher is only the beginning of a gauntlet. Publisher deals vary enormously in what they're actually offering. Some cover 100% of dev costs with a rev-share after recoupment. Some offer a smaller advance but better rev-share terms. Some will try to take porting rights, sequel rights, or IP ownership, and whether any of that is acceptable depends entirely on your situation.
+Most pitching advice ends at the meeting. Getting an interested publisher is just the start of a long gauntlet.
 
-Get a lawyer. Specifically, get one who knows games contracts. Erin Hoffman-John has written about this. The Game Developers' Legal Alliance has resources. A games-specific attorney in the US typically runs $300 to $500 an hour and is one of the best uses of money a studio can make before signing anything. The horror stories I've heard from teams who skipped this step are genuinely grim.
+Publisher deals vary wildly in what they're actually offering. Some cover 100% of dev costs with rev-share after recoupment. Some offer a smaller advance but better rev-share. Some grab porting rights, sequel rights, or IP ownership. Whether any of that works depends on your situation.
 
-Recoupment terms are where a lot of deals quietly become bad deals. If a publisher invests $250k and takes 100% of revenue until they've recouped $500k (a 2x recoupment multiple is not uncommon in bad deals), you could sell 30,000 copies and see nothing. Read every clause around recoupment, marketing spend counted toward recoupment, and what happens if the publisher is acquired. These aren't hypotheticals; they're regular occurrences.
+Get a lawyer. Specifically one who knows games contracts. Erin Hoffman-John has written about this. The Game Developers' Legal Alliance has resources. A games-specific attorney in the US runs $300 to $500 per hour and is one of the best investments a studio can make before signing anything. The stories I've heard from teams who skipped this step are genuinely awful.
 
+Recoupment terms are where good deals quietly become bad ones. A publisher invests $250k and takes 100% of revenue until they've recouped $500k? A 2x recoupment multiple isn't uncommon in bad deals. You could sell 30,000 copies and see nothing. Read every clause around recoupment, what counts toward it, and what happens if the publisher gets acquired. These aren't hypotheticals. They happen regularly.
 
----
-
-The teams I've watched get good deals share one trait: they treated the pitch as a business conversation, not a performance. They knew their numbers, they knew their risks, they'd played the comparable games, and they walked in knowing what they were willing to walk away from. That last part matters more than most pitching guides will tell you. If you don't know your walk-away terms before you sit down, you're negotiating against yourself.
+The teams I've watched land good deals shared one trait: they treated the pitch as a business conversation, not a performance. They knew their numbers. They knew their risks. They'd played the comparable games. They walked in knowing what they were willing to walk away from. That last part matters more than most guides admit. If you don't know your walk-away terms before you sit down, you're just negotiating against yourself.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

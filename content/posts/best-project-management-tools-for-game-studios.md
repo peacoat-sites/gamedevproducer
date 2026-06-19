@@ -24,18 +24,15 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
+Most game studios don't fail because they lack talent. They fail because nobody can answer "what is actually happening right now?" at 9am on a Monday morning. A producer I know spent three weeks reconstructing a sprint history from Slack threads and a whiteboard photo because their studio had been tracking work in four different tools simultaneously, none of them authoritative. That's not a planning problem. That's a tooling problem, and it's more common than anyone in this industry likes to admit.
 
-Most game studios don't fail because they lack talent. They fail because nobody could answer the question "what is actually happening right now?" at 9am on a Monday morning. A producer I know spent three weeks reconstructing a sprint history from Slack threads and a whiteboard photo because their studio had been tracking work in four different tools simultaneously, none of them authoritative. That's not a planning problem. That's a tooling problem, and it's more common than anyone in this industry likes to admit.
-
-Choosing the right project management software for a game studio isn't the same as choosing it for a software company or a marketing agency. Game dev has specific pressures: iterative design work that changes scope constantly, large binary assets that break most ticketing systems, cross-discipline dependencies between art, code, and audio that don't map cleanly onto generic "task" workflows, and milestone deadlines that carry contractual or platform certification weight. A tool that works beautifully for a SaaS startup will actively harm a game team if it can't handle that context.
+Choosing project management software for a game studio isn't the same as choosing it for a software company or a marketing agency. Game dev has specific pressures: iterative design work that changes scope constantly, large binary assets that break most ticketing systems, cross-discipline dependencies between art, code, and audio that don't map cleanly onto generic "task" workflows, and milestone deadlines that carry contractual or platform certification weight. A tool that works beautifully for a SaaS startup will actively harm a game team if it can't handle that context.
 
 Here's what actually matters, and which tools are worth your time.
 
----
-
 ## Why Generic PM Tools Usually Disappoint Game Teams
 
-The enterprise PM market is enormous, so there are hundreds of tools competing for your subscription. Most of them are designed around linear project delivery: you have requirements, you build the thing, you ship it. Games don't work that way. A feature that felt finished in alpha gets ripped out in beta because it isn't fun. A level that was "complete" gets rebuilt because a new mechanic changed the flow. Scope doesn't shrink toward a deadline in game dev; it oscillates.
+The enterprise PM market is enormous. Hundreds of tools are competing for your subscription. Most of them are designed around linear project delivery: you have requirements, you build the thing, you ship it. Games don't work that way. A feature that felt finished in alpha gets ripped out in beta because it isn't fun. A level that was "complete" gets rebuilt because a new mechanic changed the flow. Scope doesn't shrink toward a deadline in game dev; it oscillates wildly.
 
 Tools like Microsoft Project are built on fixed work breakdown structures and Gantt charts. They're genuinely excellent if you're building a highway. For game production, they create the illusion of control while actual work drifts invisibly underneath the bars. I've seen studios spend more time keeping their MS Project file accurate than they spent actually managing the project.
 
@@ -45,8 +42,6 @@ The game-specific needs that most generic tools handle poorly:
 - **Asset status tracking.** Is that environment asset in concept, blockout, first-pass, final art, or engine-ready? Most tools give you a text field and wish you luck.
 - **Milestone management.** Publishers and platform holders don't care about your sprint velocity. They care whether your Alpha submission has the required features. Your tool needs to support both rhythms simultaneously.
 - **Scalability across team sizes.** A 5-person indie needs something radically different from a 200-person studio. The right tool for one is wrong for the other.
-
----
 
 ## The Tools That Actually Work: A Ranked Breakdown
 
@@ -92,8 +87,6 @@ It's also expensive and requires real setup time. I wouldn't recommend it below 
 
 Cost: from $30/user/month.
 
----
-
 ## How to Actually Choose: A Decision Framework
 
 Stop trying to find the "best" tool in the abstract. Find the right tool for your team's current size, workflow, and biggest pain point.
@@ -113,8 +106,6 @@ Stop trying to find the "best" tool in the abstract. Find the right tool for you
 4. **Assign one owner.** Someone needs to be responsible for tool health. Not "everyone." One person who audits the board weekly, closes stale tickets, and keeps the workflow honest.
 5. **Document your conventions in the tool itself.** A pinned post, a wiki page, a template. New team members should be able to onboard to your tooling conventions in under an hour.
 
----
-
 ## Books and Courses Worth Your Time
 
 The tooling conversation is downstream of production methodology. If your process is broken, no software fixes it.
@@ -131,8 +122,6 @@ The tooling conversation is downstream of production methodology. If your proces
 - Coursera's Game Design and Development specialization from Michigan State includes production methodology alongside the design content.
 - LinkedIn Learning has a functional Jira course that's worth two hours of your time before you set up a new workspace, even if you've used Jira before.
 
----
-
 ## Productivity Layer: The Tools Around the Tool
 
 Your PM software doesn't exist in isolation. The tools around it matter.
@@ -142,10 +131,5 @@ Your PM software doesn't exist in isolation. The tools around it matter.
 **Communication:** Slack or Discord. Slack if you need formal channel structures and integrations; Discord if your team is smaller and prefers a less corporate feel. Both integrate with Jira and Notion. The non-negotiable rule: decisions made in chat get logged in the PM tool. Always.
 
 **Documentation:** Confluence if you're on Jira. Notion if you're not. Google Docs if you refuse to pay for anything. The point is having one place where design decisions, meeting notes, and pipeline documentation live, and everyone knows where that place is.
-
----
-
-
----
 
 The best PM tool for your studio is the one your team will actually use, that you can actually maintain, and that gives you a clear answer to "what's happening right now" on demand. Start with the simplest option that fits your scale. Upgrade when it breaks. The instinct to build an elaborate system before you need it is one of the most reliable ways to waste a month of production time on production infrastructure instead of making the game.

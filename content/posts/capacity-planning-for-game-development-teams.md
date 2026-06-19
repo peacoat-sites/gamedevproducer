@@ -24,7 +24,6 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The post-mortem reveals no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.
 
 ## Why Game Studios Get Capacity Planning Wrong
@@ -41,19 +40,19 @@ Here's the approach I've seen hold up across indie and mid-size teams.
 
 **Step 1: Establish your baseline velocity first.** Don't plan capacity for a new sprint until you have at least three sprints of actual throughput data. Use whatever unit fits your workflow: story points, task count, hours completed. The unit matters less than consistency.
 
-**Step 2: Apply a capacity multiplier.** Take your team's total available hours and multiply by 0.6 to 0.7. This accounts for overhead you can't eliminate: standups, reviews, one-on-ones, ad hoc Slack questions. If your team is in crunch or a critical milestone push, resist the temptation to use 0.8 or 0.9. You'll just be lying to yourself and your stakeholders.
+**Step 2: Apply a capacity multiplier.** Take your team's total available hours and multiply by 0.6 to 0.7. This accounts for overhead you can't eliminate: standups, reviews, one-on-ones, ad hoc Slack questions. If you're in crunch or pushing toward a critical milestone, resist the temptation to use 0.8 or 0.9. You'll just be lying to yourself and your stakeholders.
 
-**Step 3: Reserve a buffer for unplanned work.** On any given sprint, 15 to 20% of your team's actual output will get eaten by things that weren't on the board two weeks ago. Plan for this explicitly. An empty buffer at the end of a sprint is a success, not waste.
+**Step 3: Reserve a buffer for unplanned work.** On any given sprint, 15 to 20% of your team's actual output will get consumed by things that weren't on the board two weeks ago. Plan for this explicitly. An empty buffer at the end of a sprint is a success, not waste.
 
 **Step 4: Track individual availability, not just team averages.** One senior engineer going to GDC for a week can collapse an entire sprint if that person is the only one who owns a critical system.
 
-**Step 5: Run a weekly capacity check-in.** Not a status meeting. A five-minute sync where anyone flags known disruptions to their week before they become surprises.
+**Step 5: Run a weekly capacity check-in.** Not a status meeting. Five minutes where anyone flags known disruptions to their week before they become surprises.
 
 ## Discipline-Specific Capacity Is Different
 
-A common planning mistake is treating all team members as interchangeable capacity units. A character artist and a technical artist are not the same resource. A gameplay programmer and a graphics programmer are not the same resource. When you plan at the discipline level, scheduling conflicts and bottlenecks become visible before they become emergencies.
+A common planning mistake is treating all team members as interchangeable capacity units. A character artist and a technical artist aren't the same resource. A gameplay programmer and a graphics programmer aren't the same resource. When you plan at the discipline level, scheduling conflicts and bottlenecks become visible before they become emergencies.
 
-Build a simple capacity map broken down by discipline. Spreadsheet, Notion table, or a dedicated tool like **Jira** with proper team configurations or **Hacknplan** (which is built specifically for game dev workflows) all work. The point is to see, at a glance, where your art pipeline is under-resourced relative to what's scheduled in the next milestone.
+Build a simple capacity map broken down by discipline. Spreadsheet, Notion table, or a dedicated tool like **Jira** with proper team configurations or **Hacknplan** (built specifically for game dev workflows) all work. The point is seeing, at a glance, where your art pipeline is under-resourced relative to what's scheduled in the next milestone.
 
 ## Comparing Capacity Planning Tools for Game Teams
 
@@ -65,17 +64,14 @@ Build a simple capacity map broken down by discipline. Spreadsheet, Notion table
 | **Shotgrid (Autodesk)** | Asset-heavy production pipelines | Resource scheduling, bid tracking | Strong for art-heavy teams |
 | **Trello** | Very small teams | None natively | Limited for real capacity work |
 
-For book-level depth on production planning, **"The Game Production Handbook" by Heather Maxwell Chandler** remains one of the most practical references on resource planning in actual game production contexts. Coursera and LinkedIn Learning both have project management courses that cover capacity planning fundamentals, though you'll need to adapt the frameworks from general software to game dev realities.
+**"The Game Production Handbook" by Heather Maxwell Chandler** remains one of the most practical references on resource planning in actual game production. Coursera and LinkedIn Learning both offer project management courses that cover capacity fundamentals, though you'll need to adapt frameworks from general software to game dev realities.
 
 ## The Invisible Capacity Drain: Lead Time
 
-One thing that rarely shows up in capacity models is lead time for decisions. If an art director needs to approve an asset before a junior artist can proceed, and that approval takes two days, you've lost two days of capacity that never gets counted anywhere. Multiply this across a team and a six-month production phase.
+One thing that rarely shows up in capacity models is lead time for decisions. If an art director needs to approve an asset before a junior artist can proceed, and that approval takes two days, you've lost two days of capacity that never gets counted anywhere. Multiply this across a team over six months of production.
 
 Map your decision dependencies the same way you map task dependencies. Know who the bottlenecks are before the sprint starts, not after.
 
 ---
 
-
----
-
-Capacity planning isn't glamorous work. It doesn't show up in game design post-mortems or GDC talks about creative vision. But I've watched more projects fail from poor resource planning than from bad design decisions. Get this right and everything else, your sprints, your milestones, your team's morale, becomes more predictable. And in game development, predictability is a competitive advantage most studios are leaving on the table.
+Capacity planning isn't glamorous work. It doesn't show up in game design post-mortems or GDC talks about creative vision. But I've watched more projects fail from poor resource planning than from bad design decisions. Get this right and everything else gets more predictable: your sprints, your milestones, your team's morale. And in game development, predictability is a competitive advantage most studios are leaving on the table.

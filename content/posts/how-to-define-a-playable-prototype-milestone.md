@@ -24,7 +24,6 @@ faqs:
   - q: "What happens if the prototype milestone fails?"
     a: "Define failure as information, not a setback. Write a one-page post-mortem on what the prototype revealed, make an explicit decision (pivot the mechanic, reduce scope, reframe the question), and set a new milestone with a revised question. The worst outcome isn't failing the milestone. It's failing it without a clear next step."
 ---
-
 Most articles about prototype milestones give you a checklist. Box A through Box F, all neatly labeled, zero guidance on what the boxes actually mean. That's not useful. What's useful is understanding the one thing those articles skip: a playable prototype milestone isn't a feature list, it's a question. And your job is to define that question precisely enough that your team knows, without ambiguity, when they've answered it.
 
 Get that wrong and you'll spend six weeks building a prototype that "proves" nothing, then argue about whether it's done.
@@ -39,13 +38,13 @@ Before you write a single acceptance criterion, write the question. Something li
 
 ## Writing the Acceptance Criteria
 
-Once you have the question, the criteria exist to operationalize the answer. Here's where most teams overcomplicate it.
+Once you have the question, the criteria exist to operationalize the answer. Most teams overcomplicate this part.
 
-Keep the criteria list short. Genuinely short. If you have more than eight acceptance criteria for a prototype milestone, you've crept into vertical slice territory and you probably don't know it yet. The difference matters: a prototype proves a mechanic works; a vertical slice proves your pipeline and polish level work. Conflating them doubles your timeline for no benefit at the prototype stage.
+Keep the criteria list short. Genuinely short. More than eight acceptance criteria for a prototype milestone means you've crept into vertical slice territory without realizing it. The difference matters: a prototype proves a mechanic works; a vertical slice proves your pipeline and polish level work. Conflating them doubles your timeline for zero benefit at the prototype stage.
 
 Each criterion needs to be binary. Pass or fail, yes or no, ships or doesn't. "Controls feel responsive" fails this test. "Character responds to directional input within one frame at 60fps on target hardware" passes it. The more qualitative your criteria, the more you're setting up a milestone review that devolves into opinion.
 
-One criterion that almost always belongs in a playable prototype milestone: a minimum playtime for an external session. Something like "five external playtesters complete the core loop without developer instruction." That one constraint forces you to build something that works without you standing next to it explaining the controls, which is a completely different bar than "it works when we demo it."
+One criterion that almost always belongs: a minimum playtime for an external session. Something like "five external playtesters complete the core loop without developer instruction." That one constraint forces you to build something that actually works without you standing next to it explaining the controls. It's a completely different bar than "it works when we demo it."
 
 ## Scoping the Build: What Goes In, What Gets Cut
 
@@ -55,7 +54,7 @@ The honest ranking for what belongs in a prototype, from most important to least
 
 The mechanics that directly test your central question. If your question is about navigation feel in a parkour game, you need responsive controls, readable geometry, and something to navigate toward. You don't need UI, audio mix, or more than two or three assets per category.
 
-Enough visual fidelity to not mislead your testers. Placeholder art has a floor. If your game is a third-person action game and your prototype runs on a grey box character with no animation feedback, testers will give you feedback about the placeholder, not the mechanic. I've seen this tank prototype reviews. Use a free asset from Fab (previously Fab.com, formerly the Unreal Marketplace) before you let your team burn time on temp art, but give testers something that communicates intent.
+Enough visual fidelity to not mislead your testers. Placeholder art has a floor. If your game is a third-person action game and your prototype runs on a grey box character with no animation feedback, testers will give you feedback about the placeholder, not the mechanic. I've seen this tank prototype reviews. Use a free asset from Fab (previously Fab.com, formerly the Unreal Marketplace) before you let your team burn time on temp art. Give testers something that communicates intent.
 
 Nothing else.
 
@@ -63,23 +62,20 @@ No save system. No main menu beyond a "press start" screen. No SFX mix beyond th
 
 ## Setting the Timeline
 
-Eight weeks is the right ceiling for a playable prototype with a team of two to five people. Shorter if your question is narrow. Longer and you've either misjudged the complexity or you're building the wrong thing at this stage.
+Eight weeks is the right ceiling for a playable prototype with a team of two to five people. Shorter if your question is narrow. Longer and you've either misjudged the complexity or you're building the wrong thing.
 
 Break it into two halves and make that explicit in your milestone doc. The first half is build. The second half is test and respond. A prototype that gets one internal playtest in the final two days is not validated. You need at least two rounds of external sessions, with time between them to make meaningful changes. If your timeline doesn't accommodate that, extend it or reduce scope. Those are the only two levers.
 
-One thing I'd push back on that most production guides won't say directly: four weeks is usually too short for a meaningful prototype, even for experienced teams. I know that's inconvenient. But a four-week build almost always means one round of testing at the end with no time to iterate, which means you're not proving anything, you're just demoing. Demos aren't prototypes.
+Here's the thing I'd push back on that most production guides won't say directly: four weeks is usually too short for a meaningful prototype, even for experienced teams. I know that's inconvenient. But a four-week build almost always means one round of testing at the end with no time to iterate, which means you're not proving anything. You're just demoing. Demos aren't prototypes.
 
 ## The Milestone Review Itself
 
-Define who's in the room and what authority they have before the milestone date. This sounds procedural and it is, but it saves enormous pain.
+Define who's in the room and what authority they have before the milestone date. It sounds procedural and it is. But it saves enormous pain.
 
 The milestone review should answer exactly one question: did we answer the prototype question? It's not a design critique session. It's not a pitch. If someone in the review wants to redirect the core mechanic, that's a separate meeting, and you should politely say so out loud in the moment.
 
-Document the outcome as one of three things: passed, passed with conditions (specific list, specific owner, specific date), or failed with a clearly defined next step. "Failed" isn't a disaster at the prototype stage. It's the system working correctly. The disaster is a vague "let's keep iterating" that floats a prototype milestone indefinitely.
+Document the outcome as one of three things: passed, passed with conditions (specific list, specific owner, specific date), or failed with a clearly defined next step. "Failed" isn't a disaster at the prototype stage. It's the system working correctly. The actual disaster is a vague "let's keep iterating" that floats a prototype milestone indefinitely.
 
-Tools worth having in your corner for tracking all of this: Hack n Plan is built specifically for game dev and handles milestone tracking cleanly, Notion works well for smaller teams who want the milestone doc and the criteria in the same place, and if you're on a larger team with publisher oversight, Jira is still the standard regardless of how much anyone complains about it.
-
----
-
+Tools worth having in your corner: Hack n Plan is built specifically for game dev and handles milestone tracking cleanly. Notion works well for smaller teams who want the milestone doc and the criteria in the same place. If you're on a larger team with publisher oversight, Jira is still the standard regardless of how much anyone complains about it.
 
 *Photo: [FOX ^.ᆽ.^= ∫](https://www.pexels.com/@fox-58267) via Pexels*

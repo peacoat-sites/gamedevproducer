@@ -24,7 +24,6 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
 Your game ships. Reviews are good. Steam numbers are climbing. The Discord is alive. And then, over the next 90 days, three of your best people hand in their notice.
 
 This isn't a horror story. It's Tuesday in the games industry. Post-launch attrition is one of the most predictable, most preventable, and most consistently ignored talent crises in game development. Studios pour enormous energy into *getting* to launch and almost none into what happens to their people after it. The result is a pattern so common it has become normalized. It shouldn't be.
@@ -35,7 +34,7 @@ This isn't a horror story. It's Tuesday in the games industry. Post-launch attri
 
 Development is a long, sustained pressure campaign. For most studio projects, that's two to five years of deferred gratification. Every decision, every crunch stretch, every "we'll fix it after ship" conversation is held together by one shared belief: *launch will make this worth it.*
 
-Launch arrives. And it's... fine. Maybe great. But the emotional payoff doesn't match the emotional debt. The adrenaline drops, the shared purpose evaporates, and what's left is exhaustion without a goal attached to it.
+Launch arrives. And it's fine. Maybe great. But the emotional payoff doesn't match the emotional debt. The adrenaline drops. The shared purpose evaporates. What's left is exhaustion without a goal attached to it.
 
 Psychologists call this arrival fallacy. Game developers live it hard. The team has been chasing a finish line for years, and crossing it doesn't feel like victory. It feels like a void. For a meaningful percentage of your team, that void is the moment they finally have the bandwidth to ask themselves: "Do I want to keep doing this here?"
 
@@ -61,7 +60,7 @@ The most common mistake I've seen: studios treat launch as the finish line for p
 
 Retention conversations that should happen in months 8-10 of a two-year project get postponed until after ship. By then, you're having the conversation six months too late. The developer who needed to feel seen in October is already interviewing in January.
 
-Another failure mode: the post-launch period is often the *worst* organized stretch of a project's lifecycle. Live ops, DLC planning, patch firefighting, and whatever the next project is all compete for attention simultaneously. If your senior engineer is spending their post-launch weeks doing unplanned hotfix triage with no clear end date, they're not feeling relieved, they're feeling trapped.
+Another failure mode exists in how messy the post-launch period actually is. Live ops, DLC planning, patch firefighting, and whatever the next project is all compete for attention simultaneously. If your senior engineer is spending their post-launch weeks doing unplanned hotfix triage with no clear end date, they're not feeling relieved, they're feeling trapped.
 
 There's also a structural issue in how studios celebrate. Most launch celebrations are external: press coverage, player numbers, review scores. The team needs something internal. Recognition that is specific, personal, and not just a Slack message from the CEO.
 
@@ -105,9 +104,6 @@ The pattern is consistent. Studios that retain talent treat the post-launch wind
 
 ---
 
-
----
-
-Post-launch attrition isn't an industry inevitability. It's a producer problem, which means it's a solvable one. The studios that consistently ship and retain their core teams aren't doing anything magical: they're treating the post-launch period as seriously as they treat pre-production. That's the whole difference. Start the retention work before you need it, and you might actually get to build something together twice.
+Post-launch attrition isn't an industry inevitability. It's a producer problem, which means it's solvable. The studios that consistently ship and retain their core teams aren't doing anything magical: they're treating the post-launch period as seriously as they treat pre-production. That's the whole difference. Start the retention work before you need it, and you might actually get to build something together twice.
 
 *Photo: [hitesh choudhary](https://www.pexels.com/@hiteshchoudhary) via Pexels*

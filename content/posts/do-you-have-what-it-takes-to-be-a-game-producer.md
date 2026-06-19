@@ -10,10 +10,9 @@ author_slug: "marcus-webb"
 author_bio: "Marcus Webb covers game engines, technical development, and programming at GameDevProducer."
 author_title: "Technical Editor"
 ---
+Producers are the glue of a game studio. They keep dozens of moving parts, art, design, engineering, audio, marketing, pointed at the same goal and shipping on time. It's less about making the game yourself and more about making sure the game *gets made*.
 
-Producers are the glue of a game studio. They keep dozens of moving parts â€” art, design, engineering, audio, marketing â€” pointed at the same goal and shipping on time. It's less about making the game yourself and more about making sure the game *gets made*.
-
-So is that you? Answer 7 quick questions about how you work, what energizes you, and how you handle chaos. You'll get a read on how naturally the producer role fits â€” plus where to look next if you want to go deeper.
+So is that you? Answer 7 quick questions about how you work, what energizes you, and how you handle chaos. You'll get a read on how naturally the producer role fits, plus where to look next if you want to go deeper.
 
 {{< quiz >}}
 

@@ -24,46 +24,45 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
-Most milestone documents I've seen in the wild are basically just vibes dressed up in a table. A date, a vague deliverable name like "Alpha Build Ready," maybe a sign-off field that nobody fills in, and then everyone proceeds to have completely different ideas about what "Alpha" actually means. Three months later, the publisher is furious, the team is demoralized, and the post-mortem will diplomatically describe the situation as "misaligned expectations." I've been in that room. It's avoidable. A well-written milestone document is one of the cheapest insurance policies in game development, and almost nobody writes one well.
+Most milestone documents I've seen are basically vibes dressed up in a table. A date. A vague deliverable name like "Alpha Build Ready." Maybe a sign-off field that nobody fills in. Then everyone proceeds to have completely different ideas about what "Alpha" actually means. Three months later, the publisher's furious, the team's demoralized, and the post-mortem will diplomatically describe it as "misaligned expectations." I've been in that room. It's avoidable, and a well-written milestone document is one of the cheapest insurance policies in game development. Almost nobody writes one well.
 
 ## What a Milestone Document Actually Is (And What It Isn't)
 
-Let's get the definition right before we talk about structure. A milestone document is not a schedule. It's not a Gantt chart. It's not a sprint plan. It's a shared agreement between everyone who has skin in the game, including your publisher, your investors, your leadership team, and your development team, about what "done" looks like at a specific point in time and what happens when you get there or don't.
+A milestone document is not a schedule. It's not a Gantt chart. It's not a sprint plan. It's a shared agreement between everyone with skin in the game, your publisher, investors, leadership, development team, about what "done" looks like at a specific point and what happens when you hit it or miss it.
 
-The reason this distinction matters: a lot of producers create milestone documents by reverse-engineering their task list. They look at what the team is working on, draw a line at a date, and label it. That's a schedule masquerading as a milestone. A real milestone document starts from outcomes. What does this game need to demonstrate at this point in development to prove it's on track? What's the minimum viable evidence of that? That's your milestone.
+Here's why that distinction matters: lots of producers create milestone documents by reverse-engineering their task list. They look at what the team's working on, draw a line at a date, and label it. That's a schedule pretending to be a milestone. A real one starts from outcomes. What does this game need to demonstrate to prove it's on track? What's the minimum viable evidence of that?
 
-The research here is genuinely mixed on how much milestone structure varies by funding model. Publisher-funded projects often have contractual milestones tied to payment tranches, which adds legal weight to every deliverable you list. Indie self-funded projects have more flexibility, but they also lack the external accountability, which means milestone documents serve a different but equally critical function: they force the team to have the hard conversations before the deadline, not during it.
+The funding model changes the stakes. Publisher-funded projects often have contractual milestones tied to payment tranches, which adds legal teeth to every deliverable. Indie projects have more flexibility but less external accountability. That means milestone documents serve different functions, but they're equally critical either way, they force the hard conversations before the deadline, not during it.
 
 ## The Core Components Every Milestone Document Needs
 
-What surprised me when I started pulling apart successful milestone documents from shipped projects was how consistent the structure was, even across wildly different genres and team sizes. Here's what the good ones always had:
+When I started pulling apart successful milestone documents from shipped projects, I noticed something: the structure was consistent across wildly different genres and team sizes. Here's what the good ones always had.
 
-**A plain-language milestone description.** One paragraph, no jargon, that someone outside the team could read and understand. "By November 15th, the game's core combat loop will be playable from start to a win state in one representative level, without programmer intervention." That's a milestone description. "Combat Alpha" is not.
+**A plain-language milestone description.** One paragraph, no jargon, readable by someone outside the team. "By November 15th, the game's core combat loop will be playable from start to a win state in one representative level, without programmer intervention." That's a milestone description. "Combat Alpha" is not.
 
-**Explicit acceptance criteria.** This is the piece that almost everyone skips and everyone regrets skipping. Acceptance criteria are the specific, testable conditions that must be true for the milestone to be considered met. Not "the game is fun" but "a first-time player can complete the tutorial level in under 12 minutes without external guidance." Aim for 5 to 10 acceptance criteria per milestone, written in language that's falsifiable. If you can't point to it and say yes or no, it's not an acceptance criterion.
+**Explicit acceptance criteria.** This is the piece almost everyone skips and everyone regrets skipping. Acceptance criteria are specific, testable conditions that must be true for the milestone to count as met. Not "the game is fun" but "a first-time player can complete the tutorial level in under 12 minutes without external guidance." Aim for 5 to 10 per milestone, written so they're falsifiable. If you can't point at it and say yes or no, it's not an acceptance criterion.
 
-**Known exclusions.** Equally important: what is explicitly out of scope for this milestone. If the audio is placeholder, say so. If multiplayer isn't being tested, say so. This protects your team from scope creep and protects you from a publisher reviewer who shows up and starts filing bugs against systems you never intended to demonstrate.
+**Known exclusions.** What's explicitly out of scope? If audio is placeholder, say it. If multiplayer isn't being tested, say it. This protects your team from scope creep and protects you from a publisher reviewer who shows up and starts filing bugs against systems you never intended to demonstrate.
 
-**Dependencies and risks.** What has to be true for this milestone to be achievable? If you're dependent on a third-party SDK, a licensed IP approval, or a specific hardware certification, that goes here. Risks aren't admissions of failure. They're demonstrations of competence. A producer who has identified that a platform certification process takes 6 to 8 weeks and has planned for it is more trustworthy than one who hasn't mentioned it.
+**Dependencies and risks.** What has to be true for this milestone to happen? Third-party SDK approvals. Licensed IP sign-off. Hardware certification timelines. Risks aren't admissions of failure, they're proof you've thought things through. A producer who's identified that platform certification takes 6 to 8 weeks and planned accordingly is more trustworthy than one who hasn't mentioned it.
 
 **Sign-off process.** Who reviews it, how, by when, and what happens if there's a dispute. Even a small indie team benefits from writing this down.
 
 ## How to Write Acceptance Criteria That Actually Work
 
-This is the step-by-step part because it's the hardest skill to develop and the highest-leverage one.
+This is the step-by-step part because it's both the hardest skill to develop and the highest-leverage one.
 
-1. **Start with the goal, not the feature.** Ask: what does this milestone need to prove? Write that down in one sentence before you write a single criterion.
+1. **Start with the goal, not the feature.** What does this milestone need to prove? Write that in one sentence before you touch a single criterion.
 
 2. **Use the Given/When/Then format borrowed from software QA.** "Given a new player with no prior exposure to the game, when they load a fresh save, then they should be able to navigate to the first combat encounter without accessing a help menu." This format forces specificity.
 
-3. **Assign a measurable threshold wherever possible.** Frame rates, load times, player test session lengths, bug counts by severity. Numbers beat adjectives every time. "Stable performance" is an adjective. "Maintains 60fps on target hardware under normal gameplay conditions with fewer than 3 crashes per 2-hour session" is a threshold.
+3. **Assign a measurable threshold wherever possible.** Frame rates. Load times. Player test session lengths. Bug counts by severity. Numbers beat adjectives every time. "Stable performance" is an adjective. "Maintains 60fps on target hardware under normal gameplay conditions with fewer than 3 crashes per 2-hour session" is a threshold.
 
-4. **Review each criterion against this question: could two reasonable people disagree about whether this is met?** If yes, rewrite it. The goal is criteria that a reviewer you've never met could evaluate on their own.
+4. **Run each criterion through this test: could two reasonable people disagree about whether this is met?** If yes, rewrite it. The goal is criteria a reviewer you've never met could evaluate independently.
 
-5. **Get the team to draft them, not just you.** Programmers and designers will catch gaps in your criteria that you'll miss. This also builds team ownership of the milestone, which matters for morale when the sprint before delivery gets brutal.
+5. **Get the team to draft them, not just you.** Programmers and designers will catch gaps you'll miss. This also builds team ownership of the milestone, which matters when the sprint before delivery gets brutal.
 
-6. **Cap the list.** If you have more than 12 acceptance criteria for a single milestone, you're either defining a milestone that's too large or you're drifting into task management territory. Trim to the essential.
+6. **Cap the list.** More than 12 criteria per milestone and you're either defining something too large or drifting into task management. Trim to essentials.
 
 ## Common Milestone Types in Game Development
 
@@ -75,11 +74,10 @@ This is the step-by-step part because it's the hardest skill to develop and the 
 | Beta | Content complete, polish incomplete | Full game is playable; focus shifts to stability and balance |
 | Gold / Release Candidate | Ship-ready | All acceptance criteria met; certification requirements satisfied |
 
-I'll be honest: these definitions are contested. "Alpha" in particular means radically different things at different studios. The table above reflects common industry usage, but your milestone document should always include a one-paragraph definition of what the term means at your studio, for your project, right now.
+I'll be honest: these definitions are contested. "Alpha" especially means radically different things at different studios. The table reflects common industry usage, but your milestone document should always include a one-paragraph definition of what the term means at your studio, for your project, right now.
 
 ## Tools That Make This Easier
 
-You don't need specialized software to write a good milestone document, but certain tools make the process significantly faster and more collaborative. [Notion](https://www.notion.so/) is genuinely excellent for milestone documentation because it lets you embed tables, link to relevant sprint boards, and comment inline without losing version history. For teams already in Atlassian's ecosystem, [Confluence](https://www.atlassian.com/software/confluence) with linked [Jira](https://www.atlassian.com/software/jira) epics gives you traceability from milestone criteria down to individual tickets.
+You don't need specialized software to write a good milestone document, but certain tools make it significantly faster and more collaborative. [Notion](https://www.notion.so/) is excellent for this because it lets you embed tables, link to sprint boards, and comment inline without losing version history. If you're already in Atlassian's ecosystem, [Confluence](https://www.atlassian.com/software/confluence) paired with [Jira](https://www.atlassian.com/software/jira) epics gives you traceability from milestone criteria down to individual tickets.
 
-For deeper grounding in production methodology, Heather Maxwell Chandler's *The Game Production Handbook* remains one of the most practical resources on milestone planning in a publisher context. If you prefer applied learning, the Game Production course on [Udemy by Jason Schreiber](https://www.udemy.com/) or the production-focused content on [GDC Vault](https://gdcvault.com/) (many sessions are free) will give you real examples from shipped projects. For tracking your own productivity and milestone prep work, [Todoist](https://todoist.com/) or [Linear](https://linear.app/) both handle personal production task management without the overhead of enterprise tools.
-
+For deeper grounding, Heather Maxwell Chandler's *The Game Production Handbook* remains genuinely practical for milestone planning in a publisher context. If you prefer applied learning, Jason Schreiber's Game Production course on [Udemy](https://www.udemy.com/) or the production-focused sessions on [GDC Vault](https://gdcvault.com/) (many are free) show real examples from shipped projects. For tracking your own work and milestone prep, [Todoist](https://todoist.com/) or [Linear](https://linear.app/) handle personal production task management without the overhead of enterprise tools.

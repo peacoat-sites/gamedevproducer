@@ -24,26 +24,25 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 Most game release dates are picked backwards. Someone in a meeting says "we should ship before the holidays" or "let's aim for a year from now," and then the schedule gets built to justify that number instead of derive it. I've sat in those meetings. I've also shipped games that hit their dates and ones that didn't, and the difference almost always traces back to this exact moment.
 
 Here's what actually works.
 
 ## Start With What You Know, Not What You Hope
 
-The first step in planning a real release date has nothing to do with calendars. It has to do with scope. You cannot estimate time until you know what you're building, and most teams know far less about this than they think.
+The first step in planning a real release date has nothing to do with calendars. It has to do with scope. You can't estimate time until you know what you're building, and most teams know far less about this than they think.
 
 Break the game into discrete, shippable features. Not "combat system" -- that's a category. "Player attack with three combo states, hit feedback, and enemy stagger" is a feature. The specificity matters because vague features hide work. A producer I worked with early in my career used to say that every feature is really three features: the one you planned, the one you built, and the one the designer decides they actually wanted. She wasn't wrong.
 
-Once you have a real feature list, estimate each item independently. Use whatever unit your team trusts -- story points, ideal days, t-shirt sizes. What you can't do is estimate the whole project as one number. "This game will take 18 months" is a guess dressed up as a plan. "These 140 features, estimated individually, total roughly 18 months of capacity" is something you can actually interrogate and defend.
+Once you have a real feature list, estimate each item independently. Use whatever unit your team trusts: story points, ideal days, t-shirt sizes. What you can't do is estimate the whole project as one number. "This game will take 18 months" is a guess dressed up as a plan. "These 140 features, estimated individually, total roughly 18 months of capacity" is something you can actually interrogate and defend.
 
-Tools that help at this stage: Hacknplan is purpose-built for game development task breakdown and lets you tie tasks directly to game features, which keeps the scope visible. Codecks takes a different angle, using a card-game-style interface that some teams find genuinely easier to work with than Jira. Both have free tiers that are usable for small teams.
+Tools that help at this stage: Hacknplan is purpose-built for game development task breakdown and lets you tie tasks directly to game features, which keeps the scope visible. Codecks takes a different angle, using a card-game-style interface that some teams find genuinely easier to work with than Jira. Both have free tiers that work for small teams.
 
 ## Buffer Is Not Padding -- It's Math
 
 Here's where most release date plans fall apart. Teams estimate how long the work will take under ideal conditions, then treat that as the schedule. But you're not working under ideal conditions. You're working with humans who get sick, scope that creeps, dependencies that block, and bugs that only appear in the last 10% of a feature when it's finally interacting with everything else.
 
-A rough heuristic I use: take your honest feature-by-feature estimate and multiply it by 1.5 for a team that's worked together before and has a clean, well-defined scope. Multiply by 2.0 if you're doing something technically novel, if the team is new, or if the design is still evolving. That multiplier isn't pessimism. It's what the data actually shows when you track it. Jason Fried and David Heinemeier Hansson's *Shape Up* methodology, even though it's built for software, has some of the clearest thinking I've encountered on this, especially the chapters on fixed time and variable scope. Worth reading even if you don't adopt the whole system.
+A rough heuristic I use: take your honest feature-by-feature estimate and multiply it by 1.5 for a team that's worked together before and has clean, well-defined scope. Multiply by 2.0 if you're doing something technically novel, if the team is new, or if the design is still evolving. That multiplier isn't pessimism. It's what the data actually shows when you track it. Jason Fried and David Heinemeier Hansson's *Shape Up* methodology (built for software, but the thinking transfers) has some of the clearest work I've encountered on this, especially around fixed time and variable scope. Worth reading even if you don't adopt the whole system.
 
 Separately, budget explicitly for these phases, because teams often forget to include them as time costs:
 
@@ -54,19 +53,19 @@ Separately, budget explicitly for these phases, because teams often forget to in
 - Gold master and release prep
 - Day-one patch (yes, budget time for this -- it's not optional)
 
-Each of these is a real time sink. Certification alone has sunk release dates for games that thought they were done. If you're releasing on Steam only, this is less brutal, but you still need a code review buffer, store page setup, and time to actually run the game on hardware that isn't your dev machine.
+Each of these eats time. Certification alone has killed release dates for games that thought they were done. Steam-only releases are less brutal, but you still need code review, store page setup, and time to run the game on actual hardware instead of your dev machine.
 
 ## The Market Reality Your Team Will Try to Ignore
 
 Picking a window is a separate decision from picking a date, and most teams confuse them.
 
-October and November are brutal for indie games. Not because players aren't buying -- they are -- but because every publisher with a marketing budget is spending it, and you're competing for attention against franchises with install bases of 20 million people. Games that release in those windows without significant marketing spend tend to get buried. There are exceptions: a game with strong pre-existing wishlist momentum, a niche community that's actively waiting for it, or a title that's genuinely unlike the AAA releases that month. But the default assumption should be that you need a clear reason to fight for a holiday slot.
+October and November are brutal for indie games. Not because players aren't buying -- they are -- but because every publisher with a marketing budget is spending it then, and you're competing against franchises with install bases of 20 million people. Games that release in those windows without significant marketing spend tend to get buried. There are exceptions: strong pre-existing wishlist momentum, a niche community actively waiting, or a title genuinely unlike the AAA releases that month. But the default assumption should be that you need a clear reason to fight for a holiday slot.
 
-February, March, and September tend to have better openings for indie and mid-size games. The data on this is consistent year over year on Steam -- you can look at it yourself using SteamSpy or Gamalytic, which tracks historical release performance by month.
+February, March, and September tend to have better openings for indie and mid-size games. Look at SteamSpy or Gamalytic yourself -- the data is consistent year over year.
 
 Also: don't release on a Friday if you can avoid it. Most game media covers releases earlier in the week, and weekend coverage drives Monday wishlists. A Tuesday or Wednesday release gives you a better shot at pick-up. This is a small thing, but it's the kind of small thing that's actually free to do correctly.
 
-One more market reality: the games that release "when they're ready" sometimes ship great products to empty rooms, because they had no audience development happening during development. A release date gives you an anchor for your marketing calendar. Without a public date (or at minimum a public quarter), you're building a game with no external pressure and no audience expectation. Some teams thrive on that flexibility. Most drift.
+One more market reality: games that release "when they're ready" sometimes ship great products to empty rooms, because no audience development happened during development. A release date gives you an anchor for your marketing calendar. Without a public date (or at minimum a public quarter), you're building a game with no external pressure and no audience expectation. Some teams thrive on that flexibility. Most drift.
 
 ## How to Actually Confirm Your Date Before You Announce It
 
@@ -74,24 +73,21 @@ Announcing a release date publicly is a commitment with consequences. Slip it on
 
 First, go back to your feature list and cut 20% of it. Not because you want to, but to stress-test the date. If cutting 20% of features only saves you two weeks, your timeline is probably load-bearing on those features completing smoothly, which they won't. The date is fragile.
 
-Second, talk to your QA team or contractor, not after you've picked the date, but before. QA timelines are routinely underestimated. A 4-hour game can take 80+ hours of testing to certify as shippable. If you're using external QA (Keywords, d3t, or a freelancer network), get their current availability and rates before you commit to anything. QA bottlenecks have slipped more dates than bad programming ever has.
+Second, talk to your QA team or contractor before you've picked the date, not after. QA timelines are routinely underestimated. A 4-hour game can take 80+ hours of testing to certify as shippable. If you're using external QA (Keywords, d3t, or a freelancer network), get their current availability and rates before you commit to anything. QA bottlenecks have slipped more dates than bad programming ever has.
 
 Third, check your team's actual capacity, not theoretical capacity. If two of your four engineers are part-time, or one designer is also handling community management, you're not operating at full bandwidth. Most schedules assume everyone is working on the game full-time for the full period. Almost no indie team is.
 
-Notion works well for tracking this kind of capacity planning in a format that's readable for everyone on the team. Create a simple table: team member, weekly hours available, known time-off, hard commitments outside the project. Run that against your feature estimates. The gap between what you assumed and what's actually available is often where your date goes to die.
+Notion works well for tracking this kind of capacity planning in a readable format for everyone on the team. Create a simple table: team member, weekly hours available, known time-off, hard commitments outside the project. Run that against your feature estimates. The gap between what you assumed and what's actually available is often where your date goes to die.
 
 ## When You're Already Behind
 
-Somewhere around 60% of the way through development, most projects are measurably behind their original plan. This is so common it basically qualifies as normal. What's not normal is addressing it well.
+Around 60% of the way through development, most projects are measurably behind their original plan. This is basically normal. What's not normal is addressing it well.
 
-The three options are always: cut scope, add resources, or move the date. Adding resources is usually the worst of the three -- "Brooks's Law" (adding people to a late project makes it later) is named that for a reason, and it's not just a software thing. Two months of onboarding and context-sharing, on a project that's already behind, is a bad trade.
+The three options are always: cut scope, add resources, or move the date. Adding resources is usually the worst option -- "Brooks's Law" (adding people to a late project makes it later) exists for a reason, and it's not just a software thing. Two months of onboarding and context-sharing, on a project that's already behind, is a bad trade.
 
 Cutting scope is almost always faster and cleaner than teams expect. The features you cut are usually the ones nobody was excited about anyway, or the "nice to have" stretch goals that got added in a moment of optimism. Scope cuts feel brutal in the moment, but I've never shipped a game and had a player complain about the features I removed before launch. I've had plenty of players -- and reviewers -- complain about bugs and rough edges that survived because I didn't cut enough.
 
 Moving the date is the right call when the alternative is shipping something that actively damages your reputation. A quiet delay announcement before you've built significant audience pressure is almost always recoverable. One honest post on your devlog, a short video update, a revised Steam page -- most players respect transparency. What they don't forgive is a game that shipped broken.
-
----
-
 
 ---
 

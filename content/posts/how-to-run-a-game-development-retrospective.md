@@ -24,7 +24,6 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 Most retrospectives I've sat in felt like group therapy sessions where nothing actually changed. The team vented, someone wrote stuff on sticky notes, and three weeks later we were repeating the exact same mistakes. Sound familiar? The problem usually isn't the format. It's that producers treat retros as a ceremony to complete rather than a tool to use. After running retrospectives across projects ranging from 6-week mobile jam games to multi-year console titles, I've learned that a good retro can be the single highest-leverage hour of your sprint. A bad one actively damages trust. Here's how to run one that does real work.
 
 ## Why Most Game Dev Retros Fail Before They Start
@@ -107,11 +106,6 @@ What surprised me when I started doing this consistently was how quickly team mo
 **Courses:**
 - Clinton Keith's courses on LinkedIn Learning translate his book into practical walkthroughs
 - The Game Production Masterclass series on Udemy has solid content for producers new to agile ceremonies
-
----
-
-
----
 
 The teams I've seen get the most out of retrospectives aren't the ones with the fanciest process. They're the ones where running a retro is treated as seriously as a sprint review or a milestone build. The ceremony matters less than the commitment: we are going to look honestly at how we work, and we're going to actually change something. One small, specific, owned action item per retro, applied consistently, compounds over the life of a project into something that genuinely ships better games.
 

@@ -24,14 +24,13 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
-You shipped the game. Or maybe you didn't, and it's sitting in a folder somewhere labeled "v_final_ACTUAL_final2." Either way, something went wrong during production, and you're trying to figure out what. Here's a fact that tends to surprise people outside the industry: the Game Developers Conference has published post-mortems since 1997, and across hundreds of them, the same five or six failure patterns show up over and over again. Not variations on a theme. The exact same problems. That should tell you something about how rarely teams learn from each other, and how much they could.
+You shipped the game. Or maybe you didn't, and it's sitting in a folder somewhere labeled "v_final_ACTUAL_final2." Either way, something went wrong during production, and you're trying to figure out what. Here's something that tends to surprise people outside the industry: the Game Developers Conference has published post-mortems since 1997, and across hundreds of them, the same five or six failure patterns show up over and over again. Not variations on a theme. The exact same problems. That should tell you something about how rarely teams learn from each other, and how much they could.
 
 ## Scope Creep Isn't a Feature Problem, It's a Decision Problem
 
 Every post-mortem that mentions scope creep frames it as "we added too many features." That's accurate but incomplete. What actually happened is that someone didn't say no, and nobody built a system that made saying no easy.
 
-The 2002 post-mortem for *Black & White* is a textbook case. The team kept layering in new mechanics because the game felt thin. The game shipped late, over budget, and still felt thin in places, because feature additions don't fix design problems. They bury them.
+The 2002 post-mortem for *Black & White* is a textbook case. The team kept layering in new mechanics because the game felt thin. The game shipped late, over budget, and still felt thin in places, because feature additions don't fix design problems. They bury them under the wreckage.
 
 Here's what I tell people when they're in the middle of this: scope creep is a symptom of unclear success criteria. If you defined "done" precisely, adding a feature would feel like a violation of something concrete. When "done" is fuzzy, every new idea sounds reasonable.
 
@@ -39,9 +38,9 @@ Practical fix: before you enter production, write a one-page document that answe
 
 ## Communication Failure Compounds Everything Else
 
-Read enough post-mortems and you start to notice something. Teams rarely say "we had a communication problem." They say things like "the art team didn't know about the engine change" or "QA wasn't looped in until month eight" or "the publisher's feedback came too late." That's all communication failure with a different costume on.
+Read enough post-mortems and you start noticing something. Teams rarely say "we had a communication problem." They say things like "the art team didn't know about the engine change" or "QA wasn't looped in until month eight" or "the publisher's feedback came too late." That's all communication failure wearing different clothes.
 
-The *Ultima IX: Ascension* post-mortem from 2000 described a situation where engine changes invalidated months of level design work, and the level designers found out after the fact. The leads knew. The leads assumed it was handled. It wasn't.
+The *Ultima IX: Ascension* post-mortem from 2000 described a situation where engine changes invalidated months of level design work, and the level designers found out after it happened. The leads knew. The leads assumed someone else had told them. Nobody had.
 
 In my experience, the most dangerous phrase in game dev is "I assumed they knew." You have to build workflows where critical information travels by default, not by memory. That means standups that actually surface blockers, not just status theater. It means a single source of truth for the current design spec, not a folder with seventeen versions of a design document.
 
@@ -51,13 +50,15 @@ Tools that help here: **Notion** or **Confluence** for living documentation that
 
 This one is hard for people to accept because crunch feels productive. You're working 70 hours a week. Things must be getting done faster.
 
-They're not. Research from the Software Engineering Institute and repeated anecdotal evidence from post-mortems both point the same direction: sustained crunch above 50 hours a week produces net negative output after about three weeks because error rates climb, judgment degrades, and key people quit or burn out right when you need them most.
+They're not.
+
+Research from the Software Engineering Institute and repeated anecdotal evidence from post-mortems both point the same direction: sustained crunch above 50 hours a week produces net negative output after about three weeks because error rates climb, judgment degrades, and key people quit or burn out right when you need them most.
 
 The *Fallout: New Vegas* post-mortem touched on this. Obsidian had an 18-month development window for a massive RPG. The crunch was severe. The game shipped with a legendary bug count. More hours went in during the final stretch. More bugs came out.
 
 The pattern in post-mortems is almost mechanical: team hits a milestone late, management adds crunch to recover, crunch introduces bugs and reduces morale, next milestone slips further, more crunch is added. It's a compression spiral. You can't compress your way out of it.
 
-The honest answer is that most crunch periods are symptoms of a schedule that was never realistic to begin with. Which leads to the next problem.
+Most crunch periods are symptoms of a schedule that was never realistic to begin with. Which leads to the next problem.
 
 ## Estimates Were Wrong Because Nobody Validated Them
 
@@ -65,13 +66,13 @@ Ask a programmer how long a feature will take. Double it. Now you're closer. Thi
 
 Post-mortems consistently show that initial estimates were made by the people who were most excited about the project, during the period when the project was least defined. That combination is almost guaranteed to produce underestimates.
 
-Here's a step-by-step approach I recommend for getting better estimates before production locks in:
+Here's what actually works for getting better estimates before production locks in:
 
 1. **Break every feature down to tasks under 8 hours.** If you can't do that, the feature isn't defined well enough to estimate.
 2. **Have the person doing the work give the estimate, not the lead.** Leads are optimistic. Implementers are closer to reality.
 3. **Add a 20% buffer to every sprint, minimum.** Not to absorb laziness. To absorb unknowns, which always exist.
 4. **Track your estimate accuracy per sprint.** If you're consistently off by 40%, adjust your estimation formula. This is called velocity tracking, and it's standard in agile frameworks for good reason.
-5. **Run a pre-mortem.** Before you commit to a timeline, ask the team: "Assume we shipped late. What caused it?" You'll surface risks you weren't consciously acknowledging.
+5. **Run a pre-mortem.** Before you commit to a timeline, ask the team: "Assume we shipped late. What caused it?" You'll surface risks nobody was consciously acknowledging.
 
 Tools: **Jira** with proper sprint velocity tracking is the industry standard for mid-to-large teams. **Hack n' Plan** is built specifically for game dev and handles task breakdown well. For learning the methodology, Jason Schreier's *Blood, Sweat, and Pixels* is essential reading. It's not a textbook but it shows you what these failures look like from the inside.
 
@@ -84,9 +85,6 @@ Teams list things like "our team was passionate" and "we shipped" as wins. Passi
 The post-mortems worth studying are the ones where the wins are as specific as the failures. "We built a vertical slice in week four and it revealed that our core mechanic wasn't fun, which let us pivot before we'd committed eighteen months to the wrong direction." That's actionable. "We had a great team" is not.
 
 If you're writing a post-mortem right now, push your team to be uncomfortable in both columns. Specificity is the whole point.
-
----
-
 
 ---
 

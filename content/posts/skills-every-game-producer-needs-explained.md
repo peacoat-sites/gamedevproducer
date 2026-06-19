@@ -24,8 +24,7 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
-Most game producers I've met either learned the job by accident or got promoted from a discipline they were already good at. A programmer who was good at talking to people. A designer who kept the spreadsheet everyone else ignored. An artist who started running the standup because nobody else would. That's not a bad origin story, actually. But it does mean a lot of producers are operating on instinct, patching gaps as they appear, without ever sitting down and asking: what does this job actually require?
+Most game producers I've met either fell into the job by accident or got promoted from something they were already good at. A programmer who happened to be good at talking to people. A designer who kept the spreadsheet everyone else ignored. An artist who started running standup because nobody else would. That's not a bad origin story, actually. But it does mean a lot of producers are operating on instinct, patching gaps as they appear, without ever sitting down to ask: what does this job actually require?
 
 So let me try to answer that properly.
 
@@ -37,13 +36,13 @@ Here's what I tell people when they ask what the job actually takes. It's not on
 
 Everyone says producers need to be good communicators. That's true but it's also useless advice, like saying you need to be "good with people." Let me be more specific.
 
-The communication skill that separates decent producers from great ones is translation. Not language translation. Conceptual translation. You need to be able to take what a programmer means and turn it into something a creative director can act on. And then reverse it. And then do the same thing between your studio and your publisher, between your lead designer and your QA team, between what the milestone says and what the work actually is.
+The real differentiator is translation. Not language translation. Conceptual translation. You take what a programmer means and turn it into something a creative director can act on. Then reverse it. Then do the same thing between your studio and your publisher, between your lead designer and your QA team, between what the milestone says and what the work actually is.
 
-This is harder than it sounds because it requires genuine fluency in multiple disciplines. You don't need to be able to write the shader code, but you need to understand well enough what makes shader work risky. You don't need to design the level, but you need to know when the designer is stuck on something they haven't said out loud yet.
+This requires genuine fluency in multiple disciplines. You don't need to write shader code, but you need to understand enough about what makes shader work risky. You don't need to design the level, but you need to know when the designer is stuck on something they haven't said out loud yet.
 
-I made this mistake early in my career: I thought being a good communicator meant being the person who talked clearly and asked good questions in meetings. That matters. But the real skill is what you do with the information. How quickly you can synthesize it. How accurately you can represent one person's constraints to another person who doesn't share their mental model.
+I made this mistake early: I thought being a good communicator meant being the person who talked clearly and asked good questions in meetings. That matters. But the real skill is what you do with the information after you have it. How quickly you synthesize it. How accurately you can represent one person's constraints to another person who doesn't share their mental model.
 
-Written communication is also underrated here. A lot of producers default to meetings. Meetings are expensive. A well-written brief, a clear Confluence page, a Slack message that actually contains the decision and its context instead of just "let's hop on a call" -- these are producer superpowers. Jason Fried at Basecamp has written about this better than most game dev folks have. His book *It Doesn't Have to Be Crazy at Work* is worth reading even if you disagree with half of it.
+Written communication is underrated here. A lot of producers default to meetings, which are expensive. A well-written brief, a clear Confluence page, a Slack message that actually contains the decision and its context instead of just "let's hop on a call" -- these are producer superpowers. Jason Fried at Basecamp has written about this better than most game dev folks have. *It Doesn't Have to Be Crazy at Work* is worth reading even if you disagree with half of it.
 
 ## Scheduling: The One That Will Expose You Fastest
 
@@ -51,21 +50,21 @@ You can hide weak communication skills for a while. Weak scheduling skills? The 
 
 A lot of new producers treat a schedule like a to-do list with dates attached. That's not a schedule. A real schedule is a model of your project: it represents dependencies, it reflects your team's actual capacity (not theoretical capacity), it accounts for the 15-20% of time that's going to disappear to things you didn't predict, and it gives you a tool for making decisions when reality diverges from plan.
 
-The mechanics of scheduling aren't that complicated. You can learn to build a Gantt chart in a weekend. You can set up a Jira backlog in an afternoon. The harder skill is calibration: knowing how long things actually take, which almost always comes from experience and from listening carefully when people estimate. When a senior programmer says something will take "a few days," you need to know whether that person's "few days" historically means three days or ten.
+The mechanics of scheduling aren't complicated. You can learn to build a Gantt chart in a weekend. You can set up a Jira backlog in an afternoon. The harder skill is calibration: knowing how long things actually take, which almost always comes from experience and from listening carefully when people estimate. When a senior programmer says something will take "a few days," you need to know whether that person's "few days" historically means three days or ten.
 
-Here's what I tell junior producers specifically: track your actuals. Every sprint, every milestone, compare what you planned to what happened. Not to blame people. To get smarter. After six months of this you'll have data that makes you materially better at your job.
+Here's what I tell junior producers: track your actuals. Every sprint, every milestone, compare what you planned to what happened. Not to blame people. To get smarter. After six months of this you'll have data that makes you materially better at your job.
 
-Tools I'd recommend getting comfortable with: Jira and Confluence are standard at most studios above 10 people. Notion has gained a lot of ground at smaller indie studios and it's genuinely flexible. For timeline visualization, Miro is good for the messy early planning stages, and something like Smartsheet or even a well-structured Google Sheet works fine for milestone tracking if you're not at a studio that's standardized on something else. If you want to go deep on scheduling methodology, Karl Chou's *The Game Production Handbook* (now in its third edition) is probably the best single reference on the shelf.
+Tools I'd recommend: Jira and Confluence are standard at most studios above 10 people. Notion has gained a lot of ground at smaller indie studios and it's genuinely flexible. For timeline visualization, Miro is good for the messy early planning stages, and something like Smartsheet or even a well-structured Google Sheet works fine for milestone tracking if you're not at a studio that's standardized on something else. Karl Chou's *The Game Production Handbook* (now in its third edition) is probably the best single reference if you want to go deep on scheduling methodology.
 
 ## Risk Management, Which Is Really Just Paying Attention
 
 Producers are the people who are supposed to see trouble coming. Not because they're psychic but because they're looking.
 
-Risk management sounds like a formal process, and it can be: you can maintain a proper risk register with likelihood scores and mitigation plans, and on bigger projects you probably should. But the underlying skill is simpler. It's noticing when something feels off before it becomes a problem. When the team is quieter than usual. When a feature keeps getting "almost done" for two weeks. When two leads have stopped talking to each other in the channel where they used to collaborate.
+Risk management sounds formal, and it can be: you can maintain a proper risk register with likelihood scores and mitigation plans, and on bigger projects you probably should. But the underlying skill is simpler. It's noticing when something feels off before it becomes a problem. When the team is quieter than usual. When a feature keeps getting "almost done" for two weeks. When two leads have stopped talking to each other in the channel where they used to collaborate.
 
 Most risks in game development fall into a handful of categories: scope, dependencies, people, and unknowns. Scope risk is what happens when the thing you're making is bigger than the time and budget you have. Dependency risk is what happens when your work is blocked on something external, whether that's another team, a third-party middleware license, or platform certification. People risk is turnover, burnout, communication breakdown, a key person who holds too much knowledge in their head. And unknowns are the stuff you genuinely didn't see coming.
 
-You can't eliminate unknowns. But you can create conditions where the team feels safe surfacing problems early, which is the closest you'll get to managing them. That's partly a scheduling thing (build in buffer; don't run a schedule so tight that raising a concern feels impossible because there's no room to absorb it). But it's mostly a culture thing, and culture is shaped by how you as a producer respond the first time someone brings you bad news.
+You can't eliminate unknowns. But you can create conditions where the team feels safe surfacing problems early, which is the closest you'll get to managing them. That's partly a scheduling thing (build in buffer; don't run a schedule so tight that raising a concern feels impossible because there's no room to absorb it). But it's mostly a culture thing, and culture is shaped by how you respond the first time someone brings you bad news.
 
 ## Conflict Resolution Without Making It Weird
 
@@ -73,7 +72,7 @@ Let's be honest about this one. Conflict resolution is mostly in the job descrip
 
 Some conflicts do need escalation. But most don't. Most are misaligned expectations or miscommunication or two competent people with legitimately different priorities. A producer who can sit with two people, help them actually understand each other's constraints, and walk out with a decision -- that's genuinely valuable. It's also a learnable skill.
 
-The practical advice I give people: get trained in it. Seriously. Negotiation frameworks like the one in *Getting to Yes* by Fisher and Ury aren't just for business deals. They're a toolkit for exactly the kind of conversations producers have every week. Crucial Conversations by Patterson, Groeney, McMillan and Switzler is another one that comes up in almost every producer mentorship conversation I've had. Bit corporate in tone, but the frameworks are real.
+The practical advice I give people: get trained in it. Seriously. Negotiation frameworks like the one in *Getting to Yes* by Fisher and Ury aren't just for business deals. They're a toolkit for exactly the kind of conversations producers have every week. *Crucial Conversations* by Patterson, Groeney, McMillan and Switzler comes up in almost every producer mentorship conversation I've had. Bit corporate in tone, but the frameworks are real.
 
 ## The Technical Literacy Floor
 
@@ -81,7 +80,7 @@ You don't need to code. I want to be clear about that because a lot of people wh
 
 But you do need enough technical literacy to have credible conversations with engineers. You need to understand what a build pipeline is and why it breaks at the worst times. You need to understand the broad shape of why some features are technically risky (physics interactions, networked systems, procedural generation) vs. relatively predictable. You need to understand platform requirements enough to not promise something to a publisher that your engineering team hasn't confirmed is possible.
 
-The floor here is lower than you think, but it does require consistent effort. Read the engineering postmortems on the Game Developer Conference Vault (many are free). Spend time with your programmers. Ask them to explain things. Most engineers are happy to explain when they feel like someone genuinely wants to understand, not just pass the information along.
+The floor is lower than you think, but it does require consistent effort. Read the engineering postmortems on the Game Developer Conference Vault (many are free). Spend time with your programmers. Ask them to explain things. Most engineers are happy to explain when they feel like someone genuinely wants to understand, not just pass the information along.
 
 ## Knowing What You Actually Manage
 
@@ -90,8 +89,5 @@ Here's something that took me longer than I'd like to admit to internalize: prod
 That distinction matters because it changes what you optimize for. You're trying to make sure the right people have the right information at the right time. You're trying to make sure decisions get made (and recorded) instead of lingering. You're trying to spot when one team is waiting on another and close that loop before it becomes a blocker.
 
 When producers try to manage people directly, without the formal authority to do it, it usually goes badly. Not always. But usually. The power you actually have as a producer is informational and organizational, and using it well is its own skill set.
-
----
-
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*

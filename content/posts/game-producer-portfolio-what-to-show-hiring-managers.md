@@ -24,7 +24,6 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
 You spent eight months producing a mobile RPG, shipped it on time, kept a team of twelve aligned, and survived a mid-project engine migration without killing the budget. Hiring managers at three studios looked at your portfolio and passed. Sound familiar? The problem almost certainly isn't your experience. It's how you're presenting it, or more accurately, what you're choosing to show.
 
 ## What Hiring Managers Actually Look At (And What They Skip)
@@ -37,19 +36,19 @@ Producers get hired for their systems, their judgment, and their communication. 
 
 ## The Four Things Your Portfolio Absolutely Needs
 
-**A production artifact.** This is the single most important piece. A sprint plan, a risk register, a milestone tracking document, a capacity planning spreadsheet, a postmortem. Something that shows you can create usable structure. Redact any confidential data, but show the actual thing. A real, slightly messy Jira board screenshot with your logic explained beats a polished diagram of nothing.
+**A production artifact.** This is it. The one thing that matters most. A sprint plan, a risk register, a milestone tracking document, a capacity planning spreadsheet, a postmortem. Something that shows you can create usable structure. Redact any confidential data, but show the actual thing. A real, slightly messy Jira board screenshot with your logic explained beats a polished diagram of nothing.
 
-**A postmortem or retrospective write-up.** One to two pages. Explain what went wrong on a project, what you did about it, and what changed as a result. Hiring managers love this because it shows self-awareness and process thinking. Most candidates don't include it because they're afraid it makes them look bad. The opposite is true.
+**A postmortem or retrospective write-up.** One to two pages. Explain what went wrong on a project, what you did about it, and what changed as a result. Hiring managers love this because it shows self-awareness and process thinking. Most candidates don't include it because they're afraid it makes them look bad. It doesn't.
 
-**Metrics that mean something.** "Shipped on time" is not a metric. "Reduced bug backlog from 340 open tickets to 47 over six weeks by introducing a weekly triage ceremony" is a metric. Quantify your impact wherever you can. Even rough numbers are better than none.
+**Metrics that mean something.** "Shipped on time" is not a metric. "Reduced bug backlog from 340 open tickets to 47 over six weeks by introducing a weekly triage ceremony" is a metric. Quantify your impact wherever you can. Even rough numbers beat vague claims.
 
-**A communication sample.** A status report, a stakeholder update email (anonymized), or a one-pager you wrote to align a team on scope. This shows you can write clearly, which is non-negotiable for producers.
+**A communication sample.** A status report, a stakeholder update email (anonymized), or a one-pager you wrote to align a team on scope. This shows you can write clearly, which producers absolutely have to do.
 
 ## How to Structure the Portfolio Itself
 
 Keep it simple. A PDF works. A Notion page works. A personal website works. What doesn't work is making hiring managers click through six nested folders to find anything.
 
-Here's a structure that I've seen land interviews consistently:
+Here's what I've seen land interviews:
 
 | Section | What to Include | Length |
 |---|---|---|
@@ -64,7 +63,7 @@ That's it. Don't pad it. Don't add a "skills" section full of adjectives like "c
 
 ## If You Don't Have Shipped Projects Yet
 
-I get this question constantly, and the honest answer is: make something. Not a fake project, but a real production exercise. Take a game jam entry or an open-source game project and produce it for 30 days. Write sprint plans, hold retrospectives, track velocity, manage scope. Then document it.
+I get this question constantly. The honest answer is: make something. Not a fake project, but a real production exercise. Take a game jam entry or an open-source game project and produce it for 30 days. Write sprint plans, hold retrospectives, track velocity, manage scope. Then document it.
 
 A real production process applied to a small real project beats a theoretical portfolio every time. Tools like **Notion** or **ClickUp** are free and production-ready for small teams. Use them. Screenshot your boards. Write your postmortem. That's portfolio material.
 
@@ -72,11 +71,6 @@ A real production process applied to a small real project beats a theoretical po
 
 Hiring managers want to see you know the industry's actual tools, not just that you've heard of Agile.
 
-- **Jira** and **Confluence**: Standard at most mid-to-large studios. Know these well.
-- **Shotgrid (formerly Shotgun)**: Common in studios with heavy asset pipelines.
-- **Notion**: Increasingly popular at indie studios and startups.
-- **Miro or FigJam**: Great for sprint planning visuals and roadmaps.
-- **Google Sheets**: Underrated. A well-structured capacity plan in Sheets shows real skill.
+**Jira** and **Confluence**: Standard at most mid-to-large studios. Know these well. **Shotgrid** (formerly Shotgun) is common in studios with heavy asset pipelines. **Notion** keeps gaining traction at indie studios and startups. **Miro** or **FigJam** are great for sprint planning visuals and roadmaps. And don't sleep on **Google Sheets**, a well-structured capacity plan shows real skill.
 
 For leveling up your production knowledge, *Production Pipeline Fundamentals for Film and Games* by Renée Dunlop is worth your time. Coursera's *Game Design and Development* specialization from MSU covers production concepts in a structured way. The **Game Producers Slack community** is where a lot of real job leads and portfolio feedback actually happen.
-

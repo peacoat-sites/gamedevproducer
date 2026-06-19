@@ -22,7 +22,6 @@ faqs:
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---
-
 You're in a sprint review. The combat animator shows a sword slash that reads slow and telegraphed. You say, "The timing feels off, can you punch it up?" She nods. Two days later, you see the revision and it's faster, snappier, and somehow worse. Meanwhile, across the room, you told your lead engineer the collision detection "felt a bit janky" and he came back with three questions, a spreadsheet of frame data, and a fix that worked perfectly. Same vague feedback. Completely opposite outcomes. That's not a coincidence.
 
 Giving feedback is a core producer skill, and most coverage treats it like a personality quiz: are you a "sandwich method" person or a "radical candor" person? That framing misses the actual problem. Artists and engineers process feedback differently because they're working in different cognitive modes, and if you don't understand that, you'll keep getting revisions that miss the point.
@@ -37,9 +36,9 @@ Neither mode is better. Both create problems when you apply the wrong feedback a
 
 ## How to Give Feedback to Artists
 
-Start with intent, not prescription. The fastest way to kill a good artist's output is to tell them exactly what to do. "Make the sword swing faster" is a direction. "The player needs to feel the impact before they see it, right now the anticipation is eating up the window where they should feel the hit land" is intent. One of those unlocks the artist's skill. The other makes you the artist and them the executor.
+Start with intent, not prescription. The fastest way to kill a good artist's output is to tell them exactly what to do. "Make the sword swing faster" is a direction. "The player needs to feel the impact before they see it, right now the anticipation is eating up the window where they should feel the hit land" is intent. One unlocks the artist's skill. The other makes you the artist and them the executor.
 
-Reference before you describe. Words like "punchy," "gritty," "clean," or "vibrant" mean different things to different people. When you're reviewing work, bring visual references whenever possible. This isn't because artists can't handle abstract language, it's because a single reference image eliminates a paragraph of miscommunication. Tools like [PureRef](https://www.pureref.com/) are free and purpose-built for building reference boards in exactly these conversations.
+Reference before you describe. Words like "punchy," "gritty," "clean," or "vibrant" mean different things to different people. When you're reviewing work, bring visual references whenever possible. This isn't because artists can't handle abstract language, it's because a single reference image eliminates a paragraph of miscommunication. [PureRef](https://www.pureref.com/) is free and purpose-built for building reference boards in exactly these conversations.
 
 Separate what's working from what isn't. Artists are invested in their work in a way that's both their greatest strength and their greatest vulnerability to feedback. If you walk in and list five things that are wrong, they hear "this is bad." Start by naming what's landing: "The color palette is exactly right, the weight on the idle animation feels real." Then redirect: "The issue is the transition into the attack, it doesn't match the weight you've established." Now you're calibrating, not criticizing.
 
@@ -75,16 +74,11 @@ I've seen teams burn entire sprint cycles because a producer kept resubmitting t
 
 ## Tools That Help You Give Better Feedback
 
-Good feedback starts with clear tracking. [Jira](https://www.atlassian.com/software/jira) and [Shortcut](https://www.shortcut.com/) both let you structure bug reports and task notes in ways that force specificity. [Notion](https://www.notion.so/) works well for maintaining living feedback documents tied to art briefs.
+Good feedback starts with clear tracking. [Jira](https://www.atlassian.com/software/jira) and [Shortcut](https://www.shortcut.com/) both force specificity in bug reports and task notes. [Notion](https://www.notion.so/) works well for maintaining living feedback documents tied to art briefs.
 
-For visual feedback on art assets, [Loom](https://www.loom.com/) lets you record screen walkthroughs with voiceover, which is dramatically better than typed notes for anything animation or UI-related. [Frame.io](https://frame.io/) handles frame-accurate video review and is worth the cost if you're doing any significant cinematic or animation work.
+For visual feedback on art assets, [Loom](https://www.loom.com/) lets you record screen walkthroughs with voiceover, which is dramatically better than typed notes for anything animation or UI-related. [Frame.io](https://frame.io/) handles frame-accurate video review and is worth the cost if you're doing cinematic or animation work.
 
-On the production knowledge side, *The Art of Game Design* by Jesse Schell sharpens your ability to articulate player experience, which is the foundation of useful creative feedback. For managing technical communication, *Peopleware* by DeMarco and Lister is still one of the most honest books about how technical teams actually work.
-
----
-
-
----
+On the knowledge side, *The Art of Game Design* by Jesse Schell sharpens your ability to articulate player experience, which is the foundation of useful creative feedback. *Peopleware* by DeMarco and Lister is still one of the most honest books about how technical teams actually work.
 
 The underlying principle here isn't complicated: good feedback meets people where they actually are, not where you assume they are. Artists need to understand the experience you're trying to create. Engineers need to understand the problem you need solved. Get that distinction right, and your revision cycles get shorter, your team gets less frustrated, and you start shipping things that actually match the vision you had in your head.
 

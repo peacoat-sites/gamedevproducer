@@ -24,50 +24,46 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
+You're running the daily standup. Eight months in. You know every ticket in Jira, every blocker, every dev who claims they'll finish in two days and somehow always does. Your producer's in back-to-back meetings and the team basically treats you like the actual producer already. Then the senior role opens internally, and they hire someone from outside. That's when it hits: doing the job isn't the same as being ready for it.
 
-You're running the daily standup. You've been doing it for eight months. You know every ticket in Jira, every blocker, every dev who always lowballs their estimates. Your producer is in back-to-back meetings and the team functionally treats you like the producer already. Then the senior producer role opens up internally, and someone from outside gets it. That's the moment most APs realize: doing the job isn't the same as being ready for the job.
-
-The gap between associate producer and producer isn't about competence. It's almost never about competence. It's about visibility, scope, and a specific kind of ownership that nobody hands you. Here's how to actually close it.
+The gap between associate producer and producer has almost nothing to do with competence. It's visibility, scope, and a specific kind of ownership that nobody hands you. Here's how to actually close it.
 
 ## Stop Being the Person Who Executes Plans and Start Being the Person Who Makes Them
 
-The biggest signal producers look for when deciding if an AP is ready to step up: can they run a feature from ambiguity to shipped without constant guidance? APs are excellent at executing defined tasks. Producers own the definition.
+Producers notice one thing when evaluating whether an AP is ready: can they run a feature from messy ambiguity to shipped without constant hand-holding? APs excel at executing defined work. Producers own the definition. That's the whole difference.
 
-If your current role has you updating spreadsheets and following up on tasks, start volunteering for the messy upstream work. Offer to run a scoping session for a small feature. Draft the acceptance criteria before your producer does and ask them to review it. Take on the sprint planning for one track and own the estimates conversation with engineering.
+Right now you're probably updating spreadsheets and following up on tasks. Switch gears. Volunteer for the upstream mess. Run a scoping session for a small feature. Draft the acceptance criteria before your producer does and ask them to rip it apart. Own sprint planning for one track and drive the estimation conversation with engineering.
 
-You're not overstepping. You're demonstrating readiness. There's a difference, and good producers recognize it immediately.
+You're not overstepping. You're demonstrating readiness. Good producers know the difference.
 
 ## Learn to Read a Budget and a Schedule Like a Business Document
 
-I've seen a lot of APs get passed over because they can speak fluently about task status but go quiet when the conversation turns to cost, burn rate, or milestone risk. That silence reads as inexperience at the producer level.
+I've watched APs get passed over because they can talk all day about task status but clam up the moment someone mentions burn rate, cost, or milestone risk. That silence reads as junior at the producer level.
 
-You don't need an MBA. You need to understand how time translates to money, how scope creep destroys margins, and how to present a risk-adjusted schedule to a stakeholder who doesn't care about your Gantt chart. Ask your producer if you can sit in on budget reviews. Read *The Art of Game Design* by Jesse Schell for the design thinking layer, and pair it with *Game Production Toolbox* by Heather Maxwell Chandler for the operational side. Chandler's book specifically walks through how to build and defend a production schedule, which is exactly the skill gap we're talking about.
+You don't need an MBA. You need to understand how time becomes money, how scope creep kills margins, and how to tell a stakeholder "here's our schedule and here's what could break it" without putting them to sleep. Ask your producer if you can shadow budget reviews. Read *The Art of Game Design* by Jesse Schell for the theory, then grab *Game Production Toolbox* by Heather Maxwell Chandler for the actual mechanics. Chandler's book walks you through building and defending a production schedule, which is exactly the skill most APs are missing.
 
-For tools: if you're only living in Jira or Trello right now, get comfortable with Smartsheet or MS Project for milestone planning. Producers at most studios above indie scale are expected to build and own Gantt-style master schedules, not just sprint boards.
+On the tool side: if you're living in Jira or Trello, get fluent with Smartsheet or MS Project for milestone planning. Most studios above indie scale expect producers to own real Gantt-style master schedules, not just sprint boards.
 
 ## Build Relationships Three Levels Up and Two Teams Over
 
-Your network inside the studio matters more for promotion than almost anything else. Not in a political, ladder-climbing way. In a practical one. Producers get greenlit for more responsibility when the people above them have direct evidence of their judgment.
+Your network inside the studio matters more for promotion than almost anything else. Not in a scheming way. In a practical one. People greenlight others for bigger responsibility when they have direct proof of their judgment.
 
-Make yourself known to the leads in disciplines you don't directly work with. If you're on the design-facing side, get to know engineering leads. Attend the post-mortems for features you weren't on. Ask smart questions. When a director or EP walks into a room, don't just nod. Have something worth saying.
+Get known with leads in disciplines you don't touch. If you're design-facing, befriend engineering leads. Go to post-mortems for projects you weren't on. Ask smart questions. When a director walks in, have something worth saying instead of just nodding.
 
-For external growth, the Game Producers Summit content from GDC Vault is genuinely useful. Search for talks on stakeholder communication and production leadership specifically. The Coursera Project Management specialization from Google is worth the time if you want credentials that hold up outside games, too.
+For external learning, GDC Vault has solid content from past Game Producers Summits. Search talks on stakeholder communication and production leadership. Google's Coursera Project Management specialization works if you want credentials that travel outside games too.
 
 ## Own a Failure, Loudly and Clearly
 
-This one surprises people. What most don't realize is that how you handle a miss tells senior leadership more about your readiness than how you handle a win. Anyone can report good news. Producers are trusted because they surface bad news early, own their part in it, and come in with a recovery plan.
+This surprises people. How you handle a miss tells senior leadership more about your readiness than how you handle a win. Anyone can deliver good news. Producers get trusted because they surface bad news early, own their piece of it, and come back with a fix.
 
-Next time something on your watch goes sideways, don't bury it in a status update. Go to your producer proactively, say what happened, explain your role in it, and present two options for fixing it. That's what producer-level ownership looks like. It builds trust faster than six months of clean sprints.
+Next time something breaks on your watch, don't bury it in a status update. Go to your producer proactively. Say what happened. Own your part. Present two options for fixing it. That's producer-level ownership. It builds trust faster than six months of clean sprints.
 
 ## Create a Paper Trail of Your Scope and Impact
 
-When review time comes, you need receipts. Keep a running doc (Notion works great for this) where you log every feature you helped scope, every risk you flagged early, every process improvement you introduced. Be specific. "Reduced average ticket cycle time from 4.2 days to 2.8 days by restructuring our backlog grooming process" is a promotion argument. "Helped the team stay on track" is not.
+When review time comes, you need proof. Keep a running Notion doc where you log every feature you helped scope, every risk you caught early, every process you improved. Get specific. "Reduced average ticket cycle time from 4.2 days to 2.8 days by restructuring backlog grooming" is a promotion argument. "Helped the team" is not.
 
-This document also forces you to see your own growth clearly. APs often undersell themselves because they can't articulate what they've actually changed. The doc fixes that.
-
----
-
+This document also forces you to see your own growth clearly. Most APs undersell themselves because they can't articulate what they've actually changed. The doc fixes that.
 
 ---
 
-The honest truth is that the AP to producer jump is less about a single moment of recognition and more about a sustained pattern of behavior that makes the decision obvious for everyone above you. You want them thinking "we should formalize what she's already doing" rather than "maybe she's ready." Start showing up at the producer level now, document that you're doing it, and make the promotion conversation easy for them to say yes to.
+The real move isn't waiting for one moment of recognition. It's building a sustained pattern where everyone above you thinks "we should formalize what she's already doing" instead of "maybe she could be ready someday." Start operating at the producer level now, document that you're doing it, and you'll make the promotion conversation easy for them to say yes to.

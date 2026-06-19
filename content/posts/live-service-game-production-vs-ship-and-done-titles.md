@@ -24,16 +24,15 @@ faqs:
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
 ---
-
-You're six months into pre-production and someone just asked you the question your whole team has been quietly avoiding: "Are we making a live service game or not?" The room goes quiet. Everyone has opinions. Nobody has a plan. This single decision will shape your team size, your budget runway, your monetization model, your post-launch roadmap, and frankly your personal stress levels for the next several years. Getting it wrong doesn't just hurt your game. It can sink your studio.
+You're six months into pre-production and someone just asked the question your whole team has been quietly avoiding: "Are we making a live service game or not?" The room goes silent. Everyone has opinions. Nobody has a plan. This single decision shapes your team size, budget runway, monetization model, post-launch roadmap, and your personal stress levels for the next several years. Get it wrong and it doesn't just hurt your game. It can sink your studio.
 
 ## What These Two Models Actually Mean in Practice
 
 "Live service" and "ship and done" are shorthand for something much deeper than update frequency. They describe fundamentally different relationships with your players, your revenue, and your production pipeline.
 
-A ship-and-done title (sometimes called a premium or packaged game) has a defined scope. You build it, you ship it, you patch critical bugs, and then your team moves on. Think *Disco Elysium*, *Hades*, or *Return of the Obra Dinn*. Revenue is front-loaded. Success is measured in launch window sales. The game is essentially a product you hand to players and then step back from.
+A ship-and-done title (sometimes called a premium or packaged game) has defined scope. You build it, ship it, patch critical bugs, then your team moves on. *Disco Elysium*. *Hades*. *Return of the Obra Dinn*. Revenue is front-loaded. Success gets measured in launch window sales. The game is essentially a product you hand to players and step back from.
 
-A live service game is a platform. It never really ships in the traditional sense. It launches. *Fortnite*, *Destiny 2*, *Path of Exile*, and *Warframe* are the obvious examples, but plenty of smaller games operate this way too. Revenue comes in continuously through battle passes, cosmetics, expansions, and seasonal content. The production machine never fully stops. Your sprint cadences, your team structure, your QA processes, everything has to sustain that ongoing output for months or years.
+A live service game is a platform. It never really ships in the traditional sense. It launches. *Fortnite*, *Destiny 2*, *Path of Exile*, and *Warframe* are the obvious examples, but plenty of smaller games operate this way too. Revenue comes continuously through battle passes, cosmetics, expansions, and seasonal content. The production machine never fully stops. Your sprint cadences, team structure, QA processes, everything has to sustain ongoing output for months or years.
 
 Here's what I tell people in that awkward pre-production meeting: the model you choose isn't a marketing decision. It's an infrastructure decision. Make it early, make it deliberately, and make it based on what your team can actually sustain.
 
@@ -43,9 +42,9 @@ You might be wondering which model makes more money. The honest answer is: live 
 
 The top-earning live service games generate billions annually. But the market has consolidated hard around a handful of dominant titles. Players have limited time and limited wallet share. Getting a new live service game into someone's regular rotation against *League of Legends* or *Apex Legends* is genuinely one of the hardest problems in games right now.
 
-Ship-and-done titles have a different math. A well-reviewed indie game selling 200,000 units at $20 generates $4 million gross, which after platform cuts lands around $2.8 million. For a small team, that's a real business. The risk profile is more predictable. You need a strong launch window, good review scores, and some word-of-mouth legs, but you're not betting on player retention 18 months out.
+Ship-and-done titles follow different math. A well-reviewed indie game selling 200,000 units at $20 generates $4 million gross, which after platform cuts lands around $2.8 million. For a small team, that's real revenue. The risk profile is more predictable. You need a strong launch window, good review scores, and some word-of-mouth momentum, but you're not betting on player retention 18 months out.
 
-The middle ground, a premium game with paid DLC or an expansion, can work well but it requires you to be honest about which model you're actually building. I've watched studios convince themselves they're doing "premium plus optional live elements" and end up with the cost structure of live service and the revenue of a packaged game. That gap kills studios.
+The middle ground, a premium game with paid DLC or an expansion, can work but it requires you to be honest about which model you're actually building. I've watched studios convince themselves they're doing "premium plus optional live elements" and end up with the cost structure of live service and the revenue of a packaged game. That gap kills studios.
 
 ## Production Structure: Where They Diverge Most Sharply
 
@@ -61,13 +60,13 @@ The middle ground, a premium game with paid DLC or an expansion, can work well b
 
 That "30-60% of dev cost annually" number is the one that surprises people. If it cost you $3 million to ship your game, plan to spend $900K to $1.8 million per year keeping a live service running at a professional level. That includes server infrastructure, live ops staff, community management, ongoing QA, and content production. Your investors or publisher need to understand this before you commit.
 
-For production tooling, I lean on **Jira** or **Hacknplan** for sprint management (Hacknplan is built specifically for game dev and handles feature/task hierarchies well). **Confluence** or **Notion** works well for documentation that needs to live across a multi-year project. If you're running a live service, **Amplitude** or **GameAnalytics** for live telemetry becomes essential, not optional.
+For production tooling, I lean on **Jira** or **Hacknplan** for sprint management. Hacknplan's built specifically for game dev and handles feature/task hierarchies better than most. **Confluence** or **Notion** works for documentation that needs to live across a multi-year project. If you're running a live service, **Amplitude** or **GameAnalytics** for live telemetry becomes essential, not optional.
 
 ## How to Actually Make the Decision
 
-Here's a practical framework. Work through these five questions with your leads before you commit.
+Work through these five questions with your leads before you commit.
 
-1. **What's your realistic team size at launch?** If you're shipping with six people, live service is probably going to break you. A sustainable live service needs at minimum a dedicated live ops producer, ongoing engineering support, and a content team that isn't also doing core development.
+1. **What's your realistic team size at launch?** If you're shipping with six people, live service will probably break you. A sustainable live service needs at minimum a dedicated live ops producer, ongoing engineering support, and a content team that isn't also doing core development.
 
 2. **Do you have 18+ months of operating runway post-launch?** Live service games often take 6-12 months after launch to reach profitability. You need bridge capital to survive that period.
 
@@ -77,7 +76,7 @@ Here's a practical framework. Work through these five questions with your leads 
 
 5. **What happens if player count drops 40% in month three?** This is the question nobody wants to answer. For a ship-and-done title, that's fine. For a live service, it triggers a death spiral if you don't have a retention plan built in advance.
 
-If you're looking to sharpen your thinking here, *Blood, Sweat, and Pixels* by Jason Schreier gives you real-world context on how these decisions play out under pressure. For the production methodology side, **PMI's Game Production Certificate** or courses on **LinkedIn Learning** around agile game production can help you build the process vocabulary your team needs.
+If you're looking to sharpen your thinking here, *Blood, Sweat, and Pixels* by Jason Schreier gives real-world context on how these decisions play out under pressure. For the production methodology side, **PMI's Game Production Certificate** or courses on **LinkedIn Learning** around agile game production can help you build the process vocabulary your team needs.
 
 ## The Live Ops Reality Nobody Warns You About
 
@@ -85,5 +84,4 @@ Even experienced producers underestimate how different live operations feel from
 
 Community trust is your most important asset in live service. When *No Man's Sky* launched in 2016, it was a case study in a premium game that tried to pivot toward live service to recover from a disastrous launch. It worked, but only because Hello Games committed to years of free updates and relentless transparency. Most studios don't have that kind of runway or resilience.
 
-I've seen smaller studios launch a "live service" game with one content designer and no dedicated community manager. By month four, players feel abandoned, reviews tank, new player acquisition dries up, and the game enters maintenance mode before it ever found its audience. The lesson: if you're going to commit to live, commit fully, or don't start.
-
+I've seen smaller studios launch a "live service" game with one content designer and no dedicated community manager. By month four, players feel abandoned, reviews tank, new player acquisition dries up, and the game enters maintenance mode before it ever found its audience. The lesson is simple: if you're going to commit to live, commit fully, or don't start.

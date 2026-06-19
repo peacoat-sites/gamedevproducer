@@ -13,7 +13,6 @@ affiliate_disclosure: true
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-
 You're three weeks out from a major milestone review. Your studio lead asks for the deliverable document. You panic slightly because you realize you've never actually written a formal one, and you're not sure what should go in it. You've got spreadsheets, meeting notes, and a general sense of what's been completed, but there's no single source of truth. Sound familiar?
 
 Most producers learn this the hard way. A milestone deliverable document isn't just a checkbox for your publisher or studio leadership. It's your contract with the team about what "done" actually means, your defense against scope creep, and your historical record for postmortems. Done wrong, it becomes a bureaucratic nightmare that delays shipping. Done right, it eliminates arguments and keeps everyone aligned.
@@ -22,11 +21,11 @@ Most producers learn this the hard way. A milestone deliverable document isn't j
 
 A solid milestone deliverable document has four core sections: the executive summary, the scope definition, the acceptance criteria, and the known issues or deferred work. This structure scales from small indie teams to 200-person studios.
 
-The executive summary should be genuinely brief, maybe 150 to 250 words. State what milestone you're completing, when it's due, which teams are responsible, and the high-level deliverables. This is what your studio director reads before a meeting. Be specific about dates. "End of Q3" is vague. "September 28, 2024" is clear.
+The executive summary should be genuinely brief. Maybe 150 to 250 words. State what milestone you're completing, when it's due, which teams are responsible, and the high-level deliverables. This is what your studio director reads before a meeting. Be specific about dates. "End of Q3" is vague. "September 28, 2024" is clear.
 
-The scope section is where you detail exactly what's included in this milestone. That means every feature, system, and piece of content that's supposed to be done. If you're hitting an alpha milestone for a 30-hour RPG, list the opening act completely, name the playable characters, note how many dungeons are included. Break it down by discipline. Art deliverables separate from code, audio separate from narrative. You're aiming for a level of detail that someone who wasn't in every meeting can understand what the milestone contains.
+The scope section is where you detail exactly what's included in this milestone. That means every feature, system, and piece of content that's supposed to be done. If you're hitting an alpha milestone for a 30-hour RPG, list the opening act completely, name the playable characters, note how many dungeons are included. Break it down by discipline: art deliverables separate from code, audio separate from narrative. You're aiming for a level of detail that someone who wasn't in every meeting can understand what the milestone contains.
 
-This is also where you document what's explicitly not included. That feature your lead wanted? If it's punted to beta, write it down here. That boss battle you cut? Document it. Deferred work is still work, and it should be visible in your milestone document. Otherwise, people assume it's coming and you end up defending decisions in the final week before launch.
+Here's where you also document what's explicitly not included. That feature your lead wanted? If it's punted to beta, write it down here. That boss battle you cut? Document it. Deferred work is still work, and it should be visible in your milestone document. Otherwise, people assume it's coming and you end up defending decisions in the final week before launch.
 
 ## Acceptance Criteria: The Muscle of the Document
 
@@ -95,23 +94,23 @@ Before you send a milestone document for review, run through this checklist:
 
 ## FAQ
 
-**Q: How detailed should acceptance criteria actually be?**
+### Q: How detailed should acceptance criteria actually be?
 
-A: Detailed enough that someone who wasn't in your design meetings can understand what passes and what fails. If you can fit your entire acceptance criteria into three bullet points, you're being too vague. If you need 50 bullet points, you're probably over-specifying. Aim for the sweet spot where criteria are specific enough to be testable but broad enough that you're not getting bogged down in implementation details.
+A: Detailed enough that someone who wasn't in your design meetings can understand what passes and what fails. Three bullet points and you're being too vague. Fifty bullet points and you're over-specifying. Aim for the sweet spot where criteria are specific enough to be testable but broad enough that you're not getting bogged down in implementation details.
 
-**Q: Should I include art asset counts and exact feature lists in the deliverable document?**
+### Q: Should I include art asset counts and exact feature lists in the deliverable document?
 
 A: Yes, if those numbers matter to your timeline or your platform constraints. "40 unique enemy types implemented and animated" is more useful than "all enemy types ready." "Exactly 127 art assets under 2MB each" might be overkill unless you're hitting a specific memory budget. Include numbers that affect decisions.
 
-**Q: What if we miss the milestone? Do we rewrite the whole document?**
+### Q: What if we miss the milestone? Do we rewrite the whole document?
 
 A: No. You update it to reflect what actually shipped and what slipped. Mark the new delivery date, move deferred work to the next milestone document, and document why the slip happened. This becomes your record of what went wrong, which is invaluable for postmortems.
 
-**Q: How do I handle acceptance criteria for subjective things like "polish"?**
+### Q: How do I handle acceptance criteria for subjective things like "polish"?
 
 A: Make them as objective as possible. Instead of "the menu looks polished," write "all menu buttons have hover states, all text is kerned and fits within UI bounds on 1080p and 4K, and menu transitions complete in under 300ms." You're moving from subjective to measurable.
 
-**Q: Do I need a separate milestone deliverable document for each milestone, or is one master document enough?**
+### Q: Do I need a separate milestone deliverable document for each milestone, or is one master document enough?
 
 A: One master document that you update for each milestone is fine for small teams. For larger studios with multiple simultaneous milestones or external parties (publishers, certification boards), separate documents per milestone prevent confusion. Each milestone should be its own document that you can reference independently.
 
