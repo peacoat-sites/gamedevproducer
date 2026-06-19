@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-18",
+  "updated": "2026-06-19",
   "items": [
     {
-      "name": "The Flame and the Fart",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4677090/c8e4b846b69a01badbf0f83f9491fe62057d7098/header.jpg?t=1781776840",
-      "url": "https://store.steampowered.com/app/4677090/",
+      "name": "Void Tech",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585900/9bb0ab298321652f6cce2b3dd7fd5ea955b5c873/header.jpg?t=1781863354",
+      "url": "https://store.steampowered.com/app/3585900/",
       "short_description": "",
-      "final_price": 310
+      "final_price": 1349
     },
     {
-      "name": "With Your Coworker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4564320/996a945515a1a66c326b0be5edd79991536d81e7/header.jpg?t=1781776756",
-      "url": "https://store.steampowered.com/app/4564320/",
+      "name": "\u3055\u304f\u3089\u3001\u3082\u3086\u3002-as the Night's, Reincarnation-",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2899760/755e293e88c23d1b879d3452e47554154ea849f9/header.jpg?t=1781863222",
+      "url": "https://store.steampowered.com/app/2899760/",
       "short_description": "",
-      "final_price": 89
+      "final_price": 3599
     },
     {
-      "name": "Room: 405 | Love Beyond Reality",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715350/4b317381929e05eb6494aebdfefe6080d4970aea/header.jpg?t=1781775694",
-      "url": "https://store.steampowered.com/app/4715350/",
+      "name": "ROSE:RUIN",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841700/09954bc59a1462958364add620d24b5195e003fc/header.jpg?t=1781862317",
+      "url": "https://store.steampowered.com/app/3841700/",
       "short_description": "",
-      "final_price": 399
+      "final_price": 359
     },
     {
-      "name": "PokerVersity: Challenge",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4592140/c6730542eebc43e7b65add0683d98b703902dd74/header.jpg?t=1781774903",
-      "url": "https://store.steampowered.com/app/4592140/",
+      "name": "Illvelo Swamp",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539580/af002b6fba94524ccf66cb0b8800206a413c61c9/header.jpg?t=1781859615",
+      "url": "https://store.steampowered.com/app/4539580/",
+      "short_description": "",
+      "final_price": 1599
+    },
+    {
+      "name": "Once Upon A Card",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148600/2f0fd412f11ed17fe1ab6e500fdf3e05ee91d19a/header.jpg?t=1781858943",
+      "url": "https://store.steampowered.com/app/4148600/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Boo Boo Families",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296030/04decabec0f30029959ad5febad6352db07aa918/header.jpg?t=1781773434",
-      "url": "https://store.steampowered.com/app/4296030/",
-      "short_description": "",
-      "final_price": 299
-    },
-    {
-      "name": "The Name I Wear",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4196120/79de2d8541755103715b240f51c15f4adf530ea1/header.jpg?t=1781770896",
-      "url": "https://store.steampowered.com/app/4196120/",
+      "name": "Bloxzer",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720600/b5fc2a16cdfb8da3a7ee69d51845e9bca5c71041/header.jpg?t=1781856317",
+      "url": "https://store.steampowered.com/app/4720600/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Dead Station Together",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803470/b92b79b27dd9a2491f1af36adba312d2094729e9/header.jpg?t=1781769743",
-      "url": "https://store.steampowered.com/app/4803470/",
-      "short_description": "",
-      "final_price": 49
-    },
-    {
-      "name": "Hellocracy",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4777090/622e1637793d2ad6c0d27516aab8a6450577a727/header.jpg?t=1781768562",
-      "url": "https://store.steampowered.com/app/4777090/",
+      "name": "Without Sanctuary",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312080/5e6fc78c46a60600bb53d408b2d645d645584ed9/header.jpg?t=1781855646",
+      "url": "https://store.steampowered.com/app/4312080/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Jewels of the Wild West: Match 3 to Build Your City",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4514650/92236dacb7d96ab1e9fe48598019aa2a47d0ab48/header.jpg?t=1781768603",
-      "url": "https://store.steampowered.com/app/4514650/",
+      "name": "My Friend\u2019s Girlfriend",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151140/57deeb049d50c7f9ba5d6066d3dc9d14ca6af1d5/header.jpg?t=1781853439",
+      "url": "https://store.steampowered.com/app/4151140/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 599
     },
     {
-      "name": "I'veComeToYourHouseToPlay!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4676340/8dec80b4dc872c3497d6265301229d8b106f556f/header.jpg?t=1781766637",
-      "url": "https://store.steampowered.com/app/4676340/",
+      "name": "\u5c71\u4e0a\u90a3\u4e2a\u7334\u513f",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4625760/0608779230e805d50e954ac0b7877417d4cc54cb/header.jpg?t=1781852727",
+      "url": "https://store.steampowered.com/app/4625760/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 719
     },
     {
-      "name": "The Endless Abyss: A Busty Cop\u2019s Corrupted Soul",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651410/84ac826a679b606bcec7a95f5ade3df9241d6671/header.jpg?t=1781778331",
-      "url": "https://store.steampowered.com/app/2651410/",
+      "name": "Fury Journey",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766950/4b133cfa674ffc0d905c607bc772dc188ff366bb/header.jpg?t=1781852605",
+      "url": "https://store.steampowered.com/app/4766950/",
       "short_description": "",
-      "final_price": 1169
+      "final_price": 449
     },
     {
-      "name": "Deep Drift Signal Below",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4777880/c352e4c99978628b08959a185951057f1a2f5bb6/header.jpg?t=1781766122",
-      "url": "https://store.steampowered.com/app/4777880/",
+      "name": "Dusk City - Beacon of Tranquility",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603110/da7f6e065b2e0eade88409260507bfe4e2a01c4d/header.jpg?t=1781858429",
+      "url": "https://store.steampowered.com/app/4603110/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 1599
+    },
+    {
+      "name": "2026 U.S. Election Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808720/eee72a5944616d253ce3bb02905bdf20ef472c95/header.jpg?t=1781852425",
+      "url": "https://store.steampowered.com/app/4808720/",
+      "short_description": "",
+      "final_price": 1599
     }
   ]
 }
