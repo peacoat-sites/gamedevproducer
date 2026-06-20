@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-19",
+  "updated": "2026-06-20",
   "items": [
     {
-      "name": "Void Tech",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585900/9bb0ab298321652f6cce2b3dd7fd5ea955b5c873/header.jpg?t=1781863354",
-      "url": "https://store.steampowered.com/app/3585900/",
+      "name": "PinballRobotDoctor",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794200/4b848634d897a6f9be587c3d60c43056826ab0a8/header.jpg?t=1781945465",
+      "url": "https://store.steampowered.com/app/4794200/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Sinner's Siesta",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778750/a663badaa3c0c50bbcface58d0b1d1975554ee42/header.jpg?t=1781939421",
+      "url": "https://store.steampowered.com/app/4778750/",
+      "short_description": "",
+      "final_price": 1499
+    },
+    {
+      "name": "Zombie Wasteland Together",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4805240/53652c416d60bdfbc9e5e4d0a2d9df749c318c1b/header.jpg?t=1781939020",
+      "url": "https://store.steampowered.com/app/4805240/",
+      "short_description": "",
+      "final_price": 49
+    },
+    {
+      "name": "Company Rising",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637330/70aa7a272feb9f3cab123b654668efdca4d713a3/header.jpg?t=1781928024",
+      "url": "https://store.steampowered.com/app/4637330/",
+      "short_description": "",
+      "final_price": 899
+    },
+    {
+      "name": "Summer Sisters",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353630/6307babe17d6edda9984f12051b96903b47f74d4/header.jpg?t=1781928023",
+      "url": "https://store.steampowered.com/app/4353630/",
+      "short_description": "",
+      "final_price": 799
+    },
+    {
+      "name": "Infinite Bread",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724900/0de3c187e4ace97751a66f31b37c963beb648925/header.jpg?t=1781936084",
+      "url": "https://store.steampowered.com/app/4724900/",
+      "short_description": "",
+      "final_price": 524
+    },
+    {
+      "name": "Poem of the Starherd",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975500/a66c58b998a5ae2a3365a8797eb1b159abceadc1/header.jpg?t=1781924410",
+      "url": "https://store.steampowered.com/app/3975500/",
+      "short_description": "",
+      "final_price": 1519
+    },
+    {
+      "name": "PX2: The Termination",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534470/0ca8911d8cb2f089e43b05552ff87c6baa82be9a/header.jpg?t=1781921905",
+      "url": "https://store.steampowered.com/app/4534470/",
+      "short_description": "",
+      "final_price": 499
+    },
+    {
+      "name": "NTR Idol: D\u00e9j\u00e0 Vu",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4011180/760058e1d2370164f058d24d4334adc7635de257/header.jpg?t=1781922348",
+      "url": "https://store.steampowered.com/app/4011180/",
       "short_description": "",
       "final_price": 1349
     },
     {
-      "name": "\u3055\u304f\u3089\u3001\u3082\u3086\u3002-as the Night's, Reincarnation-",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2899760/755e293e88c23d1b879d3452e47554154ea849f9/header.jpg?t=1781863222",
-      "url": "https://store.steampowered.com/app/2899760/",
+      "name": "Hentai World Forest",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812510/c8fc27ccee1bf5f799daae4714a9929a6f2b868e/header.jpg?t=1781917112",
+      "url": "https://store.steampowered.com/app/4812510/",
       "short_description": "",
-      "final_price": 3599
+      "final_price": 79
     },
     {
-      "name": "ROSE:RUIN",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3841700/09954bc59a1462958364add620d24b5195e003fc/header.jpg?t=1781862317",
-      "url": "https://store.steampowered.com/app/3841700/",
+      "name": "Snake Coil: Puzzle Adventure",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178360/4c3bcfb0c90d195b1ae7ea4a6cf2cbe12d9a2613/header.jpg?t=1781912597",
+      "url": "https://store.steampowered.com/app/4178360/",
       "short_description": "",
-      "final_price": 359
+      "final_price": 349
     },
     {
-      "name": "Illvelo Swamp",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539580/af002b6fba94524ccf66cb0b8800206a413c61c9/header.jpg?t=1781859615",
-      "url": "https://store.steampowered.com/app/4539580/",
-      "short_description": "",
-      "final_price": 1599
-    },
-    {
-      "name": "Once Upon A Card",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148600/2f0fd412f11ed17fe1ab6e500fdf3e05ee91d19a/header.jpg?t=1781858943",
-      "url": "https://store.steampowered.com/app/4148600/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Bloxzer",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720600/b5fc2a16cdfb8da3a7ee69d51845e9bca5c71041/header.jpg?t=1781856317",
-      "url": "https://store.steampowered.com/app/4720600/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Without Sanctuary",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312080/5e6fc78c46a60600bb53d408b2d645d645584ed9/header.jpg?t=1781855646",
-      "url": "https://store.steampowered.com/app/4312080/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "My Friend\u2019s Girlfriend",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4151140/57deeb049d50c7f9ba5d6066d3dc9d14ca6af1d5/header.jpg?t=1781853439",
-      "url": "https://store.steampowered.com/app/4151140/",
+      "name": "Retronaut",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838920/d2c69c8c612c5f088d82b56248a0532fa0b08f66/header.jpg?t=1781930151",
+      "url": "https://store.steampowered.com/app/3838920/",
       "short_description": "",
       "final_price": 599
-    },
-    {
-      "name": "\u5c71\u4e0a\u90a3\u4e2a\u7334\u513f",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4625760/0608779230e805d50e954ac0b7877417d4cc54cb/header.jpg?t=1781852727",
-      "url": "https://store.steampowered.com/app/4625760/",
-      "short_description": "",
-      "final_price": 719
-    },
-    {
-      "name": "Fury Journey",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766950/4b133cfa674ffc0d905c607bc772dc188ff366bb/header.jpg?t=1781852605",
-      "url": "https://store.steampowered.com/app/4766950/",
-      "short_description": "",
-      "final_price": 449
-    },
-    {
-      "name": "Dusk City - Beacon of Tranquility",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603110/da7f6e065b2e0eade88409260507bfe4e2a01c4d/header.jpg?t=1781858429",
-      "url": "https://store.steampowered.com/app/4603110/",
-      "short_description": "",
-      "final_price": 1599
-    },
-    {
-      "name": "2026 U.S. Election Simulator",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808720/eee72a5944616d253ce3bb02905bdf20ef472c95/header.jpg?t=1781852425",
-      "url": "https://store.steampowered.com/app/4808720/",
-      "short_description": "",
-      "final_price": 1599
     }
   ]
 }
