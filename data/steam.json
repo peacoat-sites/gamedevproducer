@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-20",
+  "updated": "2026-06-21",
   "items": [
     {
-      "name": "PinballRobotDoctor",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794200/4b848634d897a6f9be587c3d60c43056826ab0a8/header.jpg?t=1781945465",
-      "url": "https://store.steampowered.com/app/4794200/",
+      "name": "Oleander-X",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4788930/dff61e4620974d2df3bfe59e5bb0523741e35955/header.jpg?t=1782024449",
+      "url": "https://store.steampowered.com/app/4788930/",
+      "short_description": "",
+      "final_price": 945000
+    },
+    {
+      "name": "The Unrealtor",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420050/327aeb8dda9dc24b4be5c13d7b5e0260b059d4cd/header.jpg?t=1782016680",
+      "url": "https://store.steampowered.com/app/4420050/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Sinner's Siesta",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4778750/a663badaa3c0c50bbcface58d0b1d1975554ee42/header.jpg?t=1781939421",
-      "url": "https://store.steampowered.com/app/4778750/",
+      "name": "\uad00\uc0c1",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766750/23ed6ff863f5be8f65fe880ef048a4b600cb8e20/header.jpg?t=1782015800",
+      "url": "https://store.steampowered.com/app/4766750/",
       "short_description": "",
-      "final_price": 1499
+      "final_price": 0
     },
     {
-      "name": "Zombie Wasteland Together",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4805240/53652c416d60bdfbc9e5e4d0a2d9df749c318c1b/header.jpg?t=1781939020",
-      "url": "https://store.steampowered.com/app/4805240/",
+      "name": "Alfons World",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3147560/header.jpg?t=1782012391",
+      "url": "https://store.steampowered.com/app/3147560/",
       "short_description": "",
-      "final_price": 49
+      "final_price": 450000
     },
     {
-      "name": "Company Rising",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4637330/70aa7a272feb9f3cab123b654668efdca4d713a3/header.jpg?t=1781928024",
-      "url": "https://store.steampowered.com/app/4637330/",
+      "name": "Wizzerd Quest 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907890/header.jpg?t=1782007436",
+      "url": "https://store.steampowered.com/app/2907890/",
       "short_description": "",
-      "final_price": 899
+      "final_price": 1056000
     },
     {
-      "name": "Summer Sisters",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4353630/6307babe17d6edda9984f12051b96903b47f74d4/header.jpg?t=1781928023",
-      "url": "https://store.steampowered.com/app/4353630/",
+      "name": "They See Me Rollin'",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766640/01e992f5fc1a6aa00b4dbc97dd9220cad097bd40/header.jpg?t=1781991637",
+      "url": "https://store.steampowered.com/app/4766640/",
       "short_description": "",
-      "final_price": 799
+      "final_price": 280000
     },
     {
-      "name": "Infinite Bread",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724900/0de3c187e4ace97751a66f31b37c963beb648925/header.jpg?t=1781936084",
-      "url": "https://store.steampowered.com/app/4724900/",
+      "name": "Definitely Not a Cult",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813940/95ad60a90050866cddca6c75d997f2c64c1c8bc5/header.jpg?t=1781990224",
+      "url": "https://store.steampowered.com/app/4813940/",
       "short_description": "",
-      "final_price": 524
+      "final_price": 630000
     },
     {
-      "name": "Poem of the Starherd",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975500/a66c58b998a5ae2a3365a8797eb1b159abceadc1/header.jpg?t=1781924410",
-      "url": "https://store.steampowered.com/app/3975500/",
+      "name": "Operation P.L.U.S.H",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597300/7035e7d3108209dec2e6aa865ec36d496b489009/header.jpg?t=1781987352",
+      "url": "https://store.steampowered.com/app/4597300/",
       "short_description": "",
-      "final_price": 1519
+      "final_price": 0
     },
     {
-      "name": "PX2: The Termination",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534470/0ca8911d8cb2f089e43b05552ff87c6baa82be9a/header.jpg?t=1781921905",
-      "url": "https://store.steampowered.com/app/4534470/",
+      "name": "Relax Puzzle",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689480/d04a8c14b7ae97c2021693cb3a146e73a730200a/header.jpg?t=1781967582",
+      "url": "https://store.steampowered.com/app/4689480/",
       "short_description": "",
-      "final_price": 499
+      "final_price": 463000
     },
     {
-      "name": "NTR Idol: D\u00e9j\u00e0 Vu",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4011180/760058e1d2370164f058d24d4334adc7635de257/header.jpg?t=1781922348",
-      "url": "https://store.steampowered.com/app/4011180/",
+      "name": "Reality Stability Office",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570300/69718a9321faad7cda89c3739e257b7a363f35ab/header.jpg?t=1781964427",
+      "url": "https://store.steampowered.com/app/4570300/",
       "short_description": "",
-      "final_price": 1349
+      "final_price": 655000
     },
     {
-      "name": "Hentai World Forest",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812510/c8fc27ccee1bf5f799daae4714a9929a6f2b868e/header.jpg?t=1781917112",
-      "url": "https://store.steampowered.com/app/4812510/",
+      "name": "\u6b63\u4f53 SHOUT-AI",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797550/6d3a0454709dd2754fd1c2462a9e7561ed316b9d/header.jpg?t=1781964328",
+      "url": "https://store.steampowered.com/app/4797550/",
       "short_description": "",
-      "final_price": 79
+      "final_price": 0
     },
     {
-      "name": "Snake Coil: Puzzle Adventure",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178360/4c3bcfb0c90d195b1ae7ea4a6cf2cbe12d9a2613/header.jpg?t=1781912597",
-      "url": "https://store.steampowered.com/app/4178360/",
+      "name": "Mob Marathon",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663220/76ca828d5a833903c9bf23356f489c1f5d7032f8/header.jpg?t=1781963457",
+      "url": "https://store.steampowered.com/app/4663220/",
       "short_description": "",
-      "final_price": 349
-    },
-    {
-      "name": "Retronaut",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3838920/d2c69c8c612c5f088d82b56248a0532fa0b08f66/header.jpg?t=1781930151",
-      "url": "https://store.steampowered.com/app/3838920/",
-      "short_description": "",
-      "final_price": 599
+      "final_price": 440000
     }
   ]
 }
