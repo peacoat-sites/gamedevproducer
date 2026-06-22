@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-21",
+  "updated": "2026-06-22",
   "items": [
     {
-      "name": "Oleander-X",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4788930/dff61e4620974d2df3bfe59e5bb0523741e35955/header.jpg?t=1782024449",
-      "url": "https://store.steampowered.com/app/4788930/",
+      "name": "Levitar 3D",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773430/4eb2b45d20c6fffa3fd292b446aa6f170892e7f0/header.jpg?t=1782129667",
+      "url": "https://store.steampowered.com/app/4773430/",
       "short_description": "",
-      "final_price": 945000
+      "final_price": 999
     },
     {
-      "name": "The Unrealtor",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4420050/327aeb8dda9dc24b4be5c13d7b5e0260b059d4cd/header.jpg?t=1782016680",
-      "url": "https://store.steampowered.com/app/4420050/",
+      "name": "Idle Chapel",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4102010/9bf6e7e7279073f1e189a4a6e55bf25fac0b5adb/header.jpg?t=1782129450",
+      "url": "https://store.steampowered.com/app/4102010/",
+      "short_description": "",
+      "final_price": 419
+    },
+    {
+      "name": "Upward",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4496690/072264d76d7d2e2ba6de949d7e2a0d8609762835/header.jpg?t=1782129408",
+      "url": "https://store.steampowered.com/app/4496690/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "\uad00\uc0c1",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766750/23ed6ff863f5be8f65fe880ef048a4b600cb8e20/header.jpg?t=1782015800",
-      "url": "https://store.steampowered.com/app/4766750/",
+      "name": "Cozy Cleaner",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742710/f3808a194d9650ab1394e373856784fcf151cdc8/header.jpg?t=1782126506",
+      "url": "https://store.steampowered.com/app/2742710/",
+      "short_description": "",
+      "final_price": 419
+    },
+    {
+      "name": "Off Gridders",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4196140/3b5430349912a82838f4345008150189c466e2c2/header.jpg?t=1782111572",
+      "url": "https://store.steampowered.com/app/4196140/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Alfons World",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3147560/header.jpg?t=1782012391",
-      "url": "https://store.steampowered.com/app/3147560/",
+      "name": "Agraria",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448700/90624c6e50bc5b7af769642ccc3f990723a3868a/header.jpg?t=1782100656",
+      "url": "https://store.steampowered.com/app/4448700/",
       "short_description": "",
-      "final_price": 450000
+      "final_price": 1169
     },
     {
-      "name": "Wizzerd Quest 2",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2907890/header.jpg?t=1782007436",
-      "url": "https://store.steampowered.com/app/2907890/",
+      "name": "Ramen Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3574020/db5df0e8c1f4fc5940613921f3feffd0d866c0db/header.jpg?t=1782095308",
+      "url": "https://store.steampowered.com/app/3574020/",
       "short_description": "",
-      "final_price": 1056000
+      "final_price": 479
     },
     {
-      "name": "They See Me Rollin'",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766640/01e992f5fc1a6aa00b4dbc97dd9220cad097bd40/header.jpg?t=1781991637",
-      "url": "https://store.steampowered.com/app/4766640/",
+      "name": "Immortal Cards",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4624530/eb21569c43f1115a73b5e60c65533cdf078d244b/header.jpg?t=1782090187",
+      "url": "https://store.steampowered.com/app/4624530/",
       "short_description": "",
-      "final_price": 280000
+      "final_price": 594
     },
     {
-      "name": "Definitely Not a Cult",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813940/95ad60a90050866cddca6c75d997f2c64c1c8bc5/header.jpg?t=1781990224",
-      "url": "https://store.steampowered.com/app/4813940/",
+      "name": "NONEWORLD",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3365680/164d1d0b9c5a5760411ae906aedc69c3168f767b/header.jpg?t=1782089901",
+      "url": "https://store.steampowered.com/app/3365680/",
       "short_description": "",
-      "final_price": 630000
+      "final_price": 809
     },
     {
-      "name": "Operation P.L.U.S.H",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4597300/7035e7d3108209dec2e6aa865ec36d496b489009/header.jpg?t=1781987352",
-      "url": "https://store.steampowered.com/app/4597300/",
+      "name": "Pitch & Pixel",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681270/61a34a3c105277b5143e4d313ea5b31266f27797/header.jpg?t=1782083761",
+      "url": "https://store.steampowered.com/app/4681270/",
+      "short_description": "",
+      "final_price": 1096
+    },
+    {
+      "name": "Spider Subway",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300360/2e85a4050dd6844b79e285fb7bbddc34b0b31b8f/header.jpg?t=1782087725",
+      "url": "https://store.steampowered.com/app/4300360/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Relax Puzzle",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4689480/d04a8c14b7ae97c2021693cb3a146e73a730200a/header.jpg?t=1781967582",
-      "url": "https://store.steampowered.com/app/4689480/",
+      "name": "Where Stones Sleep",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396340/7d10df6ac85029ffdd35bbfb0a99609faed6c261/header.jpg?t=1782080468",
+      "url": "https://store.steampowered.com/app/4396340/",
       "short_description": "",
-      "final_price": 463000
-    },
-    {
-      "name": "Reality Stability Office",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570300/69718a9321faad7cda89c3739e257b7a363f35ab/header.jpg?t=1781964427",
-      "url": "https://store.steampowered.com/app/4570300/",
-      "short_description": "",
-      "final_price": 655000
-    },
-    {
-      "name": "\u6b63\u4f53 SHOUT-AI",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797550/6d3a0454709dd2754fd1c2462a9e7561ed316b9d/header.jpg?t=1781964328",
-      "url": "https://store.steampowered.com/app/4797550/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Mob Marathon",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663220/76ca828d5a833903c9bf23356f489c1f5d7032f8/header.jpg?t=1781963457",
-      "url": "https://store.steampowered.com/app/4663220/",
-      "short_description": "",
-      "final_price": 440000
+      "final_price": 339
     }
   ]
 }
