@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-22",
+  "updated": "2026-06-23",
   "items": [
     {
-      "name": "Levitar 3D",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773430/4eb2b45d20c6fffa3fd292b446aa6f170892e7f0/header.jpg?t=1782129667",
-      "url": "https://store.steampowered.com/app/4773430/",
+      "name": "Cational Meographic",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4102350/095e7fc5b2aa5604e5426c49a5c3f755ffcb33ac/header.jpg?t=1782205215",
+      "url": "https://store.steampowered.com/app/4102350/",
       "short_description": "",
-      "final_price": 999
+      "final_price": 539
     },
     {
-      "name": "Idle Chapel",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4102010/9bf6e7e7279073f1e189a4a6e55bf25fac0b5adb/header.jpg?t=1782129450",
-      "url": "https://store.steampowered.com/app/4102010/",
+      "name": "Stamp Collector",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4610420/993a50959ceba9dfccf44a6161563d0776ad9511/header.jpg?t=1782205203",
+      "url": "https://store.steampowered.com/app/4610420/",
       "short_description": "",
-      "final_price": 419
+      "final_price": 374
     },
     {
-      "name": "Upward",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4496690/072264d76d7d2e2ba6de949d7e2a0d8609762835/header.jpg?t=1782129408",
-      "url": "https://store.steampowered.com/app/4496690/",
+      "name": "Notebook Workshop",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4537700/f782c910bf7925d7b5383672b2420d5e51c2e39c/header.jpg?t=1782208798",
+      "url": "https://store.steampowered.com/app/4537700/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 499
     },
     {
-      "name": "Cozy Cleaner",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742710/f3808a194d9650ab1394e373856784fcf151cdc8/header.jpg?t=1782126506",
-      "url": "https://store.steampowered.com/app/2742710/",
+      "name": "Daily Brew Idle: Milk Tea Tycoon",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790620/cc04408a993993133a670a4522be829178d1ccf1/header.jpg?t=1782204592",
+      "url": "https://store.steampowered.com/app/4790620/",
       "short_description": "",
-      "final_price": 419
+      "final_price": 90
     },
     {
-      "name": "Off Gridders",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4196140/3b5430349912a82838f4345008150189c466e2c2/header.jpg?t=1782111572",
-      "url": "https://store.steampowered.com/app/4196140/",
+      "name": "Busy Bar - World Tour",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743320/d05aa9e19ec38e192ddcf0ac940c3542b1e10069/header.jpg?t=1782202932",
+      "url": "https://store.steampowered.com/app/4743320/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 1199
     },
     {
-      "name": "Agraria",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4448700/90624c6e50bc5b7af769642ccc3f990723a3868a/header.jpg?t=1782100656",
-      "url": "https://store.steampowered.com/app/4448700/",
+      "name": "ZrOth",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512190/8a1cdf3e5909a914ba0bc72d98d86f8f9f9dfd6a/header.jpg?t=1782202603",
+      "url": "https://store.steampowered.com/app/4512190/",
       "short_description": "",
-      "final_price": 1169
+      "final_price": 299
     },
     {
-      "name": "Ramen Simulator",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3574020/db5df0e8c1f4fc5940613921f3feffd0d866c0db/header.jpg?t=1782095308",
-      "url": "https://store.steampowered.com/app/3574020/",
+      "name": "Sex Trainer's Diary: Hidden Kink",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4218020/816b06b3a3412e4036bc722c762fdd88330d8bef/header.jpg?t=1782201813",
+      "url": "https://store.steampowered.com/app/4218020/",
       "short_description": "",
-      "final_price": 479
+      "final_price": 1799
     },
     {
-      "name": "Immortal Cards",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4624530/eb21569c43f1115a73b5e60c65533cdf078d244b/header.jpg?t=1782090187",
-      "url": "https://store.steampowered.com/app/4624530/",
+      "name": "BOTMARE",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822500/c8f46655a67a3799eef47c768e159d0cbf643479/header.jpg?t=1782199829",
+      "url": "https://store.steampowered.com/app/4822500/",
       "short_description": "",
-      "final_price": 594
+      "final_price": 119
     },
     {
-      "name": "NONEWORLD",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3365680/164d1d0b9c5a5760411ae906aedc69c3168f767b/header.jpg?t=1782089901",
-      "url": "https://store.steampowered.com/app/3365680/",
-      "short_description": "",
-      "final_price": 809
-    },
-    {
-      "name": "Pitch & Pixel",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4681270/61a34a3c105277b5143e4d313ea5b31266f27797/header.jpg?t=1782083761",
-      "url": "https://store.steampowered.com/app/4681270/",
-      "short_description": "",
-      "final_price": 1096
-    },
-    {
-      "name": "Spider Subway",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300360/2e85a4050dd6844b79e285fb7bbddc34b0b31b8f/header.jpg?t=1782087725",
-      "url": "https://store.steampowered.com/app/4300360/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Where Stones Sleep",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396340/7d10df6ac85029ffdd35bbfb0a99609faed6c261/header.jpg?t=1782080468",
-      "url": "https://store.steampowered.com/app/4396340/",
+      "name": "Puzzle Art",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4516050/b18dfb55eb4c7ab8eb72fc9a0a0f4ca92f60c19a/header.jpg?t=1782198458",
+      "url": "https://store.steampowered.com/app/4516050/",
       "short_description": "",
       "final_price": 339
+    },
+    {
+      "name": "My Room Philosopher",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4789620/ca07984bfbd470855b93fd9bce4e6fc766e191d0/header.jpg?t=1782198133",
+      "url": "https://store.steampowered.com/app/4789620/",
+      "short_description": "",
+      "final_price": 209
+    },
+    {
+      "name": "Mendel Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787730/eae704a38bef7bf83bddabf47c9a9521ce377d31/header.jpg?t=1782198058",
+      "url": "https://store.steampowered.com/app/4787730/",
+      "short_description": "",
+      "final_price": 199
+    },
+    {
+      "name": "ETERNAL ROMANCE Complete Edition Plus",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354170/38e94d643ca4b0407ca68766c4c93ec07ec87c9b/header.jpg?t=1782198028",
+      "url": "https://store.steampowered.com/app/4354170/",
+      "short_description": "",
+      "final_price": 1709
     }
   ]
 }
