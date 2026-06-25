@@ -1,6 +1,7 @@
 ---
 quiz_page: true
 title: "Do You Have What It Takes to Be a Game Producer? (Quiz)"
+image: "https://images.pexels.com/photos/7849513/pexels-photo-7849513.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 description: "Take this fun 7-question quiz to find out if game producer is the right career fit for you. Test your instincts for organizing teams, shipping games, and herding chaos."
 slug: "do-you-have-what-it-takes-to-be-a-game-producer"
 date: 2026-05-27T10:00:00+00:00
