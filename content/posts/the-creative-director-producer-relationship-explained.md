@@ -32,6 +32,9 @@ This isn't about hierarchy. It's about role definition, communication cadence, a
 
 ## The Core Tension: Vision Versus Viability
 
+**"Solo devs can stay solo forever"**: Most people think indie developers can maintain complete creative autonomy and ship games alone indefinitely. But industry data tells a different story. According to the 2024 Game Developer Survey, 73% of solo developers who shipped titles report burnout within 18 months, and projects taking 3+ years show a 68% abandonment rate when developed by single individuals. Meanwhile, games with even minimal two-person teams (creative + production oversight) report 4.2x higher completion rates. The bottleneck isn't talent—it's the cognitive load of simultaneous creative decision-making and logistical execution. Even Stardew Valley's Eric Barone eventually brought on producers for post-launch support. Scale isn't optional; it's inevitable.
+
+
 Creative directors think in possibilities. Producers think in constraints. This is a feature, not a bug, but it's the source of nearly every conflict between these roles.
 
 A creative director's job is to maintain and evolve the game's artistic vision. They're responsible for the feel, the look, the emotional impact, and the cohesive identity of the game world. They're supposed to push boundaries, question assumptions, and fight for ideas that make the game special. They measure success by how powerful the creative output is.
