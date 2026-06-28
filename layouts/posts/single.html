@@ -148,11 +148,7 @@
 
   <aside class="sidebar">
 
-    {{ if templates.Exists "partials/toc.html" }}
-    {{ partial "toc.html" . }}
-    {{ end }}
-
-    <div class="widget">
+<div class="widget">
       <div class="widget-title">Related Articles</div>
       <ul class="widget-list">
         {{- $currentPermalink := .Permalink -}}
