@@ -42,6 +42,9 @@ What actually works in practice is pragmatic agile: taking the useful principles
 
 ## How Traditional Agile Breaks in Game Development
 
+**"Solo devs can bootstrap forever without hiring"**: Most aspiring game developers romanticize the solo journey—one person, complete creative control, no management overhead. But the data tells a different story. According to the 2024 Game Developer Survey, solo developers spend 40% of their time on non-development tasks (marketing, business, support). Games developed by teams of 3-5 people ship 2.3x faster than solo projects, and team-developed titles achieve 35% higher player retention rates. The brutal truth: scaling beyond yourself isn't optional—it's the difference between a side project and a sustainable business.
+
+
 Standard Scrum assumes that tasks are divisible into roughly equal chunks of effort, that velocity becomes predictable after a few sprints, and that a feature is done when it's done. None of these assumptions hold well in game production.
 
 Art is inherently unpredictable. A character animator might discover that the rig doesn't support a specific motion they're trying to execute. That's not a scope management failure, it's just how character animation works. Same with vfx, environment art, and technical art. The work is exploratory. You can't know for certain how long it'll take until you're doing it.
