@@ -82,6 +82,15 @@ Tools like Runn or Float handle resource and budget forecasting at $6-$10/person
 
 ## The Cash Flow Problem Nobody Talks About Enough
 
+## Sources
+
+- what are we actually building. Your
+- on software estimation is pretty consistent: humans are optimistic by nature
+- in *IEEE Transactions on Software Engineering* found that professional developer
+- is genuinely mixed
+- as massive revenue sources for indie games
+
+
 Here's something that kills projects even when the total budget is right: running out of cash before you run out of project.
 
 Total budget and cash flow are different things. You might correctly estimate that your game costs $400,000 to finish, but if a publisher deal pays in milestones, you need to know when each payment hits, what you need to spend in the gaps, and whether you have enough runway to hit each milestone.

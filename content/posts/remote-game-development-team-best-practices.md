@@ -80,6 +80,11 @@ For full remote studios or teams that can afford it, one in-person gathering per
 
 ## Getting onboarding right when there's no office to show someone around
 
+## Sources
+
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+
+
 Remote onboarding in game dev is almost universally bad. The new hire gets a stack of links and a Zoom call with HR, then they're supposed to figure out where everything is and who does what.
 
 Good remote onboarding has three components. First: a structured 30-day plan with explicit deliverables and check-ins, not just "get comfortable with the codebase." Second: a dedicated onboarding buddy who isn't their direct manager. Someone who's been on the team long enough to know where the bodies are buried but who isn't in an evaluative relationship with the new hire. Third: documented team agreements and context that actually exist. The culture doc, the communication norms, the unwritten rules made written.

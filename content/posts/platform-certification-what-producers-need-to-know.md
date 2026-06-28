@@ -87,6 +87,11 @@ Use a tool like Monday.com or Notion to build a pre-launch checklist that covers
 
 ## Comparing the Three Major Platform Cert Processes
 
+## Sources
+
+- [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk)
+
+
 | Platform | Document Name | Typical Review Time | Resubmission Wait | Portal |
 |---|---|---|---|---|
 | PlayStation (PS5/PS4) | TRC (Technical Requirements Checklist) | 2 to 4 weeks | 1 to 2 weeks | PlayStation Partners |

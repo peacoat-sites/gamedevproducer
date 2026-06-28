@@ -81,6 +81,14 @@ Notion works well for tracking this kind of capacity planning in a readable form
 
 ## When You're Already Behind
 
+## Sources
+
+- [Matheus Bertelli](https://www.pexels.com/@bertellifotografia)
+- actually shows when you track it
+- is consistent year over year
+- instead of optimism
+
+
 Around 60% of the way through development, most projects are measurably behind their original plan. This is basically normal. What's not normal is addressing it well.
 
 The three options are always: cut scope, add resources, or move the date. Adding resources is usually the worst option -- "Brooks's Law" (adding people to a late project makes it later) exists for a reason, and it's not just a software thing. Two months of onboarding and context-sharing, on a project that's already behind, is a bad trade.

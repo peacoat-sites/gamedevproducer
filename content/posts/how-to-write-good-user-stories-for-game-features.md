@@ -68,6 +68,15 @@ That's a story you can build, QA, and close. The vague version just generates me
 
 ## Splitting Stories Without Losing the Plot
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- The Player One
+- As a player, I want a death screen. This
+- persists across sessions
+- persists correctly after a hard close
+
+
 Vertical slicing gets preached constantly in agile circles, and it's correct, but in game development it requires a specific kind of discipline. You want each story to be shippable in isolation, but game systems don't always cooperate.
 
 The way I handle this: distinguish between a **feature story** (the full intended experience) and **slice stories** (the incremental builds toward it). The feature story lives in the backlog as the north star. The slice stories are what actually get pointed and scheduled. Your sprint board should be slice stories. Your product backlog should hold both.

@@ -92,6 +92,12 @@ Here's a practical sequence for the post-launch window, broken into phases:
 
 ## The Comparison: Studios That Keep Their Teams vs. Studios That Don't
 
+## Sources
+
+- [hitesh choudhary](https://www.pexels.com/@hiteshchoudhary)
+- Do I want to keep doing this here? The
+
+
 | Factor | Studios with low post-launch attrition | Studios with high post-launch attrition |
 |---|---|---|
 | Next project communication | Shared early, even if rough | Delayed until leadership is "certain" |

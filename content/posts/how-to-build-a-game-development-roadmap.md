@@ -76,6 +76,12 @@ For online learning, the Game Production Fundamentals course on Coursera (offere
 
 ## Living with uncertainty without lying to yourself
 
+## Sources
+
+- [Felicity Tai](https://www.pexels.com/@felicity-tai)
+- on this is genuinely mixed
+
+
 Your roadmap is a hypothesis. The moment you treat it as a commitment, it starts killing your project. This sounds obvious but the pressure comes from everywhere: publishers want dates, team members want clarity, you want to believe you know what you're doing. The answer isn't a more detailed roadmap. It's a more honest conversation about confidence levels.
 
 I started doing something a few years ago that I picked up from a producer at Double Fine: explicitly labeling each milestone with a confidence percentage. Not "the game ships in Q3 2026" but "we're targeting Q3 2026, currently 60% confident." That number forces a conversation. When it drops, something's wrong. When it rises, you've de-risked something real. It sounds soft but it's actually more rigorous than a clean date, because it acknowledges what you actually know.

@@ -93,6 +93,15 @@ Here's a step-by-step approach that works:
 
 ## Signs Your Pre-Production Scrum Is Actively Hurting You
 
+## Sources
+
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+- did we reduce uncertainty enough to make the next decision? This
+- did we hit our velocity target? For
+- before she can write a single user story
+- plus writing
+
+
 If you're unsure whether this applies to your current project, look for these signals:
 
 Your sprint board has more than 20% of tickets in "In Progress" at any given time, and they've been there for more than five days. Your team is spending significant time in backlog grooming sessions but nobody's confidence in the schedule has improved. The same creative questions keep coming up in retrospectives without resolution. Your velocity graph is erratic enough that it provides no forecasting value. And the tell that I've seen more than any other: your creative director or lead designer has quietly stopped engaging with the process because they feel like the board doesn't reflect what they're actually doing.

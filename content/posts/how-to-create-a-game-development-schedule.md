@@ -108,6 +108,12 @@ Reschedule early and visibly. The studios I've seen handle this best have a cult
 
 ## Pre-Production Is Where the Schedule Is Actually Won or Lost
 
+## Sources
+
+- on crunch and productivity is actually pretty clear here
+- to extrapolate your full production schedule
+
+
 Here's the thing most new producers don't realize: the time you invest in pre-production directly determines how accurate your production schedule can be. You can't schedule what you don't understand. If your core loop isn't locked, if you haven't prototyped your riskiest systems, if your art style isn't defined enough to estimate asset counts -- you're not scheduling production, you're scheduling hope.
 
 A good vertical slice solves this. Not a vertical slice as a demo for investors (though it can serve that purpose), but a vertical slice as a production reality check. One level, fully representative of all your art, design, and tech systems. Time how long it actually took. Use that data to extrapolate your full production schedule. This is the most accurate scheduling method I know for games, because it's based on real measured velocity rather than theoretical estimates.

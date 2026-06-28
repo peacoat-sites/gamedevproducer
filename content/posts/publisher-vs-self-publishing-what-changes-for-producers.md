@@ -85,6 +85,12 @@ One practical approach for self-publishing: treat your Steam Next Fest participa
 
 ## A Step-by-Step Look at Launch Planning Under Each Model
 
+## Sources
+
+- That's a change order conversation. Self
+- and their portfolio calendar
+
+
 Launch planning looks radically different depending on who's driving it.
 
 **Under a publisher deal:**

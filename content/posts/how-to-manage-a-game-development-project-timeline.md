@@ -94,6 +94,15 @@ Most of the time, cut scope and adjust the milestone. Then figure out why you fe
 
 ## Tools Worth Actually Using
 
+## Sources
+
+- [Notion](https://www.notion.so)
+- [Shortcut](https://shortcut.com)
+- [Hacknplan](https://hacknplan.com)
+- [Jira](https://www.atlassian.com/software/jira)
+- [Linear](https://linear.app)
+
+
 [Hacknplan](https://hacknplan.com) is built specifically for game development and has a free tier that'll serve most small teams. It's not the prettiest software, but its structure maps well to how game tasks actually work, which is more than you can say for most generic project tools.
 
 [Jira](https://www.atlassian.com/software/jira) (around $7.75 per user per month for small teams) is the industry standard at AAA scale for a reason. It's heavy, it has a learning curve, and it's overkill for a two-person indie team. But if you're aiming to ship a game with a team of five or more, or you're coming out of a studio background and already know it, the reporting and sprint planning tools are genuinely good.

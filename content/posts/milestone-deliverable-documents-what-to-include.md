@@ -116,6 +116,12 @@ A: One master document that you update for each milestone is fine for small team
 
 ## Closing Thoughts
 
+## Sources
+
+- in that alpha build we
+- all five main quests have dialogue recorded and implemented, all dialogue is subtitled in English and Spanish, and quest markers function correctly on the map. For
+
+
 A milestone deliverable document is one of the highest-leverage documents you'll write as a producer. It's the bridge between intention and reality. It prevents the week-before-shipping panic where someone suddenly asks, "Wait, we said we were shipping online co-op in this version, right?" and you have to argue about it instead of building it.
 
 The time you invest in writing a clear, detailed milestone document at the start of a milestone saves you ten times that in arguments, rework, and miscommunication later. It's not bureaucracy. It's clarity. And clarity is what keeps projects moving.

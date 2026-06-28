@@ -92,6 +92,11 @@ When you hit a real blocker between an engineering dependency and an art need, w
 
 ## Morale Is a Production Variable
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+
+
 Morale is a production variable. I want to say this directly because I've seen producers treat it as soft and schedule as real. A demoralized art team produces slower, iterates less boldly, and ships lower-quality work. A frustrated engineering team cuts corners on systems that will haunt you in QA. Both cost more schedule than the conflict that caused them.
 
 Mixed-discipline teams are particularly vulnerable to morale erosion because of attribution. When something breaks in-game, it can be hard to tell whether it's an art problem or an engineering problem, and both sides point at the other. Your job is to prevent the blame from landing on a discipline. It lands on a process.

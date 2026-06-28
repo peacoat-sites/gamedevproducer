@@ -79,6 +79,12 @@ Recognition works differently remote too. Nobody sees the 11 PM debugging sessio
 
 ## Step-by-Step: Setting Up a Remote Team Operating Rhythm
 
+## Sources
+
+- Work Most
+- Send a Slack Message and Hope Good
+
+
 1. **Map your time zones.** Plot every team member's location and identify your actual overlap window. Be honest about gaps.
 2. **Set a standup cadence.** Daily async video update or synchronous standup within the overlap window. Keep it under 15 minutes.
 3. **Define your async protocols.** Document expected response times by channel type (Slack DM vs. project channel vs. urgent blocker tag).

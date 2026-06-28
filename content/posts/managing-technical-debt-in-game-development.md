@@ -65,6 +65,13 @@ One more thing that's underused: the "stop adding to it" intervention. Sometimes
 
 ## Tools That Help
 
+## Sources
+
+- [Nemuel Sereti](https://www.pexels.com/@nemuel)
+- tools (built into Rider
+- in the editor plus SonarQube is a solid combination if you want automated flaggi
+
+
 For tracking, I'd recommend anything that lets you link debt tickets to the features they affect. Being able to see "this inventory system has four open debt items" before you spec new inventory features is genuinely useful. Jira's issue linking does this fine. So does Linear, which I prefer for smaller teams under 30 people because it's faster and less ceremonially heavy.
 
 For the engineering side, JetBrains' code analysis tools (built into Rider, which is what most Unity shops use) surface a lot of rot automatically. It's not a substitute for human judgment, but it catches things. For Unreal teams, the built-in code analysis in the editor plus SonarQube is a solid combination if you want automated flagging.

@@ -91,6 +91,13 @@ Specific tactics that actually move the needle:
 
 ## Tools That Help Producers Stay Ahead of It
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- everyone else is still working. 2
+- collection
+
+
 Burnout prevention is an operational problem, and operations have tooling.
 
 **Jira or Linear** for sprint tracking with actual workload visibility. Linear is faster and less cluttered for smaller teams.

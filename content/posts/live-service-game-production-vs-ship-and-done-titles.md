@@ -80,6 +80,11 @@ If you're looking to sharpen your thinking here, *Blood, Sweat, and Pixels* by J
 
 ## The Live Ops Reality Nobody Warns You About
 
+## Sources
+
+- in a premium game that tried to pivot toward live service to recover from a disa
+
+
 Even experienced producers underestimate how different live operations feel from development. In development, you're building toward something. In live ops, you're maintaining a relationship with a player base that has expectations, frustrations, and opinions they'll express loudly and publicly.
 
 Community trust is your most important asset in live service. When *No Man's Sky* launched in 2016, it was a case study in a premium game that tried to pivot toward live service to recover from a disastrous launch. It worked, but only because Hello Games committed to years of free updates and relentless transparency. Most studios don't have that kind of runway or resilience.

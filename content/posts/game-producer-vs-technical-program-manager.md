@@ -97,6 +97,12 @@ When both roles exist, clarity of ownership is everything.
 
 ## Tools That Make Both Roles More Effective
 
+## Sources
+
+- [Luis Sevilla](https://www.pexels.com/@luis-sevilla-252657)
+- that producers are already capturing
+
+
 The right toolset genuinely matters, and it differs slightly by role.
 
 For **project management and tracking**, **Jira** remains the industry default for engineering-heavy workflows. **Hansoft** is still widely used in larger AAA studios for its Gantt and agile hybrid capabilities. **Shortcut** (formerly Clubhouse) is gaining ground at mid-size studios that want something lighter. For dependency mapping specifically, **TeamGantt** or a well-maintained **Miro** board can surface cross-team risk in ways that a flat Jira board can't.

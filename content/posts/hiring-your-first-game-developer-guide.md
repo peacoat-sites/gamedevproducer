@@ -100,6 +100,12 @@ References still matter. Ask for two people they shipped something with, not man
 
 ## What to Actually Pay
 
+## Sources
+
+- [jobs board](https://itch.io/jobs)
+- [Zayed Hossain](https://www.pexels.com/@zayed-hossain-52728970)
+
+
 This is the section most guides skip because it's awkward. Don't be awkward. Money is information.
 
 Contractor rates for game developers in the US in 2024 vary a lot. A junior Unity programmer with one shipped title runs $35-55/hour. A mid-level engineer with 3-5 years and solid portfolio sits at $65-100/hour. Senior generalists who know your stack deeply hit $120-150/hour or higher. Those numbers drop for people outside major metros and outside the US.

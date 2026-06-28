@@ -103,6 +103,12 @@ These questions do two things. They get you real information about whether you a
 
 ## Tools and Resources Worth Having in Your Corner
 
+## Sources
+
+- [Vitaly Gariev](https://www.pexels.com/@silverkblack)
+- What does success look like in this role at six months? These
+
+
 If you're actively interviewing or want to get sharper before you do, a few resources are worth your time.
 
 For project management practice: **HacknPlan** has a free tier that's genuinely good for solo or small projects. **Notion** paired with a basic sprint template will cover you for most indie and mid-size studio workflows.

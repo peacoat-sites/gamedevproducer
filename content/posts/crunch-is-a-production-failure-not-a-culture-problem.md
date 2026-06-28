@@ -88,6 +88,14 @@ If you're a producer reading this because you're in the middle of a crunch cycle
 
 ## The Business Case for Fixing the System
 
+## Sources
+
+- [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818)
+- backs this up
+- by the International Game Developers Association found that 42% of developers re
+- as the "heroic programming trap
+
+
 Studios sometimes treat crunch as a cost-free buffer, extra hours the team absorbs when planning falls short. This calculation ignores the real costs.
 
 Turnover is expensive. Replacing a mid-level programmer costs an estimated $15,000 to $25,000 when you account for recruiting, onboarding, and lost productivity during ramp-up. Senior engineers can cost twice that or more. If a studio crunches a team of 20 through a brutal six-month final push and loses four people post-ship, which is conservative based on industry patterns, that's $60,000 to $100,000 in replacement costs before the next project starts.

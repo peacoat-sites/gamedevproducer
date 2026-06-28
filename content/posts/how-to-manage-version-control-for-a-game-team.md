@@ -81,6 +81,12 @@ Also, commit often. Small commits are much easier to revert selectively than hug
 
 ## Integrating Version Control Into Your Production Process
 
+## Sources
+
+- [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
+- what did we actually do. Automate
+
+
 Version control doesn't exist in isolation. The best teams I've worked with treat their repo history as part of the production record. Commits reference task IDs from their project management tool. GitHub and Jira integrate directly. Linear does too. When a task closes, you can see exactly what changed. That's useful for postmortems, for QA, and for onboarding new team members who need to understand what happened.
 
 If you're using Codecks (honestly one of the better tools for indie game producers, starting around $5/user/month), the GitHub integration links commits to cards automatically. Small thing, but it closes the loop between "what did we plan to do" and "what did we actually do."

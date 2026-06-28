@@ -87,6 +87,12 @@ Jira's built-in automation (under Project Settings > Automation) handles all of 
 
 ## The one thing most teams get wrong about Jira and game dev
 
+## Sources
+
+- [Jorge David Arley Campos](https://www.pexels.com/@jorge-david-arley-campos-3570916)
+- structure is wrong
+
+
 Here's the take that might push back against you: Jira is not great for tracking creative work at the concept stage, and trying to force it to be is where most game teams lose trust in their tooling.
 
 Pre-production doesn't fit sprints. Concept art direction, narrative exploration, prototype iteration, those things are messy and non-linear. If you put a concept artist's exploration work into a sprint board, they'll either game the ticket system or stop using it, and either outcome is bad.

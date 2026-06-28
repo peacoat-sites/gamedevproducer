@@ -79,6 +79,12 @@ The risk column is honest. The showrunner model concentrates responsibility aggr
 
 ## Hiring and Developing Showrunners
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- one person who gets the credit and the blame. This
+
+
 This is where most studios stall out. There's no pipeline for this role because it didn't exist in games until recently. You're not going to post a job listing and find 40 qualified candidates.
 
 The people who thrive in this role came up as producers with genuine creative instincts, or as designers who developed strong production discipline. Neither path is automatic. The creative-to-showrunner pipeline requires the person to actually care about schedules and tradeoffs. The producer-to-showrunner pipeline requires them to develop real creative confidence, not just deference to designers.

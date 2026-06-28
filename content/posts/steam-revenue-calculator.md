@@ -39,6 +39,11 @@ The scenarios table above uses round numbers intentionally, so you can gut-check
 
 ## Planning Your Studio Budget
 
+## Sources
+
+- from developers who publish their revenue breakdowns suggests DLC adds **10–20%*
+
+
 A common rookie mistake: project "best case" revenue, sign a lease on an office, hire a team of eight, and then discover your actual sales were 15% of the estimate. A more durable approach is to model three scenarios: pessimistic at 20% of estimate, realistic at 60%, optimistic at 100%. Make sure the studio can survive the pessimistic case. This calculator's output is your optimistic upper bound. Plan for less.
 
 Revenue estimation is one input into a broader financial model. Factor in development costs, marketing spend, QA, localization, and porting before treating a revenue number as profit. For most indie games, the real margin after all costs sits between 20–40% of developer net. Sometimes it's much less on a first project.

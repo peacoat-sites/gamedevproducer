@@ -70,6 +70,12 @@ Build a formal swap protocol. New work in means old work out, with the same poin
 
 ## Books and Courses That Actually Help
 
+## Sources
+
+- here is mixed on exactly how much creative variance adds to schedule overrun
+- stays accurate
+
+
 *Agile Game Development* by Clinton Keith is the closest thing the industry has to a canonical reference. Keith worked at Pandemic Studios and writes with actual production credibility.
 
 For broader production fundamentals, the Game Production Masterclass on Udemy by Mighty Studios covers sprint workflows for small-to-mid teams at a price point that won't feel wasted.

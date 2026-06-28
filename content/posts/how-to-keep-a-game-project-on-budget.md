@@ -78,6 +78,12 @@ If you're working with contractors, get weekly timesheets. Not monthly, weekly. 
 
 ## When You're Already Over Budget
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- hours in real time and then reconcile at invoice time
+
+
 Sometimes you follow all the rules and you're still running over. The studio that was supposed to deliver your audio middleware goes dark. A key contractor has a medical emergency. The engine update you needed for platform compliance introduced a bug that took three weeks to solve. This happens.
 
 The worst thing you can do is quietly hope the project absorbs it. It won't. The second worst thing is making a bunch of small cuts that don't actually save much money but do damage team morale and product quality.

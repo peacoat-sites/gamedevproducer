@@ -69,6 +69,12 @@ The tools I actually recommend for this: Google Sheets for your financial model 
 
 ## The Question Founders Avoid: What's Your Exit Hypothesis?
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- how do I survive long enough to finish one? Those
+
+
 This sounds like startup-speak, but stay with me. You need a theory for how this eventually works out, even if you update it every six months.
 
 Are you building a studio to ship one passion project and then see what happens? Building toward acquisition? Trying to grow into a mid-size studio with 20+ staff? Each of those has different implications for how you structure ownership, whether you take investment, and how you price your deals.

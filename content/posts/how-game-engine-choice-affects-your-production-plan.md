@@ -95,6 +95,11 @@ If you've felt doubt about whether engine-level decisions are even your domain a
 
 ## Switching Engines Mid-Production: When It Happens and What It Costs
 
+## Sources
+
+- [Daniil Komov](https://www.pexels.com/@dkomov)
+
+
 It happens more than anyone admits. A studio starts prototyping in Unity, decides Unreal better serves the visual fidelity goals, and begins a migration six months in. Or a team halfway through production discovers their chosen engine can't hit performance targets on the primary platform. Or an engine's licensing terms change and the business case evaporates.
 
 Engine migrations mid-production aren't automatically fatal, but they're expensive in specific, calculable ways:

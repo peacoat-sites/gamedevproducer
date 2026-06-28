@@ -92,6 +92,14 @@ Healthcare and PTO aren't glamorous. But a job with $105,000 salary and excellen
 
 ## How to Research Your Specific Number
 
+## Sources
+
+- [Aukid phumsirichat](https://www.pexels.com/@aukid-phumsirichat-3095759)
+- I've reviewed
+- Your Specific Number
+- publishes data periodically and is specific to games
+
+
 Don't guess. Use actual tools.
 
 Levels.fyi has started covering game companies more seriously in the last two years, though it's still stronger for tech than games. Glassdoor is inconsistent but sometimes useful for specific company bands. The IGDA Salary Survey publishes data periodically and is specific to games, though sample sizes are smaller. LinkedIn Salary has improved.

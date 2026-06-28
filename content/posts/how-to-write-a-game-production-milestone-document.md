@@ -78,6 +78,15 @@ I'll be honest: these definitions are contested. "Alpha" especially means radica
 
 ## Tools That Make This Easier
 
+## Sources
+
+- [Notion](https://www.notion.so/)
+- [Confluence](https://www.atlassian.com/software/confluence)
+- [Jira](https://www.atlassian.com/software/jira)
+- [Udemy](https://www.udemy.com/)
+- [GDC Vault](https://gdcvault.com/)
+
+
 You don't need specialized software to write a good milestone document, but certain tools make it significantly faster and more collaborative. [Notion](https://www.notion.so/) is excellent for this because it lets you embed tables, link to sprint boards, and comment inline without losing version history. If you're already in Atlassian's ecosystem, [Confluence](https://www.atlassian.com/software/confluence) paired with [Jira](https://www.atlassian.com/software/jira) epics gives you traceability from milestone criteria down to individual tickets.
 
 For deeper grounding, Heather Maxwell Chandler's *The Game Production Handbook* remains genuinely practical for milestone planning in a publisher context. If you prefer applied learning, Jason Schreiber's Game Production course on [Udemy](https://www.udemy.com/) or the production-focused sessions on [GDC Vault](https://gdcvault.com/) (many are free) show real examples from shipped projects. For tracking your own work and milestone prep, [Todoist](https://todoist.com/) or [Linear](https://linear.app/) handle personal production task management without the overhead of enterprise tools.

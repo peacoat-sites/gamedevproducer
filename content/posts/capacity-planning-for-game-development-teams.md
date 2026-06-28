@@ -68,6 +68,11 @@ Build a simple capacity map broken down by discipline. Spreadsheet, Notion table
 
 ## The Invisible Capacity Drain: Lead Time
 
+## Sources
+
+- on knowledge worker productivity suggests that three to five hours of deep focus
+
+
 One thing that rarely shows up in capacity models is lead time for decisions. If an art director needs to approve an asset before a junior artist can proceed, and that approval takes two days, you've lost two days of capacity that never gets counted anywhere. Multiply this across a team over six months of production.
 
 Map your decision dependencies the same way you map task dependencies. Know who the bottlenecks are before the sprint starts, not after.

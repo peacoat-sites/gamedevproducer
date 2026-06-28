@@ -88,6 +88,12 @@ A weekly optional "show and tell" where anyone can share something they're excit
 
 ## Tools Comparison: Core Stack for Remote Game Dev Teams
 
+## Sources
+
+- [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
+- research from University of California Irvine on workplace interruptions
+
+
 | Need | Budget Option | Mid-Tier | Enterprise/Large Team |
 |---|---|---|---|
 | Task Tracking | Trello | ClickUp / Linear | Jira |

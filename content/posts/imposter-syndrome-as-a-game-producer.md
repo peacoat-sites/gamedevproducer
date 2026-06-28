@@ -86,6 +86,13 @@ On the tools side: Notion or Confluence for building your own production knowled
 
 ## Talking About It Without Torpedoing Your Credibility
 
+## Sources
+
+- [Alena Darmel](https://www.pexels.com/@a-darmel)
+- by the International Game Developers Association found that over 60% of game dev
+- gives you objective feedback
+
+
 Here's where a lot of producers freeze. They know they're struggling with imposter syndrome, but they're terrified that naming it will confirm everyone's suspicions that they're not up to the job. This fear is usually backwards.
 
 Producers who express calibrated uncertainty, "I want to make sure I'm making the right call here, let me talk through my reasoning," are often trusted more than those who perform certainty they don't have. The key word is calibrated. There's a difference between "I don't know if I can handle this" (which signals a confidence problem) and "Here's my current read and here are the assumptions I'm working with" (which signals a thinking process).

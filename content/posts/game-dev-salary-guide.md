@@ -71,6 +71,11 @@ If you're in a high cost-of-living area and the job is fully remote, that's alre
 
 ### Question: What's the salary jump from senior to lead?
 
+## Sources
+
+- across the GDC State of the Industry Survey
+
+
 Lead titles vary widely, but assume 15–25% more than a senior IC at the same studio and location. Lead roles carry overhead (mentorship, planning, hiring) that justifies the bump. The jump's steeper at larger studios, where leadership tier is more formalized.
 
 *Photo: GDC State of the Industry Survey, 2024*

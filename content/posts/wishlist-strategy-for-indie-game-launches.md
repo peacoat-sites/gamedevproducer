@@ -65,6 +65,14 @@ Use a tool like GameAnalytics for post-launch tracking, and set up UTM parameter
 
 ### FAQ
 
+## Sources
+
+- [Arjunn. la](https://www.pexels.com/@arjunn-la-1561931)
+- on exact decay rates is mixed
+- drops to 4-5% conversion on lists aged past 18 months versus 20-30%+ on lists bu
+- on your audience
+
+
 #### How many wishlists do I need for a successful indie launch?
 
 There's no magic number, but a commonly cited benchmark is 7,000-10,000 wishlists for a breakeven launch at a $10-15 price point, assuming a 10-15% conversion rate. The more important question is how recently you built them.

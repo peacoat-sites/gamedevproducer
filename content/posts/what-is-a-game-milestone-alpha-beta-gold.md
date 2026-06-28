@@ -106,6 +106,14 @@ Skipping or rushing any of these steps is how you end up with a botched launch t
 
 ## How to Keep Your Team Aligned on Milestones
 
+## Sources
+
+- [Jira](https://www.atlassian.com/software/jira)
+- [Hack n Plan](https://hacknplan.com/)
+- [Notion](https://www.notion.so/)
+- [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818)
+
+
 Definitions alone aren't enough. You need process structures that make everyone operate from the same understanding.
 
 **Write an exit criteria document for each milestone.** This is a one-to-two page document that lists specific, binary conditions that must be true for a milestone to be accepted. Not "game feels fun" (not binary). Instead: "All P1 and P2 bugs are closed," "All 14 levels are authored and playable start to finish," "Frame rate holds 30fps minimum on target low-spec hardware." If a condition is met, check it off. If it's not, you haven't hit the milestone.

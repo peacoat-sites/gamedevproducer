@@ -68,6 +68,15 @@ One thing I've seen go sideways: teams who add analytics right before launch and
 
 ## Reading the data without lying to yourself
 
+## Sources
+
+- [Rajat Yadav](https://www.pexels.com/@rajat-yadav-441811506)
+- is going to save you
+- flowing within a couple of hours
+- immediately
+- for two weeks
+
+
 Data can be comfortable. You can look at your average session length and feel good about it while completely missing the fact that a tiny percentage of power users are inflating the number and most players are bailing in under two minutes.
 
 Segment your players. New users vs. returning users. Platform splits if you're on multiple platforms. Paid vs. organic acquisition if you're running ads. GameAnalytics does basic segmentation automatically. Amplitude makes it easy to build custom segments. The point is: aggregate numbers hide things. Medians are often more honest than averages.

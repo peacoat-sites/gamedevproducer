@@ -66,6 +66,11 @@ That last row matters. Individual contributors in game dev are usually better se
 
 ## Tools That Help OKRs Actually Land
 
+## Sources
+
+- teams tracking pipeline reliability
+
+
 If you're running OKRs seriously, get them out of spreadsheets. **Lattice**, **Notion** (with a proper OKR template), or **Ally.io** (now part of Microsoft Viva) let you create visible, linked OKRs across the organization. For smaller studios, a well-structured Notion workspace or **ClickUp** goal-tracking feature is usually enough.
 
 For learning the framework, **"Measure What Matters" by John Doerr** is the source text, but read it critically with game dev in mind. **"Radical Focus" by Christina Wodtke** is shorter and more practical. For broader production context, **"The Game Production Handbook" by Heather Maxwell Chandler** gives you the game-specific grounding that business OKR resources skip entirely.

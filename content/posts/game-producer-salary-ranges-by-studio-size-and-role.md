@@ -99,6 +99,13 @@ Knowing the numbers matters less than knowing how to use them.
 
 ## Tools That Help You Track and Grow Your Value
 
+## Sources
+
+- [Notion](https://www.notion.so)
+- [Linear](https://linear.app)
+- almost uncomfortably public
+
+
 Staying on top of compensation trends is easier when you're tracking your own output clearly.
 
 **Project management tools:** If your studio doesn't mandate one, use [Notion](https://www.notion.so) or [Linear](https://linear.app) to keep your own production records. Documented wins are negotiating leverage.

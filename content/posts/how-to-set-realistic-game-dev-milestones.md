@@ -93,6 +93,11 @@ For tracking these, Jira's roadmap view works for larger teams. For indie teams 
 
 ## Communicating Milestones to Stakeholders and Publishers
 
+## Sources
+
+- backs this up
+
+
 This is for anyone with external stakeholders. If you're fully self-funded and solo, skim it. But if you have a publisher, investors, a platform partner, or an active community, how you communicate milestones matters almost as much as setting them.
 
 Publishers expect milestone deliverables to match contractual definitions agreed at deal signing. If your internal milestones don't match those contract definitions, you have two different schedules running, and that's a problem. Align them early.

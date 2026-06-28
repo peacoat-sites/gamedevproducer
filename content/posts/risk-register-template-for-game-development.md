@@ -97,6 +97,11 @@ Don't let the register bloat forever. If you're adding risks but never closing t
 
 ## Tools That Actually Help
 
+## Sources
+
+- [Kampus Production](https://www.pexels.com/@kampus)
+
+
 For the register itself, **Notion** with a filtered database view is my recommendation for indie and mid-size teams. You can link risks directly to sprint tasks, which creates useful traceability. **Airtable** works similarly. For teams already inside Jira, the Confluence marketplace has risk register templates that integrate cleanly.
 
 If you want to go deeper on the production methodology behind all of this, Heather Maxwell Chandler's *The Game Production Toolbox* is the most practical book I've found on applied production methods for games specifically. For online learning, the Game Production certificate programs through Coursera's industry partners and the IGDA Foundation have solid modules on risk management. Clinton Keith's *Agile Game Development* also covers risk framing in a way that's actually adapted for creative iteration cycles, not just software engineering contexts.

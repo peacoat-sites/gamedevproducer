@@ -98,6 +98,12 @@ Fill out every metadata field Valve gives you: developer name, publisher, releas
 
 ## When to Launch Your Steam Page (And What to Do After)
 
+## Sources
+
+- [Matheus Bertelli](https://www.pexels.com/@bertellifotografia)
+- field Valve gives you: developer name
+
+
 Earlier than you think. Steam pages accumulate wishlists over time, and Valve's algorithm rewards sustained momentum, not just a launch spike. If your game is 12 months from release, your page should be up now. If it's 6 months out, your page should have been up 6 months ago.
 
 Next Fest is where this gets real. Steam Next Fest (runs a few times per year) is one of the most effective wishlist-building events for indie developers. To participate, you need a public Steam page and a demo. Work backward from the fest date: when does your page need to go live to build baseline visibility, and when does your demo need to be ready? Developers who treat Next Fest casually and show up with a rough demo and 200 existing wishlists get a moderate bump. Developers who arrive with a polished demo and 2,000+ wishlists beforehand often leave with 10,000 to 30,000 more.

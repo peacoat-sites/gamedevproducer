@@ -91,6 +91,12 @@ Whether you're moving from Scrum to Kanban or the reverse, the transition itself
 
 ## Tools That Actually Help Game Producers Here
 
+## Sources
+
+- [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova)
+- that helps with forecasting
+
+
 The framework you choose should drive tool selection, not the other way around.
 
 For Scrum-heavy teams, **Jira** remains the industry default despite its overhead. Sprint planning, velocity charts, and backlog grooming views are hard to beat at scale. If Jira feels like overkill, **Shortcut** (formerly Clubhouse) hits a sweet spot for teams of ten to thirty with less configuration burden.

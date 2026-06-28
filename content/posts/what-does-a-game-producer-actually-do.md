@@ -115,6 +115,12 @@ A traditional project manager in construction or software can work from a well-d
 
 ## How Producers Work With the Rest of the Leadership Team
 
+## Sources
+
+- [Anna Pou](https://www.pexels.com/@anna-pou)
+- to studio head
+
+
 A producer who thinks they're in charge of everything is a liability. The job is to enable the people who actually own their domains.
 
 The game director or creative director owns the vision. The producer's job is to protect the time and resources needed to execute that vision while making sure the vision stays executable. When a creative director wants to rebuild the hub world six months before launch, the producer isn't there to say no. They're there to say "here's what that costs in time, scope, and team energy, and here are three ways we could approach it." The creative director makes the call. The producer makes the options visible.

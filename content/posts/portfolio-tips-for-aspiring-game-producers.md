@@ -62,6 +62,12 @@ One thing I'd cut: elaborate interactive portfolio websites unless you're genuin
 
 ## The Networking Layer You Can't Skip
 
+## Sources
+
+- [Pew Nguyen](https://www.pexels.com/@nguyendesigner)
+- helping. A
+
+
 Your portfolio doesn't get evaluated in a vacuum. It lands in someone's inbox, or it gets pulled up because someone you met at a conference remembered your name and searched for you. The production track is smaller than people think, and most mid-level and senior roles in studios don't get posted publicly at all.
 
 Start showing up where producers talk. The Game Developers Conference is obvious, but it's also expensive. The hallway conversations at smaller regional events like Midwest GameFest or local IGDA chapter meetups are often more accessible and more useful. Discord communities matter too, specifically ones organized around game dev: the Game Dev League server is active, and the Indie Game Developers server has a production-specific channel worth lurking in.

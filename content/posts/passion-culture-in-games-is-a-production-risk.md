@@ -107,6 +107,12 @@ Four or more checks? You're operating on passion culture. The production plan is
 
 ## What Sustainable Studios Do Differently
 
+## Sources
+
+- [Kanban approaches to game development](https://www.gameproducerhq.com/kanban-vs-scrum-for-game-development-which-to-use/)
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+
+
 Companies like Supergiant Games, Annapurna Interactive, and some internal teams at larger studios have cracked this. They're not less ambitious. They're more disciplined about planning.
 
 **They estimate generously.** When a task is estimated at 2 weeks, they schedule 2.5 weeks for it. Buffers are built in, not hidden. People know the plan has breathing room.

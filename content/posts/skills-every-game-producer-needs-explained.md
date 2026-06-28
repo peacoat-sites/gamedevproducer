@@ -84,6 +84,12 @@ The floor is lower than you think, but it does require consistent effort. Read t
 
 ## Knowing What You Actually Manage
 
+## Sources
+
+- [Yan Krukau](https://www.pexels.com/@yankrukov)
+- that makes you materially better at your job
+
+
 Here's something that took me longer than I'd like to admit to internalize: producers manage information, decisions, and dependencies. Not people, technically. The leads manage people.
 
 That distinction matters because it changes what you optimize for. You're trying to make sure the right people have the right information at the right time. You're trying to make sure decisions get made (and recorded) instead of lingering. You're trying to spot when one team is waiting on another and close that loop before it becomes a blocker.

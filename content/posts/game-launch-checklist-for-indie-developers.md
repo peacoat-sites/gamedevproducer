@@ -119,6 +119,12 @@ For social scheduling, **Buffer** is the practical choice -- affordable, handles
 
 ## Post-Launch: The 72-Hour Window That Defines Everything
 
+## Sources
+
+- here is messy and depends heavily on genre
+- shows: your short description and first screenshot do most of the work
+
+
 Most developers take a breath after launch and step back. This is backwards. The first 72 hours matter more than any single day before it.
 
 Platform algorithms (Steam especially) are watching your initial sales velocity, your review score, your wishlist conversion rate, and your refund rate. All in real-time. This determines whether the algorithm starts promoting you.

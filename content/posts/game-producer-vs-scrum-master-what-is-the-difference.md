@@ -113,6 +113,15 @@ If you have both a Producer and a Scrum Master on the same team, here's what act
 
 ## Recommended Tools for Producers and Scrum Masters
 
+## Sources
+
+- [Yan Krukau](https://www.pexels.com/@yankrukov)
+- Studio Head
+- actually become action items
+- gets communicated outside the team
+- as production data
+
+
 Whether you're a Producer, a Scrum Master, or doing both, the right toolset matters.
 
 **Project Management Software:**

@@ -90,6 +90,12 @@ Jason Schreier's "Blood, Sweat, and Pixels" is worth reading here. It's $15 on K
 
 ## The Tools Question (Because It Comes Up Every Time)
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- drives rapid iteration
+
+
 Your method choice determines which tools actually help.
 
 Leaning agile with sprints? Jira is the industry standard (free for small teams, then $7.75 per user per month for cloud), Linear has a cleaner interface and better developer experience ($8 per user per month), or Hacknplan was designed specifically for games so it's worth trying first.

@@ -76,6 +76,14 @@ Tools like Clockify or Toggl can help teams track actual hours worked without ma
 
 ## Late-Stage Crunch: When It's Already Happening
 
+## Sources
+
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+- from scratch
+- from your early sprints is genuinely useful
+- behind this
+
+
 Sometimes you're reading this after you're already in it. Fair.
 
 If you're in active crunch, start by triaging honestly. Not optimistically. Make a list of everything that has to be in the build versus everything that would be nice to have, and be ruthless about the second category. A feature nobody plays is not worth someone's health.

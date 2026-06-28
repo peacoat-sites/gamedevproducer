@@ -70,6 +70,11 @@ Here's the thing I'd push back on that most production guides won't say directly
 
 ## The Milestone Review Itself
 
+## Sources
+
+- [FOX ^.ᆽ.^= ∫](https://www.pexels.com/@fox-58267)
+
+
 Define who's in the room and what authority they have before the milestone date. It sounds procedural and it is. But it saves enormous pain.
 
 The milestone review should answer exactly one question: did we answer the prototype question? It's not a design critique session. It's not a pitch. If someone in the review wants to redirect the core mechanic, that's a separate meeting, and you should politely say so out loud in the moment.

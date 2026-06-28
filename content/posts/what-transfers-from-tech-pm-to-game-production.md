@@ -74,6 +74,11 @@ For online learning, **LinkedIn Learning's Game Production Fundamentals** course
 
 ## Your Risk Management Instincts Need Recalibration
 
+## Sources
+
+- [Alena Darmel](https://www.pexels.com/@a-darmel)
+
+
 Risk registers work in games. Risk tolerance is different. In enterprise software, a two-week slip might mean a missed quarterly metric. In games, a two-week slip to your submission date might mean missing a major platform promotional window worth hundreds of thousands of dollars in visibility. Or it might mean nothing, because your launch date had three weeks of buffer and you knew it.
 
 The contextual stakes in game production are wildly variable depending on whether you're indie, AA, or AAA, whether you have a publisher, and whether you have a platform deal. Get clear on the actual cost of delay as early as possible. Don't assume a schedule has the same meaning it did in your previous job.

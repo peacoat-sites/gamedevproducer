@@ -96,6 +96,15 @@ The group session becomes a lot more functional when it isn't doing the job it w
 
 ## Building Feedback Resilience Into Your Team Culture
 
+## Sources
+
+- [Notion](https://www.notion.so/)
+- [Confluence](https://www.atlassian.com/software/confluence)
+- [Milanote](https://milanote.com/)
+- [TeamRetro](https://www.teamretro.com/)
+- [Ben Khatry](https://www.pexels.com/@ben-khatry-430197437)
+
+
 Morale isn't just about how feedback is delivered. It's about whether the team believes the feedback is worth engaging with at all. If revisions feel arbitrary, if direction changes constantly, if nobody ever explains why a decision was made, people stop investing in getting things right. They start working to avoid criticism rather than achieve something.
 
 A few things that make a real difference over time:

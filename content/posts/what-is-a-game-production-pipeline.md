@@ -60,6 +60,12 @@ QA is not a phase. It's a pipeline that runs parallel to everything else. The te
 
 ## Tools and resources worth knowing
 
+## Sources
+
+- [Adonis Arias](https://www.pexels.com/@adonisariass)
+- collection
+
+
 If you're a producer trying to understand the pipeline more deeply, or build one from scratch, a few things genuinely helped me.
 
 Jira (starts around $8.15 per user/month for small teams) is the industry standard at mid-to-large studios and for good reason. It's flexible enough to model almost any workflow. The downside is the setup overhead. For a team under ten people, it can feel like overkill.

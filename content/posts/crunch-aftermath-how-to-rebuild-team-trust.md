@@ -82,6 +82,12 @@ For producers who want a framework, **The Game Production Handbook** (Heather Ma
 
 ## What Leadership Usually Gets Wrong
 
+## Sources
+
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+- functionality built for teams under stress
+
+
 Leadership often conflates transparency with vulnerability in a way that backfires. There's a version of "we're being honest with you" that's actually just dumping anxiety onto the team. "We're not sure if the studio is profitable" is not helpful if you don't pair it with a clear plan. Honesty without direction reads as instability.
 
 The other mistake is the team event. Pizza party, escape room, bowling. These are fine. They're completely irrelevant to trust repair though. Nobody leaves laser tag thinking "I believe my producer will protect my time now." Save the budget. Spend the time on the structural fixes.

@@ -88,6 +88,12 @@ The **Game Production Masterclass** on Udemy covers dependency management within
 
 ## Common Mistakes Producers Make With Dependencies
 
+## Sources
+
+- [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko)
+- that nobody had assigned
+
+
 Mapping dependencies once and never revisiting them is probably the most common mistake. A dependency map is a living document. When scope changes, when someone leaves, when a tech decision flips, your dependency relationships change too. A map that was accurate in pre-production can actively mislead you in alpha.
 
 Conflating dependencies with milestones is another one. A milestone is a point in time. A dependency is a relationship between work items. They interact, but they're not the same thing. Scheduling a milestone without understanding the dependency chain feeding it is how you get milestones that slip by weeks while everyone insists they're on track.

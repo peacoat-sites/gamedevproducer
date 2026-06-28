@@ -67,6 +67,11 @@ If the honest answer is "there's no headcount for production here in the foresee
 
 ## The Portfolio Problem (And How to Solve It)
 
+## Sources
+
+- [Atahan Demir](https://www.pexels.com/@atahandemir)
+
+
 Here's the contrarian take: you don't need personal projects to get your first AP role. Most of the advice you'll read says otherwise. It's oversold.
 
 What you actually need is documented evidence of production thinking. A written postmortem of a release you worked on, even a personal one you keep private until an interview, shows you understand scope, risk, and process. A sample sprint plan you built for a hypothetical feature shows you know how to break work down. A one-page production plan for a jam game you made with two friends over a weekend shows initiative.

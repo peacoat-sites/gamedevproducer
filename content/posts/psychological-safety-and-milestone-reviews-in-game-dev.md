@@ -86,6 +86,12 @@ The trust-first format takes more setup. It also catches problems before they be
 
 ## Tools That Help Producers Build Better Review Systems
 
+## Sources
+
+- at Harvard defined it as the belief that you won't be punished or humiliated for
+- plus verbal discussion |
+
+
 A few things I've used or seen work well:
 
 **Notion or Confluence** for living milestone documents, not slide decks. Static presentations hide version history and make it easy to paper over problems. A living doc shows when something changed and what it said before.

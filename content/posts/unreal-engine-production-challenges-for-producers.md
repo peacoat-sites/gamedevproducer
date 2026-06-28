@@ -77,6 +77,12 @@ Most projects need both. C++ for systems. Blueprints for gameplay logic that des
 
 ## Recommended Tools for Unreal Producers
 
+## Sources
+
+- [Daniil Komov](https://www.pexels.com/@dkomov)
+- cache (DDC) servers
+
+
 The right tooling around your Unreal project matters as much as what's inside it.
 
 **Project Management:** Jira with a custom Unreal-specific workflow works. Hack n Plan is built for game dev from the ground up and handles task dependencies and milestone tracking in a way that actually maps to how features get built.

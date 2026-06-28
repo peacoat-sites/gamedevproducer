@@ -74,6 +74,15 @@ I've seen teams burn entire sprint cycles because a producer kept resubmitting t
 
 ## Tools That Help You Give Better Feedback
 
+## Sources
+
+- [PureRef](https://www.pureref.com/)
+- [Jira](https://www.atlassian.com/software/jira)
+- [Shortcut](https://www.shortcut.com/)
+- [Notion](https://www.notion.so/)
+- [Loom](https://www.loom.com/)
+
+
 Good feedback starts with clear tracking. [Jira](https://www.atlassian.com/software/jira) and [Shortcut](https://www.shortcut.com/) both force specificity in bug reports and task notes. [Notion](https://www.notion.so/) works well for maintaining living feedback documents tied to art briefs.
 
 For visual feedback on art assets, [Loom](https://www.loom.com/) lets you record screen walkthroughs with voiceover, which is dramatically better than typed notes for anything animation or UI-related. [Frame.io](https://frame.io/) handles frame-accurate video review and is worth the cost if you're doing cinematic or animation work.

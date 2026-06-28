@@ -108,6 +108,13 @@ Revenue-based financing is newer and offered by a few companies specifically to 
 
 ## Early Access and Pre-Sales
 
+## Sources
+
+- [Monstera Production](https://www.pexels.com/@gabby-k)
+- a decent reputation for
+- analysis on the industry
+
+
 Steam Early Access is one of the most underrated funding mechanisms in indie games and one of the most frequently misused.
 
 Successful ones have a genuinely playable game, a community built over months before launch, and clear communication about what's done and what isn't. Failed ones have a vertical slice, no audience, and a vague roadmap. Players can tell the difference immediately. Bad early access reviews are very hard to recover from.

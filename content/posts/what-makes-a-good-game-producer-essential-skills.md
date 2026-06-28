@@ -67,6 +67,11 @@ For task tracking on smaller indie projects, **Trello** or **Notion** databases 
 
 ## Building and Protecting the Team
 
+## Sources
+
+- what does this trade for? I
+
+
 This gets underweighted. Good producers spend real time on team health. Not team-building exercises, actual attention to whether people are burning out, whether there's unresolved conflict between departments, whether someone on the team is quietly doing twice the work because they can't say no.
 
 Sustainable pace isn't a nice-to-have. It's a retention strategy, a quality strategy, and honestly a schedule strategy. Teams that crunch hard in month four of twelve will be running on empty by month ten, right when you need them most. That's not theory. That's how human bodies work.

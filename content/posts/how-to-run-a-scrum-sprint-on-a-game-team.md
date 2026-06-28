@@ -64,6 +64,11 @@ For remote or hybrid teams, protect async standups. Geekbot (which integrates wi
 
 ## Sprint review and retrospective: don't skip these
 
+## Sources
+
+- [Ivan S](https://www.pexels.com/@ivan-s)
+
+
 Sprint review is where you show the work. On a game team, this should be a play session, not a slide deck or video. Put a controller in someone's hand, ideally someone who didn't build the feature, and watch them play what you built this sprint.
 
 You get signal immediately. The designer thought the new ability felt great. Watching fresh hands struggle to understand it tells you something in thirty seconds that a meeting would never surface.

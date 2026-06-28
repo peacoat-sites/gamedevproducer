@@ -59,6 +59,11 @@ Knowing which engine to learn is one thing. Here's what people actually earn onc
 
 ## The Bottom Line
 
+## Sources
+
+- sources: Steam Developer Survey 2024
+
+
 For 2026, here's what makes sense for most people:
 
 | Goal | Engine |

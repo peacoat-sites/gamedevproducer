@@ -84,6 +84,15 @@ After launch, respond to every review for the first month. Steam surfaces develo
 
 ## Tools Worth Having in Your Stack
 
+## Sources
+
+- [partner.steamgames.com](https://partner.steamgames.com)
+- [Game Dev Unlocked](https://gamedevunlocked.com)
+- [Pixabay](https://www.pexels.com/@pixabay)
+- I've talked to
+- other developers share on Twitter/X and in the [Game Dev Unlocked](https://gamed
+
+
 For project management: Hacknplan (built for game dev, $0-$9/month) or Notion (free tier covers most solo and small teams). Linear is excellent for bug tracking if you've got engineers on the team.
 
 For store analytics: SteamDB (free) and Game Data Crunch (paid, around $20/month for indie tier) both pull Steam's public data and show how your wishlist growth compares to similar titles before launch.

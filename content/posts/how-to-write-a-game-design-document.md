@@ -78,6 +78,11 @@ What surprised me about this section was how much the team liked writing it. The
 
 ## Making It Readable for Non-Designers
 
+## Sources
+
+- [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko)
+
+
 Your programmer doesn't read for pleasure. Your concept artist is going to open this document once, skim it, and leave. You have about ninety seconds before they close the tab.
 
 Write section headers that are actual statements, not labels. Instead of "Combat System," write "Combat is fast, readable, and punishes passivity." The reader learns something from the header alone. If they never read the section, they got the main point.

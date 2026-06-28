@@ -112,6 +112,12 @@ On the learning side, *The Game Production Handbook* by Heather Maxwell Chandler
 
 ## How to Present Estimates to Stakeholders Without Lying to Yourself
 
+## Sources
+
+- and development in disguise
+- what similar games cost
+
+
 An estimate is a model. It reflects your current understanding, your current team, and your current scope. Presenting it as a commitment is how studios end up in conversations they can't win.
 
 Be explicit about assumptions. Your estimate assumes a team of X people, at Y rates, with Z scope. If any of those change, the estimate changes. Document that in writing before you present, not after the project goes sideways.

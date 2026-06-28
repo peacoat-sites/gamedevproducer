@@ -173,6 +173,13 @@ End scene. Nothing got overridden. No authority clash. Both roles got heard. A d
 
 ## Cross-Functional Dependencies: CD Influence Beyond Vision
 
+## Sources
+
+- [Ron Lach](https://www.pexels.com/@ron-lach)
+- given our actual constraints, what's the best creative output we can guarantee? The
+- Perfect. I'll update the roadmap, flag the underwater work to the next quarter, and we'll start planning weather integration tomorrow. End
+
+
 Creative directors don't only work with producers. They also influence engineers and artists in ways that can disrupt production plans if not coordinated.
 
 A CD might request a custom animation system because the existing one can't capture the movement feel they want. They'll talk to the engineering lead directly. The producer hears about it in the next production meeting and realizes there's a 4-week custom system build nobody planned for.

@@ -84,6 +84,15 @@ Feed this data directly into your prioritization decisions. If playtest findings
 
 ## The Conversation Nobody Wants to Have
 
+## Sources
+
+- [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818)
+- supporting need</td><td>Addresses known friction
+- it explicitly
+- often reveals something different
+- directly into your prioritization decisions
+
+
 At some point in almost every production, there's a moment where the scope has visibly outgrown the schedule, and everyone in the room knows it, and nobody says it out loud.
 
 I've been in that room a lot. The instinct is to push forward and hope something changes. Time will be made up. The team will crunch. A problem will turn out smaller than expected. Sometimes that happens. More often, you spend three more months in denial before having the harder version of the conversation you should've had earlier, except now with less time and more exhaustion.

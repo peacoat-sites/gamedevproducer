@@ -78,6 +78,12 @@ Tools: **Jira** with proper sprint velocity tracking is the industry standard fo
 
 ## The "What Went Right" Section Is Often a Warning Sign
 
+## Sources
+
+- from the Software Engineering Institute and repeated anecdotal evidence from pos
+- showing they've been wrong before
+
+
 Most post-mortems follow a two-column format: what went right, what went wrong. The "what went right" section is supposed to be instructive. It often isn't, and here's why.
 
 Teams list things like "our team was passionate" and "we shipped" as wins. Passion isn't a production methodology. Shipping something doesn't mean it shipped well. When a post-mortem's "what went right" column is full of cultural platitudes and the "what went wrong" column is full of process failures, that team did not actually learn why it succeeded or failed. It learned how to feel okay about it.

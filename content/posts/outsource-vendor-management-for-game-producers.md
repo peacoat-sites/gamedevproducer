@@ -70,6 +70,11 @@ Use Jira, ShotGrid, or Notion to track vendor deliverables. Ftrack is purpose-bu
 
 ## Recommended Tools and Resources
 
+## Sources
+
+- the saturation on the secondary color palette is reading 20 to 30 points higher than our reference. Please match values from the approved environment set in folder /REF/EnvColor_Approved. Use
+
+
 A few things worth having in your stack:
 
 - **ShotGrid (formerly Shotgun):** Purpose-built for production tracking with external collaborators

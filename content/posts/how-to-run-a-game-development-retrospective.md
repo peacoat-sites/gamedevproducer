@@ -88,6 +88,12 @@ What surprised me when I started doing this consistently was how quickly team mo
 
 ## Tools Worth Having in Your Producer Toolkit
 
+## Sources
+
+- [Quyn Phạm](https://www.pexels.com/@quyn-ph-m-255082234)
+- on retrospective effectiveness is genuinely mixed
+
+
 **Project Management:**
 - **Shortcut** (formerly Clubhouse) is excellent for game dev teams that need sprint tracking without Jira's overhead
 - **Hack 'n' Plan** is built specifically for game development and worth evaluating

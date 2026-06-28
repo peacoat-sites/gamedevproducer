@@ -77,6 +77,12 @@ Missing standups without rescheduling them. This is the one I push hardest. A sk
 
 ## Async Standups: Real Option or Productivity Theater?
 
+## Sources
+
+- [Ollie Craig](https://www.pexels.com/@olliecraig1)
+- with worse chairs
+
+
 Here's a take you might push back on: async standups are rarely as effective as people claim, especially for creative teams.
 
 I know, the tools are good now. Geekbot costs $2.50 per user per month and integrates with Slack. Parabol is free for small teams. The prompts go out, people fill them in, and technically the information exists somewhere. But the reason real-time standups work is the friction and the social pressure to actually listen. When you can post your async update at 11 PM and nobody processes it until noon the next day, you've lost the blocker-surfacing function almost entirely. A blocker posted at midnight is half a day lost by the time anyone acts on it.

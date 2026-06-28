@@ -94,6 +94,12 @@ Run a pre-certification audit six to eight weeks before your planned submission 
 
 ## Tools That Help Producers Manage Cert
 
+## Sources
+
+- [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch)
+- gracefully
+
+
 You don't need to manage this process in a spreadsheet and prayer.
 
 **TestRail** is purpose-built for test case management. Create a test suite directly mapped to the TRC or XR document items and track your team's compliance pass results in one place.

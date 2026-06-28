@@ -79,6 +79,15 @@ If two or more of these are in warning territory simultaneously, that's a produc
 
 ## Building a Producer Career That Survives Industry Cycles
 
+## Sources
+
+- [Notion](https://www.notion.so)
+- [Confluence](https://www.atlassian.com/software/confluence)
+- [Runway](https://runwayml.com)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [Agile Game Development](https://www.coursera.org)
+
+
 The GDC data consistently shows producers with cross-functional skills are more resilient than pure process managers. That doesn't mean they understand everything. It means they understand enough of engineering, art, and design to have real conversations. That's not a knock on process. Process is your core value. But in a leaner industry, producers who stay employed are the ones making the whole machine run better, not just running the meetings.
 
 The [Agile Game Development](https://www.coursera.org) courses on Coursera are worth your time right now (search specifically for game development project management, not generic Scrum certifications). Clinton Keith's *Agile Game Development with Scrum* is the most practical book on adapting agile to game dev without cargo-culting Silicon Valley process onto a creative discipline.

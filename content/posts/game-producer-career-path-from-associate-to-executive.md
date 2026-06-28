@@ -94,6 +94,13 @@ The jump from Senior to Director is also where many producers hit a wall. You're
 
 ## Acceleration Tactics: What Actually Works
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- confirms it
+- status to leadership
+
+
 Here's what actually moves the needle:
 
 Ship games. Non-negotiable. You can't convince anyone you're ready for the next level without shipping something. A small game, a major feature, a full AAA title. You need to have been part of a team that got something across the finish line.

@@ -101,6 +101,13 @@ For personal sanity during intense periods, **Structured** (the iOS daily planne
 
 ## The Unionization and Industry Change Conversation
 
+## Sources
+
+- [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov)
+- is genuinely mixed on whether this counts as normal deadline pressure or plannin
+- to plan better
+
+
 I'd be giving you an incomplete picture if I didn't address this. The question of whether crunch can be solved from inside individual studios, or whether it requires structural industry-level change, is genuinely contested.
 
 The union push in games has accelerated. ZeniMax QA workers unionized in 2022. Raven Software's QA team formed a union the same year. Sega of America's QA department followed. These aren't isolated events. They represent a generation of developers who've watched the "we're a family who loves games" culture be used to justify unpaid overtime their entire careers and are done accepting it.

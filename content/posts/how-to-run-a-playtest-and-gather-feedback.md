@@ -84,6 +84,12 @@ Notion and Confluence both handle this well if you're already using them. I've a
 
 ## What to Do When the Feedback Contradicts Your Vision
 
+## Sources
+
+- [Yan Krukau](https://www.pexels.com/@yankrukov)
+- boards still work fine if you write a specific screener questionnaire
+
+
 This comes up constantly, and there's no clean answer. Players aren't designers. They can tell you where they're feeling friction; they can't reliably diagnose why, and they definitely can't tell you what to build. Henry Ford's quote about faster horses has been misused to justify ignoring users for decades, but the underlying point holds: players describe symptoms, not solutions.
 
 When feedback contradicts your design intent, the question to ask is whether the intent is landing. If you designed a mechanic to feel risky and players say it feels punishing, that might be a tuning problem, not a design problem. If you designed a character to be morally ambiguous and players say they hate her because she's "just mean," that's a different conversation about execution vs. intent.

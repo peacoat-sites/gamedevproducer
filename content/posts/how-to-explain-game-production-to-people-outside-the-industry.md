@@ -103,6 +103,14 @@ Whether you're prepping for an investor meeting, a publisher check-in, or explai
 
 ## Tools That Make This Easier
 
+## Sources
+
+- [Notion](https://www.notion.so)
+- [Codecks](https://www.codecks.io)
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- to their finance team
+
+
 If you're a producer trying to communicate production realities to people outside your team, the right tools help. A few that actually earn their place:
 
 **[Notion](https://www.notion.so)** works well for building stakeholder-facing dashboards that show progress without exposing the chaos of your internal Jira board. You curate what they see.

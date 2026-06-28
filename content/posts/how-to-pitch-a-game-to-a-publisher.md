@@ -70,6 +70,13 @@ Good places to start: the Game Developer Conference publishes an annual publishe
 
 ## The Contract Stage (And Why This Is Where Things Get Complicated)
 
+## Sources
+
+- [RDNE Stock project](https://www.pexels.com/@rdne)
+- Crunch are your tools here
+- their catalog
+
+
 Most pitching advice ends at the meeting. Getting an interested publisher is just the start of a long gauntlet.
 
 Publisher deals vary wildly in what they're actually offering. Some cover 100% of dev costs with rev-share after recoupment. Some offer a smaller advance but better rev-share. Some grab porting rights, sequel rights, or IP ownership. Whether any of that works depends on your situation.

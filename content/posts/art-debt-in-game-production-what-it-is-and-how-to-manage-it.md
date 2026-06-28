@@ -103,6 +103,11 @@ And be honest about milestone planning. If Alpha needs 100 environments but you 
 
 ## The Human Side of Art Debt
 
+## Sources
+
+- validation tools both support this
+
+
 Art debt has a morale angle producers can't ignore. Artists who spend weeks reworking assets they already made start to believe their original work didn't matter. When the rework is massive and the root cause was bad planning, they're right.
 
 I've watched talented environment artists burn out not from hard work but from the repetitive frustration of fixing the same problems over and over because nobody solved the upstream issue. The connection between heavy rework and burnout is real. If your team's deep in debt clearance and disengaging, the patterns in [burnout in game development](/burnout-in-game-development-the-year-5-cliff/) will look familiar.

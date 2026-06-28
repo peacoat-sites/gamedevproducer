@@ -138,6 +138,11 @@ If you're starting fresh or restructuring an existing team, here's a concrete ap
 
 ## Tools That Help
 
+## Sources
+
+- status in the same standups but estimate differently
+
+
 Jira is the industry standard, but it's overkill for teams under 50 people. Shotgun (now RoyalRender) integrates with most game engines well. Monday.com is easier for non-technical teams. Trello works for smaller teams if you're disciplined about workflow states.
 
 Azure DevOps is actually better than Jira for cross-disciplinary work if you're on Microsoft stack. It has better dependency tracking and can integrate with GitHub or on-premises Git.

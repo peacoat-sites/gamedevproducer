@@ -102,6 +102,12 @@ For producers looking for a structured framework, Amy Edmondson's research on ps
 
 ## When to Escalate, When to Absorb, and How to Know the Difference
 
+## Sources
+
+- [Andres Garcia](https://www.pexels.com/@andres-garcia-57040618)
+- on psychological safety is the canonical source
+
+
 Not every conflict needs to go up the chain. A lot of producer growth is learning to distinguish between friction that resolves itself with a little facilitation and friction that's a signal of a structural problem that won't get better on its own.
 
 Absorb and facilitate: interpersonal tension between peers over workflow preferences, disagreements about art direction that are within the director's established vision, frustration venting after a rough milestone.

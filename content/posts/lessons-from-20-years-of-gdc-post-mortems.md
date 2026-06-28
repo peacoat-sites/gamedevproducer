@@ -94,6 +94,12 @@ Finally, check whether that problem exists in your current project right now. Yo
 
 ## Red Flags to Catch Early
 
+## Sources
+
+- about how game projects actually work
+- embed it into their processes
+
+
 Postmortems that document successful recoveries usually point to a specific moment when someone identified a problem and escalated it correctly. Warning signs consistently precede major failures.
 
 When estimation gets more optimistic as a project goes on, that's a red flag. Early in production, estimates should get more realistic as you learn the work better, not more optimistic. If month-three estimates are tighter than month-one, something's being overlooked.

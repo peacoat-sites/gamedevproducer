@@ -71,6 +71,13 @@ One practical note: put a zip file at the top of the page that contains all your
 
 ## Pitching With the Kit
 
+## Sources
+
+- [Notion](https://www.notion.so)
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+- Nobody Thinks About
+
+
 The kit isn't the pitch. This confuses a lot of developers who build a beautiful press kit and then just email a link to it and wait. That's not how this works.
 
 Your pitch email is a separate, personal message. Two to four short paragraphs. Why this game, why this journalist specifically (did they cover something similar?), what's interesting about the launch timing or story, and then the link to the kit. The kit is supporting material. The pitch is the actual communication.

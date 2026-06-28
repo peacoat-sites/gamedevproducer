@@ -67,6 +67,11 @@ External dependencies are the quiet killer. Voice recording, licensed music, an 
 
 ## Tools Worth Actually Using
 
+## Sources
+
+- [Diva Plavalaguna](https://www.pexels.com/@diva-plavalaguna)
+
+
 For backlog management and sprint tracking, Jira is the obvious choice and it's probably overkill for a team under eight people. The free tier of Linear is genuinely excellent for small teams and the interface doesn't make you want to quit gamedev. Notion works if your team already lives in it, but you'll build your own sprint board from scratch which takes time you probably don't have.
 
 For estimation sessions, PlanningPoker.live is free, runs in a browser, and takes five minutes to set up. No install required. It removes the social pressure of estimation where the junior dev always agrees with the senior dev's number.

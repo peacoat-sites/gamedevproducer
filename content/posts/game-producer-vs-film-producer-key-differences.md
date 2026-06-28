@@ -88,6 +88,12 @@ Game producers are also deeply embedded in studio culture in a way film producer
 
 ## Recommended Tools for Game Producers Coming From Film
 
+## Sources
+
+- [Donald Tong](https://www.pexels.com/@donaldtong94)
+- How different can it be? Very
+
+
 If you're making the transition from film to game production (or just trying to get better at the game side), here are some resources worth your time.
 
 **Project management software:**

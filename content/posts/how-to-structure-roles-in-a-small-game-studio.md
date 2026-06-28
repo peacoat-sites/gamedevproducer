@@ -71,6 +71,13 @@ Contracts and freelancers make sense for genuine specialty spikes: a composer, a
 
 ## Growing Out of Your Structure
 
+## Sources
+
+- [Hacknplan](https://hacknplan.com/)
+- [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko)
+- or three
+
+
 The structure that ships your first game will probably break on your second. That's not failure, it's growth. What you want to avoid is the structure breaking mid-project, which usually happens when a team grows from 6 to 12 people without explicitly revisiting who owns what.
 
 The signal to watch for: when someone says "I thought you were handling that," a role boundary has failed. Track those moments. If the same boundary fails twice, fix it explicitly. Write it down. Put it in your team handbook, even if that "handbook" is a single Notion page.

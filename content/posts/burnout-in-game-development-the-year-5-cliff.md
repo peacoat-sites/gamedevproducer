@@ -102,6 +102,12 @@ Regular check-ins beat waiting for crisis. A producer or team lead who schedules
 
 ## The Identity Problem Nobody Talks About
 
+## Sources
+
+- [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto)
+- higher job dissatisfaction than the broader tech industry despite generally lovi
+
+
 Here's what makes game development burnout different from burnout in finance or logistics: you've spent five years building worlds. The craft becomes part of your identity. Leaving feels like losing yourself. Staying while burned out feels like slow erosion.
 
 This is especially true for people who dreamed of making games since childhood. The dream made early sacrifices feel worth it. By year five, the gap between dream-job and production-reality is obvious. You've dealt with certification pipelines (just learning what's involved in [platform certification](/platform-certification-what-producers-need-to-know/) can exhaust you), milestone treadmills (understanding what's really behind [alpha, beta, and gold milestones](/what-is-a-game-milestone-alpha-beta-gold/) strips away what magic remains), and stakeholder politics that year one you never saw.

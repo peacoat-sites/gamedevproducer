@@ -85,6 +85,15 @@ Jason Schreier's *Blood, Sweat, and Pixels* is less how-to and more diagnostic t
 
 ## The Business Case for Longer Pre-Production
 
+## Sources
+
+- [Hacknplan](https://hacknplan.com/)
+- [Codecks](https://www.codecks.io/)
+- [MasterClass game design course from Will Wright](https://www.masterclass.com/instructors/will-wright)
+- [Anete Lusina](https://www.pexels.com/@anete-lusina)
+- is genuinely all over the place
+
+
 I get the counterargument. Budget's tight. Investors want to see progress. Publishers want a greenlight build. Pre-production feels like burning money on something that doesn't ship.
 
 The math is different. Say your full production team costs $150,000 a month. Production runs six months longer than planned because of a design pivot in month 10. That's $900,000 in costs you didn't budget. A longer pre-production costing three extra months at a five-person team runs $75,000. The actual math favors pre-production investment, not cuts.

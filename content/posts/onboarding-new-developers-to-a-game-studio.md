@@ -61,6 +61,11 @@ I've started using a simple async check-in for this at studios where leads don't
 
 ## When It's a Mid-Project Hire
 
+## Sources
+
+- [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto)
+
+
 Onboarding someone into an ongoing project is its own beast. The game has history. Design decisions were made, reversed, made again. There are systems nobody touches anymore. There's a character controller that one person rewrote in 2024 and nobody fully understands. Context is everything, and you can't document all of it.
 
 What you can do is schedule one "context dump" meeting with each discipline lead, explicitly framed as "here's the weird stuff you'll encounter and why we did it that way." Not a tour. Not a design review. Just a 30-minute conversation about the landmines. Engineers do this with engineers, artists with artists, designers with designers. It works better as same-discipline conversations because the nuance transfers more cleanly and people are less guarded.

@@ -94,6 +94,11 @@ If you have any budget: Calm Business licenses run about $7.50 per user per mont
 
 ## When You're the One Who's Burned Out
 
+## Sources
+
+- [Daniil Komov](https://www.pexels.com/@dkomov)
+
+
 This is for producers and leads specifically, because we're often the last ones anyone checks on.
 
 You spend so much time holding the team's state that you forget to notice your own. I've been there. You're in every hard conversation, managing up to a studio head and down to a team of 15, and somewhere in the middle you forget to eat lunch and start dreading Monday by Thursday afternoon.

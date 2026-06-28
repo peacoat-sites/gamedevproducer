@@ -96,6 +96,15 @@ Practical approaches include: pre-session priming where leads are reminded that 
 
 ## Tools and Resources That Help
 
+## Sources
+
+- [Berna](https://www.pexels.com/@mibernaa)
+- There are no wrong answers here. The goal is to understand your genuine experience. Nothing you say will hurt anyone's feelings, and honest criticism is more valuable to us than positive feedback. 6
+- collection problem
+- that's 40% less reliable because of social dynamics
+- that skews positive
+
+
 The right tooling can reduce friction and help you keep sessions objective.
 
 For session management and feedback aggregation, **Lookback** and **UserZoom** are purpose-built for remote qualitative testing. They let you record sessions, tag moments, and share clips with stakeholders without running live group reviews. **Miro** works well for post-session synthesis when you're clustering themes from multiple testers.

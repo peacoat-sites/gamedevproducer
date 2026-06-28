@@ -94,6 +94,11 @@ For documentation, Notion is genuinely good. Keep your GDD there, your milestone
 
 ## Building the culture before you have a culture problem
 
+## Sources
+
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+
+
 Teams don't fall apart because of technical problems. They fall apart because of communication breakdowns, unclear expectations, and unresolved tension about creative ownership.
 
 Decide early who has final say on what. Creative director authority, technical authority, business decisions: these should be explicit, not assumed. I've seen three-person teams collapse because two co-founders each assumed they were the creative lead and spent eight months never quite agreeing on anything, running the game into mediocrity by committee.

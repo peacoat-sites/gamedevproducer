@@ -68,6 +68,13 @@ Specificity is what makes the insight usable for the next project. Vague finding
 
 ## Turning the Post-Mortem Into Institutional Memory
 
+## Sources
+
+- collected throughout development
+- using Google Forms or Typeform
+- disappear into the void
+
+
 This is where almost every studio drops the ball. The document gets written, it's good, and then it sits. The producer who ran the project leaves six months later and the institutional knowledge walks out with them.
 
 A few things that actually help: keep post-mortem documents in a centralized, searchable location like Confluence or Notion with consistent tagging. Before any new project kicks off, require the production team to review the post-mortems from the two most recent comparable projects. And in your next project's risk register, explicitly reference post-mortem findings. If you identified that your QA pipeline was undersized last time, that's a risk you're now tracking from day one.

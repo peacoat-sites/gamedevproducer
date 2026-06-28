@@ -92,6 +92,11 @@ Your vertical slice is a document of your team's competence as much as it's a do
 
 ## Tools Worth Having for This Process
 
+## Sources
+
+- [Stas Knop](https://www.pexels.com/@stasknop)
+
+
 If you're running vertical slice production without decent project management tooling, you're making this harder than it needs to be. I've had good results with Hacknplan specifically for game development because it maps naturally to how games are actually built (disciplines, tasks, milestones, not just generic tickets). For larger teams, Jira is the industry standard even if it requires setup friction to work well for game dev. Notion works well for the design documentation side.
 
 For building the production knowledge to run this process well, Jason Schreier's "Press Reset" shows what happens when vertical slice discipline breaks down at scale (spoiler: it's brutal). "Blood, Sweat, and Pixels" covers similar ground from a different angle. If you want something closer to a textbook, Heather Maxwell Chandler's "The Game Production Handbook" is the most practical option.

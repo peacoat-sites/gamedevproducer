@@ -90,6 +90,11 @@ I've had people send me stuff like this cold and it genuinely changed how I eval
 
 ## The Tools You Should Know
 
+## Sources
+
+- [Yan Krukau](https://www.pexels.com/@yankrukov)
+
+
 Studios will train you on their specific setup, but arriving familiar with common tools signals that you're already thinking in the right direction.
 
 Jira (Atlassian, pricing starts at free for small teams) is the dominant issue-tracking tool in the games industry. Spend time with it. Understand how to build a backlog, set up sprints, and track velocity. Confluence (also Atlassian) is widely used for documentation. Trello is lighter weight and common at smaller studios. Miro is increasingly used for collaborative planning sessions and retrospectives.

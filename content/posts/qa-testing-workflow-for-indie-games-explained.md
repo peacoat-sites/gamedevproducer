@@ -68,6 +68,15 @@ Recommended reading if you want to go deeper: "Game Testing: All In One" by Char
 
 ### FAQ
 
+## Sources
+
+- [cottonbro studio](https://www.pexels.com/@cottonbro)
+- that says "the game crashed when I was near the forest" is nearly worthless
+- that says "reproducible crash when entering Birchwood Forest from the eastern en
+- doesn't have those five things
+- loss is high severity even if it's low frequency
+
+
 #### How many testers does an indie game actually need?
 
 For a 5-10 hour single-player game, 8-12 external testers across your beta period is usually enough to surface the major issues, assuming they're testing with structure. The number matters less than coverage: make sure different hardware configs, playstyles, and experience levels are represented.
