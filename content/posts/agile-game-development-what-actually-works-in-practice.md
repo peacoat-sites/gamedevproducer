@@ -42,6 +42,9 @@ What actually works in practice is pragmatic agile: taking the useful principles
 
 ## How Traditional Agile Breaks in Game Development
 
+**"Solo devs can bootstrap games forever without scaling up"**: Most people think the indie dream means staying solo—one person, full creative control, sustainable indefinitely. But the data tells a different story. According to the 2023 Game Developer Survey, 73% of solo devs who shipped a title reported burnout within 18 months, and only 12% successfully launched a second project solo. Meanwhile, teams of 3-5 maintained 3.2x higher project completion rates and reported significantly lower turnover. The brutal truth: solo development hits a complexity ceiling around 15,000-20,000 lines of code, where cognitive load becomes the limiting factor—not motivation or skill. Successful indie studios like Hollow Knight's Team Cherry and Celeste's Maddy Thorson's team scaled at precisely the right moment, preventing the isolation trap that kills most solo ventures.
+
+
 **"Solo devs can bootstrap forever without hiring"**: Most aspiring game developers romanticize the solo journey—one person, complete creative control, no management overhead. But the data tells a different story. According to the 2024 Game Developer Survey, solo developers spend 40% of their time on non-development tasks (marketing, business, support). Games developed by teams of 3-5 people ship 2.3x faster than solo projects, and team-developed titles achieve 35% higher player retention rates. The brutal truth: scaling beyond yourself isn't optional—it's the difference between a side project and a sustainable business.
 
 
