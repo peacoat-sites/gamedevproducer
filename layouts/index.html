@@ -97,7 +97,7 @@
         <!-- Topic-grouped article sections: breaks visual monotony of uniform tile grid -->
         <div class="topic-groups">
           {{ range $catName, $catPages := .Site.Taxonomies.categories }}
-          {{ $sorted := $catPages.ByDate.Reverse }}
+          {{ $sorted := $catPages.Pages.ByPublishDate.Reverse }}
           {{ if ge (len $sorted) 2 }}
           <section class="topic-group">
             <div class="topic-group-header">
