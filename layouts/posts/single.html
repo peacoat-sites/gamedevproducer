@@ -3,6 +3,10 @@
 {{- if eq .Section "posts" -}}
 
 <div class="post-wrap">
+  {{ $tocRail := .TableOfContents }}
+  {{ if and (templates.Exists "partials/toc.html") $tocRail (gt (len $tocRail) 150) }}
+  <aside class="toc-rail">{{ partial "toc.html" . }}</aside>
+  {{ end }}
   <article class="post-main">
 
     <!-- Breadcrumb -->
