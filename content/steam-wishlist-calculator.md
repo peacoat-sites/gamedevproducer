@@ -4,6 +4,7 @@ date: 2026-06-10
 slug: "steam-wishlist-to-sales"
 categories: ["Game Marketing"]
 description: "Estimate your Steam launch week sales from wishlist count using community-derived conversion rates and the Boxleiter Method benchmarks."
+image: "https://images.pexels.com/photos/2882655/pexels-photo-2882655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 You have spent months building your Steam presence. Wishlists are climbing. Now the question every indie developer eventually asks: how many copies will I actually sell launch week?
