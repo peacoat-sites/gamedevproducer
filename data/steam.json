@@ -1,89 +1,89 @@
 {
-  "updated": "2026-06-30",
+  "updated": "2026-07-01",
   "items": [
     {
-      "name": "Turbo Hatchback Time Attack",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4488590/3b0642e53edfbd2e578f12bb4ac67d17b71a238d/header.jpg?t=1782810115",
-      "url": "https://store.steampowered.com/app/4488590/",
+      "name": "CrueArcade Alive",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831590/55d872cfb38fde2e0a0ed306044806ded4972947/header.jpg?t=1782899188",
+      "url": "https://store.steampowered.com/app/4831590/",
       "short_description": "",
-      "final_price": 449
+      "final_price": 225000
     },
     {
-      "name": "GolFall: Make Your Way Up",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4646260/238b80a12f060182e9b5994817c9f5ad14c698de/header.jpg?t=1782806422",
-      "url": "https://store.steampowered.com/app/4646260/",
+      "name": "Antivirus Girl",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4156370/8a976d2dddb0e26bf9d4dccfa489011856c35e54/header.jpg?t=1782897220",
+      "url": "https://store.steampowered.com/app/4156370/",
       "short_description": "",
-      "final_price": 359
+      "final_price": 841000
     },
     {
-      "name": "Slightly Burnt: A Goose Story",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844130/a39fdaca1e6906d97e28e12a8f4467596700e079/header.jpg?t=1782806404",
-      "url": "https://store.steampowered.com/app/4844130/",
+      "name": "Nihongo Hunter",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4386920/c860f46406c304d6f3158d4abeb5982e5d088695/header.jpg?t=1782895240",
+      "url": "https://store.steampowered.com/app/4386920/",
+      "short_description": "",
+      "final_price": 880000
+    },
+    {
+      "name": "Tiny Slime Farm",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499040/c09c57b47d16cf9cea7504f890eacda47ecf1156/header.jpg?t=1782892910",
+      "url": "https://store.steampowered.com/app/4499040/",
+      "short_description": "",
+      "final_price": 392000
+    },
+    {
+      "name": "Hentai Senpai: Waifu Summer 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503620/99e15aae5e24caa7af4a5ee28940c0d62c305060/header.jpg?t=1782891247",
+      "url": "https://store.steampowered.com/app/4503620/",
+      "short_description": "",
+      "final_price": 684000
+    },
+    {
+      "name": "The One Chapter 4",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4703480/383abe4dd73e6c48db29ad5f362fb25efdf4e4ba/header.jpg?t=1782890268",
+      "url": "https://store.steampowered.com/app/4703480/",
+      "short_description": "",
+      "final_price": 2100000
+    },
+    {
+      "name": "\u8001\u72fc\uff1a\u7b2c\u4e00\u5b63 - \u5bbf\u547d\u4e4b\u543b (The Wolf: Season 1 - Kiss of Fate)",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320350/7d3fa0ee48612bb938f2e547d00dd125f2c3cc0c/header.jpg?t=1782889953",
+      "url": "https://store.steampowered.com/app/4320350/",
+      "short_description": "",
+      "final_price": 945000
+    },
+    {
+      "name": "Cat Squeeze",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3739300/ddb96f5f7ccc488c3ca28360c06961e8a3cce19d/header.jpg?t=1782901485",
+      "url": "https://store.steampowered.com/app/3739300/",
+      "short_description": "",
+      "final_price": 924000
+    },
+    {
+      "name": "CryptoGrid",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4836510/f5b2d60ca1e76540333d3da57188c6f14a292a32/header.jpg?t=1782889037",
+      "url": "https://store.steampowered.com/app/4836510/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Influencer Solitaire",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4609800/228ff97566e75fbccfd59cc5e3b870324ca64233/header.jpg?t=1782804987",
-      "url": "https://store.steampowered.com/app/4609800/",
+      "name": "Puzzles Dino",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4749130/db51cd5377c1d943a65437c9105ab7bc1b777aa2/header.jpg?t=1782886231",
+      "url": "https://store.steampowered.com/app/4749130/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 327000
     },
     {
-      "name": "Indomitus: Path of Ordeals",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4603750/2414292f332211678bea8b20ce5386051c5a1b8b/header.jpg?t=1782802896",
-      "url": "https://store.steampowered.com/app/4603750/",
+      "name": "Last Spell Book",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799470/b2d1441c1f46ddc642ca48880ca7857846266c2f/header.jpg?t=1782883052",
+      "url": "https://store.steampowered.com/app/4799470/",
       "short_description": "",
-      "final_price": 849
+      "final_price": 330000
     },
     {
-      "name": "Splatapult",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849020/2a5c6cc5dddf5fc9418dcd063c6b27f05133a1a2/header.jpg?t=1782802890",
-      "url": "https://store.steampowered.com/app/4849020/",
+      "name": "Feed The Pit",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3278290/header.jpg?t=1782889032",
+      "url": "https://store.steampowered.com/app/3278290/",
       "short_description": "",
-      "final_price": 179
-    },
-    {
-      "name": "TELLURICENE",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700130/694b18e141afc2d21d1823756b67d3ce77602077/header.jpg?t=1782802871",
-      "url": "https://store.steampowered.com/app/3700130/",
-      "short_description": "",
-      "final_price": 1079
-    },
-    {
-      "name": "Two Voices: A Journey Through the MET with Rin and Mio",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582260/e5e71a0feaec31533450166a8f5db4020f446250/header.jpg?t=1782797159",
-      "url": "https://store.steampowered.com/app/4582260/",
-      "short_description": "",
-      "final_price": 629
-    },
-    {
-      "name": "Forge Clicker 2",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4826510/795317394c1b18851a84ea5c88bec471386a311a/header.jpg?t=1782794695",
-      "url": "https://store.steampowered.com/app/4826510/",
-      "short_description": "",
-      "final_price": 199
-    },
-    {
-      "name": "Perpetual Fear",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4278350/8346b3df46fdbb5008a6217b86911b1656c63271/header.jpg?t=1782792019",
-      "url": "https://store.steampowered.com/app/4278350/",
-      "short_description": "",
-      "final_price": 239
-    },
-    {
-      "name": "School Crisis",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3777300/77ef7304848e178404564ebad85690767900c7c7/header.jpg?t=1782791919",
-      "url": "https://store.steampowered.com/app/3777300/",
-      "short_description": "",
-      "final_price": 524
-    },
-    {
-      "name": "The Joust",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744160/a9e85a851d6348bd46e6985c1d08ccf7e0916656/header.jpg?t=1782792776",
-      "url": "https://store.steampowered.com/app/4744160/",
-      "short_description": "",
-      "final_price": 85
+      "final_price": 945000
     }
   ]
 }
