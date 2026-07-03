@@ -11,7 +11,9 @@ author_slug: "samantha-roberts"
 author_title: "Publishing Strategist"
 author_bio: "Samantha Roberts has spent her career navigating the publisher side of the games industry: first pitching indie studios to publishers, then working inside a publishing label evaluating hundreds of projects. She knows what publishers look for and what indie developers consistently get wrong in their pitch decks. At GameDevProducer, she covers publishing strategy, funding, and the business of bringing a game to market."
 slug: "how-to-negotiate-a-game-publishing-deal"
-affiliate_disclosure: true, Most developers walk into publisher conversations thinking the hard part is getting a meeting. It's not. The hard part is knowing what you're signing.
+affiliate_disclosure: true
+---
+Most developers walk into publisher conversations thinking the hard part is getting a meeting. It's not. The hard part is knowing what you're signing.
 
 I've seen this play out more times than I can count: a small team spends three years building something genuinely good, gets interest from a mid-tier publisher, and then signs a deal that hands over IP ownership, locks them into a 30% royalty after a $400,000 recoupable advance, and includes a sequel option clause they didn't even notice. Two years later, the game undersells projections by 20%, recoupment never happens, and the developer makes nothing while the publisher owns everything they built.
 
