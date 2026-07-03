@@ -14,15 +14,15 @@ slug: "how-to-set-up-jira-for-a-game-development-team"
 affiliate_disclosure: true
 faqs:
  - q: "Should we use Jira's built-in roadmap or a separate tool like Miro or Notion?"
- a: "Jira's Roadmap view works fine once you're in production and your epics are defined, but it's genuinely bad for anything involving visual planning or fuzzy, pre-production thinking. I'd use Jira's Roadmap for milestone tracking and dependency visibility, and Miro or a whiteboard tool for anything that needs creative flexibility."
+   a: "Jira's Roadmap view works fine once you're in production and your epics are defined, but it's genuinely bad for anything involving visual planning or fuzzy, pre-production thinking. I'd use Jira's Roadmap for milestone tracking and dependency visibility, and Miro or a whiteboard tool for anything that needs creative flexibility."
  - q: "How many projects should a game have in Jira?"
- a: "Usually one project per game, with components handling the discipline breakdown. You might add a second project specifically for QA bug tracking if your QA team is external or working under a separate process, but keep it to two maximum. More than that and your cross-project queries become a full-time job."
+   a: "Usually one project per game, with components handling the discipline breakdown. You might add a second project specifically for QA bug tracking if your QA team is external or working under a separate process, but keep it to two maximum. More than that and your cross-project queries become a full-time job."
  - q: "What's the best Jira template to start from for game dev?"
- a: "Start from the 'Scrum' template, not 'Kanban' and not 'Business.' Then immediately customize the issue types and workflow states as described above. The Scrum template gives you sprint infrastructure without locking you into a pure Kanban flow, which most game teams eventually want some version of for production."
+   a: "Start from the 'Scrum' template, not 'Kanban' and not 'Business.' Then immediately customize the issue types and workflow states as described above. The Scrum template gives you sprint infrastructure without locking you into a pure Kanban flow, which most game teams eventually want some version of for production."
  - q: "How do we track QA regression without drowning the dev board in bug tickets?"
- a: "Create a dedicated 'QA' component and a saved filter that separates QA-reported bugs from dev-discovered ones. During a regression phase, your QA lead owns a separate board filtered to just that component. Devs see only the bugs assigned to them, not the full bug list. This is one of those things where Jira actually shines once it's configured correctly."
+   a: "Create a dedicated 'QA' component and a saved filter that separates QA-reported bugs from dev-discovered ones. During a regression phase, your QA lead owns a separate board filtered to just that component. Devs see only the bugs assigned to them, not the full bug list. This is one of those things where Jira actually shines once it's configured correctly."
  - q: "Is Jira worth it for a 2-3 person indie team?"
- a: "Probably not, honestly. Jira Free (up to 10 users) costs nothing, but the overhead of maintaining it is real. For a team under four people, I'd recommend Notion with a simple kanban template, or even Linear, which has a much lighter setup cost and a free tier. Come back to Jira when you're adding your fifth or sixth person and the coordination cost starts to hurt."
+   a: "Probably not, honestly. Jira Free (up to 10 users) costs nothing, but the overhead of maintaining it is real. For a team under four people, I'd recommend Notion with a simple kanban template, or even Linear, which has a much lighter setup cost and a free tier. Come back to Jira when you're adding your fifth or sixth person and the coordination cost starts to hurt."
 ---
 
 Most Jira setups I've seen in game studios are basically a software engineering template with "sprint" swapped for "milestone" and a handful of custom fields nobody fills out. That's not a game dev workflow. That's a web app workflow wearing a hat.

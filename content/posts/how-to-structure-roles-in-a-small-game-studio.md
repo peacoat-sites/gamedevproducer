@@ -14,15 +14,15 @@ slug: "how-to-structure-roles-in-a-small-game-studio"
 affiliate_disclosure: true
 faqs:
  - q: "How do you handle a co-founder who wants a title that doesn't reflect their actual role?"
- a: "Give them the title and also give them a clear internal responsibilities doc that describes what they actually own. Titles are partly social currency; the internal accountability structure is what keeps work from falling through gaps. Both can coexist."
+   a: "Give them the title and also give them a clear internal responsibilities doc that describes what they actually own. Titles are partly social currency; the internal accountability structure is what keeps work from falling through gaps. Both can coexist."
  - q: "Should a small studio have a dedicated producer, or can someone double up?"
- a: "Doubling up works until it doesn't, which is usually somewhere between 6 and 10 people. Below that, a producer-hat worn by a lead (usually design or art) is fine if they're disciplined about it. Above it, production falls behind and you start missing dependencies."
+   a: "Doubling up works until it doesn't, which is usually somewhere between 6 and 10 people. Below that, a producer-hat worn by a lead (usually design or art) is fine if they're disciplined about it. Above it, production falls behind and you start missing dependencies."
  - q: "What happens when two people both think they own the same area?"
- a: "Pick one. Publicly, clearly, without ambiguity. Shared ownership of a decision area is not ownership. It's a veto system that slows everything down. The person who doesn't 'win' should get a clearly defined adjacent area where they have final say."
+   a: "Pick one. Publicly, clearly, without ambiguity. Shared ownership of a decision area is not ownership. It's a veto system that slows everything down. The person who doesn't 'win' should get a clearly defined adjacent area where they have final say."
  - q: "Do contractors count toward your team structure?"
- a: "For recurring work (ongoing art support, a QA contractor embedded in your sprint), yes, treat them structurally like a team member. Assign them ownership over their area and include them in dependency tracking. For one-off engagements, no. Treating a one-off contractor as a team member just creates confusion about their scope."
+   a: "For recurring work (ongoing art support, a QA contractor embedded in your sprint), yes, treat them structurally like a team member. Assign them ownership over their area and include them in dependency tracking. For one-off engagements, no. Treating a one-off contractor as a team member just creates confusion about their scope."
  - q: "When should a small studio start using formal project management software?"
- a: "Earlier than feels necessary. Two people can get away with a shared doc. At four people, you want a real task board. Hacknplan is purpose-built for games and worth the monthly cost. Jira works if you already know it, but it's overkill to learn from scratch at small scale. The important thing is that every task has one owner and one status, and everyone can see it without asking."
+   a: "Earlier than feels necessary. Two people can get away with a shared doc. At four people, you want a real task board. Hacknplan is purpose-built for games and worth the monthly cost. Jira works if you already know it, but it's overkill to learn from scratch at small scale. The important thing is that every task has one owner and one status, and everyone can see it without asking."
 ---
 
 Most small studios get roles wrong before they write a single line of code. Not because they're disorganized, but because they copy the org chart from a studio twenty times their size and then wonder why nobody knows what they're supposed to be doing.

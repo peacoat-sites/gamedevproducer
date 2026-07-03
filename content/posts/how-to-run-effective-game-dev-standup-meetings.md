@@ -14,15 +14,15 @@ slug: "how-to-run-effective-game-dev-standup-meetings"
 affiliate_disclosure: true
 faqs:
  - q: "How long should a game dev standup actually be?"
- a: "Fifteen minutes is the real ceiling. For teams under six people, you can often finish in eight. If you're regularly hitting twenty-plus minutes, either your team is too large to run as one group or you're solving problems in the meeting instead of scheduling time to solve them after."
+   a: "Fifteen minutes is the real ceiling. For teams under six people, you can often finish in eight. If you're regularly hitting twenty-plus minutes, either your team is too large to run as one group or you're solving problems in the meeting instead of scheduling time to solve them after."
  - q: "Should designers and artists be in the same standup as engineers?"
- a: "Yes, for most small to mid-sized teams. Cross-discipline visibility is where standup earns its time. Your animator knowing the rig export is broken saves a day of work. Siloed standups are fine at scale (forty-plus people), but most game teams aren't there yet."
+   a: "Yes, for most small to mid-sized teams. Cross-discipline visibility is where standup earns its time. Your animator knowing the rig export is broken saves a day of work. Siloed standups are fine at scale (forty-plus people), but most game teams aren't there yet."
  - q: "What do I do if someone keeps going over their time?"
- a: "Don't let it fester. Privately talk to the person after the meeting, not in front of the team. Usually it's not ego, it's anxiety: they're filling silence because they're not sure what's expected. Clarify the format, give them a time signal (a gentle hand gesture works fine), and the problem usually self-corrects within a week."
+   a: "Don't let it fester. Privately talk to the person after the meeting, not in front of the team. Usually it's not ego, it's anxiety: they're filling silence because they're not sure what's expected. Clarify the format, give them a time signal (a gentle hand gesture works fine), and the problem usually self-corrects within a week."
  - q: "Do I need a standup every single day, or can I do them less often?"
- a: "Every day for teams in active development. Twice a week for pre-production or maintenance phases where the work is slower-moving. Less than twice a week and you're flying blind for too long between check-ins. The shorter you can keep each individual meeting, the less you need to ration them."
+   a: "Every day for teams in active development. Twice a week for pre-production or maintenance phases where the work is slower-moving. Less than twice a week and you're flying blind for too long between check-ins. The shorter you can keep each individual meeting, the less you need to ration them."
  - q: "What's the best way to run a standup for a fully remote team?"
- a: "Camera on, short synchronous call, shared sprint board visible to everyone. Use a tool like Whereby or Google Meet (not Slack huddles, which make it too easy to multitask). Start on time regardless of who's present. Record it only if someone is genuinely unavailable, not as a default, because knowing you're being recorded changes how people talk."
+   a: "Camera on, short synchronous call, shared sprint board visible to everyone. Use a tool like Whereby or Google Meet (not Slack huddles, which make it too easy to multitask). Start on time regardless of who's present. Record it only if someone is genuinely unavailable, not as a default, because knowing you're being recorded changes how people talk."
 ---
 
 Most standups are a waste of time. Not because the format is broken, but because nobody ever taught the team what it's actually for.

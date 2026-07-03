@@ -14,15 +14,15 @@ slug: "how-to-run-a-productive-game-team-retrospective"
 affiliate_disclosure: true
 faqs:
  - q: "How long should a retrospective be?"
- a: "For a two-week sprint, fifty minutes is the practical ceiling. Longer sessions produce diminishing returns on action item quality and tank engagement. If your retros consistently run over an hour, the format has too many steps or the discussion is going unmoderated."
+   a: "For a two-week sprint, fifty minutes is the practical ceiling. Longer sessions produce diminishing returns on action item quality and tank engagement. If your retros consistently run over an hour, the format has too many steps or the discussion is going unmoderated."
  - q: "What if the same problems keep coming up every sprint?"
- a: "That's usually a sign you're treating symptoms rather than causes. If 'communication is slow' appears three sprints in a row, the root cause is probably structural (the team's async setup, unclear ownership, missing tools) and needs a dedicated session or producer intervention, not another retro card."
+   a: "That's usually a sign you're treating symptoms rather than causes. If 'communication is slow' appears three sprints in a row, the root cause is probably structural (the team's async setup, unclear ownership, missing tools) and needs a dedicated session or producer intervention, not another retro card."
  - q: "How many action items should a retrospective produce?"
- a: "Three is the hard cap I'd defend. One well-executed action item is worth more than six abandoned ones. If you're routinely producing more than three and completing them all, your team is an outlier, and even then, I'd ask whether the items are ambitious enough."
+   a: "Three is the hard cap I'd defend. One well-executed action item is worth more than six abandoned ones. If you're routinely producing more than three and completing them all, your team is an outlier, and even then, I'd ask whether the items are ambitious enough."
  - q: "Should the producer or team lead facilitate their own team's retro?"
- a: "It's workable, but there's a real tension: the producer often has opinions about what should change, which can steer the discussion. Rotating facilitation among senior team members, or having a peer producer from another team facilitate quarterly, removes that bias. I've done both, and external facilitation produces noticeably more candid outputs."
+   a: "It's workable, but there's a real tension: the producer often has opinions about what should change, which can steer the discussion. Rotating facilitation among senior team members, or having a peer producer from another team facilitate quarterly, removes that bias. I've done both, and external facilitation produces noticeably more candid outputs."
  - q: "What's the best retrospective tool for remote teams?"
- a: "As of June 2026, EasyRetro and Miro remain the most practical options for distributed game teams. EasyRetro is simpler and faster to set up for async card input. Miro is better if you need flexible formats or want to integrate retro boards with other project documentation. FigJam works if your team already lives in Figma. The tool choice matters far less than whether action items end up in the same system your team uses for actual work."
+   a: "As of June 2026, EasyRetro and Miro remain the most practical options for distributed game teams. EasyRetro is simpler and faster to set up for async card input. Miro is better if you need flexible formats or want to integrate retro boards with other project documentation. FigJam works if your team already lives in Figma. The tool choice matters far less than whether action items end up in the same system your team uses for actual work."
 ---
 
 Most retrospective advice focuses on the wrong problem. It treats the retro as a morale exercise, a place to vent, then move on. The actual job is to produce a short list of changes your team will actually make before the next sprint. Everything else is optional.

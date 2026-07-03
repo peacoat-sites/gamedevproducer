@@ -14,15 +14,15 @@ slug: "perforce-vs-git-for-game-version-control"
 affiliate_disclosure: true
 faqs:
  - q: "Can you use Git for a large AAA game project?"
- a: "Technically yes, but practically it gets painful fast. The binary asset problem doesn't go away with Git LFS, it just becomes more manageable. Most studios above 20-30 people with significant art pipelines end up on Perforce or wishing they had made the switch earlier."
+   a: "Technically yes, but practically it gets painful fast. The binary asset problem doesn't go away with Git LFS, it just becomes more manageable. Most studios above 20-30 people with significant art pipelines end up on Perforce or wishing they had made the switch earlier."
  - q: "Is Perforce free for indie developers?"
- a: "Helix Core is free for up to 5 users and 20 workspaces. That covers a lot of very small teams. Beyond that threshold, you need a commercial license, and the pricing requires a conversation with their sales team rather than a public checkout page, which is frustrating."
+   a: "Helix Core is free for up to 5 users and 20 workspaces. That covers a lot of very small teams. Beyond that threshold, you need a commercial license, and the pricing requires a conversation with their sales team rather than a public checkout page, which is frustrating."
  - q: "What does Unreal Engine recommend for version control?"
- a: "Epic's documentation currently recommends Helix Core (Perforce) as the primary supported workflow, with built-in editor integration. Git support exists but requires more manual configuration, particularly for binary asset handling and file locking."
+   a: "Epic's documentation currently recommends Helix Core (Perforce) as the primary supported workflow, with built-in editor integration. Git support exists but requires more manual configuration, particularly for binary asset handling and file locking."
  - q: "What is Git LFS and does it solve the binary file problem?"
- a: "Git LFS offloads large binary files to a separate storage backend instead of tracking them in the main Git history. It solves the repository bloat problem, but it doesn't give you native file locking to prevent overwrite conflicts without additional setup. It's a partial solution, not a full replacement for Perforce's binary handling."
+   a: "Git LFS offloads large binary files to a separate storage backend instead of tracking them in the main Git history. It solves the repository bloat problem, but it doesn't give you native file locking to prevent overwrite conflicts without additional setup. It's a partial solution, not a full replacement for Perforce's binary handling."
  - q: "Should a small indie team bother with Perforce?"
- a: "Honestly, probably not unless you're in Unreal with a meaningful art team. The setup overhead and licensing cost past 5 users are real considerations. A well-configured Git setup with LFS handles most small-team scenarios just fine, and you can always migrate later if the project scales up and demands it."
+   a: "Honestly, probably not unless you're in Unreal with a meaningful art team. The setup overhead and licensing cost past 5 users are real considerations. A well-configured Git setup with LFS handles most small-team scenarios just fine, and you can always migrate later if the project scales up and demands it."
 ---
 
 Most game studios get this decision wrong not because they lack information, but because they benchmark against the wrong kind of project.

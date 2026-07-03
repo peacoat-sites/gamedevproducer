@@ -14,15 +14,15 @@ slug: "how-to-plan-content-updates-after-launch"
 affiliate_disclosure: true
 faqs:
  - q: "How soon after launch should the first content update ship?"
- a: "Target within four weeks, sooner if you can. The first 30 days post-launch are when lapsed player re-engagement is most effective, and a visible update signals that the game is actively supported. Even a small patch with one meaningful addition beats silence."
+   a: "Target within four weeks, sooner if you can. The first 30 days post-launch are when lapsed player re-engagement is most effective, and a visible update signals that the game is actively supported. Even a small patch with one meaningful addition beats silence."
  - q: "How do you decide what content to prioritize for updates?"
- a: "Start with your retention data, then layer in community feedback. Where are players dropping off? What are they asking for most consistently? Rank by impact on retention first, community requests second, and team interest third. When those three align, that's your next update."
+   a: "Start with your retention data, then layer in community feedback. Where are players dropping off? What are they asking for most consistently? Rank by impact on retention first, community requests second, and team interest third. When those three align, that's your next update."
  - q: "Should you have a content roadmap ready at launch?"
- a: "A thematic roadmap, yes. A feature-specific, date-committed roadmap, no. Give players enough direction to trust that development is continuing. Don't give yourself a contract you'll have to break publicly when scope shifts."
+   a: "A thematic roadmap, yes. A feature-specific, date-committed roadmap, no. Give players enough direction to trust that development is continuing. Don't give yourself a contract you'll have to break publicly when scope shifts."
  - q: "How do you handle content updates with a very small team?"
- a: "Bank content before launch, size updates to what you can realistically produce without crunch, and ship frequently in smaller pieces rather than infrequently in larger ones. Two small updates a month will usually outperform one large update every six weeks for retention purposes."
+   a: "Bank content before launch, size updates to what you can realistically produce without crunch, and ship frequently in smaller pieces rather than infrequently in larger ones. Two small updates a month will usually outperform one large update every six weeks for retention purposes."
  - q: "What tools are best for managing a post-launch content update schedule?"
- a: "Codecks is purpose-built for game dev and handles card-based sprint planning well for small teams. Hack n Plan is another strong option. For roadmap communication specifically, a public Trello board or a Notion page with clearly labeled 'In Progress' and 'Planned' columns works fine and costs nothing."
+   a: "Codecks is purpose-built for game dev and handles card-based sprint planning well for small teams. Hack n Plan is another strong option. For roadmap communication specifically, a public Trello board or a Notion page with clearly labeled 'In Progress' and 'Planned' columns works fine and costs nothing."
 ---
 
 Most post-launch content planning guides start at the wrong point. They tell you to "listen to your community" and "iterate based on feedback." That's not a plan. That's a prayer with a Discord server attached.
