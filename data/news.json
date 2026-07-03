@@ -1,25 +1,7 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "count": 25,
   "items": [
-    {
-      "source": "IGN",
-      "title": "Marvel Super Heroes Comes to Magic: The Gathering",
-      "url": "https://www.ign.com/articles/marvel-super-heroes-comes-to-magic-the-gathering",
-      "date": "Wed, 1 Jul"
-    },
-    {
-      "source": "IGN",
-      "title": "Marvel Refused to Tell Sadie Sink About Her Spider-Man: Brand New Day Character Until Filming Started",
-      "url": "https://www.ign.com/articles/marvel-refused-to-tell-sadie-sink-about-her-spider-man-brand-new-day-character-until-filming-started",
-      "date": "Wed, 1 Jul"
-    },
-    {
-      "source": "IGN",
-      "title": "The Popular Flashforge Adventurer 5M 3D Printer Drops to Just $154 With Free Shipping",
-      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july",
-      "date": "Wed, 1 Jul"
-    },
     {
       "source": "Game Developer",
       "title": "Godot to ban (almost all) AI coding contributions",
@@ -39,118 +21,136 @@
       "date": "Wed, 01 Ju"
     },
     {
-      "source": "Game Developer",
-      "title": "PS3 and PS Vita digital stores are closing starting August 2026",
-      "url": "https://www.gamedeveloper.com/business/ps3-and-ps-vita-digital-stores-are-closing-starting-august-2026",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Killing Discs Could Mean More Expensive Games, And Fewer Discounts: \u2018This Move Is All About Profitability And Control\u2019",
-      "url": "https://kotaku.com/analysts-say-sonys-termination-disc-game-one-step-closer-death-physical-games-2000712106",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "World Of Warcraft Is Finally Fixing Its Stupidest Settings Problem After 22 Years",
-      "url": "https://kotaku.com/world-of-warcraft-finally-fixing-auto-loot-2000712079",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Stars Of Netflix\u2019s Skywalkers Climb Empire State Building, Call For Peace, Agree To Get Married, Then Get Arrested",
-      "url": "https://kotaku.com/stars-of-netflixs-skywalkers-climb-empire-state-building-call-for-peace-agree-to-get-married-then-get-arrested-2000712071",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "GameStop Is Inflating Pok\u00e9mon\u2019s 30th Anniversary Card Prices By Insane Amounts",
-      "url": "https://kotaku.com/pokemon-30-anniversary-gamestop-cards-prices-tcg-etb-2000712074",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "This Terrifying New Horror Game Wants You To Dig Up That Which Should Stay Buried",
-      "url": "https://kotaku.com/horror-game-mole-steam-review-2000712068",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "'Across the Threshold' quest walkthrough in Diablo 4 Season 14",
-      "url": "https://www.polygon.com/diablo-4-d4-across-the-threshold-quest-walkthrough-season-14-realmwalker/",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "PlayStation ending physical discs won't just impact game collectors",
-      "url": "https://www.polygon.com/playstation-physical-games-impact-analysis/",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Peacock\u2019s new horror comedy is so good, it\u2019s already renewed for season 2",
-      "url": "https://www.polygon.com/burbs-season-2-announcement-release-date/",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Metroid Ravenous seemingly leaked by ratings board",
-      "url": "https://www.polygon.com/metroid-ravenous-leak-brazil-game-rating-nintendo-switch-2/",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Publisher Krafton finally agrees to pay bonuses to every Subnautica 2 staffer as Unknown Worlds CEO Ted Gill leaves again",
-      "url": "https://www.eurogamer.net/krafton-to-pay-bonuses-to-all-subnautica-2-staffers",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "\"Dynamic pricing it is\", \"prices will surely go up\", \"this is anti-consumer\": the internet reacts with outrage and despair to PlayStation killing off physical media",
-      "url": "https://www.eurogamer.net/the-internet-reacts-to-playstation-killing-off-physical-media",
-      "date": "Wed, 01 Ju"
-    },
-    {
       "source": "IGN",
-      "title": "Onimusha: Way of the Sword Release Date Moved Forward",
-      "url": "https://www.ign.com/articles/onimusha-way-of-the-sword-release-date-moved-forward",
-      "date": "Thu, 2 Jul"
-    },
-    {
-      "source": "IGN",
-      "title": "The $1,800 Power Lift Recliner and Massage Chair Is $380 During the Wayfair 4th of July Sale",
-      "url": "https://www.ign.com/articles/wayfair-4th-of-july-sale-power-lift-recliner-and-massage-chair-deal",
+      "title": "Do You Use Your PS5 to Watch 4K Blu-ray Discs?",
+      "url": "https://www.ign.com/articles/do-you-use-your-ps5-to-watch-4k-blu-ray-discs",
       "date": "Thu, 2 Jul"
     },
     {
       "source": "Game Developer",
-      "title": "Ubisoft taps former 2K president Christoph Hartmann to oversee shooter franchises",
+      "title": "Union workers establish hardship fund to support devs impacted by layoffs",
+      "url": "https://www.gamedeveloper.com/business/union-workers-establish-hardship-fund-to-support-devs-impacted-by-layoffs",
+      "date": "Thu, 02 Ju"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Ubisoft taps former 2K president Christoph Hartmann to oversee Tom Clancy franchise",
       "url": "https://www.gamedeveloper.com/business/ubisoft-taps-former-2k-president-christoph-hartmann-to-oversee-shooter-franchises",
       "date": "Thu, 02 Ju"
     },
     {
+      "source": "Kotaku",
+      "title": "9 Perfectly Ice-Cold Video Games To Help You Survive The Summer Heat",
+      "url": "https://kotaku.com/hot-out-play-nice-cold-video-games-2000712347",
+      "date": "Thu, 02 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Hollywood Is Desperate For The Next Backrooms As Studios Buy Up Film Rights To More Creepy Online Media",
+      "url": "https://kotaku.com/hollywood-is-desperate-for-the-next-backrooms-2000712351",
+      "date": "Thu, 02 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Suicide Squad Devs Open Up About The Game\u2019s Struggles: \u2018I Started Feeling Like I Wasn\u2019t Making Games Anymore, I Was Following A Spreadsheet\u2019",
+      "url": "https://kotaku.com/suicide-squad-devs-open-up-about-the-games-struggles-i-started-feeling-like-i-wasnt-making-games-anymore-i-was-following-a-spreadsheet-2000712357",
+      "date": "Thu, 02 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Microsoft Announces New AI Company Days Before Mass Layoffs: \u2018A Learning Loop In Which Human Capital And Token Capital Compound\u2019",
+      "url": "https://kotaku.com/microsoft-announces-new-ai-company-days-before-mass-layoffs-a-learning-loop-in-which-human-capital-and-token-capital-compound-2000712342",
+      "date": "Thu, 02 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Captain America\u2019s Bulge Won\u2019t Stop Jiggling In His New Marvel Rivals Summer Skin",
+      "url": "https://kotaku.com/marvel-rivals-captain-america-summer-skin-physics-2000712337",
+      "date": "Thu, 02 Ju"
+    },
+    {
       "source": "Polygon",
-      "title": "8 Rhythm Heaven Groove tips to help you stay on beat",
-      "url": "https://www.polygon.com/rhythm-heaven-groove-beginners-tips-tricks/",
+      "title": "Dragon Strikers gets surprise season 2 2027 release date by Disney Plus",
+      "url": "https://www.polygon.com/dragon-striker-season-2-release-date/",
+      "date": "Thu, 02 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Mushoku Tensei season 3 looks like its most devastating season yet",
+      "url": "https://www.polygon.com/mushoku-tensei-season-3-anime-expo/",
       "date": "Thu, 02 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "Hideo Kojima's experimental Xbox exclusive, OD, is reportedly safe from Microsoft cuts",
-      "url": "https://www.eurogamer.net/hideo-kojima-od-knock-xbox-exclusive-safe-from-cuts",
+      "title": "Soma dev's next game, Ontos, delayed to 2027 in order to deliver on studio's \"ambitious\" vision",
+      "url": "https://www.eurogamer.net/ontos-delayed-to-2027",
       "date": "Thu, 02 Ju"
     },
     {
-      "source": "Eurogamer",
-      "title": "The surprising queerness of Elden Ring",
-      "url": "https://www.eurogamer.net/pride-week-the-surprising-queerness-of-elden-ring",
-      "date": "Thu, 02 Ju"
+      "source": "IGN",
+      "title": "Nintendo Brain Training Professor Explains Why Driving a Manual Transmission Car Is Better for Your Brain Than an Automatic",
+      "url": "https://www.ign.com/articles/nintendo-brain-training-professor-explains-why-driving-a-manual-transmission-car-is-better-for-your-brain-than-an-automatic",
+      "date": "Fri, 3 Jul"
+    },
+    {
+      "source": "IGN",
+      "title": "Suicide Squad: Kill the Justice League Developers Wanted to Quit the Industry After the Game Was Released",
+      "url": "https://www.ign.com/articles/suicide-squad-kill-the-justice-league-developers-wanted-to-quit-the-industry-after-the-game-was-released",
+      "date": "Fri, 3 Jul"
+    },
+    {
+      "source": "IGN",
+      "title": "Cape Fear Episode 6 Recap and Review \u2013 'Possum'",
+      "url": "https://www.ign.com/articles/cape-fear-episode-6-recap-and-review-possum",
+      "date": "Fri, 3 Jul"
+    },
+    {
+      "source": "IGN",
+      "title": "The $1,800 Power Lift Recliner and Massage Chair Is $370 During the Wayfair 4th of July Sale",
+      "url": "https://www.ign.com/articles/wayfair-4th-of-july-sale-power-lift-recliner-and-massage-chair-deal",
+      "date": "Fri, 3 Jul"
+    },
+    {
+      "source": "Polygon",
+      "title": "Pierre Coffin reveals why he returned to direct Minions & Monsters after sitting out the last 2 movies",
+      "url": "https://www.polygon.com/pierre-coffin-minions-monsters-interview/",
+      "date": "Fri, 03 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Dwayne Johnson's Jumanji movies are better than Robin Williams' \u2014 and it's not even close",
+      "url": "https://www.polygon.com/best-jumanji-movie-dwayne-johnson-the-rock-vs-robin-williams/",
+      "date": "Fri, 03 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "The Ninth Jedi trailer reveals a future for Star Wars beyond the Skywalker saga",
+      "url": "https://www.polygon.com/star-wars-ninth-jedi-trailer-anime-expo/",
+      "date": "Fri, 03 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "Xbox reportedly to follow PlayStation's example and ditch discs for next-gen console Project Helix",
-      "url": "https://www.eurogamer.net/xbox-project-helix-no-disc-drive-reports",
-      "date": "Thu, 02 Ju"
+      "title": "Sony has already started repurposing its lone PlayStation disc factory, and the body of physical gaming isn't even cold",
+      "url": "https://www.eurogamer.net/sony-playstation-disc-factory-repurposed",
+      "date": "Fri, 03 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Former PlayStation boss Shawn Layden on Sony's years-long debate over scrapping discs, and why this time it's probably \"a straight spreadsheet decision\"",
+      "url": "https://www.eurogamer.net/shawn-layden-playstation-scrapping-discs-sony-reaction",
+      "date": "Fri, 03 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve",
+      "url": "https://www.eurogamer.net/pride-week-baldurs-gate-3-lesbian-stories",
+      "date": "Fri, 03 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "The final Final Fantasy 7 remake game Revelation may not actually be the end of the story, leaked DLC listings suggest",
+      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-dlc-pack-leak-story-expansions",
+      "date": "Fri, 03 Ju"
     }
   ]
 }

@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-02",
+  "updated": "2026-07-03",
   "items": [
     {
-      "name": "GGST Additional Character 19 - Robo-Ky",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4413140/75538377adc4f15721ca74741df388bc0ceda63b/header.jpg?t=1782979466",
-      "url": "https://store.steampowered.com/app/4413140/",
+      "name": "Sending my Pet Rock to Heaven",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778510/07f6d1da12b655ce4dee3469509ffaed548d1645/header.jpg?t=1783069647",
+      "url": "https://store.steampowered.com/app/1778510/",
       "short_description": "",
-      "final_price": 699
+      "final_price": 359
     },
     {
-      "name": "HYPERWIRED",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234850/f94cc392a251d3da2701671e7763d034c9528f08/header.jpg?t=1782979185",
-      "url": "https://store.steampowered.com/app/3234850/",
+      "name": "Fleck & Grus",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842490/8f9043d17c2cc404594de5d4805e9666f59c6feb/header.jpg?t=1783068506",
+      "url": "https://store.steampowered.com/app/4842490/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Keepy UP",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4446120/295efd53200f492f3f47948023df105eea69454c/header.jpg?t=1783068038",
+      "url": "https://store.steampowered.com/app/4446120/",
+      "short_description": "",
+      "final_price": 809
+    },
+    {
+      "name": "Recognition",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4860510/44a8a8c23cad93cf981b19f02c9c5339dc166c10/header.jpg?t=1783066048",
+      "url": "https://store.steampowered.com/app/4860510/",
+      "short_description": "",
+      "final_price": 400
+    },
+    {
+      "name": "SYSCALL: RING ZERO",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849330/99c2d7fe79098157e632b86e4f9528536e15aa4f/header.jpg?t=1783065584",
+      "url": "https://store.steampowered.com/app/4849330/",
+      "short_description": "",
+      "final_price": 1274
+    },
+    {
+      "name": "Close The Straits!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634510/1880713843716d76c192e8e4f92aea2c08bce598/header.jpg?t=1783063844",
+      "url": "https://store.steampowered.com/app/4634510/",
+      "short_description": "",
+      "final_price": 1000
+    },
+    {
+      "name": "WinGrid",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847000/e425bf61e236624dd4cc160ef3db3fe4f5a3696b/header.jpg?t=1783063191",
+      "url": "https://store.steampowered.com/app/4847000/",
+      "short_description": "",
+      "final_price": 424
+    },
+    {
+      "name": "Laballatory",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4453320/d70dee9c527695a37671a7af11216e95d5b07a99/header.jpg?t=1783060238",
+      "url": "https://store.steampowered.com/app/4453320/",
+      "short_description": "",
+      "final_price": 499
+    },
+    {
+      "name": "Myth's and monster's",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570060/9ca2a1029c63b3663704836bd0254553ad5f2b16/header.jpg?t=1783054879",
+      "url": "https://store.steampowered.com/app/4570060/",
+      "short_description": "",
+      "final_price": 799
+    },
+    {
+      "name": "Infinity Grass Cutting",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4744610/ccd65c9f6bb9d9d8928a0ae5658be2f6138c9572/header.jpg?t=1783054837",
+      "url": "https://store.steampowered.com/app/4744610/",
+      "short_description": "",
+      "final_price": 179
+    },
+    {
+      "name": "Little Immortal Cultivator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871550/88b0bec0f64bddc078893a77a376a684814cbbb0/header.jpg?t=1783054694",
+      "url": "https://store.steampowered.com/app/3871550/",
       "short_description": "",
       "final_price": 719
     },
     {
-      "name": "The Anomaly Hunter",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774740/c6d9f9149e4e761faa3eb4dd60101dfd6e7625f3/header.jpg?t=1782977102",
-      "url": "https://store.steampowered.com/app/4774740/",
+      "name": "Master Healer Kale with useless party",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217",
+      "url": "https://store.steampowered.com/app/4634490/",
       "short_description": "",
-      "final_price": 154
-    },
-    {
-      "name": "The Inverse Mobius",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4591540/84aea6c722d16212aea9e345e6e6dae8cbe03dea/header.jpg?t=1782970388",
-      "url": "https://store.steampowered.com/app/4591540/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Stationeers: Supporters Metallic Spray Paints",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842920/7d5b99951b38e5d18139c42b068f8fc24d4dda05/header.jpg?t=1782964947",
-      "url": "https://store.steampowered.com/app/4842920/",
-      "short_description": "",
-      "final_price": 1299
-    },
-    {
-      "name": "\u9ebb\u5409\u9a91\u58eb Magic Knights",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607920/7913542258587d30bb28da8494ee3aa2ed047e65/header.jpg?t=1782964806",
-      "url": "https://store.steampowered.com/app/4607920/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "500KTV",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4707080/6d1de68c9750aaa35e18ced99813c7f6355f39e6/header.jpg?t=1782960248",
-      "url": "https://store.steampowered.com/app/4707080/",
-      "short_description": "",
-      "final_price": 1599
-    },
-    {
-      "name": "\u518d\u6218\u5927\u6781\u54c1+255",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4714810/60e2aa997b88fcf31da7cb1766ba0da764b42b69/header.jpg?t=1782957027",
-      "url": "https://store.steampowered.com/app/4714810/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "There Is No Lore",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3152430/header.jpg?t=1782955374",
-      "url": "https://store.steampowered.com/app/3152430/",
-      "short_description": "",
-      "final_price": 1439
-    },
-    {
-      "name": "Headache: Altered States",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4140910/9291501bef87b26319d60ea8ae94280964849f5b/header.jpg?t=1782945300",
-      "url": "https://store.steampowered.com/app/4140910/",
-      "short_description": "",
-      "final_price": 99
-    },
-    {
-      "name": "Silesian Wars",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849360/ee8032137ba7f87b2d3a804ceb6e5466cfb23154/header.jpg?t=1782941741",
-      "url": "https://store.steampowered.com/app/4849360/",
-      "short_description": "",
-      "final_price": 989
-    },
-    {
-      "name": "Total Chaos Against Apathy",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3613690/90af7b60fcdaa9035ff2fff628715dde13fd150f/header.jpg?t=1782953232",
-      "url": "https://store.steampowered.com/app/3613690/",
-      "short_description": "",
-      "final_price": 777
+      "final_price": 399
     }
   ]
 }
