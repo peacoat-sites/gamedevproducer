@@ -13,16 +13,16 @@ author_bio: "Jordan Lee went from solo developer to small studio founder, shippi
 slug: "kanban-boards-for-indie-game-teams-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "How many columns should a kanban board have for a small indie team?"
-    a: "Somewhere between five and seven is the sweet spot for most teams under eight people. Fewer than five and you're losing visibility into where work actually stalls; more than seven and maintenance becomes a burden that kills adoption. Start with five and add a column only when you can name a specific problem it solves."
-  - q: "Should we use kanban or Scrum for indie game development?"
-    a: "For teams under six people, kanban usually fits better because it doesn't require sprint commitments you'll constantly break. Scrum adds value when you have a publisher or external stakeholder who needs regular delivery cadences. If nobody external is waiting on you, the overhead of sprint planning rarely pays off at small scale."
-  - q: "What's the best free kanban tool for a solo or two-person game dev team?"
-    a: "Trello's free tier is genuinely sufficient for solo or two-person teams. You get unlimited cards, basic WIP limit plugins (via the Butler automation), and color labels. Notion also works if your team is already using it for documentation, though it's slightly less visual than a dedicated kanban tool."
-  - q: "How do we handle recurring tasks like weekly builds or playtesting sessions on a kanban board?"
-    a: "Don't put recurring operational tasks on your kanban board at all. They're not flow work; they're scheduled events. Put them in your calendar or a separate recurring checklist. Mixing them into your task flow pollutes the board and makes cycle time metrics meaningless."
-  - q: "When should we actually update the board, and how do we stop it going stale?"
-    a: "Daily self-updates (each person moves their own cards) combined with a 30-minute weekly team review is the pattern that sticks. If you can't get daily updates, do them at the start and end of each work session. What doesn't work: assigning one person to maintain the board for everyone else. It always drifts, and then nobody trusts it."
+ - q: "How many columns should a kanban board have for a small indie team?"
+ a: "Somewhere between five and seven is the sweet spot for most teams under eight people. Fewer than five and you're losing visibility into where work actually stalls; more than seven and maintenance becomes a burden that kills adoption. Start with five and add a column only when you can name a specific problem it solves."
+ - q: "Should we use kanban or Scrum for indie game development?"
+ a: "For teams under six people, kanban usually fits better because it doesn't require sprint commitments you'll constantly break. Scrum adds value when you have a publisher or external stakeholder who needs regular delivery cadences. If nobody external is waiting on you, the overhead of sprint planning rarely pays off at small scale."
+ - q: "What's the best free kanban tool for a solo or two-person game dev team?"
+ a: "Trello's free tier is genuinely sufficient for solo or two-person teams. You get unlimited cards, basic WIP limit plugins (via the Butler automation), and color labels. Notion also works if your team is already using it for documentation, though it's slightly less visual than a dedicated kanban tool."
+ - q: "How do we handle recurring tasks like weekly builds or playtesting sessions on a kanban board?"
+ a: "Don't put recurring operational tasks on your kanban board at all. They're not flow work; they're scheduled events. Put them in your calendar or a separate recurring checklist. Mixing them into your task flow pollutes the board and makes cycle time metrics meaningless."
+ - q: "When should we actually update the board, and how do we stop it going stale?"
+ a: "Daily self-updates (each person moves their own cards) combined with a 30-minute weekly team review is the pattern that sticks. If you can't get daily updates, do them at the start and end of each work session. What doesn't work: assigning one person to maintain the board for everyone else. It always drifts, and then nobody trusts it."
 ---
 
 Most kanban advice online was written for software developers shipping features to paying enterprise customers. That's a problem, because indie game dev doesn't look anything like that.

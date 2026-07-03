@@ -11,10 +11,7 @@ author_slug: "samantha-roberts"
 author_title: "Publishing Strategist"
 author_bio: "Samantha Roberts has spent her career navigating the publisher side of the games industry: first pitching indie studios to publishers, then working inside a publishing label evaluating hundreds of projects. She knows what publishers look for and what indie developers consistently get wrong in their pitch decks. At GameDevProducer, she covers publishing strategy, funding, and the business of bringing a game to market."
 slug: "qa-testing-workflow-for-indie-games-explained"
-affiliate_disclosure: true
----
-
-Most indie teams treat QA like a final checkbox. Build the thing, then hand it to a friend for a weekend, fix the obvious crashes, ship it. I did this on my second project and watched a game-breaking save corruption bug hit the Steam forums within six hours of launch. Reviews tanked before I even woke up on release day. That experience rewired how I think about testing permanently.
+affiliate_disclosure: true, Most indie teams treat QA like a final checkbox. Build the thing, then hand it to a friend for a weekend, fix the obvious crashes, ship it. I did this on my second project and watched a game-breaking save corruption bug hit the Steam forums within six hours of launch. Reviews tanked before I even woke up on release day. That experience rewired how I think about testing permanently.
 
 Here's what actually surprises people when they look at QA seriously for the first time: the workflow matters more than the headcount. A solo tester with a structured process will find more critical bugs than five people playing around without one. That's not motivational-poster stuff, that's just true. Structure determines what gets found, documented, and actually fixed versus what gets clicked through once and forgotten.
 

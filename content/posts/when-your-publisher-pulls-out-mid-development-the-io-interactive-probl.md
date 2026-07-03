@@ -11,10 +11,7 @@ author_slug: "marcus-webb"
 author_title: "Technical Lead"
 author_bio: "Marcus Webb is a game programmer who has shipped titles on four different engines and spent years leading technical teams on projects ranging from small indie releases to mid-budget productions. He approaches technical leadership as a craft, not just a job title. At GameDevProducer, he covers engine decisions, technical architecture, programming pipelines, and leading developers without micromanaging them."
 slug: "when-your-publisher-pulls-out-mid-development-the-io-interactive-probl"
-affiliate_disclosure: true
----
-
-Most coverage of the IO Interactive situation is framing this as an Xbox story. It isn't. It's a studio survival story, and the lessons cut across every team currently holding a publisher deal as their primary lifeline.
+affiliate_disclosure: true, Most coverage of the IO Interactive situation is framing this as an Xbox story. It isn't. It's a studio survival story, and the lessons cut across every team currently holding a publisher deal as their primary lifeline.
 
 On June 30, 2026, Xbox confirmed it had pulled funding and publishing support for Project Fantasy, IO Interactive's online fantasy RPG that had been in development for at least three years. The timing is brutal: IO just shipped 007 First Light to commercial success, proving the studio could deliver. None of that mattered. The deal was gone anyway, "staffing decisions" followed immediately, and the studio is now scrambling to figure out what comes next with a partially built online game that needs a publisher or a radical scope rethink.
 
@@ -61,11 +58,11 @@ The IO Interactive situation isn't a cautionary tale about a studio that did som
 Project Fantasy was none of those things. Most games in development aren't, either.
 
 ## Sources
-- [Xbox Pulls Out of Project Fantasy Video Game From IO Interactive – Bloomberg](https://www.bloomberg.com/news/articles/2026-06-30/microsoft-s-xbox-pulls-out-of-project-fantasy-video-game-from-io-interactive) (June 30, 2026)
-- [IO Interactive warns of 'staffing decisions' as Xbox pulls out of deal to publish Project Fantasy – PC Gamer](https://www.pcgamer.com/gaming-industry/ahead-of-next-weeks-expected-xbox-bloodbath-io-interactive-loses-funding-for-its-online-fantasy-rpg/) (June 30, 2026)
-- [IO Interactive Loses Xbox Funding for Project Fantasy Despite 007 First Light Success – GameRiv](https://gameriv.com/io-interactive-loses-xbox-funding-for-project-fantasy-despite-007-first-light-success/) (June 30, 2026)
-- [Xbox Pulls Funding From IO Interactive's Project Fantasy, Triggering Layoffs – ThePCEnthusiast](https://thepcenthusiast.com/io-interactive-project-fantasy-xbox-funding-layoffs/) (July 1, 2026)
-- [Video Game Industry Layoffs 2026: 1 in 3 US Devs Cut – Tech Insider](https://tech-insider.org/video-game-industry-layoffs-2026/) (July 1, 2026)
-- [Xbox Layoffs Are Coming – and Up to Five Studios May Not Survive – Yahoo Finance](https://finance.yahoo.com/technology/articles/xbox-layoffs-coming-five-studios-191942396.html) (June 30, 2026)
+- [Xbox Pulls Out of Project Fantasy Video Game From IO Interactive, Bloomberg](https://www.bloomberg.com/news/articles/2026-06-30/microsoft-s-xbox-pulls-out-of-project-fantasy-video-game-from-io-interactive) (June 30, 2026)
+- [IO Interactive warns of 'staffing decisions' as Xbox pulls out of deal to publish Project Fantasy, PC Gamer](https://www.pcgamer.com/gaming-industry/ahead-of-next-weeks-expected-xbox-bloodbath-io-interactive-loses-funding-for-its-online-fantasy-rpg/) (June 30, 2026)
+- [IO Interactive Loses Xbox Funding for Project Fantasy Despite 007 First Light Success, GameRiv](https://gameriv.com/io-interactive-loses-xbox-funding-for-project-fantasy-despite-007-first-light-success/) (June 30, 2026)
+- [Xbox Pulls Funding From IO Interactive's Project Fantasy, Triggering Layoffs, ThePCEnthusiast](https://thepcenthusiast.com/io-interactive-project-fantasy-xbox-funding-layoffs/) (July 1, 2026)
+- [Video Game Industry Layoffs 2026: 1 in 3 US Devs Cut, Tech Insider](https://tech-insider.org/video-game-industry-layoffs-2026/) (July 1, 2026)
+- [Xbox Layoffs Are Coming, and Up to Five Studios May Not Survive, Yahoo Finance](https://finance.yahoo.com/technology/articles/xbox-layoffs-coming-five-studios-191942396.html) (June 30, 2026)
 
 *Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*

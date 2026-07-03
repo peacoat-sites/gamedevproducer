@@ -11,9 +11,7 @@ author_slug: "marcus-webb"
 author_title: "Technical Lead"
 author_bio: "Marcus Webb is a game programmer who has shipped titles on four different engines and spent years leading technical teams on projects ranging from small indie releases to mid-budget productions. He approaches technical leadership as a craft, not just a job title. At GameDevProducer, he covers engine decisions, technical architecture, programming pipelines, and leading developers without micromanaging them."
 slug: "what-the-xbox-reset-means-for-studios-trying-to-go-independent"
-affiliate_disclosure: true
----
-The industry's been obsessing over the drama: Craig Duncan out after 18 months, Louise O'Connor gone the same day, Asha Sharma's memo hitting like a grenade. What's barely getting mentioned is the structural question underneath all of it, the one that actually matters if you're making games right now. When a platform holder decides its studio portfolio is "overextended," what are a first-party studio's real options, and how survivable are they?
+affiliate_disclosure: true, The industry's been obsessing over the drama: Craig Duncan out after 18 months, Louise O'Connor gone the same day, Asha Sharma's memo hitting like a grenade. What's barely getting mentioned is the structural question underneath all of it, the one that actually matters if you're making games right now. When a platform holder decides its studio portfolio is "overextended," what are a first-party studio's real options, and how survivable are they?
 
 According to Game Developer, Compulsion Games leadership was in active negotiations with Microsoft over the studio's fate as of June 15. Double Fine and Ninja Theory are reportedly in spin-off talks. These aren't small shops. Compulsion has roughly 90 employees and just shipped South of Midnight to genuine critical praise. Double Fine made Psychonauts 2. Ninja Theory's reputation needs no summary. If studios with that kind of output and profile are negotiating for survival, the assumption most developers live by, make good games and the publisher keeps you, is clearly broken.
 

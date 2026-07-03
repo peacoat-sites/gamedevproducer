@@ -13,16 +13,16 @@ author_bio: "Ryan Cole has spent a decade working in game production across mobi
 slug: "how-to-transition-from-qa-to-game-production"
 affiliate_disclosure: true
 faqs:
-  - q: "How long does it typically take to move from QA to production?"
-    a: "Anywhere from one year to four, honestly. The spread is wide because it depends almost entirely on how deliberately you pursue it. Testers who actively do the things above, document it, have the conversation, and apply externally if needed, tend to move in 18 to 24 months. Testers who wait for it to happen to them wait much longer."
-  - q: "Do I need a degree in game design or production management to make this switch?"
-    a: "No. I've hired AP candidates from QA backgrounds with no relevant degree and passed on candidates with production management degrees who couldn't demonstrate they understood how a real development team functions. Direct experience reads louder than credentials in this industry, especially at the associate level."
-  - q: "Should I apply for AP roles at studios I don't currently work at before trying internally?"
-    a: "Yes, and sooner than feels comfortable. Interviewing externally does two things: it tells you what the market actually values, and it gives you leverage (not the buzzword kind, the real kind) if you want to have a more direct conversation with your current employer. You don't have to take a competing offer to benefit from having one."
-  - q: "What's the hardest part of the QA-to-production transition that no one warns you about?"
-    a: "The shift from a reactive role to a proactive one. In QA, your job is to respond to what's in front of you. In production, your job is to anticipate what's coming and prevent problems before they arrive. That mental model switch is harder than it sounds, and it catches a lot of new APs off guard in their first three months. The testers who do best in production are the ones who've already been thinking that way in QA."
-  - q: "Is it worth taking a pay cut to get an AP title at a smaller studio?"
-    a: "Usually yes, if the alternative is staying in QA for another 18 months waiting for an internal slot. Title and role history compound. An AP at a 20-person studio for two years sets you up for a full producer role much faster than another two years of QA at a larger one. Run the two-year math, not the one-year math."
+ - q: "How long does it typically take to move from QA to production?"
+ a: "Anywhere from one year to four, honestly. The spread is wide because it depends almost entirely on how deliberately you pursue it. Testers who actively do the things above, document it, have the conversation, and apply externally if needed, tend to move in 18 to 24 months. Testers who wait for it to happen to them wait much longer."
+ - q: "Do I need a degree in game design or production management to make this switch?"
+ a: "No. I've hired AP candidates from QA backgrounds with no relevant degree and passed on candidates with production management degrees who couldn't demonstrate they understood how a real development team functions. Direct experience reads louder than credentials in this industry, especially at the associate level."
+ - q: "Should I apply for AP roles at studios I don't currently work at before trying internally?"
+ a: "Yes, and sooner than feels comfortable. Interviewing externally does two things: it tells you what the market actually values, and it gives you leverage (not the buzzword kind, the real kind) if you want to have a more direct conversation with your current employer. You don't have to take a competing offer to benefit from having one."
+ - q: "What's the hardest part of the QA-to-production transition that no one warns you about?"
+ a: "The shift from a reactive role to a proactive one. In QA, your job is to respond to what's in front of you. In production, your job is to anticipate what's coming and prevent problems before they arrive. That mental model switch is harder than it sounds, and it catches a lot of new APs off guard in their first three months. The testers who do best in production are the ones who've already been thinking that way in QA."
+ - q: "Is it worth taking a pay cut to get an AP title at a smaller studio?"
+ a: "Usually yes, if the alternative is staying in QA for another 18 months waiting for an internal slot. Title and role history compound. An AP at a 20-person studio for two years sets you up for a full producer role much faster than another two years of QA at a larger one. Run the two-year math, not the one-year math."
 ---
 
 QA is the best job in the games industry for getting into production, and almost no one talks about why. They're too busy warning you about the grind, the low pay, the repetitive test cases. All of that is true. It's also beside the point.

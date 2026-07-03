@@ -13,16 +13,16 @@ author_bio: "Priya Sharma is a game designer with a particular focus on systems 
 slug: "sprint-planning-for-small-game-teams-guide"
 affiliate_disclosure: true
 faqs:
-  - q: "How long should sprint planning take for a small team?"
-    a: "For teams of two to five people, ninety minutes is the target. If you're regularly going over two hours, your backlog isn't groomed well enough before the session. Spend thirty minutes doing lightweight backlog refinement the day before planning, and the session itself will be much faster."
-  - q: "Should every team member attend sprint planning?"
-    a: "Yes, everyone who's contributing work to the sprint should be in the room. This includes contractors if they're doing sprint-tracked work. The planning session is where commitments get made, and people who weren't in the room don't feel the same ownership over those commitments."
-  - q: "What do we do when a sprint task turns out to be way bigger than estimated?"
-    a: "Stop the task at the mid-sprint check-in, not at sprint review. If something is clearly going to blow past its estimate by more than 50%, bring it to the producer immediately. Either scope it down to a shippable subset, move the remainder to next sprint, or swap it out entirely. Waiting until sprint review to flag it is too late and wastes everyone's time."
-  - q: "How do we handle tasks that carry over from sprint to sprint?"
-    a: "A task that carries over once is normal. Twice in a row is a signal. Three times means it's either badly estimated, blocked by something nobody's naming out loud, or it's not actually a priority and should go back to the backlog. Chronic carryover is a planning problem, not a execution problem."
-  - q: "Do we need a dedicated producer or scrum master for this to work?"
-    a: "No, but someone has to own the backlog and run the ceremony. On a three-person team, that's usually whoever is strongest at project thinking, even if their primary role is design or code. What doesn't work is 'everyone owns it together,' which in practice means nobody does."
+ - q: "How long should sprint planning take for a small team?"
+ a: "For teams of two to five people, ninety minutes is the target. If you're regularly going over two hours, your backlog isn't groomed well enough before the session. Spend thirty minutes doing lightweight backlog refinement the day before planning, and the session itself will be much faster."
+ - q: "Should every team member attend sprint planning?"
+ a: "Yes, everyone who's contributing work to the sprint should be in the room. This includes contractors if they're doing sprint-tracked work. The planning session is where commitments get made, and people who weren't in the room don't feel the same ownership over those commitments."
+ - q: "What do we do when a sprint task turns out to be way bigger than estimated?"
+ a: "Stop the task at the mid-sprint check-in, not at sprint review. If something is clearly going to blow past its estimate by more than 50%, bring it to the producer immediately. Either scope it down to a shippable subset, move the remainder to next sprint, or swap it out entirely. Waiting until sprint review to flag it is too late and wastes everyone's time."
+ - q: "How do we handle tasks that carry over from sprint to sprint?"
+ a: "A task that carries over once is normal. Twice in a row is a signal. Three times means it's either badly estimated, blocked by something nobody's naming out loud, or it's not actually a priority and should go back to the backlog. Chronic carryover is a planning problem, not a execution problem."
+ - q: "Do we need a dedicated producer or scrum master for this to work?"
+ a: "No, but someone has to own the backlog and run the ceremony. On a three-person team, that's usually whoever is strongest at project thinking, even if their primary role is design or code. What doesn't work is 'everyone owns it together,' which in practice means nobody does."
 ---
 
 Most sprint planning guides are written for software teams building CRMs. They assume you have a scrum master, a product owner, a development team, and a QA department. If you're a four-person indie studio where the "art director" also does UI and occasionally writes dialogue, that framework is going to fit you like a suit two sizes too big.

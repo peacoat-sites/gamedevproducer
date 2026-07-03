@@ -13,16 +13,16 @@ author_bio: "Ryan Cole has spent a decade working in game production across mobi
 slug: "portfolio-tips-for-aspiring-game-producers"
 affiliate_disclosure: true
 faqs:
-  - q: "Do I need shipped commercial games to get a producer job?"
-    a: "No, but you need to show you can manage production on something real. Strong student project case studies with actual production artifacts (schedules, retrospectives, milestone docs) are taken seriously at most studios, especially on the junior side."
-  - q: "How long should my producer portfolio be?"
-    a: "Shorter than you think. Two or three deep project case studies beat ten shallow ones every time. A hiring manager at a mid-size studio might spend four minutes on your portfolio. Make those four minutes count with clarity and specificity, not volume."
-  - q: "Should I include games I didn't finish?"
-    a: "Yes, with honest context. A canceled or unfinished project where you can clearly explain what happened, what you learned, and what you'd do differently is more valuable than a finished game where you can't articulate your contribution. Unfinished projects are the norm in this industry, not a scandal."
-  - q: "What's the best tool for building my producer portfolio?"
-    a: "Notion is genuinely good for this and costs nothing. It handles documents, embedded spreadsheets, links to build demos, and looks clean enough to share. If you want something more formal, a PDF sent via email still works fine. Don't overthink the tool."
-  - q: "How do I show production skills if I've never been officially the producer on a project?"
-    a: "Look at what you actually did. Did you run standups? Track tasks? Write a post-mortem? Coordinate with an audio contractor? Any of those is producer work. Retroactively document it clearly and own the contribution. A lot of people have been producing without the title. The portfolio is where you name it."
+ - q: "Do I need shipped commercial games to get a producer job?"
+ a: "No, but you need to show you can manage production on something real. Strong student project case studies with actual production artifacts (schedules, retrospectives, milestone docs) are taken seriously at most studios, especially on the junior side."
+ - q: "How long should my producer portfolio be?"
+ a: "Shorter than you think. Two or three deep project case studies beat ten shallow ones every time. A hiring manager at a mid-size studio might spend four minutes on your portfolio. Make those four minutes count with clarity and specificity, not volume."
+ - q: "Should I include games I didn't finish?"
+ a: "Yes, with honest context. A canceled or unfinished project where you can clearly explain what happened, what you learned, and what you'd do differently is more valuable than a finished game where you can't articulate your contribution. Unfinished projects are the norm in this industry, not a scandal."
+ - q: "What's the best tool for building my producer portfolio?"
+ a: "Notion is genuinely good for this and costs nothing. It handles documents, embedded spreadsheets, links to build demos, and looks clean enough to share. If you want something more formal, a PDF sent via email still works fine. Don't overthink the tool."
+ - q: "How do I show production skills if I've never been officially the producer on a project?"
+ a: "Look at what you actually did. Did you run standups? Track tasks? Write a post-mortem? Coordinate with an audio contractor? Any of those is producer work. Retroactively document it clearly and own the contribution. A lot of people have been producing without the title. The portfolio is where you name it."
 ---
 Every aspiring game producer I've met has the same question, and almost none of them phrase it right. They ask "what should I put in my portfolio?" when the real question is "what does a hiring producer actually need to see before they'll trust me with a team and a budget?" Those are very different questions, and answering the second one changes everything about how you build your portfolio.
 

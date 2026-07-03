@@ -11,16 +11,16 @@ author_bio: "Samantha Roberts writes about game publishing, pitching, and bringi
 slug: "self-publishing-vs-game-publisher-pros-and-cons"
 affiliate_disclosure: true
 faqs:
-  - q: "Can a small studio realistically self-publish a console game?"
-    a: "Yes, but it's significantly harder than a PC-only release. Console certification, devkits, and first-party submission processes add real time and cost. Platform holders like Nintendo and Sony have programs for independent developers (Nintendo's Developer Portal, PlayStation's developer site), but getting promotional placement without a publisher is a steep climb."
-  - q: "What's a fair royalty split in a publishing deal?"
-    a: "There's no universal 'fair' -- it depends entirely on what the publisher is contributing. If they're funding development and marketing, 50/50 post-recoupment is common. If they're only doing marketing with no advance, you should be getting 65-70% or better. Any deal where you don't own your IP outright at the end needs extra scrutiny."
-  - q: "How long does a typical indie publishing contract last?"
-    a: "Most standard contracts run for the life of the game's commercial release, which in practice means indefinitely on the platforms you launch on. Rights reversion clauses (which return your IP if the publisher stops actively distributing or marketing the game) are worth fighting for during negotiation. Not every publisher will agree, but it's a reasonable ask."
-  - q: "Should I go to publishers before finishing the game or after?"
-    a: "Publishers want to see enough to evaluate the game -- usually a playable vertical slice and strong key art, not a finished product. Approaching too early (concept only) wastes everyone's time. Approaching post-launch with a game that's already selling removes your negotiating leverage because you don't need them anymore. The sweet spot is roughly six to twelve months before your planned release date."
-  - q: "What happens if my publisher goes bankrupt or gets acquired?"
-    a: "This is more common than people expect. Your contract should specify what happens to your IP in these scenarios. In acquisition cases, your contract typically transfers to the acquiring company. In bankruptcy, it gets complicated fast and may end up in IP limbo. Rights reversion clauses triggered by breach of contract or insolvency are something to negotiate for, even if you don't expect to use them."
+ - q: "Can a small studio realistically self-publish a console game?"
+ a: "Yes, but it's significantly harder than a PC-only release. Console certification, devkits, and first-party submission processes add real time and cost. Platform holders like Nintendo and Sony have programs for independent developers (Nintendo's Developer Portal, PlayStation's developer site), but getting promotional placement without a publisher is a steep climb."
+ - q: "What's a fair royalty split in a publishing deal?"
+ a: "There's no universal 'fair' -- it depends entirely on what the publisher is contributing. If they're funding development and marketing, 50/50 post-recoupment is common. If they're only doing marketing with no advance, you should be getting 65-70% or better. Any deal where you don't own your IP outright at the end needs extra scrutiny."
+ - q: "How long does a typical indie publishing contract last?"
+ a: "Most standard contracts run for the life of the game's commercial release, which in practice means indefinitely on the platforms you launch on. Rights reversion clauses (which return your IP if the publisher stops actively distributing or marketing the game) are worth fighting for during negotiation. Not every publisher will agree, but it's a reasonable ask."
+ - q: "Should I go to publishers before finishing the game or after?"
+ a: "Publishers want to see enough to evaluate the game, usually a playable vertical slice and strong key art, not a finished product. Approaching too early (concept only) wastes everyone's time. Approaching post-launch with a game that's already selling removes your negotiating leverage because you don't need them anymore. The sweet spot is roughly six to twelve months before your planned release date."
+ - q: "What happens if my publisher goes bankrupt or gets acquired?"
+ a: "This is more common than people expect. Your contract should specify what happens to your IP in these scenarios. In acquisition cases, your contract typically transfers to the acquiring company. In bankruptcy, it gets complicated fast and may end up in IP limbo. Rights reversion clauses triggered by breach of contract or insolvency are something to negotiate for, even if you don't expect to use them."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
 ---
@@ -83,7 +83,7 @@ Get an entertainment lawyer who specializes in games to review any publishing co
 
 I'm not anti-publisher. For certain situations, signing is the smarter call.
 
-If you're a small team making a genre game that needs console presence (action-RPG, narrative adventure, platformer), and you don't have an existing community or press relationships, a publisher is probably worth the revenue cut. Console certification, first-party relationships, physical distribution if that still matters to your game, platform features -- all of this is genuinely hard to replicate solo.
+If you're a small team making a genre game that needs console presence (action-RPG, narrative adventure, platformer), and you don't have an existing community or press relationships, a publisher is probably worth the revenue cut. Console certification, first-party relationships, physical distribution if that still matters to your game, platform features, all of this is genuinely hard to replicate solo.
 
 If you need the advance to finish the game, and your alternatives are "take the deal" or "don't ship," take the deal.
 
@@ -95,7 +95,7 @@ The worst scenario is signing with a publisher out of fear rather than strategy.
 
 Whether you self-publish or go with a publisher, you're a producer now. You need systems.
 
-For project management, **Hacknplan** is purpose-built for game dev and handles milestone tracking well. If your team is used to Jira, it's fine, but the setup overhead is real. For smaller teams, **Linear** has become my personal preference -- it's fast, opinionated, and doesn't require you to configure everything from scratch.
+For project management, **Hacknplan** is purpose-built for game dev and handles milestone tracking well. If your team is used to Jira, it's fine, but the setup overhead is real. For smaller teams, **Linear** has become my personal preference, it's fast, opinionated, and doesn't require you to configure everything from scratch.
 
 For financial tracking and milestone documentation (critical if you're dealing with a publisher's recoupable budget), **Notion** combined with a proper spreadsheet (Google Sheets, nothing fancy) is honestly sufficient for most indie studios. Don't overcomplicate it.
 

@@ -11,16 +11,16 @@ author_bio: "Ryan Cole covers game production and milestone planning at GameDevP
 slug: "kanban-vs-scrum-for-game-development-which-to-use"
 affiliate_disclosure: true
 faqs:
-  - q: "Can you run Scrum and Kanban at the same time in one studio?"
-    a: "Yes, and many studios above thirty people do exactly this. Feature teams run two-week sprints while QA, live ops, and art outsourcing pipelines run on Kanban boards. The key is not mixing metrics. Don't average QA cycle time into feature team velocity. Keep the boards and the conversations separate."
-  - q: "What's the most common mistake game teams make with Scrum?"
-    a: "Treating sprint planning as a formality and then quietly swapping tasks mid-sprint without telling anyone. This destroys velocity data and, more importantly, it erodes trust in the process. If your team is regularly starting things that weren't in the sprint plan, the sprint goal wasn't meaningful to begin with. Fix the goal before blaming the framework."
-  - q: "Do small indie teams need a framework at all?"
-    a: "A team of two to three people doesn't need Scrum ceremonies, but they still benefit from a visible board and explicit WIP limits. Even a physical sticky-note board with 'Doing,' 'Review,' and 'Done' columns adds enough structure to avoid the invisible work problem, where someone spends three days on something nobody knew was in progress."
-  - q: "How do you handle a game director who keeps changing priorities mid-sprint?"
-    a: "This is the number-one political problem with Scrum in game studios. The framework gives you a tool: the sprint goal. If a director wants to change priority mid-sprint, the conversation becomes 'that change breaks the sprint goal we agreed to, which means we either abandon the sprint or we treat this as an exception, not a habit.' That's not confrontational, it's just making the cost visible. Keep a record of how often sprint goals get broken. That data is useful in retrospectives."
-  - q: "Is Kanban actually faster than Scrum?"
-    a: "Neither framework is inherently faster. Kanban often feels faster because it removes the overhead of sprint planning and review ceremonies. But speed is really a function of WIP limits, clear definitions of done, and fast feedback loops. A Scrum team with tight sprint goals and a two-day review cycle can ship faster than a Kanban team with no WIP limits and a clogged review column."
+ - q: "Can you run Scrum and Kanban at the same time in one studio?"
+ a: "Yes, and many studios above thirty people do exactly this. Feature teams run two-week sprints while QA, live ops, and art outsourcing pipelines run on Kanban boards. The key is not mixing metrics. Don't average QA cycle time into feature team velocity. Keep the boards and the conversations separate."
+ - q: "What's the most common mistake game teams make with Scrum?"
+ a: "Treating sprint planning as a formality and then quietly swapping tasks mid-sprint without telling anyone. This destroys velocity data and, more importantly, it erodes trust in the process. If your team is regularly starting things that weren't in the sprint plan, the sprint goal wasn't meaningful to begin with. Fix the goal before blaming the framework."
+ - q: "Do small indie teams need a framework at all?"
+ a: "A team of two to three people doesn't need Scrum ceremonies, but they still benefit from a visible board and explicit WIP limits. Even a physical sticky-note board with 'Doing,' 'Review,' and 'Done' columns adds enough structure to avoid the invisible work problem, where someone spends three days on something nobody knew was in progress."
+ - q: "How do you handle a game director who keeps changing priorities mid-sprint?"
+ a: "This is the number-one political problem with Scrum in game studios. The framework gives you a tool: the sprint goal. If a director wants to change priority mid-sprint, the conversation becomes 'that change breaks the sprint goal we agreed to, which means we either abandon the sprint or we treat this as an exception, not a habit.' That's not confrontational, it's just making the cost visible. Keep a record of how often sprint goals get broken. That data is useful in retrospectives."
+ - q: "Is Kanban actually faster than Scrum?"
+ a: "Neither framework is inherently faster. Kanban often feels faster because it removes the overhead of sprint planning and review ceremonies. But speed is really a function of WIP limits, clear definitions of done, and fast feedback loops. A Scrum team with tight sprint goals and a two-day review cycle can ship faster than a Kanban team with no WIP limits and a clogged review column."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
@@ -93,7 +93,7 @@ Whether you're moving from Scrum to Kanban or the reverse, the transition itself
 
 ## Sources
 
-- [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova)
+- [KATRIN BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova)
 - that helps with forecasting
 
 
@@ -111,4 +111,4 @@ Online, **Scrum.org's Professional Scrum Master courses** are worth your time ev
 
 The honest answer is that most game teams land on a hybrid eventually, with Scrum providing milestone structure and Kanban handling continuous flow work that doesn't fit neatly into time boxes. Start with whichever framework matches your current phase, track one or two real metrics (velocity or cycle time, not both simultaneously), and revisit the choice every couple of months. The framework should serve the game. If it's not, change it.
 
-*Photo: [KATRIN  BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
+*Photo: [KATRIN BOLOVTSOVA](https://www.pexels.com/@ekaterina-bolovtsova) via Pexels*
