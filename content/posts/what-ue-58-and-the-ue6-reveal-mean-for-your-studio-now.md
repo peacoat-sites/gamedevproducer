@@ -11,7 +11,9 @@ author_slug: "tyler-brooks"
 author_title: "Studio & Leadership Writer"
 author_bio: "Tyler Brooks has managed game development teams for over a decade, scaling one studio from a two-person project to a full team. He has navigated the full studio lifecycle and writes about what actually works when it comes to building and leading a game development organization. At GameDevProducer, he covers team management, studio operations, hiring, culture, and the leadership challenges that come with growing a game development business."
 slug: "what-ue-58-and-the-ue6-reveal-mean-for-your-studio-now"
-affiliate_disclosure: true, If you've been deep in production this week, Unreal Fest Chicago probably flew right past you. That's fine. But here's the thing: the announcements Epic dropped at State of Unreal 2026 are the kind that quietly reshape the next 18 months of decisions, especially if you're mid-project on UE5.
+affiliate_disclosure: true
+---
+If you've been deep in production this week, Unreal Fest Chicago probably flew right past you. That's fine. But here's the thing: the announcements Epic dropped at State of Unreal 2026 are the kind that quietly reshape the next 18 months of decisions, especially if you're mid-project on UE5.
 
 The headlines: 5.8 shipped. It's almost certainly the last major UE5 release. UE6 is real, dated, and coming with some genuinely structural changes underneath. So what should you actually do right now?
 

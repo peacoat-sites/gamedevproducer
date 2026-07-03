@@ -11,7 +11,9 @@ author_slug: "marcus-webb"
 author_title: "Technical Lead"
 author_bio: "Marcus Webb is a game programmer who has shipped titles on four different engines and spent years leading technical teams on projects ranging from small indie releases to mid-budget productions. He approaches technical leadership as a craft, not just a job title. At GameDevProducer, he covers engine decisions, technical architecture, programming pipelines, and leading developers without micromanaging them."
 slug: "when-your-publisher-pulls-out-mid-development-the-io-interactive-probl"
-affiliate_disclosure: true, Most coverage of the IO Interactive situation is framing this as an Xbox story. It isn't. It's a studio survival story, and the lessons cut across every team currently holding a publisher deal as their primary lifeline.
+affiliate_disclosure: true
+---
+Most coverage of the IO Interactive situation is framing this as an Xbox story. It isn't. It's a studio survival story, and the lessons cut across every team currently holding a publisher deal as their primary lifeline.
 
 On June 30, 2026, Xbox confirmed it had pulled funding and publishing support for Project Fantasy, IO Interactive's online fantasy RPG that had been in development for at least three years. The timing is brutal: IO just shipped 007 First Light to commercial success, proving the studio could deliver. None of that mattered. The deal was gone anyway, "staffing decisions" followed immediately, and the studio is now scrambling to figure out what comes next with a partially built online game that needs a publisher or a radical scope rethink.
 
