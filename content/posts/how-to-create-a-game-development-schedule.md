@@ -11,20 +11,20 @@ author_bio: "Ryan Cole covers game production and milestone planning at GameDevP
 slug: "how-to-create-a-game-development-schedule"
 affiliate_disclosure: true
 faqs:
-  - q: "How long should a game development schedule actually be for an indie game?"
-    a: "Depends heavily on scope and team size, but here's a rough framework. Solo developer making a small arcade-style game: 6-12 months. 2-4 person team making a mid-scope narrative or platformer: 18-30 months. Team of 6-10 making something with substantial content (RPG, open world lite, etc.): 2-4 years. If your timeline is shorter than these, check your scope assumptions carefully. If it's longer, check your team structure. The research on indie completion rates suggests that projects scoped beyond 3 years for small teams have very low completion rates, largely due to team and motivation dynamics"
-  - q: "What's the difference between a milestone schedule and a sprint schedule?"
-    a: "A milestone schedule defines the major project gates: what the game looks like at pre-production complete, vertical slice, alpha, beta, and gold. These are typically monthly or quarterly checkpoints. A sprint schedule operates inside those milestones, usually in 2-week cycles, and defines exactly which tasks the team is working on right now. You need both. The milestone schedule tells you if you're on track for the big picture. The sprint schedule tells you what to do on Tuesday."
-  - q: "Should I use story points or hours for game dev estimates?"
-    a: "Honestly, the research here is mixed. Story points have the advantage of decoupling estimation from calendar time, which reduces the anchoring bias that comes when you say 'this will take 8 hours' and then feel obligated to finish in 8 hours regardless. Hours have the advantage of being immediately readable by non-technical stakeholders (producers, leads, publishers). For most game teams, I recommend starting with hours but converting to a velocity-based tracking system once you have 4-6 weeks of actual data. That data will tell you your team's real throughput far better than any upfront estim"
-  - q: "How do you handle schedule dependencies, like when art blocks programming or vice versa?"
-    a: "Map your critical path explicitly. The critical path is the sequence of dependent tasks where any delay directly delays the milestone. In game dev, this is often: design spec locks, then art starts, then programming integrates, then QA validates. If art is waiting on design, that's a critical path block. Dependencies need to be visible in your schedule tool, not just in someone's head. I keep a separate 'dependency register' (even if it's just a short table) that lists every cross-discipline hand-off point, who owns it, and when it needs to land."
-  - q: "What do I do when my team consistently underestimates tasks?"
-    a: "Stop trying to fix the estimates. Start tracking actuals and calculate your team's estimation ratio. If estimates are consistently 60% of actuals, apply a 1.7x multiplier to all future estimates automatically. This is called a velocity adjustment and it's much more reliable than trying to get people to estimate better through willpower. Over time, as you build a history of similar tasks, your estimates will naturally improve because they'll be anchored to real data rather than optimism."
+ - q: "How long should a game development schedule actually be for an indie game?"
+ a: "Depends heavily on scope and team size, but here's a rough framework. Solo developer making a small arcade-style game: 6-12 months. 2-4 person team making a mid-scope narrative or platformer: 18-30 months. Team of 6-10 making something with substantial content (RPG, open world lite, etc.): 2-4 years. If your timeline is shorter than these, check your scope assumptions carefully. If it's longer, check your team structure. The research on indie completion rates suggests that projects scoped beyond 3 years for small teams have very low completion rates, largely due to team and motivation dynamics"
+ - q: "What's the difference between a milestone schedule and a sprint schedule?"
+ a: "A milestone schedule defines the major project gates: what the game looks like at pre-production complete, vertical slice, alpha, beta, and gold. These are typically monthly or quarterly checkpoints. A sprint schedule operates inside those milestones, usually in 2-week cycles, and defines exactly which tasks the team is working on right now. You need both. The milestone schedule tells you if you're on track for the big picture. The sprint schedule tells you what to do on Tuesday."
+ - q: "Should I use story points or hours for game dev estimates?"
+ a: "Honestly, the research here is mixed. Story points have the advantage of decoupling estimation from calendar time, which reduces the anchoring bias that comes when you say 'this will take 8 hours' and then feel obligated to finish in 8 hours regardless. Hours have the advantage of being immediately readable by non-technical stakeholders (producers, leads, publishers). For most game teams, I recommend starting with hours but converting to a velocity-based tracking system once you have 4-6 weeks of actual data. That data will tell you your team's real throughput far better than any upfront estim"
+ - q: "How do you handle schedule dependencies, like when art blocks programming or vice versa?"
+ a: "Map your critical path explicitly. The critical path is the sequence of dependent tasks where any delay directly delays the milestone. In game dev, this is often: design spec locks, then art starts, then programming integrates, then QA validates. If art is waiting on design, that's a critical path block. Dependencies need to be visible in your schedule tool, not just in someone's head. I keep a separate 'dependency register' (even if it's just a short table) that lists every cross-discipline hand-off point, who owns it, and when it needs to land."
+ - q: "What do I do when my team consistently underestimates tasks?"
+ a: "Stop trying to fix the estimates. Start tracking actuals and calculate your team's estimation ratio. If estimates are consistently 60% of actuals, apply a 1.7x multiplier to all future estimates automatically. This is called a velocity adjustment and it's much more reliable than trying to get people to estimate better through willpower. Over time, as you build a history of similar tasks, your estimates will naturally improve because they'll be anchored to real data rather than optimism."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-Most game development schedules are wrong the moment you finish writing them. I don't mean slightly off. I mean the average game ships 40-75% later than its original internal estimate, and that's not a stat from bad studios -- it's basically industry standard. I spent a long time thinking this was a discipline problem, a planning problem, or a "we just need better tools" problem. What I eventually figured out is that it's actually a fundamental misunderstanding of what a game development schedule is supposed to do.
+Most game development schedules are wrong the moment you finish writing them. I don't mean slightly off. I mean the average game ships 40-75% later than its original internal estimate, and that's not a stat from bad studios, it's basically industry standard. I spent a long time thinking this was a discipline problem, a planning problem, or a "we just need better tools" problem. What I eventually figured out is that it's actually a fundamental misunderstanding of what a game development schedule is supposed to do.
 
 ## Why Your Mental Model of "The Schedule" Is Probably Broken
 
@@ -32,7 +32,7 @@ Most people come into game production thinking a schedule is a prediction. You l
 
 Games don't have well-defined requirements. You're discovering the game as you make it. A mechanic that looked solid on paper spends three months in engine before your lead designer admits it isn't fun. An artist knocks out a character in two days and then spends three weeks on the next one because the reference was ambiguous. Your milestone date was based on the version of the game you imagined in month one, not the one you're actually building in month six.
 
-What a game development schedule actually does: it's a communication tool. It tells your team where they're supposed to focus right now. It tells your publisher or leadership what you've committed to. It's a forcing function that creates accountability. The schedule being "wrong" isn't failure -- it's information. What matters is how fast you respond to that information.
+What a game development schedule actually does: it's a communication tool. It tells your team where they're supposed to focus right now. It tells your publisher or leadership what you've committed to. It's a forcing function that creates accountability. The schedule being "wrong" isn't failure, it's information. What matters is how fast you respond to that information.
 
 Once I started treating schedules as living documents that I expected to change, my whole approach to building them shifted.
 
@@ -58,7 +58,7 @@ Here's the process I actually use, refined over a lot of painful projects:
 Start at the feature level: "Enemy AI patrol behavior," "main menu and settings flow," "procedural dungeon generation." Don't go to individual tasks yet. This is your feature list, and it should map directly to what makes your game the game.
 
 **Step 2: Assign a t-shirt size to each feature.**
-S, M, L, XL. This is fast, low-friction estimation. Get your leads in a room (or a call) and size each feature together. Disagreements here are gold -- they surface misaligned assumptions early.
+S, M, L, XL. This is fast, low-friction estimation. Get your leads in a room (or a call) and size each feature together. Disagreements here are gold, they surface misaligned assumptions early.
 
 **Step 3: Convert sizes to time ranges, not point values.**
 An S item might be 1-3 days. M is 3-8 days. L is 1-3 weeks. XL is 3-6 weeks. If something is bigger than XL, break it down further. You don't have enough clarity on it yet to schedule it.
@@ -73,7 +73,7 @@ Assign features to milestones (pre-production complete, vertical slice, alpha) b
 Map features to people and check for overloads. One artist can't simultaneously own environment art, UI, and VFX for the same milestone. This sounds obvious. You'd be amazed how often it happens.
 
 **Step 7: Build in explicit buffer at the milestone level.**
-At least 15-20% buffer time before each major milestone. Not padding every individual task -- that creates slack that gets filled with scope creep. Buffer at the gate level, where you can protect and manage it deliberately.
+At least 15-20% buffer time before each major milestone. Not padding every individual task, that creates slack that gets filled with scope creep. Buffer at the gate level, where you can protect and manage it deliberately.
 
 ## The Tools That Actually Help (and What They're Not Good For)
 
@@ -98,7 +98,7 @@ For online learning, the Game Producers community and GDC Vault both have solid 
 
 Building the schedule is the easy part. Maintaining it is where most producers burn out or give up and let the schedule become a fiction everyone ignores.
 
-The thing that made the biggest difference for me was weekly actuals tracking. Every week, every feature lead tells me what was completed, what's in progress, and what's blocked. Not what percentage done something is -- percentage complete is a lie people tell themselves. I want to know: is this feature shippable right now? If yes, it's done. If no, it's not done. Binary.
+The thing that made the biggest difference for me was weekly actuals tracking. Every week, every feature lead tells me what was completed, what's in progress, and what's blocked. Not what percentage done something is, percentage complete is a lie people tell themselves. I want to know: is this feature shippable right now? If yes, it's done. If no, it's not done. Binary.
 
 When actuals diverge from plan by more than 10-15% two weeks running, you don't wait. You have three choices: cut scope, add time, or add resources (which often adds time, as Brooks' Law famously points out). There is no fourth option where you "make up the time." In 14 years, I've never seen a game team make up significant time. They almost always make it up with crunch, which costs you quality, team health, and future velocity.
 
@@ -114,7 +114,7 @@ Reschedule early and visibly. The studios I've seen handle this best have a cult
 - to extrapolate your full production schedule
 
 
-Here's the thing most new producers don't realize: the time you invest in pre-production directly determines how accurate your production schedule can be. You can't schedule what you don't understand. If your core loop isn't locked, if you haven't prototyped your riskiest systems, if your art style isn't defined enough to estimate asset counts -- you're not scheduling production, you're scheduling hope.
+Here's the thing most new producers don't realize: the time you invest in pre-production directly determines how accurate your production schedule can be. You can't schedule what you don't understand. If your core loop isn't locked, if you haven't prototyped your riskiest systems, if your art style isn't defined enough to estimate asset counts, you're not scheduling production, you're scheduling hope.
 
 A good vertical slice solves this. Not a vertical slice as a demo for investors (though it can serve that purpose), but a vertical slice as a production reality check. One level, fully representative of all your art, design, and tech systems. Time how long it actually took. Use that data to extrapolate your full production schedule. This is the most accurate scheduling method I know for games, because it's based on real measured velocity rather than theoretical estimates.
 

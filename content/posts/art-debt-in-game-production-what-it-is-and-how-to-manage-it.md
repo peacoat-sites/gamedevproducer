@@ -11,16 +11,16 @@ author_bio: "Ryan Cole covers game production and milestone planning at GameDevP
 slug: "art-debt-in-game-production-what-it-is-and-how-to-manage-it"
 affiliate_disclosure: true
 faqs:
-  - q: "Is art debt the same as a bug?"
-    a: "Not exactly. Bugs are defects in functionality: a character falls through geometry, a shader renders incorrectly on a specific GPU. Art debt is more often a quality or compliance gap: an asset that works technically but doesn't meet the final bar, a texture that's placeholder but functional. Some art debt manifests as bugs, especially around LOD, pivot points, and shader assignments, but they're distinct categories that belong in separate tracking systems."
-  - q: "When should a producer first audit art debt?"
-    a: "Ideally, start tracking it from the first sprint of production, not just at Alpha. Create the art debt register early and update it continuously rather than discovering the full scope in one painful pre-Beta audit. The earlier you have visibility, the more options you have for managing it."
-  - q: "How do you stop leads from hiding art debt from the producer?"
-    a: "Build a culture where surfacing debt is rewarded, not punished. If leads learn that flagging an issue leads to help and capacity, they'll flag issues. If they learn it leads to blame or schedule pressure, they'll hide it until it explodes. This is a trust problem as much as a process problem."
-  - q: "Can art debt affect game performance?"
-    a: "Absolutely. Non-compliant texture atlases break batching and increase draw calls. Excessive polygon counts on background assets eat GPU budget. Unoptimized particle effects stack up in scenes. Art debt that reads as a visual quality issue often has a performance shadow that only shows up on minimum spec hardware."
-  - q: "What tools help track art debt?"
-    a: "Jira and Shotgrid (formerly Shotgun) are the most common in mid-to-large studios. Jira is more flexible for custom workflows; Shotgrid was built specifically for media asset pipelines. For smaller teams, Notion databases or even a well-structured Google Sheet will serve you fine. The tool matters less than the discipline of keeping it current."
+ - q: "Is art debt the same as a bug?"
+ a: "Not exactly. Bugs are defects in functionality: a character falls through geometry, a shader renders incorrectly on a specific GPU. Art debt is more often a quality or compliance gap: an asset that works technically but doesn't meet the final bar, a texture that's placeholder but functional. Some art debt manifests as bugs, especially around LOD, pivot points, and shader assignments, but they're distinct categories that belong in separate tracking systems."
+ - q: "When should a producer first audit art debt?"
+ a: "Ideally, start tracking it from the first sprint of production, not just at Alpha. Create the art debt register early and update it continuously rather than discovering the full scope in one painful pre-Beta audit. The earlier you have visibility, the more options you have for managing it."
+ - q: "How do you stop leads from hiding art debt from the producer?"
+ a: "Build a culture where surfacing debt is rewarded, not punished. If leads learn that flagging an issue leads to help and capacity, they'll flag issues. If they learn it leads to blame or schedule pressure, they'll hide it until it explodes. This is a trust problem as much as a process problem."
+ - q: "Can art debt affect game performance?"
+ a: "Absolutely. Non-compliant texture atlases break batching and increase draw calls. Excessive polygon counts on background assets eat GPU budget. Unoptimized particle effects stack up in scenes. Art debt that reads as a visual quality issue often has a performance shadow that only shows up on minimum spec hardware."
+ - q: "What tools help track art debt?"
+ a: "Jira and Shotgrid (formerly Shotgun) are the most common in mid-to-large studios. Jira is more flexible for custom workflows; Shotgrid was built specifically for media asset pipelines. For smaller teams, Notion databases or even a well-structured Google Sheet will serve you fine. The tool matters less than the discipline of keeping it current."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
@@ -28,12 +28,12 @@ You ship Alpha, the milestone review goes well, and leadership is happy. Then so
 
 
 <div class="value-module">
-  <div class="vm-head">Art Debt Triage Matrix by Severity</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this matrix to categorize and prioritize accumulated art debt items based on their visibility and technical impact.</p>
-    <table><thead><tr><th>Severity Tier</th><th>Visibility</th><th>Technical Impact</th><th>Examples</th><th>Action Threshold</th></tr></thead><tbody><tr><td>Critical (Fix before Alpha)</td><td>Player-facing, hero assets</td><td>Blocks builds, breaks certification, causes crashes</td><td>Non-compliant shaders on main character; missing LOD0 on hero props; texture streaming failures</td><td>Immediately add to sprint; blocks other dependent work</td></tr><tr><td>High (Fix before Beta)</td><td>Frequently seen in gameplay</td><td>Performance degradation, batching issues, visual inconsistency</td><td>Inconsistent texture atlases causing draw call spikes; placeholder environment geo in main paths; broken vertex colors on foliage</td><td>Schedule within 2 sprints; assign owner</td></tr><tr><td>Medium (Fix before Content Lock)</td><td>Occasionally visible, secondary areas</td><td>Minor perf cost, workflow friction</td><td>Incomplete LOD chains on mid-tier assets; UI icons not matching style guide; animation polish passes deferred</td><td>Add to backlog with estimates; review at milestone</td></tr><tr><td>Low (Fix if time permits)</td><td>Rarely seen, debug/edge cases</td><td>Negligible runtime cost</td><td>Wrong pivot points on non-hero props; inconsistent naming conventions; redundant texture variants</td><td>Document only; address during polish phase or post-launch</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Art Debt Triage Matrix by Severity</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this matrix to categorize and prioritize accumulated art debt items based on their visibility and technical impact.</p>
+ <table><thead><tr><th>Severity Tier</th><th>Visibility</th><th>Technical Impact</th><th>Examples</th><th>Action Threshold</th></tr></thead><tbody><tr><td>Critical (Fix before Alpha)</td><td>Player-facing, hero assets</td><td>Blocks builds, breaks certification, causes crashes</td><td>Non-compliant shaders on main character; missing LOD0 on hero props; texture streaming failures</td><td>Immediately add to sprint; blocks other dependent work</td></tr><tr><td>High (Fix before Beta)</td><td>Frequently seen in gameplay</td><td>Performance degradation, batching issues, visual inconsistency</td><td>Inconsistent texture atlases causing draw call spikes; placeholder environment geo in main paths; broken vertex colors on foliage</td><td>Schedule within 2 sprints; assign owner</td></tr><tr><td>Medium (Fix before Content Lock)</td><td>Occasionally visible, secondary areas</td><td>Minor perf cost, workflow friction</td><td>Incomplete LOD chains on mid-tier assets; UI icons not matching style guide; animation polish passes deferred</td><td>Add to backlog with estimates; review at milestone</td></tr><tr><td>Low (Fix if time permits)</td><td>Rarely seen, debug/edge cases</td><td>Negligible runtime cost</td><td>Wrong pivot points on non-hero props; inconsistent naming conventions; redundant texture variants</td><td>Document only; address during polish phase or post-launch</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Art Debt Actually Is

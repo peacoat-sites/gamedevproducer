@@ -11,31 +11,31 @@ author_bio: "Ryan Cole covers game production and milestone planning at GameDevP
 slug: "avoiding-scope-creep-in-game-production"
 affiliate_disclosure: true
 faqs:
-  - q: "How do I know if something is scope creep or legitimate iteration?"
-    a: "If the change fixes a problem discovered through playtesting or production, it's iteration. If it adds new functionality that wasn't in the original design because someone thought of something cool, that's scope. Iteration changes how things work; scope adds what things exist. The line blurs sometimes, but that question usually clarifies it fast."
-  - q: "What's the best way to say no to a feature request from a senior developer or director?"
-    a: "Don't lead with 'no,' lead with 'what does this cost.' When someone senior wants to add a feature, walk them through the dependency analysis together: what has to move, what gets pushed, who's affected. Most of the time they either realize the cost themselves or you both agree it's worth the tradeoff. Making the cost visible removes the confrontation."
-  - q: "Is scope creep always bad? Can it ever be a sign of a healthy team?"
-    a: "Idealism about a project isn't bad. A team with no ideas for new features is a team that's stopped caring. The problem is when ideas get added without removing other things to make room. Some games genuinely do expand scope in productive ways -- 'No Man's Sky' post-launch is the extreme example -- but that kind of expansion works when it's deliberate, resourced, and divorced from the original ship deadline."
-  - q: "When should I start formally tracking scope and changes?"
-    a: "The moment you have more than two people working on the project. Not after you hire a producer. Not after you hit your first milestone. From the start. The habit of writing things down and putting them through a change process is much easier to build from zero than to retrofit onto a team that's already been operating informally for six months."
-  - q: "My studio doesn't have a formal producer. Who owns scope management?"
-    a: "Someone has to own it, even informally. If there's no producer, the most organized person on the team needs to take this on as a defined responsibility, not a vague shared one. 'Everyone is responsible for scope' means no one is. Pick a person, give them the authority to say no, and support that authority publicly when it gets tested."
+ - q: "How do I know if something is scope creep or legitimate iteration?"
+ a: "If the change fixes a problem discovered through playtesting or production, it's iteration. If it adds new functionality that wasn't in the original design because someone thought of something cool, that's scope. Iteration changes how things work; scope adds what things exist. The line blurs sometimes, but that question usually clarifies it fast."
+ - q: "What's the best way to say no to a feature request from a senior developer or director?"
+ a: "Don't lead with 'no,' lead with 'what does this cost.' When someone senior wants to add a feature, walk them through the dependency analysis together: what has to move, what gets pushed, who's affected. Most of the time they either realize the cost themselves or you both agree it's worth the tradeoff. Making the cost visible removes the confrontation."
+ - q: "Is scope creep always bad? Can it ever be a sign of a healthy team?"
+ a: "Idealism about a project isn't bad. A team with no ideas for new features is a team that's stopped caring. The problem is when ideas get added without removing other things to make room. Some games genuinely do expand scope in productive ways -- 'No Man's Sky' post-launch is the extreme example, but that kind of expansion works when it's deliberate, resourced, and divorced from the original ship deadline."
+ - q: "When should I start formally tracking scope and changes?"
+ a: "The moment you have more than two people working on the project. Not after you hire a producer. Not after you hit your first milestone. From the start. The habit of writing things down and putting them through a change process is much easier to build from zero than to retrofit onto a team that's already been operating informally for six months."
+ - q: "My studio doesn't have a formal producer. Who owns scope management?"
+ a: "Someone has to own it, even informally. If there's no producer, the most organized person on the team needs to take this on as a defined responsibility, not a vague shared one. 'Everyone is responsible for scope' means no one is. Pick a person, give them the authority to say no, and support that authority publicly when it gets tested."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-Scope creep killed the last game I worked on at a AAA studio. Not the whole project, technically -- it shipped, four years late and $12 million over budget, with half the team burned out and two leads who quit before release. The game was fine. The production was a disaster. And the thing that started the slow collapse wasn't a catastrophic decision. It was a hundred small ones, each of which seemed completely reasonable at the time.
+Scope creep killed the last game I worked on at a AAA studio. Not the whole project, technically, it shipped, four years late and $12 million over budget, with half the team burned out and two leads who quit before release. The game was fine. The production was a disaster. And the thing that started the slow collapse wasn't a catastrophic decision. It was a hundred small ones, each of which seemed completely reasonable at the time.
 
 That's the nature of scope creep. It doesn't announce itself.
 
 
 <div class="value-module">
-  <div class="vm-head">Feature Request Triage Decision Matrix</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this matrix to evaluate new feature requests during production-score each criterion, then follow the action threshold.</p>
-    <table><thead><tr><th>Criterion</th><th>Score 1 (Red Flag)</th><th>Score 3 (Caution)</th><th>Score 5 (Green Light)</th></tr></thead><tbody><tr><td>Dependency Clarity</td><td>Unknown systems affected; needs investigation</td><td>2-3 known dependencies; some unknowns</td><td>All dependencies mapped; isolated system</td></tr><tr><td>Estimation Confidence</td><td>Estimate from non-implementer or pre-prototype</td><td>Implementer estimate without spike/prototype</td><td>Estimate backed by completed spike or similar past work</td></tr><tr><td>Removal Cost (if cut later)</td><td>Touches 3+ systems; would require significant rollback</td><td>Moderate integration; 1-2 week rollback</td><td>Self-contained; clean removal possible</td></tr><tr><td>Core Loop Impact</td><td>Nice-to-have; no playtest data supporting need</td><td>Addresses known friction; alternatives exist</td><td>Directly fixes validated player-facing problem</td></tr><tr><td>Schedule Buffer Consumed</td><td>Would use &gt;50% of remaining contingency</td><td>Would use 20-50% of contingency</td><td>Fits within &lt;20% of contingency</td></tr></tbody><tfoot><tr><td colspan="4"><strong>Action Thresholds:</strong> 20-25 pts = Approve · 13-19 pts = Require prototype + re-score · 5-12 pts = Defer to post-launch or reject</td></tr></tfoot></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Feature Request Triage Decision Matrix</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this matrix to evaluate new feature requests during production-score each criterion, then follow the action threshold.</p>
+ <table><thead><tr><th>Criterion</th><th>Score 1 (Red Flag)</th><th>Score 3 (Caution)</th><th>Score 5 (Green Light)</th></tr></thead><tbody><tr><td>Dependency Clarity</td><td>Unknown systems affected; needs investigation</td><td>2-3 known dependencies; some unknowns</td><td>All dependencies mapped; isolated system</td></tr><tr><td>Estimation Confidence</td><td>Estimate from non-implementer or pre-prototype</td><td>Implementer estimate without spike/prototype</td><td>Estimate backed by completed spike or similar past work</td></tr><tr><td>Removal Cost (if cut later)</td><td>Touches 3+ systems; would require significant rollback</td><td>Moderate integration; 1-2 week rollback</td><td>Self-contained; clean removal possible</td></tr><tr><td>Core Loop Impact</td><td>Nice-to-have; no playtest data supporting need</td><td>Addresses known friction; alternatives exist</td><td>Directly fixes validated player-facing problem</td></tr><tr><td>Schedule Buffer Consumed</td><td>Would use &gt;50% of remaining contingency</td><td>Would use 20-50% of contingency</td><td>Fits within &lt;20% of contingency</td></tr></tbody><tfoot><tr><td colspan="4"><strong>Action Thresholds:</strong> 20-25 pts = Approve · 13-19 pts = Require prototype + re-score · 5-12 pts = Defer to post-launch or reject</td></tr></tfoot></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## Why "We'll Just Add One More Thing" Is the Most Dangerous Sentence in Game Dev
@@ -62,7 +62,7 @@ The second document is a Feature Change Request process. Keep it simple. At my c
 
 For tracking this work, I've used a lot of tools. **Jira** (around $8.15 per user per month for the Standard tier) is worth it once you're past five people, mostly because of how it handles dependency mapping. Smaller teams often do fine with **Notion** or **Linear** (Linear's free up to a point). The tool matters less than the discipline of putting everything in it.
 
-## Your Schedule Is a Prediction, Not a Promise -- Treat It That Way
+## Your Schedule Is a Prediction, Not a Promise, Treat It That Way
 
 One of the most useful mental shifts I made as a producer was stopping the pretense that the initial schedule was accurate. It isn't. It can't be. You're estimating work you've never done before, in a medium where half the problems won't reveal themselves until you're deep in production.
 

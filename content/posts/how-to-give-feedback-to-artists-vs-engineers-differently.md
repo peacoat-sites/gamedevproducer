@@ -11,14 +11,14 @@ author_bio: "Tyler Brooks writes about studio management, team leadership, and t
 slug: "how-to-give-feedback-to-artists-vs-engineers-differently"
 affiliate_disclosure: true
 faqs:
-  - q: "Does this mean I need to be a psychologist to manage a mixed team?"
-    a: "No. It means you need to understand that different disciplines have different success criteria. Artists measure success by qualitative impact. Engineers measure success by defined outcomes. Your feedback needs to speak to what success looks like in their frame of reference. That's not psychology, it's communication discipline."
-  - q: "How do I give feedback when I genuinely don't understand the technical side well enough?"
-    a: "Own that gap out loud. 'I don't have the technical context to know what's causing this' is not a weakness, it's an accurate problem statement. Then describe what you observed: when it happens, under what conditions, what the player experience is. Engineers don't need you to understand the cause. They need you to define the problem and the acceptance criteria."
-  - q: "What's the biggest mistake producers make when giving feedback to artists?"
-    a: "Giving notes on craft when the issue is actually direction. If you're telling an animator how to time a swing, but the real problem is that the whole combat system's pacing is off, you're solving the wrong level of the problem. Separate creative direction feedback (what should this feel like, what is it for) from craft feedback (is this technically well executed). The first is your job. The second often isn't."
-  - q: "How do you handle it when an engineer thinks your feedback is outside scope?"
-    a: "Take it seriously. Engineers have context on technical debt, system architecture, and downstream consequences that you likely don't have full visibility into. Ask them to explain the constraint. If the scope objection is valid, reprioritize. If it's not, make the business case clearly: 'I understand this is a change, here's why it's a P1 from a player experience standpoint, what do you need from me to make it feasible?' Acknowledging their concern before asserting the priority gets you a lot further than overriding it."
+ - q: "Does this mean I need to be a psychologist to manage a mixed team?"
+ a: "No. It means you need to understand that different disciplines have different success criteria. Artists measure success by qualitative impact. Engineers measure success by defined outcomes. Your feedback needs to speak to what success looks like in their frame of reference. That's not psychology, it's communication discipline."
+ - q: "How do I give feedback when I genuinely don't understand the technical side well enough?"
+ a: "Own that gap out loud. 'I don't have the technical context to know what's causing this' is not a weakness, it's an accurate problem statement. Then describe what you observed: when it happens, under what conditions, what the player experience is. Engineers don't need you to understand the cause. They need you to define the problem and the acceptance criteria."
+ - q: "What's the biggest mistake producers make when giving feedback to artists?"
+ a: "Giving notes on craft when the issue is actually direction. If you're telling an animator how to time a swing, but the real problem is that the whole combat system's pacing is off, you're solving the wrong level of the problem. Separate creative direction feedback (what should this feel like, what is it for) from craft feedback (is this technically well executed). The first is your job. The second often isn't."
+ - q: "How do you handle it when an engineer thinks your feedback is outside scope?"
+ a: "Take it seriously. Engineers have context on technical debt, system architecture, and downstream consequences that you likely don't have full visibility into. Ask them to explain the constraint. If the scope objection is valid, reprioritize. If it's not, make the business case clearly: 'I understand this is a change, here's why it's a P1 from a player experience standpoint, what do you need from me to make it feasible?' Acknowledging their concern before asserting the priority gets you a lot further than overriding it."
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
 ---

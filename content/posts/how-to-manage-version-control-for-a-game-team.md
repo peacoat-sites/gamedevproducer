@@ -13,16 +13,16 @@ author_bio: "Samantha Roberts has spent her career navigating the publisher side
 slug: "how-to-manage-version-control-for-a-game-team"
 affiliate_disclosure: true
 faqs:
-  - q: "How often should our team be committing changes?"
-    a: "Daily at minimum, and ideally more often than that. Small, frequent commits are far easier to manage, revert, and review than large infrequent ones. If someone hasn't committed in three days, that's a warning sign worth checking on."
-  - q: "Do we need branching if we're a two-person team?"
-    a: "You don't need a complex branching strategy, but even two people benefit from keeping main clean and doing short-lived feature branches. The habit is worth building early. When the team grows, you already have the muscle memory."
-  - q: "What should we do when two people edit the same file?"
-    a: "For code files, most merge conflicts are resolvable and that's just part of working on a shared codebase. For binary files (art assets, audio), prevent it with file locking. Git LFS supports this. Perforce has had it forever. Don't try to 'merge' a binary file. Set up locking before it becomes a problem."
-  - q: "Is it okay to put the full project in version control, including all assets?"
-    a: "Yes, and you should. Leaving assets out because they're large is how you end up with assets living only on someone's local machine. Use Git LFS or a system built for large files, but get everything into the repo. The alternative is eventual disaster."
-  - q: "What's the best way to train non-technical team members on version control?"
-    a: "One short hands-on session beats documentation every time. Sit down with them, walk through their actual daily workflow (pull before you start, make changes, commit with a useful message, push), and make sure they're comfortable with the GUI client you've chosen. Don't explain the internals. Focus on what they do every day."
+ - q: "How often should our team be committing changes?"
+ a: "Daily at minimum, and ideally more often than that. Small, frequent commits are far easier to manage, revert, and review than large infrequent ones. If someone hasn't committed in three days, that's a warning sign worth checking on."
+ - q: "Do we need branching if we're a two-person team?"
+ a: "You don't need a complex branching strategy, but even two people benefit from keeping main clean and doing short-lived feature branches. The habit is worth building early. When the team grows, you already have the muscle memory."
+ - q: "What should we do when two people edit the same file?"
+ a: "For code files, most merge conflicts are resolvable and that's just part of working on a shared codebase. For binary files (art assets, audio), prevent it with file locking. Git LFS supports this. Perforce has had it forever. Don't try to 'merge' a binary file. Set up locking before it becomes a problem."
+ - q: "Is it okay to put the full project in version control, including all assets?"
+ a: "Yes, and you should. Leaving assets out because they're large is how you end up with assets living only on someone's local machine. Use Git LFS or a system built for large files, but get everything into the repo. The alternative is eventual disaster."
+ - q: "What's the best way to train non-technical team members on version control?"
+ a: "One short hands-on session beats documentation every time. Sit down with them, walk through their actual daily workflow (pull before you start, make changes, commit with a useful message, push), and make sure they're comfortable with the GUI client you've chosen. Don't explain the internals. Focus on what they do every day."
 ---
 
 Most game teams don't fail at version control because they picked the wrong tool. They fail because nobody actually decided how it works, and then six months in, half the team is working off stale branches, someone force-pushed to main, and the lead programmer is rewriting three days of work at 11pm before a publisher demo.

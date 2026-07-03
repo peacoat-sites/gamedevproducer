@@ -11,16 +11,16 @@ author_bio: "Priya Sharma covers game design, systems mechanics, and narrative a
 slug: "game-producer-interview-questions-and-answers"
 affiliate_disclosure: true
 faqs:
-  - q: "How long should my answers be in a producer interview?"
-    a: "Aim for 90 seconds to two minutes per behavioral question. Shorter than that and you haven't given enough context. Longer and you're probably losing them. If you're consistently going over two minutes, you're either setting too much context upfront or not editing the story down before you walk in."
-  - q: "Do I need to have shipped a AAA game to get a producer role at a mid-size studio?"
-    a: "No, but you need to have managed something with real stakes: scope decisions, resource constraints, cross-discipline coordination. Shipping an indie title, producing a game jam team, or managing a vertical slice at a smaller studio all count if you can speak to the production specifics clearly."
-  - q: "What if I don't have a great answer for a question I get asked?"
-    a: "Say so. 'I haven't encountered that exact situation, but here's how I'd approach it based on what I have done.' Interviewers respect that more than watching someone construct a fictional story in real time. They've seen it before and they'll see the seams."
-  - q: "Should I bring a portfolio or documentation samples to a producer interview?"
-    a: "Yes, if you have them. A one-page production timeline, a sample risk log, or a sprint structure you built from a real project signals that you're already doing the job, not just talking about doing it. Don't force it into the conversation awkwardly, but have it available if the topic comes up naturally."
-  - q: "How do I handle a question about a production failure I was genuinely responsible for?"
-    a: "Own it directly. Describe what you missed, what signals you ignored or didn't know to look for, and specifically what you changed afterward. Producers who can't account for their own failures are a liability. The people interviewing you have their own list of things they got wrong. Honesty here builds more trust than a polished deflection."
+ - q: "How long should my answers be in a producer interview?"
+ a: "Aim for 90 seconds to two minutes per behavioral question. Shorter than that and you haven't given enough context. Longer and you're probably losing them. If you're consistently going over two minutes, you're either setting too much context upfront or not editing the story down before you walk in."
+ - q: "Do I need to have shipped a AAA game to get a producer role at a mid-size studio?"
+ a: "No, but you need to have managed something with real stakes: scope decisions, resource constraints, cross-discipline coordination. Shipping an indie title, producing a game jam team, or managing a vertical slice at a smaller studio all count if you can speak to the production specifics clearly."
+ - q: "What if I don't have a great answer for a question I get asked?"
+ a: "Say so. 'I haven't encountered that exact situation, but here's how I'd approach it based on what I have done.' Interviewers respect that more than watching someone construct a fictional story in real time. They've seen it before and they'll see the seams."
+ - q: "Should I bring a portfolio or documentation samples to a producer interview?"
+ a: "Yes, if you have them. A one-page production timeline, a sample risk log, or a sprint structure you built from a real project signals that you're already doing the job, not just talking about doing it. Don't force it into the conversation awkwardly, but have it available if the topic comes up naturally."
+ - q: "How do I handle a question about a production failure I was genuinely responsible for?"
+ a: "Own it directly. Describe what you missed, what signals you ignored or didn't know to look for, and specifically what you changed afterward. Producers who can't account for their own failures are a liability. The people interviewing you have their own list of things they got wrong. Honesty here builds more trust than a polished deflection."
 author_slug: "priya-sharma"
 author_title: "Contributing Writer"
 ---
@@ -34,12 +34,12 @@ Here's what I've learned from being on both sides of this: studios aren't just e
 
 
 <div class="value-module">
-  <div class="vm-head">Producer Interview Answer Self-Check</div>
-  <div class="vm-body">
-    <p class="vm-intro">Before finalizing any STAR-format story, run it through these five criteria that experienced interviewers actually score on.</p>
-    <table><thead><tr><th>Criterion</th><th>What Interviewers Listen For</th><th>Red Flag If Missing</th><th>Quick Self-Test</th></tr></thead><tbody><tr><td>Root-Cause Diagnosis</td><td>You distinguish symptom from cause (e.g., missed deadline vs. scope creep vs. burnout)</td><td>Jumping straight to solutions without stating why</td><td>Can you name the specific underlying problem in one sentence?</td></tr><tr><td>Trade-Off Articulation</td><td>You explain what you sacrificed and why (time, feature, quality, team capacity)</td><td>Framing every outcome as a pure win</td><td>What did you explicitly choose NOT to do?</td></tr><tr><td>Shared Credit Distribution</td><td>You name specific collaborators and their contributions</td><td>"I" appears 5× more than "we" or named teammates</td><td>Count your pronouns-ratio should be roughly 1:1</td></tr><tr><td>Quantified Impact</td><td>Concrete numbers: days saved, % scope cut, team size, budget delta</td><td>Vague qualifiers like "significantly improved"</td><td>Do you have at least two specific figures in the story?</td></tr><tr><td>Lesson Internalized</td><td>You state what you'd do differently next time-unprompted</td><td>Presenting past decisions as flawless</td><td>Can you name one thing you'd change with hindsight?</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Producer Interview Answer Self-Check</div>
+ <div class="vm-body">
+ <p class="vm-intro">Before finalizing any STAR-format story, run it through these five criteria that experienced interviewers actually score on.</p>
+ <table><thead><tr><th>Criterion</th><th>What Interviewers Listen For</th><th>Red Flag If Missing</th><th>Quick Self-Test</th></tr></thead><tbody><tr><td>Root-Cause Diagnosis</td><td>You distinguish symptom from cause (e.g., missed deadline vs. scope creep vs. burnout)</td><td>Jumping straight to solutions without stating why</td><td>Can you name the specific underlying problem in one sentence?</td></tr><tr><td>Trade-Off Articulation</td><td>You explain what you sacrificed and why (time, feature, quality, team capacity)</td><td>Framing every outcome as a pure win</td><td>What did you explicitly choose NOT to do?</td></tr><tr><td>Shared Credit Distribution</td><td>You name specific collaborators and their contributions</td><td>"I" appears 5× more than "we" or named teammates</td><td>Count your pronouns-ratio should be roughly 1:1</td></tr><tr><td>Quantified Impact</td><td>Concrete numbers: days saved, % scope cut, team size, budget delta</td><td>Vague qualifiers like "significantly improved"</td><td>Do you have at least two specific figures in the story?</td></tr><tr><td>Lesson Internalized</td><td>You state what you'd do differently next time-unprompted</td><td>Presenting past decisions as flawless</td><td>Can you name one thing you'd change with hindsight?</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What Interviewers Are Actually Evaluating

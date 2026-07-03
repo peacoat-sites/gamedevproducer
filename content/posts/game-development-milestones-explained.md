@@ -11,16 +11,16 @@ author_bio: "Ryan Cole covers game production and milestone planning at GameDevP
 slug: "game-development-milestones-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "How long should each development milestone last?"
-    a: "It varies enormously by project size, but a common structure for a mid-sized game is 3-4 months of pre-production leading to greenlight, then production broken into 6-8 week sprint cycles with formal milestone reviews every 3-4 months. The specific timing matters less than ensuring the review cadence is tight enough to catch problems before they compound."
-  - q: "What should a milestone review meeting actually include?"
-    a: "At minimum: a playable build reviewed by the team (not a curated demo), a clear list of the milestone's acceptance criteria and which were met, an honest accounting of what slipped and why, and a revised plan for the next phase. Skip the slide deck. Play the game."
-  - q: "Do indie teams need formal milestones?"
-    a: "Yes, even if you're a solo developer. The questions milestones force you to answer don't get less important because your team is smaller. You just get to set the criteria yourself. Informal check-ins with a trusted advisor or a peer group can substitute for formal publisher reviews."
-  - q: "What's the difference between a milestone and a sprint review?"
-    a: "A sprint review happens at the end of a 2-4 week sprint and assesses progress against that sprint's goals. A milestone is a larger gate that assesses the project's overall health and readiness to move to the next phase of development. Sprint reviews are tactical; milestones are strategic. You need both."
-  - q: "What happens if a team misses a milestone?"
-    a: "You assess why, honestly. Missing a milestone isn't automatically a project failure, but it is data. Was the scope wrong? Was the estimate wrong? Was something unexpected technically? The answer shapes what changes next. If a team misses multiple milestones in a row without changing anything, that's when the project is in real trouble."
+ - q: "How long should each development milestone last?"
+ a: "It varies enormously by project size, but a common structure for a mid-sized game is 3-4 months of pre-production leading to greenlight, then production broken into 6-8 week sprint cycles with formal milestone reviews every 3-4 months. The specific timing matters less than ensuring the review cadence is tight enough to catch problems before they compound."
+ - q: "What should a milestone review meeting actually include?"
+ a: "At minimum: a playable build reviewed by the team (not a curated demo), a clear list of the milestone's acceptance criteria and which were met, an honest accounting of what slipped and why, and a revised plan for the next phase. Skip the slide deck. Play the game."
+ - q: "Do indie teams need formal milestones?"
+ a: "Yes, even if you're a solo developer. The questions milestones force you to answer don't get less important because your team is smaller. You just get to set the criteria yourself. Informal check-ins with a trusted advisor or a peer group can substitute for formal publisher reviews."
+ - q: "What's the difference between a milestone and a sprint review?"
+ a: "A sprint review happens at the end of a 2-4 week sprint and assesses progress against that sprint's goals. A milestone is a larger gate that assesses the project's overall health and readiness to move to the next phase of development. Sprint reviews are tactical; milestones are strategic. You need both."
+ - q: "What happens if a team misses a milestone?"
+ a: "You assess why, honestly. Missing a milestone isn't automatically a project failure, but it is data. Was the scope wrong? Was the estimate wrong? Was something unexpected technically? The answer shapes what changes next. If a team misses multiple milestones in a row without changing anything, that's when the project is in real trouble."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
@@ -32,12 +32,12 @@ Here's what I tell people new to production: a milestone is a decision point, no
 
 
 <div class="value-module">
-  <div class="vm-head">Milestone Gate Decision Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use these pass/fail criteria at each gate to force honest evaluation rather than performative demos.</p>
-    <table><thead><tr><th>Milestone Gate</th><th>Core Question</th><th>Pass Threshold</th><th>Kill/Pivot Signal</th></tr></thead><tbody><tr><td>Concept/Pitch</td><td>Is this worth building?</td><td>Core fantasy articulable in one sentence; TAM supports budget; team has relevant shipped experience</td><td>Cannot identify target player or comparable market success</td></tr><tr><td>Prototype</td><td>Is the core mechanic fun?</td><td>Playtesters replay voluntarily; 30-second loop generates measurable engagement (retention in session &gt;10 min)</td><td>Fun requires explanation; team disagrees on what the game <em>is</em></td></tr><tr><td>Vertical Slice</td><td>Can we build this at quality?</td><td>10-minute segment at near-final quality; content pipeline produces 1 hour of gameplay/month minimum</td><td>Slice required &gt;40% of total budget; scope math doesn't close</td></tr><tr><td>Alpha</td><td>Is the game complete in shape?</td><td>All features implemented (bugs allowed); full critical path playable; no placeholder systems in core loop</td><td>Core loop still being redesigned; team morale trending negative</td></tr><tr><td>Beta</td><td>Is it shippable with polish?</td><td>All content in; bug count trending downward week-over-week; first-time user experience tested with &gt;20 external players</td><td>Bug count rising; performance targets missed by &gt;25%</td></tr><tr><td>Gold/Release Candidate</td><td>Would we be proud to ship this?</td><td>Zero critical bugs; day-one patch scope defined and &lt;500MB; launch marketing assets final</td><td>Team leads unwilling to attach their name publicly</td></tr></tbody></table>
-    <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
-  </div>
+ <div class="vm-head">Milestone Gate Decision Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use these pass/fail criteria at each gate to force honest evaluation rather than performative demos.</p>
+ <table><thead><tr><th>Milestone Gate</th><th>Core Question</th><th>Pass Threshold</th><th>Kill/Pivot Signal</th></tr></thead><tbody><tr><td>Concept/Pitch</td><td>Is this worth building?</td><td>Core fantasy articulable in one sentence; TAM supports budget; team has relevant shipped experience</td><td>Cannot identify target player or comparable market success</td></tr><tr><td>Prototype</td><td>Is the core mechanic fun?</td><td>Playtesters replay voluntarily; 30-second loop generates measurable engagement (retention in session &gt;10 min)</td><td>Fun requires explanation; team disagrees on what the game <em>is</em></td></tr><tr><td>Vertical Slice</td><td>Can we build this at quality?</td><td>10-minute segment at near-final quality; content pipeline produces 1 hour of gameplay/month minimum</td><td>Slice required &gt;40% of total budget; scope math doesn't close</td></tr><tr><td>Alpha</td><td>Is the game complete in shape?</td><td>All features implemented (bugs allowed); full critical path playable; no placeholder systems in core loop</td><td>Core loop still being redesigned; team morale trending negative</td></tr><tr><td>Beta</td><td>Is it shippable with polish?</td><td>All content in; bug count trending downward week-over-week; first-time user experience tested with &gt;20 external players</td><td>Bug count rising; performance targets missed by &gt;25%</td></tr><tr><td>Gold/Release Candidate</td><td>Would we be proud to ship this?</td><td>Zero critical bugs; day-one patch scope defined and &lt;500MB; launch marketing assets final</td><td>Team leads unwilling to attach their name publicly</td></tr></tbody></table>
+ <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
+ </div>
 </div>
 
 ## What a Milestone Actually Is (and Isn't)

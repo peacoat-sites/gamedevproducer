@@ -11,14 +11,11 @@ author_slug: "priya-sharma"
 author_title: "Design & Narrative Editor"
 author_bio: "Priya Sharma is a game designer with a particular focus on systems that create engaging games, covering everything from core loop design to narrative structure. She has worked on titles across multiple genres and believes that good design is invisible to the player. At GameDevProducer, she covers game design principles, narrative mechanics, player psychology, and the craft of building experiences that keep people playing."
 slug: "how-to-plan-milestones-for-a-publisher-deal"
-affiliate_disclosure: true
----
-
-I watched a studio sign a publisher deal with milestone language so loose that the producer spent two years arguing about what "vertical slice" actually meant. By the time legal settled it, the game was six months overdue and the relationship was poisoned.
+affiliate_disclosure: true, I watched a studio sign a publisher deal with milestone language so loose that the producer spent two years arguing about what "vertical slice" actually meant. By the time legal settled it, the game was six months overdue and the relationship was poisoned.
 
 That doesn't have to be you.
 
-Publisher deals live and die on milestones. They're not just checkpoints—they're the legal and financial frame that either keeps you funded or cuts the money off. Get them right, and you have a roadmap everyone agrees to. Get them wrong, and you're fighting about deliverables while your team runs out of runway.
+Publisher deals live and die on milestones. They're not just checkpoints, they're the legal and financial frame that either keeps you funded or cuts the money off. Get them right, and you have a roadmap everyone agrees to. Get them wrong, and you're fighting about deliverables while your team runs out of runway.
 
 ## The thing nobody tells you about milestone definitions
 
@@ -26,7 +23,7 @@ Here's what I've learned from both sides of the table: a milestone is only as go
 
 I tested this the hard way early in my career. We signed a contract that said "submit build for certification" as a milestone. We thought that meant the build existed and was ready. The publisher thought it meant the build had been accepted by the platform holder and was literally days from launch. The difference was about three months of work and a 30% penalty we didn't negotiate out of. 
 
-Real definitions look like this: "Vertical slice—single-player campaign from game start to first boss encounter, 15 minutes of uninterrupted gameplay, menu system functional, no crashes on Xbox Series X or PlayStation 5 running at 1080p/60fps." Not poetry, but it's defensible.
+Real definitions look like this: "Vertical slice, single-player campaign from game start to first boss encounter, 15 minutes of uninterrupted gameplay, menu system functional, no crashes on Xbox Series X or PlayStation 5 running at 1080p/60fps." Not poetry, but it's defensible.
 
 That specificity matters because once you sign, both sides point back to that language. When you hit the date, there's either a checkmark or a fight. You want there to be a checkmark.
 
@@ -40,7 +37,7 @@ Start by listing the actual production phases your game needs:
 
 **Pre-production** usually takes 8-14 weeks. That's core design locked, tech prototype working, art direction proven in at least two scenes, and everyone on the same page about scope. Don't skip this. I've never seen a milestone miss because pre-production took "too long." I've seen dozens miss because people thought they could skip it.
 
-**Production** is where you build the bulk of the game. For a mid-scale title, expect 12-20 months depending on team size and scope. This is where most milestones live—alpha, beta, content complete, optimization pass. Break it into chunks that represent real work: "all campaign levels blocked out," "all core mechanics implemented," "art complete for Acts 1 and 2."
+**Production** is where you build the bulk of the game. For a mid-scale title, expect 12-20 months depending on team size and scope. This is where most milestones live, alpha, beta, content complete, optimization pass. Break it into chunks that represent real work: "all campaign levels blocked out," "all core mechanics implemented," "art complete for Acts 1 and 2."
 
 **Certification and launch prep** is often underestimated. Platform certification alone (whether that's Sony, Microsoft, Nintendo, or Valve) takes 4-6 weeks minimum, and you'll almost always get notes back that need fixing. Budget another 6-8 weeks for optimization, day-one patch prep, and actually shipping the thing.
 
@@ -59,9 +56,9 @@ That game shipped on time and under budget because the timeline was built on wha
 
 This is where most producers aren't thinking like business people. You need to understand how your studio gets paid.
 
-Typically, a publisher advance is split across milestones: 20% on signing, 20% on alpha, 20% on beta, 20% on gold master (final build approved for manufacturing or upload), 20% on launch. Sometimes it's different—some publishers front-load it, some hold back—but that's the skeleton.
+Typically, a publisher advance is split across milestones: 20% on signing, 20% on alpha, 20% on beta, 20% on gold master (final build approved for manufacturing or upload), 20% on launch. Sometimes it's different, some publishers front-load it, some hold back, but that's the skeleton.
 
-What matters: the milestones tied to payments are your leverage. If you're going to slip—and you will slip—you want that slip to affect when you get paid, not whether you get paid.
+What matters: the milestones tied to payments are your leverage. If you're going to slip, and you will slip, you want that slip to affect when you get paid, not whether you get paid.
 
 I'm not talking about being adversarial. I'm talking about being clear-eyed.
 
@@ -73,7 +70,7 @@ When you negotiate, you're really settling three things:
 
 **What happens if you miss.** This is the part people gloss over. Do you have 30 days of grace? Does payment delay but still happen? Does the publisher have penalty clauses, or can they walk? You want to know this before you sign, not after you're late.
 
-Real studios I know have gotten creative here. One managed to negotiate a structure where alpha was worth $85K on time, but $85K for late submission too—the difference came out of the next milestone payment. That meant they weren't financially catastrophic if they slipped alpha by a month. Different studios have different risk tolerance, but that one worked for them.
+Real studios I know have gotten creative here. One managed to negotiate a structure where alpha was worth $85K on time, but $85K for late submission too, the difference came out of the next milestone payment. That meant they weren't financially catastrophic if they slipped alpha by a month. Different studios have different risk tolerance, but that one worked for them.
 
 ## The document that actually matters
 
@@ -89,13 +86,13 @@ This is the single most important page you'll negotiate. It should include:
 - What rights the publisher has if you miss (penalty, payment delay, termination)
 - Change order language (how you both handle scope changes)
 
-I've been on both sides of this, and the studios that had the easiest relationships with publishers were the ones who had this document reviewed by someone who'd done it before—not necessarily expensive legal counsel, but someone who knew what language meant what. A lawyer who's never done game deals will write things like "commercially viable quality," which is vague and arguable. A lawyer who knows games writes "maintains frame rate above 30fps at 1080p on target platform."
+I've been on both sides of this, and the studios that had the easiest relationships with publishers were the ones who had this document reviewed by someone who'd done it before, not necessarily expensive legal counsel, but someone who knew what language meant what. A lawyer who's never done game deals will write things like "commercially viable quality," which is vague and arguable. A lawyer who knows games writes "maintains frame rate above 30fps at 1080p on target platform."
 
 When we're working through that addendum with a publisher, I actually ask them to show me how they've structured deals with other developers. Not to be creepy, but because it signals what they actually expect vs. what they hope for. Most mature publishers have templates. Those templates show you what they think is reasonable.
 
 ## Scope creep and the change order you'll need
 
-Every project gets scope creep. It comes from the publisher, your own team, platform holders, regulatory changes—somewhere, something's going to add work to your plan.
+Every project gets scope creep. It comes from the publisher, your own team, platform holders, regulatory changes, somewhere, something's going to add work to your plan.
 
 The only way to protect your milestones is to have an explicit agreement on what happens when scope changes.
 
@@ -123,11 +120,11 @@ The change order isn't about being difficult with your publisher. It's about bei
 
 **Can you build a milestone plan before you have a full team?**
 
-You have to. You build it with your core leadership—producer, tech lead, art lead, maybe the creative director. Then when you hire, you use the milestone plan to show new hires what they're signing up for. But yes, this plan has to exist before full hiring.
+You have to. You build it with your core leadership, producer, tech lead, art lead, maybe the creative director. Then when you hire, you use the milestone plan to show new hires what they're signing up for. But yes, this plan has to exist before full hiring.
 
 **What happens if you hit a milestone early?**
 
-Don't announce it immediately. You've likely got a few weeks of buffer you should preserve—test harder, fix smaller issues, let the team breathe a little. Then, once you're confident the milestone is solid (not just technically done but *really* done), notify the publisher and discuss next steps. Sometimes they'll want to move dates up; sometimes they'll take the buffer and keep funding as planned.
+Don't announce it immediately. You've likely got a few weeks of buffer you should preserve, test harder, fix smaller issues, let the team breathe a little. Then, once you're confident the milestone is solid (not just technically done but *really* done), notify the publisher and discuss next steps. Sometimes they'll want to move dates up; sometimes they'll take the buffer and keep funding as planned.
 
 **Do you include QA phases as separate milestones?**
 
