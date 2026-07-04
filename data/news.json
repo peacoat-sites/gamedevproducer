@@ -1,31 +1,7 @@
 {
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "count": 25,
   "items": [
-    {
-      "source": "Game Developer",
-      "title": "Godot to ban (almost all) AI coding contributions",
-      "url": "https://www.gamedeveloper.com/business/godot-to-ban-almost-all-ai-coding-contributions",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Krafton and Unknown Worlds founders settle Subnautica 2 legal dispute",
-      "url": "https://www.gamedeveloper.com/business/krafton-agrees-to-pay-bonuses-to-subnautica-2-studio-as-ceo-resigns",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "Game Developer",
-      "title": "OtherSide Entertainment lays off 18 from Thick as Thieves team",
-      "url": "https://www.gamedeveloper.com/business/otherside-entertainment-lays-off-18-from-thick-as-thieves-team",
-      "date": "Wed, 01 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "Do You Use Your PS5 to Watch 4K Blu-ray Discs?",
-      "url": "https://www.ign.com/articles/do-you-use-your-ps5-to-watch-4k-blu-ray-discs",
-      "date": "Thu, 2 Jul"
-    },
     {
       "source": "Game Developer",
       "title": "Union workers establish hardship fund to support devs impacted by layoffs",
@@ -39,117 +15,141 @@
       "date": "Thu, 02 Ju"
     },
     {
-      "source": "Kotaku",
-      "title": "9 Perfectly Ice-Cold Video Games To Help You Survive The Summer Heat",
-      "url": "https://kotaku.com/hot-out-play-nice-cold-video-games-2000712347",
-      "date": "Thu, 02 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Hollywood Is Desperate For The Next Backrooms As Studios Buy Up Film Rights To More Creepy Online Media",
-      "url": "https://kotaku.com/hollywood-is-desperate-for-the-next-backrooms-2000712351",
-      "date": "Thu, 02 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Suicide Squad Devs Open Up About The Game\u2019s Struggles: \u2018I Started Feeling Like I Wasn\u2019t Making Games Anymore, I Was Following A Spreadsheet\u2019",
-      "url": "https://kotaku.com/suicide-squad-devs-open-up-about-the-games-struggles-i-started-feeling-like-i-wasnt-making-games-anymore-i-was-following-a-spreadsheet-2000712357",
-      "date": "Thu, 02 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Microsoft Announces New AI Company Days Before Mass Layoffs: \u2018A Learning Loop In Which Human Capital And Token Capital Compound\u2019",
-      "url": "https://kotaku.com/microsoft-announces-new-ai-company-days-before-mass-layoffs-a-learning-loop-in-which-human-capital-and-token-capital-compound-2000712342",
-      "date": "Thu, 02 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Captain America\u2019s Bulge Won\u2019t Stop Jiggling In His New Marvel Rivals Summer Skin",
-      "url": "https://kotaku.com/marvel-rivals-captain-america-summer-skin-physics-2000712337",
-      "date": "Thu, 02 Ju"
+      "source": "IGN",
+      "title": "Mr. Terrific TV Show in the Works With Pilot from The Sandman Alum",
+      "url": "https://www.ign.com/articles/mr-terrific-tv-show-in-the-works-with-pilot-from-the-sandman-alum",
+      "date": "Sat, 4 Jul"
     },
     {
       "source": "Polygon",
-      "title": "Dragon Strikers gets surprise season 2 2027 release date by Disney Plus",
-      "url": "https://www.polygon.com/dragon-striker-season-2-release-date/",
-      "date": "Thu, 02 Ju"
+      "title": "Mortal Kombat 3's fate is uncertain, Mortal Kombat 2 director says",
+      "url": "https://www.polygon.com/mortal-kombat-3-movie-update-director-liu-kang-kung-lao/",
+      "date": "Sat, 04 Ju"
     },
     {
       "source": "Polygon",
-      "title": "Mushoku Tensei season 3 looks like its most devastating season yet",
-      "url": "https://www.polygon.com/mushoku-tensei-season-3-anime-expo/",
-      "date": "Thu, 02 Ju"
+      "title": "Pok\u00e9mon Go Sobble Community Day event guide",
+      "url": "https://www.polygon.com/pokemon-go-sobble-community-day-shiny-inteleon-moveset/",
+      "date": "Sat, 04 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Kagurabachi's first 20 minutes slices through the explosive Anime Expo hype",
+      "url": "https://www.polygon.com/kagurabachis-anime-has-finally-arrived-and-anime-expo-is-giving-fans-an-early-look-at-shonen-jumps-next-phenomenon/",
+      "date": "Sat, 04 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Demon Slayer: Infinity Castle streaming release date announced for July 2026",
+      "url": "https://www.polygon.com/demon-slayer-infinity-castle-movie-streaming-release-crunchyroll/",
+      "date": "Sat, 04 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Yoshitaka Amano bringing hand-drawn animation back with ZAN anime",
+      "url": "https://www.polygon.com/zan-yoshitaka-amano-anime-expo-hand-drawn-series/",
+      "date": "Sat, 04 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "Soma dev's next game, Ontos, delayed to 2027 in order to deliver on studio's \"ambitious\" vision",
-      "url": "https://www.eurogamer.net/ontos-delayed-to-2027",
-      "date": "Thu, 02 Ju"
+      "title": "What we've been playing - \"As a result, I lost all my best clothes and my Switch 2\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-i-lost-my-best-clothes-and-switch-2",
+      "date": "Sat, 04 Ju"
     },
     {
       "source": "IGN",
-      "title": "Nintendo Brain Training Professor Explains Why Driving a Manual Transmission Car Is Better for Your Brain Than an Automatic",
-      "url": "https://www.ign.com/articles/nintendo-brain-training-professor-explains-why-driving-a-manual-transmission-car-is-better-for-your-brain-than-an-automatic",
+      "title": "Supergirl Reportedly Faced Creative Differences Between DC Studios and Craig Gillespie",
+      "url": "https://www.ign.com/articles/supergirl-reportedly-faced-creative-differences-between-dc-studios-and-craig-gillespie",
       "date": "Fri, 3 Jul"
     },
     {
       "source": "IGN",
-      "title": "Suicide Squad: Kill the Justice League Developers Wanted to Quit the Industry After the Game Was Released",
-      "url": "https://www.ign.com/articles/suicide-squad-kill-the-justice-league-developers-wanted-to-quit-the-industry-after-the-game-was-released",
+      "title": "Danganronpa 2x2 Delayed to Early 2027",
+      "url": "https://www.ign.com/articles/danganronpa-2x2-delayed-to-early-2027",
       "date": "Fri, 3 Jul"
     },
     {
       "source": "IGN",
-      "title": "Cape Fear Episode 6 Recap and Review \u2013 'Possum'",
-      "url": "https://www.ign.com/articles/cape-fear-episode-6-recap-and-review-possum",
+      "title": "Heat 2 Reportedly Casts Leonardo DiCaprio and Christian Bale With Filming Planned for November 2026",
+      "url": "https://www.ign.com/articles/heat-2-reportedly-casts-leonardo-dicaprio-and-christian-bale-with-filming-planned-for-november-2026",
       "date": "Fri, 3 Jul"
     },
     {
       "source": "IGN",
-      "title": "The $1,800 Power Lift Recliner and Massage Chair Is $370 During the Wayfair 4th of July Sale",
-      "url": "https://www.ign.com/articles/wayfair-4th-of-july-sale-power-lift-recliner-and-massage-chair-deal",
+      "title": "Today's Top Deals: $150 Nintendo eShop Gift Card, Bose QuietComfort Headphones, and DJI Osmo Pocket 3 Camera",
+      "url": "https://www.ign.com/articles/best-deals-for-july-3-2026",
       "date": "Fri, 3 Jul"
     },
     {
-      "source": "Polygon",
-      "title": "Pierre Coffin reveals why he returned to direct Minions & Monsters after sitting out the last 2 movies",
-      "url": "https://www.polygon.com/pierre-coffin-minions-monsters-interview/",
+      "source": "Game Developer",
+      "title": "Enginefall developer Red Rover Interactive is making layoffs",
+      "url": "https://www.gamedeveloper.com/business/enginefall-developer-red-rover-interactive-is-making-layoffs",
       "date": "Fri, 03 Ju"
     },
     {
-      "source": "Polygon",
-      "title": "Dwayne Johnson's Jumanji movies are better than Robin Williams' \u2014 and it's not even close",
-      "url": "https://www.polygon.com/best-jumanji-movie-dwayne-johnson-the-rock-vs-robin-williams/",
+      "source": "Game Developer",
+      "title": "Cyberpunk 2077 has sold 40 million copies worldwide",
+      "url": "https://www.gamedeveloper.com/business/cyberpunk-2077-has-sold-40-million-copies-worldwide",
       "date": "Fri, 03 Ju"
     },
     {
-      "source": "Polygon",
-      "title": "The Ninth Jedi trailer reveals a future for Star Wars beyond the Skywalker saga",
-      "url": "https://www.polygon.com/star-wars-ninth-jedi-trailer-anime-expo/",
+      "source": "Game Developer",
+      "title": "Rockstar workers hit back, PlayStation ditches physical discs, and chipmakers accused of price fixing -  Patch Notes #59",
+      "url": "https://www.gamedeveloper.com/business/rockstar-workers-hit-back-playstation-ditches-physical-discs-and-chipmakers-accused-of-price-fixing-patch-notes-58",
+      "date": "Fri, 03 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Man, I Miss Big Bargain Bins Of Used Video Games",
+      "url": "https://kotaku.com/man-i-miss-big-bargain-bins-of-used-video-games-2000712341",
+      "date": "Fri, 03 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Disc Manufacturing Factory Already Planning For PlayStation\u2019s All-Digital Future",
+      "url": "https://kotaku.com/disc-manufacturing-factory-already-planning-for-playstations-all-digital-future-2000712489",
+      "date": "Fri, 03 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Hands-On With Ninjala 2: The Anime Brawler Returns To Switch 2 With A New Twist",
+      "url": "https://kotaku.com/hands-on-with-ninjala-2-the-anime-brawler-returns-to-switch-2-with-a-new-twist-2000712493",
+      "date": "Fri, 03 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "I Can Never Remember The Actual Name Of Naughty Dog\u2019s New Space Game",
+      "url": "https://kotaku.com/i-can-never-remember-the-actual-name-of-naughty-dogs-new-space-game-2000712393",
+      "date": "Fri, 03 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "10 Extraordinary New Indie Games To Wishlist This 250th Indie-Penance Day",
+      "url": "https://kotaku.com/indie-penance-day-indie-games-steam-wishlist-deckbuilder-4x-2000712495",
       "date": "Fri, 03 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "Sony has already started repurposing its lone PlayStation disc factory, and the body of physical gaming isn't even cold",
-      "url": "https://www.eurogamer.net/sony-playstation-disc-factory-repurposed",
+      "title": "Saudi Arabia-owned Scopely continues its mobile investment spree with Umamusame: Pretty Derby director's new company Studio AuKnow",
+      "url": "https://www.eurogamer.net/scopely-investment-studio-auknow-saudi",
       "date": "Fri, 03 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "Former PlayStation boss Shawn Layden on Sony's years-long debate over scrapping discs, and why this time it's probably \"a straight spreadsheet decision\"",
-      "url": "https://www.eurogamer.net/shawn-layden-playstation-scrapping-discs-sony-reaction",
+      "title": "Clair Obscur: Expedition 33 studio Sandfall isn't bothered that people may not like its next game, and that's the most refreshing thing I've heard all week",
+      "url": "https://www.eurogamer.net/clair-obscur-expedition-33-studio-sandfall-isnt-bothered-refreshing-thing",
       "date": "Fri, 03 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "I love Baldur's Gate 3's queer representation, but triple-A games can still do so much more to explore lesbian stories with the depth they deserve",
-      "url": "https://www.eurogamer.net/pride-week-baldurs-gate-3-lesbian-stories",
+      "title": "As the memory crisis continues and players begin to complain, Cinder City drops 64GB RAM requirement and ups GPU requirement instead",
+      "url": "https://www.eurogamer.net/cinder-city-64-gb-ram-requirement-new-gpu-update",
       "date": "Fri, 03 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "The final Final Fantasy 7 remake game Revelation may not actually be the end of the story, leaked DLC listings suggest",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-dlc-pack-leak-story-expansions",
+      "title": "Cyberpunk 2077 passes another extraordinary sales milestone as CD Projekt Red hails \"the incredible, lasting strength\" of the game",
+      "url": "https://www.eurogamer.net/cyberpunk-2077-sales-total-cd-projekt-red",
       "date": "Fri, 03 Ju"
     }
   ]
