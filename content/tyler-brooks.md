@@ -1,6 +1,7 @@
 ---
 title: "Tyler Brooks"
 layout: "author-page"
+hide_title: true
 author_name: "Tyler Brooks"
 author_slug: "tyler-brooks"
 author_title: "Contributing Writer"
