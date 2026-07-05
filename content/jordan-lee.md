@@ -1,6 +1,7 @@
 ---
 title: "Jordan Lee"
 layout: "author-page"
+hide_title: true
 author_name: "Jordan Lee"
 author_slug: "jordan-lee"
 author_title: "Contributing Writer"
