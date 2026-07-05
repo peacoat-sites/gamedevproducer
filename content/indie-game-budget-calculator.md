@@ -1,5 +1,6 @@
 ---
 title: "Indie Game Budget Estimator: Calculate Your True Development Costs"
+hide_title: true
 date: 2026-06-10
 slug: "indie-game-budget-calculator"
 categories: ["Game Business"]
