@@ -1,6 +1,7 @@
 ---
 title: "Ryan Cole"
 layout: "author-page"
+hide_title: true
 author_name: "Ryan Cole"
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
