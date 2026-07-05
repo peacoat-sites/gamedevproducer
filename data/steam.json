@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-04",
+  "updated": "2026-07-05",
   "items": [
     {
-      "name": "Visionaire Studio",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4367370/862f4f747af0acee5bb3eb586d3300a7c8d2748b/header.jpg?t=1783153113",
-      "url": "https://store.steampowered.com/app/4367370/",
+      "name": "City Cardz",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831720/64598667100c987145b37ee9cdb5750e62c9160f/header.jpg?t=1783235158",
+      "url": "https://store.steampowered.com/app/4831720/",
+      "short_description": "",
+      "final_price": 413
+    },
+    {
+      "name": "An Adventure in Arabic",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394260/21fb8e738ffd41fc985bdc0a9fd0663388b031cd/header.jpg?t=1783221839",
+      "url": "https://store.steampowered.com/app/4394260/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Grandpa's Euchre",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864200/aa16b35aebb4c372f307a5be26bd8f3066aa99e7/header.jpg?t=1783151896",
-      "url": "https://store.steampowered.com/app/4864200/",
+      "name": "The Pawn Broker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840300/bd7baa4d1761ddd14aee45be20f99eab77f758d6/header.jpg?t=1783216601",
+      "url": "https://store.steampowered.com/app/4840300/",
       "short_description": "",
-      "final_price": 299
+      "final_price": 868
     },
     {
-      "name": "Hot Dogs, Horseshoes & Hand Grenades",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/450540/header.jpg?t=1783148856",
-      "url": "https://store.steampowered.com/app/450540/",
+      "name": "Overlab",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/d1897d54b24df348350f3ec334d0127a3df153e4/header.jpg?t=1783213962",
+      "url": "https://store.steampowered.com/app/4858520/",
       "short_description": "",
-      "final_price": 1999
+      "final_price": 0
     },
     {
-      "name": "\u7b80\u6613\u65e5\u5f0f\u9ebb\u5c06",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824410/452f26231078d071ae750af0623b0c9be06bb9af/header.jpg?t=1783148587",
-      "url": "https://store.steampowered.com/app/4824410/",
+      "name": "FOCUS",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208",
+      "url": "https://store.steampowered.com/app/4849010/",
       "short_description": "",
-      "final_price": 899
+      "final_price": 390
     },
     {
-      "name": "SoundRelay",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800130/bc1a1d01e0d38c62aacf70618b2279cc38b1c8a7/header.jpg?t=1783139410",
-      "url": "https://store.steampowered.com/app/4800130/",
+      "name": "The Incident",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698340/c98f62a155b7595c7418021dba8a5c49c7f8d2fb/header.jpg?t=1783202818",
+      "url": "https://store.steampowered.com/app/4698340/",
       "short_description": "",
-      "final_price": 499
+      "final_price": 367
     },
     {
-      "name": "Beat Pet",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819850/3cd552a247232913fdcfe57f280c1a0dbcc73699/header.jpg?t=1783137375",
-      "url": "https://store.steampowered.com/app/4819850/",
+      "name": "Spirit of the Dome",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384540/48bd364a2ef567b75494eb9de0a8e09f9e9cddd4/header.jpg?t=1783198918",
+      "url": "https://store.steampowered.com/app/3384540/",
       "short_description": "",
-      "final_price": 90
+      "final_price": 473
     },
     {
-      "name": "CHIPSTACK",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4755900/d7be78b9abcb094f3ded87a1ca2e970859251605/header.jpg?t=1783134423",
-      "url": "https://store.steampowered.com/app/4755900/",
+      "name": "\u4e94\u884c\u7b56(WuXing Card)",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365090/b582a32ccc42f4aac50415ae2c68fb4a8a04a5e1/header.jpg?t=1783181730",
+      "url": "https://store.steampowered.com/app/4365090/",
       "short_description": "",
-      "final_price": 629
+      "final_price": 275
     },
     {
-      "name": "Rescue Dogs vs Aliens Tower Defense",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4797790/002d3de51366d399f2f1ce2f8b9dae1feb5e2f1a/header.jpg?t=1783133271",
-      "url": "https://store.steampowered.com/app/4797790/",
+      "name": "JULPAE",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757640/982686772ee7db4a91a4cf45d4adc6d7c65fdc33/header.jpg?t=1783180124",
+      "url": "https://store.steampowered.com/app/4757640/",
       "short_description": "",
-      "final_price": 699
+      "final_price": 0
     },
     {
-      "name": "Ploy Co.",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005740/72eb62d13445b923e488b681db3ba012c683221d/header.jpg?t=1783132064",
-      "url": "https://store.steampowered.com/app/4005740/",
+      "name": "Rootbound Enigma",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478740/bc14c9fbd2046c8f8cf6473936b13ab872924a60/header.jpg?t=1783171921",
+      "url": "https://store.steampowered.com/app/4478740/",
       "short_description": "",
-      "final_price": 499
+      "final_price": 389
     },
     {
-      "name": "DRUMP SIMULATOR",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557030/18b19b65e757e8ba552a93f9d722adde4393da71/header.jpg?t=1783129721",
-      "url": "https://store.steampowered.com/app/4557030/",
+      "name": "Brick Game",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/35fbc4b392b4d98c47ad8b1ca5c6594df849b7f5/header.jpg?t=1783166885",
+      "url": "https://store.steampowered.com/app/1087090/",
       "short_description": "",
-      "final_price": 239
+      "final_price": 1425
     },
     {
-      "name": "OFS",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548800/0750f1fafcdbdc0a2fc2db66fcd18aed81005b59/header.jpg?t=1783126288",
-      "url": "https://store.steampowered.com/app/548800/",
+      "name": "TravelRoute Studio",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409090/a450fd4c73699de7d64b8bb057ad6f1e41514676/header.jpg?t=1783164334",
+      "url": "https://store.steampowered.com/app/4409090/",
       "short_description": "",
-      "final_price": 374
-    },
-    {
-      "name": "AR Basketball",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4794320/947406f288d8121dda20ad4ba9d52ef006a579d7/header.jpg?t=1783115238",
-      "url": "https://store.steampowered.com/app/4794320/",
-      "short_description": "",
-      "final_price": 1999
+      "final_price": 0
     }
   ]
 }
