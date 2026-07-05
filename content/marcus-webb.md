@@ -1,6 +1,7 @@
 ---
 title: "Marcus Webb"
 layout: "author-page"
+hide_title: true
 author_name: "Marcus Webb"
 author_slug: "marcus-webb"
 author_title: "Technical Editor"
