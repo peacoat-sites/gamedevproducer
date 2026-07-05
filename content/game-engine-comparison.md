@@ -1,5 +1,6 @@
 ---
 title: "Game Engine Comparison: 12 Engines Compared Side by Side (2026)"
+hide_title: true
 description: "Compare 12 game engines — Unity, Unreal, Godot, GameMaker and more — by language, 2D/3D focus, pricing, royalties, and difficulty. Sort and filter to find your engine."
 date: 2026-06-12
 slug: "game-engine-comparison"
