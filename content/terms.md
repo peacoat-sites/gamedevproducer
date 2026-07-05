@@ -1,5 +1,6 @@
 ---
 title: "Terms of Use"
+hide_title: true
 description: "Terms of Use for GameDevProducer.com."
 layout: "page"
 ---
