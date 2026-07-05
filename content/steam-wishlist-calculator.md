@@ -1,5 +1,6 @@
 ---
 title: "Steam Wishlist to First-Week Sales Calculator: How Many Will You Actually Sell?"
+hide_title: true
 date: 2026-06-10
 slug: "steam-wishlist-to-sales"
 categories: ["Game Marketing"]
