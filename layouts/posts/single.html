@@ -2,6 +2,11 @@
 
 {{- if eq .Section "posts" -}}
 
+{{/* ════════════════════════════════════════════════════════
+     ARTICLE PAGES  (content/posts/*)
+     Full layout: featured hero image + header + sidebar + ads
+     ════════════════════════════════════════════════════════ */}}
+
 <div class="post-wrap">
   {{ $tocRail := .TableOfContents }}
   {{ if and (templates.Exists "partials/toc.html") $tocRail (gt (len $tocRail) 150) }}
@@ -20,6 +25,7 @@
       <span>{{ .Title | truncate 50 }}</span>
     </nav>
 
+    <!-- Category + Title + Meta -->
     {{ if .Params.categories }}
     <span class="post-cat">{{ partial "topic-label.html" (index .Params.categories 0) }}</span>
     {{ end }}
@@ -51,12 +57,14 @@
       }
     </style>
 
+    <!-- Featured Hero Image — same image shown on the article card -->
     {{ if .Params.image }}
     <div class="post-featured-image" style="margin-bottom:12px">
       <img src="{{ .Params.image }}" alt="{{ .Title }}" loading="eager" fetchpriority="high" style="width:100%;max-height:480px;object-fit:cover;border-radius:var(--radius)">
     </div>
     {{ end }}
 
+    <!-- Top CTA (affiliate) -->
     {{ partial "cta-box.html" . }}
 
     {{ if and (not .IsHome) (gt .WordCount 600) .TableOfContents }}
@@ -64,6 +72,22 @@
       <span class="toc-label">In this article</span>
       {{ .TableOfContents }}
     </div>
+    {{ end }}
+    <!-- In-article video (if this article has a matching YouTube upload) -->
+    {{ $vslug := .Params.slug | default .File.ContentBaseName }}
+    {{ with site.Data.youtube }}
+      {{- $vid := "" }}{{ $vt := "" }}{{ range . }}{{ if eq .article_slug $vslug }}{{ $vid = .standard_id }}{{ $vt = .title }}{{ end }}{{ end -}}
+      {{ with $vid }}
+      <div class="article-video" style="margin:0 0 30px">
+        <div style="font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#6b7280);margin-bottom:8px;display:flex;align-items:center;gap:6px">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="#FF0000" aria-hidden="true"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2 31.1 31.1 0 0 0 0 12a31.1 31.1 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1A31.1 31.1 0 0 0 24 12a31.1 31.1 0 0 0-.5-5.8z"/><path d="M9.5 15.5v-7l6 3.5z" fill="#fff"/></svg>
+          Prefer to watch? Here's the video version
+        </div>
+        <div style="position:relative;padding-bottom:56.25%;height:0;border-radius:12px;overflow:hidden;box-shadow:0 2px 14px rgba(0,0,0,.12)">
+          <iframe src="https://www.youtube.com/embed/{{ . }}" title="{{ $vt }}" loading="lazy" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
+      {{ end }}
     {{ end }}
     <!-- Content with inline Amazon product after 2nd H2 -->
     <div class="post-content">
@@ -97,27 +121,27 @@
     </div>
     {{- end }}
 
+    <!-- Author Bio -->
     {{ with .Params.author }}
-<div class="author-bio" style="display:flex;gap:14px;align-items:flex-start;padding:20px;background:var(--surface,#f8fafc);border-radius:10px;margin:2rem 0">
-  {{ $slug := $.Params.author_slug | default (urlize .) }}
-  <a href="/{{ $slug }}/" style="flex-shrink:0">
-    <img src="/img/authors/{{ $slug }}.jpg" alt="{{ . }}"
-         style="width:54px;height:54px;border-radius:50%;object-fit:cover">
-  </a>
-  <div class="author-info">
-    <strong class="author-name">
-      <a href="/{{ $slug }}/" style="color:var(--heading,#1e293b);text-decoration:none">{{ . }}</a>
-    </strong>
-    {{ with $.Params.author_title }}<span class="author-title" style="display:block;font-size:.8rem;color:var(--muted,#64748b);margin-bottom:4px">{{ . }}</span>{{ end }}
-    {{ with $.Params.author_bio }}<p class="author-blurb" style="margin:0;font-size:.85rem;color:var(--muted,#64748b)">{{ . }}</p>{{ end }}
-  </div>
-</div>
-{{ end }}
+    {{ $slug := $.Params.author_slug | default (urlize .) }}
+    <div class="author-bio" style="display:flex;gap:14px;align-items:flex-start;padding:20px;background:var(--surface,#f8fafc);border-radius:10px;margin:2rem 0">
+      <a href="/{{ $slug }}/" style="flex-shrink:0">
+        <img src="/img/authors/{{ $slug }}.jpg" alt="{{ . }}"
+             style="width:54px;height:54px;border-radius:50%;object-fit:cover">
+      </a>
+      <div class="author-info">
+        <strong class="author-name">
+          <a href="/{{ $slug }}/" style="color:var(--heading,#1e293b);text-decoration:none">{{ . }}</a>
+        </strong>
+        {{ with $.Params.author_title }}<span class="author-title" style="display:block;font-size:.8rem;color:var(--muted,#64748b);margin-bottom:4px">{{ . }}</span>{{ end }}
+        {{ with $.Params.author_bio }}<p class="author-blurb" style="margin:0;font-size:.85rem;color:var(--muted,#64748b)">{{ . }}</p>{{ end }}
+      </div>
+    </div>
+    {{ end }}
 
-    {{ partial "audible-cta.html" . }}
-  {{ partial "prime-cta.html" . }}
-  {{ partial "related-articles.html" . }}
+    {{ partial "related-articles.html" . }}
 
+    <!-- In-article Ad -->
     {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_incontent (ne .Site.Params.adsense_slot_incontent "auto") }}
     <div class="ad-container ad-incontent" style="margin:24px 0">
       <ins class="adsbygoogle"
@@ -131,8 +155,10 @@
     </div>
     {{ end }}
 
+    <!-- Bottom CTA (affiliate) -->
     {{ partial "cta-box.html" . }}
 
+    <!-- Tags -->
     {{ if .Params.tags }}
     <div class="post-tags">
       {{ range .Params.tags }}
@@ -141,6 +167,7 @@
     </div>
     {{ end }}
 
+    <!-- Social Sharing -->
     <div class="social-share">
       <span class="social-share-label">Share this article:</span>
       <a class="share-btn share-twitter" href="https://twitter.com/intent/tweet?url={{ .Permalink | absURL | urlquery }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Share on X">&#x1D54F;</a>
@@ -151,9 +178,24 @@
 
   </article>
 
+  <!-- ── STICKY SIDEBAR (articles only) ── -->
   <aside class="sidebar">
 
-<div class="widget">
+    <!-- Watch on YouTube CTA -->
+    {{ with .Site.Params.youtube_channel }}
+    <div class="widget yt-cta" style="text-align:center">
+      <a href="https://www.youtube.com/channel/{{ . }}" target="_blank" rel="noopener" aria-label="Visit our YouTube channel" style="text-decoration:none;display:block">
+        <svg viewBox="0 0 28 20" width="52" height="37" aria-hidden="true" style="margin-bottom:9px"><rect width="28" height="20" rx="6" fill="#FF0000"/><path d="M11.2 6l6.6 4-6.6 4z" fill="#fff"/></svg>
+        <div style="font-weight:700;font-size:14.5px;color:var(--text,#1e293b);font-family:var(--serif,Georgia)">Watch &amp; Learn</div>
+      </a>
+      <div style="font-size:12.5px;color:var(--muted,#6b7280);margin:2px 0 13px">Video guides and quick tips</div>
+      <a href="https://www.youtube.com/channel/{{ . }}?sub_confirmation=1" target="_blank" rel="noopener" style="display:inline-flex;align-items:center;gap:7px;background:#FF0000;color:#fff;padding:8px 18px;border-radius:20px;text-decoration:none;font-weight:600;font-size:13px">
+        <svg viewBox="0 0 28 20" width="18" height="13" aria-hidden="true"><rect width="28" height="20" rx="6" fill="#fff"/><path d="M11.2 6l6.6 4-6.6 4z" fill="#FF0000"/></svg> Subscribe
+      </a>
+    </div>
+    {{ end }}
+    <!-- Related Articles widget — reliable recent-posts fallback -->
+    <div class="widget">
       <div class="widget-title">Related Articles</div>
       <div class="related-articles">
         {{- $currentPermalink := .Permalink -}}
@@ -181,6 +223,7 @@
       </div>
     </div>
 
+    <!-- Sidebar Ad -->
     {{ if and .Site.Params.adsense_id .Site.Params.adsense_slot_sidebar (ne .Site.Params.adsense_slot_sidebar "auto") }}
     <div class="widget" style="padding:0;border:none;background:transparent">
       <ins class="adsbygoogle"
@@ -193,6 +236,7 @@
     </div>
     {{ end }}
 
+    <!-- Browse Topics -->
     <div class="widget">
       <div class="widget-title">Browse Topics</div>
       <ul class="widget-list">
@@ -203,7 +247,6 @@
         {{ end }}
       </ul>
     </div>
-
     {{ with .Params.author }}
     {{ $authorName := . }}
     {{ $authorSlug := $.Params.author_slug | default (urlize .) }}
@@ -245,6 +288,11 @@
 {{ partial "amazon-products.html" . }}
 {{- else -}}
 
+{{/* ════════════════════════════════════════════════════════
+     NON-ARTICLE PAGES  (about, contact, privacy, etc.)
+     Clean single-column — no ads, no read time, no date, no CTA
+     ════════════════════════════════════════════════════════ */}}
+
 <div class="page-wrap">
   <div class="page-content">
     {{ .Content }}
@@ -253,3 +301,75 @@
 
 {{- end }}
 {{ end }}
+
+        <div class="widget">
+          <div class="widget-title">Recent Articles</div>
+          <div class="recent-articles">
+            {{ $posts := where .Site.RegularPages "Section" "posts" | first 6 }}
+            {{ range $posts }}
+            <a href="{{ .RelPermalink }}" class="article-card">
+              {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" class="article-card-image" />{{ end }}
+              <div class="article-card-content">
+                <h4 class="article-card-title">{{ .Title }}</h4>
+                <span class="article-card-time">{{ (int (math.Round (div .WordCount 450.0))) }} min read</span>
+              </div>
+            </a>
+            {{ end }}
+          </div>
+        </div>
+
+        <style>
+        .recent-articles {
+          display: flex;
+          flex-direction: column;
+          gap: 12px;
+          margin-bottom: 12px;
+        }
+
+        .article-card {
+          display: grid;
+          grid-template-columns: 70px 1fr;
+          gap: 12px;
+          align-items: start;
+          padding: 8px;
+          border-radius: 6px;
+          text-decoration: none;
+          color: inherit;
+          transition: background 0.2s;
+        }
+
+        .article-card:hover {
+          background: var(--surface2, #f5f2ec);
+        }
+
+        .article-card-image {
+          width: 70px;
+          height: 50px;
+          object-fit: cover;
+          border-radius: 4px;
+          flex-shrink: 0;
+        }
+
+        .article-card-content {
+          display: flex;
+          flex-direction: column;
+          gap: 4px;
+        }
+
+        .article-card-title {
+          font-size: 0.95rem;
+          font-weight: 600;
+          color: var(--text, #1c1917);
+          margin: 0;
+          line-height: 1.3;
+          display: -webkit-box;
+          -webkit-box-orient: vertical;
+          -webkit-line-clamp: 2;
+          overflow: hidden;
+        }
+
+        .article-card-time {
+          font-size: 0.8rem;
+          color: var(--muted, #a8a29e);
+        }
+        </style>
