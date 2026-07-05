@@ -1,6 +1,7 @@
 ---
 title: "Priya Sharma"
 layout: "author-page"
+hide_title: true
 author_name: "Priya Sharma"
 author_slug: "priya-sharma"
 author_title: "Contributing Writer"
