@@ -1,6 +1,7 @@
 ---
 title: "Samantha Roberts"
 layout: "author-page"
+hide_title: true
 author_name: "Samantha Roberts"
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
