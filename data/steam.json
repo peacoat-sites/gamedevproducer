@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-05",
+  "updated": "2026-07-06",
   "items": [
     {
-      "name": "City Cardz",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4831720/64598667100c987145b37ee9cdb5750e62c9160f/header.jpg?t=1783235158",
-      "url": "https://store.steampowered.com/app/4831720/",
-      "short_description": "",
-      "final_price": 413
-    },
-    {
-      "name": "An Adventure in Arabic",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4394260/21fb8e738ffd41fc985bdc0a9fd0663388b031cd/header.jpg?t=1783221839",
-      "url": "https://store.steampowered.com/app/4394260/",
+      "name": "Skyfire Embers",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660680/bcd065ac934bf62fcf6465a6630e0ad7a59e9b95/header.jpg?t=1783331768",
+      "url": "https://store.steampowered.com/app/4660680/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "The Pawn Broker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840300/bd7baa4d1761ddd14aee45be20f99eab77f758d6/header.jpg?t=1783216601",
-      "url": "https://store.steampowered.com/app/4840300/",
+      "name": "Nightclub Empire",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813570/a66268bb5600a84e13e9c73dab20c51b3d574345/header.jpg?t=1783334355",
+      "url": "https://store.steampowered.com/app/4813570/",
       "short_description": "",
-      "final_price": 868
+      "final_price": 449
     },
     {
-      "name": "Overlab",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858520/d1897d54b24df348350f3ec334d0127a3df153e4/header.jpg?t=1783213962",
-      "url": "https://store.steampowered.com/app/4858520/",
+      "name": "ShapesFoundry",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851520/77fa42ef103b4d2a6a1aeb0f15bd71ef89fe695c/header.jpg?t=1783327699",
+      "url": "https://store.steampowered.com/app/4851520/",
+      "short_description": "",
+      "final_price": 2499
+    },
+    {
+      "name": "Thunder Infinity",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667980/9331ee76551dd20410dd9b2a0b2eb46e84311354/header.jpg?t=1783324631",
+      "url": "https://store.steampowered.com/app/4667980/",
+      "short_description": "",
+      "final_price": 1140
+    },
+    {
+      "name": "Touhou - Kira's Fangame Collection",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4761030/bfe1d412159b781287351d5bc56b5821bdd6f237/header.jpg?t=1783322506",
+      "url": "https://store.steampowered.com/app/4761030/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "FOCUS",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4849010/f6e3154c3685f7bf7ad1d0126f18205214d5b8ef/header.jpg?t=1783213208",
-      "url": "https://store.steampowered.com/app/4849010/",
+      "name": "XeGrader plus",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323520/e72da119700a7d559ac79c738b13b6554fe60474/header.jpg?t=1783322102",
+      "url": "https://store.steampowered.com/app/4323520/",
       "short_description": "",
-      "final_price": 390
+      "final_price": 1799
     },
     {
-      "name": "The Incident",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698340/c98f62a155b7595c7418021dba8a5c49c7f8d2fb/header.jpg?t=1783202818",
-      "url": "https://store.steampowered.com/app/4698340/",
+      "name": "Three Kingdoms : Restoration of Han",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2757260/d46c1410fbf82d0b67734bf0806bd484ca2b23be/header.jpg?t=1783323238",
+      "url": "https://store.steampowered.com/app/2757260/",
       "short_description": "",
-      "final_price": 367
+      "final_price": 1169
     },
     {
-      "name": "Spirit of the Dome",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3384540/48bd364a2ef567b75494eb9de0a8e09f9e9cddd4/header.jpg?t=1783198918",
-      "url": "https://store.steampowered.com/app/3384540/",
+      "name": "Sunken Dragon",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3257760/2d4f1439834463361807985ef4a024e5b138df43/header.jpg?t=1783317107",
+      "url": "https://store.steampowered.com/app/3257760/",
       "short_description": "",
-      "final_price": 473
+      "final_price": 449
     },
     {
-      "name": "\u4e94\u884c\u7b56(WuXing Card)",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4365090/b582a32ccc42f4aac50415ae2c68fb4a8a04a5e1/header.jpg?t=1783181730",
-      "url": "https://store.steampowered.com/app/4365090/",
+      "name": "I'm Making a Monster",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4047160/f99629d1ea1e18ddc1fd91b6d98b80305677775e/header.jpg?t=1783310689",
+      "url": "https://store.steampowered.com/app/4047160/",
       "short_description": "",
-      "final_price": 275
+      "final_price": 718
     },
     {
-      "name": "JULPAE",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757640/982686772ee7db4a91a4cf45d4adc6d7c65fdc33/header.jpg?t=1783180124",
-      "url": "https://store.steampowered.com/app/4757640/",
+      "name": "World: 23806",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4527270/62d54b8ac625f4f3a478ba6131dd8f7ee6c33b5e/header.jpg?t=1783300673",
+      "url": "https://store.steampowered.com/app/4527270/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 699
     },
     {
-      "name": "Rootbound Enigma",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4478740/bc14c9fbd2046c8f8cf6473936b13ab872924a60/header.jpg?t=1783171921",
-      "url": "https://store.steampowered.com/app/4478740/",
+      "name": "Reveal Ball Pit: Defeated by Tentacles",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4479130/824bcfaca5b659feb85f43d516478efcab435214/header.jpg?t=1783299259",
+      "url": "https://store.steampowered.com/app/4479130/",
       "short_description": "",
-      "final_price": 389
+      "final_price": 299
     },
     {
-      "name": "Brick Game",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1087090/35fbc4b392b4d98c47ad8b1ca5c6594df849b7f5/header.jpg?t=1783166885",
-      "url": "https://store.steampowered.com/app/1087090/",
+      "name": "Schizophrenia: The Last Shift",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3119250/header.jpg?t=1783295966",
+      "url": "https://store.steampowered.com/app/3119250/",
       "short_description": "",
-      "final_price": 1425
-    },
-    {
-      "name": "TravelRoute Studio",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409090/a450fd4c73699de7d64b8bb057ad6f1e41514676/header.jpg?t=1783164334",
-      "url": "https://store.steampowered.com/app/4409090/",
-      "short_description": "",
-      "final_price": 0
+      "final_price": 263
     }
   ]
 }
