@@ -1,5 +1,5 @@
 ---
-title: "Team Dynamics In Aaa Game Studios"
+title: "Team Dynamics In AAA Game Studios"
 date: 2026-05-21T22:26:43.388358+00:00
 draft: false
 description: "Discover how team dynamics shape AAA game development. Explore collaboration, communication, and leadership strategies that drive successful game studios and hi"
