@@ -1,0 +1,17 @@
+[
+ {
+  "name": "International Game Developers Association",
+  "url": "https://igda.org/",
+  "note": "Industry association"
+ },
+ {
+  "name": "U.S. Bureau of Labor Statistics",
+  "url": "https://www.bls.gov/",
+  "note": "Careers and salary data"
+ },
+ {
+  "name": "MDN Web Docs",
+  "url": "https://developer.mozilla.org/",
+  "note": "Web and interactive tech reference"
+ }
+]
