@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/21704604/pexels-photo-21704604.jpeg?aut
 categories: ["team psychology"]
 tags: ["managing", "creative", "feedback", "without", "killing"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "managing-creative-feedback-without-killing-morale"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "Is there a good tool for async visual feedback on game assets?"
    a: "Frame.io is strong for video and animation reviews. ShotGrid (formerly Shotgun) is the industry standard for larger teams tracking asset reviews across a full pipeline. For smaller teams where budget matters, Loom plus a shared Notion page gets you surprisingly far."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Halfway through sprint review, your lead artist goes quiet. The creative director just called their environment work "a good start" and asked for "more energy." No specifics. No examples. Just vibes-based criticism delivered in front of the team. The artist nods, says nothing, and spends the next two weeks technically doing their job while emotionally checking out. You've just watched morale die in real time, and the worst part is the creative director genuinely thought they were being helpful.
 

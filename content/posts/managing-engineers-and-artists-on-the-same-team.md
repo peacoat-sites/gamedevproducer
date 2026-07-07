@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/5922202/pexels-photo-5922202.jpeg?auto=
 categories: ["team psychology"]
 tags: ["managing", "engineers", "artists", "same", "team"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "managing-engineers-and-artists-on-the-same-team"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "Which productivity or project management tools are most useful for a producer running a mixed team?"
    a: "For small to mid-size teams: HacknPlan for its game-specific task structures, Notion for documentation and decision logs, and Slack or Discord with structured channels per discipline plus a dedicated cross-discipline channel for dependency callouts. For larger teams, Shotgrid for art pipeline management alongside Jira for engineering, with a producer-maintained integration layer between them. The tool matters less than having a single source of truth that both disciplines actually use."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 You're three weeks from alpha, your lead engineer just told you the UI system isn't ready to accept art assets yet, and your lead artist is standing in the doorway asking why her team has been blocked for five days. Both of them are right. Both of them are frustrated. And you're the producer sitting between two people who speak entirely different professional languages, trying to keep the project moving without losing either of them. If that scenario sounds familiar, you've already discovered the core challenge of mixed-discipline team management in game development.
 

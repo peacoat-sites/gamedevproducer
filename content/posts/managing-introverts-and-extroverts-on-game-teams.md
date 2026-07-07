@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/9071464/pexels-photo-9071464.jpeg?auto=
 categories: ["team psychology"]
 tags: ["managing", "introverts", "extroverts", "game", "teams"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "managing-introverts-and-extroverts-on-game-teams"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
   - q: "Is it worth doing a team personality assessment like Myers-Briggs or DISC?"
     a: "Useful for opening conversations, not for making decisions. I've seen teams use DISC well as a shared language: 'I process better in writing, here's why.' That's valuable. Where assessments go wrong is when people use them to categorize or excuse: 'She's an introvert so she won't want to present.' Run the assessment, use the vocabulary, then watch the actual behavior. The person is always more accurate than the type."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Your lead engineer hasn't spoken in three standups this week. Your narrative designer won't stop talking in them. Both are doing excellent work. The problem isn't performance. The problem is you've built one communication system and expected two fundamentally different people to thrive in it equally. They won't.
 

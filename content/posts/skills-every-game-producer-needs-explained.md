@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/9072280/pexels-photo-9072280.jpeg?auto=
 categories: ["careers"]
 tags: ["skills", "every", "game", "producer", "needs"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "skills-every-game-producer-needs-explained"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
   - q: "What's the best way to get better at estimation and scheduling?"
     a: "Track your actuals obsessively for six months. Compare what you planned to what shipped, and be honest about why the gaps happened. No tool will make you a better estimator faster than your own project data. Mike Cohn's Agile Estimating and Planning is also worth reading if you want a framework to go with the practice."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Most game producers I've met either fell into the job by accident or got promoted from something they were already good at. A programmer who happened to be good at talking to people. A designer who kept the spreadsheet everyone else ignored. An artist who started running standup because nobody else would. That's not a bad origin story, actually. But it does mean a lot of producers are operating on instinct, patching gaps as they appear, without ever sitting down to ask: what does this job actually require?
 

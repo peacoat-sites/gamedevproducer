@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/8132453/pexels-photo-8132453.jpeg?auto=
 categories: ["role identity"]
 tags: ["what", "does", "game", "producer", "actually"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "what-does-a-game-producer-actually-do"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "What metrics should a producer track?"
    a: "At minimum: velocity against planned velocity (are you completing what you commit to?), bug open/close rate as you approach launch, milestone hit rate, and build stability. Beyond that, track whatever is causing the most risk on your specific project. If outsource asset delivery is your biggest dependency, track that weekly. If your engine is unstable, track crash rate and build times. Metrics should reflect your current risk profile, not a generic production dashboard template."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 You're three weeks from a milestone review and your lead programmer just told you the combat system is six weeks out. Your art director thinks scope is fine. Your studio head thinks everything is on track. You're the only person in the room who knows all three of those things at once. That's the job.
 

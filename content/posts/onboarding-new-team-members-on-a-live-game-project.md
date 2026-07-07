@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/8550657/pexels-photo-8550657.jpeg?auto=
 categories: ["team psychology"]
 tags: ["onboarding", "team", "members", "live", "game"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "onboarding-new-team-members-on-a-live-game-project"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "What's the biggest mistake producers make when onboarding onto a live game?"
    a: "Throwing someone into ownership too fast because the team is stretched thin. I've seen this kill confidence in genuinely strong hires. Two weeks of shadow mode feels like lost time when you're short-staffed. It isn't. The cost of a mistake on a live game with active players is orders of magnitude higher than two weeks of slower ramp-up."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Someone just accepted your offer. They start Monday. The game launched eight months ago, it's got 200,000 active players, three live events running in parallel, a hotfix due Thursday, and a Confluence wiki that hasn't been touched since beta. Congratulations. You now have approximately two weeks before this person either clicks into gear or quietly starts wondering if they made a mistake.
 

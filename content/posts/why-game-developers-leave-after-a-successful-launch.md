@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/340152/pexels-photo-340152.jpeg?auto=co
 categories: ["team psychology"]
 tags: ["game", "developers", "leave", "after", "successful"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "why-game-developers-leave-after-a-successful-launch"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "What's the best thing a producer can do in the first two weeks after launch?"
    a: "Slow down the operational tempo deliberately and visibly. If the producer is immediately running at the same velocity post-launch, the team reads that as more crunch with a different label. Protect the recovery window. Schedule it. Defend it from stakeholder pressure. Your team will remember that you did."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Your game ships. Reviews are good. Steam numbers are climbing. The Discord is alive. And then, over the next 90 days, three of your best people hand in their notice.
 

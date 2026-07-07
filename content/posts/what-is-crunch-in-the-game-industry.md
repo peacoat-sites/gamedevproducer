@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/6963942/pexels-photo-6963942.jpeg?auto=
 categories: ["team management"]
 tags: ["what", "crunch", "game", "industry"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "what-is-crunch-in-the-game-industry"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "How does crunch affect game quality and the final product?"
    a: "This is where it gets complicated. Some games ship in rough shape after brutal development (Cyberpunk 2077 at launch). Others ship in decent shape despite brutal development. The variable isn't usually the crunch itself, it's whether leadership maintained realistic scope and feature discipline while the crunch was happening. Crunch can ship a game. It can't fix a game that has fundamental design problems or scope it couldn't support. The two things get conflated, and that conflation is part of what lets studios keep crunching and calling it necessary."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 It's 11 PM on a Tuesday. You haven't seen your family for dinner in three weeks. Your Slack is on fire with messages from a producer asking for build status. The game ships in six weeks and the feature list hasn't shrunk, it's grown. You're not alone in this moment. You're in crunch, and somewhere right now, thousands of developers across the industry are right there with you.
 

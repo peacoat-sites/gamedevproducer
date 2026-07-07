@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/8278906/pexels-photo-8278906.jpeg?auto=
 categories: ["team psychology"]
 tags: ["psychological", "safety", "milestone", "reviews", "game"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "psychological-safety-and-milestone-reviews-in-game-dev"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "How long does it take to build genuine psychological safety on a team?"
    a: "Longer than you want. Research suggests six to twelve months of consistent behavior before trust is genuinely internalized. The good news: you'll start seeing functional benefits within the first few weeks of structural changes, even before full trust is established. People don't need to trust you completely to use an anonymous survey. Start there. The goal isn't a team where everyone feels great. It's a team where real problems surface fast enough for you to solve them. That's what makes games ship, and it's what the best milestone reviews are actually measuring."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 The milestone review ends. The lead designer closes their laptop and says, "Looks good, we're on track." Three weeks later, the vertical slice is a disaster. What happened? Nobody lied, exactly. But nobody told the full truth either. The combat lead knew the hit detection was held together with duct tape. The narrative designer had quietly cut 40% of the planned content. The producer, you, had no idea because you'd built a review culture where "on track" meant "I don't want this conversation right now." That's not a milestone problem. That's a psychological safety problem wearing a milestone problem's clothes.
 

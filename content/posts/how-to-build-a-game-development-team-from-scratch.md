@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/6804073/pexels-photo-6804073.jpeg?auto=
 categories: ["team management"]
 tags: ["build", "game", "development", "team", "from"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "how-to-build-a-game-development-team-from-scratch"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
   - q: "What project management software is best for a beginner game dev team?"
     a: "Start with Notion for documentation and Hacknplan or GitHub Projects for task tracking. Both are free at small scale. Don't set up Jira or a complex Scrum framework on your first project. The overhead will eat you alive before you've shipped anything."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Most first-time game dev team builders make the same mistake: they hire for roles before they understand what they're actually building.
 

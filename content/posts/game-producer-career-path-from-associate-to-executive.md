@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/7915282/pexels-photo-7915282.jpeg?auto=
 categories: ["role identity"]
 tags: ["game", "producer", "career", "path", "from"]
 author: "Jordan Lee"
-author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
+author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "game-producer-career-path-from-associate-to-executive"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
   - q: "Q: What books or courses help you prepare for promotion?"
     a: "'The Goal' by Goldratt is the classic for understanding constraint theory and project management. 'Radical Candor' by Kim Scott is useful for the people side. 'The Phoenix Project' applies manufacturing concepts to software. For game-specific learning, look for courses on production methodology, and more importantly, spend time in your actual game's pre-production and production phases. Real projects teach you more than any book. Tools like Asana, Monday.com, or Jira Academy have free learning paths for their platforms, which is time well spent. Your career as a producer isn't a straight line"
 author_slug: "jordan-lee"
-author_title: "Contributing Writer"
+author_title: "Game Developer"
 ---
 You've been promoted to Associate Producer. Your first week, someone asks you to "own" the art schedule. You nod, open a spreadsheet, and realize you have no idea what you're actually supposed to do. Sound familiar?
 

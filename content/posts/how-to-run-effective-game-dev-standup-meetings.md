@@ -8,8 +8,8 @@ categories: ["project management"]
 tags: ["effective", "game", "standup", "meetings"]
 author: "Jordan Lee"
 author_slug: "jordan-lee"
-author_title: "Contributing Writer"
-author_bio: "Jordan Lee went from solo developer to small studio founder, shipping three commercial titles across PC and mobile over six years. Along the way, he learned most of what he knows about pricing, discoverability, and platform strategy the hard way, usually by getting them wrong first. At GameDevProducer, Jordan covers the business side of indie development: Steam algorithms, pricing strategy, how to build a sustainable studio without outside funding, and what actually moves the needle on launch day."
+author_title: "Game Developer"
+author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "how-to-run-effective-game-dev-standup-meetings"
 affiliate_disclosure: true
 faqs:

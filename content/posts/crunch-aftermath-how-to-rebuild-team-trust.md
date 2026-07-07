@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/6806095/pexels-photo-6806095.jpeg?auto=
 categories: ["team psychology"]
 tags: ["crunch", "aftermath", "rebuild", "team", "trust"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "crunch-aftermath-how-to-rebuild-team-trust"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "When is it okay to start talking about the next project?"
    a: "When your pulse survey scores are back above 3.5 across the board, when you've addressed at least the highest-priority structural issue that caused crunch, and when people are voluntarily bringing energy and ideas to conversations rather than waiting to be asked. That's the signal. Calendar date alone means nothing."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 The project shipped. Congratulations. Your team worked 70-hour weeks for three months, someone cried in the parking lot, two people quietly updated their LinkedIn profiles mid-crunch, and now you're sitting in a fluorescent-lit conference room trying to lead a "we did it!" retrospective while half the room stares at the table. The game is out. The team is broken. And nobody in leadership is talking about the second problem.
 

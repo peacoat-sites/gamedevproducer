@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/5849558/pexels-photo-5849558.jpeg?auto=
 categories: ["budgeting"]
 tags: ["funding", "options", "indie", "game", "studios"]
 author: "Jordan Lee"
-author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
+author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "funding-options-for-indie-game-studios-explained"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "Do publishers care about Metacritic scores from previous games?"
    a: "More than most devs expect. If you've shipped a game before, publishers will look at your Steam reviews, your Metacritic score if you have one, and your sales history. A previous game with mixed reviews isn't automatically disqualifying, but you'll need to speak to what you learned and why the next project is different. Pretending a rough launch didn't happen is one of the fastest ways to lose credibility in a pitch meeting."
 author_slug: "jordan-lee"
-author_title: "Contributing Writer"
+author_title: "Game Developer"
 ---
 Most indie studios run out of money before they run out of ideas. That's not pessimism, just math. And if you're reading this, you're probably trying to make sure that doesn't happen to you.
 

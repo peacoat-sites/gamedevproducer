@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/34221175/pexels-photo-34221175.jpeg?aut
 categories: ["role identity"]
 tags: ["game", "producer", "technical", "program", "manager"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "game-producer-vs-technical-program-manager"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "Should game studios hire more TPMs as the industry shifts toward live service?"
    a: "Yes, cautiously. Live service fundamentally changes the coordination problem. You're not shipping once; you're shipping continuously across backend, client, content, and balance updates, often with contractual content cadences and platform partner dependencies. That's a program management challenge that benefits from TPM thinking. But hiring TPMs without also investing in strong producers is a mistake. The TPM makes the machine run better. The producer keeps the machine pointed at something worth shipping."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 You're three months into shipping a live-service title, sprint planning is a complete mess, and your studio head just told you they're bringing in a "Technical Program Manager" to help. Your first thought: *isn't that just what I do?* It's a reasonable question. And the fact that nobody has a clean answer to it is causing real dysfunction at studios right now.
 

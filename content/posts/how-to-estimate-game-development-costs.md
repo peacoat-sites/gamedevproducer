@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/9260568/pexels-photo-9260568.jpeg?auto=
 categories: ["budgeting"]
 tags: ["estimate", "game", "development", "costs"]
 author: "Jordan Lee"
-author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
+author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "how-to-estimate-game-development-costs"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "When should I revisit my estimate?"
    a: "At every major milestone, after any significant scope change, and whenever actual velocity diverges from planned velocity for two or more consecutive sprints. Estimates aren't a contract. They're a living forecast. Treating them as fixed after pre-production is one of the most common ways studios walk into production debt without noticing until it's too late."
 author_slug: "jordan-lee"
-author_title: "Contributing Writer"
+author_title: "Game Developer"
 ---
 Most studios don't blow their budgets on big decisions. They bleed out on the small ones nobody estimated properly. The character rig that needed three passes. The audio implementation that got scoped as "two weeks" by someone who'd never opened FMOD. The month of crunch that cost nothing on paper and cost everything in turnover afterward. Estimation isn't a box you check before funding. It's the skill that separates studios that ship from studios that send a heartfelt update to their Kickstarter backers explaining why the game is five years late.
 

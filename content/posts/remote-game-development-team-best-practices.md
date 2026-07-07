@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/6804580/pexels-photo-6804580.jpeg?auto=
 categories: ["team management"]
 tags: ["remote", "game", "development", "team", "best"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "remote-game-development-team-best-practices"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "Should a remote game dev team use Discord or Slack?"
    a: "Discord if your team is primarily under 35 and you value low-friction voice channels and don't need sophisticated integrations. Slack if you need Jira, Notion, or GitHub integrations and want more structured information architecture. The wrong answer is using both."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Forty percent of my last studio's dev team was remote before COVID made it fashionable. We figured it out the hard way, which means I have very specific opinions about what the internet gets wrong when it covers this topic.
 

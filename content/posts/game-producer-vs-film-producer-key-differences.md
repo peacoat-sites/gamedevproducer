@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/66134/pexels-photo-66134.jpeg?auto=comp
 categories: ["role identity"]
 tags: ["game", "producer", "film", "producer", "differences"]
 author: "Jordan Lee"
-author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
+author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "game-producer-vs-film-producer-key-differences"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "What's the biggest mistake film producers make when moving into game development?"
    a: "Assuming the schedule is sacred. In film, a shooting schedule is built to be followed. In game development, the schedule is a planning tool that gets revised constantly as technical discoveries surface and design decisions change. Film producers often react to schedule slippage as a crisis. Game producers have to learn to treat it as information and respond with replanning rather than alarm. Related to that: underestimating how long things take in game development is the single most common source of crunch, which is a production failure, not an unavoidable feature of the industry."
 author_slug: "jordan-lee"
-author_title: "Contributing Writer"
+author_title: "Game Developer"
 ---
 You've spent ten years producing indie films. You know how to wrangle a crew, manage a shooting schedule, and sweet-talk a distributor into taking your finished product. Then someone offers you a senior producer role at a mid-sized game studio, and you think: "How different can it be?" 
 

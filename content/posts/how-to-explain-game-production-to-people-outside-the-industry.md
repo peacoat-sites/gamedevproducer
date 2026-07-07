@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/8369603/pexels-photo-8369603.jpeg?auto=
 categories: ["role identity"]
 tags: ["explain", "game", "production", "people", "outside"]
 author: "Jordan Lee"
-author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
+author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "how-to-explain-game-production-to-people-outside-the-industry"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "What do I do when someone just doesn't accept that game development is hard?"
    a: "Stop trying to convince them and shift to alignment. Ask what outcome they need and work backward from that. If an investor doesn't believe your timeline, the productive conversation isn't about game development theory. It's about what evidence would give them confidence. That reframes the conversation from debate to problem-solving, and it's usually more productive for everyone."
 author_slug: "jordan-lee"
-author_title: "Contributing Writer"
+author_title: "Game Developer"
 ---
 Your publisher contact just forwarded your milestone report to their finance team, and now someone in accounting wants a 30-minute call to understand "why it takes so long to make a video game." You've been in production for eight months. You have 40,000 words of design documentation, a Jira board with 600 tickets, and a team of 12 people who haven't slept properly since Q1. And now you have to explain all of that to someone whose last gaming experience was Minesweeper.
 

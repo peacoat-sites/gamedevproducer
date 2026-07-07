@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["forced", "back", "indie:", "what", "xbox"]
 author: "Tyler Brooks"
 author_slug: "tyler-brooks"
-author_title: "Studio & Leadership Writer"
-author_bio: "Tyler Brooks has managed game development teams for over a decade, scaling one studio from a two-person project to a full team. He has navigated the full studio lifecycle and writes about what actually works when it comes to building and leading a game development organization. At GameDevProducer, he covers team management, studio operations, hiring, culture, and the leadership challenges that come with growing a game development business."
+author_title: "Studio Operations Lead"
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "forced-back-to-indie-what-xbox-spin-offs-mean-for-re-independence"
 affiliate_disclosure: true
 ---

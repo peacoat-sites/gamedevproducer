@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/9809836/pexels-photo-9809836.jpeg?auto=
 categories: ["role identity"]
 tags: ["creative", "director", "producer", "relationship", "explained"]
 author: "Jordan Lee"
-author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
+author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "the-creative-director-producer-relationship-explained"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "How do you measure if the CD-producer relationship is healthy?"
    a: "Watch for these signs: Decisions get made in reasonable timeframes. Both roles show up in relevant meetings and engage substantively. Scope changes come with timeline impact discussion. The team isn't confused about creative direction or schedule. People aren't burning out from constant conflict or unclear goals. Neither role is publicly undermining the other. If you see most of these, you're doing okay. If you see none of them, you've got work to do."
 author_slug: "jordan-lee"
-author_title: "Contributing Writer"
+author_title: "Game Developer"
 ---
 You're sitting in a pre-production meeting. The creative director just pitched a radical art direction change three weeks before greenlight. The producer in you sees scope creep and timeline risk. The part of you that hired this CD respects their vision. Nobody says anything for seven seconds. That silence is the relationship problem nobody talks about in game production.
 

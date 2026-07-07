@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/7862518/pexels-photo-7862518.jpeg?auto=
 categories: ["role identity"]
 tags: ["what", "transfers", "from", "tech", "game"]
 author: "Jordan Lee"
-author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
+author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "what-transfers-from-tech-pm-to-game-production"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "What's the biggest mistake tech PMs make when switching to game production?"
    a: "Optimizing for process correctness over team trust. Coming in with a better system than the studio currently uses doesn't matter if you haven't built enough credibility for people to follow it. Fix the culture of your Jira board after you've fixed your relationships."
 author_slug: "jordan-lee"
-author_title: "Contributing Writer"
+author_title: "Game Developer"
 ---
 You're three weeks into your new associate producer role at a mid-sized game studio, and your Jira board looks immaculate. Epics nested. Tickets groomed. Velocity tracked. Your engineering lead walks by, glances at the screen, and says "that's cute." Not mean about it. Just... unimpressed. You've run software sprints for five years. You shipped a payments platform used by millions. And somehow, you feel like you're starting from zero. That gap between tech PM confidence and game production reality is real, and it catches almost everyone off guard.
 

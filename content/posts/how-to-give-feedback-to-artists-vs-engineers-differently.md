@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/5657673/pexels-photo-5657673.jpeg?auto=
 categories: ["team psychology"]
 tags: ["give", "feedback", "artists", "engineers", "differently"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "how-to-give-feedback-to-artists-vs-engineers-differently"
 affiliate_disclosure: true
 faqs:
@@ -20,7 +20,7 @@ faqs:
  - q: "How do you handle it when an engineer thinks your feedback is outside scope?"
    a: "Take it seriously. Engineers have context on technical debt, system architecture, and downstream consequences that you likely don't have full visibility into. Ask them to explain the constraint. If the scope objection is valid, reprioritize. If it's not, make the business case clearly: 'I understand this is a change, here's why it's a P1 from a player experience standpoint, what do you need from me to make it feasible?' Acknowledging their concern before asserting the priority gets you a lot further than overriding it."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 You're in a sprint review. The combat animator shows a sword slash that reads slow and telegraphed. You say, "The timing feels off, can you punch it up?" She nods. Two days later, you see the revision and it's faster, snappier, and somehow worse. Meanwhile, across the room, you told your lead engineer the collision detection "felt a bit janky" and he came back with three questions, a spreadsheet of frame data, and a fix that worked perfectly. Same vague feedback. Completely opposite outcomes. That's not a coincidence.
 

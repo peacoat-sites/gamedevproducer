@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/38094552/pexels-photo-38094552.jpeg?aut
 categories: ["strategy"]
 tags: ["start", "indie", "game", "studio", "guide"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "how-to-start-an-indie-game-studio-guide"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "How do I find co-founders or team members for an indie studio?"
    a: "The most reliable sources are people you've already worked with, game jams (Ludum Dare and Global Game Jam both produce real professional relationships), and communities like TIGSource forums or the r/gamedev Discord. Be skeptical of strangers who are 'very passionate' but have no shipped work and no specific skills. Passion without track record is a risk, not an asset."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Most guides about starting an indie studio spend three thousand words telling you to "follow your passion" and "build what you love." They skip the part where you run out of money in month eight and wonder why nobody told you about quarterly estimated taxes.
 

@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/7923257/pexels-photo-7923257.jpeg?auto=
 categories: ["team psychology"]
 tags: ["team", "dynamics", "game", "studios"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "team-dynamics-in-aaa-game-studios"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "How do you maintain team cohesion through crunch?"
    a: "Honestly? You're mostly in damage-limitation mode. The things that help: extreme transparency about exactly how long the crunch period is expected to last, visible acknowledgment from leadership that the situation is not normal and not permanent, and protecting a minimal amount of schedule space for team connection even when everything feels on fire. Post-launch recovery time, clearly communicated in advance, helps people endure the end of a project. What destroys cohesion isn't crunch itself. It's indefinite crunch with no visible end and leadership that pretends everything is fine."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 You're three weeks from a content-complete milestone, your lead animator hasn't spoken directly to the lead programmer in eleven days, and your producer just told you "the team is fine" while two senior engineers quietly updated their LinkedIn profiles. This is not a dysfunction story. This is Tuesday at a AAA studio.
 

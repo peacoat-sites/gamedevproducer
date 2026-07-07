@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/15686450/pexels-photo-15686450.jpeg?aut
 categories: ["role identity"]
 tags: ["game", "producer", "portfolio", "what", "show"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "game-producer-portfolio-what-to-show-hiring-managers"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "What if I signed an NDA on everything I've shipped?"
    a: "Most NDAs cover unreleased content and proprietary data, not the existence of a sprint structure or a general workflow. Anonymize and generalize where needed. If in doubt, ask your former employer. But don't assume an NDA means you can show nothing. That's a common misconception that kills portfolios before they start. The producers I've seen get hired fastest aren't always the ones with the longest resumes. They're the ones who made it easy for a busy hiring manager to see exactly how they think. Do that, and your portfolio does the selling for you."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 You spent eight months producing a mobile RPG, shipped it on time, kept a team of twelve aligned, and survived a mid-project engine migration without killing the budget. Hiring managers at three studios looked at your portfolio and passed. Sound familiar? The problem almost certainly isn't your experience. It's how you're presenting it, or more accurately, what you're choosing to show.
 

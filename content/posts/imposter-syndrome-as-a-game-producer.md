@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/7862673/pexels-photo-7862673.jpeg?auto=
 categories: ["team psychology"]
 tags: ["imposter", "syndrome", "game", "producer"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "imposter-syndrome-as-a-game-producer"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "Are there specific production roles where imposter syndrome is worse?"
    a: "Associate producers and first-time leads report it most acutely, but senior producers changing studios often experience a sharp resurgence because they've lost their institutional context. When you don't know the codebase, the culture, the team history, or the political landscape yet, you feel incompetent even if your skills are fully intact. Give yourself a 90-day acclimation window, be explicit with yourself that you're in a learning phase, and don't measure your confidence against your eventual steady-state performance. The moment in that milestone review, the blank second, the quiet doubt,"
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 You're sitting in a milestone review. The creative director just asked you to defend the sprint plan you built, and suddenly your mind goes blank. Not because you don't know the answer, but because a quiet voice in the back of your head is whispering: *who are you to be running this?* You nod, buy yourself three seconds with "great question," and recover. But the feeling lingers for the rest of the day. If you recognize that moment, you're not alone, and you're almost certainly not the fraud you think you are.
 

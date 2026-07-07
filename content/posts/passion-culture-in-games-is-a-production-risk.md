@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/7915303/pexels-photo-7915303.jpeg?auto=
 categories: ["team psychology"]
 tags: ["passion", "culture", "games", "production", "risk"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "passion-culture-in-games-is-a-production-risk"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "Q: How do I onboard people into a sustainable culture if we've been doing crunch?"
    a: "Be honest about what changed and why. Explain that the studio is switching to realistic planning, which means the schedule will actually be achievable. Set clear boundaries on hours. Back them up. When someone does work a long night, ask why the plan failed. The first few people you hire into the new culture will be skeptical. But when the schedule holds and they can actually have a life outside work, you'll attract better people consistently."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 You're two weeks from an engine migration deadline. Your lead programmer hasn't slept properly in three weeks. The art director just finished a 60-hour sprint to redo character models that weren't technically broken. When you mention crunch in the standup, people nod like it's normal. Someone says, "That's just how game dev works." You believe them. You hire more passionate people. Six months later, two of your best artists quit without warning, and a junior engineer is too burned out to contribute meaningfully. The problem wasn't that they weren't passionate enough. It was that you built a production system that treated passion as a substitute for planning.
 

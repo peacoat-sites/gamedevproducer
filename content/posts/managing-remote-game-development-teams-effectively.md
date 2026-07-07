@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/36598848/pexels-photo-36598848.jpeg?aut
 categories: ["team psychology"]
 tags: ["managing", "remote", "game", "development", "teams"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "managing-remote-game-development-teams-effectively"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "How do you prevent remote developers from feeling isolated or disconnected from the project vision?"
    a: "Over-communicate the 'why.' Every sprint should open with a brief reminder of what you're building toward and where this sprint fits. Share player feedback, test session recordings, playtest reactions. Remote developers who can see the game's impact on real people stay connected to the work in a way no team ritual can replicate. Also run milestone celebrations. Ship a build, acknowledge it publicly, and make it feel like a moment."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Your lead programmer is in Warsaw. Your UI artist is in Toronto. Your narrative designer just moved to Chiang Mai. It's 9 AM somewhere and nobody's online at the same time. If you're managing a remote game dev team right now and it feels like herding cats across four time zones, the problem usually isn't the tools you're using. It's that you're running a distributed team with a co-located mindset.
 

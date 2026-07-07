@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/8112176/pexels-photo-8112176.jpeg?auto=
 categories: ["industry intel"]
 tags: ["platform", "certification", "what", "producers", "need"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "platform-certification-what-producers-need-to-know"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "What tools or resources should producers use to prepare for cert?"
    a: "The most useful resources are the official requirement documents themselves (always check the version number), your platform technical account manager if you have one, and a well-maintained tracking spreadsheet. For project management, Jira and Hacknplan both work well for tagging cert requirements to tasks. For broader production knowledge, the book 'The Game Production Handbook' by Heather Maxwell Chandler covers cert-adjacent processes clearly. Jason Schreier's 'Press Reset' is less prescriptive but gives you a clear picture of what goes wrong when these processes break down."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 You've locked content. The game runs. QA has signed off. Then someone on your team quietly mentions the cert submission deadline is in three days, and you realize you've never actually read the platform holder's technical requirements document. That moment of cold dread is completely avoidable. It happens more often than anyone in the industry likes to admit. Platform certification has ended careers, delayed launches by months, and cost studios hundreds of thousands of dollars in overtime and lost revenue. It doesn't have to go that way.
 

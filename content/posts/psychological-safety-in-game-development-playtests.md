@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/31916803/pexels-photo-31916803.jpeg?aut
 categories: ["team psychology"]
 tags: ["psychological", "safety", "game", "development", "playtests"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "psychological-safety-in-game-development-playtests"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "What do you do when playtest data directly contradicts the creative director's vision?"
    a: "Present the data clearly and let it speak without editorializing. Don't frame it as 'players hate the vision.' Frame it as 'here's the specific behavior we observed, and here are three possible explanations for why it's happening.' Give the creative director ownership of the interpretation. Your job as a producer or researcher is to make sure the data gets seen accurately, not to win an argument. If the creative director consistently overrides clear player feedback and it's creating production risk, that's a leadership conversation, not a playtest facilitation problem."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Picture this: your lead designer has spent six weeks building a core combat loop. It's their baby. The first playtest session arrives, and a tester sits down, fumbles through the tutorial, puts the controller down after twelve minutes, and says "I don't really get what I'm supposed to be doing." The room goes quiet. The designer's jaw tightens. Two testers notice the tension and spend the next forty minutes saying things like "it's pretty fun" and "I just need to learn the controls better." You walk away with almost no usable data, and nobody talks about what actually happened.
 

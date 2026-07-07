@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/7414008/pexels-photo-7414008.jpeg?auto=
 categories: ["industry intel"]
 tags: ["OKRs", "game", "studios", "where", "they"]
 author: "Jordan Lee"
-author_bio: "Jordan Lee writes about indie development, business strategy, and building a sustainable studio."
+author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "okrs-in-game-studios-where-they-work-and-where-they-fail"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "How do you handle OKRs when a project slips?"
    a: "Update them. Seriously. OKRs that no longer reflect reality are worse than no OKRs, because they force teams to either lie about progress or ignore the system entirely. If the project slips and your Q3 OKRs become irrelevant, call a brief review, update the key results to reflect the new situation, and move forward. The cadence serves the work, not the other way around."
 author_slug: "jordan-lee"
-author_title: "Contributing Writer"
+author_title: "Game Developer"
 ---
 You rolled out OKRs six months ago. Leadership was energized. Kickoff happened, everyone wrote their objectives, and on paper the key results looked solid. Now it's end of quarter and half your teams are scrambling to update numbers they haven't touched since week two. Nobody can explain how "increase player retention by 15%" connects to the artist who spent eight weeks building environment assets. Sound familiar? You're not alone. The problem probably isn't your people.
 

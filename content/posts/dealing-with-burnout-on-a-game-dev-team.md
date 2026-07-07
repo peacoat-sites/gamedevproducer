@@ -7,7 +7,7 @@ image: "https://images.pexels.com/photos/34804011/pexels-photo-34804011.jpeg?aut
 categories: ["team management"]
 tags: ["dealing", "with", "burnout", "game", "team"]
 author: "Tyler Brooks"
-author_bio: "Tyler Brooks writes about studio management, team leadership, and the human side of game development."
+author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "dealing-with-burnout-on-a-game-dev-team"
 affiliate_disclosure: true
 faqs:
@@ -22,7 +22,7 @@ faqs:
  - q: "Are there any tools specifically for tracking team health in game dev?"
    a: "A few teams I know use Officevibe or its successor Workleap (about $5 per user per month) for anonymous weekly pulse surveys. It's not game-dev-specific but it gives you signal before problems become visible in behavior. Some studios have started using Miro boards for retrospective health checks: anonymous sticky notes, no attribution. Low tech, but people are more honest when their name isn't on it."
 author_slug: "tyler-brooks"
-author_title: "Contributing Writer"
+author_title: "Studio Operations Lead"
 ---
 Three people quit my team in six weeks once. Not because the game was bad. Not because anyone was difficult to work with. Because we just kept going. Milestone after milestone, crunch after crunch, and nobody said the thing that needed to be said out loud.
 
