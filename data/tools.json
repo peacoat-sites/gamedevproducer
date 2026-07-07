@@ -2,16 +2,29 @@
   {
     "label": "Engine Comparison",
     "url": "/game-engine-comparison/",
-    "icon": "\ud83d\udcc8"
+    "icon": "\ud83d\udcc8",
+    "match": [
+      "engine"
+    ]
   },
   {
     "label": "Indie Game Budget Calc",
     "url": "/indie-game-budget-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "indie",
+      "game",
+      "budget"
+    ]
   },
   {
     "label": "Steam Wishlist Sales",
     "url": "/steam-wishlist-to-sales/",
-    "icon": "\u2705"
+    "icon": "\u2705",
+    "match": [
+      "steam",
+      "wishlist",
+      "sales"
+    ]
   }
 ]
