@@ -24,8 +24,6 @@ faqs:
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
 ---
-# Article Body
-
 Every Game Developers Conference since 2004, studios have lined up on the main stage to explain how their project fell apart. The pattern is eerie. A 2008 postmortem describes scope creep, communication breakdowns, and a last-minute engine swap. Jump to 2023, and an indie team describes nearly the same disasters. Two decades of public failure analysis, and we're still making identical mistakes. The problems haven't changed. Most producers just aren't reading these postmortems, and the ones who do aren't pulling out the repeating patterns that actually matter.
 
 ## The Consistent Failures Keep Appearing
