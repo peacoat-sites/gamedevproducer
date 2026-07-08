@@ -6,7 +6,7 @@ date: 2026-06-10
 categories: ["Game Business"]
 description: "Calculate how game revenue splits between platforms, publishers, and team members, with recoupment thresholds and clear per-person payouts."
 author: "Ryan Cole"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Revenue share disputes are one of the most common, and most avoidable, causes of studio conflict. Getting clear on who gets what before a game ships, in writing, with math that everyone has seen and agreed to, is one of the most impactful things a producer can do for team health and long-term business sustainability.
 
@@ -42,7 +42,7 @@ The team split is where most internal studio disputes start. A few principles th
 
 **Fix percentages in writing before revenue exists.** Verbal agreements made during development become contested once there's real money. A simple shared document signed by everyone involved is better than nothing. A properly drafted legal agreement is better still.
 
-**Account for the person who holds the Steam keys and bank account.** Someone has to be the legal entity that receives payment from Valve. That person carries legal and tax obligations that pure revenue share doesn't compensate for. Consider a small admin allocation (3–5%) off the top for the studio entity before the personal splits happen.
+**Account for the person who holds the Steam keys and bank account.** Someone has to be the legal entity that receives payment from Valve. That person carries legal and tax obligations that pure revenue share doesn't compensate for. Consider a small admin allocation (3-5%) off the top for the studio entity before the personal splits happen.
 
 **Differentiate contribution over time.** A co-founder who worked full-time for three years and a contractor who did two weeks of music shouldn't split 50/50. Revenue share should reflect total contribution, not just the fact of showing up. Use a time-weighted or role-weighted system that everyone understands going in.
 
@@ -57,4 +57,4 @@ The most common traps in publisher agreements that affect the revenue waterfall:
 - **Marketing fund recoupment**: Be especially careful about publishers recouping marketing spend that you had no say over. You can end up in a situation where a publisher spends $500k on ads for your game, you sell $400k worth of copies, and you owe them money.
 - **IP ownership**: The revenue share structure doesn't matter if you don't own your IP. Make sure the contract specifies that IP stays with the developer, regardless of deal outcome.
 
-For any publishing deal above $50,000 in advances, hiring an entertainment lawyer to review the contract is almost always worth it. The fees are typically $1,500–4,000 for a contract review. That's cheap insurance on a deal that could define your studio's next several years.
+For any publishing deal above $50,000 in advances, hiring an entertainment lawyer to review the contract is almost always worth it. The fees are typically $1,500-4,000 for a contract review. That's cheap insurance on a deal that could define your studio's next several years.

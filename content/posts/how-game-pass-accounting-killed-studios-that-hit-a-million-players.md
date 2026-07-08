@@ -12,7 +12,7 @@ author_title: "Technical Lead"
 author_bio: "Marcus Webb is a game programmer who has shipped titles on four different engines and spent years leading technical teams on projects ranging from small indie releases to mid-budget productions. He approaches technical leadership as a craft, not just a job title. At GameDevProducer, he covers engine decisions, technical architecture, programming pipelines, and leading developers without micromanaging them."
 slug: "how-game-pass-accounting-killed-studios-that-hit-a-million-players"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 One million players should feel like a win. For Compulsion Games, it arrived the same week the layoffs did.
@@ -68,6 +68,6 @@ The studios that survive the next two years will be the ones that treat subscrip
 - [Gaming Industry Layoffs Spread Beyond Xbox: July Purge Threatens Sony and EA Studios](https://www.techtimes.com/articles/318519/20260616/gaming-industry-layoffs-spread-beyond-xbox-july-purge-threatens-sony-ea-studios.htm) (June 16, 2026)
 - [Xbox Game Pass Faces Backlash Over 'Factory-Made' Game Catalog](https://respawn.outlookindia.com/gaming/gaming-news/xbox-game-pass-faces-backlash-over-factory-made-game-catalog) (June 22, 2026)
 - [Inside Xbox's Margin Crush](https://www.windowscentral.com/gaming/xbox/inside-xboxs-margin-crush) (June 2026)
-- [2022–2026 Video Game Industry Layoffs](https://en.wikipedia.org/wiki/2022%E2%80%932026_video_game_industry_layoffs) (Updated June 2026)
+- [2022-2026 Video Game Industry Layoffs](https://en.wikipedia.org/wiki/2022%E2%80%932026_video_game_industry_layoffs) (Updated June 2026)
 
 *Photo: [MESSALA CIULLA](https://www.pexels.com/@messalaciulla) via Pexels*

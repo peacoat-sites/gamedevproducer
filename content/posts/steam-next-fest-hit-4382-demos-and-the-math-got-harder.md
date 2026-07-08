@@ -12,7 +12,7 @@ author_title: "Technical Lead"
 author_bio: "Marcus Webb is a game programmer who has shipped titles on four different engines and spent years leading technical teams on projects ranging from small indie releases to mid-budget productions. He approaches technical leadership as a craft, not just a job title. At GameDevProducer, he covers engine decisions, technical architecture, programming pipelines, and leading developers without micromanaging them."
 slug: "steam-next-fest-hit-4382-demos-and-the-math-got-harder"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 You submitted your demo on June 14th, stayed up until the event went live, and spent the next seven days watching your Steam page like it owed you money. You refreshed the follower count every few hours. You told yourself 4,000 new followers would mean you were on track. By June 22nd, you had 340. And somewhere across town, another solo dev had the exact same experience and is now wondering if they picked the wrong week to quit their job.
@@ -28,7 +28,7 @@ That's not a failure story unique to you. That's June 2026's Steam Next Fest, an
 | Top 1% Follower Gains | 1,759 | 1,330 | -24% |
 | Godot Demo Share | 9.2% | 12.6% | +3.4pp |
 
-This edition was the largest Steam Next Fest since Valve launched the event in 2020. According to [GameDiscoverCo analyst Simon Carless](https://newsletter.gamediscover.co/p/who-won-june-2026s-steam-next-fest), 4,382 playable demos ran across the June 15–22 window, up 66% from 2,645 demos in June 2025. That's not a gradual drift. That's a flood.
+This edition was the largest Steam Next Fest since Valve launched the event in 2020. According to [GameDiscoverCo analyst Simon Carless](https://newsletter.gamediscover.co/p/who-won-june-2026s-steam-next-fest), 4,382 playable demos ran across the June 15-22 window, up 66% from 2,645 demos in June 2025. That's not a gradual drift. That's a flood.
 
 Here's what that flood did to outcomes. A game performing in the top 10% of Next Fest this June earned roughly 121 new Steam followers. One year ago, the same percentile position earned 163. That's a 25% drop in follower gains despite record total participation. Top 1% performers dropped from 1,759 new followers to 1,330 over the same period. The upside compressed even for the breakout titles.
 

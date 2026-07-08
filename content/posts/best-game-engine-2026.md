@@ -1,7 +1,7 @@
 ---
 title: "Best Game Engine: Unity vs Unreal vs Godot (Full Comparison)"
 date: 2026-06-12
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 description: "A data-driven comparison of every major game engine in 2026, Unity, Unreal Engine 5, Godot, GameMaker, and more, covering cost, learning curve, job demand, and Steam market share."
 image: "/img/heroes/32961345.jpg"
 categories: ["Getting Started"]
@@ -38,7 +38,7 @@ The table below covers all six major engines across cost, programming language, 
 
 **You want the most job openings:** Learn **Unity**. It dominates mobile and mid-tier studios. More studios list it in [job postings](/game-dev-salary-guide/) than anything else by a significant margin.
 
-**You want to build AAA-quality 3D:** **Unreal Engine 5** is where the industry does cinematic, large-scale work. Lumen, Nanite, MetaHuman, no other engine touches them. Budget 6–12 months to get genuinely comfortable.
+**You want to build AAA-quality 3D:** **Unreal Engine 5** is where the industry does cinematic, large-scale work. Lumen, Nanite, MetaHuman, no other engine touches them. Budget 6-12 months to get genuinely comfortable.
 
 **You want zero licensing risk:** **Godot** is MIT-licensed. No royalties, ever, no matter how much money you make. Serious studios are increasingly picking it as an alternative to Unity and Unreal.
 
@@ -55,7 +55,7 @@ Knowing which engine to learn is one thing. Here's what people actually earn onc
 - **Producer** salaries swing wildly. Indie producers juggle ten roles for less money. AAA producers at major studios can hit $150k+.
 - **Technical Artists** are underpaid for what they do. They bridge art and code, and most studios have no idea how to price that skill.
 - **QA** gets you in the door but rarely keeps you there long-term. You need to intentionally move into production, design, or programming or you'll plateau.
-- Location matters hard. San Francisco, LA, Seattle roles pay 30–50% above the national median I've listed here.
+- Location matters hard. San Francisco, LA, Seattle roles pay 30-50% above the national median I've listed here.
 
 ## The Bottom Line
 

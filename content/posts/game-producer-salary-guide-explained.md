@@ -23,7 +23,7 @@ faqs:
    a: "Heather Maxwell Chandler's The Game Production Handbook (third edition) is the most comprehensive resource specific to the producer role. For career strategy more broadly, I also recommend Cracking the PM Interview by Gayle McDowell, which is technically for product management but covers negotiation and career leveling in ways that translate directly."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Let me be direct with you: most salary guides for game producers are useless. They pull a number from somewhere, slap a range on it, and call it research. You end up with something like "$60,000 to $150,000 depending on experience" which tells you approximately nothing about whether the offer sitting in your inbox is fair.
 
@@ -37,7 +37,7 @@ You might be wondering whether you're underpaid, or whether you should ask for m
  <div class="vm-head">Producer Salary by Studio Type</div>
  <div class="vm-body">
  <p class="vm-intro">This matrix shows how studio type, location, and game model combine to shape realistic salary ranges-use it to benchmark offers against your specific situation.</p>
- <table><thead><tr><th>Studio Type</th><th>Game Model</th><th>High-CoL Metro (SF, Seattle, LA)</th><th>Mid-CoL Metro (Austin, Portland, Raleigh)</th><th>Remote/Adjusted Rate</th></tr></thead><tbody><tr><td>AAA Publisher (EA, Ubisoft, Sony)</td><td>Premium/Live Service</td><td>$130K–$180K + 15–25% bonus</td><td>$110K–$150K + 10–20% bonus</td><td>$100K–$140K (varies by policy)</td></tr><tr><td>Major Live Service (Riot, Supercell, Epic)</td><td>F2P/GaaS</td><td>$140K–$200K + equity/profit share</td><td>$120K–$170K + equity</td><td>$115K–$155K</td></tr><tr><td>Mid-Size Studio (50–200 employees)</td><td>Premium Title</td><td>$95K–$130K + modest bonus</td><td>$80K–$115K</td><td>$75K–$105K</td></tr><tr><td>Mobile/Casual (Zynga, Scopely tier)</td><td>F2P Mobile</td><td>$110K–$155K + bonus</td><td>$90K–$130K</td><td>$85K–$120K</td></tr><tr><td>Indie (10–40 employees, VC/publisher funded)</td><td>Premium Indie</td><td>$70K–$95K</td><td>$55K–$80K</td><td>$50K–$75K</td></tr><tr><td>Bootstrapped Indie (<15 employees)</td><td>Varies</td><td>$45K–$70K (often equity-heavy)</td><td>$40K–$60K</td><td>$38K–$55K</td></tr></tbody></table>
+ <table><thead><tr><th>Studio Type</th><th>Game Model</th><th>High-CoL Metro (SF, Seattle, LA)</th><th>Mid-CoL Metro (Austin, Portland, Raleigh)</th><th>Remote/Adjusted Rate</th></tr></thead><tbody><tr><td>AAA Publisher (EA, Ubisoft, Sony)</td><td>Premium/Live Service</td><td>$130K-$180K + 15-25% bonus</td><td>$110K-$150K + 10-20% bonus</td><td>$100K-$140K (varies by policy)</td></tr><tr><td>Major Live Service (Riot, Supercell, Epic)</td><td>F2P/GaaS</td><td>$140K-$200K + equity/profit share</td><td>$120K-$170K + equity</td><td>$115K-$155K</td></tr><tr><td>Mid-Size Studio (50-200 employees)</td><td>Premium Title</td><td>$95K-$130K + modest bonus</td><td>$80K-$115K</td><td>$75K-$105K</td></tr><tr><td>Mobile/Casual (Zynga, Scopely tier)</td><td>F2P Mobile</td><td>$110K-$155K + bonus</td><td>$90K-$130K</td><td>$85K-$120K</td></tr><tr><td>Indie (10-40 employees, VC/publisher funded)</td><td>Premium Indie</td><td>$70K-$95K</td><td>$55K-$80K</td><td>$50K-$75K</td></tr><tr><td>Bootstrapped Indie (<15 employees)</td><td>Varies</td><td>$45K-$70K (often equity-heavy)</td><td>$40K-$60K</td><td>$38K-$55K</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>

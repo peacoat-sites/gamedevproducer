@@ -23,6 +23,7 @@ faqs:
    a: "More than most devs expect. If you've shipped a game before, publishers will look at your Steam reviews, your Metacritic score if you have one, and your sales history. A previous game with mixed reviews isn't automatically disqualifying, but you'll need to speak to what you learned and why the next project is different. Pretending a rough launch didn't happen is one of the fastest ways to lose credibility in a pitch meeting."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
+lastmod: 2026-07-08
 ---
 Most indie studios run out of money before they run out of ideas. That's not pessimism, just math. And if you're reading this, you're probably trying to make sure that doesn't happen to you.
 
@@ -35,7 +36,7 @@ So let's go through the real options, not the fantasy versions.
  <div class="vm-head">Funding Options Comparison by Studio Profile</div>
  <div class="vm-body">
  <p class="vm-intro">Each funding source has distinct trade-offs in control, timeline, and realistic capital access-here's how they map to common indie studio situations.</p>
- <table><thead><tr><th>Funding Source</th><th>Realistic Capital Range</th><th>Typical Timeline to Funds</th><th>Equity/Revenue Given Up</th><th>Best Fit Studio Profile</th><th>Key Threshold to Qualify</th></tr></thead><tbody><tr><td>Bootstrapping</td><td>$50K–$150K</td><td>Immediate (existing savings)</td><td>0%</td><td>Solo devs or pairs with day jobs; games scoped for 12–18 months</td><td>6+ months personal runway before starting</td></tr><tr><td>Crowdfunding (Kickstarter/etc.)</td><td>$20K–$300K</td><td>3–6 months (prep + campaign)</td><td>0% equity; platform takes 8–12%</td><td>Teams with existing audience (2K+ wishlists or social following); visually demo-able concepts</td><td>Playable vertical slice or polished trailer</td></tr><tr><td>Publisher Deal</td><td>$100K–$2M+</td><td>3–9 months negotiation</td><td>15–50% revenue share typical; sometimes recoup-first</td><td>Studios with proven prototype; games needing marketing muscle or platform connections</td><td>Working build + clear market comp + 18+ month runway ask</td></tr><tr><td>Government/Arts Grants</td><td>$10K–$500K</td><td>4–12 months (application cycles)</td><td>0%</td><td>Studios in grant-friendly regions (Canada, UK, Nordic, Germany); culturally distinctive projects</td><td>Incorporated entity; often requires matched funding or prior release</td></tr><tr><td>Angel/VC Investment</td><td>$250K–$5M+</td><td>2–6 months due diligence</td><td>10–40% equity typical</td><td>Studios building platform/IP with multi-game ambitions; teams with industry track record</td><td>Prior shipped title or founding team with notable credits</td></tr><tr><td>Revenue-Based Financing</td><td>$50K–$500K</td><td>2–8 weeks</td><td>0% equity; 1.3–2× repayment from revenue</td><td>Studios with existing revenue stream (Early Access sales, prior title royalties)</td><td>Demonstrable $5K+/month recurring revenue</td></tr></tbody></table>
+ <table><thead><tr><th>Funding Source</th><th>Realistic Capital Range</th><th>Typical Timeline to Funds</th><th>Equity/Revenue Given Up</th><th>Best Fit Studio Profile</th><th>Key Threshold to Qualify</th></tr></thead><tbody><tr><td>Bootstrapping</td><td>$50K-$150K</td><td>Immediate (existing savings)</td><td>0%</td><td>Solo devs or pairs with day jobs; games scoped for 12-18 months</td><td>6+ months personal runway before starting</td></tr><tr><td>Crowdfunding (Kickstarter/etc.)</td><td>$20K-$300K</td><td>3-6 months (prep + campaign)</td><td>0% equity; platform takes 8-12%</td><td>Teams with existing audience (2K+ wishlists or social following); visually demo-able concepts</td><td>Playable vertical slice or polished trailer</td></tr><tr><td>Publisher Deal</td><td>$100K-$2M+</td><td>3-9 months negotiation</td><td>15-50% revenue share typical; sometimes recoup-first</td><td>Studios with proven prototype; games needing marketing muscle or platform connections</td><td>Working build + clear market comp + 18+ month runway ask</td></tr><tr><td>Government/Arts Grants</td><td>$10K-$500K</td><td>4-12 months (application cycles)</td><td>0%</td><td>Studios in grant-friendly regions (Canada, UK, Nordic, Germany); culturally distinctive projects</td><td>Incorporated entity; often requires matched funding or prior release</td></tr><tr><td>Angel/VC Investment</td><td>$250K-$5M+</td><td>2-6 months due diligence</td><td>10-40% equity typical</td><td>Studios building platform/IP with multi-game ambitions; teams with industry track record</td><td>Prior shipped title or founding team with notable credits</td></tr><tr><td>Revenue-Based Financing</td><td>$50K-$500K</td><td>2-8 weeks</td><td>0% equity; 1.3-2× repayment from revenue</td><td>Studios with existing revenue stream (Early Access sales, prior title royalties)</td><td>Demonstrable $5K+/month recurring revenue</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -52,7 +53,7 @@ Most devs I've talked to don't actually know these numbers. They know roughly. T
 
 A simple Airtable or Notion tracker works fine. I've seen teams use the free tier of Forecast.app for scenario modeling. Nothing fancy. You just have to actually do it.
 
-The honest ceiling on bootstrapping is usually $50,000–$150,000 before people hit a wall. For smaller games, that's enough. But if your project needs more than 18–24 months of full-time work from two or more people, you'll eventually need outside money. Plan for that before the wall appears, not after.
+The honest ceiling on bootstrapping is usually $50,000-$150,000 before people hit a wall. For smaller games, that's enough. But if your project needs more than 18-24 months of full-time work from two or more people, you'll eventually need outside money. Plan for that before the wall appears, not after.
 
 ## Grants: The Underused Option Most Devs Don't Know About
 
@@ -62,11 +63,11 @@ The Canada Media Fund, the UK Games Fund, and Australia's Screen Australia all r
 
 The Epic MegaGrants program is worth knowing about. As of 2024, they've distributed over $73 million USD total, in amounts ranging from $5,000 to $500,000. You don't have to use Unreal Engine. The application takes real time, but it's equity-free money you should not ignore.
 
-What makes grants difficult is timeline. Most take 3–6 months from application to decision, and some have specific windows. You also need to frame your game in terms of cultural or artistic merit, which feels weird if you've never done it. Read five successful grant applications before you write yours. Some organizations publish them. That alone saves weeks of confusion.
+What makes grants difficult is timeline. Most take 3-6 months from application to decision, and some have specific windows. You also need to frame your game in terms of cultural or artistic merit, which feels weird if you've never done it. Read five successful grant applications before you write yours. Some organizations publish them. That alone saves weeks of confusion.
 
 A few grant programs worth tracking:
 
-- Epic MegaGrants (global, no equity, $5K–$500K)
+- Epic MegaGrants (global, no equity, $5K-$500K)
 - UK Games Fund (UK studios, currently up to £25,000 for early stage)
 - Canada Media Fund Experimental Stream (Canadian companies, can go into six figures)
 - Nordic Game Program (Nordic and Baltic studios)
@@ -80,7 +81,7 @@ The typical structure: the publisher advances you money to finish development (a
 
 Devolver Digital, Raw Fury, Humble Games, Fellow Traveller, Annapurna Interactive, these names come up most in indie circles. Annapurna's had very public contract disputes. Raw Fury has a decent reputation for founder-friendly terms. Devolver is selective to the point where getting their attention is itself a project. None are definitively "good" or "bad", it depends on your specific deal.
 
-Here's what most people don't ask: what happens if the game underperforms? Who absorbs the loss? What's the reversion clause if they go bankrupt or drop your game mid-marketing? These aren't paranoid questions. They're standard contract questions, and you need a games-industry entertainment lawyer reviewing any deal before you sign. Spending $1,500–$3,000 on legal review isn't optional if you're signing a publishing agreement. It's insurance on your company.
+Here's what most people don't ask: what happens if the game underperforms? Who absorbs the loss? What's the reversion clause if they go bankrupt or drop your game mid-marketing? These aren't paranoid questions. They're standard contract questions, and you need a games-industry entertainment lawyer reviewing any deal before you sign. Spending $1,500-$3,000 on legal review isn't optional if you're signing a publishing agreement. It's insurance on your company.
 
 Thomas Bidaux does excellent public data analysis on the industry. The GDC Vault (which has substantial free content) has sessions from developers discussing their specific publisher experiences.
 
@@ -88,9 +89,9 @@ Thomas Bidaux does excellent public data analysis on the industry. The GDC Vault
 
 Kickstarter is not a lottery. Successful campaigns aren't lucky. They typically have an existing audience, a page that communicates the game clearly in under 60 seconds of video, and a funding goal based on actual need, not ego.
 
-The average successful game Kickstarter in 2023 raised around $40,000–$60,000. Most people imagine a $2 million windfall. Those exist (Bloodstained, Shovel Knight, Divinity: Original Sin), but they're outliers built by teams with existing fanbases or industry credibility. If you have neither yet, adjust your expectations.
+The average successful game Kickstarter in 2023 raised around $40,000-$60,000. Most people imagine a $2 million windfall. Those exist (Bloodstained, Shovel Knight, Divinity: Original Sin), but they're outliers built by teams with existing fanbases or industry credibility. If you have neither yet, adjust your expectations.
 
-Kickstarter takes 5%, payment processors take another 3–5%, and you'll spend 20–30% of your time for 30–45 days running the campaign. That's a real job.
+Kickstarter takes 5%, payment processors take another 3-5%, and you'll spend 20-30% of your time for 30-45 days running the campaign. That's a real job.
 
 Fig and BackerKit Crowdfunding are alternatives, especially for tabletop or collector's market crossover. Indiegogo has fallen off significantly for games.
 

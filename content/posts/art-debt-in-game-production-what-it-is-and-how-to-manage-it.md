@@ -23,6 +23,7 @@ faqs:
    a: "Jira and Shotgrid (formerly Shotgun) are the most common in mid-to-large studios. Jira is more flexible for custom workflows; Shotgrid was built specifically for media asset pipelines. For smaller teams, Notion databases or even a well-structured Google Sheet will serve you fine. The tool matters less than the discipline of keeping it current."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-08
 ---
 You ship Alpha, the milestone review goes well, and leadership is happy. Then someone on your art team quietly mentions that half the environment assets are placeholder geometry with temporary textures slapped on top. The character rigs are messy because they were built fast during pre-production. The UI icons are inconsistent because three different artists made them during a crunch sprint six months ago. Nobody wrote it down. Nobody triaged it. It just accumulated. That's art debt, and if you've never dealt with it deliberately, you've probably already lost weeks to it without knowing.
 
@@ -54,7 +55,7 @@ Knowing why it happens matters more than the definition. Causes tell you where t
 
 **Scope changes after assets are built.** A character was modeled for outdoors, then your narrative team moves them indoors. The shader's now wrong. The textures are too contrasty. The silhouette doesn't read anymore. That asset technically exists but needs a rework. When scope shifts hit 40 characters, you're looking at months of invisible work.
 
-**No art bible early enough.** If art direction isn't locked before asset production ramps up, different artists interpret the brief differently. One builds rocks at 1–2K textures, another at 4K. One follows naming conventions, another invents their own. Fixing that retroactively is a nightmare.
+**No art bible early enough.** If art direction isn't locked before asset production ramps up, different artists interpret the brief differently. One builds rocks at 1-2K textures, another at 4K. One follows naming conventions, another invents their own. Fixing that retroactively is a nightmare.
 
 **Reviews get skipped.** When lead artists get pulled into production instead of staying in critique, placeholder assets slip through and calcify. Also worth noting: [managing engineers and artists on the same team](/managing-engineers-and-artists-on-the-same-team/) creates friction here because art departments and engineering teams have different review cultures, and you have to actively bridge that gap.
 

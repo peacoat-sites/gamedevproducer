@@ -6,7 +6,7 @@ date: 2026-06-10
 categories: ["Game Industry"]
 description: "Explore real game developer salary ranges by role, experience level, studio size, and region with an interactive salary calculator."
 author: "Ryan Cole"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Game developer salaries range wildly. A junior QA tester at an indie studio in Poland might pull in $22,000 a year. A senior engine programmer at a Seattle AAA studio? $250,000 in total compensation. That gap exists because of four things: what you do, how experienced you are, who you work for, and where you live.
 
@@ -34,7 +34,7 @@ This guide pulls from 2024 data across the GDC State of the Industry Survey, Lev
 
 **Game Designers** and **Narrative Designers** earn less than programmers with the same experience. There are simply more people who want those jobs relative to the openings. Design directors at places like Naughty Dog or Bethesda break this pattern, though, earning well over $200k.
 
-**QA Engineers** have the messiest range. Entry-level QA is often minimum wage contract work. Senior QA leads and automation engineers at major studios now pull $80k–$120k. Automation testing raised the floor for experienced people dramatically.
+**QA Engineers** have the messiest range. Entry-level QA is often minimum wage contract work. Senior QA leads and automation engineers at major studios now pull $80k-$120k. Automation testing raised the floor for experienced people dramatically.
 
 **Producers** scatter all over the map depending on seniority and studio. Senior producers own multi-million-dollar budgets and manage shipping risk across teams, so their pay reflects that responsibility.
 
@@ -42,7 +42,7 @@ This guide pulls from 2024 data across the GDC State of the Industry Survey, Lev
 
 The studio multiplier here (0.75× for indie, 1.25× for AAA) isn't arbitrary. Large publishers pay more because a $300M game generates enough margin to pay competitively. They also poach talent constantly. Indie studios offer different currency: real creative control, smaller teams, sometimes equity in an IP that could explode.
 
-Mid-size studios (50–200 people) are where things get weird. They have enough revenue to pay decently but also heavy overhead. Salaries depend on whether they're self-funded, VC-backed, or publisher-backed.
+Mid-size studios (50-200 people) are where things get weird. They have enough revenue to pay decently but also heavy overhead. Salaries depend on whether they're self-funded, VC-backed, or publisher-backed.
 
 ## Regional Variation
 
@@ -54,7 +54,7 @@ Remote roles at US companies have mostly settled on one national rate instead of
 
 The numbers above are base salary. For junior roles, that's nearly everything, bonuses are tiny, equity nonexistent. For senior roles, the gap between base and total comp gets serious.
 
-- **Bonuses**: When a studio ships something, bonuses hit. A senior dev on a major release might see $20–50k.
+- **Bonuses**: When a studio ships something, bonuses hit. A senior dev on a major release might see $20-50k.
 - **Profit sharing**: Studios without publishers sometimes cut developers in on the back end. Worth nothing or worth more than years of salary, depending on whether the game hits.
 - **Equity**: Rare at private studios without funding. More common at well-funded startups. Plan on it being zero unless you truly believe the company will make it.
 
@@ -66,7 +66,7 @@ Negotiate before you accept. Studios that lowball expect you to accept as-is. Mo
 
 ### Question: What's a realistic salary range for a mid-level gameplay programmer in Austin?
 
-Austin's a tech hub with lower cost-of-living than the coasts, so you'd typically see $110k–$150k base for 5–7 years of experience at a mid-to-large studio. If it's an indie or a small studio, drop that to $80k–$120k. Remote roles at US companies tend toward the higher end of that range regardless of studio size.
+Austin's a tech hub with lower cost-of-living than the coasts, so you'd typically see $110k-$150k base for 5-7 years of experience at a mid-to-large studio. If it's an indie or a small studio, drop that to $80k-$120k. Remote roles at US companies tend toward the higher end of that range regardless of studio size.
 
 ### Question: Does equity actually mean anything at an indie studio?
 
@@ -74,7 +74,7 @@ Sometimes. If the studio is bootstrapped and founders-only, equity's a long-term
 
 ### Question: How much do bonuses typically add to a senior programmer's total comp?
 
-At studios with shipped titles, add 10–20% on top of base as a reasonable expectation for an annual bonus. Ship bonuses are separate and vary wildly: $20k–$50k depending on the game's success and the studio's financial performance. Some studios have neither, so ask directly.
+At studios with shipped titles, add 10-20% on top of base as a reasonable expectation for an annual bonus. Ship bonuses are separate and vary wildly: $20k-$50k depending on the game's success and the studio's financial performance. Some studios have neither, so ask directly.
 
 ### Question: Should I ask for more remote work in lieu of higher base salary?
 
@@ -87,6 +87,6 @@ If you're in a high cost-of-living area and the job is fully remote, that's alre
 - across the GDC State of the Industry Survey
 
 
-Lead titles vary widely, but assume 15–25% more than a senior IC at the same studio and location. Lead roles carry overhead (mentorship, planning, hiring) that justifies the bump. The jump's steeper at larger studios, where leadership tier is more formalized.
+Lead titles vary widely, but assume 15-25% more than a senior IC at the same studio and location. Lead roles carry overhead (mentorship, planning, hiring) that justifies the bump. The jump's steeper at larger studios, where leadership tier is more formalized.
 
 *Photo: GDC State of the Industry Survey, 2024*

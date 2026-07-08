@@ -12,6 +12,7 @@ author_title: "Technical Lead"
 author_bio: "Marcus Webb is a game programmer who has shipped titles on four different engines and spent years leading technical teams on projects ranging from small indie releases to mid-budget productions. He approaches technical leadership as a craft, not just a job title. At GameDevProducer, he covers engine decisions, technical architecture, programming pipelines, and leading developers without micromanaging them."
 slug: "when-xbox-cuts-studios-founders-buy-them-back"
 affiliate_disclosure: true
+lastmod: 2026-07-08
 ---
 
 On July 6, 2026, Microsoft announced 4,800 job cuts and divested four Xbox first-party studios in a single afternoon. Double Fine went back to Tim Schafer. Compulsion Games went back to Guillaume Provost. Ninja Theory and Undead Labs got sold to new owners. One day. Four studios. The largest single contraction in Xbox's first-party history. Most coverage framed this as a corporate restructuring story. It's not. It's a stress test that just failed in public, and the results tell you something specific about what Game Pass economics actually do to mid-tier studios over time.
@@ -69,7 +70,7 @@ The mid-tier didn't collapse because the games were bad. It collapsed because th
 - [Double Fine, Compulsion Games Go Indie, Ninja Theory And Undead Labs To Be Sold](https://gamermatters.com/double-fine-compulsion-games-go-indie-ninja-theory-and-undead-labs-to-be-sold/) (July 6, 2026)
 - [Eight Years After Acquiring Studios, Xbox Divests Double Fine, Ninja Theory, Undead Labs and More](https://pixelkin.org/2026/07/07/eight-years-after-acquiring-multiple-major-studios-xbox-divests-double-fine-ninja-theory-undead-labs-and-more-in-massive-layoffs/) (July 7, 2026)
 - [Xbox Studio Closures Confirmed: Ninja Theory Shut Down Nine Days After Showcase](https://www.techtimes.com/articles/318465/20260616/xbox-studio-closures-confirmed-ninja-theory-shut-down-nine-days-after-showcase.htm) (June 16, 2026)
-- [2022–2026 Video Game Industry Layoffs](https://en.wikipedia.org/wiki/2022%E2%80%932026_video_game_industry_layoffs) (Updated July 2026)
+- [2022-2026 Video Game Industry Layoffs](https://en.wikipedia.org/wiki/2022%E2%80%932026_video_game_industry_layoffs) (Updated July 2026)
 - [How Two Indie Darlings Are Challenging a Collapsing Industry](https://gizmodo.com/how-two-indie-darlings-are-challenging-a-collapsing-industry-with-their-next-game-2000744465) (April 9, 2026)
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*
