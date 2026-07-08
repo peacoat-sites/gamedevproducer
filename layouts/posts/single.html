@@ -84,6 +84,8 @@
     {{- end -}}
     </div>
 
+    {{ partial "next-read.html" . }}
+
     {{ with .Site.Params.disclaimer }}
     <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
     {{ end }}
@@ -120,6 +122,8 @@
     {{ partial "audible-cta.html" . }}
   {{ partial "prime-cta.html" . }}
   {{ partial "authority-sources.html" . }}
+
+    {{ partial "quiz-cta.html" . }}
 
     {{ partial "related-articles.html" . }}
 

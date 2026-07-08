@@ -1,7 +1,7 @@
 {
   "title": "Do You Have What It Takes to Be a Game Producer?",
   "intro": "Answer 7 quick questions to see how naturally the game producer role fits your habits, strengths, and what gets you out of bed. This is for fun and self-reflection, not a hiring test.",
-  "disclaimer": "This quiz is just for fun and self-reflection. There's no single 'right' personality for a game producer \u00e2\u20ac\u201d plenty of great ones started out scoring low. Treat it as a conversation starter, not a verdict.",
+  "disclaimer": "This quiz is just for fun and self-reflection. There's no single 'right' personality for a game producer â€” plenty of great ones started out scoring low. Treat it as a conversation starter, not a verdict.",
   "questions": [
     {
       "q": "A project you're on is quietly falling behind. What's your gut reaction?",
@@ -24,7 +24,7 @@
       "q": "How do you feel about meetings, check-ins, and keeping people in the loop?",
       "options": [
         {
-          "t": "Honestly, I kind of enjoy them \u00e2\u20ac\u201d that's where things get unblocked",
+          "t": "Honestly, I kind of enjoy them â€” that's where things get unblocked",
           "s": 3
         },
         {
@@ -49,7 +49,7 @@
           "s": 1
         },
         {
-          "t": "Stays out of it \u00e2\u20ac\u201d I'd rather not referee other people's debates",
+          "t": "Stays out of it â€” I'd rather not referee other people's debates",
           "s": 0
         }
       ]
@@ -75,7 +75,7 @@
       "q": "How comfortable are you holding lots of half-finished threads in your head at once?",
       "options": [
         {
-          "t": "Very \u00e2\u20ac\u201d I like tracking many things and nudging each one forward",
+          "t": "Very â€” I like tracking many things and nudging each one forward",
           "s": 3
         },
         {
@@ -100,7 +100,7 @@
           "s": 1
         },
         {
-          "t": "Assume they'll sort it out \u00e2\u20ac\u201d people don't love being chased",
+          "t": "Assume they'll sort it out â€” people don't love being chased",
           "s": 0
         }
       ]
@@ -128,22 +128,23 @@
       "min": 0,
       "max": 7,
       "title": "Producing might not be your easiest path right now",
-      "body": "Your answers lean toward focused, hands-on craft work \u00e2\u20ac\u201d and that's a real strength, not a weakness. Many of the best people in games are happiest deep in their discipline rather than coordinating others. If producing still calls to you, that's totally workable: it's a learnable skill. Start by owning the schedule for one small side project and see how it feels before committing to the full role.",
+      "body": "Your answers lean toward focused, hands-on craft work â€” and that's a real strength, not a weakness. Many of the best people in games are happiest deep in their discipline rather than coordinating others. If producing still calls to you, that's totally workable: it's a learnable skill. Start by owning the schedule for one small side project and see how it feels before committing to the full role.",
       "cta": "Read what a game producer actually does"
     },
     {
       "min": 8,
       "max": 14,
       "title": "You could grow into a great producer with a plan",
-      "body": "You've got several producer instincts already \u00e2\u20ac\u201d you'll step up when things drift, you care about the team, and you like seeing projects land. The gap is mostly reps. Get deliberate practice coordinating people: run a game jam team, volunteer to keep a project's tasks organized, or shadow a producer's standup. The role will start feeling natural surprisingly fast.",
+      "body": "You've got several producer instincts already â€” you'll step up when things drift, you care about the team, and you like seeing projects land. The gap is mostly reps. Get deliberate practice coordinating people: run a game jam team, volunteer to keep a project's tasks organized, or shadow a producer's standup. The role will start feeling natural surprisingly fast.",
       "cta": "See our roadmap for breaking into production"
     },
     {
       "min": 15,
       "max": 21,
       "title": "You're a natural fit for game production",
-      "body": "You think like a producer already \u00e2\u20ac\u201d you align teams, unblock people, thrive on juggling many threads, and you're driven by the whole game shipping, not just your slice of it. That's the core of the job. Now it's about sharpening the craft: scheduling, risk-tracking, communication, and stakeholder management. Dig into the deeper guides and start putting these instincts to work on a real project.",
+      "body": "You think like a producer already â€” you align teams, unblock people, thrive on juggling many threads, and you're driven by the whole game shipping, not just your slice of it. That's the core of the job. Now it's about sharpening the craft: scheduling, risk-tracking, communication, and stakeholder management. Dig into the deeper guides and start putting these instincts to work on a real project.",
       "cta": "Explore our advanced producer guides"
     }
-  ]
+  ],
+  "url": "/do-you-have-what-it-takes-to-be-a-game-producer/"
 }
