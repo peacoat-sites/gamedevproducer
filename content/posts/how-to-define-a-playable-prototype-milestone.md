@@ -1,5 +1,5 @@
 ---
-title: "How To Define A Playable Prototype Milestone"
+title: "When Your Prototype Is Actually Ready to Play"
 date: 2026-06-18T12:02:17.687140+00:00
 draft: false
 description: "Learn how to define a clear playable prototype milestone for your game with key criteria, scope tips, and team alignment strategies."
@@ -23,7 +23,7 @@ faqs:
     a: "External testers, ideally people who match your target player profile and have no context on the project. Internal team members are too close to the build to give you accurate feedback on whether the mechanic is self-evident. Five external sessions will tell you more than fifty internal ones."
   - q: "What happens if the prototype milestone fails?"
     a: "Define failure as information, not a setback. Write a one-page post-mortem on what the prototype revealed, make an explicit decision (pivot the mechanic, reduce scope, reframe the question), and set a new milestone with a revised question. The worst outcome isn't failing the milestone. It's failing it without a clear next step."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most articles about prototype milestones give you a checklist. Box A through Box F, all neatly labeled, zero guidance on what the boxes actually mean. That's not useful. What's useful is understanding the one thing those articles skip: a [playable prototype milestone](/game-development-milestones-explained/) isn't a feature list, it's a question. And your job is to define that question precisely enough that your team knows, without ambiguity, when they've answered it.
 

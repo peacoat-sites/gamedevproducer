@@ -1,5 +1,5 @@
 ---
-title: "Self Publishing Vs Game Publisher Pros And Cons"
+title: "Self-Publishing vs. Publishers: Which Path Wins"
 date: 2026-06-13T10:42:26.687492+00:00
 draft: false
 description: "Discover the key pros and cons of self publishing vs game publishers to help you choose the best path for launching your board game or video game successfully."
@@ -23,7 +23,7 @@ faqs:
    a: "This is more common than people expect. Your contract should specify what happens to your IP in these scenarios. In acquisition cases, your contract typically transfers to the acquiring company. In bankruptcy, it gets complicated fast and may end up in IP limbo. Rights reversion clauses triggered by breach of contract or insolvency are something to negotiate for, even if you don't expect to use them."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most coverage of this topic frames the choice as "creative control vs. money." That framing is almost useless in practice, because it flattens about fifteen genuinely different tradeoffs into one fake binary. Let me give you the actual picture.
 

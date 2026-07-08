@@ -1,5 +1,5 @@
 ---
-title: "Burnout In Game Development The Year 5 Cliff"
+title: "Why Game Developers Burn Out After Year Five"
 date: 2026-05-29T15:41:29.986520+00:00
 draft: false
 description: "Burnout in Game Development: The Year 5 Cliff explores the mental health crisis facing developers, examining why experienced developers hit a breaking point and"

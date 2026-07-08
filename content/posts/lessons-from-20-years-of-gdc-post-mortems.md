@@ -1,5 +1,5 @@
 ---
-title: "Lessons From 20 Years Of GDC Post-Mortems"
+title: "What Two Decades of Game Dev Postmortems Reveal"
 date: 2026-05-21T22:45:08.395370+00:00
 draft: false
 description: "Lessons from 20 years of GDC post-mortems: insights on game development failures, successes, and industry trends shared by veteran developers."
@@ -23,7 +23,7 @@ faqs:
    a: "Transparency helps more than you'd think. Teams get demoralized by surprises, not by clear expectations. When you tell people upfront 'we're shipping these features by month 12, here's what's deferred,' they adjust. When you tell them everything's launching on schedule and then cut features in month 11, morale collapses. The 2016 postmortem from a team that handled this well specifically noted that being clear about deferral from month two made their team more engaged, not less."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Every Game Developers Conference since 2004, studios have lined up on the main stage to explain how their project fell apart. The pattern is eerie. A 2008 postmortem describes scope creep, communication breakdowns, and a last-minute [engine swap](/how-game-engine-choice-affects-your-production-plan/). Jump to 2023, and an indie team describes nearly the same disasters. Two decades of public failure analysis, and we're still making identical mistakes. The problems haven't changed. Most producers just aren't reading these postmortems, and the ones who do aren't pulling out the repeating patterns that actually matter.
 

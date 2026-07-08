@@ -1,5 +1,5 @@
 ---
-title: "Key Metrics Every Game Producer Should Track"
+title: "The Metrics That Define Successful Game Production"
 date: 2026-07-06T12:16:25.670097+00:00
 draft: false
 description: "Discover the essential KPIs every game producer must monitor to keep projects on track, on budget, and delivering quality players love."
@@ -23,7 +23,7 @@ faqs:
     a: "Radical transparency helps more than most producers expect. Share the metrics openly with the whole team, explain what you're watching for and why, and invite people to flag when a number seems off to them. When teams understand the metrics are early-warning systems for protecting their workload, not performance reviews, the dynamic shifts considerably."
   - q: "When should I change which metrics I'm tracking?"
     a: "At every major milestone transition, reassess. The metrics that matter in pre-production (schedule confidence, capacity, discovery rate) are not the same ones that matter in beta (bug escape rate, P1 age, burn rate to ship). Carrying the same dashboard from concept to launch is a common mistake and means you're often watching the wrong gauges at the wrong time."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most producers track the wrong things. They spend Monday morning staring at a burndown chart that tells them work got done, but nothing about whether it was the *right* work or whether the team is quietly burning out in the process. I did this for years at a mid-size studio before someone with more experience than me sat down and asked, "okay, but what does that number actually tell you?" I didn't have a good answer.

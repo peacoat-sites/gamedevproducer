@@ -1,5 +1,5 @@
 ---
-title: "Psychological Safety In Game Development Playtests"
+title: "Why Your Playtesters Won't Give Honest Feedback"
 date: 2026-05-28T17:30:21.603085+00:00
 draft: false
 description: "Explore how psychological safety transforms game development playtests, enabling honest feedback, reducing player anxiety, and improving game quality through tr"
@@ -23,6 +23,7 @@ faqs:
    a: "Present the data clearly and let it speak without editorializing. Don't frame it as 'players hate the vision.' Frame it as 'here's the specific behavior we observed, and here are three possible explanations for why it's happening.' Give the creative director ownership of the interpretation. Your job as a producer or researcher is to make sure the data gets seen accurately, not to win an argument. If the creative director consistently overrides clear player feedback and it's creating production risk, that's a leadership conversation, not a playtest facilitation problem."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-08
 ---
 Picture this: your lead designer has spent six weeks building a core combat loop. It's their baby. The first playtest session arrives, and a tester sits down, fumbles through the tutorial, puts the controller down after twelve minutes, and says "I don't really get what I'm supposed to be doing." The room goes quiet. The designer's jaw tightens. Two testers notice the tension and spend the next forty minutes saying things like "it's pretty fun" and "I just need to learn the controls better." You walk away with almost no usable data, and nobody talks about what actually happened.
 

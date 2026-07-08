@@ -1,5 +1,5 @@
 ---
-title: "How To Write A Game Production Milestone Document"
+title: "Create Game Milestones Your Team Will Actually Track"
 date: 2026-05-22T02:14:04.189083+00:00
 draft: false
 description: "Learn how to write a game production milestone document with clear goals, deliverables, and timelines to keep your development team on track and on budget."
@@ -23,7 +23,7 @@ faqs:
    a: "You communicate early, document the gap formally, and revise with a recovery plan attached. Never let a milestone slip quietly. The moment you know a milestone is at risk, that information goes to every stakeholder immediately, along with a revised date and a clear account of what changed and why. Publishers and investors can usually absorb a delay. What they can't absorb is finding out about it on the day the milestone was due. In contractual milestone situations, check your agreement: many have provisions for milestone renegotiation that are far less painful than breach-of-contract territory"
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most milestone documents I've seen are basically vibes dressed up in a table. A date. A vague deliverable name like "Alpha Build Ready." Maybe a sign-off field that nobody fills in. Then everyone proceeds to have completely different ideas about what "Alpha" actually means. Three months later, the publisher's furious, the team's demoralized, and the [post-mortem](/how-to-run-a-game-development-retrospective/) will diplomatically describe it as "misaligned expectations." I've been in that room. It's avoidable, and a well-written milestone document is one of the cheapest insurance policies in game development. Almost nobody writes one well.
 

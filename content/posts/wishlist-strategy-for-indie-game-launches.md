@@ -1,5 +1,5 @@
 ---
-title: "Wishlist Strategy For Indie Game Launches"
+title: "Build Hype Before Launch: The Indie Game Wishlist Strategy"
 date: 2026-06-18T12:00:37.315448+00:00
 draft: false
 description: "Boost your indie game launch with a proven wishlist strategy. Learn how to drive Steam wishlists, build hype, and convert fans into buyers."
@@ -12,7 +12,7 @@ author_title: "Game Developer"
 author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "wishlist-strategy-for-indie-game-launches"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most indie developers treat wishlists like a vanity metric. They hit 1,000, post about it on Twitter, then forget the whole thing exists. I've watched this sink otherwise solid launches.
 

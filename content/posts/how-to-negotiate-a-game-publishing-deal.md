@@ -1,5 +1,5 @@
 ---
-title: "How To Negotiate A Game Publishing Deal"
+title: "Secure Better Terms: The Game Publisher Negotiation Guide"
 date: 2026-06-29T12:44:30.005409+00:00
 draft: false
 description: "Learn how to negotiate a game publishing deal with expert tips on contracts, royalties, rights, and key terms every indie developer should know."
@@ -12,7 +12,7 @@ author_title: "Publishing Strategist"
 author_bio: "Samantha Roberts has spent her career navigating the publisher side of the games industry: first pitching indie studios to publishers, then working inside a publishing label evaluating hundreds of projects. She knows what publishers look for and what indie developers consistently get wrong in their pitch decks. At GameDevProducer, she covers publishing strategy, funding, and the business of bringing a game to market."
 slug: "how-to-negotiate-a-game-publishing-deal"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most developers walk into publisher conversations thinking the hard part is getting a meeting. It's not. The hard part is knowing what you're signing.
 

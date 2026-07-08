@@ -1,5 +1,5 @@
 ---
-title: "Kanban Boards For Indie Game Teams Explained"
+title: "Kanban Boards: The Project System Indie Studios Actually Need"
 date: 2026-06-30T11:24:23.049744+00:00
 draft: false
 description: "Learn how kanban boards help indie game teams stay organized, track tasks, and ship games faster with simple visual workflow management."
@@ -23,7 +23,7 @@ faqs:
    a: "Don't put recurring operational tasks on your kanban board at all. They're not flow work; they're scheduled events. Put them in your calendar or a separate recurring checklist. Mixing them into your task flow pollutes the board and makes cycle time metrics meaningless."
  - q: "When should we actually update the board, and how do we stop it going stale?"
    a: "Daily self-updates (each person moves their own cards) combined with a 30-minute weekly team review is the pattern that sticks. If you can't get daily updates, do them at the start and end of each work session. What doesn't work: assigning one person to maintain the board for everyone else. It always drifts, and then nobody trusts it."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most kanban advice online was written for software developers shipping features to paying enterprise customers. That's a problem, because indie game dev doesn't look anything like that.

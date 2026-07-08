@@ -1,5 +1,5 @@
 ---
-title: "Managing Technical Debt In Game Development"
+title: "Why Your Game Codebase Gets Slower Over Time"
 date: 2026-06-27T10:30:50.086331+00:00
 draft: false
 description: "Learn how to identify, prioritize, and reduce technical debt in game development to ship faster, improve code quality, and keep your team productive."
@@ -23,7 +23,7 @@ faqs:
    a: "Document what you know and assign a new owner immediately. Don't let orphaned systems float without an accountable engineer. Even if the new owner's only job is to understand it well enough to triage tickets, that's better than nobody. The worst debt is the debt nobody will touch because nobody understands it and there's no one to ask."
  - q: "Is it ever okay to ship knowing there's significant technical debt in a system?"
    a: "Honestly, yes. Shipping with known rot is sometimes the right call, especially on features that won't be touched post-launch. The mistake isn't carrying debt over launch, it's not documenting it clearly, not making a plan to address it, and pretending it doesn't exist. Ship the game. Know what you owe. Pay it back deliberately."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Every team I've ever worked with has said some version of the same thing: "We'll clean it up after launch." I've said it myself. And I've watched it age into the most expensive lie in game development.

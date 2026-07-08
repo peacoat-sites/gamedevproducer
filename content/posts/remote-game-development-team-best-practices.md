@@ -1,5 +1,5 @@
 ---
-title: "Remote Game Development Team Best Practices"
+title: "How Remote Game Teams Stay Coordinated and Productive"
 date: 2026-06-03T14:07:39.349173+00:00
 draft: false
 description: "Learn how to build and manage a remote game development team with proven best practices covering communication, tools, workflows, and collaboration strategies."
@@ -23,7 +23,7 @@ faqs:
    a: "Discord if your team is primarily under 35 and you value low-friction voice channels and don't need sophisticated integrations. Slack if you need Jira, Notion, or GitHub integrations and want more structured information architecture. The wrong answer is using both."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Forty percent of my last studio's dev team was remote before COVID made it fashionable. We figured it out the hard way, which means I have very specific opinions about what the internet gets wrong when it covers this topic.
 

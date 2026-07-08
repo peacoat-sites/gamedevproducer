@@ -1,5 +1,5 @@
 ---
-title: "How To Build A Steam Page That Converts"
+title: "Convert More Players: The Steam Page Blueprint for Indie Devs"
 date: 2026-06-02T12:54:05.390929+00:00
 draft: false
 description: "Learn how to build a Steam page that converts browsers into buyers with tips on capsule art, descriptions, trailers, and screenshots that boost wishlists and sa"
@@ -23,7 +23,7 @@ faqs:
    a: "For project management around Steam launches, Notion works well for building content calendars and asset checklists. Trello is simpler if you want Kanban-style task tracking for milestone deadlines like 'capsule final' or 'trailer submitted.' For understanding your page performance, SteamDB is indispensable. For learning how to think about this more strategically, Chris Zukowski's blog (How To Market A Game) is the single most useful resource I've seen for indie developers on Steam marketing, and he posts detailed breakdowns of what's working right now. Udemy also has credible game marketing c"
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You spent eight months building a demo. Finally got it live on Steam, shared the link everywhere, and... 127 wishlists in three weeks. Your friend's game, which honestly looks rougher than yours, already has 4,000. You refresh the page. What are you missing?
 

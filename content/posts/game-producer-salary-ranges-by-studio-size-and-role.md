@@ -1,5 +1,5 @@
 ---
-title: "Game Producer Salary Ranges By Studio Size And Role"
+title: "What Game Producers Actually Earn Across Studios"
 date: 2026-05-23T03:51:22.773903+00:00
 draft: false
 description: "Discover how game producer salaries vary by studio size and role. Compare pay ranges from indie to AAA studios and find out what impacts your earning potential."
@@ -23,7 +23,7 @@ faqs:
    a: "At AAA publishers with structured bonus programs, they're real and can add $10K to $30K annually. At indie and mid-size studios, discretionary bonuses are less predictable and sometimes disappear when a title underperforms. Ask specifically whether the bonus is tied to company performance, personal performance, or both, and ask what bonuses looked like in the last two or three years. How a company answers that question tells you a lot."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You just got an offer for an Associate Producer role at a mid-size studio and the number feels low. Or maybe you're a Senior Producer wondering if you're being underpaid while your LinkedIn feed fills up with job posts that don't show salaries. Either way, you're trying to figure out what this job actually pays, and you're finding that almost nobody in this industry likes to say the number out loud. I've been in those conversations on both sides of the table. Let me give you the real picture.
 

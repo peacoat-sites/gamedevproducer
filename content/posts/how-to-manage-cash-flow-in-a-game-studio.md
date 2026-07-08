@@ -1,5 +1,5 @@
 ---
-title: "How To Manage Cash Flow In A Game Studio"
+title: "Keep Your Game Studio Solvent: Cash Flow Essentials"
 date: 2026-07-01T11:38:16.368899+00:00
 draft: false
 description: "Learn practical strategies to manage cash flow in your game studio, from budgeting milestones to securing funding and avoiding common financial pitfalls."
@@ -23,7 +23,7 @@ faqs:
    a: "Treating their annual budget as a cash flow plan. A budget tells you what you plan to spend over a year. It says nothing about whether you'll have the cash in hand when specific bills arrive. Build the weekly forecast. Seriously. The number of studios that have gone into distress despite having technically adequate budgets is sobering."
  - q: "How do grants affect cash flow planning?"
    a: "Grant money is real revenue but it's slow and uncertain until it's in your account. Never build a cash flow forecast that depends on a grant you haven't been awarded yet. Plan for the grant as upside; build your minimum viable plan around money you can predict. When the grant arrives, it extends runway rather than being the thing that creates it."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Thirty percent of indie studios that fail cite cash flow problems as the primary cause. Not bad games. Not marketing failures. Cash flow. The money was there on paper, and then it wasn't, and nobody saw it coming until it was too late.

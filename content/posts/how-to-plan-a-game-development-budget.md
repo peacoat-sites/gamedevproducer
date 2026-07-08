@@ -1,5 +1,5 @@
 ---
-title: "How To Plan A Game Development Budget"
+title: "Stop Guessing Your Game Dev Budget: A Real Plan"
 date: 2026-06-14T11:11:29.586527+00:00
 draft: false
 description: "Learn how to plan a game development budget with expert tips on estimating costs, managing resources, avoiding overruns, and keeping your project on track and p"
@@ -23,7 +23,7 @@ faqs:
     a: "For small teams, a well-structured spreadsheet or Airtable base honestly covers most of what you need. For mid-size projects tracking multiple roles and contract work, Runn ($8/person/month) is worth a look. For overall project tracking alongside budget, Notion's project templates can work well once you've built out the structure. The book The Game Producer's Handbook by Dan Irish is dated in some places but still has the most practical chapter on game budgeting I've found in print."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most first-time game budgets are wrong by a factor of two. Not 10-20% off. Double. I stopped being surprised by it a while ago, but I still think it's worth understanding why, because it's rarely what people assume.
 

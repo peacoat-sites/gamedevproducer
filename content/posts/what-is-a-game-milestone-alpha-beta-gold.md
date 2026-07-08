@@ -1,5 +1,5 @@
 ---
-title: "What Is A Game Milestone Alpha Beta Gold"
+title: "Alpha, Beta, Gold: The Stages Every Game Needs"
 date: 2026-05-22T10:02:50.859818+00:00
 draft: false
 description: "A game milestone explained: discover what alpha, beta, and gold mean in game development, how each stage differs, and why they matter before a game launches."
@@ -23,7 +23,7 @@ faqs:
    a: "Jira is industry-standard for bug tracking and sprint management in studios with 10 or more people. Hack n Plan is a strong choice for smaller indie teams and has milestone tracking built specifically for game production workflows. For documentation and production bibles, Notion and Confluence are both commonly used. Some studios use Shotgun (now ShotGrid) for asset tracking alongside a separate task manager. The specific tool matters less than having a consistent, team-wide practice of updating it."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three months into production on a mid-sized mobile RPG when the publisher emails asking for your Alpha build delivery date. Your lead programmer looks at you. Your art director looks at you. You look at the calendar. Nobody in the room agrees on what "Alpha" actually means, and now you're negotiating a contractual deadline against a definition your team has never formally discussed. This happens constantly, and it costs studios real money.
 

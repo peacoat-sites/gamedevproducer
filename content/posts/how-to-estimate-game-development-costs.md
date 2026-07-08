@@ -1,5 +1,5 @@
 ---
-title: "How To Estimate Game Development Costs"
+title: "Budget Your Game: The Developer's Cost Estimation Guide"
 date: 2026-05-30T10:57:12.583154+00:00
 draft: false
 description: "Learn how to estimate game development costs with expert tips on budgeting for design, programming, art, and marketing to keep your project on track and within "
@@ -23,7 +23,7 @@ faqs:
    a: "At every major milestone, after any significant scope change, and whenever actual velocity diverges from planned velocity for two or more consecutive sprints. Estimates aren't a contract. They're a living forecast. Treating them as fixed after pre-production is one of the most common ways studios walk into production debt without noticing until it's too late."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most studios don't blow their budgets on big decisions. They bleed out on the small ones nobody estimated properly. The character rig that needed three passes. The audio implementation that got scoped as "two weeks" by someone who'd never opened FMOD. The month of crunch that cost nothing on paper and cost everything in turnover afterward. Estimation isn't a box you check before funding. It's the skill that separates studios that ship from studios that send a heartfelt update to their Kickstarter backers explaining why the game is five years late.
 

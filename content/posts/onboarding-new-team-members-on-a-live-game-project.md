@@ -1,5 +1,5 @@
 ---
-title: "Onboarding New Team Members On A Live Game Project"
+title: "Onboard Live Game Developers Without Breaking Your Sprint"
 date: 2026-05-26T06:45:30.142207+00:00
 draft: false
 description: "Discover proven strategies for onboarding new team members onto a live game project without disrupting updates, player experience, or your existing development "
@@ -23,7 +23,7 @@ faqs:
    a: "Throwing someone into ownership too fast because the team is stretched thin. I've seen this kill confidence in genuinely strong hires. Two weeks of shadow mode feels like lost time when you're short-staffed. It isn't. The cost of a mistake on a live game with active players is orders of magnitude higher than two weeks of slower ramp-up."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Someone just accepted your offer. They start Monday. The game launched eight months ago, it's got 200,000 active players, three live events running in parallel, a hotfix due Thursday, and a Confluence wiki that hasn't been touched since beta. Congratulations. You now have approximately two weeks before this person either clicks into gear or quietly starts wondering if they made a mistake.
 

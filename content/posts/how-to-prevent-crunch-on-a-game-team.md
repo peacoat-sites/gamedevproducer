@@ -1,5 +1,5 @@
 ---
-title: "How To Prevent Crunch On A Game Team"
+title: "Stop Crunch Culture: 5 Policies That Protect Game Developers"
 date: 2026-06-12T11:56:21.499452+00:00
 draft: false
 description: "Learn practical strategies to prevent crunch on your game team, protect developer wellbeing, improve productivity, and deliver quality games without unsustainab"
@@ -23,7 +23,7 @@ faqs:
     a: "Yes, and more than people assume. Celeste was made by a tiny team with conscious attention to sustainable pace. Supergiant Games (Bastion, Hades) has been publicly vocal about their no-crunch approach for years. The thing these teams share isn't magic. It's scope discipline and a culture where leadership actually meant what they said about people's wellbeing. It's replicable. It just takes will."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Crunch killed two of my closest friends in the industry. Not literally, but one left games entirely after shipping a AAA title that required 80-hour weeks for eight months straight, and the other had a health scare at 34 that her cardiologist directly linked to sustained stress and sleep deprivation. I've watched talented producers, engineers, and artists grind themselves into dust on games that didn't even ship well. And the part that still makes me angry? Most of that crunch was preventable.
 

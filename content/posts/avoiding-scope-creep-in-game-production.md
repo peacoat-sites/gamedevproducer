@@ -1,5 +1,5 @@
 ---
-title: "Avoiding Scope Creep In Game Production"
+title: "Stop Feature Creep Before It Derails Your Game"
 date: 2026-06-08T12:44:37.908641+00:00
 draft: false
 description: "Learn proven strategies to prevent scope creep in game production, protect your timeline, control budgets, and deliver your game on time without sacrificing qua"
@@ -23,7 +23,7 @@ faqs:
    a: "Someone has to own it, even informally. If there's no producer, the most organized person on the team needs to take this on as a defined responsibility, not a vague shared one. 'Everyone is responsible for scope' means no one is. Pick a person, give them the authority to say no, and support that authority publicly when it gets tested."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Scope creep killed the last game I worked on at a AAA studio. Not the whole project, technically, it shipped, four years late and $12 million over budget, with half the team burned out and two leads who quit before release. The game was fine. The production was a disaster. And the thing that started the slow collapse wasn't a catastrophic decision. It was a hundred small ones, each of which seemed completely reasonable at the time.
 

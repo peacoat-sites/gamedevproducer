@@ -1,5 +1,5 @@
 ---
-title: "Pre-Production Planning For Games How Long And Why"
+title: "Why Game Pre-Production Takes Months to Plan Right"
 date: 2026-05-22T02:30:23.037856+00:00
 draft: false
 description: "Plan your game's pre-production phase the right way. Discover how long pre-production planning takes, what's involved, and why skipping it can derail your entir"
@@ -23,7 +23,7 @@ faqs:
    a: "Significantly shorter in some areas, not shorter in others. Technical risks are lower if you're on a familiar engine. Art pipeline is more predictable. But design validation still matters, sometimes more, because the temptation on sequels is to assume what worked before will work again without testing it. Some of the most costly production failures I've seen were sequels that skipped design validation because 'we know this IP.' Treat the core loop as unproven until you've tested it, regardless of franchise history."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most studios miss their launch dates not because production goes sideways, but because they gutted pre-production six months earlier. I've watched teams pop champagne over hitting "full production" at the three-month mark on a project that needed eight months of groundwork, then spend the next two years in crunch, cutting features, and eventually canceling the whole thing. The hard part nobody wants to admit: pre-production is where your game either gets a real shot or gets quietly set up to fail.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Plan A Realistic Game Release Date"
+title: "Release Your Game On Time: The Planning Framework That Works"
 date: 2026-06-05T12:21:33.735417+00:00
 draft: false
 description: "Learn how to plan a realistic game release date with expert tips on scheduling, avoiding crunch, managing milestones, and setting deadlines your team can actual"
@@ -23,7 +23,7 @@ faqs:
    a: "Hacknplan and Codecks are the two most game-specific options and both have free tiers worth trying. Larger teams use Jira (expensive but powerful) or Shortcut (cleaner than Jira, around $8.50 per user per month). A lot of small indie teams run just fine in Notion or even a well-structured Google Sheet. The tool matters less than whether your team actually updates it."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most game release dates are picked backwards. Someone in a meeting says "we should ship before the holidays" or "let's aim for a year from now," and then the schedule gets built to justify that number instead of derive it. I've sat in those meetings. I've also shipped games that hit their dates and ones that didn't, and the difference almost always traces back to this exact moment.
 

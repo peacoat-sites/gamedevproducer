@@ -1,5 +1,5 @@
 ---
-title: "How To Run A Game Development Retrospective"
+title: "Run Better Game Retrospectives: A Dev Team's Guide"
 date: 2026-05-26T15:52:35.566788+00:00
 draft: false
 description: "Learn how to run a game development retrospective that boosts team performance, uncovers key lessons, and helps your studio ship better games faster."
@@ -23,7 +23,7 @@ faqs:
    a: "Sprint retro: 60 minutes max. Milestone retro: 90 minutes to 2 hours. Full project post-mortem: this can take a half day done properly, especially for projects over a year long. For post-mortems I recommend a timeline exercise where the team reconstructs major events from memory before analysis. It surfaces things that no one person remembered alone and builds a shared understanding of what actually happened."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most retrospectives I've sat in felt like group therapy sessions where nothing actually changed. The team vented, someone wrote stuff on sticky notes, and three weeks later we were repeating the exact same mistakes. Sound familiar? The problem usually isn't the format. It's that producers treat retros as a ceremony to complete rather than a tool to use. After running retrospectives across projects ranging from 6-week mobile jam games to multi-year console titles, I've learned that a good retro can be the single highest-leverage hour of your sprint. A bad one actively damages trust. Here's how to run one that does real work.
 

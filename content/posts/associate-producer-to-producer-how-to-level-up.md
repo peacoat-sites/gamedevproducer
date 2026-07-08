@@ -1,5 +1,5 @@
 ---
-title: "Associate Producer To Producer How To Level Up"
+title: "From Associate Producer To Producer: Your Game Dev Roadmap"
 date: 2026-05-26T22:47:40.366604+00:00
 draft: false
 description: "Learn how to level up from associate producer to producer with proven strategies, key skills to develop, and expert tips to accelerate your career in film or TV"
@@ -23,6 +23,7 @@ faqs:
    a: "Frame it as a conversation about growth, not a demand. Ask your producer directly: 'What would I need to demonstrate to be considered for a producer role here?' That question does two things. It puts the criteria on the table, and it signals you're serious without being threatening. If they can't answer it or dodge it, that's useful information about whether internal growth is actually possible."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-08
 ---
 You're running the daily standup. Eight months in. You know every ticket in Jira, every blocker, every dev who claims they'll finish in two days and somehow always does. Your producer's in back-to-back meetings and the team basically treats you like the actual producer already. Then the senior role opens internally, and they hire someone from outside. That's when it hits: doing the job isn't the same as being ready for it.
 

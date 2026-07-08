@@ -1,5 +1,5 @@
 ---
-title: "What Transfers From Tech Pm To Game Production"
+title: "Tech PM Skills That Actually Transfer to Game Production"
 date: 2026-05-22T22:09:38.812601+00:00
 draft: false
 description: "Discover how tech PM skills like roadmapping, stakeholder management, and agile workflows translate seamlessly into game production roles and help you make the "
@@ -23,7 +23,7 @@ faqs:
    a: "Optimizing for process correctness over team trust. Coming in with a better system than the studio currently uses doesn't matter if you haven't built enough credibility for people to follow it. Fix the culture of your Jira board after you've fixed your relationships."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three weeks into your new associate producer role at a mid-sized game studio, and your Jira board looks immaculate. Epics nested. Tickets groomed. Velocity tracked. Your engineering lead walks by, glances at the screen, and says "that's cute." Not mean about it. Just... unimpressed. You've run software sprints for five years. You shipped a payments platform used by millions. And somehow, you feel like you're starting from zero. That gap between tech PM confidence and game production reality is real, and it catches almost everyone off guard.
 

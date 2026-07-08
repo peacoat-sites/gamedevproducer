@@ -1,5 +1,5 @@
 ---
-title: "Skills Every Game Producer Needs Explained"
+title: "The Core Skills Every Game Producer Must Master"
 date: 2026-06-05T12:23:35.136287+00:00
 draft: false
 description: "Learn the essential skills every game producer needs to succeed, from project management and budgeting to team leadership and communication in the gaming indust"
@@ -23,7 +23,7 @@ faqs:
     a: "Track your actuals obsessively for six months. Compare what you planned to what shipped, and be honest about why the gaps happened. No tool will make you a better estimator faster than your own project data. Mike Cohn's Agile Estimating and Planning is also worth reading if you want a framework to go with the practice."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most game producers I've met either fell into the job by accident or got promoted from something they were already good at. A programmer who happened to be good at talking to people. A designer who kept the spreadsheet everyone else ignored. An artist who started running standup because nobody else would. That's not a bad origin story, actually. But it does mean a lot of producers are operating on instinct, patching gaps as they appear, without ever sitting down to ask: what does this job actually require?
 

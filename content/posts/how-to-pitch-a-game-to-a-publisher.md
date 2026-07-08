@@ -1,5 +1,5 @@
 ---
-title: "How To Pitch A Game To A Publisher"
+title: "Pitching Your Game: The Publisher's Checklist"
 date: 2026-06-08T12:46:51.779389+00:00
 draft: false
 description: "Learn how to pitch a game to a publisher with expert tips on crafting a compelling proposal, preparing a demo, and securing the deal for your dream project."
@@ -23,7 +23,7 @@ faqs:
     a: "Yes. Exclusivity in a pitch process isn't the norm, and unless a publisher explicitly asks for a period of exclusive negotiation (which sometimes happens after serious interest), you should be talking to multiple people simultaneously. Having competing interest, even implied interest, improves your negotiating position considerably."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most pitches fail before the publisher even opens the deck. I've been on both sides of the table, and watching genuinely interesting game concepts crash because the team didn't understand what they were actually supposed to prove? It's painful.
 

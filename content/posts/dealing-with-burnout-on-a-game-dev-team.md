@@ -1,5 +1,5 @@
 ---
-title: "Dealing With Burnout On A Game Dev Team"
+title: "Stop Burnout Before Your Dev Team Quits"
 date: 2026-06-03T14:10:15.967709+00:00
 draft: false
 description: "Struggling with burnout on your game dev team? Discover practical strategies to recognize warning signs, support your crew, and keep creativity and productivity"
@@ -23,7 +23,7 @@ faqs:
    a: "A few teams I know use Officevibe or its successor Workleap (about $5 per user per month) for anonymous weekly pulse surveys. It's not game-dev-specific but it gives you signal before problems become visible in behavior. Some studios have started using Miro boards for retrospective health checks: anonymous sticky notes, no attribution. Low tech, but people are more honest when their name isn't on it."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Three people quit my team in six weeks once. Not because the game was bad. Not because anyone was difficult to work with. Because we just kept going. Milestone after milestone, crunch after crunch, and nobody said the thing that needed to be said out loud.
 

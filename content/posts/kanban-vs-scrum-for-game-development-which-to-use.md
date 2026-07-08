@@ -1,5 +1,5 @@
 ---
-title: "Kanban Vs Scrum For Game Development Which To Use"
+title: "Kanban or Scrum: Which Workflow Fits Your Game Team"
 date: 2026-05-23T07:33:30.020874+00:00
 draft: false
 description: "Discover the key differences between Kanban and Scrum for game development. Learn which agile framework best suits your team's workflow, project size, and goals"
@@ -23,7 +23,7 @@ faqs:
    a: "Neither framework is inherently faster. Kanban often feels faster because it removes the overhead of sprint planning and review ceremonies. But speed is really a function of WIP limits, clear definitions of done, and fast feedback loops. A Scrum team with tight sprint goals and a two-day review cycle can ship faster than a Kanban team with no WIP limits and a clogged review column."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're two weeks into pre-production, your lead designer keeps adding cards to the backlog faster than the team can pull them, your [sprint review](/how-to-run-a-game-development-retrospective/) is tomorrow, and half the team isn't even sure what "done" means for a level blockout. Sound familiar? The Kanban vs. Scrum debate isn't academic for game developers. It's live, it's messy, and picking the wrong framework can quietly wreck team morale before alpha even lands on the calendar.
 

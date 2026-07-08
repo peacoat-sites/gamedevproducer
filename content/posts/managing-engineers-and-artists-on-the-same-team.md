@@ -1,5 +1,5 @@
 ---
-title: "Managing Engineers And Artists On The Same Team"
+title: "Lead Engineers and Artists Without Burning Out Your Team"
 date: 2026-05-25T00:32:18.894919+00:00
 draft: false
 description: "Discover proven strategies for managing engineers and artists on the same team, bridging creative and technical mindsets to boost collaboration, productivity, a"
@@ -23,7 +23,7 @@ faqs:
    a: "For small to mid-size teams: HacknPlan for its game-specific task structures, Notion for documentation and decision logs, and Slack or Discord with structured channels per discipline plus a dedicated cross-discipline channel for dependency callouts. For larger teams, Shotgrid for art pipeline management alongside Jira for engineering, with a producer-maintained integration layer between them. The tool matters less than having a single source of truth that both disciplines actually use."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three weeks from alpha, your lead engineer just told you the UI system isn't ready to accept art assets yet, and your lead artist is standing in the doorway asking why her team has been blocked for five days. Both of them are right. Both of them are frustrated. And you're the producer sitting between two people who speak entirely different professional languages, trying to keep the project moving without losing either of them. If that scenario sounds familiar, you've already discovered the core challenge of mixed-discipline team management in game development.
 

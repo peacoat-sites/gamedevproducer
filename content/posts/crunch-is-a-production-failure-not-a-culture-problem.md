@@ -1,5 +1,5 @@
 ---
-title: "Crunch Is A Production Failure Not A Culture Problem"
+title: "Why Game Dev Crunch Isn't A Culture Issue"
 date: 2026-05-28T07:10:57.893004+00:00
 draft: false
 description: "Crunch in game development isnt a culture issue its a systemic failure. Learn why studios must fix broken pipelines and planning, not blame employee mindsets."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, and they should. The tools scale down. A two-person team can maintain a simple Trello board with a backlog, a 'must ship' column, and a running capacity note in a shared doc. The principles don't require a project management department. They require the habit of looking at the gap between work remaining and time available before it becomes a crisis."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A studio hits week fourteen of a scheduled twelve-week sprint. The lead designer hasn't slept more than five hours in three nights. The QA team is running on energy drinks and quiet resentment. The executive producer sends a "we're almost there" email that nobody believes. Sound familiar?
 

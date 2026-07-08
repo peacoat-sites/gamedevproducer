@@ -1,5 +1,5 @@
 ---
-title: "Game Producer Vs Film Producer Key Differences"
+title: "Why Game Producers And Film Producers Do Different Jobs"
 date: 2026-05-26T02:16:16.016541+00:00
 draft: false
 description: "Game Producer vs Film Producer: Explore the key differences in production timelines, team structures, budgets, and creative processes between these two roles."
@@ -23,7 +23,7 @@ faqs:
    a: "Assuming the schedule is sacred. In film, a shooting schedule is built to be followed. In game development, the schedule is a planning tool that gets revised constantly as technical discoveries surface and design decisions change. Film producers often react to schedule slippage as a crisis. Game producers have to learn to treat it as information and respond with replanning rather than alarm. Related to that: underestimating how long things take in game development is the single most common source of crunch, which is a production failure, not an unavoidable feature of the industry."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've spent ten years producing indie films. You know how to wrangle a crew, manage a shooting schedule, and sweet-talk a distributor into taking your finished product. Then someone offers you a senior producer role at a mid-sized game studio, and you think: "How different can it be?" 
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Explain Game Production To People Outside The Industry"
+title: "Why Your Family Still Doesn't Understand Game Development"
 date: 2026-05-28T09:40:22.492275+00:00
 draft: false
 description: "Learn how to explain game production to friends, family, and clients in simple terms. Break down complex pipelines, roles, and processes without the industry ja"
@@ -23,7 +23,7 @@ faqs:
    a: "Stop trying to convince them and shift to alignment. Ask what outcome they need and work backward from that. If an investor doesn't believe your timeline, the productive conversation isn't about game development theory. It's about what evidence would give them confidence. That reframes the conversation from debate to problem-solving, and it's usually more productive for everyone."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your publisher contact just forwarded your milestone report to their finance team, and now someone in accounting wants a 30-minute call to understand "why it takes so long to make a video game." You've been in production for eight months. You have 40,000 words of design documentation, a Jira board with 600 tickets, and a team of 12 people who haven't slept properly since Q1. And now you have to explain all of that to someone whose last gaming experience was Minesweeper.
 

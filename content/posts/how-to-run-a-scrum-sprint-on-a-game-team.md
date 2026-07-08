@@ -1,5 +1,5 @@
 ---
-title: "How To Run A Scrum Sprint On A Game Team"
+title: "Sprint Management for Game Teams: The Developer's Guide"
 date: 2026-06-17T12:35:35.139919+00:00
 draft: false
 description: "Learn how to run a scrum sprint on a game team with step-by-step planning, daily standups, sprint reviews, and retrospectives built for game dev."
@@ -23,7 +23,7 @@ faqs:
     a: "Overcommitting, consistently, sprint after sprint. Teams estimate optimistically, don't account for bugs and surprises, and end every sprint feeling behind. The fix is tracking your actual velocity over six to eight sprints and using that number to cap what you pull into planning. Your gut says you can do thirty points. Your history says twenty-two. Trust the history."
   - q: "Should we use Scrum during crunch?"
     a: "Honestly, I'd say yes, with modifications. Sprints get shorter (one week), the backlog gets brutal prioritization, and the retro becomes critical because problems compound fast under pressure. The discipline of a defined sprint actually helps during crunch by making scope visible and giving leadership a real forcing function to cut features rather than add hours."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most Scrum advice was written for software teams shipping accounting dashboards. Game teams are different, and if you've ever tried to run a sprint where half the tasks are "make it feel good" or "the combat needs more juice," you already know the frameworks don't quite fit out of the box.
 

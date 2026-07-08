@@ -1,5 +1,5 @@
 ---
-title: "Preventing Burnout On Game Dev Teams Practical Steps"
+title: "Stop Burnout Before Your Dev Team Quits"
 date: 2026-05-28T18:49:43.845416+00:00
 draft: false
 description: "Learn practical strategies to prevent burnout on game dev teams, improve work-life balance, boost morale, and keep your crew motivated through crunch and beyond"
@@ -23,7 +23,7 @@ faqs:
    a: "Cancel one recurring meeting that could be an async update. This sounds trivial. It isn't. Every meeting you eliminate returns protected time and signals that you value focused work over performed productivity. Do it publicly and explain why. It models the culture shift you want."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your lead programmer hasn't taken a real day off in eleven weeks. She's still hitting deadlines, her code still ships clean, and when you ask how she's doing, she says "fine." Three weeks later she hands in her notice. You never saw it coming, but you absolutely should have.
 

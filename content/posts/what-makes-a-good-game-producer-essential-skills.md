@@ -1,5 +1,5 @@
 ---
-title: "What Makes A Good Game Producer Essential Skills"
+title: "The Core Skills Every Game Producer Needs"
 date: 2026-05-29T03:09:26.650340+00:00
 draft: false
 description: "Discover the essential skills every game producer needs to succeed, from leadership and communication to budgeting and project management in game development."
@@ -23,6 +23,7 @@ faqs:
    a: "As early as possible, ideally before pre-production ends. Producers who join mid-production spend months undoing decisions that were made without any production oversight. If you're a solo dev thinking 'I'll add a producer later,' that's the game development equivalent of saying 'I'll add load-bearing walls after the house is built.'"
 author_slug: "marcus-webb"
 author_title: "Technical Editor"
+lastmod: 2026-07-08
 ---
 You're three weeks from alpha, the build is broken, your lead programmer just went silent on Slack, and the art team is asking whether they should keep working on assets that might get cut. Nobody's panicking yet, but you can feel the pressure moving through the room like a change in air pressure before a storm. This is the moment that separates producers who are good on paper from producers who are actually essential. It's not about your spreadsheet skills. It's about what you do in the next 90 minutes.
 

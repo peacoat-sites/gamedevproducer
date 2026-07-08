@@ -1,5 +1,5 @@
 ---
-title: "Team Dynamics In AAA Game Studios"
+title: "How Top Game Studios Build High-Performing Teams"
 date: 2026-05-21T22:26:43.388358+00:00
 draft: false
 description: "Discover how team dynamics shape AAA game development. Explore collaboration, communication, and leadership strategies that drive successful game studios and hi"
@@ -23,6 +23,7 @@ faqs:
    a: "Honestly? You're mostly in damage-limitation mode. The things that help: extreme transparency about exactly how long the crunch period is expected to last, visible acknowledgment from leadership that the situation is not normal and not permanent, and protecting a minimal amount of schedule space for team connection even when everything feels on fire. Post-launch recovery time, clearly communicated in advance, helps people endure the end of a project. What destroys cohesion isn't crunch itself. It's indefinite crunch with no visible end and leadership that pretends everything is fine."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-08
 ---
 You're three weeks from a content-complete milestone, your lead animator hasn't spoken directly to the lead programmer in eleven days, and your producer just told you "the team is fine" while two senior engineers quietly updated their LinkedIn profiles. This is not a dysfunction story. This is Tuesday at a AAA studio.
 

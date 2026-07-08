@@ -1,5 +1,5 @@
 ---
-title: "Console Game Certification Process For Producers"
+title: "Getting Your Game Certified: Console Approval Roadmap"
 date: 2026-05-24T09:15:10.803142+00:00
 draft: false
 description: "Learn how the console game certification process works for producers, covering submission requirements, technical checks, and approval steps for major platforms"
@@ -23,7 +23,7 @@ faqs:
    a: "The requirements are the same regardless of studio size. What differs is access to platform support. Larger publishers often have a dedicated platform relations contact who can expedite questions or flag issues before submission. Indie studios working through the standard developer programs typically rely on documentation and developer forums. Joining programs like the ID@Xbox or PlayStation Indies initiative can improve your access to support resources."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've just hit your ship date. The build is stable, the team is exhausted, and someone in the room asks, "So how long does cert actually take?" The honest answer is: longer than you budgeted, almost certainly. Sony's PlayStation certification process alone has historically taken anywhere from two to six weeks for a first submission, and Nintendo's Lotcheck can stretch even longer if your documentation isn't airtight. Microsoft's Xbox certification runs on a similar timeline. If you didn't plan for that buffer, you're already in trouble. This article is for producers who want to stop being surprised by that number.
 

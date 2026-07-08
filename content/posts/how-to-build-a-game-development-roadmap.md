@@ -1,5 +1,5 @@
 ---
-title: "How To Build A Game Development Roadmap"
+title: "Your Game Dev Roadmap: Steps From Concept to Launch"
 date: 2026-06-12T11:58:23.150495+00:00
 draft: false
 description: "Learn how to build a game development roadmap with clear steps, timelines, and milestones to take your game from concept to launch successfully."
@@ -23,6 +23,7 @@ faqs:
     a: "Document everything. Update your confidence percentages. Make the delta between the current plan and realistic delivery visible in writing, repeatedly. If you're being pressured to maintain a roadmap you know is wrong, that's a project health problem, not a roadmap problem, and your job is to make the risk legible, not to paper over it."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-08
 ---
 Most game development roadmaps I've seen are either dishonestly optimistic or so vague they're useless. And I'll be honest: I was guilty of building both kinds before I figured out what actually works.
 

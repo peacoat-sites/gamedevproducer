@@ -1,5 +1,5 @@
 ---
-title: "QA Testing Workflow For Indie Games Explained"
+title: "How Indie Game Devs Should Test Before Launch"
 date: 2026-06-26T11:19:10.900703+00:00
 draft: false
 description: "Learn how indie game developers can build an effective QA testing workflow to catch bugs, improve gameplay, and ship polished games on time."
@@ -12,7 +12,7 @@ author_title: "Publishing Strategist"
 author_bio: "Samantha Roberts has spent her career navigating the publisher side of the games industry: first pitching indie studios to publishers, then working inside a publishing label evaluating hundreds of projects. She knows what publishers look for and what indie developers consistently get wrong in their pitch decks. At GameDevProducer, she covers publishing strategy, funding, and the business of bringing a game to market."
 slug: "qa-testing-workflow-for-indie-games-explained"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most indie teams treat QA like a final checkbox. Build the thing, then hand it to a friend for a weekend, fix the obvious crashes, ship it. I did this on my second project and watched a game-breaking save corruption bug hit the Steam forums within six hours of launch. Reviews tanked before I even woke up on release day. That experience rewired how I think about testing permanently.
 

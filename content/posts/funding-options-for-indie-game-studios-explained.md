@@ -1,5 +1,5 @@
 ---
-title: "Funding Options For Indie Game Studios Explained"
+title: "Funding Your Indie Game: 7 Real Money Options"
 date: 2026-06-07T10:41:45.025833+00:00
 draft: false
 description: "Discover the best funding options for indie game studios, from grants and crowdfunding to publisher deals and investors, and find the right path to finance your"

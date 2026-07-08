@@ -1,5 +1,5 @@
 ---
-title: "What Is A Vertical Slice In Game Development"
+title: "Vertical Slices: The Game Dev Shortcut That Works"
 date: 2026-06-06T10:26:49.467427+00:00
 draft: false
 description: "Learn what a vertical slice is in game development, why studios use it to pitch and prototype games, and how it differs from a standard demo or prototype."
@@ -23,7 +23,7 @@ faqs:
    a: "An alpha is typically a much more complete version of the game with significant missing polish, content gaps, and known bugs. A vertical slice is tiny in scope but polished to final quality in that scope. Think of it this way: alpha is wide and rough, vertical slice is narrow and finished."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Somewhere around month eight of a 24-month project, a publisher asked us to show them "the game." Not a prototype. Not a proof of concept with placeholder assets and a camera that clipped through the floor. The actual game. A real, representative slice of what players would experience when the finished product shipped.
 

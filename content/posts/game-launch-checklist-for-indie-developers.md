@@ -1,5 +1,5 @@
 ---
-title: "Game Launch Checklist For Indie Developers"
+title: "The Ultimate Pre-Launch Checklist for Indie Game Devs"
 date: 2026-05-30T10:55:01.025563+00:00
 draft: false
 description: "Plan the perfect game launch with our indie developer checklist. Cover marketing, store pages, press kits, and post-launch support to maximize your game's succe"
@@ -23,7 +23,7 @@ faqs:
    a: "Save file corruption and missing controller support are the two that come up most consistently in post-mortems I've read. A corrupted save after two hours of play is an immediate refund and a furious review. Test your save system until you're sick of testing it, then test it again."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most indie games don't fail because they're bad games. They fail because they launched badly. I've watched genuinely good games sell fewer than 200 copies at launch because the developer treated "upload to Steam and post on Twitter" as a release strategy. The game sat there, invisible, while the developer refreshed their sales dashboard in quiet despair. What surprised me most when I started digging into post-mortems and talking to other developers was how consistent the pattern is: the game was fine, sometimes great, but the launch infrastructure was completely missing. A checklist won't save a bad game, but the absence of one has killed plenty of good ones.
 

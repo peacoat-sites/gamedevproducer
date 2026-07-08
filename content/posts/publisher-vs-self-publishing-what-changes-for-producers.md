@@ -1,5 +1,5 @@
 ---
-title: "Publisher Vs Self-Publishing What Changes For Producers"
+title: "Publishing Your Game: Studio vs Self-Release Trade-Offs"
 date: 2026-05-24T05:01:36.682605+00:00
 draft: false
 description: "Publisher vs Self-Publishing: What Changes for Producers - Compare traditional publishing and independent routes to understand which path suits your goals best."
@@ -23,7 +23,7 @@ faqs:
    a: "There's real value in it. Publisher milestone structures force documentation habits, reporting discipline, and external accountability that help producers build skills faster. The constraints aren't just bureaucratic overhead. They're a training environment. That said, the tradeoffs around creative control and revenue sharing are significant, and going in without understanding those tradeoffs is where producers get burned."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three months into pre-production on your studio's first original IP. The vertical slice is actually impressive. Twelve people on the team. And now you've got two parallel conversations: a mid-tier publisher offering an advance against royalties, or your CFO pushing for Steam self-publishing and keeping 100% of the revenue. Both are viable. Both will completely reshape how you work as a producer. That tension is what matters here.
 

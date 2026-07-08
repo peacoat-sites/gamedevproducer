@@ -1,5 +1,5 @@
 ---
-title: "Crunch Aftermath How To Rebuild Team Trust"
+title: "Rebuild Team Trust After a Brutal Dev Crunch"
 date: 2026-05-26T22:06:48.084678+00:00
 draft: false
 description: "After a brutal crunch, your team is burned out and updating resumes. Here is how to rebuild trust, repair morale, and prevent the next death march."
@@ -23,6 +23,7 @@ faqs:
    a: "When your pulse survey scores are back above 3.5 across the board, when you've addressed at least the highest-priority structural issue that caused crunch, and when people are voluntarily bringing energy and ideas to conversations rather than waiting to be asked. That's the signal. Calendar date alone means nothing."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-08
 ---
 The project shipped. Congratulations. Your team worked 70-hour weeks for three months, someone cried in the parking lot, two people quietly updated their LinkedIn profiles mid-crunch, and now you're sitting in a fluorescent-lit conference room trying to lead a "we did it!" retrospective while half the room stares at the table. The game is out. The team is broken. And nobody in leadership is talking about the second problem.
 

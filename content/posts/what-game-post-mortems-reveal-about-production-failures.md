@@ -1,5 +1,5 @@
 ---
-title: "What Game Post-Mortems Reveal About Production Failures"
+title: "Why Game Projects Fail: Lessons From Post-Mortems"
 date: 2026-05-23T07:37:14.864428+00:00
 draft: false
 description: "Learn what game post-mortems reveal about common production failures, from scope creep to poor communication, and how developers can avoid repeating costly mist"
@@ -23,7 +23,7 @@ faqs:
    a: "Yes. GDC Vault has hundreds archived, many free to access. The book Postmortems: Selected Essays Volume One by various GDC authors collects some of the best ones in print. Gamasutra (now Game Developer) has a full archive online. Reading ten of them back to back is more valuable than most production courses."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You shipped the game. Or maybe you didn't, and it's sitting in a folder somewhere labeled "v_final_ACTUAL_final2." Either way, something went wrong during production, and you're trying to figure out what. Here's something that tends to surprise people outside the industry: the Game Developers Conference has published post-mortems since 1997, and across hundreds of them, the same five or six failure patterns show up over and over again. Not variations on a theme. The exact same problems. That should tell you something about how rarely teams learn from each other, and how much they could.
 

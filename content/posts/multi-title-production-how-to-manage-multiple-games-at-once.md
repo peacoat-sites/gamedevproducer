@@ -1,5 +1,5 @@
 ---
-title: "Multi-Title Production How To Manage Multiple Games At Once"
+title: "Juggling Multiple Game Projects Without Losing Your Mind"
 date: 2026-05-22T01:01:27.003348+00:00
 draft: false
 description: "Learn how to manage multiple game productions simultaneously with expert strategies for prioritizing tasks, balancing teams, and delivering successful titles on"
@@ -23,7 +23,7 @@ faqs:
    a: "Unclear ownership. When two projects share a producer and something goes wrong, both teams assume the other project got the attention. Document your ownership model explicitly. Who owns what decision, on which project, and what requires your escalation. Ambiguity at the producer level spreads into every team below it."
 author_slug: "marcus-webb"
 author_title: "Technical Editor"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're staring at three different project boards, each one representing a game in active development. Team A needs a sprint review. Team B's lead just flagged a critical blocker. Team C is two weeks from a [publisher milestone](/publisher-vs-self-publishing-what-changes-for-producers/) and someone just quit. This is multi-title production, and if nobody warned you it would feel like this, you're not alone.
 

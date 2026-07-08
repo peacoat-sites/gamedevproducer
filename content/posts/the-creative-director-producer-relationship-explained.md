@@ -1,5 +1,5 @@
 ---
-title: "The Creative Director Producer Relationship Explained"
+title: "How Creative Directors And Producers Actually Work Together"
 date: 2026-05-25T23:01:02.934254+00:00
 draft: false
 description: "The creative director producer relationship explained: understand collaboration dynamics, roles, responsibilities, and best practices for successful creative pa"
@@ -23,7 +23,7 @@ faqs:
    a: "Watch for these signs: Decisions get made in reasonable timeframes. Both roles show up in relevant meetings and engage substantively. Scope changes come with timeline impact discussion. The team isn't confused about creative direction or schedule. People aren't burning out from constant conflict or unclear goals. Neither role is publicly undermining the other. If you see most of these, you're doing okay. If you see none of them, you've got work to do."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting in a pre-production meeting. The creative director just pitched a radical art direction change three weeks before greenlight. The producer in you sees scope creep and timeline risk. The part of you that hired this CD respects their vision. Nobody says anything for seven seconds. That silence is the relationship problem nobody talks about in game production.
 

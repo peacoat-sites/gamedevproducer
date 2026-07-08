@@ -1,5 +1,5 @@
 ---
-title: "Game Producer Portfolio What To Show Hiring Managers"
+title: "Portfolio Projects That Get Game Producer Jobs"
 date: 2026-05-28T12:14:01.420470+00:00
 draft: false
 description: "Learn what hiring managers really want in a game producer portfolio. Discover the key projects, skills, and deliverables to showcase and land your next role."
@@ -23,7 +23,7 @@ faqs:
    a: "Most NDAs cover unreleased content and proprietary data, not the existence of a sprint structure or a general workflow. Anonymize and generalize where needed. If in doubt, ask your former employer. But don't assume an NDA means you can show nothing. That's a common misconception that kills portfolios before they start. The producers I've seen get hired fastest aren't always the ones with the longest resumes. They're the ones who made it easy for a busy hiring manager to see exactly how they think. Do that, and your portfolio does the selling for you."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You spent eight months producing a mobile RPG, shipped it on time, kept a team of twelve aligned, and survived a mid-project engine migration without killing the budget. Hiring managers at three studios looked at your portfolio and passed. Sound familiar? The problem almost certainly isn't your experience. It's how you're presenting it, or more accurately, what you're choosing to show.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Build A Game Development Team From Scratch"
+title: "Assemble Your First Game Dev Team: The Essential Guide"
 date: 2026-06-11T12:28:16.002551+00:00
 draft: false
 description: "Learn how to build a game development team from scratch with expert tips on hiring developers, artists, designers, and project managers to launch your dream gam"
@@ -23,7 +23,7 @@ faqs:
     a: "Start with Notion for documentation and Hacknplan or GitHub Projects for task tracking. Both are free at small scale. Don't set up Jira or a complex Scrum framework on your first project. The overhead will eat you alive before you've shipped anything."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most first-time game dev team builders make the same mistake: they hire for roles before they understand what they're actually building.
 

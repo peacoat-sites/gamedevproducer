@@ -1,5 +1,5 @@
 ---
-title: "Game Producer Vs Scrum Master What Is The Difference"
+title: "Producer or Scrum Master: Which Role Fits Your Studio"
 date: 2026-05-26T16:14:21.992029+00:00
 draft: false
 description: "Learn the key differences between a game producer and a scrum master, including their roles, responsibilities, and how each contributes to a successful game dev"
@@ -23,7 +23,7 @@ faqs:
    a: "Honestly, it depends on team size and maturity. Teams of fewer than six people who are experienced with agile can often self-facilitate. Larger teams, or teams new to Scrum, benefit enormously from a dedicated facilitator and coach. The mistake studios make is hiring a Scrum Master and then treating them like an administrative assistant or a junior Producer. If you're going to have the role, give it the authority and space to actually do the job."
 author_slug: "priya-sharma"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've just joined a mid-sized studio as a Scrum Master, and three weeks in, the Game Producer is handing you tasks that have nothing to do with facilitation: negotiating with external audio vendors, writing milestone reports for the publisher, deciding which features get cut before the next sprint. You're confused. So is the Producer. Nobody defined these roles clearly before kickoff, and now you're both stepping on each other's toes while the team watches the awkward dance.
 

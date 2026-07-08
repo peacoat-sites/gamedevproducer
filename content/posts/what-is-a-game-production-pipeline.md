@@ -1,5 +1,5 @@
 ---
-title: "What Is A Game Production Pipeline"
+title: "How Game Studios Organize Production From Start to Ship"
 date: 2026-06-10T11:53:12.726680+00:00
 draft: false
 description: "Discover what a game production pipeline is, how it works, and why it's essential for delivering polished games on time and within budget."
@@ -23,7 +23,7 @@ faqs:
     a: "Crunch, missed milestones, and a specific kind of team morale damage that's hard to recover from. When handoffs between disciplines consistently fail, people stop trusting each other's work, start duplicating effort defensively, and begin working around the process instead of through it. Fixing a broken pipeline usually requires stopping, doing a short honest retrospective, and re-establishing the agreements that make the workflow function. It's uncomfortable, and it takes time you feel like you don't have. You have less time if you don't do it."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people asking "what is a game production pipeline?" want an org chart. Pre-Production flows to Production flows to Post-Launch, nice and clean. What they actually need to know is messier, way more interesting, and infinitely more useful: a pipeline is a set of agreements about how work flows through a team. When those agreements fall apart, games die.
 

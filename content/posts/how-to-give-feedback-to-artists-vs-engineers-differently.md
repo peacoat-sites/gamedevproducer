@@ -1,5 +1,5 @@
 ---
-title: "How To Give Feedback To Artists Vs Engineers Differently"
+title: "Critiquing Your Team: How Artists and Engineers Need Different Feedback"
 date: 2026-05-26T02:56:40.422288+00:00
 draft: false
 description: "Learn how to tailor feedback for artists and engineers effectively. Discover key communication differences to inspire creativity and drive technical precision i"
@@ -21,6 +21,7 @@ faqs:
    a: "Take it seriously. Engineers have context on technical debt, system architecture, and downstream consequences that you likely don't have full visibility into. Ask them to explain the constraint. If the scope objection is valid, reprioritize. If it's not, make the business case clearly: 'I understand this is a change, here's why it's a P1 from a player experience standpoint, what do you need from me to make it feasible?' Acknowledging their concern before asserting the priority gets you a lot further than overriding it."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-08
 ---
 You're in a sprint review. The combat animator shows a sword slash that reads slow and telegraphed. You say, "The timing feels off, can you punch it up?" She nods. Two days later, you see the revision and it's faster, snappier, and somehow worse. Meanwhile, across the room, you told your lead engineer the collision detection "felt a bit janky" and he came back with three questions, a spreadsheet of frame data, and a fix that worked perfectly. Same vague feedback. Completely opposite outcomes. That's not a coincidence.
 

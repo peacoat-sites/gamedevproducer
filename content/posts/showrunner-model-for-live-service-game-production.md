@@ -1,5 +1,5 @@
 ---
-title: "Showrunner Model For Live Service Game Production"
+title: "How Showrunner Models Are Changing Live Service Games"
 date: 2026-05-26T06:07:59.621512+00:00
 draft: false
 description: "Discover how the showrunner model transforms live service game production, streamlining creative leadership, content delivery, and long-term player engagement s"
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, but you need one showrunner per season in active production, not one showrunner across all seasons. The overlap period where one showrunner is winding down a season and ramping up the next is the danger zone. Build at least a two-week handoff buffer between those phases in your staffing model."
 author_slug: "marcus-webb"
 author_title: "Technical Editor"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three weeks out from your Season 3 launch and your lead designer just told you the new map isn't going to make it. Your community manager is already fielding questions on Discord. Your narrative lead has been rewriting the seasonal storyline around an asset that might get cut. And your producer? They're in back-to-back meetings trying to get a straight answer from four different discipline leads who each have a different understanding of what the season is actually supposed to be. This is the moment when most live service teams realize their production model wasn't built for the thing they're actually making.
 

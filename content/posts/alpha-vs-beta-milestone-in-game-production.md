@@ -1,5 +1,5 @@
 ---
-title: "Alpha Vs Beta Milestone In Game Production"
+title: "When To Launch Alpha vs Beta: A Dev's Roadmap"
 date: 2026-07-04T10:32:01.304198+00:00
 draft: false
 description: "Discover the key differences between alpha and beta milestones in game production and how each phase shapes the path to a successful game launch."
@@ -23,7 +23,7 @@ faqs:
     a: "Yes, absolutely, and if they're not, you're doing QA wrong. QA should be testing from the first playable build. The beta phase isn't when testing starts; it's when testing becomes the primary activity. Studios that only staff up QA at beta are consistently the ones with messy launches."
   - q: "How do you handle alpha and beta on a tiny two-person team?"
     a: "The milestone logic still applies even if you don't have a formal producer. Declare your alpha criteria in a shared doc before you start production. When you hit it, stop adding features and start finishing what's there. The discipline of treating those as different modes of work matters at any team size. What you skip is the formal review process, not the concept itself."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about alpha and beta milestones describe them like they're obvious. Feature-complete at alpha, bug-fix mode at beta, ship it. Done. That framing is so stripped down it's basically useless, and I've watched more than a few teams sail into alpha thinking they understood it, then spend three months drowning in scope decisions that should have been made six months earlier.

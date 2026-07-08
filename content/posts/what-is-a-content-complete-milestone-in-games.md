@@ -1,5 +1,5 @@
 ---
-title: "What Is A Content Complete Milestone In Games"
+title: "Content Complete Milestones: Your Game Dev Roadmap"
 date: 2026-07-07T11:24:34.226660+00:00
 draft: false
 description: "Learn what a content complete milestone means in game development, why it matters, and how it shapes the final stages before a game ships."
@@ -23,7 +23,7 @@ faqs:
     a: "In most studios, the lead producer or executive producer makes the formal call, usually in consultation with department heads. The criteria should be pre-defined and checklist-driven, not a judgment call made in the moment. If there's a publisher involved, CC typically requires their formal sign-off as well, because it often triggers a milestone payment."
   - q: "How long is Beta typically after Content Complete?"
     a: "This varies significantly by project size and platform requirements. For a mid-scale console release, six to ten weeks between CC and Gold submission is common. Smaller PC titles might compress this to four weeks. Platform certification (for console), localization QA, and first-party compliance reviews all eat time in this window, and they're not compressible just because your schedule is tight."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most milestone names in game development are vague enough that five different studios will define them five different ways. Content Complete is the one that causes the most arguments.

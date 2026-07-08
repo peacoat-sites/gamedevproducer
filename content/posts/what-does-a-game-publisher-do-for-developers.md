@@ -1,5 +1,5 @@
 ---
-title: "What Does A Game Publisher Do For Developers"
+title: "How Game Publishers Support Developers Beyond Funding"
 date: 2026-07-05T10:32:06.003755+00:00
 draft: false
 description: "Discover how game publishers support developers with funding, marketing, distribution, and more to bring video games successfully to market."
@@ -12,7 +12,7 @@ author_title: "Publishing Strategist"
 author_bio: "Samantha Roberts has spent her career navigating the publisher side of the games industry: first pitching indie studios to publishers, then working inside a publishing label evaluating hundreds of projects. She knows what publishers look for and what indie developers consistently get wrong in their pitch decks. At GameDevProducer, she covers publishing strategy, funding, and the business of bringing a game to market."
 slug: "what-does-a-game-publisher-do-for-developers"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most developers I've talked to over the years come to me with the same question, usually after a promising early conversation with a publisher has left them more confused than before. They've been told the publisher will "handle the business side." But what does that actually mean? And more importantly, what are you giving up in exchange?

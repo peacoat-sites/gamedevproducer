@@ -1,5 +1,5 @@
 ---
-title: "How To Plan Content Updates After Launch"
+title: "Keep Your Game Fresh: Post-Launch Content Planning"
 date: 2026-06-28T10:40:58.286264+00:00
 draft: false
 description: "Learn how to plan content updates after launch with a clear schedule, audit process, and strategy to keep your site fresh and ranking well."
@@ -23,7 +23,7 @@ faqs:
    a: "Bank content before launch, size updates to what you can realistically produce without crunch, and ship frequently in smaller pieces rather than infrequently in larger ones. Two small updates a month will usually outperform one large update every six weeks for retention purposes."
  - q: "What tools are best for managing a post-launch content update schedule?"
    a: "Codecks is purpose-built for game dev and handles card-based sprint planning well for small teams. Hack n Plan is another strong option. For roadmap communication specifically, a public Trello board or a Notion page with clearly labeled 'In Progress' and 'Planned' columns works fine and costs nothing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most post-launch content planning guides start at the wrong point. They tell you to "listen to your community" and "iterate based on feedback." That's not a plan. That's a prayer with a Discord server attached.

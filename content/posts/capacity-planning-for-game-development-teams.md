@@ -1,5 +1,5 @@
 ---
-title: "Capacity Planning For Game Development Teams"
+title: "Stop Losing Developers to Burnout: Plan Team Capacity Right"
 date: 2026-05-28T22:07:45.713676+00:00
 draft: false
 description: "Plan game dev team capacity effectively with proven strategies. Learn to balance workloads, allocate resources, and hit deadlines without burning out your team."
@@ -23,7 +23,7 @@ faqs:
    a: "At minimum, every milestone. In practice, I'd recommend a light recalibration every four to six sprints, especially if team composition has changed, scope has shifted, or your velocity data is drifting significantly from your estimates. Capacity models are not set-and-forget."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The [post-mortem reveals](/how-to-run-a-game-development-retrospective/) no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.
 

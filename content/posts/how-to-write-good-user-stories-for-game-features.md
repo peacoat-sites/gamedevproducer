@@ -1,5 +1,5 @@
 ---
-title: "How To Write Good User Stories For Game Features"
+title: "Write Better Game Features With Clear User Stories"
 date: 2026-06-15T14:43:22.903943+00:00
 draft: false
 description: "Learn how to write effective user stories for game features that keep your team aligned and players happy with clear, actionable formats and examples."
@@ -23,6 +23,7 @@ faqs:
     a: "Write them honestly as technical stories rather than forcing a player-facing 'as a player' framing onto them. 'As an engineer, I want to refactor the inventory serialization layer so that save/load operations are under 100ms on target hardware' is a legitimate story. The fake-player wrapper on a purely technical task just makes everyone roll their eyes and ignore the format entirely."
   - q: "How do you handle stories for feel and juice -- things that are hard to quantify?"
     a: "This is genuinely hard, and anyone who tells you it's easy is lying. The best approach I've found: write the experiential acceptance criteria as specifically as you can ('the jump feels snappy, with a minimum 200ms hang time at peak height'), and schedule a dedicated playtest review as part of the acceptance process. Some things can only be validated by playing them. Building that into your definition of done is more honest than pretending a checkbox will catch it."
+lastmod: 2026-07-08
 ---
 Most user stories written for game features are useless. Not because the format is wrong, but because whoever wrote them forgot that games are fundamentally about *feeling something*, and they wrote requirements instead.
 

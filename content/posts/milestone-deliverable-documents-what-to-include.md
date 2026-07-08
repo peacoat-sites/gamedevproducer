@@ -1,5 +1,5 @@
 ---
-title: "Milestone Deliverable Documents What To Include"
+title: "Milestone Documents Every Game Dev Needs"
 date: 2026-05-23T17:13:51.979361+00:00
 draft: false
 description: "Track project progress effectively with our complete guide to milestone deliverable documents. Learn what essential elements to include for success."
@@ -12,7 +12,7 @@ slug: "milestone-deliverable-documents-what-to-include"
 affiliate_disclosure: true
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three weeks out from a major milestone review. Your studio lead asks for the deliverable document. You panic slightly because you realize you've never actually written a formal one, and you're not sure what should go in it. You've got spreadsheets, meeting notes, and a general sense of what's been completed, but there's no single source of truth. Sound familiar?
 

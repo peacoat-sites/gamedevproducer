@@ -1,5 +1,5 @@
 ---
-title: "Why Game Developers Leave After A Successful Launch"
+title: "Why Game Devs Quit After Their Biggest Hit"
 date: 2026-05-23T12:42:33.382487+00:00
 draft: false
 description: "Discover the real reasons game developers quit after a successful launch, from burnout and creative burnout to poor management, low pay, and lack of future visi"
@@ -23,7 +23,7 @@ faqs:
    a: "Slow down the operational tempo deliberately and visibly. If the producer is immediately running at the same velocity post-launch, the team reads that as more crunch with a different label. Protect the recovery window. Schedule it. Defend it from stakeholder pressure. Your team will remember that you did."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your game ships. Reviews are good. Steam numbers are climbing. The Discord is alive. And then, over the next 90 days, three of your best people hand in their notice.
 

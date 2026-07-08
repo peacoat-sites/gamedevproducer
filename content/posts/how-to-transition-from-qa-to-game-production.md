@@ -1,5 +1,5 @@
 ---
-title: "How To Transition From QA To Game Production"
+title: "Move From QA Testing Into Game Production Roles"
 date: 2026-06-22T13:48:21.604450+00:00
 draft: false
 description: "Learn how to leverage your QA skills to break into game production with practical steps, key tools, and career advice from industry insiders."
@@ -23,6 +23,7 @@ faqs:
    a: "The shift from a reactive role to a proactive one. In QA, your job is to respond to what's in front of you. In production, your job is to anticipate what's coming and prevent problems before they arrive. That mental model switch is harder than it sounds, and it catches a lot of new APs off guard in their first three months. The testers who do best in production are the ones who've already been thinking that way in QA."
  - q: "Is it worth taking a pay cut to get an AP title at a smaller studio?"
    a: "Usually yes, if the alternative is staying in QA for another 18 months waiting for an internal slot. Title and role history compound. An AP at a 20-person studio for two years sets you up for a full producer role much faster than another two years of QA at a larger one. Run the two-year math, not the one-year math."
+lastmod: 2026-07-08
 ---
 
 QA is the best job in the games industry for getting into production, and almost no one talks about why. They're too busy warning you about the grind, the low pay, the repetitive test cases. All of that is true. It's also beside the point.

@@ -1,5 +1,5 @@
 ---
-title: "Game Producer Vs Technical Program Manager"
+title: "Producer Vs. TPM: Which Game Dev Role Fits You"
 date: 2026-05-25T07:44:35.996094+00:00
 draft: false
 description: "Discover the key differences between a game producer and a technical program manager, including roles, skills, salaries, and which career path suits you best."
@@ -23,6 +23,7 @@ faqs:
    a: "Yes, cautiously. Live service fundamentally changes the coordination problem. You're not shipping once; you're shipping continuously across backend, client, content, and balance updates, often with contractual content cadences and platform partner dependencies. That's a program management challenge that benefits from TPM thinking. But hiring TPMs without also investing in strong producers is a mistake. The TPM makes the machine run better. The producer keeps the machine pointed at something worth shipping."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-08
 ---
 You're three months into shipping a live-service title, sprint planning is a complete mess, and your studio head just told you they're bringing in a "Technical Program Manager" to help. Your first thought: *isn't that just what I do?* It's a reasonable question. And the fact that nobody has a clean answer to it is causing real dysfunction at studios right now.
 

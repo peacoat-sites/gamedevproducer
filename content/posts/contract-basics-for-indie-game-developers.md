@@ -1,5 +1,5 @@
 ---
-title: "Contract Basics For Indie Game Developers"
+title: "Game Contracts Every Developer Needs To Know"
 date: 2026-07-03T11:04:34.409155+00:00
 draft: false
 description: "Essential contract knowledge for indie game developers. Learn about NDAs, publishing agreements, IP rights, and key terms to protect your game project legally."
@@ -23,6 +23,7 @@ faqs:
    a: "An entertainment lawyer or tech lawyer will charge $150-$300 per hour; plan on 2-4 hours for a review, so $300-$1,200. That's cheaper than resolving a dispute later. For small straightforward contracts, you might get away with $300-$500. Don't try to haggle a lawyer down to $100; that's not a lawyer doing serious work, that's someone who watched a YouTube video."
  - q: "What if I sign something and later realize it's bad? Can I change my mind?"
    a: "Not unilaterally. But you can contact the other party and say, 'This clause isn't working; let's revise.' If they're reasonable, they might agree. If they're not, you're stuck with what you signed unless both parties want to change it. Which is why reading before you sign matters more than anything."
+lastmod: 2026-07-08
 ---
 
 I got an email last week from a developer who'd just shipped their first indie title. Revenue was looking solid, $45K in the first month. Then their publisher's lawyer sent over a contract amendment, and suddenly half that money was in dispute. The developer had never actually read the original deal. They'd signed it in November 2025 thinking the terms were standard, but standard for what? Video games? Publishing? The entertainment industry broadly? Turns out they'd agreed to something nobody would voluntarily agree to.

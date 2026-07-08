@@ -1,5 +1,5 @@
 ---
-title: "How To Publish An Indie Game On Steam"
+title: "Your Indie Game on Steam: The Complete Publishing Guide"
 date: 2026-06-09T11:34:45.922853+00:00
 draft: false
 description: "Learn how to publish your indie game on Steam with our step-by-step guide covering Steamworks, store page setup, pricing, and launch strategies for indie develo"
@@ -23,7 +23,7 @@ faqs:
     a: "Don't set a launch date until your build is in final testing and you're confident in a two-to-four week window. Announcing a date and missing it damages player trust and gets you negative press coverage before you've sold a single copy. Pick the date when the game is done, not when you hope it'll be done."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Steam charges a $100 app fee, takes 30% of your revenue, and is still the obvious choice for almost every indie developer. That should tell you everything about where the market is.
 

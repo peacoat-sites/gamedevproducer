@@ -1,5 +1,5 @@
 ---
-title: "Managing Introverts And Extroverts On Game Teams"
+title: "Building Better Game Teams: Guide to Managing Introverts and Extroverts"
 date: 2026-05-26T07:08:08.735118+00:00
 draft: false
 description: "Learn how to manage introverts and extroverts on game teams effectively. Discover strategies to balance communication styles and boost collaboration and product"
@@ -23,7 +23,7 @@ faqs:
     a: "Useful for opening conversations, not for making decisions. I've seen teams use DISC well as a shared language: 'I process better in writing, here's why.' That's valuable. Where assessments go wrong is when people use them to categorize or excuse: 'She's an introvert so she won't want to present.' Run the assessment, use the vocabulary, then watch the actual behavior. The person is always more accurate than the type."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your lead engineer hasn't spoken in three standups this week. Your narrative designer won't stop talking in them. Both are doing excellent work. The problem isn't performance. The problem is you've built one communication system and expected two fundamentally different people to thrive in it equally. They won't.
 

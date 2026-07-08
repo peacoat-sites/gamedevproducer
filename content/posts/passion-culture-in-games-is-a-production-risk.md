@@ -1,5 +1,5 @@
 ---
-title: "Passion Culture In Games Is A Production Risk"
+title: "When Passion Becomes a Studio's Biggest Liability"
 date: 2026-05-28T09:58:34.382035+00:00
 draft: false
 description: "Passion culture in games can become a significant production risk. Learn how unrealistic expectations and overwork threaten project timelines and team wellbeing"
@@ -23,7 +23,7 @@ faqs:
    a: "Be honest about what changed and why. Explain that the studio is switching to realistic planning, which means the schedule will actually be achievable. Set clear boundaries on hours. Back them up. When someone does work a long night, ask why the plan failed. The first few people you hire into the new culture will be skeptical. But when the schedule holds and they can actually have a life outside work, you'll attract better people consistently."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're two weeks from an engine migration deadline. Your lead programmer hasn't slept properly in three weeks. The art director just finished a 60-hour sprint to redo character models that weren't technically broken. When you mention crunch in the standup, people nod like it's normal. Someone says, "That's just how game dev works." You believe them. You hire more passionate people. Six months later, two of your best artists quit without warning, and a junior engineer is too burned out to contribute meaningfully. The problem wasn't that they weren't passionate enough. It was that you built a production system that treated passion as a substitute for planning.
 

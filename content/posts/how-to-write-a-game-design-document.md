@@ -1,5 +1,5 @@
 ---
-title: "How To Write A Game Design Document"
+title: "The Game Design Document Blueprint Developers Need"
 date: 2026-06-04T12:23:59.741108+00:00
 draft: false
 description: "Learn how to write a game design document with our step-by-step guide. Cover key sections, structure your ideas, and keep your team aligned throughout developme"
@@ -23,6 +23,7 @@ faqs:
     a: "Writing too much before anyone has played anything. The second most common is writing a document nobody can find or knows to update. Both of these kill the document's usefulness. Start lean, keep it in a shared wiki, and treat updates as a team habit."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-08
 ---
 Most game design documents are dead on arrival. Not because the designer didn't care, not because the game idea was bad. Because the writer confused thoroughness with usefulness, and produced something so dense that nobody on the team actually read it.
 

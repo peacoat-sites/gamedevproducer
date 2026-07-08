@@ -1,5 +1,5 @@
 ---
-title: "How To Scope An Indie Game Project Realistically"
+title: "Stop Overscoping Your Indie Game Before It Kills Your Project"
 date: 2026-05-31T11:11:35.901305+00:00
 draft: false
 description: "Learn how to scope an indie game project realistically with practical tips on setting limits, cutting features, and shipping a finished game without burning out"
@@ -23,7 +23,7 @@ faqs:
    a: "It can be, but it's not a magic fix. Early access works when you have a genuinely playable core loop that players find fun, a transparent roadmap, and the discipline to keep shipping updates. It doesn't work as a way to sell an unfinished game while you figure out what you're building. Players remember bad early access launches and the refund rates will show you immediately if you misjudged your readiness."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've got a game idea. It's good. Maybe it's great. You've been sketching systems on napkins, you've got a Discord server with twelve friends who are "definitely in," and you've already mentally cast the launch trailer. Then someone asks: "How long do you think this will take?" You say six months. Everyone nods. Two years later, you're still in development, three people have quietly quit, and the scope has somehow expanded into something that would make a mid-size studio sweat. I've watched this happen to more teams than I can count. I've lived a version of it myself. The problem was never passion or talent. It was scope.
 

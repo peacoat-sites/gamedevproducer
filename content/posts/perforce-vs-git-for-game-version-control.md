@@ -1,5 +1,5 @@
 ---
-title: "Perforce Vs Git For Game Version Control"
+title: "Perforce Or Git: Which Version Control Fits Your Game Studio"
 date: 2026-07-02T11:04:07.142638+00:00
 draft: false
 description: "Compare Perforce vs Git for game version control. Learn which system handles large assets, branching, and team workflows best for your game studio."
@@ -23,7 +23,7 @@ faqs:
    a: "Git LFS offloads large binary files to a separate storage backend instead of tracking them in the main Git history. It solves the repository bloat problem, but it doesn't give you native file locking to prevent overwrite conflicts without additional setup. It's a partial solution, not a full replacement for Perforce's binary handling."
  - q: "Should a small indie team bother with Perforce?"
    a: "Honestly, probably not unless you're in Unreal with a meaningful art team. The setup overhead and licensing cost past 5 users are real considerations. A well-configured Git setup with LFS handles most small-team scenarios just fine, and you can always migrate later if the project scales up and demands it."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most game studios get this decision wrong not because they lack information, but because they benchmark against the wrong kind of project.

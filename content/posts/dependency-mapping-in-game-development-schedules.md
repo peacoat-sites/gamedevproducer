@@ -1,5 +1,5 @@
 ---
-title: "Dependency Mapping In Game Development Schedules"
+title: "Map Dependencies Before Your Game Dev Schedule Falls Apart"
 date: 2026-05-24T06:20:17.951193+00:00
 draft: false
 description: "Discover how dependency mapping streamlines game development schedules, reduces bottlenecks, and helps teams deliver projects on time by visualizing task relati"
@@ -23,7 +23,7 @@ faqs:
     a: "At minimum, review after any significant scope change and at the start of each new production phase. On a fast-moving project, a quick dependency audit at the start of each sprint or two-week cycle is worth the hour it takes. Stale dependency data is worse than no data because it creates false confidence."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most game projects don't die because the team ran out of talent. They die because nobody noticed that the combat system needed finalized player stats, which needed a locked design doc, which needed sign-off from a creative director who was waiting on competitive research that nobody had assigned. One blocked task becomes five blocked tasks becomes a sprint where half the team is spinning wheels. I've watched this happen on a 40-person project where the producer had a perfectly color-coded Gantt chart. The schedule looked great. The dependencies were invisible. That's the problem this article is about.
 

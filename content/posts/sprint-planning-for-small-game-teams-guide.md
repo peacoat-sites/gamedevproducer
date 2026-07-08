@@ -1,5 +1,5 @@
 ---
-title: "Sprint Planning For Small Game Teams Guide"
+title: "Sprint Planning That Actually Works for Small Game Teams"
 date: 2026-06-24T11:22:56.068070+00:00
 draft: false
 description: "Learn sprint planning strategies built for small game teams. Prioritize tasks, set realistic goals, and ship faster with this practical agile guide."
@@ -23,7 +23,7 @@ faqs:
    a: "A task that carries over once is normal. Twice in a row is a signal. Three times means it's either badly estimated, blocked by something nobody's naming out loud, or it's not actually a priority and should go back to the backlog. Chronic carryover is a planning problem, not a execution problem."
  - q: "Do we need a dedicated producer or scrum master for this to work?"
    a: "No, but someone has to own the backlog and run the ceremony. On a three-person team, that's usually whoever is strongest at project thinking, even if their primary role is design or code. What doesn't work is 'everyone owns it together,' which in practice means nobody does."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most sprint planning guides are written for software teams building CRMs. They assume you have a scrum master, a product owner, a development team, and a QA department. If you're a four-person indie studio where the "art director" also does UI and occasionally writes dialogue, that framework is going to fit you like a suit two sizes too big.

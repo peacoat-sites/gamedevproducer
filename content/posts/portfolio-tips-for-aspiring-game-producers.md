@@ -1,5 +1,5 @@
 ---
-title: "Portfolio Tips For Aspiring Game Producers"
+title: "Build Your Game Producer Portfolio: 5 Essential Steps"
 date: 2026-06-19T12:30:47.831841+00:00
 draft: false
 description: "Build a standout game producer portfolio with expert tips on showcasing projects, skills, and leadership to land your dream role in the industry."
@@ -23,6 +23,7 @@ faqs:
    a: "Notion is genuinely good for this and costs nothing. It handles documents, embedded spreadsheets, links to build demos, and looks clean enough to share. If you want something more formal, a PDF sent via email still works fine. Don't overthink the tool."
  - q: "How do I show production skills if I've never been officially the producer on a project?"
    a: "Look at what you actually did. Did you run standups? Track tasks? Write a post-mortem? Coordinate with an audio contractor? Any of those is producer work. Retroactively document it clearly and own the contribution. A lot of people have been producing without the title. The portfolio is where you name it."
+lastmod: 2026-07-08
 ---
 Every aspiring game producer I've met has the same question, and almost none of them phrase it right. They ask "what should I put in my portfolio?" when the real question is "what does a hiring producer actually need to see before they'll trust me with a team and a budget?" Those are very different questions, and answering the second one changes everything about how you build your portfolio.
 

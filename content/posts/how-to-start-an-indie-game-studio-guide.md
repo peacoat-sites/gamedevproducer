@@ -1,5 +1,5 @@
 ---
-title: "How To Start An Indie Game Studio Guide"
+title: "Launch Your Indie Game Studio: The Complete Roadmap"
 date: 2026-06-14T11:13:39.514727+00:00
 draft: false
 description: "Learn how to start an indie game studio with our complete guide covering business setup, team building, funding options, game development tools, and marketing s"
@@ -23,7 +23,7 @@ faqs:
    a: "The most reliable sources are people you've already worked with, game jams (Ludum Dare and Global Game Jam both produce real professional relationships), and communities like TIGSource forums or the r/gamedev Discord. Be skeptical of strangers who are 'very passionate' but have no shipped work and no specific skills. Passion without track record is a risk, not an asset."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most guides about starting an indie studio spend three thousand words telling you to "follow your passion" and "build what you love." They skip the part where you run out of money in month eight and wonder why nobody told you about quarterly estimated taxes.
 

@@ -1,5 +1,5 @@
 ---
-title: "Risk Register Template For Game Development"
+title: "Track Every Game Dev Risk: The Template You Need"
 date: 2026-05-23T09:32:32.667926+00:00
 draft: false
 description: "Plan, track, and mitigate project risks with a risk register template built for game development. Protect your timeline, budget, and launch with confidence."
@@ -23,7 +23,7 @@ faqs:
    a: "Genuinely yes, and this is underused. Walking into a publisher milestone review with a current risk register shows professional rigor. It also gives you a structured way to surface risks that need publisher input, like platform certification strategy or marketing timeline dependencies, without it feeling like you're delivering bad news."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most game projects don't fail because of bad ideas. They fail because nobody wrote down the thing everyone quietly worried about in week two. I've sat in postmortems where the team collectively remembers the exact moment they knew the dependency on a third-party SDK was going to blow up the milestone, and nobody escalated it. It lived in someone's head. That's not a communication problem. That's a risk management problem, and a risk register is the tool that solves it.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Manage Version Control For A Game Team"
+title: "Keep Your Game Team In Sync: Version Control Guide"
 date: 2026-06-20T10:44:06.740987+00:00
 draft: false
 description: "Learn how game teams can manage version control effectively with branching strategies, merge workflows, and tools built for large binary assets."
@@ -23,7 +23,7 @@ faqs:
    a: "Yes, and you should. Leaving assets out because they're large is how you end up with assets living only on someone's local machine. Use Git LFS or a system built for large files, but get everything into the repo. The alternative is eventual disaster."
  - q: "What's the best way to train non-technical team members on version control?"
    a: "One short hands-on session beats documentation every time. Sit down with them, walk through their actual daily workflow (pull before you start, make changes, commit with a useful message, push), and make sure they're comfortable with the GUI client you've chosen. Don't explain the internals. Focus on what they do every day."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most game teams don't fail at version control because they picked the wrong tool. They fail because nobody actually decided how it works, and then six months in, half the team is working off stale branches, someone force-pushed to main, and the lead programmer is rewriting three days of work at 11pm before a publisher demo.

@@ -1,5 +1,5 @@
 ---
-title: "How To Set Up Jira For A Game Development Team"
+title: "Getting Your Game Team Started With Jira"
 date: 2026-06-21T11:27:12.518137+00:00
 draft: false
 description: "Learn how to configure Jira for game development workflows, from sprint planning and bug tracking to asset management and milestone delivery."
@@ -23,6 +23,7 @@ faqs:
    a: "Create a dedicated 'QA' component and a saved filter that separates QA-reported bugs from dev-discovered ones. During a regression phase, your QA lead owns a separate board filtered to just that component. Devs see only the bugs assigned to them, not the full bug list. This is one of those things where Jira actually shines once it's configured correctly."
  - q: "Is Jira worth it for a 2-3 person indie team?"
    a: "Probably not, honestly. Jira Free (up to 10 users) costs nothing, but the overhead of maintaining it is real. For a team under four people, I'd recommend Notion with a simple kanban template, or even Linear, which has a much lighter setup cost and a free tier. Come back to Jira when you're adding your fifth or sixth person and the coordination cost starts to hurt."
+lastmod: 2026-07-08
 ---
 
 Most Jira setups I've seen in game studios are basically a software engineering template with "sprint" swapped for "milestone" and a handful of custom fields nobody fills out. That's not a game dev workflow. That's a web app workflow wearing a hat.

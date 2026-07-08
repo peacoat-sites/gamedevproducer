@@ -1,5 +1,5 @@
 ---
-title: "What Is Crunch In The Game Industry"
+title: "Why Game Developers Burn Out: Understanding Crunch Culture"
 date: 2026-06-02T12:56:29.944638+00:00
 draft: false
 description: "Learn what crunch means in the game industry, why it happens, how it affects developers, and what studios are doing to address this widespread workplace issue."
@@ -23,7 +23,7 @@ faqs:
    a: "This is where it gets complicated. Some games ship in rough shape after brutal development (Cyberpunk 2077 at launch). Others ship in decent shape despite brutal development. The variable isn't usually the crunch itself, it's whether leadership maintained realistic scope and feature discipline while the crunch was happening. Crunch can ship a game. It can't fix a game that has fundamental design problems or scope it couldn't support. The two things get conflated, and that conflation is part of what lets studios keep crunching and calling it necessary."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 It's 11 PM on a Tuesday. You haven't seen your family for dinner in three weeks. Your Slack is on fire with messages from a producer asking for build status. The game ships in six weeks and the feature list hasn't shrunk, it's grown. You're not alone in this moment. You're in crunch, and somewhere right now, thousands of developers across the industry are right there with you.
 

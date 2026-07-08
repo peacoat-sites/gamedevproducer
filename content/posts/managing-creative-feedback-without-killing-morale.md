@@ -1,5 +1,5 @@
 ---
-title: "Managing Creative Feedback Without Killing Morale"
+title: "Critique Your Game Without Crushing Your Team"
 date: 2026-05-27T09:53:35.958300+00:00
 draft: false
 description: "Learn how to give and receive creative feedback that improves work without demoralising your team. Practical tips for leaders and collaborators to get results."
@@ -23,7 +23,7 @@ faqs:
    a: "Frame.io is strong for video and animation reviews. ShotGrid (formerly Shotgun) is the industry standard for larger teams tracking asset reviews across a full pipeline. For smaller teams where budget matters, Loom plus a shared Notion page gets you surprisingly far."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Halfway through sprint review, your lead artist goes quiet. The creative director just called their environment work "a good start" and asked for "more energy." No specifics. No examples. Just vibes-based criticism delivered in front of the team. The artist nods, says nothing, and spends the next two weeks technically doing their job while emotionally checking out. You've just watched morale die in real time, and the worst part is the creative director genuinely thought they were being helpful.
 

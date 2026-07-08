@@ -1,5 +1,5 @@
 ---
-title: "Live Service Game Production Vs Ship And Done Titles"
+title: "Live Service Vs Ship-and-Done: Which Model Wins"
 date: 2026-05-27T03:26:05.671809+00:00
 draft: false
 description: "Explore the key differences in producing live service games versus traditional ship and done titles, from ongoing costs and team structures to long-term player "
@@ -23,7 +23,7 @@ faqs:
    a: "Jira remains the industry standard for sprint-based live ops work, especially if you need custom workflows and integration with your CI/CD pipeline. Hacknplan is a strong alternative built specifically for game production that handles the hierarchical feature structure common in game dev better than generic PM tools. For communication and async coordination across a distributed live ops team, Slack combined with a solid Confluence or Notion wiki keeps institutional knowledge from walking out the door when staff turns over. The honest truth is that neither model is inherently better. Ship-and-d"
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're six months into pre-production and someone just asked the question your whole team has been quietly avoiding: "Are we making a live service game or not?" The room goes silent. Everyone has opinions. Nobody has a plan. This single decision shapes your team size, budget runway, monetization model, post-launch roadmap, and your personal stress levels for the next several years. Get it wrong and it doesn't just hurt your game. It can sink your studio.
 

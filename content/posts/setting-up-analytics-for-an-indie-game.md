@@ -1,5 +1,5 @@
 ---
-title: "Setting Up Analytics For An Indie Game"
+title: "Track Player Behavior: The Indie Dev's Analytics Guide"
 date: 2026-06-17T12:33:14.832504+00:00
 draft: false
 description: "Learn how to set up analytics for your indie game to track player behavior, improve retention, and make smarter design decisions from day one."
@@ -23,7 +23,7 @@ faqs:
    a: "It depends on what you're measuring, but for funnel analysis, 200 to 300 completed sessions usually gives you enough signal to make reasonable decisions. Below that, individual outliers can skew your percentages badly. For A/B testing, you generally need much larger samples, often 1,000+ per variant, which is why many indie teams skip formal A/B testing entirely and just ship changes iteratively."
  - q: "Should I build my own analytics backend instead of using a third-party tool?"
    a: "Almost certainly not, unless you have a specific reason to keep data fully in-house (like a contract requirement or a deep privacy commitment). Building a reliable event ingestion pipeline, storage layer, and query interface is months of engineering work. The free tools are good. Use them."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most indie developers don't think about analytics until something goes wrong. A game ships, reviews are mixed, players are dropping off somewhere, and suddenly everyone's guessing. Was it the tutorial? The difficulty spike in level three? The shop UI? Nobody knows, because nobody set up the tools to find out.
 

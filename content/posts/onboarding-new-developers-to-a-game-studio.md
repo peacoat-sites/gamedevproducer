@@ -1,5 +1,5 @@
 ---
-title: "Onboarding New Developers To A Game Studio"
+title: "Onboard Game Developers Without The Chaos"
 date: 2026-06-21T11:29:21.274502+00:00
 draft: false
 description: "Learn how to onboard new developers at your game studio with proven strategies for faster ramp-up, team integration, and productive first weeks."
@@ -23,6 +23,7 @@ faqs:
    a: "You need to over-communicate structure for remote hires. In a physical studio, information leaks naturally through overheard conversations and hallway context. Remote developers don't get any of that. Double the check-in frequency in the first month, make sure they have video calls (not just text) with every person they'll collaborate with, and be explicit about communication norms like response time expectations and which channels are for what."
  - q: "Should new developers be in sprints from day one?"
    a: "Not in full sprints with normal velocity expectations. Add them to the sprint so they can see how the team works, but protect their first two weeks from delivery pressure. Give them tasks inside the sprint structure but don't count on their story points until week three at the earliest. Rushing someone into delivery expectations before they're oriented produces rushed, fragile work that costs more to fix than the velocity was worth."
+lastmod: 2026-07-08
 ---
 
 The new developer starts Monday. You've sent the calendar invite, added them to Slack, and told yourself you'll figure out the rest when they get here. I've watched this exact scenario play out at studios of every size, and it almost always results in the same thing: a talented person spending their first two weeks confused, underutilized, and quietly wondering if they made a mistake accepting the offer.

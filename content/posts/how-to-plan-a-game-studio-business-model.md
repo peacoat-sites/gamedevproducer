@@ -1,5 +1,5 @@
 ---
-title: "How To Plan A Game Studio Business Model"
+title: "Build Your Game Studio's Revenue Model From Day One"
 date: 2026-06-23T11:34:16.496399+00:00
 draft: false
 description: "Learn how to plan a game studio business model with revenue streams, funding strategies, team structure, and monetization tips for indie developers."
@@ -23,7 +23,7 @@ faqs:
    a: "Get this in writing before you build anything. The most common mistakes are equal splits that don't account for unequal contributions over time, and handshake agreements that fall apart when money actually appears. A simple founder agreement with vesting schedules (typically four years with a one-year cliff) covers most situations. A lawyer who works with small creative businesses should cost you $500 to $1,500 to do this right."
  - q: "When should a game studio consider outside investment?"
    a: "When you have something to show and a specific thing you need capital to do. 'We need money to keep going' is not a compelling investment case. 'We have a vertical slice, a publishing letter of intent, and need $150,000 to hit our next milestone' is. Most game-focused investors, including Makers Fund and London Venture Partners, want to see proof of concept before they're interested in a conversation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most people planning a game studio business model are secretly asking the wrong question. They're asking "how do I make money making games?" when the question that actually needs answering first is "how do I survive long enough to finish one?"

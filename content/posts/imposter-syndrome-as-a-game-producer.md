@@ -1,5 +1,5 @@
 ---
-title: "Imposter Syndrome As A Game Producer"
+title: "Why Game Producers Doubt Their Own Talent"
 date: 2026-05-23T05:06:59.667313+00:00
 draft: false
 description: "Struggling with imposter syndrome as a game producer? Discover practical strategies to overcome self-doubt, build confidence, and thrive in your creative leader"
@@ -23,7 +23,7 @@ faqs:
    a: "Associate producers and first-time leads report it most acutely, but senior producers changing studios often experience a sharp resurgence because they've lost their institutional context. When you don't know the codebase, the culture, the team history, or the political landscape yet, you feel incompetent even if your skills are fully intact. Give yourself a 90-day acclimation window, be explicit with yourself that you're in a learning phase, and don't measure your confidence against your eventual steady-state performance. The moment in that milestone review, the blank second, the quiet doubt,"
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting in a [milestone review](/psychological-safety-and-milestone-reviews-in-game-dev/). The creative director just asked you to defend the sprint plan you built, and suddenly your mind goes blank. Not because you don't know the answer, but because a quiet voice in the back of your head is whispering: *who are you to be running this?* You nod, buy yourself three seconds with "great question," and recover. But the feeling lingers for the rest of the day. If you recognize that moment, you're not alone, and you're almost certainly not the fraud you think you are.
 

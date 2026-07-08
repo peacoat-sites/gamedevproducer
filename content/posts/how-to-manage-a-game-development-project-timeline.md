@@ -1,5 +1,5 @@
 ---
-title: "How To Manage A Game Development Project Timeline"
+title: "Keep Your Game Project On Track: Timeline Management Guide"
 date: 2026-06-04T12:22:00.674646+00:00
 draft: false
 description: "Plan your game development project timeline with confidence. Learn key strategies for scheduling milestones, managing scope, and keeping your team on track."
@@ -23,7 +23,7 @@ faqs:
    a: "Part-time and volunteer teams need even more scheduling discipline, not less. Calculate actual available hours per person per week honestly (not aspirationally), use those numbers in your capacity planning, and treat contributor availability as a first-class constraint in your sprint planning. The projects I've seen succeed with part-time teams are the ones that kept scope extremely tight and milestones extremely clear."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Sixty percent of the indie games I've watched fail in the last decade didn't fail because of bad code or weak art. They failed because someone made a timeline in month one and then never looked at it again.
 

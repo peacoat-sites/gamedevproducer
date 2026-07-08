@@ -1,5 +1,5 @@
 ---
-title: "Hiring Your First Game Developer Guide"
+title: "How To Hire Your First Game Developer"
 date: 2026-06-11T12:26:14.180801+00:00
 draft: false
 description: "Learn how to hire your first game developer with confidence. Discover key skills to look for, interview tips, and budgeting advice to build your dream game team"

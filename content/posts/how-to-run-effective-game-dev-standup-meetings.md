@@ -1,5 +1,5 @@
 ---
-title: "How To Run Effective Game Dev Standup Meetings"
+title: "Stop Wasting Time In Game Dev Standups"
 date: 2026-06-27T10:28:51.271959+00:00
 draft: false
 description: "Learn how to run effective game dev standup meetings that keep your team aligned, boost productivity, and ship games faster with proven daily sync strategies."
@@ -23,7 +23,7 @@ faqs:
    a: "Every day for teams in active development. Twice a week for pre-production or maintenance phases where the work is slower-moving. Less than twice a week and you're flying blind for too long between check-ins. The shorter you can keep each individual meeting, the less you need to ration them."
  - q: "What's the best way to run a standup for a fully remote team?"
    a: "Camera on, short synchronous call, shared sprint board visible to everyone. Use a tool like Whereby or Google Meet (not Slack huddles, which make it too easy to multitask). Start on time regardless of who's present. Record it only if someone is genuinely unavailable, not as a default, because knowing you're being recorded changes how people talk."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most standups are a waste of time. Not because the format is broken, but because nobody ever taught the team what it's actually for.

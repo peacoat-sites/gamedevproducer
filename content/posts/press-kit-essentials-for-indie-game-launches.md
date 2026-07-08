@@ -1,5 +1,5 @@
 ---
-title: "Press Kit Essentials For Indie Game Launches"
+title: "The Press Kit Checklist Every Indie Dev Needs"
 date: 2026-06-25T11:13:16.804601+00:00
 draft: false
 description: "Learn what every indie game press kit needs, from screenshots and trailers to bios and logos, to help journalists cover your launch effectively."
@@ -23,7 +23,7 @@ faqs:
    a: "Include a clear instruction for how to request review codes, not the codes themselves in the public kit. A contact email or a form (Keymailer and Woovit are both reasonable for this) keeps things manageable and prevents keys from being scraped."
  - q: "What if my game doesn't have any press coverage yet, does a press kit still matter?"
    a: "Yes, more than if you already had coverage. A clean, professional press kit is often the thing that signals to a journalist that you're serious and have done the work. Without coverage to validate you, the quality of your materials does a lot of the credibility work. Think of it as your studio's handshake."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most indie devs build a press kit two days before launch because a journalist finally emailed them and they panicked. I've done exactly this. You're scrambling through Google Drive at midnight trying to find a screenshot that isn't just a debug menu, writing a "short description" that somehow ends up being 400 words, and wondering why you didn't just handle this in March. The press kit you throw together in that panic is almost always fine. But "fine" means you're leaving real coverage on the table.

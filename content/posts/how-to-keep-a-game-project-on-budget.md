@@ -1,5 +1,5 @@
 ---
-title: "How To Keep A Game Project On Budget"
+title: "Stop Game Projects From Bleeding Money"
 date: 2026-06-16T13:08:53.550724+00:00
 draft: false
 description: "Learn proven strategies to keep your game project on budget, from planning and scope control to tracking costs and avoiding common financial pitfalls."
@@ -23,7 +23,7 @@ faqs:
     a: "Underestimating the cost of iteration. First-time producers often budget for building a feature once. Experienced ones know most features get built, revised, and rebuilt at least twice. If your budget only covers the first pass, you're already in trouble by the time you hit playtesting."
   - q: "Is it worth hiring a dedicated producer for a small indie game?"
     a: "Depends entirely on team composition. If nobody on the team has a background in project management or finance, even a part-time producer at 10-15 hours a week can prevent overruns that would cost far more than their fee. The research here is genuinely mixed on ROI for very small projects, but my instinct from watching teams work is that the answer is yes more often than most developers want to admit."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Sixty percent of the indie games I've seen die in development don't die because the idea was bad. They die because the money ran out three months before the game did.
 

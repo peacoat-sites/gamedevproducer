@@ -1,5 +1,5 @@
 ---
-title: "How Game Engine Choice Affects Your Production Plan"
+title: "Picking Your Game Engine: How It Reshapes Production"
 date: 2026-05-25T16:52:27.165707+00:00
 draft: false
 description: "How game engine choice affects your production plan. Learn why selecting the right engine impacts timelines, costs, and team workflow in game development."
@@ -23,7 +23,7 @@ faqs:
    a: "When the platform or performance requirements genuinely can't be met by a commercial engine, or when the studio already has deep institutional knowledge in the proprietary toolchain. The production cost of a proprietary engine is significant: no external hiring, no community support, and no third-party middleware integration without custom work. It's often the right call for first-party console studios or highly specialized genres, but it should be a deliberate decision with eyes open to the overhead."
 author_slug: "marcus-webb"
 author_title: "Technical Editor"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You've just locked in your concept, the team is excited, and someone in the room says "so, are we using Unreal or Unity?" What follows that question will quietly shape every sprint, every milestone, every staffing decision, and every late-night fire drill for the next two to five years. Most producers treat engine selection as a technical decision. It isn't.
 

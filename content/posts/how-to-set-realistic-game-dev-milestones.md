@@ -1,5 +1,5 @@
 ---
-title: "How To Set Realistic Game Dev Milestones"
+title: "Ship Your Game On Time: The Milestone Planning Guide"
 date: 2026-05-31T11:09:17.889188+00:00
 draft: false
 description: "Learn how to set realistic game dev milestones that keep your project on track. Avoid common planning mistakes and ship your game with confidence."
@@ -23,7 +23,7 @@ faqs:
    a: "A few I regularly recommend: the Game Developers Conference (GDC) Vault has years of production talks available for free or cheap, and the project management content there is specifically game-industry-applicable. Coursera and LinkedIn Learning both have project management courses covering agile and scrum fundamentals that translate well to game dev. Ryan Sumo's writing on game production for small teams is also worth seeking out. And if you want something structured, the Scrum.org Professional Scrum Master certification gives you a rigorous foundation in sprint-based planning that you can ada"
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You sat down on a Sunday with a fresh cup of coffee, opened a spreadsheet, and built out what looked like a perfectly reasonable development schedule. Six months to alpha. Three more to beta. Ship by the holidays. It felt good. Organized. Achievable. Then two months in, you're already three weeks behind, your lead programmer just told you the save system is "more complex than expected," and that holiday launch date is starting to feel like a joke you told at your own expense. If that sounds familiar, you're not alone. I've seen this happen to teams with zero experience and teams with fifteen years of it. The problem almost never starts with laziness or incompetence. It starts with how the milestones were set in the first place.
 

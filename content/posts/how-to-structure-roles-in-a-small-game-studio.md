@@ -1,5 +1,5 @@
 ---
-title: "How To Structure Roles In A Small Game Studio"
+title: "Build Your Studio Team Without The Chaos"
 date: 2026-06-24T11:21:17.038493+00:00
 draft: false
 description: "Learn how to structure roles in a small game studio to boost productivity, avoid burnout, and ship better games with a lean, focused team."
@@ -23,7 +23,7 @@ faqs:
    a: "For recurring work (ongoing art support, a QA contractor embedded in your sprint), yes, treat them structurally like a team member. Assign them ownership over their area and include them in dependency tracking. For one-off engagements, no. Treating a one-off contractor as a team member just creates confusion about their scope."
  - q: "When should a small studio start using formal project management software?"
    a: "Earlier than feels necessary. Two people can get away with a shared doc. At four people, you want a real task board. Hacknplan is purpose-built for games and worth the monthly cost. Jira works if you already know it, but it's overkill to learn from scratch at small scale. The important thing is that every task has one owner and one status, and everyone can see it without asking."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most small studios get roles wrong before they write a single line of code. Not because they're disorganized, but because they copy the org chart from a studio twenty times their size and then wonder why nobody knows what they're supposed to be doing.

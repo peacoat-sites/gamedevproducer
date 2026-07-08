@@ -1,5 +1,5 @@
 ---
-title: "How To Plan Milestones For A Publisher Deal"
+title: "Publisher Deal Milestones: A Game Dev Roadmap"
 date: 2026-07-03T11:06:03.365944+00:00
 draft: false
 description: "Learn how to set realistic milestones for your publisher deal. Establish timelines, track progress, and meet contractual obligations with strategic planning."
@@ -12,7 +12,7 @@ author_title: "Design & Narrative Editor"
 author_bio: "Priya Sharma is a game designer with a particular focus on systems that create engaging games, covering everything from core loop design to narrative structure. She has worked on titles across multiple genres and believes that good design is invisible to the player. At GameDevProducer, she covers game design principles, narrative mechanics, player psychology, and the craft of building experiences that keep people playing."
 slug: "how-to-plan-milestones-for-a-publisher-deal"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 I watched a studio sign a publisher deal with milestone language so loose that the producer spent two years arguing about what "vertical slice" actually meant. By the time legal settled it, the game was six months overdue and the relationship was poisoned.
 

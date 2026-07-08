@@ -1,5 +1,5 @@
 ---
-title: "Why Scrum Breaks In Game Pre-Production"
+title: "Why Scrum Fails in Game Pre-Production"
 date: 2026-05-29T15:17:14.397761+00:00
 draft: false
 description: "Discover why Scrum often fails during game pre-production and learn which agile approaches better support the creative, exploratory nature of early game develop"
@@ -23,7 +23,7 @@ faqs:
    a: "Hacknplan is built for game development and handles milestone-based, non-ticket work better than generic tools. Notion is excellent for decision logs and research documentation. Miro or FigJam work well for visual planning sessions where the team maps dependencies between open questions. For broader production management later in the project, Shotgrid (formerly Ftrack) is the industry standard for larger teams tracking asset pipelines. For learning the underlying skills, the Game Design and Production specialization on Coursera covers phase-specific production planning in detail."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your team just wrapped a killer prototype. The creative director is buzzing, stakeholders are nodding, and someone tapes a sprint board to the wall. Two weeks later, half the tickets are stuck in "In Progress," nobody can agree on what "done" means for a concept exploration task, and the lead designer hasn't touched the board in a week because she's busy writing a 30-page GDD that will probably change three more times before alpha. Sound familiar? That's not a discipline problem. That's Scrum colliding with a phase it was never built for.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Create A Game Development Schedule"
+title: "Master Your Game Dev Timeline in 5 Steps"
 date: 2026-06-01T15:35:05.536548+00:00
 draft: false
 description: "Plan your game dev project with confidence. Learn how to create a realistic game development schedule, set milestones, manage tasks, and hit your deadlines."
@@ -23,7 +23,7 @@ faqs:
    a: "Stop trying to fix the estimates. Start tracking actuals and calculate your team's estimation ratio. If estimates are consistently 60% of actuals, apply a 1.7x multiplier to all future estimates automatically. This is called a velocity adjustment and it's much more reliable than trying to get people to estimate better through willpower. Over time, as you build a history of similar tasks, your estimates will naturally improve because they'll be anchored to real data rather than optimism."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most game development schedules are wrong the moment you finish writing them. I don't mean slightly off. I mean the average game ships 40-75% later than its original internal estimate, and that's not a stat from bad studios, it's basically industry standard. I spent a long time thinking this was a discipline problem, a planning problem, or a "we just need better tools" problem. What I eventually figured out is that it's actually a fundamental misunderstanding of what a game development schedule is supposed to do.
 

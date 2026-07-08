@@ -1,5 +1,5 @@
 ---
-title: "Art Debt In Game Production What It Is And How To Manage It"
+title: "Stop Ignoring Art Debt in Game Development"
 date: 2026-05-28T07:48:40.645753+00:00
 draft: false
 description: "Art debt in game production refers to shortcuts and compromises made during development. Learn what it is, its impacts, and proven strategies to manage it effec"

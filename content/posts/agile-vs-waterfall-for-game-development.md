@@ -1,5 +1,5 @@
 ---
-title: "Agile Vs Waterfall For Game Development"
+title: "Which Game Dev Method Wins: Agile or Waterfall?"
 date: 2026-06-10T11:51:02.180809+00:00
 draft: false
 description: "Discover how Agile and Waterfall methodologies compare for game development, and learn which project management approach best suits your team's workflow and goa"
@@ -23,7 +23,7 @@ faqs:
     a: "Treating the sprint backlog like a to-do list and ignoring the retrospective. The retrospective is actually where agile earns its value: it's the team's chance to identify what's slowing them down and change it. I've seen teams run Scrum for six months, never run a real retrospective, and wonder why nothing improved. Run the retro. Be honest in it. That's the part that compounds."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Fourteen years in, and I still watch teams make the same call for the wrong reasons: they pick waterfall because it feels "professional," or they pick agile because they heard a podcast about Scrum and it sounded modern. Neither instinct is a good enough reason. The method you choose shapes everything from your budget burn rate to whether your lead designer is still speaking to your lead programmer by month six.
 

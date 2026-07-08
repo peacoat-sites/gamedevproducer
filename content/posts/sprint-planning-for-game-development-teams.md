@@ -1,5 +1,5 @@
 ---
-title: "Sprint Planning For Game Development Teams"
+title: "Sprint Planning That Actually Ships Games"
 date: 2026-05-27T03:05:08.711296+00:00
 draft: false
 description: "Plan better sprints for your game dev team. Learn proven strategies to scope features, manage crunch, and deliver polished builds on time every sprint."
@@ -23,7 +23,7 @@ faqs:
    a: "Track completed story points per sprint and average over at least 6 sprints before you trust the number for forecasting. Earlier than that, you're averaging noise. Also track carryover points separately. A team that completes 40 points but carries 15 into the next sprint doesn't have 40-point velocity. They have a carryover problem disguised by a velocity number."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three sprints into your new project, the board looks clean, velocity feels steady, and then a senior animator drops a task that reads "character rig polish" estimated at 3 points. Two weeks later it's still open, now flagged at 11 points, and the feature it was blocking has slipped. Nobody lied. Nobody was lazy. The estimate was just wrong in a way nobody caught during planning. That's not an execution problem. That's a sprint planning problem.
 

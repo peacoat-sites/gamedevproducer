@@ -1,5 +1,5 @@
 ---
-title: "Scope Creep Prevention In Game Development"
+title: "Stop Feature Creep Before It Kills Your Game"
 date: 2026-05-21T19:57:14.185998+00:00
 draft: false
 description: "Learn proven strategies to prevent scope creep in game development, keep projects on track, meet deadlines, and deliver polished games without budget overruns."
@@ -23,7 +23,7 @@ faqs:
    a: "When you have concrete evidence that what you have isn't working and the fix is clearly worth the cost. Playtest data that shows a core loop is broken is a legitimate reason to revisit scope. 'I think this would be cooler' is not. The bar should be: does this change the game from not-shippable to shippable, or from shippable to marginally better? Only the first justifies late scope addition. Scope creep is a solvable problem, but only if you treat it as a system issue rather than a discipline issue. Teams don't fail to manage scope because they're lazy or undisciplined. They fail because they"
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You greenlit a feature at 9am standup because a designer said it would "only take a day." Three weeks later, that feature has spawned four sub-features, two art revisions, and a backend change that touched six other systems. Your ship date is now a suggestion. Sound familiar? Scope creep doesn't usually announce itself. It accumulates quietly, one reasonable-sounding request at a time, until the project is unrecognizable from what you originally planned.
 

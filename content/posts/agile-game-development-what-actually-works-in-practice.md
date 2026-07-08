@@ -1,5 +1,5 @@
 ---
-title: "Agile Game Development What Actually Works In Practice"
+title: "Agile Methods That Actually Work for Game Teams"
 date: 2026-05-29T07:07:23.445614+00:00
 draft: false
 description: "Agile game development methodologies explained. Learn proven practices, sprint strategies, and tools that actually work for game development teams in real proje"
@@ -23,7 +23,7 @@ faqs:
    a: "You're hitting milestones. Team morale isn't declining. You're not shipping crunch regularly. You can see what's blocking progress. You can add new features without cascading failures. If those things are true, your process is working. The goal isn't perfect agile. It's shipping better games with sustainable practices. If your process gets you there, it's working. If it doesn't, change it."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're three weeks into sprint planning, and your tech lead just told you that the animation system needs a complete rebuild. Your art director says they can work around it. Your marketing team says you've already committed to a vertical slice demo next month. Your lead producer looks at you like you're supposed to have an answer. This is where agile meets reality in game development, and it's rarely as clean as the textbooks suggest.
 

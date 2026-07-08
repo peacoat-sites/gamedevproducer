@@ -1,5 +1,5 @@
 ---
-title: "Remote Game Development Operational Challenges For Producers"
+title: "Managing Remote Game Dev Teams: Producer Survival Guide"
 date: 2026-05-25T21:26:16.357435+00:00
 draft: false
 description: "Discover the key operational challenges remote game development producers face, from communication gaps to workflow management, and learn strategies to overcome"
@@ -23,7 +23,7 @@ faqs:
    a: "Give them a structured first-two-weeks document, not a wiki link and a wave. This should include: who to meet and when, what tools to get access to (with step-by-step instructions, not just tool names), what the project's current state is in plain language, and a small, meaningful task they can complete and ship in week one. Getting something real done early builds confidence and integration faster than any number of onboarding calls."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You sent the Slack message at 9 AM your time. Your lead animator is in Warsaw, your engine programmer is in Vancouver, and your narrative designer just moved to Cape Town. By the time everyone's theoretically read your update, it's tomorrow. And somehow, the sprint still ends on Friday. If you're producing a remote game development team right now, you already know this feeling. The question is what to actually do about it.
 

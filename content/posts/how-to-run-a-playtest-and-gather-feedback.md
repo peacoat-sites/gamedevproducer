@@ -1,5 +1,5 @@
 ---
-title: "How To Run A Playtest And Gather Feedback"
+title: "The Playtester's Guide: Feedback That Actually Improves Games"
 date: 2026-06-07T10:39:21.931626+00:00
 draft: false
 description: "Learn how to run an effective playtest, collect meaningful feedback from players, and use insights to improve your game design with our step-by-step guide."
@@ -23,7 +23,7 @@ faqs:
     a: "Contradictory feedback usually means you're testing with people who have different expectations, not that the feedback is useless. Segment by player profile first. If two players with identical profiles give opposite reactions, that's genuinely ambiguous and worth investigating further rather than picking a winner."
 author_slug: "priya-sharma"
 author_title: "Contributing Writer"
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most playtest advice teaches you how to run a session. Almost none of it teaches you how to get information you can actually use. Those are different skills, and conflating them is why so many teams walk out of playtests feeling good and walk into crunch six months later discovering the same problems players warned them about in February.
 
