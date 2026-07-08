@@ -1,0 +1,24 @@
+<div class="moat-table" style="overflow-x:auto;margin:1.5rem 0">
+{{- $d := site.Data.gamedev_salaries -}}
+<table style="width:100%;border-collapse:collapse;font-size:.9em;min-width:640px">
+<thead><tr style="background:var(--surface,#f1f5f9)">
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Role</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Junior</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Mid</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Senior</th>
+<th style="padding:9px 12px;border:1px solid var(--border,#e2e8f0);text-align:left">Demand</th>
+</tr></thead>
+<tbody>
+{{- range $role, $v := $d.roles }}
+<tr>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)"><strong>{{ $role }}</strong><br><span style="font-size:.85em;color:var(--muted,#64748b)">{{ $v.notes }}</span></td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.junior }}</td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.mid }}</td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.senior }}</td>
+<td style="padding:9px 12px;border:1px solid var(--border,#e2e8f0)">{{ $v.market_demand }}</td>
+</tr>
+{{- end }}
+</tbody>
+</table>
+<p style="font-size:.8em;color:var(--muted,#64748b);margin:8px 0 0">US ranges (USD) as of {{ $d.as_of }}. Source: {{ $d.source }}. Actual pay varies by studio size, location, and shipped-title experience.</p>
+</div>

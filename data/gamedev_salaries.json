@@ -1,0 +1,48 @@
+{
+  "as_of": "2026",
+  "source": "GDC State of the Industry salary survey ranges and public compensation data (US figures, USD)",
+  "roles": {
+    "Gameplay / Engine Programmer": {
+      "junior": "$70k-$90k",
+      "mid": "$95k-$125k",
+      "senior": "$135k-$180k+",
+      "market_demand": "High",
+      "notes": "Engine and multiplayer specialists command the top of each band"
+    },
+    "Technical Artist": {
+      "junior": "$65k-$85k",
+      "mid": "$90k-$120k",
+      "senior": "$130k-$165k",
+      "market_demand": "High",
+      "notes": "Bridges art and engineering; consistently under-supplied"
+    },
+    "3D / Environment Artist": {
+      "junior": "$55k-$72k",
+      "mid": "$78k-$105k",
+      "senior": "$110k-$145k",
+      "market_demand": "Moderate",
+      "notes": "Portfolio quality matters more than years"
+    },
+    "Game Designer": {
+      "junior": "$58k-$75k",
+      "mid": "$82k-$110k",
+      "senior": "$120k-$160k",
+      "market_demand": "Moderate",
+      "notes": "Systems and economy designers earn above level designers"
+    },
+    "Producer": {
+      "junior": "$62k-$80k",
+      "mid": "$90k-$120k",
+      "senior": "$130k-$175k",
+      "market_demand": "Moderate-High",
+      "notes": "Live-ops and shipped-title experience raise the ceiling"
+    },
+    "QA / QA Lead": {
+      "junior": "$42k-$58k",
+      "mid": "$60k-$82k",
+      "senior": "$90k-$120k (lead)",
+      "market_demand": "Moderate",
+      "notes": "Automation QA pays well above manual QA"
+    }
+  }
+}
