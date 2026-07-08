@@ -3,7 +3,7 @@ title: "Why Scrum Breaks In Game Pre-Production"
 date: 2026-05-29T15:17:14.397761+00:00
 draft: false
 description: "Discover why Scrum often fails during game pre-production and learn which agile approaches better support the creative, exploratory nature of early game develop"
-image: "https://images.pexels.com/photos/7437491/pexels-photo-7437491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7437491.jpg"
 categories: ["pm frameworks"]
 tags: ["scrum", "breaks", "game", "pre-production"]
 author: "Ryan Cole"

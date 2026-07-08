@@ -3,7 +3,7 @@ title: "Imposter Syndrome As A Game Producer"
 date: 2026-05-23T05:06:59.667313+00:00
 draft: false
 description: "Struggling with imposter syndrome as a game producer? Discover practical strategies to overcome self-doubt, build confidence, and thrive in your creative leader"
-image: "https://images.pexels.com/photos/7862673/pexels-photo-7862673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7862673.jpg"
 categories: ["team psychology"]
 tags: ["imposter", "syndrome", "game", "producer"]
 author: "Tyler Brooks"

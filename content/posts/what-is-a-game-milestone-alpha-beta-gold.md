@@ -3,7 +3,7 @@ title: "What Is A Game Milestone Alpha Beta Gold"
 date: 2026-05-22T10:02:50.859818+00:00
 draft: false
 description: "A game milestone explained: discover what alpha, beta, and gold mean in game development, how each stage differs, and why they matter before a game launches."
-image: "https://images.pexels.com/photos/30965502/pexels-photo-30965502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30965502.jpg"
 categories: ["industry intel"]
 tags: ["what", "game", "milestone", "alpha", "beta"]
 author: "Samantha Roberts"

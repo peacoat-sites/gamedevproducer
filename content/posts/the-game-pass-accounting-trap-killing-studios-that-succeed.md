@@ -3,7 +3,7 @@ title: "The Game Pass Accounting Trap Killing Studios That Succeed"
 date: 2026-06-20T10:46:19.638644+00:00
 draft: false
 description: "When a game succeeds on Game Pass, studios can still lose money. Discover the hidden accounting flaws turning developer wins into financial disasters."
-image: "https://images.pexels.com/photos/9034248/pexels-photo-9034248.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9034248.jpg"
 categories: ["trending"]
 tags: ["game", "pass", "accounting", "trap", "killing"]
 author: "Marcus Webb"

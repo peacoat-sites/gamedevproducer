@@ -3,7 +3,7 @@ title: "Skills Every Game Producer Needs Explained"
 date: 2026-06-05T12:23:35.136287+00:00
 draft: false
 description: "Learn the essential skills every game producer needs to succeed, from project management and budgeting to team leadership and communication in the gaming indust"
-image: "https://images.pexels.com/photos/9072280/pexels-photo-9072280.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9072280.jpg"
 categories: ["careers"]
 tags: ["skills", "every", "game", "producer", "needs"]
 author: "Tyler Brooks"

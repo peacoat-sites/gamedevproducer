@@ -3,7 +3,7 @@ title: "GDC State Of The Industry What It Means For Producers"
 date: 2026-05-27T19:58:40.601042+00:00
 draft: false
 description: "Insights from GDC's State of the Industry report examined through a producer's lens, covering key trends, challenges, and opportunities shaping game development"
-image: "https://images.pexels.com/photos/29708260/pexels-photo-29708260.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29708260.jpg"
 categories: ["industry intel"]
 tags: ["state", "industry", "what", "means", "producers"]
 author: "Samantha Roberts"

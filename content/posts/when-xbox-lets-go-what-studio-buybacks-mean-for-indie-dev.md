@@ -3,7 +3,7 @@ title: "When Xbox Lets Go: What Studio Buybacks Mean for Indie Dev"
 date: 2026-07-05T10:34:37.261568+00:00
 draft: false
 description: "Explore what happens when Xbox releases a studio and why buybacks could reshape indie game development, creative freedom, and the future of smaller dev teams."
-image: "https://images.pexels.com/photos/16192451/pexels-photo-16192451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16192451.jpg"
 categories: ["trending"]
 tags: ["when", "xbox", "lets", "what", "studio"]
 author: "Marcus Webb"

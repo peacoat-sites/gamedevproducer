@@ -3,7 +3,7 @@ title: "Interview Questions For Game Producer Roles"
 date: 2026-07-06T12:18:52.040127+00:00
 draft: false
 description: "Ace your next game producer interview with essential questions covering production pipelines, team leadership, budgeting, and game development workflows."
-image: "https://images.pexels.com/photos/9071736/pexels-photo-9071736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9071736.jpg"
 categories: ["careers"]
 tags: ["interview", "questions", "game", "producer", "roles"]
 author: "Priya Sharma"

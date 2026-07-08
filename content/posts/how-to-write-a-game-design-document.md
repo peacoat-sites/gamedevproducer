@@ -3,7 +3,7 @@ title: "How To Write A Game Design Document"
 date: 2026-06-04T12:23:59.741108+00:00
 draft: false
 description: "Learn how to write a game design document with our step-by-step guide. Cover key sections, structure your ideas, and keep your team aligned throughout developme"
-image: "https://images.pexels.com/photos/9572697/pexels-photo-9572697.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9572697.jpg"
 categories: ["production"]
 tags: ["write", "game", "design", "document"]
 author: "Ryan Cole"

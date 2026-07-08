@@ -3,7 +3,7 @@ title: "Game Dev Unions Are Moving From Sentiment to Strike Action"
 date: 2026-07-04T10:30:00.240738+00:00
 draft: false
 description: "Explore how game dev unions are evolving beyond advocacy, with workers increasingly turning to strike action to demand fair pay, better conditions, and job secu"
-image: "https://images.pexels.com/photos/4570677/pexels-photo-4570677.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4570677.jpg"
 categories: ["trending"]
 tags: ["game", "unions", "moving", "from", "sentiment"]
 author: "Tyler Brooks"

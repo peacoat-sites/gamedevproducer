@@ -3,7 +3,7 @@ title: "How To Build A Steam Page That Converts"
 date: 2026-06-02T12:54:05.390929+00:00
 draft: false
 description: "Learn how to build a Steam page that converts browsers into buyers with tips on capsule art, descriptions, trailers, and screenshots that boost wishlists and sa"
-image: "https://images.pexels.com/photos/16027821/pexels-photo-16027821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16027821.jpg"
 categories: ["publishing"]
 tags: ["build", "steam", "page", "that", "converts"]
 author: "Samantha Roberts"

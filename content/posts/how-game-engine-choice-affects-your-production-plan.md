@@ -3,7 +3,7 @@ title: "How Game Engine Choice Affects Your Production Plan"
 date: 2026-05-25T16:52:27.165707+00:00
 draft: false
 description: "How game engine choice affects your production plan. Learn why selecting the right engine impacts timelines, costs, and team workflow in game development."
-image: "https://images.pexels.com/photos/34803998/pexels-photo-34803998.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34803998.jpg"
 categories: ["industry intel"]
 tags: ["game", "engine", "choice", "affects", "your"]
 author: "Marcus Webb"

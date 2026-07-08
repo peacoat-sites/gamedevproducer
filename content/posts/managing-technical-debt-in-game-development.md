@@ -3,7 +3,7 @@ title: "Managing Technical Debt In Game Development"
 date: 2026-06-27T10:30:50.086331+00:00
 draft: false
 description: "Learn how to identify, prioritize, and reduce technical debt in game development to ship faster, improve code quality, and keep your team productive."
-image: "https://images.pexels.com/photos/6424585/pexels-photo-6424585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6424585.jpg"
 categories: ["project management"]
 tags: ["managing", "technical", "debt", "game", "development"]
 author: "Priya Sharma"

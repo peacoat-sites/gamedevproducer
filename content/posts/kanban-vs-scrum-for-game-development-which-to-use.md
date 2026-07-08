@@ -3,7 +3,7 @@ title: "Kanban Vs Scrum For Game Development Which To Use"
 date: 2026-05-23T07:33:30.020874+00:00
 draft: false
 description: "Discover the key differences between Kanban and Scrum for game development. Learn which agile framework best suits your team's workflow, project size, and goals"
-image: "https://images.pexels.com/photos/5393593/pexels-photo-5393593.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5393593.jpg"
 categories: ["pm frameworks"]
 tags: ["kanban", "scrum", "game", "development", "which"]
 author: "Ryan Cole"

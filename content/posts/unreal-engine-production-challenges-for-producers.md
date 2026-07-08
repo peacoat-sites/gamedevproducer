@@ -3,7 +3,7 @@ title: "Unreal Engine Production Challenges For Producers"
 date: 2026-05-27T19:13:44.449831+00:00
 draft: false
 description: "Learn how producers can navigate Unreal Engine production challenges, from managing real-time workflows and budgets to coordinating teams and delivering project"
-image: "https://images.pexels.com/photos/34803994/pexels-photo-34803994.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34803994.jpg"
 categories: ["industry intel"]
 tags: ["unreal", "engine", "production", "challenges", "producers"]
 author: "Priya Sharma"

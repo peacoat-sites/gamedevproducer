@@ -3,7 +3,7 @@ title: "Godot's AI Slop Crisis and What It Means for Open-Source Dev"
 date: 2026-06-25T11:11:14.578548+00:00
 draft: false
 description: "Godot's AI slop crisis reveals a growing threat to open-source projects. Learn how low-quality AI content impacts community trust, documentation, and contributo"
-image: "https://images.pexels.com/photos/4976710/pexels-photo-4976710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4976710.jpg"
 categories: ["trending"]
 tags: ["godot's", "slop", "crisis", "what", "means"]
 author: "Tyler Brooks"

@@ -3,7 +3,7 @@ title: "Portfolio Tips For Aspiring Game Producers"
 date: 2026-06-19T12:30:47.831841+00:00
 draft: false
 description: "Build a standout game producer portfolio with expert tips on showcasing projects, skills, and leadership to land your dream role in the industry."
-image: "https://images.pexels.com/photos/33357096/pexels-photo-33357096.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33357096.jpg"
 categories: ["careers"]
 tags: ["portfolio", "tips", "aspiring", "game", "producers"]
 author: "Ryan Cole"

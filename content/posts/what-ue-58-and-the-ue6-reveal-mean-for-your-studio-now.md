@@ -3,7 +3,7 @@ title: "What UE 5.8 and the UE6 Reveal Mean for Your Studio Now"
 date: 2026-06-19T12:28:49.026928+00:00
 draft: false
 description: "Discover what Unreal Engine 5.8 and the UE6 reveal mean for your studio today. Plan smarter with insights on new features, timelines, and production impact."
-image: "https://images.pexels.com/photos/6803533/pexels-photo-6803533.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6803533.jpg"
 categories: ["trending"]
 tags: ["what", "reveal", "mean", "your", "studio"]
 author: "Tyler Brooks"

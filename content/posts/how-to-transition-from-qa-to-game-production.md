@@ -3,7 +3,7 @@ title: "How To Transition From QA To Game Production"
 date: 2026-06-22T13:48:21.604450+00:00
 draft: false
 description: "Learn how to leverage your QA skills to break into game production with practical steps, key tools, and career advice from industry insiders."
-image: "https://images.pexels.com/photos/30469969/pexels-photo-30469969.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30469969.jpg"
 categories: ["careers"]
 tags: ["transition", "from", "game", "production"]
 author: "Ryan Cole"

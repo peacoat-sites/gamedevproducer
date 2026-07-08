@@ -3,7 +3,7 @@ title: "How To Publish An Indie Game On Steam"
 date: 2026-06-09T11:34:45.922853+00:00
 draft: false
 description: "Learn how to publish your indie game on Steam with our step-by-step guide covering Steamworks, store page setup, pricing, and launch strategies for indie develo"
-image: "https://images.pexels.com/photos/159393/gamepad-video-game-controller-game-controller-controller-159393.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/159393.jpg"
 categories: ["publishing"]
 tags: ["publish", "indie", "game", "steam"]
 author: "Samantha Roberts"

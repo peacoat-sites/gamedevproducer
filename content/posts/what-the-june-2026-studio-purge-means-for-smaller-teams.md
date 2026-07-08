@@ -3,7 +3,7 @@ title: "What the June 2026 Studio Purge Means for Smaller Teams"
 date: 2026-06-28T10:38:28.919742+00:00
 draft: false
 description: "Discover how the June 2026 studio purge impacts smaller game development teams, what it means for hiring, budgets, and how indie studios can adapt and survive."
-image: "https://images.pexels.com/photos/34724554/pexels-photo-34724554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34724554.jpg"
 categories: ["trending"]
 tags: ["what", "june", "2026", "studio", "purge"]
 author: "Tyler Brooks"

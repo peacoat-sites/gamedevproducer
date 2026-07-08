@@ -3,7 +3,7 @@ title: "What Xbox's Reset Memo Means for Indie Developers"
 date: 2026-06-15T14:41:21.351204+00:00
 draft: false
 description: "Xbox's internal reset memo signals major shifts for indie developers. Discover what these changes mean for game discovery, funding opportunities, and the future"
-image: "https://images.pexels.com/photos/28978363/pexels-photo-28978363.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/28978363.jpg"
 categories: ["trending"]
 tags: ["what", "xbox's", "reset", "memo", "means"]
 author: "Tyler Brooks"

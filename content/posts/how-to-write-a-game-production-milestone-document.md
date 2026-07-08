@@ -3,7 +3,7 @@ title: "How To Write A Game Production Milestone Document"
 date: 2026-05-22T02:14:04.189083+00:00
 draft: false
 description: "Learn how to write a game production milestone document with clear goals, deliverables, and timelines to keep your development team on track and on budget."
-image: "https://images.pexels.com/photos/7580999/pexels-photo-7580999.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7580999.jpg"
 categories: ["pm frameworks"]
 tags: ["write", "game", "production", "milestone", "document"]
 author: "Ryan Cole"

@@ -3,7 +3,7 @@ title: "How To Manage Version Control For A Game Team"
 date: 2026-06-20T10:44:06.740987+00:00
 draft: false
 description: "Learn how game teams can manage version control effectively with branching strategies, merge workflows, and tools built for large binary assets."
-image: "https://images.pexels.com/photos/7988742/pexels-photo-7988742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7988742.jpg"
 categories: ["production"]
 tags: ["manage", "version", "control", "game", "team"]
 author: "Samantha Roberts"

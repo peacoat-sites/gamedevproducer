@@ -1,6 +1,6 @@
 ---
 title: "Game Developer Salary Guide: What Do Game Devs Actually Earn?"
-image: "https://images.pexels.com/photos/5909791/pexels-photo-5909791.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5909791.jpg"
 slug: "game-developer-salary"
 date: 2026-06-10
 categories: ["Game Industry"]

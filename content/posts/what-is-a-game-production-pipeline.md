@@ -3,7 +3,7 @@ title: "What Is A Game Production Pipeline"
 date: 2026-06-10T11:53:12.726680+00:00
 draft: false
 description: "Discover what a game production pipeline is, how it works, and why it's essential for delivering polished games on time and within budget."
-image: "https://images.pexels.com/photos/4832263/pexels-photo-4832263.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4832263.jpg"
 categories: ["production"]
 tags: ["what", "game", "production", "pipeline"]
 author: "Ryan Cole"

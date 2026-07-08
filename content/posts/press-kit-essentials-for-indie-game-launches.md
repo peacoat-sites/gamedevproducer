@@ -3,7 +3,7 @@ title: "Press Kit Essentials For Indie Game Launches"
 date: 2026-06-25T11:13:16.804601+00:00
 draft: false
 description: "Learn what every indie game press kit needs, from screenshots and trailers to bios and logos, to help journalists cover your launch effectively."
-image: "https://images.pexels.com/photos/6804605/pexels-photo-6804605.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6804605.jpg"
 categories: ["publishing"]
 tags: ["press", "essentials", "indie", "game", "launches"]
 author: "Ryan Cole"

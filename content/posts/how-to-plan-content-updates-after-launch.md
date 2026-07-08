@@ -3,7 +3,7 @@ title: "How To Plan Content Updates After Launch"
 date: 2026-06-28T10:40:58.286264+00:00
 draft: false
 description: "Learn how to plan content updates after launch with a clear schedule, audit process, and strategy to keep your site fresh and ranking well."
-image: "https://images.pexels.com/photos/19915772/pexels-photo-19915772.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19915772.jpg"
 categories: ["planning"]
 tags: ["plan", "content", "updates", "after", "launch"]
 author: "Ryan Cole"

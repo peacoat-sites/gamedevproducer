@@ -3,7 +3,7 @@ title: "Game Development Milestones Explained"
 date: 2026-06-13T10:44:55.018369+00:00
 draft: false
 description: "Discover the key game development milestones every developer should know, from concept and prototype to alpha, beta, and final release stages explained clearly."
-image: "https://images.pexels.com/photos/19813736/pexels-photo-19813736.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19813736.jpg"
 categories: ["milestones"]
 tags: ["game", "development", "milestones", "explained"]
 author: "Ryan Cole"

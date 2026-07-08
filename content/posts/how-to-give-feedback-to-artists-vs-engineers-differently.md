@@ -3,7 +3,7 @@ title: "How To Give Feedback To Artists Vs Engineers Differently"
 date: 2026-05-26T02:56:40.422288+00:00
 draft: false
 description: "Learn how to tailor feedback for artists and engineers effectively. Discover key communication differences to inspire creativity and drive technical precision i"
-image: "https://images.pexels.com/photos/5657673/pexels-photo-5657673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5657673.jpg"
 categories: ["team psychology"]
 tags: ["give", "feedback", "artists", "engineers", "differently"]
 author: "Tyler Brooks"

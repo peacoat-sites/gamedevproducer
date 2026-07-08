@@ -3,7 +3,7 @@ title: "Perforce Vs Git For Game Version Control"
 date: 2026-07-02T11:04:07.142638+00:00
 draft: false
 description: "Compare Perforce vs Git for game version control. Learn which system handles large assets, branching, and team workflows best for your game studio."
-image: "https://images.pexels.com/photos/6804581/pexels-photo-6804581.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6804581.jpg"
 categories: ["tools"]
 tags: ["perforce", "game", "version", "control"]
 author: "Samantha Roberts"

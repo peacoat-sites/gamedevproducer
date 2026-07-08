@@ -3,7 +3,7 @@ title: "How To Pitch A Game To A Publisher"
 date: 2026-06-08T12:46:51.779389+00:00
 draft: false
 description: "Learn how to pitch a game to a publisher with expert tips on crafting a compelling proposal, preparing a demo, and securing the deal for your dream project."
-image: "https://images.pexels.com/photos/9034249/pexels-photo-9034249.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9034249.jpg"
 categories: ["publishing"]
 tags: ["pitch", "game", "publisher"]
 author: "Samantha Roberts"

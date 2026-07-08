@@ -3,7 +3,7 @@ title: "QA Testing Workflow For Indie Games Explained"
 date: 2026-06-26T11:19:10.900703+00:00
 draft: false
 description: "Learn how indie game developers can build an effective QA testing workflow to catch bugs, improve gameplay, and ship polished games on time."
-image: "https://images.pexels.com/photos/6803522/pexels-photo-6803522.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6803522.jpg"
 categories: ["production"]
 tags: ["testing", "workflow", "indie", "games", "explained"]
 author: "Samantha Roberts"

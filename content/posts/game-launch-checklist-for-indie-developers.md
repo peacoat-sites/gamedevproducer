@@ -3,7 +3,7 @@ title: "Game Launch Checklist For Indie Developers"
 date: 2026-05-30T10:55:01.025563+00:00
 draft: false
 description: "Plan the perfect game launch with our indie developer checklist. Cover marketing, store pages, press kits, and post-launch support to maximize your game's succe"
-image: "https://images.pexels.com/photos/6557550/pexels-photo-6557550.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6557550.jpg"
 categories: ["publishing"]
 tags: ["game", "launch", "checklist", "indie", "developers"]
 author: "Samantha Roberts"

@@ -3,7 +3,7 @@ title: "The Evidence Paradox Killing Indie Funding Pitches in 2026"
 date: 2026-06-22T13:46:42.010387+00:00
 draft: false
 description: "Discover why indie founders are losing funding pitches in 2026 by misreading what investors actually want as evidence and how to fix your approach fast."
-image: "https://images.pexels.com/photos/29253465/pexels-photo-29253465.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29253465.jpg"
 categories: ["trending"]
 tags: ["evidence", "paradox", "killing", "indie", "funding"]
 author: "Tyler Brooks"

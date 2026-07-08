@@ -3,7 +3,7 @@ title: "Contract Basics For Indie Game Developers"
 date: 2026-07-03T11:04:34.409155+00:00
 draft: false
 description: "Essential contract knowledge for indie game developers. Learn about NDAs, publishing agreements, IP rights, and key terms to protect your game project legally."
-image: "https://images.pexels.com/photos/7841836/pexels-photo-7841836.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7841836.jpg"
 categories: ["strategy"]
 tags: ["contract", "basics", "indie", "game", "developers"]
 author: "Jordan Lee"

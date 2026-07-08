@@ -3,7 +3,7 @@ title: "Passion Culture In Games Is A Production Risk"
 date: 2026-05-28T09:58:34.382035+00:00
 draft: false
 description: "Passion culture in games can become a significant production risk. Learn how unrealistic expectations and overwork threaten project timelines and team wellbeing"
-image: "https://images.pexels.com/photos/7915303/pexels-photo-7915303.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7915303.jpg"
 categories: ["team psychology"]
 tags: ["passion", "culture", "games", "production", "risk"]
 author: "Tyler Brooks"

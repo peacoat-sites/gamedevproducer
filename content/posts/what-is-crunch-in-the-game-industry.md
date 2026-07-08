@@ -3,7 +3,7 @@ title: "What Is Crunch In The Game Industry"
 date: 2026-06-02T12:56:29.944638+00:00
 draft: false
 description: "Learn what crunch means in the game industry, why it happens, how it affects developers, and what studios are doing to address this widespread workplace issue."
-image: "https://images.pexels.com/photos/6963942/pexels-photo-6963942.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6963942.jpg"
 categories: ["team management"]
 tags: ["what", "crunch", "game", "industry"]
 author: "Tyler Brooks"

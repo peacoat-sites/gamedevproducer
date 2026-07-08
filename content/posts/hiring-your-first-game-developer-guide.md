@@ -3,7 +3,7 @@ title: "Hiring Your First Game Developer Guide"
 date: 2026-06-11T12:26:14.180801+00:00
 draft: false
 description: "Learn how to hire your first game developer with confidence. Discover key skills to look for, interview tips, and budgeting advice to build your dream game team"
-image: "https://images.pexels.com/photos/36706460/pexels-photo-36706460.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36706460.jpg"
 categories: ["team management"]
 tags: ["hiring", "your", "first", "game", "developer"]
 author: "Tyler Brooks"

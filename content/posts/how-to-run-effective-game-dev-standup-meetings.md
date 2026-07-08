@@ -3,7 +3,7 @@ title: "How To Run Effective Game Dev Standup Meetings"
 date: 2026-06-27T10:28:51.271959+00:00
 draft: false
 description: "Learn how to run effective game dev standup meetings that keep your team aligned, boost productivity, and ship games faster with proven daily sync strategies."
-image: "https://images.pexels.com/photos/33879960/pexels-photo-33879960.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33879960.jpg"
 categories: ["project management"]
 tags: ["effective", "game", "standup", "meetings"]
 author: "Jordan Lee"

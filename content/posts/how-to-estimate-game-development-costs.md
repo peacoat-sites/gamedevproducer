@@ -3,7 +3,7 @@ title: "How To Estimate Game Development Costs"
 date: 2026-05-30T10:57:12.583154+00:00
 draft: false
 description: "Learn how to estimate game development costs with expert tips on budgeting for design, programming, art, and marketing to keep your project on track and within "
-image: "https://images.pexels.com/photos/9260568/pexels-photo-9260568.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9260568.jpg"
 categories: ["budgeting"]
 tags: ["estimate", "game", "development", "costs"]
 author: "Jordan Lee"

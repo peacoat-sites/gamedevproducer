@@ -3,7 +3,7 @@ title: "Remote Game Development Team Best Practices"
 date: 2026-06-03T14:07:39.349173+00:00
 draft: false
 description: "Learn how to build and manage a remote game development team with proven best practices covering communication, tools, workflows, and collaboration strategies."
-image: "https://images.pexels.com/photos/6804580/pexels-photo-6804580.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6804580.jpg"
 categories: ["team management"]
 tags: ["remote", "game", "development", "team", "best"]
 author: "Tyler Brooks"

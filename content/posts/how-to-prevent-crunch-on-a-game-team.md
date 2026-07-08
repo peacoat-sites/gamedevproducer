@@ -3,7 +3,7 @@ title: "How To Prevent Crunch On A Game Team"
 date: 2026-06-12T11:56:21.499452+00:00
 draft: false
 description: "Learn practical strategies to prevent crunch on your game team, protect developer wellbeing, improve productivity, and deliver quality games without unsustainab"
-image: "https://images.pexels.com/photos/6804071/pexels-photo-6804071.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6804071.jpg"
 categories: ["team management"]
 tags: ["prevent", "crunch", "game", "team"]
 author: "Tyler Brooks"

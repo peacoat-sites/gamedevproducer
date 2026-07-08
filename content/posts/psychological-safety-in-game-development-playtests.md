@@ -3,7 +3,7 @@ title: "Psychological Safety In Game Development Playtests"
 date: 2026-05-28T17:30:21.603085+00:00
 draft: false
 description: "Explore how psychological safety transforms game development playtests, enabling honest feedback, reducing player anxiety, and improving game quality through tr"
-image: "https://images.pexels.com/photos/31916803/pexels-photo-31916803.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31916803.jpg"
 categories: ["team psychology"]
 tags: ["psychological", "safety", "game", "development", "playtests"]
 author: "Tyler Brooks"

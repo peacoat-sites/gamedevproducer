@@ -3,7 +3,7 @@ title: "Game Producer Interview Questions And Answers"
 date: 2026-05-28T03:07:31.534313+00:00
 draft: false
 description: "Learn the top game producer interview questions and answers to help you prepare, impress hiring managers, and land your dream role in the gaming industry."
-image: "https://images.pexels.com/photos/36733328/pexels-photo-36733328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36733328.jpg"
 categories: ["role identity"]
 tags: ["game", "producer", "interview", "questions", "answers"]
 author: "Priya Sharma"

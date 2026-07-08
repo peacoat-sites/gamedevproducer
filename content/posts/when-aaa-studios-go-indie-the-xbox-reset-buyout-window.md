@@ -3,7 +3,7 @@ title: "When AAA Studios Go Indie: The Xbox Reset Buyout Window"
 date: 2026-06-23T11:36:36.088889+00:00
 draft: false
 description: "Explore how the Xbox studio shakeup is creating a rare window for indie buyouts, as AAA talent goes independent and reshapes the gaming landscape forever."
-image: "https://images.pexels.com/photos/9068901/pexels-photo-9068901.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9068901.jpg"
 categories: ["trending"]
 tags: ["when", "studios", "indie:", "xbox", "reset"]
 author: "Marcus Webb"

@@ -3,7 +3,7 @@ title: "Wishlist Strategy For Indie Game Launches"
 date: 2026-06-18T12:00:37.315448+00:00
 draft: false
 description: "Boost your indie game launch with a proven wishlist strategy. Learn how to drive Steam wishlists, build hype, and convert fans into buyers."
-image: "https://images.pexels.com/photos/19055620/pexels-photo-19055620.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/19055620.jpg"
 categories: ["publishing"]
 tags: ["wishlist", "strategy", "indie", "game", "launches"]
 author: "Jordan Lee"

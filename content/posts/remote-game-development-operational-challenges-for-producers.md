@@ -3,7 +3,7 @@ title: "Remote Game Development Operational Challenges For Producers"
 date: 2026-05-25T21:26:16.357435+00:00
 draft: false
 description: "Discover the key operational challenges remote game development producers face, from communication gaps to workflow management, and learn strategies to overcome"
-image: "https://images.pexels.com/photos/7988747/pexels-photo-7988747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7988747.jpg"
 categories: ["industry intel"]
 tags: ["remote", "game", "development", "operational", "challenges"]
 author: "Samantha Roberts"

@@ -3,7 +3,7 @@ title: "What Is A Content Complete Milestone In Games"
 date: 2026-07-07T11:24:34.226660+00:00
 draft: false
 description: "Learn what a content complete milestone means in game development, why it matters, and how it shapes the final stages before a game ships."
-image: "https://images.pexels.com/photos/9071711/pexels-photo-9071711.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9071711.jpg"
 categories: ["milestones"]
 tags: ["what", "content", "complete", "milestone", "games"]
 author: "Ryan Cole"

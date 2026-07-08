@@ -3,7 +3,7 @@ title: "How To Plan A Game Studio Business Model"
 date: 2026-06-23T11:34:16.496399+00:00
 draft: false
 description: "Learn how to plan a game studio business model with revenue streams, funding strategies, team structure, and monetization tips for indie developers."
-image: "https://images.pexels.com/photos/7915395/pexels-photo-7915395.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7915395.jpg"
 categories: ["strategy"]
 tags: ["plan", "game", "studio", "business", "model"]
 author: "Samantha Roberts"

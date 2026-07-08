@@ -3,7 +3,7 @@ title: "How To Set Up Jira For A Game Development Team"
 date: 2026-06-21T11:27:12.518137+00:00
 draft: false
 description: "Learn how to configure Jira for game development workflows, from sprint planning and bug tracking to asset management and milestone delivery."
-image: "https://images.pexels.com/photos/5569379/pexels-photo-5569379.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5569379.jpg"
 categories: ["tools"]
 tags: ["jira", "game", "development", "team"]
 author: "Jordan Lee"

@@ -3,7 +3,7 @@ title: "Game Producer Vs Film Producer Key Differences"
 date: 2026-05-26T02:16:16.016541+00:00
 draft: false
 description: "Game Producer vs Film Producer: Explore the key differences in production timelines, team structures, budgets, and creative processes between these two roles."
-image: "https://images.pexels.com/photos/66134/pexels-photo-66134.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/66134.jpg"
 categories: ["role identity"]
 tags: ["game", "producer", "film", "producer", "differences"]
 author: "Jordan Lee"

@@ -3,7 +3,7 @@ title: "Onboarding New Developers To A Game Studio"
 date: 2026-06-21T11:29:21.274502+00:00
 draft: false
 description: "Learn how to onboard new developers at your game studio with proven strategies for faster ramp-up, team integration, and productive first weeks."
-image: "https://images.pexels.com/photos/4623334/pexels-photo-4623334.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4623334.jpg"
 categories: ["team management"]
 tags: ["onboarding", "developers", "game", "studio"]
 author: "Priya Sharma"

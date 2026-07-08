@@ -3,7 +3,7 @@ title: "Telltale's Return Asks If Studios Can Unlearn Bad Production Habits"
 date: 2026-06-14T18:32:33.980554+00:00
 draft: false
 description: "Telltale is back, but can it shed the crunch culture and mismanagement that doomed it before? We explore whether the revived studio has truly changed its ways."
-image: "https://images.pexels.com/photos/219377/pexels-photo-219377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/219377.jpg"
 categories: ["industry"]
 tags: ["telltale", "return", "asks", "studios", "unlearn"]
 author: "Ryan Cole"

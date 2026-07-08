@@ -3,7 +3,7 @@ title: "Forced Back to Indie: What Xbox Spin-Offs Mean for Re-Independence"
 date: 2026-07-07T11:22:03.792264+00:00
 draft: false
 description: "Explore what Xbox spin-offs mean for studios regaining independence, the challenges of going indie again, and how these developers plan to survive and thrive on"
-image: "https://images.pexels.com/photos/159369/xbox-xbox-one-microsoft-joystick-159369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/159369.jpg"
 categories: ["trending"]
 tags: ["forced", "back", "indie:", "what", "xbox"]
 author: "Tyler Brooks"

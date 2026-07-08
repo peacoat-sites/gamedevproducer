@@ -1,6 +1,6 @@
 ---
 title: "Which Game Engine Is Right for You? Take the Quiz"
-image: "https://images.pexels.com/photos/2225616/pexels-photo-2225616.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/2225616.jpg"
 slug: "which-game-engine-quiz"
 date: 2026-06-10
 categories: ["Game Engines"]

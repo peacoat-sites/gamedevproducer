@@ -3,7 +3,7 @@ title: "What Does A Game Producer Actually Do"
 date: 2026-05-29T00:38:31.708410+00:00
 draft: false
 description: "Learn what a game producer actually does, from managing budgets and timelines to leading teams and keeping game development on track from concept to launch."
-image: "https://images.pexels.com/photos/8132453/pexels-photo-8132453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8132453.jpg"
 categories: ["role identity"]
 tags: ["what", "does", "game", "producer", "actually"]
 author: "Tyler Brooks"

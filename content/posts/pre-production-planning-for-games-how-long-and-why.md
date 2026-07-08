@@ -3,7 +3,7 @@ title: "Pre-Production Planning For Games How Long And Why"
 date: 2026-05-22T02:30:23.037856+00:00
 draft: false
 description: "Plan your game's pre-production phase the right way. Discover how long pre-production planning takes, what's involved, and why skipping it can derail your entir"
-image: "https://images.pexels.com/photos/4792491/pexels-photo-4792491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4792491.jpg"
 categories: ["pm frameworks"]
 tags: ["pre-production", "planning", "games", "long"]
 author: "Ryan Cole"

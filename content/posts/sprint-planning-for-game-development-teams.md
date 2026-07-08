@@ -3,7 +3,7 @@ title: "Sprint Planning For Game Development Teams"
 date: 2026-05-27T03:05:08.711296+00:00
 draft: false
 description: "Plan better sprints for your game dev team. Learn proven strategies to scope features, manage crunch, and deliver polished builds on time every sprint."
-image: "https://images.pexels.com/photos/1181343/pexels-photo-1181343.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/1181343.jpg"
 categories: ["pm frameworks"]
 tags: ["sprint", "planning", "game", "development", "teams"]
 author: "Ryan Cole"

@@ -3,7 +3,7 @@ title: "Game Producer Portfolio What To Show Hiring Managers"
 date: 2026-05-28T12:14:01.420470+00:00
 draft: false
 description: "Learn what hiring managers really want in a game producer portfolio. Discover the key projects, skills, and deliverables to showcase and land your next role."
-image: "https://images.pexels.com/photos/15686450/pexels-photo-15686450.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15686450.jpg"
 categories: ["role identity"]
 tags: ["game", "producer", "portfolio", "what", "show"]
 author: "Tyler Brooks"

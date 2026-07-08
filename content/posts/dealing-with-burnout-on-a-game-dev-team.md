@@ -3,7 +3,7 @@ title: "Dealing With Burnout On A Game Dev Team"
 date: 2026-06-03T14:10:15.967709+00:00
 draft: false
 description: "Struggling with burnout on your game dev team? Discover practical strategies to recognize warning signs, support your crew, and keep creativity and productivity"
-image: "https://images.pexels.com/photos/34804011/pexels-photo-34804011.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/34804011.jpg"
 categories: ["team management"]
 tags: ["dealing", "with", "burnout", "game", "team"]
 author: "Tyler Brooks"

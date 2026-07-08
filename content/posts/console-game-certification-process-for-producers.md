@@ -3,7 +3,7 @@ title: "Console Game Certification Process For Producers"
 date: 2026-05-24T09:15:10.803142+00:00
 draft: false
 description: "Learn how the console game certification process works for producers, covering submission requirements, technical checks, and approval steps for major platforms"
-image: "https://images.pexels.com/photos/4523032/pexels-photo-4523032.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4523032.jpg"
 categories: ["industry intel"]
 tags: ["console", "game", "certification", "process", "producers"]
 author: "Samantha Roberts"

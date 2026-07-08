@@ -3,7 +3,7 @@ title: "Setting Up Analytics For An Indie Game"
 date: 2026-06-17T12:33:14.832504+00:00
 draft: false
 description: "Learn how to set up analytics for your indie game to track player behavior, improve retention, and make smarter design decisions from day one."
-image: "https://images.pexels.com/photos/15393003/pexels-photo-15393003.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15393003.jpg"
 categories: ["metrics"]
 tags: ["setting", "analytics", "indie", "game"]
 author: "Jordan Lee"

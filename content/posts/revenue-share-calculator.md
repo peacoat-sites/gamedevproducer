@@ -1,6 +1,6 @@
 ---
 title: "Game Revenue Share Calculator: Split Revenue the Right Way"
-image: "https://images.pexels.com/photos/5942520/pexels-photo-5942520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5942520.jpg"
 slug: "revenue-share-calculator"
 date: 2026-06-10
 categories: ["Game Business"]

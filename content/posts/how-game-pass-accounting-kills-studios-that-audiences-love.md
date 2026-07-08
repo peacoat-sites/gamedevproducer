@@ -5,7 +5,7 @@ draft: false
 description: "Here's a meta description (148 characters):
 
 Discover how Microsoft's Game Pass payment model undermines studio finances, forcing closures even when games are b"
-image: "https://images.pexels.com/photos/37024886/pexels-photo-37024886.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/37024886.jpg"
 categories: ["trending"]
 tags: ["game", "pass", "accounting", "kills", "studios"]
 author: "Tyler Brooks"

@@ -3,7 +3,7 @@ title: "When Your Publisher Pulls Out Mid-Development: The IO Interactive Proble
 date: 2026-07-02T11:06:39.767216+00:00
 draft: false
 description: "Discover how IO Interactive survived being dropped by Square Enix mid-development and what their story teaches studios about publisher dependency and creative i"
-image: "https://images.pexels.com/photos/18524062/pexels-photo-18524062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18524062.jpg"
 categories: ["trending"]
 tags: ["when", "your", "publisher", "pulls", "mid-development:"]
 author: "Marcus Webb"

@@ -3,7 +3,7 @@ title: "Steam Next Fest Hit 4,382 Demos and the Math Got Harder"
 date: 2026-06-29T12:46:46.798430+00:00
 draft: false
 description: "Discover how Steam Next Fest reached 4,382 demos and why the sheer volume makes it harder than ever for players to find hidden gems and developers to stand out."
-image: "https://images.pexels.com/photos/4068701/pexels-photo-4068701.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4068701.jpg"
 categories: ["trending"]
 tags: ["steam", "next", "fest", "4,382", "demos"]
 author: "Marcus Webb"

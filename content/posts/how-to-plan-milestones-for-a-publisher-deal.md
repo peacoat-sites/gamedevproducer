@@ -3,7 +3,7 @@ title: "How To Plan Milestones For A Publisher Deal"
 date: 2026-07-03T11:06:03.365944+00:00
 draft: false
 description: "Learn how to set realistic milestones for your publisher deal. Establish timelines, track progress, and meet contractual obligations with strategic planning."
-image: "https://images.pexels.com/photos/7054502/pexels-photo-7054502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7054502.jpg"
 categories: ["milestones"]
 tags: ["plan", "milestones", "publisher", "deal"]
 author: "Priya Sharma"

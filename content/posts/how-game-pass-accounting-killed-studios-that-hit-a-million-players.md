@@ -3,7 +3,7 @@ title: "How Game Pass Accounting Killed Studios That Hit a Million Players"
 date: 2026-06-26T11:21:40.200153+00:00
 draft: false
 description: "Discover how Microsoft's Game Pass revenue model starved successful studios of income despite massive player counts, leading to shocking closures no one saw com"
-image: "https://images.pexels.com/photos/5986305/pexels-photo-5986305.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5986305.jpg"
 categories: ["trending"]
 tags: ["game", "pass", "accounting", "killed", "studios"]
 author: "Marcus Webb"

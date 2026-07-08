@@ -3,7 +3,7 @@ title: "Dependency Mapping In Game Development Schedules"
 date: 2026-05-24T06:20:17.951193+00:00
 draft: false
 description: "Discover how dependency mapping streamlines game development schedules, reduces bottlenecks, and helps teams deliver projects on time by visualizing task relati"
-image: "https://images.pexels.com/photos/7046723/pexels-photo-7046723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7046723.jpg"
 categories: ["pm frameworks"]
 tags: ["dependency", "mapping", "game", "development", "schedules"]
 author: "Ryan Cole"

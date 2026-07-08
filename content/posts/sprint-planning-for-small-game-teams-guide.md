@@ -3,7 +3,7 @@ title: "Sprint Planning For Small Game Teams Guide"
 date: 2026-06-24T11:22:56.068070+00:00
 draft: false
 description: "Learn sprint planning strategies built for small game teams. Prioritize tasks, set realistic goals, and ship faster with this practical agile guide."
-image: "https://images.pexels.com/photos/6937932/pexels-photo-6937932.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6937932.jpg"
 categories: ["project management"]
 tags: ["sprint", "planning", "small", "game", "teams"]
 author: "Priya Sharma"

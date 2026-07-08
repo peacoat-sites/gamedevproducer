@@ -3,7 +3,7 @@ title: "How To Run A Productive Game Team Retrospective"
 date: 2026-06-30T11:26:56.621488+00:00
 draft: false
 description: "Learn how to run a productive game team retrospective that boosts collaboration, surfaces blockers, and helps your team ship better games faster."
-image: "https://images.pexels.com/photos/15543117/pexels-photo-15543117.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/15543117.jpg"
 categories: ["team management"]
 tags: ["productive", "game", "team", "retrospective"]
 author: "Priya Sharma"

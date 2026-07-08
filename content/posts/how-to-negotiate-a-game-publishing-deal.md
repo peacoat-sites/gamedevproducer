@@ -3,7 +3,7 @@ title: "How To Negotiate A Game Publishing Deal"
 date: 2026-06-29T12:44:30.005409+00:00
 draft: false
 description: "Learn how to negotiate a game publishing deal with expert tips on contracts, royalties, rights, and key terms every indie developer should know."
-image: "https://images.pexels.com/photos/48148/document-agreement-documents-sign-48148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/48148.jpg"
 categories: ["publishing"]
 tags: ["negotiate", "game", "publishing", "deal"]
 author: "Samantha Roberts"

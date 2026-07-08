@@ -3,7 +3,7 @@ title: "How To Write Good User Stories For Game Features"
 date: 2026-06-15T14:43:22.903943+00:00
 draft: false
 description: "Learn how to write effective user stories for game features that keep your team aligned and players happy with clear, actionable formats and examples."
-image: "https://images.pexels.com/photos/7888981/pexels-photo-7888981.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7888981.jpg"
 categories: ["project management"]
 tags: ["write", "good", "user", "stories", "game"]
 author: "Ryan Cole"

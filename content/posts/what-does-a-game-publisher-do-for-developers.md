@@ -3,7 +3,7 @@ title: "What Does A Game Publisher Do For Developers"
 date: 2026-07-05T10:32:06.003755+00:00
 draft: false
 description: "Discover how game publishers support developers with funding, marketing, distribution, and more to bring video games successfully to market."
-image: "https://images.pexels.com/photos/18848584/pexels-photo-18848584.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/18848584.jpg"
 categories: ["publishing"]
 tags: ["what", "does", "game", "publisher", "developers"]
 author: "Samantha Roberts"

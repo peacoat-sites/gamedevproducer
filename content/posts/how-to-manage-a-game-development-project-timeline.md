@@ -3,7 +3,7 @@ title: "How To Manage A Game Development Project Timeline"
 date: 2026-06-04T12:22:00.674646+00:00
 draft: false
 description: "Plan your game development project timeline with confidence. Learn key strategies for scheduling milestones, managing scope, and keeping your team on track."
-image: "https://images.pexels.com/photos/7580765/pexels-photo-7580765.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7580765.jpg"
 categories: ["project management"]
 tags: ["manage", "game", "development", "project", "timeline"]
 author: "Ryan Cole"

@@ -3,7 +3,7 @@ title: "Agile Vs Waterfall For Game Development"
 date: 2026-06-10T11:51:02.180809+00:00
 draft: false
 description: "Discover how Agile and Waterfall methodologies compare for game development, and learn which project management approach best suits your team's workflow and goa"
-image: "https://images.pexels.com/photos/7947968/pexels-photo-7947968.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7947968.jpg"
 categories: ["project management"]
 tags: ["agile", "waterfall", "game", "development"]
 author: "Ryan Cole"

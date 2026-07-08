@@ -3,7 +3,7 @@ title: "Alpha Vs Beta Milestone In Game Production"
 date: 2026-07-04T10:32:01.304198+00:00
 draft: false
 description: "Discover the key differences between alpha and beta milestones in game production and how each phase shapes the path to a successful game launch."
-image: "https://images.pexels.com/photos/38311299/pexels-photo-38311299.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/38311299.jpg"
 categories: ["milestones"]
 tags: ["alpha", "beta", "milestone", "game", "production"]
 author: "Ryan Cole"

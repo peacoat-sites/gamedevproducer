@@ -3,7 +3,7 @@ title: "How To Plan A Realistic Game Release Date"
 date: 2026-06-05T12:21:33.735417+00:00
 draft: false
 description: "Learn how to plan a realistic game release date with expert tips on scheduling, avoiding crunch, managing milestones, and setting deadlines your team can actual"
-image: "https://images.pexels.com/photos/29509485/pexels-photo-29509485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/29509485.jpg"
 categories: ["planning"]
 tags: ["plan", "realistic", "game", "release", "date"]
 author: "Ryan Cole"

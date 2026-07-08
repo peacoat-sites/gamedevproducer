@@ -3,7 +3,7 @@ title: "Team Dynamics In AAA Game Studios"
 date: 2026-05-21T22:26:43.388358+00:00
 draft: false
 description: "Discover how team dynamics shape AAA game development. Explore collaboration, communication, and leadership strategies that drive successful game studios and hi"
-image: "https://images.pexels.com/photos/7923257/pexels-photo-7923257.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7923257.jpg"
 categories: ["team psychology"]
 tags: ["team", "dynamics", "game", "studios"]
 author: "Tyler Brooks"

@@ -3,7 +3,7 @@ title: "Risk Register Template For Game Development"
 date: 2026-05-23T09:32:32.667926+00:00
 draft: false
 description: "Plan, track, and mitigate project risks with a risk register template built for game development. Protect your timeline, budget, and launch with confidence."
-image: "https://images.pexels.com/photos/8171198/pexels-photo-8171198.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8171198.jpg"
 categories: ["pm frameworks"]
 tags: ["risk", "register", "template", "game", "development"]
 author: "Ryan Cole"

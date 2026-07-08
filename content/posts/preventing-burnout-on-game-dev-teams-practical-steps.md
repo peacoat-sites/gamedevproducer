@@ -3,7 +3,7 @@ title: "Preventing Burnout On Game Dev Teams Practical Steps"
 date: 2026-05-28T18:49:43.845416+00:00
 draft: false
 description: "Learn practical strategies to prevent burnout on game dev teams, improve work-life balance, boost morale, and keep your crew motivated through crunch and beyond"
-image: "https://images.pexels.com/photos/7414226/pexels-photo-7414226.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7414226.jpg"
 categories: ["team psychology"]
 tags: ["preventing", "burnout", "game", "teams", "practical"]
 author: "Tyler Brooks"

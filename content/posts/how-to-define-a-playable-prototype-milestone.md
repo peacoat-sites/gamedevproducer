@@ -3,7 +3,7 @@ title: "How To Define A Playable Prototype Milestone"
 date: 2026-06-18T12:02:17.687140+00:00
 draft: false
 description: "Learn how to define a clear playable prototype milestone for your game with key criteria, scope tips, and team alignment strategies."
-image: "https://images.pexels.com/photos/27271924/pexels-photo-27271924.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27271924.jpg"
 categories: ["milestones"]
 tags: ["define", "playable", "prototype", "milestone"]
 author: "Priya Sharma"

@@ -3,7 +3,7 @@ title: "What the Xbox Reset Means for Studios Trying to Go Independent"
 date: 2026-06-16T13:10:58.796499+00:00
 draft: false
 description: "Xbox's shakeup is pushing studios toward independence. Discover what this reset means for developers seeking autonomy, funding, and survival in a shifting games"
-image: "https://images.pexels.com/photos/8782572/pexels-photo-8782572.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8782572.jpg"
 categories: ["trending"]
 tags: ["what", "xbox", "reset", "means", "studios"]
 author: "Marcus Webb"

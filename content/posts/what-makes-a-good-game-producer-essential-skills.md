@@ -3,7 +3,7 @@ title: "What Makes A Good Game Producer Essential Skills"
 date: 2026-05-29T03:09:26.650340+00:00
 draft: false
 description: "Discover the essential skills every game producer needs to succeed, from leadership and communication to budgeting and project management in game development."
-image: "https://images.pexels.com/photos/7862519/pexels-photo-7862519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7862519.jpg"
 categories: ["role identity"]
 tags: ["what", "makes", "good", "game", "producer"]
 author: "Marcus Webb"

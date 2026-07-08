@@ -3,7 +3,7 @@ title: "Key Metrics Every Game Producer Should Track"
 date: 2026-07-06T12:16:25.670097+00:00
 draft: false
 description: "Discover the essential KPIs every game producer must monitor to keep projects on track, on budget, and delivering quality players love."
-image: "https://images.pexels.com/photos/4219882/pexels-photo-4219882.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4219882.jpg"
 categories: ["metrics"]
 tags: ["metrics", "every", "game", "producer", "should"]
 author: "Jordan Lee"

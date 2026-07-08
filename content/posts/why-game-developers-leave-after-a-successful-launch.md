@@ -3,7 +3,7 @@ title: "Why Game Developers Leave After A Successful Launch"
 date: 2026-05-23T12:42:33.382487+00:00
 draft: false
 description: "Discover the real reasons game developers quit after a successful launch, from burnout and creative burnout to poor management, low pay, and lack of future visi"
-image: "https://images.pexels.com/photos/340152/pexels-photo-340152.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/340152.jpg"
 categories: ["team psychology"]
 tags: ["game", "developers", "leave", "after", "successful"]
 author: "Tyler Brooks"

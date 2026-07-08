@@ -3,7 +3,7 @@ title: "How To Run A Scrum Sprint On A Game Team"
 date: 2026-06-17T12:35:35.139919+00:00
 draft: false
 description: "Learn how to run a scrum sprint on a game team with step-by-step planning, daily standups, sprint reviews, and retrospectives built for game dev."
-image: "https://images.pexels.com/photos/8117479/pexels-photo-8117479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8117479.jpg"
 categories: ["team management"]
 tags: ["scrum", "sprint", "game", "team"]
 author: "Priya Sharma"

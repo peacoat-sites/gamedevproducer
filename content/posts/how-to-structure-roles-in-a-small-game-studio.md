@@ -3,7 +3,7 @@ title: "How To Structure Roles In A Small Game Studio"
 date: 2026-06-24T11:21:17.038493+00:00
 draft: false
 description: "Learn how to structure roles in a small game studio to boost productivity, avoid burnout, and ship better games with a lean, focused team."
-image: "https://images.pexels.com/photos/5439478/pexels-photo-5439478.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5439478.jpg"
 categories: ["team management"]
 tags: ["structure", "roles", "small", "game", "studio"]
 author: "Jordan Lee"

@@ -3,7 +3,7 @@ title: "Psychological Safety And Milestone Reviews In Game Dev"
 date: 2026-05-28T06:02:39.356502+00:00
 draft: false
 description: "Discover how psychological safety transforms milestone reviews in game development, fostering honest feedback, stronger teams, and better creative outcomes for "
-image: "https://images.pexels.com/photos/8278906/pexels-photo-8278906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8278906.jpg"
 categories: ["team psychology"]
 tags: ["psychological", "safety", "milestone", "reviews", "game"]
 author: "Tyler Brooks"

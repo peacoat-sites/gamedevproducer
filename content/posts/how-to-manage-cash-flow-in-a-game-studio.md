@@ -3,7 +3,7 @@ title: "How To Manage Cash Flow In A Game Studio"
 date: 2026-07-01T11:38:16.368899+00:00
 draft: false
 description: "Learn practical strategies to manage cash flow in your game studio, from budgeting milestones to securing funding and avoiding common financial pitfalls."
-image: "https://images.pexels.com/photos/7821554/pexels-photo-7821554.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821554.jpg"
 categories: ["budgeting"]
 tags: ["manage", "cash", "flow", "game", "studio"]
 author: "Ryan Cole"

@@ -3,7 +3,7 @@ title: "Managing Introverts And Extroverts On Game Teams"
 date: 2026-05-26T07:08:08.735118+00:00
 draft: false
 description: "Learn how to manage introverts and extroverts on game teams effectively. Discover strategies to balance communication styles and boost collaboration and product"
-image: "https://images.pexels.com/photos/9071464/pexels-photo-9071464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/9071464.jpg"
 categories: ["team psychology"]
 tags: ["managing", "introverts", "extroverts", "game", "teams"]
 author: "Tyler Brooks"

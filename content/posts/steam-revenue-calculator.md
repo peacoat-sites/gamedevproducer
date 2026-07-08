@@ -1,6 +1,6 @@
 ---
 title: "Steam Revenue Calculator: Estimate Your Game's Earnings on Steam"
-image: "https://images.pexels.com/photos/7948037/pexels-photo-7948037.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7948037.jpg"
 slug: "steam-revenue-calculator"
 date: 2026-06-10
 categories: ["Game Business"]

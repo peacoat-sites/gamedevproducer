@@ -3,7 +3,7 @@ title: "Game Producer Salary Guide Explained"
 date: 2026-06-09T11:36:45.990476+00:00
 draft: false
 description: "Discover what game producers earn, including entry-level to senior salaries, factors affecting pay, and tips to boost your income in the gaming industry."
-image: "https://images.pexels.com/photos/4691477/pexels-photo-4691477.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4691477.jpg"
 categories: ["careers"]
 tags: ["game", "producer", "salary", "guide", "explained"]
 author: "Tyler Brooks"

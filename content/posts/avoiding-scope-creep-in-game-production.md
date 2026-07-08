@@ -3,7 +3,7 @@ title: "Avoiding Scope Creep In Game Production"
 date: 2026-06-08T12:44:37.908641+00:00
 draft: false
 description: "Learn proven strategies to prevent scope creep in game production, protect your timeline, control budgets, and deliver your game on time without sacrificing qua"
-image: "https://images.pexels.com/photos/30885919/pexels-photo-30885919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30885919.jpg"
 categories: ["project management"]
 tags: ["avoiding", "scope", "creep", "game", "production"]
 author: "Ryan Cole"

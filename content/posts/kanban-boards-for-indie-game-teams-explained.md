@@ -3,7 +3,7 @@ title: "Kanban Boards For Indie Game Teams Explained"
 date: 2026-06-30T11:24:23.049744+00:00
 draft: false
 description: "Learn how kanban boards help indie game teams stay organized, track tasks, and ship games faster with simple visual workflow management."
-image: "https://images.pexels.com/photos/7580842/pexels-photo-7580842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7580842.jpg"
 categories: ["project management"]
 tags: ["kanban", "boards", "indie", "game", "teams"]
 author: "Jordan Lee"

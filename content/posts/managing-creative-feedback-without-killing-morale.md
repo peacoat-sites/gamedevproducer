@@ -3,7 +3,7 @@ title: "Managing Creative Feedback Without Killing Morale"
 date: 2026-05-27T09:53:35.958300+00:00
 draft: false
 description: "Learn how to give and receive creative feedback that improves work without demoralising your team. Practical tips for leaders and collaborators to get results."
-image: "https://images.pexels.com/photos/21704604/pexels-photo-21704604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/21704604.jpg"
 categories: ["team psychology"]
 tags: ["managing", "creative", "feedback", "without", "killing"]
 author: "Tyler Brooks"
