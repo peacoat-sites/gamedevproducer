@@ -23,6 +23,7 @@ faqs:
     a: "In most studios, the lead producer or executive producer makes the formal call, usually in consultation with department heads. The criteria should be pre-defined and checklist-driven, not a judgment call made in the moment. If there's a publisher involved, CC typically requires their formal sign-off as well, because it often triggers a milestone payment."
   - q: "How long is Beta typically after Content Complete?"
     a: "This varies significantly by project size and platform requirements. For a mid-scale console release, six to ten weeks between CC and Gold submission is common. Smaller PC titles might compress this to four weeks. Platform certification (for console), localization QA, and first-party compliance reviews all eat time in this window, and they're not compressible just because your schedule is tight."
+lastmod: 2026-07-07
 ---
 
 Most milestone names in game development are vague enough that five different studios will define them five different ways. Content Complete is the one that causes the most arguments.
@@ -32,6 +33,14 @@ I've watched it torpedo otherwise well-run projects. Not because the team didn't
 So let's be precise about this.
 
 ## What Content Complete Actually Means
+
+| Milestone | Content Present | Systems Functional | Polish Level | Purpose |
+| --- | --- | --- | --- | --- |
+| Content Complete | ✓ Yes | Not required | Rough/placeholder | Verify all assets exist |
+| Feature Complete | Not required | ✓ Yes | Not required | Verify all systems work |
+| Alpha | ✓ Yes | ✓ Yes | Rough | Internal stability pass |
+| Beta | ✓ Yes | ✓ Yes | Polishing | Bug-fixing focus |
+| Gold | ✓ Yes | ✓ Yes | Final | Shipping build |
 
 Content Complete (sometimes called CC, sometimes called "feature and content complete" if your studio conflates the two) is the milestone at which every piece of content that will ship in the game is in the build. Not polished. Not bug-free. But *in there.* Every level, every cutscene, every character, every weapon, every line of VO, every music track, every UI screen. The full set.
 

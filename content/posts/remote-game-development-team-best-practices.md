@@ -23,6 +23,7 @@ faqs:
    a: "Discord if your team is primarily under 35 and you value low-friction voice channels and don't need sophisticated integrations. Slack if you need Jira, Notion, or GitHub integrations and want more structured information architecture. The wrong answer is using both."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Forty percent of my last studio's dev team was remote before COVID made it fashionable. We figured it out the hard way, which means I have very specific opinions about what the internet gets wrong when it covers this topic.
 
@@ -40,6 +41,17 @@ The discipline required is real. You have to actually send the Loom instead of t
 
 ## Your project management stack matters more on remote teams
 
+| Tool | Primary Use | Cost | Best For |
+| --- | --- | --- | --- |
+| Notion or Confluence | Decision documentation | Varies | Async-first decision tracking |
+| Loom | Video walkthroughs | Free tier, or $12.50/user/month (Business) | Workflow explanations, async demos |
+| Jira | Sprint & backlog management | Varies | Established Atlassian ecosystems |
+| Shortcut (formerly Clubhouse) | Sprint & backlog management | ~$8.50/user/month | Teams under 25 people |
+| Miro | Visual planning & brainstorming | $10/user/month | Sprint planning, dependency mapping |
+| Discord | Communication | Free or paid tiers | Younger teams, low-friction voice channels |
+| Slack | Communication | Varies | Structured integrations, channel architecture |
+| Geekbot or Standuply | Async standups | Varies | Replacing synchronous standup meetings |
+
 On-site, people absorb project state just by being in the room. They overhear conversations, see the whiteboards, notice when someone looks panicked. Remote eliminates all of that passive information transfer. Your PM stack has to carry that entire load explicitly.
 
 For game development specifically, Jira still works (yes, still, despite universal complaints), or Shortcut, formerly Clubhouse, for sprint and backlog management. Shortcut is genuinely cleaner than Jira for teams under 25 people, runs about $8.50 per user per month, and doesn't require a PhD to configure workflows. Jira is more powerful and more painful, but if you're already in the Atlassian ecosystem with Confluence, the integration is worth the friction.
@@ -54,13 +66,13 @@ Discord or Slack. The debate will rage forever. For game dev specifically: Disco
 
 Pick one.
 
-The real decisions are structural. How many channels? What belongs in DMs versus public channels? What's your expectation around response time?
+The real decisions are structural. [How many channels?](/how-to-structure-roles-in-a-small-game-studio/) What belongs in DMs versus public channels? What's your expectation around response time?
 
 Nobody writes this down. Here's what I'd actually codify in a team agreement:
 
 Async messages get a response within 24 hours on working days. Anything time-sensitive gets flagged explicitly. "Hey quick question" does not mean "drop everything." If something is genuinely urgent, use the urgent channel or just call someone. Normalize calling. Remote teams often get so heads-down in text that they forget they can just pick up a phone.
 
-For voice and video, keep synchronous meetings to the ones that actually require them. Genuine creative reviews (not progress updates), cross-discipline decisions where real-time back-and-forth matters, and team retrospectives. Weekly standups can be replaced with a Geekbot or Standuply bot that collects async updates every morning and posts them to a channel. I resisted this for years. It works better than I wanted it to.
+For voice and video, keep synchronous meetings to the ones that actually require them. Genuine creative reviews (not progress updates), cross-discipline decisions where real-time back-and-forth matters, and [team retrospectives](/how-to-run-a-productive-game-team-retrospective/). Weekly standups can be replaced with a Geekbot or Standuply bot that collects async updates every morning and posts them to a channel. I resisted this for years. It works better than I wanted it to.
 
 Time zones will break you faster than any other single factor if you don't address them head-on. If your team spans more than 6 hours, designate an overlap window and protect it. Not a window where meetings get scheduled constantly, just a window where people are reliably reachable. Two hours of daily overlap is workable. Zero is not.
 
@@ -68,7 +80,7 @@ Time zones will break you faster than any other single factor if you don't addre
 
 This is where most advice gets saccharine. "Have virtual coffee chats!" Sure. Those help somewhat. But they're not the real answer.
 
-Real cohesion on remote game dev teams comes from shared creative investment, clear credit, and psychological safety in the channels where people actually work. If a programmer suggests something in Slack and the lead ignores it without acknowledgment, that programmer stops suggesting things. On-site, you can catch that dynamic and repair it in person. Remote, it festers silently.
+Real cohesion on remote game dev teams comes from shared creative investment, clear credit, and [psychological safety](/dealing-with-burnout-on-a-game-dev-team/) in the channels where people actually work. If a programmer suggests something in Slack and the lead ignores it without acknowledgment, that programmer stops suggesting things. On-site, you can catch that dynamic and repair it in person. Remote, it festers silently.
 
 Producers specifically: watch your async communication for patterns. Who isn't speaking up in channel discussions? Who goes quiet after a decision doesn't go their way? These are your early warning signals, and you can't wait for a quarterly retro to address them.
 

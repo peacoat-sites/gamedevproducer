@@ -23,6 +23,7 @@ faqs:
    a: "A few teams I know use Officevibe or its successor Workleap (about $5 per user per month) for anonymous weekly pulse surveys. It's not game-dev-specific but it gives you signal before problems become visible in behavior. Some studios have started using Miro boards for retrospective health checks: anonymous sticky notes, no attribution. Low tech, but people are more honest when their name isn't on it."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Three people quit my team in six weeks once. Not because the game was bad. Not because anyone was difficult to work with. Because we just kept going. Milestone after milestone, crunch after crunch, and nobody said the thing that needed to be said out loud.
 
@@ -64,9 +65,9 @@ That last one matters. Excitement-driven late nights look different from shame-d
 
 Most industries have a bad quarter. Game dev has a bad two years and calls it the development cycle.
 
-The structure of how games get made is genuinely hostile to human sustainability. You've got front-loaded creative energy, a long grinding middle where the work is tedious and the finish line's invisible, and then a tail end that compresses all remaining problems into a six-week sprint. Then you ship, and instead of recovery, there's a patch cycle. Then pre-production on the next thing starts "light," which means four people doing the work of ten with nobody knowing what the scope actually is.
+The structure of [how games get made](/how-to-build-a-game-development-team-from-scratch/) is genuinely hostile to human sustainability. You've got front-loaded creative energy, a long grinding middle where the work is tedious and the finish line's invisible, and then a tail end that compresses all remaining problems into a six-week sprint. Then you ship, and instead of recovery, there's a patch cycle. Then pre-production on the next thing starts "light," which means four people doing the work of ten with nobody knowing what the scope actually is.
 
-Indie teams have it different but not better. The vulnerability is the total absence of any institutional rhythm. Nobody's managing utilization. People work on a game for three years, don't pay themselves properly, and are running on pure belief until the belief runs out. I've talked to indie devs who hit launch and felt nothing. Literally nothing. They'd spent all of their capacity getting there.
+Indie teams have it different but not better. The vulnerability is the total absence of any institutional rhythm. [Nobody's managing utilization](/how-to-structure-roles-in-a-small-game-studio/). People work on a game for three years, don't pay themselves properly, and are running on pure belief until the belief runs out. I've talked to indie devs who hit launch and felt nothing. Literally nothing. They'd spent all of their capacity getting there.
 
 What makes this specific to game development (not just a generic "tech startup" problem) is the passion tax. People enter this field because they love games. That love gets used as currency by studios and by developers themselves. "I don't mind the crunch, I love this game." That's not resilience. That's a loan with compound interest.
 

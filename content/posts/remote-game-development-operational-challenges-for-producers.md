@@ -23,6 +23,7 @@ faqs:
    a: "Give them a structured first-two-weeks document, not a wiki link and a wave. This should include: who to meet and when, what tools to get access to (with step-by-step instructions, not just tool names), what the project's current state is in plain language, and a small, meaningful task they can complete and ship in week one. Getting something real done early builds confidence and integration faster than any number of onboarding calls."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 You sent the Slack message at 9 AM your time. Your lead animator is in Warsaw, your engine programmer is in Vancouver, and your narrative designer just moved to Cape Town. By the time everyone's theoretically read your update, it's tomorrow. And somehow, the sprint still ends on Friday. If you're producing a remote game development team right now, you already know this feeling. The question is what to actually do about it.
 
@@ -67,6 +68,18 @@ Here's my approach to time zone management for distributed teams:
 **Loom** is genuinely one of the highest-ROI tools for remote game dev. Async video updates cut down on "can we hop on a call?" requests by about 60% in my experience.
 
 ## Build Pipeline and Technical Access Are Harder Than They Look
+
+| Tool | Best For | Key Strength |
+| --- | --- | --- |
+| Notion | Living documentation | Flexible, team-friendly |
+| Confluence | Living documentation | Enterprise integration |
+| Linear | Async task tracking | Clear ownership, async-native |
+| ClickUp | Small-to-mid teams | Does docs + tracking |
+| Geekbot | Async standup automation | Slack-integrated |
+| Loom | Async video updates | Reduces sync meeting requests ~60% |
+| Perforce | Large studios with binaries | Industry standard |
+| Git LFS | Smaller teams | Works with Git |
+| Plastic SCM | Unity teams | Unity DevOps integration |
 
 This one catches producers off guard because it feels like an engineering problem. It's not. It's yours.
 

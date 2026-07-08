@@ -23,6 +23,7 @@ faqs:
    a: "Optimizing for process correctness over team trust. Coming in with a better system than the studio currently uses doesn't matter if you haven't built enough credibility for people to follow it. Fix the culture of your Jira board after you've fixed your relationships."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
+lastmod: 2026-07-07
 ---
 You're three weeks into your new associate producer role at a mid-sized game studio, and your Jira board looks immaculate. Epics nested. Tickets groomed. Velocity tracked. Your engineering lead walks by, glances at the screen, and says "that's cute." Not mean about it. Just... unimpressed. You've run software sprints for five years. You shipped a payments platform used by millions. And somehow, you feel like you're starting from zero. That gap between tech PM confidence and game production reality is real, and it catches almost everyone off guard.
 
@@ -64,7 +65,7 @@ Not everything needs to be Best. Ruthlessly deciding which things do is most of 
 
 ## Building Trust With Disciplines You've Never Managed
 
-Tech PMs manage engineers, maybe designers. Game production means owning relationships with environment artists, animators, character artists, audio designers, narrative leads, QA, and sometimes licensing and localization teams. Each discipline has its own pipeline, its own vocabulary, and its own opinion about whether production understands what they actually do.
+[Tech PMs manage engineers](/game-producer-vs-technical-program-manager/), maybe designers. Game production means owning relationships with environment artists, animators, character artists, audio designers, narrative leads, QA, and sometimes licensing and localization teams. Each discipline has its own pipeline, its own vocabulary, and its own opinion about whether production understands what they actually do.
 
 The fastest way to earn trust across disciplines: show up to their standups for the first month and say almost nothing. Ask one good question per session. Learn what "done" looks like in their pipeline before you start setting any expectations about it. An animator's workflow from concept to rigged, weighted, and in-engine is completely different from a software engineer's ticket-to-merged flow. Try to manage both with the same metrics on day one, and you'll create friction that takes months to undo.
 

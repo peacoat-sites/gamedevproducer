@@ -23,6 +23,7 @@ faqs:
     a: "Radical transparency helps more than most producers expect. Share the metrics openly with the whole team, explain what you're watching for and why, and invite people to flag when a number seems off to them. When teams understand the metrics are early-warning systems for protecting their workload, not performance reviews, the dynamic shifts considerably."
   - q: "When should I change which metrics I'm tracking?"
     a: "At every major milestone transition, reassess. The metrics that matter in pre-production (schedule confidence, capacity, discovery rate) are not the same ones that matter in beta (bug escape rate, P1 age, burn rate to ship). Carrying the same dashboard from concept to launch is a common mistake and means you're often watching the wrong gauges at the wrong time."
+lastmod: 2026-07-07
 ---
 
 Most producers track the wrong things. They spend Monday morning staring at a burndown chart that tells them work got done, but nothing about whether it was the *right* work or whether the team is quietly burning out in the process. I did this for years at a mid-size studio before someone with more experience than me sat down and asked, "okay, but what does that number actually tell you?" I didn't have a good answer.
@@ -65,7 +66,17 @@ The research on this is actually pretty solid. A study published in the *Journal
 
 ## Bug Metrics That Actually Mean Something
 
-Bug count is almost useless as a standalone metric. High bug counts late in production can mean your QA pipeline is working great, not that your game is falling apart. I've shipped games with 800 open bugs at gold master submission and games where 200 open bugs represented genuine catastrophe. Context is everything.
+| Metric | What It Measures | Why It Matters |
+| --- | --- | --- |
+| Velocity | How fast the team completes work (sprints, tickets, story points) | Shows movement speed, but misleading in isolation |
+| Unplanned Work % | Share of completed work not in sprint plan | Reveals hidden capacity sinks and broken planning above 25-30% |
+| Schedule Confidence | Team leads' belief in hitting milestones (1-10 scale) | Leading indicator; divergence surfaces communication gaps |
+| Bug Escape Rate | % of fixed bugs that reappear as new reports | Indicates broken fix process, not just code quality |
+| P1/P2 Age | Days critical/high bugs remain open | Team health signal; >5 days for P1 is a red flag |
+| Bug Arrival vs. Closure | New bugs reported vs. bugs fixed over time | Ship readiness indicator; should show declining arrivals and accelerating closures near submission |
+| Overtime Hours | Actual hours logged above contracted weekly hours | Team burnout signal; >50 hrs/week for 2+ weeks requires intervention |
+
+Bug count is almost useless as a standalone metric. High bug counts late in production can mean your [QA pipeline](/how-to-run-a-playtest-and-gather-feedback/) is working great, not that your game is falling apart. I've shipped games with 800 open bugs at gold master submission and games where 200 open bugs represented genuine catastrophe. Context is everything.
 
 The metrics I care about in bug tracking:
 

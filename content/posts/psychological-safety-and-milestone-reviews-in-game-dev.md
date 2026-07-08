@@ -23,6 +23,7 @@ faqs:
    a: "Longer than you want. Research suggests six to twelve months of consistent behavior before trust is genuinely internalized. The good news: you'll start seeing functional benefits within the first few weeks of structural changes, even before full trust is established. People don't need to trust you completely to use an anonymous survey. Start there. The goal isn't a team where everyone feels great. It's a team where real problems surface fast enough for you to solve them. That's what makes games ship, and it's what the best milestone reviews are actually measuring."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 The milestone review ends. The lead designer closes their laptop and says, "Looks good, we're on track." Three weeks later, the vertical slice is a disaster. What happened? Nobody lied, exactly. But nobody told the full truth either. The combat lead knew the hit detection was held together with duct tape. The narrative designer had quietly cut 40% of the planned content. The producer, you, had no idea because you'd built a review culture where "on track" meant "I don't want this conversation right now." That's not a milestone problem. That's a psychological safety problem wearing a milestone problem's clothes.
 
@@ -34,7 +35,7 @@ Amy Edmondson's original research at Harvard defined it as the belief that you w
 
 If the answer's no, your milestone reviews are theater. Everyone's performing status.
 
-The game industry has historically been brutal about this. Crunch culture, auteur leadership structures, and "we'll figure it out in post" thinking all punish honest assessment. I've sat in reviews at mid-sized studios where a lead said everything was fine to the studio head's face, then walked into the hallway and told me the feature was six weeks behind. That gap between what gets said in the room and what's actually true, that's the most expensive gap in game production.
+The game industry has historically been brutal about this. [Crunch culture](/crunch-aftermath-how-to-rebuild-team-trust/), auteur leadership structures, and "we'll figure it out in post" thinking all punish honest assessment. I've sat in reviews at mid-sized studios where a lead said everything was fine to the studio head's face, then walked into the hallway and told me the feature was six weeks behind. That gap between what gets said in the room and what's actually true, that's the most expensive gap in game production.
 
 ## Why Milestone Reviews Go Wrong By Design
 
@@ -70,6 +71,15 @@ Your response when someone surfaces a real problem sets the entire culture. If y
 Ask a few key contributors individually: "Was there anything you wanted to say in there but didn't?" Do this regularly, not just when things seem bad. People will tell you in a 1:1 what they won't say in a group. Use that information to close the gap gradually.
 
 ## Structuring Milestone Reviews That Actually Work
+
+| | Traditional Format | Trust-First Format |
+|---|---|---|
+| **Pre-read** | None or slide deck | Written risk register submitted 48 hours prior |
+| **Opening question** | "Where are we?" | "What's the thing most likely to break us?" |
+| **Attendees** | All stakeholders including executives | Separated: team review first, stakeholder review after |
+| **Risk surfacing** | Verbal, attributed, in the room | Anonymous pre-survey plus verbal discussion |
+| **Outcome** | Status recorded | Explicit decisions made and owners assigned |
+| **Follow-up** | Email summary | 1:1 check-ins within 48 hours |
 
 Here's a practical comparison:
 

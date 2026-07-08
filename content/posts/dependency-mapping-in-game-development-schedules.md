@@ -23,6 +23,7 @@ faqs:
     a: "At minimum, review after any significant scope change and at the start of each new production phase. On a fast-moving project, a quick dependency audit at the start of each sprint or two-week cycle is worth the hour it takes. Stale dependency data is worse than no data because it creates false confidence."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most game projects don't die because the team ran out of talent. They die because nobody noticed that the combat system needed finalized player stats, which needed a locked design doc, which needed sign-off from a creative director who was waiting on competitive research that nobody had assigned. One blocked task becomes five blocked tasks becomes a sprint where half the team is spinning wheels. I've watched this happen on a 40-person project where the producer had a perfectly color-coded Gantt chart. The schedule looked great. The dependencies were invisible. That's the problem this article is about.
 
@@ -56,9 +57,9 @@ You don't need expensive software for this. Whiteboards, spreadsheets, even a te
 
 **Step 3: Separate hard dependencies from soft ones.** Hard dependencies are technical reality. You cannot rig a character before the skeleton exists. Soft dependencies are preferences or habits. "We usually wait for concept art before modeling" might be a soft dependency you can challenge with a placeholder workflow.
 
-**Step 4: Find your critical path.** The critical path is the longest chain of dependent tasks that determines your minimum ship date. Any delay on the critical path delays the whole project. Tasks off the critical path have float, meaning they can slip without affecting your release. Knowing the difference tells you where to push hard and where you can relax.
+**Step 4: Find your [critical path](/how-to-write-a-game-production-milestone-document/).** The critical path is the longest chain of dependent tasks that determines your minimum ship date. Any delay on the critical path delays the whole project. Tasks off the critical path have float, meaning they can slip without affecting your release. Knowing the difference tells you where to push hard and where you can relax.
 
-**Step 5: Look for dependency clusters.** These are bottleneck assets or decisions that many other tasks are waiting on. A locked world map. A finalized control scheme. An approved character design. These are your highest-risk items and they need to be resolved faster than everything else.
+**Step 5: Look for [dependency clusters](/risk-register-template-for-game-development/).** These are bottleneck assets or decisions that many other tasks are waiting on. A locked world map. A finalized control scheme. An approved character design. These are your highest-risk items and they need to be resolved faster than everything else.
 
 **Step 6: Review with the team, not just leads.** The people actually doing the work know their workflow better than the WBS ever will. Five minutes with an animator or technical artist surfaces dependencies that would have hit you in week three otherwise.
 

@@ -23,8 +23,9 @@ faqs:
    a: "Neither framework is inherently faster. Kanban often feels faster because it removes the overhead of sprint planning and review ceremonies. But speed is really a function of WIP limits, clear definitions of done, and fast feedback loops. A Scrum team with tight sprint goals and a two-day review cycle can ship faster than a Kanban team with no WIP limits and a clogged review column."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
-You're two weeks into pre-production, your lead designer keeps adding cards to the backlog faster than the team can pull them, your sprint review is tomorrow, and half the team isn't even sure what "done" means for a level blockout. Sound familiar? The Kanban vs. Scrum debate isn't academic for game developers. It's live, it's messy, and picking the wrong framework can quietly wreck team morale before alpha even lands on the calendar.
+You're two weeks into pre-production, your lead designer keeps adding cards to the backlog faster than the team can pull them, your [sprint review](/how-to-run-a-game-development-retrospective/) is tomorrow, and half the team isn't even sure what "done" means for a level blockout. Sound familiar? The Kanban vs. Scrum debate isn't academic for game developers. It's live, it's messy, and picking the wrong framework can quietly wreck team morale before alpha even lands on the calendar.
 
 ## What Scrum Actually Asks of a Game Team
 
@@ -50,7 +51,7 @@ The tradeoff is real, though. Kanban has no built-in commitment mechanism. Witho
 
 Most teams skip this, and that's why the debate gets so confusing. Kanban vs. Scrum isn't a permanent identity. It's a tool choice that should match your current production phase.
 
-**Pre-production and prototyping:** Kanban wins almost every time. You're exploring, killing bad ideas, and the work changes shape constantly. Sprinting toward a deliverable when you don't know what the deliverable should be is just theater. Use a lightweight Kanban board, timebox experiments manually (a three-day prototype timebox isn't a sprint, it's time management), and keep WIP limits loose but present.
+**[Pre-production and prototyping](/pre-production-planning-for-games-how-long-and-why/):** Kanban wins almost every time. You're exploring, killing bad ideas, and the work changes shape constantly. Sprinting toward a deliverable when you don't know what the deliverable should be is just theater. Use a lightweight Kanban board, timebox experiments manually (a three-day prototype timebox isn't a sprint, it's time management), and keep WIP limits loose but present.
 
 **Full production:** Scrum earns its overhead here. You have a feature list, a milestone schedule, and coordination becomes a real problem. Two-week sprints give you predictable review moments and velocity data that helps with forecasting. A team of eight or more almost always benefits from the explicit structure.
 
@@ -59,6 +60,19 @@ Most teams skip this, and that's why the debate gets so confusing. Kanban vs. Sc
 **Late production, alpha to cert:** Go hybrid. Run sprints for feature completion but maintain a separate Kanban-style bug board. Mixing bugs into sprint stories kills productivity. Keep them separate and flowing independently.
 
 ## A Side-by-Side Comparison
+
+| Factor | Scrum | Kanban |
+|---|---|---|
+| Time structure | Fixed sprints (1-4 weeks) | Continuous flow, no sprints |
+| Commitment level | Sprint commitment at planning | No formal commitment, pull-based |
+| Change mid-cycle | Discouraged, requires replanning | Allowed anytime (within WIP limits) |
+| Best for | Production, milestone delivery | Bug flow, art pipelines, live ops |
+| Estimation required | Yes, story points or hours | No, optional throughput metrics |
+| Key metric | Velocity (points per sprint) | Cycle time, throughput |
+| Overhead | Higher (ceremonies, roles) | Lower (minimal required meetings) |
+| Team size sweet spot | 5-10 per team | 2-8, scales to larger with lanes |
+| Risk if misapplied | False predictability, scope creep hidden in sprint gaps | Invisible priorities, no delivery pressure |
+| Tooling examples | Jira (Scrum boards), Shortcut | Trello, Linear, Jira (Kanban mode) |
 
 | Factor | Scrum | Kanban |
 |---|---|---|

@@ -23,6 +23,7 @@ faqs:
    a: "Assuming the schedule is sacred. In film, a shooting schedule is built to be followed. In game development, the schedule is a planning tool that gets revised constantly as technical discoveries surface and design decisions change. Film producers often react to schedule slippage as a crisis. Game producers have to learn to treat it as information and respond with replanning rather than alarm. Related to that: underestimating how long things take in game development is the single most common source of crunch, which is a production failure, not an unavoidable feature of the industry."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
+lastmod: 2026-07-07
 ---
 You've spent ten years producing indie films. You know how to wrangle a crew, manage a shooting schedule, and sweet-talk a distributor into taking your finished product. Then someone offers you a senior producer role at a mid-sized game studio, and you think: "How different can it be?" 
 
@@ -36,7 +37,7 @@ A film producer's primary job is to get a project *made*. That means assembling 
 
 A game producer's job is closer to running a small software company inside a larger one. You're not just getting something made. You're coordinating continuous, iterative development across disciplines that often have conflicting priorities and working rhythms. If you want a grounded picture of what that actually looks like day to day, [this breakdown of what a game producer actually does](/what-does-a-game-producer-actually-do/) captures the breadth of the role. The scope is wider, the feedback loops are tighter, and the project rarely just "ends" cleanly.
 
-A game can ship and then enter two more years of live service updates. A film producer doesn't have an equivalent of a post-launch content patch.
+A game can ship and then enter two more years of [live service updates](/showrunner-model-for-live-service-game-production/). A film producer doesn't have an equivalent of a post-launch content patch.
 
 ## Creative Control and Collaboration Look Completely Different
 
@@ -57,6 +58,16 @@ On the publisher side, game producers often manage against milestone-based payme
 Live service games add another layer. Revenue isn't a single theatrical release window. It's a continuous stream tied to content updates, seasonal events, and player retention metrics. A game producer at a live service studio is partly a product manager, tracking monthly active users and average revenue per user alongside their development schedule.
 
 ## The Tools and Processes Don't Map Cleanly
+
+| Dimension | Film Producer | Game Producer |
+|---|---|---|
+| Project timeline | Linear: fixed start and end | Iterative: sprints and milestone gates |
+| Creative authority | Director-driven, clear hierarchy | Distributed across multiple leads |
+| Budget structure | Fixed with ceiling | Elastic, feature creep common |
+| Post-launch work | Minimal (distribution only) | Continuous (patches, live service) |
+| Financial model | Single release window | Continuous revenue streams |
+| Process tools | Standardized across industry | Studio-specific and fragmented |
+| Planning approach | Locked script as north star | Living document, playtesting feedback |
 
 Film production runs on a mature, standardized toolset. Call sheets, production breakdowns, script supervisor reports, an AICP budget format. These have been industry standard for decades. Move between productions and the tools look familiar.
 

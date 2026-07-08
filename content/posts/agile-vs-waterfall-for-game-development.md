@@ -23,6 +23,7 @@ faqs:
     a: "Treating the sprint backlog like a to-do list and ignoring the retrospective. The retrospective is actually where agile earns its value: it's the team's chance to identify what's slowing them down and change it. I've seen teams run Scrum for six months, never run a real retrospective, and wonder why nothing improved. Run the retro. Be honest in it. That's the part that compounds."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Fourteen years in, and I still watch teams make the same call for the wrong reasons: they pick waterfall because it feels "professional," or they pick agile because they heard a podcast about Scrum and it sounded modern. Neither instinct is a good enough reason. The method you choose shapes everything from your budget burn rate to whether your lead designer is still speaking to your lead programmer by month six.
 
@@ -40,7 +41,7 @@ Let me tell you what actually happens.
 
 ## What These Methods Look Like When the Rubber Meets the Road
 
-On paper, waterfall is straightforward: design everything, build everything, test everything, ship. Agile, in whatever flavor your studio cobbled together (Scrum, Kanban, SAFe, or some hybrid), means working in short cycles, constantly reassessing, and treating the design document as something that changes rather than something carved in stone.
+On paper, waterfall is straightforward: design everything, build everything, test everything, ship. Agile, in whatever flavor your studio cobbled together (Scrum, [Kanban](/kanban-boards-for-indie-game-teams-explained/), SAFe, or some hybrid), means working in short cycles, constantly reassessing, and treating the design document as something that changes rather than something carved in stone.
 
 Here's what nobody talks about: both descriptions are basically fantasy once they hit a real game team.
 
@@ -58,7 +59,7 @@ Pre-production is where it earns its keep. Before spinning up a full team, you n
 
 I've seen indie teams burn through $80,000 in runway doing two-week sprints on a game nobody could describe in one sentence. They called it agile. It was chaos with a Jira board.
 
-That said, using waterfall-style phase gates as checkpoints, where the team pauses, reviews what's been built, and makes a deliberate go/no-go call before moving forward, is something I'd recommend to every team regardless of methodology. Notion makes this easy enough to set up in an afternoon. Even a simple Trello board with columns for Pre-Production, Production, Alpha, Beta, and Gold gives everyone a shared sense of where they actually are.
+That said, using waterfall-style [phase gates as checkpoints](/how-to-manage-a-game-development-project-timeline/), where the team pauses, reviews what's been built, and makes a deliberate go/no-go call before moving forward, is something I'd recommend to every team regardless of methodology. Notion makes this easy enough to set up in an afternoon. Even a simple Trello board with columns for Pre-Production, Production, Alpha, Beta, and Gold gives everyone a shared sense of where they actually are.
 
 The real mistake isn't using waterfall thinking. It's applying it too granularly: trying to specify every enemy behavior, every level layout, every progression curve before a single player has touched anything. That's where the method breaks down for games specifically.
 

@@ -12,6 +12,7 @@ author_title: "Studio Operations Lead"
 author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "what-ue-58-and-the-ue6-reveal-mean-for-your-studio-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been deep in production this week, Unreal Fest Chicago probably flew right past you. That's fine. But here's the thing: the announcements Epic dropped at State of Unreal 2026 are the kind that quietly reshape the next 18 months of decisions, especially if you're mid-project on UE5.
 
@@ -50,6 +51,12 @@ You've probably felt this pain before. Tried setting up Perforce for a small tea
 Treat it like any new open-source tool: worth piloting on a secondary project or branch, not worth ripping out your entire production pipeline based on a week-old announcement. But if it delivers on its promise, it changes the cost structure for indie teams in a real way.
 
 ## The Strategic Question Is About Project Horizon
+
+| Project Ship Date | Recommended Engine | Key Reason |
+| --- | --- | --- |
+| 2027 or earlier | UE 5.8 | Stable, production-proven, massive community pool |
+| 2028-2029 | UE 5.8 or UE6 Early Access | UE6 EA targets end of 2027; decide with better information |
+| 2029-2030+ | UE6 | Production-stable UE6 lands ~2029; build on unified architecture from day one |
 
 Here's my direct take: the UE5 versus UE6 question is mostly about ship date, not technical ambition. Starting something today that ships in 2027 or earlier? Build it in UE 5.8. You get a stable, well-documented, production-proven engine. A massive pool of developers who know it. Years of community solutions for every problem you'll hit.
 

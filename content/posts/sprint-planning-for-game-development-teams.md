@@ -23,6 +23,7 @@ faqs:
    a: "Track completed story points per sprint and average over at least 6 sprints before you trust the number for forecasting. Earlier than that, you're averaging noise. Also track carryover points separately. A team that completes 40 points but carries 15 into the next sprint doesn't have 40-point velocity. They have a carryover problem disguised by a velocity number."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 You're three sprints into your new project, the board looks clean, velocity feels steady, and then a senior animator drops a task that reads "character rig polish" estimated at 3 points. Two weeks later it's still open, now flagged at 11 points, and the feature it was blocking has slipped. Nobody lied. Nobody was lazy. The estimate was just wrong in a way nobody caught during planning. That's not an execution problem. That's a sprint planning problem.
 
@@ -32,7 +33,7 @@ Sprint planning in game development breaks differently than it does in software.
 
 Most Scrum literature was written by and for software engineers building defined systems. The inputs are clear, the outputs are testable, and "done" means the same thing to everyone in the room. Game development has art, design, narrative, engineering, and audio all colliding inside the same sprint. A gameplay feature isn't done when the code ships. It's done when it feels right, and "feels right" is a moving target that shifts every time a creative director looks at it.
 
-I'll be honest: the research here is mixed on exactly how much creative variance adds to schedule overrun. But from my 14 years in studios ranging from 8-person indie teams to 200-person AAA departments, the pattern is consistent. Teams that apply Scrum verbatim without adapting it to creative work suffer higher mid-sprint scope change and more carryover than teams that build their planning sessions around that creative unpredictability upfront.
+I'll be honest: the research here is mixed on exactly how much creative variance adds to schedule overrun. But from my 14 years in studios ranging from 8-person indie teams to 200-person AAA departments, the pattern is consistent. Teams that apply Scrum verbatim without adapting it to creative work suffer higher [mid-sprint scope change](/scope-creep-prevention-in-game-development/) and more carryover than teams that build their planning sessions around that creative unpredictability upfront.
 
 ## What Actually Goes Into a Game Dev Sprint Planning Session
 
@@ -42,7 +43,7 @@ A well-run planning session for a game dev team has three distinct phases.
 
 **Phase 1: Capacity check.** Not just headcount. Actual available hours accounting for meetings, reviews, playtests, and the reality that creative workers don't sustain 8-hour deep work days. A 10-person team does not have 400 hours per 2-week sprint. Budget 60-70% of raw hours as a realistic ceiling until your team's actual velocity proves otherwise.
 
-**Phase 2: Dependency mapping.** Before you commit a single task, trace the chain. If the environment artist can't texture a level until the level designer locks the blockout, and the level designer is waiting on a design review that's scheduled for day 9 of the sprint, you've already broken the sprint before it started. Tools like Jira's dependency tracking or even a simple physical board with string can expose these chains fast.
+**Phase 2: Dependency mapping.** Before you commit a single task, trace the chain. If the environment artist can't texture a level until the level designer locks the blockout, and the level designer is waiting on a design review that's scheduled for day 9 of the sprint, you've already broken the sprint before it started. Tools like Jira's [dependency tracking](/dependency-mapping-in-game-development-schedules/) or even a simple physical board with string can expose these chains fast.
 
 **Phase 3: Risk flagging.** Every sprint should identify two or three tasks that carry high uncertainty. Not to remove them from the sprint, but to assign them earliest in the cycle and schedule a mid-sprint check specifically on those items. Don't let risky work hide until sprint review.
 
@@ -76,7 +77,7 @@ Build a formal swap protocol. New work in means old work out, with the same poin
 - stays accurate
 
 
-*Agile Game Development* by Clinton Keith is the closest thing the industry has to a canonical reference. Keith worked at Pandemic Studios and writes with actual production credibility.
+*[Agile Game Development](/agile-game-development-what-actually-works-in-practice/)* by Clinton Keith is the closest thing the industry has to a canonical reference. Keith worked at Pandemic Studios and writes with actual production credibility.
 
 For broader production fundamentals, the Game Production Masterclass on Udemy by Mighty Studios covers sprint workflows for small-to-mid teams at a price point that won't feel wasted.
 

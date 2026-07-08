@@ -23,6 +23,7 @@ faqs:
    a: "Stop trying to convince them and shift to alignment. Ask what outcome they need and work backward from that. If an investor doesn't believe your timeline, the productive conversation isn't about game development theory. It's about what evidence would give them confidence. That reframes the conversation from debate to problem-solving, and it's usually more productive for everyone."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
+lastmod: 2026-07-07
 ---
 Your publisher contact just forwarded your milestone report to their finance team, and now someone in accounting wants a 30-minute call to understand "why it takes so long to make a video game." You've been in production for eight months. You have 40,000 words of design documentation, a Jira board with 600 tickets, and a team of 12 people who haven't slept properly since Q1. And now you have to explain all of that to someone whose last gaming experience was Minesweeper.
 
@@ -72,7 +73,7 @@ Here's a comparison that helps:
 | Scope is fixed at greenlight | Scope evolves as the game reveals itself |
 | QA is a final step | QA is woven through the entire production |
 
-When I'm talking to someone who needs a timeline they can trust, I stop defending the schedule and start explaining *how we manage uncertainty instead of eliminate it*. Agile sprints. Vertical slices. Alpha and beta gates. These aren't bureaucratic overhead. They're tools for catching expensive mistakes early. Frame it that way and most intelligent business people get it immediately.
+When I'm talking to someone who needs a timeline they can trust, I stop defending the schedule and start explaining *how we manage uncertainty instead of eliminate it*. [Agile sprints](/game-producer-tools-and-software-for-project-management/). Vertical slices. Alpha and beta gates. These aren't bureaucratic overhead. They're tools for catching expensive mistakes early. Frame it that way and most intelligent business people get it immediately.
 
 A line I've borrowed from senior producers: "We don't know exactly when we'll be done, but we know exactly what we'll know by this date, and that's what this milestone buys us."
 

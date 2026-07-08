@@ -23,6 +23,7 @@ faqs:
    a: "Yes, and you should. Leaving assets out because they're large is how you end up with assets living only on someone's local machine. Use Git LFS or a system built for large files, but get everything into the repo. The alternative is eventual disaster."
  - q: "What's the best way to train non-technical team members on version control?"
    a: "One short hands-on session beats documentation every time. Sit down with them, walk through their actual daily workflow (pull before you start, make changes, commit with a useful message, push), and make sure they're comfortable with the GUI client you've chosen. Don't explain the internals. Focus on what they do every day."
+lastmod: 2026-07-07
 ---
 
 Most game teams don't fail at version control because they picked the wrong tool. They fail because nobody actually decided how it works, and then six months in, half the team is working off stale branches, someone force-pushed to main, and the lead programmer is rewriting three days of work at 11pm before a publisher demo.
@@ -32,6 +33,14 @@ I've watched this happen. I've been the person it happened to.
 Version control is one of those topics where everyone nods along in pre-production like it's obvious, and then the actual system falls apart by week four because "we'll figure it out as we go" is not a policy. So let me tell you what I've actually seen work, what the research-and-community consensus looks like (it's messier than anyone admits), and where the real decisions are.
 
 ## Git vs. Perforce: The Honest Version
+
+| Tool | Team Size | Cost/User/Month | Best For |
+| --- | --- | --- | --- |
+| Git + Git LFS | 2-8 people | ~$4 | Indie teams, reasonable asset footprint |
+| Unity Version Control | 30-100 people | Included with Unity | Unity-based teams, non-technical artists |
+| Perforce (Helix Core) | 50+ people | ~$25 | Massive repositories, AAA studios |
+| GitKraken | Any | ~$5 | Non-technical team members preferring GUI |
+| Fork | Any | $35 (one-time) | Non-technical team members preferring GUI |
 
 The game industry has a complicated relationship with this question. The indie and mid-size world has largely standardized on Git, usually with Git LFS (Large File Storage) for binary assets. AAA studios, especially ones making games with massive art pipelines, many still run Perforce. Some run both.
 

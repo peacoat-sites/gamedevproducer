@@ -23,6 +23,7 @@ faqs:
    a: "Jira is industry-standard for bug tracking and sprint management in studios with 10 or more people. Hack n Plan is a strong choice for smaller indie teams and has milestone tracking built specifically for game production workflows. For documentation and production bibles, Notion and Confluence are both commonly used. Some studios use Shotgun (now ShotGrid) for asset tracking alongside a separate task manager. The specific tool matters less than having a consistent, team-wide practice of updating it."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 You're three months into production on a mid-sized mobile RPG when the publisher emails asking for your Alpha build delivery date. Your lead programmer looks at you. Your art director looks at you. You look at the calendar. Nobody in the room agrees on what "Alpha" actually means, and now you're negotiating a contractual deadline against a definition your team has never formally discussed. This happens constantly, and it costs studios real money.
 
@@ -40,7 +41,7 @@ Get this locked down in your production bible before you sign anything. If you'r
 
 Pre-Alpha is the phase most articles skip, but it's where the game actually gets built. There's no single industry standard for when Pre-Alpha starts, but practically it covers everything from concept lock through first playable.
 
-During Pre-Alpha you're doing foundational work: engine selection, core loop prototyping, pipeline setup, art style validation, and early tech spikes. Your team is small. Content is sparse. The builds you're shipping internally aren't representative of the final product and shouldn't be shown to anyone outside the core team.
+During Pre-Alpha you're doing foundational work: [engine selection](/how-game-engine-choice-affects-your-production-plan/), core loop prototyping, pipeline setup, art style validation, and early tech spikes. Your team is small. Content is sparse. The builds you're shipping internally aren't representative of the final product and shouldn't be shown to anyone outside the core team.
 
 The milestone that ends Pre-Alpha is usually called "First Playable" or "Proof of Concept." This is a narrow, polished slice, maybe 10-15 minutes of gameplay, that proves the core mechanic works and the visual style is achievable. Publishers often fund or greenlight based on this deliverable. Don't treat it as a rough prototype. Treat it like a pitch. It's making a promise about what the full game will be.
 
@@ -71,9 +72,17 @@ Publishers reviewing an Alpha build are checking whether you've built what you p
 
 ## Beta: Content Complete, Quality Campaign Begins
 
+| Phase | Definition | Primary Focus |
+|---|---|---|
+| Pre-Alpha | Concept through first playable | Core loop, art style, tech validation |
+| Alpha | All features implemented | System stability, QA ramp |
+| Beta | All content complete | Bug closure, performance, certification |
+| Gold Candidate | Believed ship-ready | Final cert submission, regression |
+| Gold / RTM | Certified, released | Release, post-launch monitoring |
+
 Beta is where the game becomes the game. The defining characteristic: **content complete.** Every level is in. Every enemy type is in. Every cutscene, every item, every quest. The end credits play. You can finish the game.
 
-What Beta is not: ship-ready. The Beta phase is a sustained quality campaign. Your QA team is running full regression passes. You're closing bugs, tuning difficulty curves, and stress-testing multiplayer if your game has it. Platform certification requirements (TRCs for PlayStation, TCRs for Xbox, Nintendo's lotcheck) become a daily concern.
+What Beta is not: ship-ready. The Beta phase is a sustained quality campaign. Your QA team is running full regression passes. You're closing bugs, tuning difficulty curves, and stress-testing multiplayer if your game has it. [Platform certification requirements](/platform-certification-what-producers-need-to-know/) (TRCs for PlayStation, TCRs for Xbox, Nintendo's lotcheck) become a daily concern.
 
 Beta is often split into two sub-phases in larger productions:
 

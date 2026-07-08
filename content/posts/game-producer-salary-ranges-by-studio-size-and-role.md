@@ -23,6 +23,7 @@ faqs:
    a: "At AAA publishers with structured bonus programs, they're real and can add $10K to $30K annually. At indie and mid-size studios, discretionary bonuses are less predictable and sometimes disappear when a title underperforms. Ask specifically whether the bonus is tied to company performance, personal performance, or both, and ask what bonuses looked like in the last two or three years. How a company answers that question tells you a lot."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 You just got an offer for an Associate Producer role at a mid-size studio and the number feels low. Or maybe you're a Senior Producer wondering if you're being underpaid while your LinkedIn feed fills up with job posts that don't show salaries. Either way, you're trying to figure out what this job actually pays, and you're finding that almost nobody in this industry likes to say the number out loud. I've been in those conversations on both sides of the table. Let me give you the real picture.
 
@@ -30,7 +31,7 @@ You just got an offer for an Associate Producer role at a mid-size studio and th
 
 The games industry has a compensation transparency problem. Unlike software engineering, where sites like levels.fyi have made salary data almost uncomfortably public, production roles are scattered across studios of wildly different sizes, business models, and geographies. A Senior Producer at a 12-person indie studio in Austin and a Senior Producer at a 400-person AAA publisher in Seattle share a job title. That's about it financially.
 
-Here's what kills most salary comparisons: the "Producer" title carries almost no standardized meaning. Some studios use it for someone managing full development pipelines. Others hand it to someone who's really a project coordinator doing admin work. Until you understand what the role actually entails, any salary comparison you make is just noise.
+Here's what kills most salary comparisons: the "Producer" title carries almost no standardized meaning. Some studios use it for someone managing full development pipelines. Others hand it to someone who's really a project coordinator doing admin work. Until you understand [what the role actually entails](/what-does-a-game-producer-actually-do/), any salary comparison you make is just noise.
 
 Most studios won't post salary ranges unless they're legally required to. That leaves new producers routinely leaving money on the table because they don't know what to ask for in the first place.
 
@@ -69,9 +70,9 @@ The top of this range skews toward studios in high cost-of-living markets like L
 
 Studio size matters. But role specialization hits the salary ceiling even harder.
 
-**Technical Producers** who can read a codebase, manage engineering milestones, and speak credibly with developers about technical debt consistently earn 10 to 20 percent more than generalist producers at the same seniority level. If you've got real technical chops, that skill is undersold if you're not naming it in negotiations.
+**[Technical Producers](/what-transfers-from-tech-pm-to-game-production/)** who can read a codebase, manage engineering milestones, and speak credibly with developers about technical debt consistently earn 10 to 20 percent more than generalist producers at the same seniority level. If you've got real technical chops, that skill is undersold if you're not naming it in negotiations.
 
-**Live Service and LiveOps Producers** are in strong demand. Managing ongoing update cadences, seasonal content calendars, and post-launch monetization is different work from traditional ship-and-done production. Studios running live games know the difference. I've seen LiveOps Senior Producers command salaries closer to Director-level compensation because the position is genuinely scarce and bad hires show up instantly in player metrics.
+**[Live Service and LiveOps Producers](/showrunner-model-for-live-service-game-production/)** are in strong demand. Managing ongoing update cadences, seasonal content calendars, and post-launch monetization is different work from traditional ship-and-done production. Studios running live games know the difference. I've seen LiveOps Senior Producers command salaries closer to Director-level compensation because the position is genuinely scarce and bad hires show up instantly in player metrics.
 
 **Localization Producers and QA Producers** tend to sit lower on the production salary band even at large studios. The work's valuable. But it's often seen as more process-management than creative or technical production. If you're in these roles, the path to higher compensation usually runs through demonstrating expanded scope.
 

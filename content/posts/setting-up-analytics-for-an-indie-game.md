@@ -23,6 +23,7 @@ faqs:
    a: "It depends on what you're measuring, but for funnel analysis, 200 to 300 completed sessions usually gives you enough signal to make reasonable decisions. Below that, individual outliers can skew your percentages badly. For A/B testing, you generally need much larger samples, often 1,000+ per variant, which is why many indie teams skip formal A/B testing entirely and just ship changes iteratively."
  - q: "Should I build my own analytics backend instead of using a third-party tool?"
    a: "Almost certainly not, unless you have a specific reason to keep data fully in-house (like a contract requirement or a deep privacy commitment). Building a reliable event ingestion pipeline, storage layer, and query interface is months of engineering work. The free tools are good. Use them."
+lastmod: 2026-07-07
 ---
 Most indie developers don't think about analytics until something goes wrong. A game ships, reviews are mixed, players are dropping off somewhere, and suddenly everyone's guessing. Was it the tutorial? The difficulty spike in level three? The shop UI? Nobody knows, because nobody set up the tools to find out.
 
@@ -41,6 +42,13 @@ Funnels are where most teams get the most immediate value. A funnel is just a se
 Don't instrument for completeness. Instrument for decisions.
 
 ## Choosing your tools without overthinking it
+
+| Tool | Free Tier Limit | Best For | Setup Complexity |
+| --- | --- | --- | --- |
+| GameAnalytics | 5 billion events/month | Solo devs, small teams, premium/F2P mobile | Low |
+| Unity Analytics | Restrictive (varies) | Existing Unity ecosystem | Low |
+| Amplitude | 50,000 monthly tracked users | Live-service, web presence, marketing funnels | High |
+| Mixpanel | Varies by plan | Custom queries, SQL-style analysis | High |
 
 Most indie teams should start with GameAnalytics. It's free, it has a Unity SDK and an Unreal SDK, it handles up to 5 billion events per month on the free tier (which you will never hit), and the dashboard is genuinely readable by humans. I've set it up in a weekend project and had data flowing within a couple of hours.
 

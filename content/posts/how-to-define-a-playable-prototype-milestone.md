@@ -23,8 +23,9 @@ faqs:
     a: "External testers, ideally people who match your target player profile and have no context on the project. Internal team members are too close to the build to give you accurate feedback on whether the mechanic is self-evident. Five external sessions will tell you more than fifty internal ones."
   - q: "What happens if the prototype milestone fails?"
     a: "Define failure as information, not a setback. Write a one-page post-mortem on what the prototype revealed, make an explicit decision (pivot the mechanic, reduce scope, reframe the question), and set a new milestone with a revised question. The worst outcome isn't failing the milestone. It's failing it without a clear next step."
+lastmod: 2026-07-07
 ---
-Most articles about prototype milestones give you a checklist. Box A through Box F, all neatly labeled, zero guidance on what the boxes actually mean. That's not useful. What's useful is understanding the one thing those articles skip: a playable prototype milestone isn't a feature list, it's a question. And your job is to define that question precisely enough that your team knows, without ambiguity, when they've answered it.
+Most articles about prototype milestones give you a checklist. Box A through Box F, all neatly labeled, zero guidance on what the boxes actually mean. That's not useful. What's useful is understanding the one thing those articles skip: a [playable prototype milestone](/game-development-milestones-explained/) isn't a feature list, it's a question. And your job is to define that question precisely enough that your team knows, without ambiguity, when they've answered it.
 
 Get that wrong and you'll spend six weeks building a prototype that "proves" nothing, then argue about whether it's done.
 
@@ -40,13 +41,21 @@ Before you write a single acceptance criterion, write the question. Something li
 
 Once you have the question, the criteria exist to operationalize the answer. Most teams overcomplicate this part.
 
-Keep the criteria list short. Genuinely short. More than eight acceptance criteria for a prototype milestone means you've crept into vertical slice territory without realizing it. The difference matters: a prototype proves a mechanic works; a vertical slice proves your pipeline and polish level work. Conflating them doubles your timeline for zero benefit at the prototype stage.
+Keep the criteria list short. Genuinely short. More than eight acceptance criteria for a prototype milestone means you've crept into [vertical slice territory](/alpha-vs-beta-milestone-in-game-production/) without realizing it. The difference matters: a prototype proves a mechanic works; a vertical slice proves your pipeline and polish level work. Conflating them doubles your timeline for zero benefit at the prototype stage.
 
 Each criterion needs to be binary. Pass or fail, yes or no, ships or doesn't. "Controls feel responsive" fails this test. "Character responds to directional input within one frame at 60fps on target hardware" passes it. The more qualitative your criteria, the more you're setting up a milestone review that devolves into opinion.
 
 One criterion that almost always belongs: a minimum playtime for an external session. Something like "five external playtesters complete the core loop without developer instruction." That one constraint forces you to build something that actually works without you standing next to it explaining the controls. It's a completely different bar than "it works when we demo it."
 
 ## Scoping the Build: What Goes In, What Gets Cut
+
+| Prototype Element | Priority | Include? | Rationale |
+| --- | --- | --- | --- |
+| Mechanics testing core question | 1 (highest) | Yes | Directly answers your central question |
+| Visual fidelity (minimum) | 2 | Yes | Prevents misleading tester feedback |
+| UI/menus/save systems | 3 | No | Scope creep at prototype stage |
+| Audio mix/SFX | 3 | No (except core loop sounds) | Outside the test scope |
+| Polish/additional assets | 3 | No | Burns trust and time without validation |
 
 This is where producers earn their keep.
 

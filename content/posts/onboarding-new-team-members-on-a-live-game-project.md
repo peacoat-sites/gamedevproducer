@@ -23,6 +23,7 @@ faqs:
    a: "Throwing someone into ownership too fast because the team is stretched thin. I've seen this kill confidence in genuinely strong hires. Two weeks of shadow mode feels like lost time when you're short-staffed. It isn't. The cost of a mistake on a live game with active players is orders of magnitude higher than two weeks of slower ramp-up."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Someone just accepted your offer. They start Monday. The game launched eight months ago, it's got 200,000 active players, three live events running in parallel, a hotfix due Thursday, and a Confluence wiki that hasn't been touched since beta. Congratulations. You now have approximately two weeks before this person either clicks into gear or quietly starts wondering if they made a mistake.
 
@@ -37,6 +38,13 @@ This isn't a wiki dump. It's a curated narrative. Three to five pages covering: 
 In my experience, new hires spend their first two weeks reverse-engineering context that five people in the room already have. Write it down once. Save everyone the time.
 
 ## Define a 30/60/90 Plan Built Around Live Cadence, Not Generic Milestones
+
+| Onboarding Phase | Duration | Primary Activity | Ownership | Deliverable |
+| --- | --- | --- | --- | --- |
+| Shadow Mode | Days 1-7 | Attend standups, live ops reviews, incident calls | New hire observes only | Written questions become documentation |
+| Contained Ownership | Days 8-30 | Own one small, low-risk deliverable | New hire drives | Minor balance pass, localization QA, or content update coordination |
+| Recurring Responsibility | Days 31-60 | Take on one recurring task with backup | New hire leads, senior staff loops in | Weekly release checklist or similar process |
+| Full Accountability | Days 61-90 | Own core role with clear escalation | New hire fully responsible | Independent decision-making with defined backup |
 
 Generic 30/60/90 plans are useless for live games. "Learn the codebase by day 30" means nothing when a content patch drops in week two.
 
@@ -60,7 +68,7 @@ On live projects, also consider rotating shadowing. Have your new hire spend two
 
 ## Establish Incident Awareness Early, Not After the First Incident
 
-New team members on live games will eventually be in the room when something breaks. If you haven't prepared them for that moment, the first real incident is going to be a terrible experience for everyone.
+New team members on live games will eventually be in the room when something breaks. If you haven't prepared them for that moment, the [first real incident](/crunch-aftermath-how-to-rebuild-team-trust/) is going to be a terrible experience for everyone.
 
 Run a tabletop review of a past incident during their first two weeks. Walk through an actual postmortem: what broke, how it was detected, who was called, what the communication chain looked like, what the player-facing impact was, and what changed afterward. Real examples beat any process document.
 

@@ -6,6 +6,7 @@ date: 2026-06-10
 categories: ["Game Industry"]
 description: "Explore real game developer salary ranges by role, experience level, studio size, and region with an interactive salary calculator."
 author: "Ryan Cole"
+lastmod: 2026-07-07
 ---
 Game developer salaries range wildly. A junior QA tester at an indie studio in Poland might pull in $22,000 a year. A senior engine programmer at a Seattle AAA studio? $250,000 in total compensation. That gap exists because of four things: what you do, how experienced you are, who you work for, and where you live.
 
@@ -16,6 +17,16 @@ This guide pulls from 2024 data across the GDC State of the Industry Survey, Lev
 {{< salary-calc >}}
 
 ## Salary by Role
+
+| Role | Base Salary Range | Experience Level | Studio Type |
+| --- | --- | --- | --- |
+| Junior QA Tester | $22,000 | Entry-level | Indie |
+| QA Lead / Automation Engineer | $80,000-$120,000 | Senior | AAA |
+| Mid-level Gameplay Programmer | $110,000-$150,000 | 5-7 years | Mid-to-Large |
+| Senior Programmer | $150,000-$250,000 | Senior | AAA (Seattle) |
+| Design Director | $200,000+ | Senior | AAA (Naughty Dog, Bethesda) |
+| Senior Producer | Varies by responsibility | Senior | AAA |
+| Remote Role (US Company) | Higher end of range | Mid-to-Senior | All sizes |
 
 **Programmers** earn the most, full stop. They compete with FAANG companies, so studios have to pay or lose talent. A senior gameplay engineer who could work at Google knows exactly what their market rate is, and studios match it or close to it.
 

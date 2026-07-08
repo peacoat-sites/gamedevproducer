@@ -23,6 +23,7 @@ faqs:
    a: "Watch for these signs: Decisions get made in reasonable timeframes. Both roles show up in relevant meetings and engage substantively. Scope changes come with timeline impact discussion. The team isn't confused about creative direction or schedule. People aren't burning out from constant conflict or unclear goals. Neither role is publicly undermining the other. If you see most of these, you're doing okay. If you see none of them, you've got work to do."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
+lastmod: 2026-07-07
 ---
 You're sitting in a pre-production meeting. The creative director just pitched a radical art direction change three weeks before greenlight. The producer in you sees scope creep and timeline risk. The part of you that hired this CD respects their vision. Nobody says anything for seven seconds. That silence is the relationship problem nobody talks about in game production.
 
@@ -46,6 +47,13 @@ Here's the uncomfortable truth: both perspectives are right. A game shipped on t
 The problem starts when these two roles operate in separate universes instead of as a decision-making partnership.
 
 ## Establishing Clear Authority Boundaries
+
+| Decision Type | Authority | Applies When |
+| --- | --- | --- |
+| Impacts both creative quality AND production timeline | Both roles equally (escalate if deadlocked) | Major scope or timeline conflicts |
+| Affects only creative quality | Creative Director | Art style, animation polish, writing nuance |
+| Affects only production timeline | Producer | Sprint velocity, dependencies, hiring |
+| Deadlock situation | Next level of leadership | Must escalate within 48 hours |
 
 Many studios fail because they never explicitly answer this question: who makes the final decision when creative vision conflicts with production reality?
 

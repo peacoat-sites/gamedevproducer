@@ -23,6 +23,7 @@ faqs:
    a: "Part-time and volunteer teams need even more scheduling discipline, not less. Calculate actual available hours per person per week honestly (not aspirationally), use those numbers in your capacity planning, and treat contributor availability as a first-class constraint in your sprint planning. The projects I've seen succeed with part-time teams are the ones that kept scope extremely tight and milestones extremely clear."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Sixty percent of the indie games I've watched fail in the last decade didn't fail because of bad code or weak art. They failed because someone made a timeline in month one and then never looked at it again.
 
@@ -44,7 +45,7 @@ The second flaw is the buffer month. That single month at the end doesn't work.
 
 What you actually need is distributed slack throughout the project. Buffer belongs inside sprints and phases, not bolted on as a rescue fund you'll burn through in week two of "crunch." I've watched teams eat their entire buffer in the first quarter of production and then spend the rest of the project in a low-grade panic about whether they'll actually ship.
 
-The framework that actually holds up treats your timeline as a living document reviewed at fixed intervals, with buffer built into each phase, and with scope under constant active management. Not as punishment, but as a tool.
+The framework that actually holds up treats your timeline as a living document reviewed at fixed intervals, with buffer built into each phase, and with [scope under constant active management](/how-to-scope-an-indie-game-project-realistically/). Not as punishment, but as a tool.
 
 ## Building the Timeline That Won't Lie to You
 
@@ -52,7 +53,7 @@ Start with your milestones, not your tasks.
 
 I know that sounds backwards. Most advice tells you to break down tasks first. But if you start from the task level, you'll spend days building out a gorgeous Gantt chart that has zero relationship to your actual constraints. Instead, work top-down: identify four to six major milestones that your project genuinely needs to hit.
 
-For a typical indie game, that looks like this: Vertical Slice (one fully-built and polished level or level-equivalent that proves your design), Alpha (all core systems in, rough content complete), Beta (full game playable, major bugs squashed), Gold (ship-ready). Adjust for your production model, obviously. A live-service game or a narrative adventure hits different checkpoints. But the principle holds: big milestones first, tasks second.
+For a typical indie game, that looks like this: [Vertical Slice](/what-is-a-vertical-slice-in-game-development/) (one fully-built and polished level or level-equivalent that proves your design), Alpha (all core systems in, rough content complete), Beta (full game playable, major bugs squashed), Gold (ship-ready). Adjust for your production model, obviously. A live-service game or a narrative adventure hits different checkpoints. But the principle holds: big milestones first, tasks second.
 
 Once you have your milestones, work backwards from your target ship date. This is where most people flinch, because the math often reveals immediately that the timeline doesn't work. Good. Better to know that in week one than week forty.
 

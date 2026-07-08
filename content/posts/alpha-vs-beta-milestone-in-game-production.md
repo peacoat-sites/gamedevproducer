@@ -23,6 +23,7 @@ faqs:
     a: "Yes, absolutely, and if they're not, you're doing QA wrong. QA should be testing from the first playable build. The beta phase isn't when testing starts; it's when testing becomes the primary activity. Studios that only staff up QA at beta are consistently the ones with messy launches."
   - q: "How do you handle alpha and beta on a tiny two-person team?"
     a: "The milestone logic still applies even if you don't have a formal producer. Declare your alpha criteria in a shared doc before you start production. When you hit it, stop adding features and start finishing what's there. The discipline of treating those as different modes of work matters at any team size. What you skip is the formal review process, not the concept itself."
+lastmod: 2026-07-07
 ---
 
 Most articles about alpha and beta milestones describe them like they're obvious. Feature-complete at alpha, bug-fix mode at beta, ship it. Done. That framing is so stripped down it's basically useless, and I've watched more than a few teams sail into alpha thinking they understood it, then spend three months drowning in scope decisions that should have been made six months earlier.
@@ -55,13 +56,19 @@ A useful way to think about it: alpha is the last chance to change *what* is in 
 
 ## How Long Should Each Phase Actually Be?
 
+| Project Type | Alpha→Beta Duration | Beta→Ship Duration | Total Late-Stage | Notes |
+| --- | --- | --- | --- | --- |
+| Mid-scope indie (12-24mo total) | 6-10 weeks | 6-10 weeks | 12-20 weeks | Baseline for smaller teams |
+| Console title with cert | 12+ weeks | 12+ weeks | 24+ weeks | Sony/Microsoft cert adds 4-6 weeks minimum |
+| Narrative puzzle (3-person studio example) | 6 weeks | 8 weeks | 14 weeks | Real alpha at week 44 of 52-week plan |
+
 This varies by project scope, team size, and platform requirements. I don't have a clean universal number to give you. But I can give you a rough shape that holds up across most projects I've worked on.
 
 For a mid-scope indie title (12-24 months total dev): alpha to beta is often 6-10 weeks. Beta to ship is 6-10 weeks. So about 12-20 weeks total in the late-stage phases.
 
 For a larger console title with cert requirements: plan for beta to be at minimum 12 weeks. Sony and Microsoft certification processes alone can absorb 4-6 weeks, and that's assuming your first submission passes. It often doesn't.
 
-Where teams consistently underestimate: QA coverage at beta. The number of bugs that surface when you finally have a content-complete, integrated build is always higher than your estimate. Always. Build in buffer. A team that estimates 8 weeks of beta and ships in 8 weeks is a team that got lucky or had already done extraordinary QA discipline in alpha.
+Where teams consistently underestimate: QA coverage at beta. The number of bugs that surface when you finally have a [content-complete, integrated build](/what-is-a-content-complete-milestone-in-games/) is always higher than your estimate. Always. Build in buffer. A team that estimates 8 weeks of beta and ships in 8 weeks is a team that got lucky or had already done extraordinary QA discipline in alpha.
 
 Worked example: A three-person studio building a narrative puzzle game set an alpha milestone for week 38 of their 52-week plan. They hit alpha with 4 of 9 chapters genuinely complete, 5 chapters in stub form. Rather than declare false alpha, they added 6 weeks, hit real alpha at week 44, and compressed beta to 8 weeks. They shipped with 23% fewer post-launch critical bugs than their previous title, which had a "clean" alpha that was actually a stub. Longer development, cleaner ship.
 

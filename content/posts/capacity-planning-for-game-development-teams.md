@@ -23,8 +23,9 @@ faqs:
    a: "At minimum, every milestone. In practice, I'd recommend a light recalibration every four to six sprints, especially if team composition has changed, scope has shifted, or your velocity data is drifting significantly from your estimates. Capacity models are not set-and-forget."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
-You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The post-mortem reveals no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.
+You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The [post-mortem reveals](/how-to-run-a-game-development-retrospective/) no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.
 
 ## Why Game Studios Get Capacity Planning Wrong
 
@@ -64,6 +65,14 @@ Build a simple capacity map broken down by discipline. Spreadsheet, Notion table
 | **Shotgrid (Autodesk)** | Asset-heavy production pipelines | Resource scheduling, bid tracking | Strong for art-heavy teams |
 | **Trello** | Very small teams | None natively | Limited for real capacity work |
 
+| Tool | Best For | Capacity Planning Features | Game Dev Fit |
+|---|---|---|---|
+| **Hacknplan** | Small to mid-size game teams | Built-in task estimation, milestone tracking | Excellent |
+| **Jira + Advanced Roadmaps** | Larger studios with complex backlogs | Capacity by sprint, team availability | Good with setup overhead |
+| **Notion + custom templates** | Indie teams who want flexibility | Manual, lightweight | Good for simple structures |
+| **Shotgrid (Autodesk)** | Asset-heavy production pipelines | Resource scheduling, bid tracking | Strong for art-heavy teams |
+| **Trello** | Very small teams | None natively | Limited for real capacity work |
+
 **"The Game Production Handbook" by Heather Maxwell Chandler** remains one of the most practical references on resource planning in actual game production. Coursera and LinkedIn Learning both offer project management courses that cover capacity fundamentals, though you'll need to adapt frameworks from general software to game dev realities.
 
 ## The Invisible Capacity Drain: Lead Time
@@ -75,7 +84,7 @@ Build a simple capacity map broken down by discipline. Spreadsheet, Notion table
 
 One thing that rarely shows up in capacity models is lead time for decisions. If an art director needs to approve an asset before a junior artist can proceed, and that approval takes two days, you've lost two days of capacity that never gets counted anywhere. Multiply this across a team over six months of production.
 
-Map your decision dependencies the same way you map task dependencies. Know who the bottlenecks are before the sprint starts, not after.
+[Map your decision dependencies](/dependency-mapping-in-game-development-schedules/) the same way you map task dependencies. Know who the bottlenecks are before the sprint starts, not after.
 
 ---
 

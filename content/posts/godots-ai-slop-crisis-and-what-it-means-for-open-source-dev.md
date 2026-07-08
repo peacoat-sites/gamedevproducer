@@ -12,6 +12,7 @@ author_title: "Studio Operations Lead"
 author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "godots-ai-slop-crisis-and-what-it-means-for-open-source-dev"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 If you've been building in Godot, or thinking about contributing to it, you might be wondering what the noise is actually about. On June 22, 2026, longtime Godot maintainer Rémi Verschelde made something explicit that a lot of open-source contributors probably already suspected was coming: the engine "isn't vibe-coded," and pull requests generated entirely by ChatGPT, Claude, Grok, or similar tools are prohibited under current guidelines. It's a clear line drawn in the sand, and it matters well beyond Godot's GitHub repo.
@@ -25,6 +26,15 @@ As PC Gamer reported back in February, maintainers were already describing a ris
 This isn't Godot being precious about craft. It's a resource constraint with real consequences for a project that runs on volunteer labor and donations.
 
 ## Why the Broader Industry Mood Lines Up With This
+
+| Group | Negative View of AI (%) | Positive View of AI (%) |
+| --- | --- | --- |
+| Visual & Technical Artists | 64 | N/A |
+| Game Designers | 63 | N/A |
+| Programmers | 59 | N/A |
+| All Respondents (2026) | 52 | 7 |
+| All Respondents (2025) | 30 | 13 |
+| All Respondents (2024) | 18 | N/A |
 
 Here's what I tell people when they ask whether the AI backlash is just a vocal minority being dramatic: look at the GDC data. The 2026 State of the Game Industry report surveyed more than 2,300 game professionals, and 52% now view generative AI negatively. Two years ago that number was 18%. Last year it was 30%. The trajectory isn't a blip.
 
@@ -44,7 +54,7 @@ Verschelde's framing of "human accountability" as central to open-source develop
 
 You might be wondering whether any of this affects your day-to-day work in the engine. If you're building games rather than contributing to the engine itself, the immediate answer is: not directly. Godot isn't going anywhere. The project is stable, the community is active, and the work Verschelde and the other maintainers are doing to address this suggests the project is taking its sustainability seriously rather than ignoring a growing problem.
 
-But there's a subtler thing worth thinking about. A lot of indie developers use AI tools to help with GDScript, to debug logic, to speed up repetitive tasks. That's not what Godot's policy is targeting, and it's probably fine. The problem is when that assistance becomes a substitute for understanding what you're actually building and submitting. Whether you're contributing to Godot or just building your own project, there's a version of AI-assisted development that keeps you in the driver's seat and a version that quietly erodes your ability to understand your own code. The former is genuinely useful. The latter tends to catch up with you at the worst possible moment, usually when something breaks in a way you can't diagnose.
+But there's a subtler thing worth thinking about. A lot of indie developers use AI tools to help with GDScript, to debug logic, to speed up repetitive tasks. That's not what Godot's policy is targeting, and it's probably fine. The problem is when that assistance becomes a substitute for understanding what you're actually building and submitting. Whether you're contributing to Godot or just building your own project, there's a version of [AI-assisted development](/the-evidence-paradox-killing-indie-funding-pitches-in-2026/) that keeps you in the driver's seat and a version that quietly erodes your ability to understand your own code. The former is genuinely useful. The latter tends to catch up with you at the worst possible moment, usually when something breaks in a way you can't diagnose.
 
 The indie developers I've seen ship successful projects with AI tools are the ones who use them to move faster on things they already understand, not to skip the understanding entirely.
 

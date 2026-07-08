@@ -23,6 +23,7 @@ faqs:
    a: "Hacknplan and Codecks are the two most game-specific options and both have free tiers worth trying. Larger teams use Jira (expensive but powerful) or Shortcut (cleaner than Jira, around $8.50 per user per month). A lot of small indie teams run just fine in Notion or even a well-structured Google Sheet. The tool matters less than whether your team actually updates it."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most game release dates are picked backwards. Someone in a meeting says "we should ship before the holidays" or "let's aim for a year from now," and then the schedule gets built to justify that number instead of derive it. I've sat in those meetings. I've also shipped games that hit their dates and ones that didn't, and the difference almost always traces back to this exact moment.
 
@@ -39,6 +40,16 @@ Once you have a real feature list, estimate each item independently. Use whateve
 Tools that help at this stage: Hacknplan is purpose-built for game development task breakdown and lets you tie tasks directly to game features, which keeps the scope visible. Codecks takes a different angle, using a card-game-style interface that some teams find genuinely easier to work with than Jira. Both have free tiers that work for small teams.
 
 ## Buffer Is Not Padding, It's Math
+
+| Phase | Time Required | Notes |
+| --- | --- | --- |
+| First playable / vertical slice | Included in feature estimates | Validates core gameplay |
+| Alpha lock | Included in feature estimates | Feature complete, content incomplete |
+| Beta | Variable | Content complete, bug-fixing begins |
+| Certification | 4-6 weeks minimum | Console releases only; assume ≥1 resubmission |
+| Gold master and release prep | 1-2 weeks | Final build preparation |
+| Day-one patch | 1-2 weeks | Budget explicitly; not optional |
+| Code review & store setup | 1-2 weeks | Steam and other platforms |
 
 Here's where most release date plans fall apart. Teams estimate how long the work will take under ideal conditions, then treat that as the schedule. But you're not working under ideal conditions. You're working with humans who get sick, scope that creeps, dependencies that block, and bugs that only appear in the last 10% of a feature when it's finally interacting with everything else.
 

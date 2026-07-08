@@ -23,6 +23,7 @@ faqs:
    a: "Risk identification. Not risk elimination, because you can't eliminate risk in game development, but the ability to surface risks early, communicate them clearly, and present decision-makers with real options rather than false reassurance. Every studio right now is operating with tighter margins and less tolerance for surprises. A producer who sees problems coming and names them honestly is worth keeping."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 You open the GDC State of the Industry report expecting validation. Maybe confirmation that the rough patch you're managing through is temporary, that layoffs are slowing, budgets are recovering, the pipeline filling back up. Then you read the numbers. In 2024, roughly 30% of surveyed developers reported being directly affected by layoffs. Studio closures hit teams that had shipped beloved, commercially successful games. The industry shrank in ways that felt personal, because for a lot of people, it was. If you're producing right now, trying to figure out what this data actually means for your work, your team, and your career, you're in the right place.
 
@@ -66,6 +67,13 @@ Here's a grounded way to think about it. AI tools currently offer genuine time s
 If your studio leadership asks you to "integrate AI into the pipeline," push back on the vagueness. Which specific tasks are being targeted? What's the quality bar? Who owns the review process? [Runway](https://runwayml.com) and [GitHub Copilot](https://github.com/features/copilot) have legitimate use cases for specific team members. Deploying them without a review workflow just shifts where the errors happen.
 
 ## Comparing Your Studio's Health Against Industry Benchmarks
+
+| Indicator | Healthy Signal | Warning Signal |
+|---|---|---|
+| Milestone predictability | 80%+ of milestones hit within one sprint | Consistent slippage with no root cause analysis |
+| Team turnover | Under 15% annually | Over 20%, especially mid-project |
+| Scope change frequency | Changes tracked and approved through a change control process | Untracked feature creep between milestones |
+| Budget variance | Within 10% of approved budget per phase | Persistent overages without corrective action |
 
 | Indicator | Healthy Signal | Warning Signal |
 |---|---|---|

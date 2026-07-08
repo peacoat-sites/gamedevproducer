@@ -23,6 +23,7 @@ faqs:
    a: "For small to mid-size teams: HacknPlan for its game-specific task structures, Notion for documentation and decision logs, and Slack or Discord with structured channels per discipline plus a dedicated cross-discipline channel for dependency callouts. For larger teams, Shotgrid for art pipeline management alongside Jira for engineering, with a producer-maintained integration layer between them. The tool matters less than having a single source of truth that both disciplines actually use."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 You're three weeks from alpha, your lead engineer just told you the UI system isn't ready to accept art assets yet, and your lead artist is standing in the doorway asking why her team has been blocked for five days. Both of them are right. Both of them are frustrated. And you're the producer sitting between two people who speak entirely different professional languages, trying to keep the project moving without losing either of them. If that scenario sounds familiar, you've already discovered the core challenge of mixed-discipline team management in game development.
 
@@ -49,6 +50,12 @@ Tools that help: Confluence or Notion for living glossaries, and a project manag
 For reading, Jason Schreier's *Blood, Sweat, and Pixels* is less a how-to and more a why-this-happens, but it's genuinely useful for producers because it shows exactly how communication breakdowns between disciplines accelerate crunch. Keith Tamer's *Agile Game Development* is more prescriptive and gives you framework language you can bring directly into team meetings.
 
 ## Workflow Structures That Actually Bridge the Gap
+
+| Workflow Structure | Engineering Rhythm | Art Rhythm | Sync Point |
+| --- | --- | --- | --- |
+| Staggered sprints with integration milestones | Sprint ahead on foundational systems | Buffer sprint for intent work (blockouts, placeholders) | Integration milestones every 4-6 weeks |
+| Asset readiness tiers | Functional handoff points | Progressive quality delivery (T1-T4) | Formal handoff without requiring system completion |
+| Dependency mapping in standups | Daily standup with dependency callout | Daily standup with dependency callout | Visible "waiting on" swim lane in Kanban |
 
 Most producers try to run engineers and artists on identical sprint structures and then wonder why one group consistently feels behind.
 

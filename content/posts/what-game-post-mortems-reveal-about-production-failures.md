@@ -23,6 +23,7 @@ faqs:
    a: "Yes. GDC Vault has hundreds archived, many free to access. The book Postmortems: Selected Essays Volume One by various GDC authors collects some of the best ones in print. Gamasutra (now Game Developer) has a full archive online. Reading ten of them back to back is more valuable than most production courses."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 You shipped the game. Or maybe you didn't, and it's sitting in a folder somewhere labeled "v_final_ACTUAL_final2." Either way, something went wrong during production, and you're trying to figure out what. Here's something that tends to surprise people outside the industry: the Game Developers Conference has published post-mortems since 1997, and across hundreds of them, the same five or six failure patterns show up over and over again. Not variations on a theme. The exact same problems. That should tell you something about how rarely teams learn from each other, and how much they could.
 
@@ -40,7 +41,7 @@ Practical fix: before you enter production, write a one-page document that answe
 
 Read enough post-mortems and you start noticing something. Teams rarely say "we had a communication problem." They say things like "the art team didn't know about the engine change" or "QA wasn't looped in until month eight" or "the publisher's feedback came too late." That's all communication failure wearing different clothes.
 
-The *Ultima IX: Ascension* post-mortem from 2000 described a situation where engine changes invalidated months of level design work, and the level designers found out after it happened. The leads knew. The leads assumed someone else had told them. Nobody had.
+The *Ultima IX: Ascension* post-mortem from 2000 described a situation where [engine changes](/how-game-engine-choice-affects-your-production-plan/) invalidated months of level design work, and the level designers found out after it happened. The leads knew. The leads assumed someone else had told them. Nobody had.
 
 In my experience, the most dangerous phrase in game dev is "I assumed they knew." You have to build workflows where critical information travels by default, not by memory. That means standups that actually surface blockers, not just status theater. It means a single source of truth for the current design spec, not a folder with seventeen versions of a design document.
 
@@ -62,6 +63,13 @@ Most crunch periods are symptoms of a schedule that was never realistic to begin
 
 ## Estimates Were Wrong Because Nobody Validated Them
 
+| Failure Pattern | Root Cause | Example | Core Fix |
+| --- | --- | --- | --- |
+| Scope Creep | Unclear success criteria, no decision framework | Black & White (2002) | Define done: player actions, competitive advantage, half-time cut list |
+| Communication Failure | Information doesn't travel by default | Ultima IX: Ascension (2000) engine changes | Living documentation, task visibility tools, structured standups |
+| Crunch Cycle | Unrealistic initial schedule | Fallout: New Vegas | Reject crunch as recovery; fix the underlying estimate |
+| Estimate Errors | Planning fallacy, optimistic leads, undefined features | Industry-wide pattern | Break to 8-hour tasks, implementer estimates, velocity tracking, pre-mortems |
+
 Ask a programmer how long a feature will take. Double it. Now you're closer. This is a running joke in the industry but it's actually pointing at a real cognitive bias called the planning fallacy: people systematically underestimate task duration even when they have historical data showing they've been wrong before.
 
 Post-mortems consistently show that initial estimates were made by the people who were most excited about the project, during the period when the project was least defined. That combination is almost guaranteed to produce underestimates.
@@ -72,7 +80,7 @@ Here's what actually works for getting better estimates before production locks 
 2. **Have the person doing the work give the estimate, not the lead.** Leads are optimistic. Implementers are closer to reality.
 3. **Add a 20% buffer to every sprint, minimum.** Not to absorb laziness. To absorb unknowns, which always exist.
 4. **Track your estimate accuracy per sprint.** If you're consistently off by 40%, adjust your estimation formula. This is called velocity tracking, and it's standard in agile frameworks for good reason.
-5. **Run a pre-mortem.** Before you commit to a timeline, ask the team: "Assume we shipped late. What caused it?" You'll surface risks nobody was consciously acknowledging.
+5. **Run a [pre-mortem](/lessons-from-20-years-of-gdc-post-mortems/).** Before you commit to a timeline, ask the team: "Assume we shipped late. What caused it?" You'll surface risks nobody was consciously acknowledging.
 
 Tools: **Jira** with proper sprint velocity tracking is the industry standard for mid-to-large teams. **Hack n' Plan** is built specifically for game dev and handles task breakdown well. For learning the methodology, Jason Schreier's *Blood, Sweat, and Pixels* is essential reading. It's not a textbook but it shows you what these failures look like from the inside.
 

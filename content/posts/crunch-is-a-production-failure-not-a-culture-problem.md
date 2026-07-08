@@ -23,6 +23,7 @@ faqs:
    a: "Yes, and they should. The tools scale down. A two-person team can maintain a simple Trello board with a backlog, a 'must ship' column, and a running capacity note in a shared doc. The principles don't require a project management department. They require the habit of looking at the gap between work remaining and time available before it becomes a crisis."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 A studio hits week fourteen of a scheduled twelve-week sprint. The lead designer hasn't slept more than five hours in three nights. The QA team is running on energy drinks and quiet resentment. The executive producer sends a "we're almost there" email that nobody believes. Sound familiar?
 
@@ -44,7 +45,7 @@ If culture is the wrong diagnosis, what's the right one? In most projects I've s
 
 **No honest milestone renegotiation process.** Milestones should function as checkpoints where scope is adjusted based on what you've learned, not just deadlines to survive. When a studio treats a milestone as fixed in scope and fixed in date simultaneously, and the team is behind, the only variable left is hours worked. That's crunch by arithmetic, not by choice.
 
-**Missing risk registers.** A risk register isn't just a document you create at the start of a project and forget. It's a living tool. If your team hasn't identified the top ten risks on the current project and assigned probability and impact scores to each, you're flying without instruments. When the risky thing happens (and it will), you're scrambling instead of executing a mitigation plan you already made.
+**Missing [risk register](/risk-register-template-for-game-development/)s.** A risk register isn't just a document you create at the start of a project and forget. It's a living tool. If your team hasn't identified the top ten risks on the current project and assigned probability and impact scores to each, you're flying without instruments. When the risky thing happens (and it will), you're scrambling instead of executing a mitigation plan you already made.
 
 ## What a Production System That Prevents Crunch Actually Looks Like
 
@@ -52,11 +53,11 @@ Prevention requires structural decisions made early, not heroics made late.
 
 **Capacity planning uses real numbers.** Before any sprint kicks off, the producer accounts for holidays, known deadlines in other parts of the business, and team-specific factors like a programmer who's part-time for three weeks due to a family situation. A tool like Jira combined with a simple spreadsheet tracking available hours per person per sprint is enough. The math is straightforward. The discipline to do it consistently is what separates good producers from reactive ones.
 
-**Scope is tiered from the start.** Features are categorized into must-ship, should-ship, and nice-to-have. When time pressure appears, the nice-to-have list is where you cut, not the team's weekends. This approach, sometimes called MoSCoW prioritization (Must have, Should have, Could have, Won't have), gives the team a pre-negotiated safety valve.
+**Scope is tiered from the start.** Features are categorized into must-ship, should-ship, and nice-to-have. When time pressure appears, the nice-to-have list is where you cut, not the team's weekends. This approach, sometimes called [MoSCoW prioritization](/scope-creep-prevention-in-game-development/) (Must have, Should have, Could have, Won't have), gives the team a pre-negotiated safety valve.
 
 **Weekly health checks are real, not performative.** A 15-minute producer check-in where the actual question is "are we going to make it, and what's blocking that?" rather than a status update ceremony catches problems at the stage where they're still fixable. Many teams run standups that generate comfort rather than information. Those meetings are theater.
 
-**Retrospectives drive systemic change.** If your team's retrospectives produce a list of feelings and a vague commitment to "communicate better," they're not working. Retros should identify specific process failures and assign concrete owners and deadlines to fix them before the next sprint starts.
+**[Retrospectives drive systemic change](/how-to-run-a-game-development-retrospective/).** If your team's retrospectives produce a list of feelings and a vague commitment to "communicate better," they're not working. Retros should identify specific process failures and assign concrete owners and deadlines to fix them before the next sprint starts.
 
 ## Scope Creep vs. Planned Scope Change: A Practical Comparison
 

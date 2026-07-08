@@ -23,6 +23,7 @@ faqs:
    a: "This is more common than people expect. Your contract should specify what happens to your IP in these scenarios. In acquisition cases, your contract typically transfers to the acquiring company. In bankruptcy, it gets complicated fast and may end up in IP limbo. Rights reversion clauses triggered by breach of contract or insolvency are something to negotiate for, even if you don't expect to use them."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most coverage of this topic frames the choice as "creative control vs. money." That framing is almost useless in practice, because it flattens about fifteen genuinely different tradeoffs into one fake binary. Let me give you the actual picture.
 
@@ -43,6 +44,17 @@ Publishers aren't a guarantee. They're a bet on someone else's organization stay
 
 ## The Real Math on Revenue Share
 
+| Aspect | Publisher Deal (50/50 split) | Self-Publishing (70% to dev) |
+| --- | --- | --- |
+| Advance | $300,000 (recoupable) | $0 |
+| Break-even units needed | ~43,000 units @ $20 game | N/A (profit from day one) |
+| Revenue per $20 game sale | $7 (after 50% split + recoupment) | $14 (after Steam's 30% cut) |
+| 20,000 unit game revenue | ~$0 (advance still recouping) | ~$210,000 |
+| 80,000 unit game revenue | ~$560,000 (post-recoupment) | ~$1,120,000 |
+| Marketing budget | Included (varies) | $30,000-$80,000 (separate) |
+| Recoupment period | Yes, extends timeline | No |
+| IP ownership | Often publisher holds sequel rights | Developer retains all rights |
+
 Standard indie publishing deals sit somewhere between a 70/30 and 50/50 split in the publisher's favor, after they recoup their advance. Some deals go worse. A few go better if you have leverage (a successful previous title, a bidding situation, a viral demo).
 
 Here's the part that actually matters: recoupment terms.
@@ -57,7 +69,7 @@ The counterargument, and it's a real one: a publisher's marketing reach might tu
 
 This is where a lot of first-time developers miscalculate badly. Self-publishing isn't free. It's just differently expensive.
 
-Steam's direct listing fee is $100. That's the easy part.
+[Steam's direct listing fee](/how-to-publish-an-indie-game-on-steam/) is $100. That's the easy part.
 
 A real launch budget for a mid-sized indie with genuine commercial ambitions looks more like this:
 

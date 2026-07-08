@@ -23,6 +23,7 @@ faqs:
    a: "A few I regularly recommend: the Game Developers Conference (GDC) Vault has years of production talks available for free or cheap, and the project management content there is specifically game-industry-applicable. Coursera and LinkedIn Learning both have project management courses covering agile and scrum fundamentals that translate well to game dev. Ryan Sumo's writing on game production for small teams is also worth seeking out. And if you want something structured, the Scrum.org Professional Scrum Master certification gives you a rigorous foundation in sprint-based planning that you can ada"
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 You sat down on a Sunday with a fresh cup of coffee, opened a spreadsheet, and built out what looked like a perfectly reasonable development schedule. Six months to alpha. Three more to beta. Ship by the holidays. It felt good. Organized. Achievable. Then two months in, you're already three weeks behind, your lead programmer just told you the save system is "more complex than expected," and that holiday launch date is starting to feel like a joke you told at your own expense. If that sounds familiar, you're not alone. I've seen this happen to teams with zero experience and teams with fifteen years of it. The problem almost never starts with laziness or incompetence. It starts with how the milestones were set in the first place.
 
@@ -47,6 +48,12 @@ This acceptance criteria-driven approach comes from agile practice but fits game
 For indie teams, write milestone definitions in a shared doc (Notion and Confluence both work) and have every team member read them before work starts. Disagreements about what "done" means almost always surface during that review, not after weeks of misaligned work.
 
 ## Use Historical Data, Even If You Don't Have Much
+
+| Estimation Multiplier | When To Use | Applied To |
+| --- | --- | --- |
+| 1.5x | Work your team has done before | Familiar task estimates |
+| 2.5x | Genuinely new work | Novel or first-time tasks |
+| +15-20% | Buffer at milestone level | Overall milestone timeline |
 
 Your best predictor of how long something takes is how long similar things took you before. The problem is most indie teams don't track this. When it's time to estimate, they're guessing from nothing.
 

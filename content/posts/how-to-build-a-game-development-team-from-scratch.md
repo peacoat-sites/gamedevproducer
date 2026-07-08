@@ -23,6 +23,7 @@ faqs:
     a: "Start with Notion for documentation and Hacknplan or GitHub Projects for task tracking. Both are free at small scale. Don't set up Jira or a complex Scrum framework on your first project. The overhead will eat you alive before you've shipped anything."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Most first-time game dev team builders make the same mistake: they hire for roles before they understand what they're actually building.
 
@@ -44,6 +45,13 @@ The other thing worth knowing is what kind of team structure makes sense for you
 
 ## Roles that actually matter for small teams
 
+| Team Size | Production Role | QA Approach | Prioritized Hires |
+| --- | --- | --- | --- |
+| 2-4 people | Embedded (whoever has PM instincts) | Whole team is QA | Generalist programmer, then art |
+| 5+ people | Dedicated producer | Whole team until beta | Generalist programmer, then art |
+| Pre-alpha stage | Whoever owns schedule | Entire team | Generalist programmer, art |
+| Approaching beta | Dedicated producer recommended | Targeted playtesting + QA process | Generalist programmer, art, then audio |
+
 You might be wondering whether you need a dedicated producer if the team is small. Honest answer: you need someone doing the production work even if nobody has that title. Someone has to own the schedule, track the tasks, run the weekly sync, and make sure the GDD doesn't become a 200-page fiction piece nobody reads.
 
 On a team of two to four people, that's often whoever has the clearest project management instincts, regardless of their primary discipline. On a team of five or more, you start to feel real pain without someone explicitly owning it.
@@ -56,7 +64,7 @@ Art comes next because nothing kills momentum like a programmer building in gray
 
 Audio often comes last, and honestly for a first game that's probably fine. Freelance audio works very well. Ben Prunty (FTL) started as a composer-for-hire on small projects. There's excellent audio talent available on a per-project basis through AudioJungle, Soundsnap licensing, or direct contracts with composers you find through itch.io credits.
 
-What I'd skip early: a dedicated QA hire. At the pre-alpha stage, the whole team is QA. When you're approaching beta, that's when targeted playtesting and a QA process become genuinely necessary.
+What I'd skip early: a dedicated QA hire. At the pre-alpha stage, [the whole team is QA](/how-to-structure-roles-in-a-small-game-studio/). When you're approaching beta, that's when targeted playtesting and a QA process become genuinely necessary.
 
 ## Where to actually find people
 
@@ -74,7 +82,7 @@ For paid freelance work, Upwork works fine for specific scoped tasks (logo, trai
 
 A lot of first-time team builders default to rev-share arrangements because they don't have payroll money. I understand that. But go into rev-share with clear eyes.
 
-Most rev-share games don't pay out. Not because the game fails, but because games that would have paid out at a fair commercial scale rarely get finished by volunteer teams working around day jobs. The incentive structure is working against you.
+Most rev-share games don't pay out. Not because the game fails, but because games that would have paid out at a fair commercial scale rarely get finished by [volunteer teams](/dealing-with-burnout-on-a-game-dev-team/) working around day jobs. The incentive structure is working against you.
 
 If you're doing rev-share, write an actual agreement. Not a handshake. Use something like a simple operating agreement template or work with a lawyer who understands entertainment contracts. Specify what percentage, what it's based on (gross? net after platform fees?), what happens if someone leaves before ship, and what constitutes "done." Indie Game Lawyer (Ryan Morrison's site) has real resources for this at a price range most indie teams can afford.
 

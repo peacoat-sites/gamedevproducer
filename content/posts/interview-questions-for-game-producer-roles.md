@@ -23,6 +23,7 @@ faqs:
     a: "Not always. Unannounced titles are common and studios are legitimately cagey about them. But if they won't tell you the team size, the development phase, or roughly what genre the project is, that's more concerning. You're being asked to commit to a role without knowing what you're committing to."
   - q: "How do I answer if I don't have experience with the studio's specific tools?"
     a: "Be direct: say you haven't used it, name what you have used, and then explain the underlying workflow you're familiar with. 'I haven't used Hansoft, but I've managed backlog and milestone tracking in JIRA for three shipped titles and I've seen enough tools to know the migration is mostly about keybinds, not philosophy.' That's a confident answer. Pretending you know a tool you don't is not."
+lastmod: 2026-07-07
 ---
 
 Most interview guides for game producer roles are written by people who've never actually hired one. They recycle the same five questions ("Where do you see yourself in five years?", "Tell me about a time you handled conflict") and call it a day. That's not useful to candidates, and it's not useful to hiring managers either.
@@ -33,7 +34,7 @@ Here's what actually gets tested when studios interview for producer roles, what
 
 A producer interview isn't really about your answers. It's about watching how you think under mild pressure. Studios are trying to figure out three things: Can you hold a schedule that means something? Can you manage humans who are smarter than you in their specific discipline? And will you tell leadership the truth when the truth is bad?
 
-That last one is underrated. I've interviewed candidates who gave technically competent answers about sprint planning and backlog grooming, then completely froze when I asked them to walk me through a time they had to tell a director that a feature wasn't going to ship. The freeze tells me everything.
+That last one is underrated. I've interviewed candidates who gave technically competent answers about [sprint planning and backlog grooming](/skills-every-game-producer-needs-explained/), then completely froze when I asked them to walk me through a time they had to tell a director that a feature wasn't going to ship. The freeze tells me everything.
 
 So before you prep for a producer interview, accept that the preparation has two layers. The surface layer is knowing the language (Agile, Scrum, JIRA, Hansoft, milestone tracking). The deeper layer is having real stories from your career that demonstrate judgment, not just process knowledge.
 
@@ -71,7 +72,7 @@ Ask things like:
 
 - "What's the current state of the schedule on the project I'd be joining?" (If there's hesitation, that's information.)
 - "What does a producer here own versus what's driven by directors?" (Scope of ownership varies wildly between studios.)
-- "What happened to the producer who had this role before me?" (You'd be surprised how often this gets answered honestly, and what it reveals.)
+- "What happened to the producer who had this role before me?" (You'd be surprised how often this gets answered honestly, and [what it reveals.](/game-producer-salary-guide-explained/))
 - "How does the studio handle crunch? What was the actual crunch pattern on the last shipped title?" (This is not a trick question. Studios that crunch badly know they crunch badly. The honest ones will tell you.)
 
 The last question especially. I've walked away from two offers in my career because the answers to that question were evasive. No regrets.

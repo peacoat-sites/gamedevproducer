@@ -23,6 +23,7 @@ faqs:
    a: "Update them. Seriously. OKRs that no longer reflect reality are worse than no OKRs, because they force teams to either lie about progress or ignore the system entirely. If the project slips and your Q3 OKRs become irrelevant, call a brief review, update the key results to reflect the new situation, and move forward. The cadence serves the work, not the other way around."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
+lastmod: 2026-07-07
 ---
 You rolled out OKRs six months ago. Leadership was energized. Kickoff happened, everyone wrote their objectives, and on paper the key results looked solid. Now it's end of quarter and half your teams are scrambling to update numbers they haven't touched since week two. Nobody can explain how "increase player retention by 15%" connects to the artist who spent eight weeks building environment assets. Sound familiar? You're not alone. The problem probably isn't your people.
 
@@ -38,7 +39,7 @@ I've seen studios with genuinely great OKRs and studios where the whole process 
 
 OKRs work well at studio leadership level when they're tied to strategic outcomes. Market positioning. Platform partnerships. Team health metrics. Revenue targets for live games. They work for business development, publishing, and marketing teams because that work is continuous and output is actually trackable.
 
-They work in live service games too. If your game is live and you're running seasonal content drops, OKRs map directly onto engagement metrics, conversion rates, day-30 retention, feature adoption. The feedback loop is short enough that the numbers mean something by quarter's end.
+They work in [live service games](/live-service-game-production-vs-ship-and-done-titles/) too. If your game is live and you're running seasonal content drops, OKRs map directly onto engagement metrics, conversion rates, day-30 retention, feature adoption. The feedback loop is short enough that the numbers mean something by quarter's end.
 
 I've also seen them work for specific functional teams with clear deliverables: QA tracking defect escape rate, platform integration tracking certification pass rates, data teams tracking pipeline reliability. These are places where the work is repeatable, metrics are real, and the quarterly cadence actually makes sense.
 
@@ -51,6 +52,14 @@ They fail when studios use OKRs as a performance review tool. OKRs are supposed 
 Finally, they fail when written in isolation. If your art director's OKRs have no visibility into the production team's OKRs, you'll get conflict instead of alignment.
 
 ## A Practical Setup: OKRs by Studio Layer
+
+| Layer | Cadence | Example Objective | Example Key Result |
+|---|---|---|---|
+| Studio Leadership | Annual + Quarterly | Build a sustainable live service business | Reach 500k MAU by Q4 |
+| Department Heads | Quarterly | Ship a polished vertical slice | Zero P0 bugs at internal milestone review |
+| Live Service Teams | Quarterly | Improve early retention | Increase Day-7 retention from 22% to 30% |
+| Project Teams (pre-production) | Milestone-based | Validate core gameplay loop | Player test sessions score 7+ on fun rating |
+| Individual Contributors | Skip formal OKRs | Use sprint goals and milestone targets instead | N/A |
 
 Here's what a layered OKR approach looks like when it's working:
 
@@ -73,7 +82,7 @@ That last row matters. Individual contributors in game dev are usually better se
 
 If you're running OKRs seriously, get them out of spreadsheets. **Lattice**, **Notion** (with a proper OKR template), or **Ally.io** (now part of Microsoft Viva) let you create visible, linked OKRs across the organization. For smaller studios, a well-structured Notion workspace or **ClickUp** goal-tracking feature is usually enough.
 
-For learning the framework, **"Measure What Matters" by John Doerr** is the source text, but read it critically with game dev in mind. **"Radical Focus" by Christina Wodtke** is shorter and more practical. For broader production context, **"The Game Production Handbook" by Heather Maxwell Chandler** gives you the game-specific grounding that business OKR resources skip entirely.
+For learning the framework, **"Measure What Matters" by John Doerr** is the source text, but read it critically with game dev in mind. **"Radical Focus" by Christina Wodtke** is shorter and more practical. For broader production context, **"The Game Production Handbook" by Heather Maxwell Chandler** gives you the [game-specific grounding](/what-is-a-game-milestone-alpha-beta-gold/) that business OKR resources skip entirely.
 
 For project management, **Jira** and **Hansoft** are still the industry standards for large teams. **Shortcut** and **Linear** work well for smaller or more agile studios and integrate cleanly with OKR tools.
 

@@ -12,12 +12,20 @@ author_title: "Publishing Strategist"
 author_bio: "Samantha Roberts has spent her career navigating the publisher side of the games industry: first pitching indie studios to publishers, then working inside a publishing label evaluating hundreds of projects. She knows what publishers look for and what indie developers consistently get wrong in their pitch decks. At GameDevProducer, she covers publishing strategy, funding, and the business of bringing a game to market."
 slug: "qa-testing-workflow-for-indie-games-explained"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most indie teams treat QA like a final checkbox. Build the thing, then hand it to a friend for a weekend, fix the obvious crashes, ship it. I did this on my second project and watched a game-breaking save corruption bug hit the Steam forums within six hours of launch. Reviews tanked before I even woke up on release day. That experience rewired how I think about testing permanently.
 
 Here's what actually surprises people when they look at QA seriously for the first time: the workflow matters more than the headcount. A solo tester with a structured process will find more critical bugs than five people playing around without one. That's not motivational-poster stuff, that's just true. Structure determines what gets found, documented, and actually fixed versus what gets clicked through once and forgotten.
 
 ## What a Real QA Workflow Looks Like for a Small Team
+
+| QA Phase | Purpose | Scope | Frequency |
+| --- | --- | --- | --- |
+| Smoke Testing | Catch broken builds | Launch, main menu, core loop stability | After every major build |
+| Feature Testing | Validate new content | Targeted system (weapon, level, mechanic) | When new content lands |
+| Regression Testing | Detect unintended side effects | Systems adjacent to changes | After bug fixes or code merges |
+| Exploratory Testing | Find unanticipated bugs | Full game, creative testing | Before external playtests/launch |
 
 The first thing to accept is that indie QA isn't AAA QA with fewer people. It's a genuinely different discipline. You don't have a dedicated QA department running regression suites on 12 platforms simultaneously. What you have is maybe two or three people, some willing volunteers, and a finite amount of time before launch. The workflow has to be designed around that reality.
 

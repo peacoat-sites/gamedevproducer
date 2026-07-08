@@ -23,6 +23,7 @@ faqs:
     a: "Track your actuals obsessively for six months. Compare what you planned to what shipped, and be honest about why the gaps happened. No tool will make you a better estimator faster than your own project data. Mike Cohn's Agile Estimating and Planning is also worth reading if you want a framework to go with the practice."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Most game producers I've met either fell into the job by accident or got promoted from something they were already good at. A programmer who happened to be good at talking to people. A designer who kept the spreadsheet everyone else ignored. An artist who started running standup because nobody else would. That's not a bad origin story, actually. But it does mean a lot of producers are operating on instinct, patching gaps as they appear, without ever sitting down to ask: what does this job actually require?
 
@@ -52,7 +53,7 @@ A lot of new producers treat a schedule like a to-do list with dates attached. T
 
 The mechanics of scheduling aren't complicated. You can learn to build a Gantt chart in a weekend. You can set up a Jira backlog in an afternoon. The harder skill is calibration: knowing how long things actually take, which almost always comes from experience and from listening carefully when people estimate. When a senior programmer says something will take "a few days," you need to know whether that person's "few days" historically means three days or ten.
 
-Here's what I tell junior producers: track your actuals. Every sprint, every milestone, compare what you planned to what happened. Not to blame people. To get smarter. After six months of this you'll have data that makes you materially better at your job.
+Here's what I tell [junior producers](/how-to-transition-from-qa-to-game-production/): track your actuals. Every sprint, every milestone, compare what you planned to what happened. Not to blame people. To get smarter. After six months of this you'll have data that makes you materially better at your job.
 
 Tools I'd recommend: Jira and Confluence are standard at most studios above 10 people. Notion has gained a lot of ground at smaller indie studios and it's genuinely flexible. For timeline visualization, Miro is good for the messy early planning stages, and something like Smartsheet or even a well-structured Google Sheet works fine for milestone tracking if you're not at a studio that's standardized on something else. Karl Chou's *The Game Production Handbook* (now in its third edition) is probably the best single reference if you want to go deep on scheduling methodology.
 

@@ -6,6 +6,7 @@ date: 2026-06-10
 categories: ["Game Business"]
 description: "Calculate how game revenue splits between platforms, publishers, and team members, with recoupment thresholds and clear per-person payouts."
 author: "Ryan Cole"
+lastmod: 2026-07-07
 ---
 Revenue share disputes are one of the most common, and most avoidable, causes of studio conflict. Getting clear on who gets what before a game ships, in writing, with math that everyone has seen and agreed to, is one of the most impactful things a producer can do for team health and long-term business sustainability.
 
@@ -13,9 +14,19 @@ This calculator walks you through the full waterfall: platform fees first, then 
 
 ## How the Revenue Waterfall Works
 
+| Platform | Standard Cut | Notes |
+| --- | --- | --- |
+| Steam | 30% | Drops to 25% above $10M, 20% above $50M |
+| Epic Games Store | 12% | Intentionally undercuts Steam |
+| PlayStation | 30% | Console standard |
+| Xbox | 30% | Console standard |
+| Nintendo Switch | 30% | Console standard |
+| App Store | 30% | Drops to 15% for subscriptions and developers under $1M annually |
+| Google Play | 30% | Drops to 15% for subscriptions and developers under $1M annually |
+
 Game revenue flows through several deductions before it reaches developers. Understanding each layer matters when you're negotiating deals.
 
-**Step 1: Platform fee.** Every distribution platform takes a cut off the top. Steam's standard rate is 30% (dropping to 25% above $10M, 20% above $50M, but most indie games never see those tiers). Epic Games Store charges 12%, which was intentionally set to undercut Steam. Console platforms like PlayStation, Xbox, and Nintendo Switch all charge 30%. Mobile is the same: 30% on the App Store and Google Play, though that drops to 15% for subscriptions and developers under $1M annually. Whatever platform you're on, this cut comes out first, before anything else.
+**Step 1: Platform fee.** Every distribution platform takes a cut off the top. [Steam's standard rate is 30%](/steam-revenue-calculator/) (dropping to 25% above $10M, 20% above $50M, but most indie games never see those tiers). Epic Games Store charges 12%, which was intentionally set to undercut Steam. Console platforms like PlayStation, Xbox, and Nintendo Switch all charge 30%. Mobile is the same: 30% on the App Store and Google Play, though that drops to 15% for subscriptions and developers under $1M annually. Whatever platform you're on, this cut comes out first, before anything else.
 
 **Step 2: Publisher recoupment.** If you have a publisher, their deal almost certainly includes a recoupment clause. The publisher recoups their investment (marketing costs, development advances, sometimes overhead) before the revenue share kicks in. This isn't a fee. It's them recovering what they spent. The real negotiation point is *what counts toward recoupment*. Advances paid to you should count. Marketing spend the publisher controls often counts. Sometimes they'll try to throw in overhead, interest, or unrelated costs. Push back on those.
 

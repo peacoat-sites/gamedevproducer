@@ -23,6 +23,7 @@ faqs:
    a: "Genuinely yes, and this is underused. Walking into a publisher milestone review with a current risk register shows professional rigor. It also gives you a structured way to surface risks that need publisher input, like platform certification strategy or marketing timeline dependencies, without it feeling like you're delivering bad news."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most game projects don't fail because of bad ideas. They fail because nobody wrote down the thing everyone quietly worried about in week two. I've sat in postmortems where the team collectively remembers the exact moment they knew the dependency on a third-party SDK was going to blow up the milestone, and nobody escalated it. It lived in someone's head. That's not a communication problem. That's a risk management problem, and a risk register is the tool that solves it.
 
@@ -62,13 +63,13 @@ Generic project management templates don't account for how games actually break.
 
 **Technology and engine risk.** Engine version locks, middleware licensing changes, platform certification requirements that shift mid-development. The Unity pricing announcement in 2023 nearly tanked some studios' entire roadmaps. That's now a risk category that matters.
 
-**Scope creep from creative iteration.** This one's almost unique to games. The first playtest shows the core loop isn't fun, so the designer wants to rebuild it. That's legitimate creative work, not a failure. But it needs to be in your register with a probability score before the playtest happens, not after.
+**[Scope creep from creative iteration](/scope-creep-prevention-in-game-development/).** This one's almost unique to games. The first playtest shows the core loop isn't fun, so the designer wants to rebuild it. That's legitimate creative work, not a failure. But it needs to be in your register with a probability score before the playtest happens, not after.
 
 **Key person dependency.** Games get made by small teams. One programmer might own the entire save system. One designer might be the only person who understands the AI behavior trees. Document it. That's a risk score of 15 on a team of six.
 
 **Platform and certification risk.** Submission windows, first-party review backlogs, rating board requirements. Console certification alone can add four to eight weeks if you fail the first submission. That's not theoretical. That's something you plan for on day one.
 
-**External dependency risk.** Licensed IP, audio middleware, backend services, localization vendors. Any dependency you don't control directly belongs here.
+**[External dependency risk](/dependency-mapping-in-game-development-schedules/).** Licensed IP, audio middleware, backend services, localization vendors. Any dependency you don't control directly belongs here.
 
 ## How to Build Your Register in a Working Session
 
@@ -87,7 +88,7 @@ The silent writing step matters more than it sounds. Senior people can unintenti
 
 The biggest failure mode I've watched is a beautifully formatted risk register that becomes a museum artifact by sprint three. Here's what keeps it alive:
 
-Review high-score risks every two weeks during your sprint retrospective or milestone check-in. You don't need a dedicated meeting. Five minutes at the end of standup works if you're consistent.
+Review high-score risks every two weeks during your [sprint retrospective](/how-to-run-a-game-development-retrospective/) or milestone check-in. You don't need a dedicated meeting. Five minutes at the end of standup works if you're consistent.
 
 Set a "stale risk" rule. Any risk that hasn't been reviewed in 30 days gets flagged automatically. Most spreadsheet tools can do this with a simple formula on the "Last Reviewed" column.
 

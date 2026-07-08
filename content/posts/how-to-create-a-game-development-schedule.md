@@ -23,6 +23,7 @@ faqs:
    a: "Stop trying to fix the estimates. Start tracking actuals and calculate your team's estimation ratio. If estimates are consistently 60% of actuals, apply a 1.7x multiplier to all future estimates automatically. This is called a velocity adjustment and it's much more reliable than trying to get people to estimate better through willpower. Over time, as you build a history of similar tasks, your estimates will naturally improve because they'll be anchored to real data rather than optimism."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most game development schedules are wrong the moment you finish writing them. I don't mean slightly off. I mean the average game ships 40-75% later than its original internal estimate, and that's not a stat from bad studios, it's basically industry standard. I spent a long time thinking this was a discipline problem, a planning problem, or a "we just need better tools" problem. What I eventually figured out is that it's actually a fundamental misunderstanding of what a game development schedule is supposed to do.
 
@@ -76,6 +77,12 @@ Map features to people and check for overloads. One artist can't simultaneously 
 At least 15-20% buffer time before each major milestone. Not padding every individual task, that creates slack that gets filled with scope creep. Buffer at the gate level, where you can protect and manage it deliberately.
 
 ## The Tools That Actually Help (and What They're Not Good For)
+
+| Tool | Best For | Watch Out For |
+|---|---|---|
+| **Jira** | Sprint-level task tracking, bug tracking, large teams | Setup overhead, can become a reporting theater exercise |
+| **Hansoft** | AAA-scale milestone tracking, gantt-style views | Expensive, steep learning curve, overkill for indie |
+| **Hack n Plan** | Game-specific task management, indie/mid-size teams | Limited integration options, smaller community |
 
 Let's talk tools, because producers always want to know what to use.
 

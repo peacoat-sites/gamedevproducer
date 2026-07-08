@@ -23,10 +23,11 @@ faqs:
     a: "Don't set a launch date until your build is in final testing and you're confident in a two-to-four week window. Announcing a date and missing it damages player trust and gets you negative press coverage before you've sold a single copy. Pick the date when the game is done, not when you hope it'll be done."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 Steam charges a $100 app fee, takes 30% of your revenue, and is still the obvious choice for almost every indie developer. That should tell you everything about where the market is.
 
-I've watched developers spend six months on a beautiful game and then wreck the Steam launch so thoroughly the algorithm never recovers. The platform isn't hard to understand, but there are specific decisions around timing and store page setup where a mistake costs real money and real wishlist momentum. This is what I wish someone had explained before I did it wrong the first time.
+I've watched developers spend six months on a beautiful game and then wreck the Steam launch so thoroughly the algorithm never recovers. The platform isn't hard to understand, but there are specific decisions around timing and [store page setup](/how-to-build-a-steam-page-that-converts/) where a mistake costs real money and real wishlist momentum. This is what I wish someone had explained before I did it wrong the first time.
 
 ## The Steamworks Setup Nobody Explains Clearly
 
@@ -53,6 +54,16 @@ The long description supports SEO. Steam indexes keywords from it. Don't spam ke
 Tags start with you and then players add more. Set your own tags before launch since they feed the discovery algorithm. Skip obvious ones like "Indie" (it's noise now). Go specific: "Metroidvania," "Dark Fantasy," "Local Co-op." You get up to 20.
 
 ## The Coming Soon Page and Wishlist Window
+
+| Task | Requirement | Timeline |
+| --- | --- | --- |
+| Steamworks Account Approval | Pay $100 app fee | ~5 business days |
+| Coming Soon Page Launch | Playable build + screenshots + clear concept | Minimum 6 months before launch |
+| Steam Next Fest Demo Submission | Demo ready | A few months before event (June/October) |
+| Wishlist Accumulation Target | Reach visibility threshold | 7,000-10,000 wishlists by launch day |
+| Store Page Elements | Capsule image, 6-10 screenshots, descriptions, tags | Before Coming Soon publication |
+| Tax Setup Completion | W-9 or W-8BEN forms | Before earning revenue |
+| Achievements Design | 12-20 well-designed achievements | Before launch |
 
 This is where I see most of the wasted potential.
 

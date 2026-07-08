@@ -23,6 +23,7 @@ faqs:
     a: "Contradictory feedback usually means you're testing with people who have different expectations, not that the feedback is useless. Segment by player profile first. If two players with identical profiles give opposite reactions, that's genuinely ambiguous and worth investigating further rather than picking a winner."
 author_slug: "priya-sharma"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most playtest advice teaches you how to run a session. Almost none of it teaches you how to get information you can actually use. Those are different skills, and conflating them is why so many teams walk out of playtests feeling good and walk into crunch six months later discovering the same problems players warned them about in February.
 
@@ -59,6 +60,15 @@ Keep sessions to 30-60 minutes for early builds. Players hit fatigue hard around
 After play ends, run a short debrief: five to ten minutes, structured questions, kept open-ended. "Walk me through the moment you felt most confused" gets you more than "Was the tutorial clear? (1-5)." Rating scales produce numbers that feel scientific and mean almost nothing in early development. You need language, not averages.
 
 ## Capturing What Actually Happened
+
+| Tool | Cost | Best For |
+| --- | --- | --- |
+| Playtestcloud | $1.50-$4 per minute | Remote testing with target-audience players, recorded sessions |
+| UserTesting | Higher cost | Detailed screener tools, targeted recruitment |
+| OBS | Free | Local screen and audio recording |
+| Loom | Free (with paid tiers) | Quick async tests, self-recorded sessions |
+| Lookback | $25-$99/month | Recording, tagging, clip-sharing, post-session admin |
+| Craigslist + university research boards | Varies | Local in-person sessions with screener questionnaire |
 
 Observation notes are where most teams get sloppy. You're watching someone play, something goes wrong, you write "player confused by inventory" and move on. Six sessions later, you have six variations of "player confused by inventory" and no idea whether it's the same problem or six different ones.
 

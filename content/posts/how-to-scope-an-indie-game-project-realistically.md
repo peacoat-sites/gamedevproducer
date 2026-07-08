@@ -23,6 +23,7 @@ faqs:
    a: "It can be, but it's not a magic fix. Early access works when you have a genuinely playable core loop that players find fun, a transparent roadmap, and the discipline to keep shipping updates. It doesn't work as a way to sell an unfinished game while you figure out what you're building. Players remember bad early access launches and the refund rates will show you immediately if you misjudged your readiness."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 You've got a game idea. It's good. Maybe it's great. You've been sketching systems on napkins, you've got a Discord server with twelve friends who are "definitely in," and you've already mentally cast the launch trailer. Then someone asks: "How long do you think this will take?" You say six months. Everyone nods. Two years later, you're still in development, three people have quietly quit, and the scope has somehow expanded into something that would make a mid-size studio sweat. I've watched this happen to more teams than I can count. I've lived a version of it myself. The problem was never passion or talent. It was scope.
 
@@ -32,7 +33,7 @@ Realistic scoping isn't about crushing ambition. It's about building something t
 
 ## Why Developers Underestimate (And It's Not What You Think)
 
-Most people blame scope creep on disorganization or lack of discipline. That's not really the issue. The actual culprit is something researchers call the planning fallacy: humans estimate how long tasks take based on best-case scenarios, not realistic ones. You picture yourself working smoothly, no bugs, no life interruptions, no three-week void when your lead programmer gets mono.
+Most people blame [scope creep](/avoiding-scope-creep-in-game-production/) on disorganization or lack of discipline. That's not really the issue. The actual culprit is something researchers call the planning fallacy: humans estimate how long tasks take based on best-case scenarios, not realistic ones. You picture yourself working smoothly, no bugs, no life interruptions, no three-week void when your lead programmer gets mono.
 
 Game development makes this problem worse than almost any other software field. Why? Because games require code, art, audio, design, and player feel all converging at once, and player feel is the one variable you can't estimate until you're actually building it. You don't know your combat loop feels floaty until you've built it and played it for a week. You don't know you need to rebuild the inventory system until you've playtested with strangers who do things you never thought of.
 
@@ -62,7 +63,7 @@ Most teams planning to build a bucket-three game only have the capacity for buck
 
 Here's my method. It's not glamorous but it works.
 
-**Step 1: Break work into tasks of 1-3 days.**
+**Step 1: [Break work into tasks](/how-to-write-good-user-stories-for-game-features/) of 1-3 days.**
 Anything longer needs to be broken down. "Build the combat system" isn't a task. "Implement basic melee attack with hitbox and animation trigger" is. Granularity forces honesty.
 
 **Step 2: Estimate each task in hours, not days.**
@@ -81,11 +82,18 @@ Don't absorb this into your tasks. Keep it as a project-level reserve for unknow
 
 ## Team Capacity Is Not What You Think It Is
 
+| Aspect | Solo Developer | Small Team (5 people, part-time) | Full-time Team |
+| --- | --- | --- | --- |
+| Realistic focused hours/week | 10-15 | ~20 (collective) | 150+ |
+| Typical shipped project scope | 2-6 hours playtime, <30 content pieces | One core mechanic explored deeply | Multiple mechanics, extensive content |
+| Time multiplier to apply | 2.5x-3x | 2.5x-3x | 2x-2.5x |
+| Coordination overhead | Minimal | High (can exceed output) | Managed but present |
+
 This is what kills the most indie projects: overestimating what your team can actually accomplish.
 
 Five people sounds significant. But if those five all have day jobs, families, and other obligations? You might realistically have the equivalent of one full-time developer. Maybe less. I've seen teams of eight produce less work per month than a solo developer with a day job, because coordination overhead, unclear ownership, and inconsistent availability swallow everything.
 
-Before you scope anything, build a capacity map. Write down each person's name, their role, and honest hours per week they can commit. Have them tell you themselves. Discount it by 20% because people overestimate their availability. Now you know your actual throughput.
+Before you scope anything, [build a capacity map](/best-project-management-tools-for-game-studios/). Write down each person's name, their role, and honest hours per week they can commit. Have them tell you themselves. Discount it by 20% because people overestimate their availability. Now you know your actual throughput.
 
 Solo developers have simpler math but sobering conclusions. Projects that ship tend to be genuinely small: 2-6 hours to complete, fewer than 30 distinct content pieces, one core mechanic explored deeply rather than many explored shallowly. *Celeste* started as a four-day jam game. *Vampire Survivors* launched in early access with extremely limited content and a single map. These weren't accidents. They were scoping decisions.
 

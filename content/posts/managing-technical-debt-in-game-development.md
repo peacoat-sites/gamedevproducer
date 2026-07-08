@@ -23,6 +23,7 @@ faqs:
    a: "Document what you know and assign a new owner immediately. Don't let orphaned systems float without an accountable engineer. Even if the new owner's only job is to understand it well enough to triage tickets, that's better than nobody. The worst debt is the debt nobody will touch because nobody understands it and there's no one to ask."
  - q: "Is it ever okay to ship knowing there's significant technical debt in a system?"
    a: "Honestly, yes. Shipping with known rot is sometimes the right call, especially on features that won't be touched post-launch. The mistake isn't carrying debt over launch, it's not documenting it clearly, not making a plan to address it, and pretending it doesn't exist. Ship the game. Know what you owe. Pay it back deliberately."
+lastmod: 2026-07-07
 ---
 
 Every team I've ever worked with has said some version of the same thing: "We'll clean it up after launch." I've said it myself. And I've watched it age into the most expensive lie in game development.
@@ -41,6 +42,12 @@ There's also the discipline problem. Junior developers (and sometimes senior one
 
 ## The Taxonomy That Actually Helps
 
+| Debt Category | Characteristics | Impact Timeline | Action Priority |
+| --- | --- | --- | --- |
+| **Rot** | Fragile, poorly documented, currently working | Hurts when touched | Queue for planned refactor |
+| **Friction** | Slows daily development (slow builds, broken pipelines) | Cumulative cost every sprint | High ROI on fixing |
+| **Liability** | Actively wrong, will cause incidents | Urgent/blocking | Immediate board placement |
+
 Not all technical debt is the same, and treating it like a monolith is why most teams either ignore it completely or try to boil the ocean. I've found it useful to split debt into three rough categories based on urgency and blast radius.
 
 The first category is **rot**: code that's fragile, poorly documented, and currently working. It doesn't hurt today. It will hurt when you touch it. You know the kind, a save serializer that nobody remembers writing, held together by implicit assumptions about load order.
@@ -55,11 +62,11 @@ Once you can categorize debt this way, prioritization becomes a real conversatio
 
 The most effective thing I've done as a producer is make debt visible. Not by adding a "tech debt sprint" every quarter (that doesn't work, I'll explain why in a second), but by creating a living document the team actually looks at.
 
-In practice, this means a dedicated backlog column in whatever project management tool you're using. Jira, Shortcut (formerly Clubhouse), Hack'n'Plan, it doesn't matter. What matters is that engineers can file debt tickets the same way they file bugs, with a category tag (rot, friction, liability), an estimated blast radius, and a rough fix cost. Not precise, rough. Two hours, two days, two weeks. That's enough to triage.
+In practice, this means a dedicated backlog column in whatever [project management tool](/best-project-management-tools-for-game-studios/) you're using. Jira, Shortcut (formerly Clubhouse), Hack'n'Plan, it doesn't matter. What matters is that engineers can file debt tickets the same way they file bugs, with a category tag (rot, friction, liability), an estimated blast radius, and a rough fix cost. Not precise, rough. Two hours, two days, two weeks. That's enough to triage.
 
 The "tech debt sprint" model fails because it creates the illusion of a dedicated window while actually training the team that debt is a problem you deal with periodically, not continuously. Teams that batch debt into quarterly cleanups end up with the last six weeks before the cleanup being a lawless period where everyone knows the refactor is coming anyway, so why bother being careful now.
 
-What works better: a standing allocation. Every sprint, 15-20% of engineering capacity goes to debt reduction, with the engineering lead picking the items. Not the producer. The engineer closest to the code has to have real authority over what gets cleaned up, or the system becomes performative. Producers track that the allocation is being protected. Engineers decide how it's spent.
+What works better: a [standing allocation](/sprint-planning-for-small-game-teams-guide/). Every sprint, 15-20% of engineering capacity goes to debt reduction, with the engineering lead picking the items. Not the producer. The engineer closest to the code has to have real authority over what gets cleaned up, or the system becomes performative. Producers track that the allocation is being protected. Engineers decide how it's spent.
 
 One more thing that's underused: the "stop adding to it" intervention. Sometimes the most productive thing a producer can do is freeze a system. Mark it in Jira as "no new features until refactored." It feels bureaucratic but it works. It stops the bleeding while you queue up the fix.
 

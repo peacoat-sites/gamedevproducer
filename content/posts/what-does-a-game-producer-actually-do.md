@@ -23,10 +23,17 @@ faqs:
    a: "At minimum: velocity against planned velocity (are you completing what you commit to?), bug open/close rate as you approach launch, milestone hit rate, and build stability. Beyond that, track whatever is causing the most risk on your specific project. If outsource asset delivery is your biggest dependency, track that weekly. If your engine is unstable, track crash rate and build times. Metrics should reflect your current risk profile, not a generic production dashboard template."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 You're three weeks from a milestone review and your lead programmer just told you the combat system is six weeks out. Your art director thinks scope is fine. Your studio head thinks everything is on track. You're the only person in the room who knows all three of those things at once. That's the job.
 
 ## The Producer Is the Connective Tissue of a Game Team
+
+| Studio Size | Producer Structure | Key Focus |
+| --- | --- | --- |
+| 10-person indie | Designer + schedule management | Milestone scheduling, standups |
+| 50-person mid-size | Dedicated producer role | Schedule, risk, stakeholder comms, team health |
+| 200-person AAA | Senior producer + associate producers + coordinator | Specialized slices of production responsibilities |
 
 Most people picture a producer as someone who sits in meetings, sends status emails, and occasionally yells about Gantt charts. The actual work is messier and considerably harder.
 

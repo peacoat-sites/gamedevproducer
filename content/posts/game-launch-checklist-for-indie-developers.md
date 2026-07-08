@@ -23,6 +23,7 @@ faqs:
    a: "Save file corruption and missing controller support are the two that come up most consistently in post-mortems I've read. A corrupted save after two hours of play is an immediate refund and a furious review. Test your save system until you're sick of testing it, then test it again."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most indie games don't fail because they're bad games. They fail because they launched badly. I've watched genuinely good games sell fewer than 200 copies at launch because the developer treated "upload to Steam and post on Twitter" as a release strategy. The game sat there, invisible, while the developer refreshed their sales dashboard in quiet despair. What surprised me most when I started digging into post-mortems and talking to other developers was how consistent the pattern is: the game was fine, sometimes great, but the launch infrastructure was completely missing. A checklist won't save a bad game, but the absence of one has killed plenty of good ones.
 
@@ -44,8 +45,8 @@ What I see constantly: developers spend 90% of their time on the game and 10% on
 
 During the 90-day window, focus on this:
 
-- **Get your store page live** with capsule art, screenshots, a trailer, and a description that leads with what the player actually *does*, not a feature checklist
-- **Build your wishlist** aggressively. Every 1,000 wishlists on Steam roughly correlates with 100-200 day-one sales (the research here is messy and depends heavily on genre, but it's a real signal)
+- **[Get your store page live](/how-to-build-a-steam-page-that-converts/)** with capsule art, screenshots, a trailer, and a description that leads with what the player actually *does*, not a feature checklist
+- **[Build your wishlist](/wishlist-strategy-for-indie-game-launches/)** aggressively. Every 1,000 wishlists on Steam roughly correlates with 100-200 day-one sales (the research here is messy and depends heavily on genre, but it's a real signal)
 - **Contact press and creators** with a real press kit and a review key offer, not a desperate "please cover my game" message
 - **Set up community spaces** -- a Discord server, a subreddit, or somewhere consistent where people can ask questions
 

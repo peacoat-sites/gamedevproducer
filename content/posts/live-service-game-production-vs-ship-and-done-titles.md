@@ -23,6 +23,7 @@ faqs:
    a: "Jira remains the industry standard for sprint-based live ops work, especially if you need custom workflows and integration with your CI/CD pipeline. Hacknplan is a strong alternative built specifically for game production that handles the hierarchical feature structure common in game dev better than generic PM tools. For communication and async coordination across a distributed live ops team, Slack combined with a solid Confluence or Notion wiki keeps institutional knowledge from walking out the door when staff turns over. The honest truth is that neither model is inherently better. Ship-and-d"
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 You're six months into pre-production and someone just asked the question your whole team has been quietly avoiding: "Are we making a live service game or not?" The room goes silent. Everyone has opinions. Nobody has a plan. This single decision shapes your team size, budget runway, monetization model, post-launch roadmap, and your personal stress levels for the next several years. Get it wrong and it doesn't just hurt your game. It can sink your studio.
 
@@ -34,7 +35,7 @@ A ship-and-done title (sometimes called a premium or packaged game) has defined 
 
 A live service game is a platform. It never really ships in the traditional sense. It launches. *Fortnite*, *Destiny 2*, *Path of Exile*, and *Warframe* are the obvious examples, but plenty of smaller games operate this way too. Revenue comes continuously through battle passes, cosmetics, expansions, and seasonal content. The production machine never fully stops. Your sprint cadences, team structure, QA processes, everything has to sustain ongoing output for months or years.
 
-Here's what I tell people in that awkward pre-production meeting: the model you choose isn't a marketing decision. It's an infrastructure decision. Make it early, make it deliberately, and make it based on what your team can actually sustain.
+Here's what I tell people in that awkward pre-production meeting: the model you choose isn't a marketing decision. It's an infrastructure decision. Make it early, make it deliberately, and make it based on what [your team can actually sustain](/remote-game-development-operational-challenges-for-producers/).
 
 ## The Business Case Is Different for Each
 

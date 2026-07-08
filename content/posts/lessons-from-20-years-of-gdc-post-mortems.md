@@ -23,8 +23,9 @@ faqs:
    a: "Transparency helps more than you'd think. Teams get demoralized by surprises, not by clear expectations. When you tell people upfront 'we're shipping these features by month 12, here's what's deferred,' they adjust. When you tell them everything's launching on schedule and then cut features in month 11, morale collapses. The 2016 postmortem from a team that handled this well specifically noted that being clear about deferral from month two made their team more engaged, not less."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
-Every Game Developers Conference since 2004, studios have lined up on the main stage to explain how their project fell apart. The pattern is eerie. A 2008 postmortem describes scope creep, communication breakdowns, and a last-minute engine swap. Jump to 2023, and an indie team describes nearly the same disasters. Two decades of public failure analysis, and we're still making identical mistakes. The problems haven't changed. Most producers just aren't reading these postmortems, and the ones who do aren't pulling out the repeating patterns that actually matter.
+Every Game Developers Conference since 2004, studios have lined up on the main stage to explain how their project fell apart. The pattern is eerie. A 2008 postmortem describes scope creep, communication breakdowns, and a last-minute [engine swap](/how-game-engine-choice-affects-your-production-plan/). Jump to 2023, and an indie team describes nearly the same disasters. Two decades of public failure analysis, and we're still making identical mistakes. The problems haven't changed. Most producers just aren't reading these postmortems, and the ones who do aren't pulling out the repeating patterns that actually matter.
 
 ## The Consistent Failures Keep Appearing
 
@@ -43,6 +44,14 @@ The real problem is timing. A postmortem comes after the fact, when everyone's b
 When organizations do take postmortems seriously, they usually fixate on surface-level "what went wrong" instead of root cause. A team identifies "poor communication" as their problem, adds a weekly meeting, and calls it solved. They never ask whether that communication structure actually fits how their specific team works.
 
 ## The Recurring Root Causes Behind Project Failures
+
+| Failure Category | Frequency | Key Indicator | Example Timeline |
+| --- | --- | --- | --- |
+| Unclear or shifting vision | ~65% of troubled projects | Stakeholder misalignment discovered mid-development | 8 weeks of rework after creative director review |
+| Estimation failures | Systematic | 30% underestimation across features | Optimism bias on happy path, not edge cases |
+| Cross-discipline friction | Recurring | Artist vs. engineer iteration conflicts | Locked-in art or incomplete features |
+| Feature creep near end | High cascade risk | Features added in final 25% of production | Month 9 of 12: "small" feature blocked 4 systems, 2 weeks unplanned |
+| Feature freeze violations | Preventable | Weekly scope creep during later phases | Month 8 of 12: 40% scope balloon |
 
 Dig through twenty years of postmortems and four root causes emerge repeatedly, sometimes in different disguises.
 

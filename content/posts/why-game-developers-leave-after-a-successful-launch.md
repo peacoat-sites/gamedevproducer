@@ -23,6 +23,7 @@ faqs:
    a: "Slow down the operational tempo deliberately and visibly. If the producer is immediately running at the same velocity post-launch, the team reads that as more crunch with a different label. Protect the recovery window. Schedule it. Defend it from stakeholder pressure. Your team will remember that you did."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Your game ships. Reviews are good. Steam numbers are climbing. The Discord is alive. And then, over the next 90 days, three of your best people hand in their notice.
 
@@ -48,7 +49,7 @@ Attrition after launch usually gets diagnosed as a compensation problem. Sometim
 
 **Creative exhaustion combined with uncertainty.** The team doesn't know what's next. If leadership hasn't communicated a clear next project, people who have options start entertaining them. Ambiguity is expensive. Talent reads silence as a signal.
 
-**Feeling undervalued during the home stretch.** Crunch leaves marks. If someone spent six months in mandatory overtime and received no meaningful acknowledgment, a LinkedIn recruiter message lands differently than it would have in year one. The launch bonus, if there was one, doesn't erase the memory of cancelled vacations.
+**Feeling undervalued during the home stretch.** [Crunch leaves marks](/crunch-aftermath-how-to-rebuild-team-trust/). If someone spent six months in mandatory overtime and received no meaningful acknowledgment, a LinkedIn recruiter message lands differently than it would have in year one. The launch bonus, if there was one, doesn't erase the memory of cancelled vacations.
 
 **Resume timing.** This is coldly practical. A shipped, well-reviewed title is the best possible career leverage a developer will have. Recruiters know this. Developers know this. The 90 days after a successful launch is prime hunting season. Some departures have nothing to do with your studio and everything to do with the market timing.
 

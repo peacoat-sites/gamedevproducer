@@ -12,6 +12,7 @@ author_title: "Design & Narrative Editor"
 author_bio: "Priya Sharma is a game designer with a particular focus on systems that create engaging games, covering everything from core loop design to narrative structure. She has worked on titles across multiple genres and believes that good design is invisible to the player. At GameDevProducer, she covers game design principles, narrative mechanics, player psychology, and the craft of building experiences that keep people playing."
 slug: "how-to-plan-milestones-for-a-publisher-deal"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 I watched a studio sign a publisher deal with milestone language so loose that the producer spent two years arguing about what "vertical slice" actually meant. By the time legal settled it, the game was six months overdue and the relationship was poisoned.
 
@@ -25,11 +26,18 @@ Here's what I've learned from both sides of the table: a milestone is only as go
 
 I tested this the hard way early in my career. We signed a contract that said "submit build for certification" as a milestone. We thought that meant the build existed and was ready. The publisher thought it meant the build had been accepted by the platform holder and was literally days from launch. The difference was about three months of work and a 30% penalty we didn't negotiate out of. 
 
-Real definitions look like this: "Vertical slice, single-player campaign from game start to first boss encounter, 15 minutes of uninterrupted gameplay, menu system functional, no crashes on Xbox Series X or PlayStation 5 running at 1080p/60fps." Not poetry, but it's defensible.
+[Real definitions look like this](/game-development-milestones-explained/): "Vertical slice, single-player campaign from game start to first boss encounter, 15 minutes of uninterrupted gameplay, menu system functional, no crashes on Xbox Series X or PlayStation 5 running at 1080p/60fps." Not poetry, but it's defensible.
 
 That specificity matters because once you sign, both sides point back to that language. When you hit the date, there's either a checkmark or a fight. You want there to be a checkmark.
 
 ## Building a timeline that doesn't collapse under pressure
+
+| Phase | Duration | Key Deliverables |
+| --- | --- | --- |
+| Pre-production | 8-14 weeks | Core design locked, tech prototype working, art direction proven, scope aligned |
+| Production | 12-20 months | Alpha, beta, content complete, optimization pass, all campaign levels, core mechanics, art |
+| Certification and launch prep | 10-14 weeks | Platform certification (4-6 weeks), optimization, day-one patch prep, shipping |
+| Example 2D action game | 74 weeks total | Pre-prod validation, foundation systems, expansion, polish, optimization, certification |
 
 The mistake most producers make is working backward from a publisher-imposed ship date. You know the one: "we need it out October 2027 for holiday retail." Then you fit milestones into the remaining months and hope your team can execute.
 
@@ -39,7 +47,7 @@ Start by listing the actual production phases your game needs:
 
 **Pre-production** usually takes 8-14 weeks. That's core design locked, tech prototype working, art direction proven in at least two scenes, and everyone on the same page about scope. Don't skip this. I've never seen a milestone miss because pre-production took "too long." I've seen dozens miss because people thought they could skip it.
 
-**Production** is where you build the bulk of the game. For a mid-scale title, expect 12-20 months depending on team size and scope. This is where most milestones live, alpha, beta, content complete, optimization pass. Break it into chunks that represent real work: "all campaign levels blocked out," "all core mechanics implemented," "art complete for Acts 1 and 2."
+**Production** is where you build the bulk of the game. For a mid-scale title, expect 12-20 months depending on team size and scope. This is where most milestones live, [alpha, beta, content complete](/alpha-vs-beta-milestone-in-game-production/), optimization pass. Break it into chunks that represent real work: "all campaign levels blocked out," "all core mechanics implemented," "art complete for Acts 1 and 2."
 
 **Certification and launch prep** is often underestimated. Platform certification alone (whether that's Sony, Microsoft, Nintendo, or Valve) takes 4-6 weeks minimum, and you'll almost always get notes back that need fixing. Budget another 6-8 weeks for optimization, day-one patch prep, and actually shipping the thing.
 

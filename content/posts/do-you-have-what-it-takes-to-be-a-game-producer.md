@@ -10,6 +10,7 @@ author: "Marcus Webb"
 author_slug: "marcus-webb"
 author_bio: "Marcus Webb covers game engines, technical development, and programming at GameDevProducer."
 author_title: "Technical Editor"
+lastmod: 2026-07-07
 ---
 Producers are the glue of a game studio. They keep dozens of moving parts, art, design, engineering, audio, marketing, pointed at the same goal and shipping on time. It's less about making the game yourself and more about making sure the game *gets made*.
 
@@ -17,4 +18,4 @@ So is that you? Answer 7 quick questions about how you work, what energizes you,
 
 {{< quiz >}}
 
-However you scored, producing is a skill you build, not a personality you're born with. If the role intrigues you, start small: organize a game jam team, run a side project to ship, or shadow a producer's daily standup. The instincts come faster than you'd think once you're in the seat.
+However you scored, producing is a skill you build, not a personality you're born with. If the role intrigues you, start small: [organize a game jam team](/best-project-management-tools-for-game-studios/), run a side project to ship, or shadow a producer's daily standup. The instincts come faster than you'd think once you're in the seat.

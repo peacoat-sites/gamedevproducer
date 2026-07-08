@@ -23,6 +23,7 @@ faqs:
    a: "For recurring work (ongoing art support, a QA contractor embedded in your sprint), yes, treat them structurally like a team member. Assign them ownership over their area and include them in dependency tracking. For one-off engagements, no. Treating a one-off contractor as a team member just creates confusion about their scope."
  - q: "When should a small studio start using formal project management software?"
    a: "Earlier than feels necessary. Two people can get away with a shared doc. At four people, you want a real task board. Hacknplan is purpose-built for games and worth the monthly cost. Jira works if you already know it, but it's overkill to learn from scratch at small scale. The important thing is that every task has one owner and one status, and everyone can see it without asking."
+lastmod: 2026-07-07
 ---
 
 Most small studios get roles wrong before they write a single line of code. Not because they're disorganized, but because they copy the org chart from a studio twenty times their size and then wonder why nobody knows what they're supposed to be doing.
@@ -43,7 +44,7 @@ Small studios don't need more roles. They need clearer ownership.
 
 Before you name a single role, list every recurring category of work your game actually requires. Not aspirationally. What does the game need done in the next 90 days?
 
-For a typical 4-8 person indie team making a mid-complexity 2D or 3D game, that list usually shakes out to something like: programming (gameplay, tools, build), art (concept, production, tech), design (systems, level, UX), audio (sound design, implementation, occasionally music), and production (scheduling, dependencies, communication, QA coordination). That's it. Five functional areas. If you have eight people, that means almost everyone is covering more than one area. That's fine. That's the job.
+For a typical 4-8 person indie team making a mid-complexity 2D or 3D game, that list usually shakes out to something like: programming (gameplay, tools, build), art (concept, production, tech), design (systems, level, UX), audio (sound design, implementation, occasionally music), and production ([scheduling, dependencies, communication](/how-to-run-a-scrum-sprint-on-a-game-team/), QA coordination). That's it. Five functional areas. If you have eight people, that means almost everyone is covering more than one area. That's fine. That's the job.
 
 What I'd recommend: write out every discrete task category, then assign each to a person. Not a title. A person. If a task category has no owner, you've found your first structural problem. If one person owns six categories and another owns one, you've found your second.
 
@@ -65,7 +66,7 @@ There are four functional responsibilities that consistently decide whether smal
 
 You've probably heard the "T-shaped" framing: deep in one area, functional in several. It's a reasonable model. But I'll be honest: at really small scale, more of your team needs to be closer to hyphen-shaped. Wide across multiple areas, genuinely competent in two or three, expert in one. The T assumes you have enough people that someone else covers the width. At four people, you don't.
 
-The practical implication: when you're hiring (or deciding whether to contract vs hire), weight breadth more than most job postings suggest. A programmer who can also do basic UX and talk to players intelligently is worth more to a six-person studio than a programmer who is better at programming but nothing else. The gap in programming quality is real but often less impactful than the reduction in coordination overhead.
+The practical implication: when you're [hiring](/hiring-your-first-game-developer-guide/) (or deciding whether to contract vs hire), weight breadth more than most job postings suggest. A programmer who can also do basic UX and talk to players intelligently is worth more to a six-person studio than a programmer who is better at programming but nothing else. The gap in programming quality is real but often less impactful than the reduction in coordination overhead.
 
 Contracts and freelancers make sense for genuine specialty spikes: a composer, a localization pass, console certification QA, a trailer editor. Work that has a clear scope and a defined end. For the roles described above, schedule, infrastructure, player experience, external communication, you want named people on your core team.
 

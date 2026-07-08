@@ -23,6 +23,7 @@ faqs:
    a: "When you have concrete evidence that what you have isn't working and the fix is clearly worth the cost. Playtest data that shows a core loop is broken is a legitimate reason to revisit scope. 'I think this would be cooler' is not. The bar should be: does this change the game from not-shippable to shippable, or from shippable to marginally better? Only the first justifies late scope addition. Scope creep is a solvable problem, but only if you treat it as a system issue rather than a discipline issue. Teams don't fail to manage scope because they're lazy or undisciplined. They fail because they"
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 You greenlit a feature at 9am standup because a designer said it would "only take a day." Three weeks later, that feature has spawned four sub-features, two art revisions, and a backend change that touched six other systems. Your ship date is now a suggestion. Sound familiar? Scope creep doesn't usually announce itself. It accumulates quietly, one reasonable-sounding request at a time, until the project is unrecognizable from what you originally planned.
 
@@ -38,7 +39,7 @@ The second driver is fuzzy initial definitions. If your design doc says "the pla
 
 ## The Document That Will Save Your Ship Date
 
-What surprised me most when I started taking scope seriously was how few teams actually use a formal Scope Agreement document or anything equivalent. They have a GDD, maybe a milestone plan, but nothing that explicitly defines what is OUT of this version.
+What surprised me most when I started taking scope seriously was how few teams actually use a formal [Scope Agreement document](/how-to-write-a-game-production-milestone-document/) or anything equivalent. They have a GDD, maybe a milestone plan, but nothing that explicitly defines what is OUT of this version.
 
 A Scope Agreement is exactly what it sounds like: a written, signed-off document that defines the game's boundaries. Not just what's in, but what's explicitly deferred. Two columns. In scope. Out of scope this version. Both columns matter equally.
 
@@ -46,7 +47,7 @@ Include these elements:
 
 - Feature list with definitions clear enough that two people would implement them the same way
 - A "parking lot" section for good ideas that are explicitly saved for post-launch or a sequel
-- A change request process, even if that process is just a weekly producer review
+- A [change request process](/sprint-planning-for-game-development-teams/), even if that process is just a weekly producer review
 - Sign-off from your leads, your director, and if applicable, your publisher
 
 That last point isn't bureaucracy for its own sake. Getting signatures creates psychological commitment. People second-guess themselves before verbally agreeing to change something they've already signed their name to. It's simple friction that buys you time to think.

@@ -23,6 +23,7 @@ faqs:
     a: "For small teams, a well-structured spreadsheet or Airtable base honestly covers most of what you need. For mid-size projects tracking multiple roles and contract work, Runn ($8/person/month) is worth a look. For overall project tracking alongside budget, Notion's project templates can work well once you've built out the structure. The book The Game Producer's Handbook by Dan Irish is dated in some places but still has the most practical chapter on game budgeting I've found in print."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
+lastmod: 2026-07-07
 ---
 Most first-time game budgets are wrong by a factor of two. Not 10-20% off. Double. I stopped being surprised by it a while ago, but I still think it's worth understanding why, because it's rarely what people assume.
 
@@ -69,6 +70,14 @@ Labor covered, there are categories that consistently get underestimated or miss
 **Localization:** Planning to release in Asian markets? Japan, China, and South Korea show up consistently in Steam data as massive revenue sources for indie games. Localization isn't cheap. Japanese localization of a text-heavy game can run $0.08-$0.15 per word. A game with 100,000 words of dialogue is $8,000-$15,000 in Japanese translation alone, and that's before testing.
 
 ## Building In Contingency (Without Fooling Yourself)
+
+| Category | Percentage of Budget | Notes |
+| --- | --- | --- |
+| Labor | 60-80% | Highest cost component; includes salary multiplier of 1.25x-1.4x for full-time employees |
+| QA | 15-20% | Often underestimated by indie studios |
+| Marketing | 20-30% | Conventional advice; actual effectiveness varies widely |
+| Contingency | 15-20% | 25% recommended for first-time teams or high technical risk |
+| Other (Tools, Certification, Localization) | Varies | Software, platform certification, and localization costs vary by scope and platforms |
 
 Every production budget I've seen that shipped on target had a contingency. Every one that didn't had a crisis.
 

@@ -12,6 +12,7 @@ author_title: "Game Developer"
 author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
 slug: "wishlist-strategy-for-indie-game-launches"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most indie developers treat wishlists like a vanity metric. They hit 1,000, post about it on Twitter, then forget the whole thing exists. I've watched this sink otherwise solid launches.
 
@@ -35,13 +36,20 @@ The better play is a tiered strategy tied to your actual development timeline.
 
 ## What Actually Moves the Needle
 
+| Development Stage | Timeline | Wishlist Strategy | Primary Focus |
+| --- | --- | --- | --- |
+| Tier 1 | 18+ months before launch | Minimal wishlist activity | Build owned channels (Discord, email list, Substack) |
+| Tier 2 | 6-12 months before launch | Strong wishlist pushing begins | Steam Next Fest participation |
+| Tier 3 | 1-3 months before launch | Maximum effort across all channels | Press, influencers, paid social, email, Discord |
+| Launch Window | First 72 hours | Peak conversion period | Algorithm optimization, New and Trending visibility |
+
 Here are the specific channels I've seen produce real results, ranked honestly by effort-to-return.
 
 Steam Next Fest is the highest ROI wishlist event in indie game development. Full stop. If you're eligible and you skip it, I genuinely don't understand your reasoning. The 2025 June and October editions saw mid-tier indie demos regularly pulling 5,000-15,000 wishlists in six days. Your game needs to be playable and you need a trailer that converts in the first 15 seconds, but the upside is real.
 
 What surprised me was how consistently TikTok and YouTube Shorts outperform Twitter/X for actual wishlist clicks. Not engagement, clicks. Short-form video with a direct call to action and a link in bio punches well above its weight for games with any visual hook. I tracked a campaign where a single TikTok from a mid-size creator (150K followers, gaming-adjacent) drove more wishlist adds than a press feature on a site with 2M monthly readers.
 
-Press coverage still matters, but differently than it used to. A review from a major outlet probably isn't moving 10,000 wishlists for an unknown indie. What it does is signal legitimacy to the algorithm and to influencers who vet games before covering them. Think of press as infrastructure, not a direct wishlist driver.
+[Press coverage still matters](/press-kit-essentials-for-indie-game-launches/), but differently than it used to. A review from a major outlet probably isn't moving 10,000 wishlists for an unknown indie. What it does is signal legitimacy to the algorithm and to influencers who vet games before covering them. Think of press as infrastructure, not a direct wishlist driver.
 
 Paid ads for wishlists are mostly a bad deal unless you have strong data. Meta ads can work, but I'd only run them if your click-to-wishlist rate from organic sources is already above 30% on your Steam page. If your page isn't converting organic traffic, paid traffic won't fix it. Spend the money on your trailer first.
 

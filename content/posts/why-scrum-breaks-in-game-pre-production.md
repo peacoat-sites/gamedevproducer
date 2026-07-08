@@ -23,6 +23,7 @@ faqs:
    a: "Hacknplan is built for game development and handles milestone-based, non-ticket work better than generic tools. Notion is excellent for decision logs and research documentation. Miro or FigJam work well for visual planning sessions where the team maps dependencies between open questions. For broader production management later in the project, Shotgrid (formerly Ftrack) is the industry standard for larger teams tracking asset pipelines. For learning the underlying skills, the Game Design and Production specialization on Coursera covers phase-specific production planning in detail."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Your team just wrapped a killer prototype. The creative director is buzzing, stakeholders are nodding, and someone tapes a sprint board to the wall. Two weeks later, half the tickets are stuck in "In Progress," nobody can agree on what "done" means for a concept exploration task, and the lead designer hasn't touched the board in a week because she's busy writing a 30-page GDD that will probably change three more times before alpha. Sound familiar? That's not a discipline problem. That's Scrum colliding with a phase it was never built for.
 
@@ -52,7 +53,7 @@ Think of pre-production not as a mini-production sprint sequence, but as a serie
 
 This reframe changes everything about how you structure the work. Instead of a backlog of tasks, you maintain a list of open questions ranked by risk and dependency. Instead of sprint goals, you set experiment goals: "By the end of week two, we will know whether physics-based traversal is technically feasible on our target platform." That's a pass/fail question. The team knows what they're running at.
 
-This is closer to how the best pre-production teams I've seen actually operate, even when they're officially "doing Scrum." They're running Scrum on the outside and something closer to hypothesis-driven development on the inside. It's worth formalizing that instead of pretending the sprint board captures the real work.
+This is closer to how the best pre-production teams I've seen actually operate, even when they're officially "doing Scrum." They're running Scrum on the outside and something closer to [hypothesis-driven development](/agile-game-development-what-actually-works-in-practice/) on the inside. It's worth formalizing that instead of pretending the sprint board captures the real work.
 
 ## What to Use Instead (or Alongside)
 
@@ -92,6 +93,16 @@ Here's a step-by-step approach that works:
 6. **Define your pre-production exit criteria before you start.** This is the hardest part and the most important. What questions must be answered before production can start? Lock that list before the phase begins. That list is your actual milestone, not a sprint count.
 
 ## Signs Your Pre-Production Scrum Is Actively Hurting You
+
+
+| Scrum Element | Pre-Production Alternative |
+|---|---|
+| Sprint backlog of tasks | Risk register of open questions, ranked by impact |
+| Two-week sprints | Variable-length exploration cycles (1, 2, or 4 weeks) tied to specific decisions |
+| Velocity tracking | Decision throughput: how many key questions answered per month |
+| Sprint review demo | Playable prototype review with explicit "what did we learn" debrief |
+| Definition of Done | Explicit "question answered" criteria written before the experiment starts |
+| Daily standup | Shorter, question-focused check-ins: what's blocking a decision? |
 
 ## Sources
 

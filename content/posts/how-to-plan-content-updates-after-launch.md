@@ -23,6 +23,7 @@ faqs:
    a: "Bank content before launch, size updates to what you can realistically produce without crunch, and ship frequently in smaller pieces rather than infrequently in larger ones. Two small updates a month will usually outperform one large update every six weeks for retention purposes."
  - q: "What tools are best for managing a post-launch content update schedule?"
    a: "Codecks is purpose-built for game dev and handles card-based sprint planning well for small teams. Hack n Plan is another strong option. For roadmap communication specifically, a public Trello board or a Notion page with clearly labeled 'In Progress' and 'Planned' columns works fine and costs nothing."
+lastmod: 2026-07-07
 ---
 
 Most post-launch content planning guides start at the wrong point. They tell you to "listen to your community" and "iterate based on feedback." That's not a plan. That's a prayer with a Discord server attached.
@@ -46,6 +47,13 @@ The update schedule shouldn't be based on how long things take to build. It shou
 Build your update cadence directly from your retention curve, not from what feels comfortable to ship. [Check out our guide on reading game analytics for retention-focused teams](/game-analytics-for-producers).
 
 ## Size Your Updates Deliberately
+
+| Update Tier | Production Time | Player Value | Best Used For |
+| --- | --- | --- | --- |
+| Patches & Hotfixes | 48 hours | Bug fixes | First two weeks post-launch |
+| Mid-sized Updates | 2-4 weeks | 30-90 minutes | Retention anchors (ongoing) |
+| Major Expansions | 3-6 months | Significant content | Month 3+ with player data |
+| Banked Content | Pre-launch prep | Variable | Week 3 launch breathing room |
 
 There's a common mistake where teams treat every update like it needs to be a major content drop. It doesn't. In fact, a calendar full of large updates is almost always the wrong structure, especially for a team under ten people.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Get this in writing before you build anything. The most common mistakes are equal splits that don't account for unequal contributions over time, and handshake agreements that fall apart when money actually appears. A simple founder agreement with vesting schedules (typically four years with a one-year cliff) covers most situations. A lawyer who works with small creative businesses should cost you $500 to $1,500 to do this right."
  - q: "When should a game studio consider outside investment?"
    a: "When you have something to show and a specific thing you need capital to do. 'We need money to keep going' is not a compelling investment case. 'We have a vertical slice, a publishing letter of intent, and need $150,000 to hit our next milestone' is. Most game-focused investors, including Makers Fund and London Venture Partners, want to see proof of concept before they're interested in a conversation."
+lastmod: 2026-07-07
 ---
 
 Most people planning a game studio business model are secretly asking the wrong question. They're asking "how do I make money making games?" when the question that actually needs answering first is "how do I survive long enough to finish one?"
@@ -42,6 +43,20 @@ The solo dev bootstrapping on nights and weekends can probably survive on saving
 Be honest about which one you are. Most of the bad plans I've seen fail because founders romanticized their situation instead of describing it accurately.
 
 ## The Revenue Models Worth Knowing (and What They Actually Cost You)
+
+| Studio Type | Typical Weekly Hours | Funding Need | Timeline to Ship |
+| --- | --- | --- | --- |
+| Solo dev (nights/weekends) | 15 | Savings only | Variable |
+| Team of 4 (full-time) | 160+ | $360,000-$480,000 | 18-24 months |
+| Contract-anchored studio | 160+ | Ongoing client revenue | 18-24 months |
+
+| Revenue Model | Realistic Marketing Budget | Post-Recoup Split | Best For |
+| --- | --- | --- | --- |
+| Premium sales | $50,000-$150,000 | 100% (your game) | Solo/small teams |
+| Work-for-hire | N/A | Per contract | Funding other projects |
+| Publisher advance | N/A | 70/30-80/20 | First-time studios |
+| Licensing/ports | N/A | Per deal | Supplementary income |
+| Games as a service | High | Per terms | Large teams only |
 
 There are more ways to make money as a game studio than the "ship a game and hope" model most people default to. Here's how I actually think about them:
 

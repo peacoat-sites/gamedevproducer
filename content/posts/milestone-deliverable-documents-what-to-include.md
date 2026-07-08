@@ -12,10 +12,11 @@ slug: "milestone-deliverable-documents-what-to-include"
 affiliate_disclosure: true
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 You're three weeks out from a major milestone review. Your studio lead asks for the deliverable document. You panic slightly because you realize you've never actually written a formal one, and you're not sure what should go in it. You've got spreadsheets, meeting notes, and a general sense of what's been completed, but there's no single source of truth. Sound familiar?
 
-Most producers learn this the hard way. A milestone deliverable document isn't just a checkbox for your publisher or studio leadership. It's your contract with the team about what "done" actually means, your defense against scope creep, and your historical record for postmortems. Done wrong, it becomes a bureaucratic nightmare that delays shipping. Done right, it eliminates arguments and keeps everyone aligned.
+Most producers learn this the hard way. A milestone deliverable document isn't just a checkbox for your publisher or studio leadership. It's your contract with the team about what "done" actually means, your defense against [scope creep](/scope-creep-prevention-in-game-development/), and your historical record for postmortems. Done wrong, it becomes a bureaucratic nightmare that delays shipping. Done right, it eliminates arguments and keeps everyone aligned.
 
 ## What Goes Into a Milestone Deliverable Document
 
@@ -39,7 +40,7 @@ A real example: if your milestone includes controller support, don't just write 
 
 ## Technical and Production Documentation
 
-Your milestone deliverable document should include a dependencies section. What does this milestone depend on that's not yet finished? If your animation pipeline needs a specific tool update to deliver character animations on time, that's a dependency. If your audio team needs final dialog from the narrative lead two weeks before the milestone, that's a dependency. Call these out explicitly.
+Your milestone deliverable document should include a [dependencies section](/dependency-mapping-in-game-development-schedules/). What does this milestone depend on that's not yet finished? If your animation pipeline needs a specific tool update to deliver character animations on time, that's a dependency. If your audio team needs final dialog from the narrative lead two weeks before the milestone, that's a dependency. Call these out explicitly.
 
 Include a version control snapshot or build information. If your game is built from source, record the specific commit hash or tag. If you're delivering from a particular build server, note that. Six months later when someone asks "what exactly was in that alpha build we showed at the conference," you need a way to recreate it.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Heather Maxwell Chandler's The Game Production Handbook (third edition) is the most comprehensive resource specific to the producer role. For career strategy more broadly, I also recommend Cracking the PM Interview by Gayle McDowell, which is technically for product management but covers negotiation and career leveling in ways that translate directly."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Let me be direct with you: most salary guides for game producers are useless. They pull a number from somewhere, slap a range on it, and call it research. You end up with something like "$60,000 to $150,000 depending on experience" which tells you approximately nothing about whether the offer sitting in your inbox is fair.
 
@@ -68,7 +69,7 @@ The top of each range assumes a major publisher or well-funded studio in a high 
 
 Here's where most salary guides fall apart. They treat level and years of experience as if those are the only levers. They're not.
 
-**Shipped titles carry enormous weight.** I've seen producers get offers well above their "level" based on one highly visible shipped game. If you were on the production team for something that sold two million copies or won a BAFTA, that's real leverage. Studios are buying risk mitigation when they hire a producer. The more you can demonstrate that games actually ship with you on the team, the more they'll pay.
+**[Shipped titles carry enormous weight](/portfolio-tips-for-aspiring-game-producers/).** I've seen producers get offers well above their "level" based on one highly visible shipped game. If you were on the production team for something that sold two million copies or won a BAFTA, that's real leverage. Studios are buying risk mitigation when they hire a producer. The more you can demonstrate that games actually ship with you on the team, the more they'll pay.
 
 **Technical background adds a genuine premium.** Producers who understand Unreal or Unity pipelines, who can read a shader or explain why a build is failing, command more than producers who only work at the process layer. I'm not saying you need to be an engineer. But the "technical producer" designation is real, and it comes with a meaningful pay bump, sometimes $10,000 to $20,000 above a same-level generalist. If you don't have this yet and you're serious about maximizing earning potential, it's worth investing in. The Unreal Online Learning portal is free, and Jason Gregory's *Game Engine Architecture* (third edition) costs around $70 and will change how you think about your job.
 

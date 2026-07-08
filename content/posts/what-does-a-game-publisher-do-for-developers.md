@@ -12,6 +12,7 @@ author_title: "Publishing Strategist"
 author_bio: "Samantha Roberts has spent her career navigating the publisher side of the games industry: first pitching indie studios to publishers, then working inside a publishing label evaluating hundreds of projects. She knows what publishers look for and what indie developers consistently get wrong in their pitch decks. At GameDevProducer, she covers publishing strategy, funding, and the business of bringing a game to market."
 slug: "what-does-a-game-publisher-do-for-developers"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Most developers I've talked to over the years come to me with the same question, usually after a promising early conversation with a publisher has left them more confused than before. They've been told the publisher will "handle the business side." But what does that actually mean? And more importantly, what are you giving up in exchange?
@@ -29,6 +30,13 @@ Here's the thing I got wrong when I was early in my career: I assumed "recoupabl
 Read the contract. Have a lawyer who specializes in games entertainment law read the contract. Ones who know game deals specifically (not just general IP attorneys) can be found through organizations like the International Game Developers Association or through referrals at GDC.
 
 ## What Publishers Actually Do Beyond the Check
+
+| Service | Typical Cost Range | Notes |
+| --- | --- | --- |
+| Console QA (full certification pass) | $30,000 - $80,000 | Platform-specific compliance requirements |
+| Professional localization (10 languages) | $40,000 - $100,000 | High-quality vendor relationships |
+| Marketing campaign (mid-size $500K game) | $150,000 - $300,000 | 6-12 month campaign including trailers, influencer seeding, press, paid media |
+| Platform port (e.g., PC to Switch) | $100,000 - $200,000 | High-quality conversion to additional platforms |
 
 Funding is the entry point. The operational support is where the day-to-day relationship lives.
 

@@ -23,8 +23,9 @@ faqs:
    a: "You communicate early, document the gap formally, and revise with a recovery plan attached. Never let a milestone slip quietly. The moment you know a milestone is at risk, that information goes to every stakeholder immediately, along with a revised date and a clear account of what changed and why. Publishers and investors can usually absorb a delay. What they can't absorb is finding out about it on the day the milestone was due. In contractual milestone situations, check your agreement: many have provisions for milestone renegotiation that are far less painful than breach-of-contract territory"
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
-Most milestone documents I've seen are basically vibes dressed up in a table. A date. A vague deliverable name like "Alpha Build Ready." Maybe a sign-off field that nobody fills in. Then everyone proceeds to have completely different ideas about what "Alpha" actually means. Three months later, the publisher's furious, the team's demoralized, and the post-mortem will diplomatically describe it as "misaligned expectations." I've been in that room. It's avoidable, and a well-written milestone document is one of the cheapest insurance policies in game development. Almost nobody writes one well.
+Most milestone documents I've seen are basically vibes dressed up in a table. A date. A vague deliverable name like "Alpha Build Ready." Maybe a sign-off field that nobody fills in. Then everyone proceeds to have completely different ideas about what "Alpha" actually means. Three months later, the publisher's furious, the team's demoralized, and the [post-mortem](/how-to-run-a-game-development-retrospective/) will diplomatically describe it as "misaligned expectations." I've been in that room. It's avoidable, and a well-written milestone document is one of the cheapest insurance policies in game development. Almost nobody writes one well.
 
 ## What a Milestone Document Actually Is (And What It Isn't)
 
@@ -42,9 +43,9 @@ When I started pulling apart successful milestone documents from shipped project
 
 **Explicit acceptance criteria.** This is the piece almost everyone skips and everyone regrets skipping. Acceptance criteria are specific, testable conditions that must be true for the milestone to count as met. Not "the game is fun" but "a first-time player can complete the tutorial level in under 12 minutes without external guidance." Aim for 5 to 10 per milestone, written so they're falsifiable. If you can't point at it and say yes or no, it's not an acceptance criterion.
 
-**Known exclusions.** What's explicitly out of scope? If audio is placeholder, say it. If multiplayer isn't being tested, say it. This protects your team from scope creep and protects you from a publisher reviewer who shows up and starts filing bugs against systems you never intended to demonstrate.
+**Known exclusions.** What's explicitly out of scope? If audio is placeholder, say it. If multiplayer isn't being tested, say it. This protects your team from [scope creep](/scope-creep-prevention-in-game-development/) and protects you from a publisher reviewer who shows up and starts filing bugs against systems you never intended to demonstrate.
 
-**Dependencies and risks.** What has to be true for this milestone to happen? Third-party SDK approvals. Licensed IP sign-off. Hardware certification timelines. Risks aren't admissions of failure, they're proof you've thought things through. A producer who's identified that platform certification takes 6 to 8 weeks and planned accordingly is more trustworthy than one who hasn't mentioned it.
+**[Dependencies and risks](/dependency-mapping-in-game-development-schedules/).** What has to be true for this milestone to happen? Third-party SDK approvals. Licensed IP sign-off. Hardware certification timelines. Risks aren't admissions of failure, they're proof you've thought things through. A producer who's identified that platform certification takes 6 to 8 weeks and planned accordingly is more trustworthy than one who hasn't mentioned it.
 
 **Sign-off process.** Who reviews it, how, by when, and what happens if there's a dispute. Even a small indie team benefits from writing this down.
 
@@ -65,6 +66,14 @@ This is the step-by-step part because it's both the hardest skill to develop and
 6. **Cap the list.** More than 12 criteria per milestone and you're either defining something too large or drifting into task management. Trim to essentials.
 
 ## Common Milestone Types in Game Development
+
+| Milestone | Typical Purpose | Key Things to Prove |
+|---|---|---|
+| Proof of Concept | Validate core mechanic | The central idea works and is fun to interact with |
+| Vertical Slice | Demonstrate full game experience in miniature | Art direction, core loop, and tech all working in concert |
+| Alpha | Feature complete, content incomplete | All systems are in and functional; known bugs acceptable |
+| Beta | Content complete, polish incomplete | Full game is playable; focus shifts to stability and balance |
+| Gold / Release Candidate | Ship-ready | All acceptance criteria met; certification requirements satisfied |
 
 | Milestone | Typical Purpose | Key Things to Prove |
 |---|---|---|

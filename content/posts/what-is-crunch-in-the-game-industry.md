@@ -23,6 +23,7 @@ faqs:
    a: "This is where it gets complicated. Some games ship in rough shape after brutal development (Cyberpunk 2077 at launch). Others ship in decent shape despite brutal development. The variable isn't usually the crunch itself, it's whether leadership maintained realistic scope and feature discipline while the crunch was happening. Crunch can ship a game. It can't fix a game that has fundamental design problems or scope it couldn't support. The two things get conflated, and that conflation is part of what lets studios keep crunching and calling it necessary."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 It's 11 PM on a Tuesday. You haven't seen your family for dinner in three weeks. Your Slack is on fire with messages from a producer asking for build status. The game ships in six weeks and the feature list hasn't shrunk, it's grown. You're not alone in this moment. You're in crunch, and somewhere right now, thousands of developers across the industry are right there with you.
 
@@ -60,7 +61,16 @@ The industry loves to frame crunch as a management failure or a leadership chara
 
 ## What a Production System That Reduces Crunch Actually Looks Like
 
-I've seen teams cut crunch dramatically without any magic. What they had was production discipline that most studios avoid because it requires uncomfortable conversations early on.
+| Practice | Crunch-Prone Studio | Crunch-Resistant Studio |
+|---|---|---|
+| Scope management | Feature list grows through production | Hard feature lock with formal change control |
+| Estimation | Top-down estimates handed to devs | Bottom-up estimates from people doing work |
+| Buffer | No scheduled slack in schedule | 20-30% buffer built into sprint planning |
+| Milestone honesty | "We'll catch up" culture | Miss a milestone, adjust scope |
+| Overtime tracking | No tracking or accountability | Monitored and capped per developer |
+| Recovery periods | None scheduled | Mandatory recovery after milestones |
+
+I've seen teams cut crunch dramatically without any magic. What they had was [production discipline](/how-to-prevent-crunch-on-a-game-team/) that most studios avoid because it requires uncomfortable conversations early on.
 
 Here's a practical comparison of crunch-prone versus crunch-resistant production:
 

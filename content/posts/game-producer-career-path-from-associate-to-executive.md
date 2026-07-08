@@ -23,6 +23,7 @@ faqs:
     a: "'The Goal' by Goldratt is the classic for understanding constraint theory and project management. 'Radical Candor' by Kim Scott is useful for the people side. 'The Phoenix Project' applies manufacturing concepts to software. For game-specific learning, look for courses on production methodology, and more importantly, spend time in your actual game's pre-production and production phases. Real projects teach you more than any book. Tools like Asana, Monday.com, or Jira Academy have free learning paths for their platforms, which is time well spent. Your career as a producer isn't a straight line"
 author_slug: "jordan-lee"
 author_title: "Game Developer"
+lastmod: 2026-07-07
 ---
 You've been promoted to Associate Producer. Your first week, someone asks you to "own" the art schedule. You nod, open a spreadsheet, and realize you have no idea what you're actually supposed to do. Sound familiar?
 
@@ -50,9 +51,9 @@ Most Associates make the same mistake: they try to act like a full Producer too 
 
 Spend time with your team's technical people. Ask an engineer why a feature took three weeks instead of two. Sit with artists and understand their tools, constraints, and estimation logic. This isn't about schmoozing. You're training your instincts. Eventually you'll look at a schedule and feel when something's wrong before the data confirms it.
 
-Find a mentor. Ideally your direct manager or another Senior Producer at your studio. Have real conversations about what you're learning. Ask for feedback on your first risk assessments, your first difficult team conversation, your first missed date. Feedback loops accelerate you way faster than just clocking time.
+[Find a mentor](/associate-producer-to-producer-how-to-level-up/). Ideally your direct manager or another Senior Producer at your studio. Have real conversations about what you're learning. Ask for feedback on your first risk assessments, your first difficult team conversation, your first missed date. Feedback loops accelerate you way faster than just clocking time.
 
-Here's something practical: build a production toolkit now. Tools like Jira, Monday.com, or Asana become extensions of your thinking. Whatever your studio uses, get fluent early. Learn the automation. Build templates. It seems boring, but fluency here saves you dozens of hours a month once you're running bigger projects.
+Here's something practical: [build a production toolkit now](/game-producer-tools-and-software-for-project-management/). Tools like Jira, Monday.com, or Asana become extensions of your thinking. Whatever your studio uses, get fluent early. Learn the automation. Build templates. It seems boring, but fluency here saves you dozens of hours a month once you're running bigger projects.
 
 ## Senior Associate to Coordinator: The 2-3 Year Inflection
 

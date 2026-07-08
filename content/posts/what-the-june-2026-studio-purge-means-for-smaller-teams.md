@@ -12,6 +12,7 @@ author_title: "Studio Operations Lead"
 author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "what-the-june-2026-studio-purge-means-for-smaller-teams"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Nine days. That's how long the gap was between Ninja Theory's developers announcing a new Senua game on the Xbox Games Showcase stage and the studio being confirmed closed on June 16, 2026. Nine days between "here's what we're making next" and "the studio no longer exists." If that doesn't tell you everything about the structural dysfunction at the top of this industry right now, I don't know what will.
@@ -34,9 +35,16 @@ The Bungie collapse has its own distinct shape. Sony paid $3.6 billion for Bungi
 
 What surprised me going back through the timeline is how predictable this was once the acquisition logic was interrogated. Bungie's value proposition to Sony was live-service expertise and a proven franchise. Destiny 2's playerbase had been declining. The studio's new IP, Marathon, had a troubled development. The $3.6 billion price tag required a growth trajectory that the actual business couldn't deliver. PC Gamer's reporting on developer reactions used the phrase "generational talent just gone," which captures the human cost, but the structural cause was simpler: the acquisition was priced for a future that didn't materialize, and someone eventually has to reconcile that spreadsheet.
 
-For independent studios fielding acquisition conversations, which more of them are doing as the talent market tightens and big publishers look for cheaper ways to access IP, this is the cautionary shape to understand. The acquisition price becomes a target your studio has to justify indefinitely. If the number was inflated by market enthusiasm or strategic optimism, you'll be working against it for years.
+For independent studios fielding [acquisition conversations](/forced-back-to-indie-what-xbox-spin-offs-mean-for-re-independence/), which more of them are doing as the talent market tightens and big publishers look for cheaper ways to access IP, this is the cautionary shape to understand. The acquisition price becomes a target your studio has to justify indefinitely. If the number was inflated by market enthusiasm or strategic optimism, you'll be working against it for years.
 
 ## Size Is Not Safety Anymore
+
+| Studio | Parent Company | Key Metric | Outcome |
+| --- | --- | --- | --- |
+| Ninja Theory | Microsoft | New Senua game announced | Studio closed (9 days later) |
+| Bungie | Sony | $3.6B acquisition price; $765M write-down by FY2025 | 292 jobs cut |
+| Compulsion Games | Xbox Game Studios | South of Midnight: 1M+ Game Pass players, Peabody Award, BAFTA | Layoffs began |
+| Xbox Division (overall) | Microsoft | 5 years declining revenue: $500M total; 3% profit margin | Portfolio reduction underway |
 
 The old assumption in this industry was that working at a large, well-resourced studio meant stability. That assumption has been structurally false for at least three years, but June 2026 is the month where it's genuinely hard to argue otherwise. Ninja Theory had Microsoft's resources. Bungie had Sony's. Compulsion had Xbox Game Studios behind it. None of that translated into protection when the parent company's financial picture changed.
 

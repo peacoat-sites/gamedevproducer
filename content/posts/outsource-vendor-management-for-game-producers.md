@@ -23,6 +23,7 @@ faqs:
    a: "A solid NDA is the baseline. Beyond that, compartmentalize information. Vendors should only receive the assets, references, and context they need for their specific scope. Don't share full game design documents or unreleased narrative content unless it's operationally necessary. Watermarked references and access-controlled shared drives (Google Drive with link expiry, or SharePoint with role permissions) add another layer."
 author_slug: "priya-sharma"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 You've just signed contracts with three vendors: an art outsource studio in Eastern Europe, a QA partner in Southeast Asia, and a freelance audio engineer working remotely. The kickoff calls went great. Everyone seemed aligned. Then week three hits, and the art batches are coming back 40% wrong, QA is logging bugs against the wrong build, and the audio engineer has gone quiet for nine days. This isn't a vendor problem. This is a management problem. And it's one of the most common ways mid-production schedules collapse.
 
@@ -63,6 +64,14 @@ For ongoing relationships, consider a master services agreement with individual 
 Always include revision round limits (typically two to three rounds), clear IP transfer language, a kill fee if you cancel, and an NDA. If a vendor refuses a standard NDA, that's a signal. Not necessarily a dealbreaker, but something to investigate.
 
 ## Tracking Vendor Performance Without Micromanaging
+
+| Vendor Management Metric | Target Threshold | Frequency | Action if Below |
+| --- | --- | --- | --- |
+| On-time delivery rate | 90%+ | Monthly | Review timeline assumptions |
+| First-pass acceptance rate | 70%+ | Monthly | Audit briefs and vendor QA |
+| Revision round average | 2-3 rounds | Monthly | Tighten acceptance criteria |
+| Feedback response time | 48 business hours | Ongoing | Escalate internally |
+| Communication responsiveness | Same-day or next-day | Ongoing | Reassign point of contact |
 
 A simple vendor scorecard reviewed monthly prevents most quality drift. Track four things: on-time delivery rate, first-pass acceptance rate, revision round average, and communication responsiveness. If first-pass acceptance drops below 70%, something in your pipeline is broken, either your briefs or their QA process.
 

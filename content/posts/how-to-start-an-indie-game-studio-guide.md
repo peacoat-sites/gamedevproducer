@@ -23,6 +23,7 @@ faqs:
    a: "The most reliable sources are people you've already worked with, game jams (Ludum Dare and Global Game Jam both produce real professional relationships), and communities like TIGSource forums or the r/gamedev Discord. Be skeptical of strangers who are 'very passionate' but have no shipped work and no specific skills. Passion without track record is a risk, not an asset."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Most guides about starting an indie studio spend three thousand words telling you to "follow your passion" and "build what you love." They skip the part where you run out of money in month eight and wonder why nobody told you about quarterly estimated taxes.
 
@@ -30,11 +31,20 @@ Here's what actually matters.
 
 ## The Legal and Financial Setup Nobody Wants to Think About
 
+| Setup Type | Cost | Timeline | Notes |
+| --- | --- | --- | --- |
+| LLC (U.S.) | $50-$500 | ~1 afternoon | State filing fees vary |
+| Limited Company (UK) | £12 | ~15 minutes | Via Companies House |
+| Operating Agreement | $1,500-$3,000 | Varies | Full startup attorney setup |
+| Steam Direct | $100 | N/A | Per game; 70/30 revenue split |
+| Hacknplan (paid tier) | ~$5/month | N/A | Per user |
+| Mercury/Relay Bank Account | Free | ~1 day | Dedicated business account |
+
 Do this first, before you write a single line of code or sign a single contract. I've watched studios collapse not because the game was bad but because two co-founders had a handshake deal that meant nothing when one of them wanted to leave.
 
 Form an LLC. In most U.S. states, it takes about $50-500 in filing fees and an afternoon on your state's Secretary of State website. If you're in the UK, a limited company through Companies House costs £12 and fifteen minutes. Yes, you can technically operate as a sole proprietor. Don't. The liability protection alone is worth the paperwork.
 
-Co-founders need a written operating agreement before any work begins. This covers the important stuff: who owns what percentage, how decisions get made when you disagree, what happens if someone leaves in year one versus year three, who gets the IP if the studio dissolves. Clerky or a startup attorney (budget $1,500-3,000 for the full setup) will handle this properly. LegalZoom is cheaper but you often get what you pay for.
+Co-founders need a [written operating agreement](/contract-basics-for-indie-game-developers/) before any work begins. This covers the important stuff: who owns what percentage, how decisions get made when you disagree, what happens if someone leaves in year one versus year three, who gets the IP if the studio dissolves. Clerky or a startup attorney (budget $1,500-3,000 for the full setup) will handle this properly. LegalZoom is cheaper but you often get what you pay for.
 
 Open a dedicated business bank account. Mercury is free and works well for indie studios. Relay is another solid option. Mixing personal and business finances is how you create an audit nightmare and also how you accidentally pierce your liability protection.
 

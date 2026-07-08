@@ -6,6 +6,7 @@ date: 2026-06-10
 categories: ["Game Business"]
 description: "Use our free Steam revenue estimator to project your indie game's sales, developer net income, and revenue scenarios using the Boxleiter Method."
 author: "Ryan Cole"
+lastmod: 2026-07-07
 ---
 Launching a game on Steam without a revenue projection is like shipping without a milestone plan. You might land somewhere interesting, or you might run out of runway before you get there. This Steam revenue calculator gives indie developers a data-backed starting point for financial planning, using the Boxleiter Method and community-sourced multipliers.
 
@@ -34,6 +35,14 @@ If you're pre-launch, wishlist count is the most accessible proxy for demand. In
 DLC is one of the highest-ROI investments a studio can make. Once you have an existing player base, the marginal cost of producing DLC is far lower than acquiring new customers. Historical data from developers who publish their revenue breakdowns suggests DLC adds **10–20%** to lifetime revenue for games that ship it within 12 months of launch. Some outliers, especially in strategy and simulation, see DLC revenue eventually overtake the base game entirely.
 
 ## Revenue Scenarios Table
+
+| Scenario | Peak CCU | Estimated Owners | Price | Developer Net (after Steam cut & refunds) | With 15% DLC | Notes |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pessimistic (20% of estimate) | 500 | 100,000 | $14.99 | $210,000 | $241,500 | Conservative lower bound |
+| Realistic (60% of estimate) | 500 | 100,000 | $14.99 | $630,000 | $724,500 | Most likely outcome |
+| Optimistic (100% of estimate) | 500 | 100,000 | $14.99 | $1,050,000 | $1,207,500 | Upper bound; plan conservatively |
+| Low price point | 300 | 60,000 | $4.99 | $210,000 | $241,500 | Lower CCU, lower revenue |
+| High price point | 800 | 160,000 | $24.99 | $1,008,000 | $1,159,200 | Higher CCU potential, niche audience |
 
 The scenarios table above uses round numbers intentionally, so you can gut-check your estimate against known reference points. The $14.99 column is particularly useful. It's the most common price point for mid-tier indie games and has the best public data set.
 

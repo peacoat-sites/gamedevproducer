@@ -23,6 +23,7 @@ faqs:
     a: "Overcommitting, consistently, sprint after sprint. Teams estimate optimistically, don't account for bugs and surprises, and end every sprint feeling behind. The fix is tracking your actual velocity over six to eight sprints and using that number to cap what you pull into planning. Your gut says you can do thirty points. Your history says twenty-two. Trust the history."
   - q: "Should we use Scrum during crunch?"
     a: "Honestly, I'd say yes, with modifications. Sprints get shorter (one week), the backlog gets brutal prioritization, and the retro becomes critical because problems compound fast under pressure. The discipline of a defined sprint actually helps during crunch by making scope visible and giving leadership a real forcing function to cut features rather than add hours."
+lastmod: 2026-07-07
 ---
 Most Scrum advice was written for software teams shipping accounting dashboards. Game teams are different, and if you've ever tried to run a sprint where half the tasks are "make it feel good" or "the combat needs more juice," you already know the frameworks don't quite fit out of the box.
 
@@ -38,7 +39,7 @@ A good game sprint goal is a playable state, not a feature checklist. "By the en
 
 Why? Games are systems. They break in unexpected ways. If your sprint goal is a list of tasks, the second something takes twice as long as estimated, the whole sprint feels like a failure. If it's a playable state, the team can make smart tradeoffs: cut the sound effects, ship the playable tutorial, call it a win, carry the sound work forward. That flexibility keeps morale intact across a long production.
 
-On sprint length, I'd push back on the two-week default for most game teams. Early in production, during prototyping or pre-production, one-week sprints give you faster feedback loops on genuine unknowns. Once you're in production with clearer scope, two weeks usually works. Three weeks feels long and discipline tends to collapse at the end. Pick a cadence and hold it for at least six sprints before changing it.
+On sprint length, I'd push back on the two-week default for most game teams. Early in production, during prototyping or pre-production, one-week sprints give you faster feedback loops on genuine unknowns. Once you're in production with clearer scope, two weeks usually works. Three weeks feels long and [discipline tends to collapse](/how-to-prevent-crunch-on-a-game-team/) at the end. Pick a cadence and hold it for at least six sprints before changing it.
 
 ## Sprint planning for a creative team
 
@@ -53,6 +54,14 @@ For estimation, story points work fine if your team already uses them. If you're
 One practical step worth adding: the "definition of done" check. For every task over a certain size, the team should say out loud what done looks like. Not "the player controller is coded" but "the player controller is coded, reviewed, merged, and a designer has tested basic movement in the level editor." This saves so many arguments at sprint review.
 
 ## Running daily standups that don't suck
+
+| Tool | Cost Per User/Month | Best For | Setup Overhead |
+| --- | --- | --- | --- |
+| Geekbot | $2.50 | Async standups (Slack integration) | Low |
+| Linear | $8 | Game teams, clean sprint boards | Low to Medium |
+| Jira | Scales with team size | AAA industry standard | High |
+| Notion | Variable | Very small teams | Low |
+| Slack thread | Free | Async standups (manual) | Low |
 
 Standups are the most complained-about meeting in any studio. The complaints are usually valid.
 
@@ -73,7 +82,7 @@ Sprint review is where you show the work. On a game team, this should be a play 
 
 You get signal immediately. The designer thought the new ability felt great. Watching fresh hands struggle to understand it tells you something in thirty seconds that a meeting would never surface.
 
-Keep retrospectives short and structured. What went well, what didn't, what do we try differently. Forty-five minutes maximum. Write down the action items and assign them to a specific person by name. A retro without action items is just venting, which has its place, but it's not a retro.
+[Keep retrospectives short and structured](/how-to-run-a-productive-game-team-retrospective/). What went well, what didn't, what do we try differently. Forty-five minutes maximum. Write down the action items and assign them to a specific person by name. A retro without action items is just venting, which has its place, but it's not a retro.
 
 For tooling, Linear is excellent for game teams and handles sprint boards cleanly at around $8 per user per month. Jira is the AAA industry standard and pricing scales, but it has more configuration overhead than most indie teams need. Notion can work for very small teams if you're already living in it. Avoid Trello for anything beyond the earliest prototype phase; it doesn't scale to real sprint management.
 

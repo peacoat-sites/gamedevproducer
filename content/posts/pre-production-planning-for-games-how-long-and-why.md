@@ -23,6 +23,7 @@ faqs:
    a: "Significantly shorter in some areas, not shorter in others. Technical risks are lower if you're on a familiar engine. Art pipeline is more predictable. But design validation still matters, sometimes more, because the temptation on sequels is to assume what worked before will work again without testing it. Some of the most costly production failures I've seen were sequels that skipped design validation because 'we know this IP.' Treat the core loop as unproven until you've tested it, regardless of franchise history."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most studios miss their launch dates not because production goes sideways, but because they gutted pre-production six months earlier. I've watched teams pop champagne over hitting "full production" at the three-month mark on a project that needed eight months of groundwork, then spend the next two years in crunch, cutting features, and eventually canceling the whole thing. The hard part nobody wants to admit: pre-production is where your game either gets a real shot or gets quietly set up to fail.
 
@@ -35,6 +36,15 @@ Pre-production isn't planning meetings and concept art and vibes. It's a structu
 What it isn't: a box to check before the "real" production starts. I've seen teams sprint through pre-production like they're late for something. By month 8 of full production, they hit a wall. The core mechanic doesn't feel good. The tech stack can't support the promised features. The art pipeline takes three times longer than they estimated. Now they're paying.
 
 ## How Long Pre-Production Should Actually Take
+
+| Team Size | Project Type | Pre-Production Duration | Notes |
+|---|---|---|---|
+| 2-5 people | Focused indie | 3-6 months | Small scope, single-genre focus |
+| 10-20 people | Mid-size console | 6-12 months | Established pipeline, known tech |
+| Large team | Large-scale | 18-24 months | Complex scope, new tech risk, ramp-up time |
+| Any size | New engine/tech | +3-6 months | Adds to base duration |
+| Any size | New genre for studio | +3-6 months | First-time learning curve |
+| Any size | Live service/multiplayer | +3-6 months | Infrastructure validation required |
 
 There's no universal answer, and anyone claiming otherwise is selling you something. The industry data is genuinely all over the place. But patterns exist.
 
@@ -59,7 +69,7 @@ Not polished. Functional and rough. Real people outside your team have played it
 **2. A technical vertical slice**
 One representative section built to final quality through your actual pipeline. Not for publishers (though that helps). To reveal how long things actually take and where the pipeline breaks.
 
-**3. A production plan with real estimates**
+**3. A [production plan with real estimates](/how-to-write-a-game-production-milestone-document/)**
 Not a wish list. A schedule built from vertical slice data, where you know your art team produces X assets per sprint because you measured it. Tools like [Hacknplan](https://hacknplan.com/) or [Codecks](https://www.codecks.io/) handle game-specific planning better than generic tools like Jira, especially for smaller teams.
 
 **4. Defined scope with cut criteria**

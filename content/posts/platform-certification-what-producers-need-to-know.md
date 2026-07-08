@@ -23,6 +23,7 @@ faqs:
    a: "The most useful resources are the official requirement documents themselves (always check the version number), your platform technical account manager if you have one, and a well-maintained tracking spreadsheet. For project management, Jira and Hacknplan both work well for tagging cert requirements to tasks. For broader production knowledge, the book 'The Game Production Handbook' by Heather Maxwell Chandler covers cert-adjacent processes clearly. Jason Schreier's 'Press Reset' is less prescriptive but gives you a clear picture of what goes wrong when these processes break down."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 You've locked content. The game runs. QA has signed off. Then someone on your team quietly mentions the cert submission deadline is in three days, and you realize you've never actually read the platform holder's technical requirements document. That moment of cold dread is completely avoidable. It happens more often than anyone in the industry likes to admit. Platform certification has ended careers, delayed launches by months, and cost studios hundreds of thousands of dollars in overtime and lost revenue. It doesn't have to go that way.
 
@@ -38,6 +39,15 @@ Here's the part producers often underestimate: the requirements change. Microsof
 
 ## Building Cert Into Your Schedule (Not Bolting It On)
 
+| Certification Phase | Timeline | Key Activities | Ownership |
+| --- | --- | --- | --- |
+| Cert Review Pass 1 | ~12-16 weeks before launch | Full manual review against platform checklists; document unimplemented requirements | Technical QA lead |
+| Dev Kit Compliance Testing | Alpha through beta | Save corruption testing; network timeout handling; suspend/resume failures | QA team |
+| Cert Submission Prep | 6 weeks before launch | Final requirement verification; prepare build and documentation | Dev team + producer |
+| Initial Review Window | 4 weeks minimum | Platform holder review and feedback | Platform holder |
+| Potential Fix/Resubmit Cycle | Variable | Address rejection feedback and resubmit | Dev team |
+| Day-One Patch (if needed) | After initial cert approval | Lighter cert review process for patches | Dev team |
+
 Most certification failures are scheduling failures before they're technical failures. The team never had enough runway to address cert requirements during production, so they're scrambling at the end.
 
 I've seen projects where cert prep was literally a three-day task at the bottom of a milestone plan. Three days for a game shipping on three platforms. That's not a plan.
@@ -45,7 +55,7 @@ I've seen projects where cert prep was literally a three-day task at the bottom 
 Here's a more realistic model for a mid-size AA title shipping on PS5 and Xbox Series X|S simultaneously:
 
 - **Cert review pass 1** should happen around alpha, roughly 12 to 16 weeks before launch. Assign your most technically literate QA lead to do a full manual review against both checklists. Document every requirement you haven't implemented yet.
-- **Dev kit compliance testing** runs continuously from alpha through beta. This is where you catch save corruption, network timeout handling, and suspend/resume failures.
+- **Dev kit compliance testing** runs continuously from [alpha through beta](/what-is-a-game-milestone-alpha-beta-gold/). This is where you catch save corruption, network timeout handling, and suspend/resume failures.
 - **Cert submission prep** should begin no later than 6 weeks before your launch date. You want 4 weeks minimum for initial review, one potential failure/fix/resubmit cycle, and a buffer for anything unexpected.
 - **Day-one patch** should be planned in your schedule regardless of whether you need it. Cert for patches goes through a lighter process, but it still takes time.
 

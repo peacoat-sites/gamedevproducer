@@ -23,10 +23,11 @@ faqs:
     a: "Underestimating the cost of iteration. First-time producers often budget for building a feature once. Experienced ones know most features get built, revised, and rebuilt at least twice. If your budget only covers the first pass, you're already in trouble by the time you hit playtesting."
   - q: "Is it worth hiring a dedicated producer for a small indie game?"
     a: "Depends entirely on team composition. If nobody on the team has a background in project management or finance, even a part-time producer at 10-15 hours a week can prevent overruns that would cost far more than their fee. The research here is genuinely mixed on ROI for very small projects, but my instinct from watching teams work is that the answer is yes more often than most developers want to admit."
+lastmod: 2026-07-07
 ---
 Sixty percent of the indie games I've seen die in development don't die because the idea was bad. They die because the money ran out three months before the game did.
 
-I'll be honest: I spent years at a mid-size AAA studio where budget overruns were almost a ritual. We'd start a project with $4 million approved, and by alpha we'd be presenting a revised scope document to justify the $5.8 million we'd already spent. It was normalized. Nobody got fired. The publisher absorbed it because the title had enough commercial potential to survive the bleed. When I went indie, I had to completely rewire how I think about money in game development, because there's no publisher safety net catching your overage. The $40,000 you budgeted is the $40,000 you have. Full stop.
+I'll be honest: I spent years at a mid-size AAA studio where budget overruns were almost a ritual. We'd start a project with $4 million approved, and by alpha we'd be presenting a revised scope document to justify the $5.8 million we'd already spent. It was normalized. Nobody got fired. The publisher absorbed it because the title had enough commercial potential to survive the bleed. When I went indie, I had to completely rewire how I think about money in game development, because [there's no publisher safety net](/funding-options-for-indie-game-studios-explained/) catching your overage. The $40,000 you budgeted is the $40,000 you have. Full stop.
 
 What surprised me most when I started digging into why budgets actually fail is that it's almost never the big items that kill you. It's not the composer fee or the character artist's contract. It's the thousand small decisions that each seem fine individually, and then you look at your burn rate in month seven and feel genuinely sick.
 
@@ -48,11 +49,19 @@ I have never seen a budget overrun that wasn't, at root, a scope problem. Not on
 
 Feature creep is the obvious culprit, and everyone knows to watch for it. What people underestimate is what I call scope drift: the slow accumulation of "while we're in there" additions that each take an hour or two but collectively represent weeks of unbudgeted work. The programmer who adds a parallax background because it looks better. The UI that gets rebuilt because the first iteration felt off. None of these show up in a change request. They just happen, and your schedule erodes, and since most game dev labor is time-based, eroding schedule means eroding budget.
 
-The fix isn't a strict no-change policy, which is both impractical and demoralizing. I use a lightweight change control habit instead. Simple column in the project board (Hacknplan works well for this, and their base tier is free) called "scope added." Every task that wasn't in the original plan gets tagged. Every week I look at the total hours sitting in that column. If it's growing faster than I'm closing work, that's a warning sign I can act on before it's a crisis.
+The fix isn't a strict no-change policy, which is both impractical and demoralizing. I use a lightweight [change control habit instead](/how-to-plan-a-game-development-budget/). Simple column in the project board (Hacknplan works well for this, and their base tier is free) called "scope added." Every task that wasn't in the original plan gets tagged. Every week I look at the total hours sitting in that column. If it's growing faster than I'm closing work, that's a warning sign I can act on before it's a crisis.
 
 What surprised me was how much just making scope additions visible changes team behavior. People don't stop having good ideas. They just start self-filtering, because now they know the producer actually looks.
 
 ## The Hidden Costs That Eat Indie Budgets
+
+| Cost Category | Minimum | Maximum | Notes |
+| --- | --- | --- | --- |
+| Platform certification (per platform) | $3,000 | $5,000+ | Includes submission fees, fixes, and resubmits |
+| Localization (per language, 50k words) | $5,000 | $7,500 | Translation only; does not include implementation |
+| Voice acting (2-3 hours, professional SAG-AFTRA) | $15,000 | $25,000 | Modest indie title scope |
+| Marketing (Steam indie launch) | $10,000 | $20,000 | Paid promotion minimum for visibility |
+| Contingency buffer | 20% | - | Of total project budget |
 
 Let me give you the things that blindsided me or people I know, because nobody talks about these in the abstract budgeting articles:
 

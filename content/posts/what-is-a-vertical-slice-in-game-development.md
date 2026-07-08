@@ -23,6 +23,7 @@ faqs:
    a: "An alpha is typically a much more complete version of the game with significant missing polish, content gaps, and known bugs. A vertical slice is tiny in scope but polished to final quality in that scope. Think of it this way: alpha is wide and rough, vertical slice is narrow and finished."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Somewhere around month eight of a 24-month project, a publisher asked us to show them "the game." Not a prototype. Not a proof of concept with placeholder assets and a camera that clipped through the floor. The actual game. A real, representative slice of what players would experience when the finished product shipped.
 
@@ -42,7 +43,7 @@ Here's what most people miss: how different this is from a demo or a proof of co
 
 ## Why It Matters More Than Your Roadmap
 
-I've watched studios spend six months building a meticulous Gantt chart and three weeks on a vertical slice. I'll tell you which one actually predicted whether the game would work.
+I've watched studios spend six months building a [meticulous Gantt chart](/how-to-build-a-game-development-roadmap/) and three weeks on a vertical slice. I'll tell you which one actually predicted whether the game would work.
 
 It wasn't the Gantt chart.
 
@@ -62,13 +63,20 @@ Here's roughly how I'd structure it for a small-to-mid-size team.
 
 Start by choosing your slice ruthlessly. Pick the ten minutes of gameplay that best represents your game's core identity. Not the flashiest moment. Not the level your art director is most excited about. The part that most accurately represents what players will do for most of the game. If your game is a third-person action RPG with exploration and combat in an open world, don't pick the boss fight cinematic. Pick the thing that players will repeat a thousand times.
 
-Then lock the scope completely. No feature creep inside the vertical slice. Whatever you say is in it, that's the contract. This is where a producer earns their salary, because every single person on the team will want to add one more thing.
+Then [lock the scope completely](/avoiding-scope-creep-in-game-production/). No feature creep inside the vertical slice. Whatever you say is in it, that's the contract. This is where a producer earns their salary, because every single person on the team will want to add one more thing.
 
 Assign your best people to it. Teams routinely put senior developers on infrastructure and junior folks on the content that will be demoed. Flip that. The vertical slice is what publishers see, what players see in Steam Next Fest, what press plays at preview events. It needs your strongest work.
 
 Plan for iteration time after you think it's done. Whatever you estimated for getting the slice to final quality, add 30%. Not because your team is slow, but because the first time you playtest it with fresh eyes, you will find things. Every time. Build those iteration cycles into the schedule from day one.
 
 ## The Vertical Slice vs. Everything Else You Might Build
+
+| Build Type | Purpose | Scope | Quality Level | Throwaway? |
+| --- | --- | --- | --- | --- |
+| Prototype | Answer one specific question | Exploratory | Placeholder/Rough | Usually |
+| Proof of Concept | Test technical feasibility | Single system focus | Functional | Often |
+| Vertical Slice | Validate core game experience | Complete vertical cut through all systems | Ship-ready/Final | No |
+| Demo | Marketing/public consumption | Audience-focused | Polished | No |
 
 Producers and developers use overlapping terms for early game builds, and that lack of precision causes confusion. Let me be direct about the differences.
 

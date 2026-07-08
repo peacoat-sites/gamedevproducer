@@ -23,6 +23,7 @@ faqs:
    a: "Every day for teams in active development. Twice a week for pre-production or maintenance phases where the work is slower-moving. Less than twice a week and you're flying blind for too long between check-ins. The shorter you can keep each individual meeting, the less you need to ration them."
  - q: "What's the best way to run a standup for a fully remote team?"
    a: "Camera on, short synchronous call, shared sprint board visible to everyone. Use a tool like Whereby or Google Meet (not Slack huddles, which make it too easy to multitask). Start on time regardless of who's present. Record it only if someone is genuinely unavailable, not as a default, because knowing you're being recorded changes how people talk."
+lastmod: 2026-07-07
 ---
 
 Most standups are a waste of time. Not because the format is broken, but because nobody ever taught the team what it's actually for.
@@ -51,7 +52,7 @@ Run it standing up, but don't be precious about it. If your team is remote, bein
 
 The actual format I use: go around the team fast, and each person answers one question: "What do you need from someone else today, or are you good?" That's it. If someone's good, great. If someone needs something, that's the conversation you're there to have. You can post yesterday's progress in your task board (Linear, Jira, Shortcut, whatever you're using) the night before. Don't eat meeting time with information that can be written down.
 
-Blockers get flagged immediately and the right people are pulled into a quick sidebar after standup. Not during. That's the other discipline that makes standups work: you identify the issue in the meeting, you solve it outside. "Let's take that offline" is not corporate cowardice. It's respecting the nine other people standing there who don't need to watch two engineers debug a shader graph.
+[Blockers get flagged immediately](/sprint-planning-for-small-game-teams-guide/) and the right people are pulled into a quick sidebar after standup. Not during. That's the other discipline that makes standups work: you identify the issue in the meeting, you solve it outside. "Let's take that offline" is not corporate cowardice. It's respecting the nine other people standing there who don't need to watch two engineers debug a shader graph.
 
 ## Running Standups When Your Team Is Mid-Sprint (and Stressed)
 

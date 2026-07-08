@@ -23,6 +23,7 @@ faqs:
    a: "There's real value in it. Publisher milestone structures force documentation habits, reporting discipline, and external accountability that help producers build skills faster. The constraints aren't just bureaucratic overhead. They're a training environment. That said, the tradeoffs around creative control and revenue sharing are significant, and going in without understanding those tradeoffs is where producers get burned."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 You're three months into pre-production on your studio's first original IP. The vertical slice is actually impressive. Twelve people on the team. And now you've got two parallel conversations: a mid-tier publisher offering an advance against royalties, or your CFO pushing for Steam self-publishing and keeping 100% of the revenue. Both are viable. Both will completely reshape how you work as a producer. That tension is what matters here.
 
@@ -44,13 +45,24 @@ Self-publishing isn't just "same job without a publisher looking over your shoul
 
 Without milestone gates from a publisher, you set your own cadence. Sounds good until you realize nothing forces you to ship. Studios can stay in pre-production forever, iterating on systems that'll never be good enough because no one external is applying pressure. Scope creep becomes existential.
 
-Your job transforms. You now handle what a publisher would absorb: managing release timing against market conditions, coordinating marketing and community strategy, handling storefronts, building a trailer pipeline, negotiating with porting houses for multi-platform support, understanding platform certification yourself.
+Your job transforms. You now handle what a publisher would absorb: managing release timing against market conditions, coordinating marketing and community strategy, handling storefronts, building a trailer pipeline, negotiating with porting houses for multi-platform support, understanding [platform certification yourself](/platform-certification-what-producers-need-to-know/).
 
 The money picture shifts too. You're either self-funded, running on investor capital, or generating revenue through Early Access. Each funding structure has different implications for hiring and scope decisions. Investor-backed studios still face milestone-like reporting. They don't want monthly sprint reviews, but quarterly progress updates justify continued funding.
 
 On methodology, self-publishing studios get flexibility to choose their process. If you're deciding between Kanban and Scrum, [this comparison for game development](/kanban-vs-scrum-for-game-development-which-to-use/) shows practical tradeoffs without the dogma.
 
 ## The Producer Role: How It Diverges Under Each Model
+
+| Responsibility | Publisher Deal | Self-Publishing |
+|---|---|---|
+| Milestone dates | Set contractually, often inflexible | Internal, team-driven |
+| QA resources | Often partially provided by publisher | Fully your responsibility |
+| Marketing budget | Publisher-controlled | Studio-controlled (often minimal) |
+| Platform certification | Publisher's cert team leads | You hire or learn yourself |
+| Launch timing | Publisher decides | Studio decides |
+| Post-launch support scope | Negotiated in contract | Entirely your call |
+| Revenue share | Advance recoup, then royalty split | Full revenue after platform fees |
+| Reporting cadence | Publisher milestone reviews | Investor updates or internal only |
 
 Publisher deals push the producer toward program management. You're reporting upward to the publisher, managing the team internally, and spending time on reporting, documentation, and milestone prep. Your relationship with the publisher's producer is critical, closer to the [game producer vs technical program manager dynamic](/game-producer-vs-technical-program-manager/) than most expect.
 
@@ -77,7 +89,7 @@ Scope is the single biggest variable between these two contexts.
 
 With a publisher, scope has contractual protection. The feature list you agreed to is the feature list you're building. Adding major features requires a formal change order or written approval from the publisher's product owner. That's annoying, but it gives you leverage. When your creative director wants to add a whole progression system six months before content complete, you point to the contract: "That's a change order conversation."
 
-Self-publishing removes that protection. Your creative director can approve anything because no external party pushes back. You have to build internal governance that creates the constraints a publisher would impose. Some studios do this with internal milestone reviews, external playtesting deadlines, or Early Access commitments that function like publisher gates. Others don't, and it's painful.
+Self-publishing removes that protection. Your creative director can approve anything because no external party pushes back. You have to build internal governance that creates the constraints a publisher would impose. Some studios do this with [internal milestone reviews](/what-is-a-game-milestone-alpha-beta-gold/), external playtesting deadlines, or Early Access commitments that function like publisher gates. Others don't, and it's painful.
 
 Scope also connects directly to people management. Engineers and artists relate to scope change differently, and juggling both disciplines without a clear process creates friction under both models, just [in different ways](/managing-engineers-and-artists-on-the-same-team/).
 

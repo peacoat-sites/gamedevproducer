@@ -23,6 +23,7 @@ faqs:
    a: "When the platform or performance requirements genuinely can't be met by a commercial engine, or when the studio already has deep institutional knowledge in the proprietary toolchain. The production cost of a proprietary engine is significant: no external hiring, no community support, and no third-party middleware integration without custom work. It's often the right call for first-party console studios or highly specialized genres, but it should be a deliberate decision with eyes open to the overhead."
 author_slug: "marcus-webb"
 author_title: "Technical Editor"
+lastmod: 2026-07-07
 ---
 You've just locked in your concept, the team is excited, and someone in the room says "so, are we using Unreal or Unity?" What follows that question will quietly shape every sprint, every milestone, every staffing decision, and every late-night fire drill for the next two to five years. Most producers treat engine selection as a technical decision. It isn't.
 
@@ -50,6 +51,13 @@ Also consider where your engine sits relative to your target platforms. Platform
 
 ## Staffing, Onboarding, and the Hidden Talent Cost
 
+| Engine | Onboarding Time (Mid-Level) | Onboarding Time (Junior) | Build Time | Community Support | Best For |
+| --- | --- | --- | --- | --- | --- |
+| Unreal Engine 5 | 6-12 weeks | 20 weeks | 20-40 min (mobile) / 45+ min (large projects) | Massive (courses, certification, YouTube) | Performance-critical, console |
+| Unity | 6-12 weeks | 20 weeks | Variable (improved in Unity 6) | Massive (Udemy, official portal, GDC Vault) | Cross-platform, mobile |
+| Godot | 6-12 weeks | 20 weeks | Fast (lightweight editor) | Growing (post-2023 surge) | Rapid iteration, smaller teams |
+| Proprietary Engine | 6-12 weeks | 20 weeks | Variable | None (zero external community) | Platform-specific optimization |
+
 The average ramp-up time for a senior developer joining a project using an unfamiliar engine is 6 to 12 weeks before they're producing at full capacity. For juniors, that number stretches to 20 weeks. Multiply that across a team of 15 and you've got a productivity hole that never shows up as a red flag in your schedule until it already is one.
 
 When evaluating engine options, ask these staffing questions explicitly:
@@ -70,7 +78,7 @@ If your team is running two-week sprints and a full build takes 45 minutes, deve
 
 Unity's domain reload times became a genuine production problem for teams working on large projects, though Unity 6 has made significant improvements. Godot's lightweight editor and fast compile times make it genuinely competitive for smaller teams prioritizing rapid iteration.
 
-Before committing, run this comparison:
+[Before committing, run this compar](/unreal-engine-production-challenges-for-producers/)ison:
 
 | Factor | Unreal Engine 5 | Unity 6 | Godot 4 | Proprietary |
 |---|---|---|---|---|

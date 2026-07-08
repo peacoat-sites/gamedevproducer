@@ -23,6 +23,7 @@ faqs:
    a: "Most NDAs cover unreleased content and proprietary data, not the existence of a sprint structure or a general workflow. Anonymize and generalize where needed. If in doubt, ask your former employer. But don't assume an NDA means you can show nothing. That's a common misconception that kills portfolios before they start. The producers I've seen get hired fastest aren't always the ones with the longest resumes. They're the ones who made it easy for a busy hiring manager to see exactly how they think. Do that, and your portfolio does the selling for you."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 You spent eight months producing a mobile RPG, shipped it on time, kept a team of twelve aligned, and survived a mid-project engine migration without killing the budget. Hiring managers at three studios looked at your portfolio and passed. Sound familiar? The problem almost certainly isn't your experience. It's how you're presenting it, or more accurately, what you're choosing to show.
 
@@ -38,7 +39,7 @@ Producers get hired for their systems, their judgment, and their communication. 
 
 **A production artifact.** This is it. The one thing that matters most. A sprint plan, a risk register, a milestone tracking document, a capacity planning spreadsheet, a postmortem. Something that shows you can create usable structure. Redact any confidential data, but show the actual thing. A real, slightly messy Jira board screenshot with your logic explained beats a polished diagram of nothing.
 
-**A postmortem or retrospective write-up.** One to two pages. Explain what went wrong on a project, what you did about it, and what changed as a result. Hiring managers love this because it shows self-awareness and process thinking. Most candidates don't include it because they're afraid it makes them look bad. It doesn't.
+**[A postmortem or retrospective write-up.](/associate-producer-to-producer-how-to-level-up/)** One to two pages. Explain what went wrong on a project, what you did about it, and what changed as a result. Hiring managers love this because it shows self-awareness and process thinking. Most candidates don't include it because they're afraid it makes them look bad. It doesn't.
 
 **Metrics that mean something.** "Shipped on time" is not a metric. "Reduced bug backlog from 340 open tickets to 47 over six weeks by introducing a weekly triage ceremony" is a metric. Quantify your impact wherever you can. Even rough numbers beat vague claims.
 

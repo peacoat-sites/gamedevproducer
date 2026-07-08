@@ -23,6 +23,7 @@ faqs:
     a: "Yes. Exclusivity in a pitch process isn't the norm, and unless a publisher explicitly asks for a period of exclusive negotiation (which sometimes happens after serious interest), you should be talking to multiple people simultaneously. Having competing interest, even implied interest, improves your negotiating position considerably."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most pitches fail before the publisher even opens the deck. I've been on both sides of the table, and watching genuinely interesting game concepts crash because the team didn't understand what they were actually supposed to prove? It's painful.
 
@@ -37,6 +38,15 @@ What struck me moving into production consulting was how plainly publishers stat
 Your pitch has two separate jobs. One sells the game. The other sells the team. Most pitches nail one and ignore the other entirely.
 
 ## Building the Pitch Deck That Actually Gets a Response
+
+| Pitch Deck Element | Purpose | Key Detail |
+| --- | --- | --- |
+| Concept Hook | Establish genre and core loop | 1-2 paragraphs max; include emotional promise and reference titles |
+| Market Positioning | Show competitive landscape | Use SteamSpy, VGInsights, Game Data Crunch; name competitors honestly |
+| Team Credentials | Prove execution capability | Shipped games preferred; show vertical slice and development velocity for first-time teams |
+| Vertical Slice or Demo | Demonstrate playability | Rough polish acceptable; core loop must be playable |
+| Budget and Timeline | Show financial planning | Specific figures with line-item breakdown (e.g., "$200k over 18 months") |
+| Revenue Projections | Justify market viability | Conservative estimates with comparable game references and mathematical reasoning |
 
 A game pitch deck in 2024 runs 15 to 25 slides. Go shorter if you're early. Go longer only if you have real evidence to show. I've watched teams spend three months building a 60-slide deck that got ignored, while a 12-slide deck with a polished vertical slice landed a deal in six weeks. Length isn't proof of seriousness.
 

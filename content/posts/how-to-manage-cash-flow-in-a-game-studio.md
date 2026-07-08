@@ -23,6 +23,7 @@ faqs:
    a: "Treating their annual budget as a cash flow plan. A budget tells you what you plan to spend over a year. It says nothing about whether you'll have the cash in hand when specific bills arrive. Build the weekly forecast. Seriously. The number of studios that have gone into distress despite having technically adequate budgets is sobering."
  - q: "How do grants affect cash flow planning?"
    a: "Grant money is real revenue but it's slow and uncertain until it's in your account. Never build a cash flow forecast that depends on a grant you haven't been awarded yet. Plan for the grant as upside; build your minimum viable plan around money you can predict. When the grant arrives, it extends runway rather than being the thing that creates it."
+lastmod: 2026-07-07
 ---
 
 Thirty percent of indie studios that fail cite cash flow problems as the primary cause. Not bad games. Not marketing failures. Cash flow. The money was there on paper, and then it wasn't, and nobody saw it coming until it was too late.
@@ -36,6 +37,14 @@ Let me try to fix that.
 ---
 
 ## The Difference Between Profit and Cash (and Why Most Producers Get This Wrong)
+
+| Element | Details |
+| --- | --- |
+| Time Horizon | 13 weeks (3 months) |
+| Update Frequency | Every Monday morning |
+| Inclusions | Known invoices with realistic collection dates, recurring costs with exact billing cycles, contractor payment schedules, unplanned buffer (10-15% of monthly burn) |
+| Recommended Tools | Float (~$59/month), Pulse (~$29/month), or Google Sheets template |
+| Key Metric | Cash in and cash out timing (not P&L or annual budget) |
 
 I'll be honest: I thought these were basically the same thing for the first two years of my career. I was wrong in a way that cost a team I was working with real money.
 
@@ -55,7 +64,7 @@ Tools I'd use for this: Float (around $59/month, integrates directly with QuickB
 
 ## Milestones, Publishers, and the Timing Trap
 
-If you've got a publisher deal, congratulations. Also: pay close attention to your milestone payment schedule, because it's almost certainly not aligned with your actual cost curve.
+If you've got a [publisher deal](/funding-options-for-indie-game-studios-explained/), congratulations. Also: pay close attention to your milestone payment schedule, because it's almost certainly not aligned with your actual cost curve.
 
 Publisher advances are typically paid against milestones: Alpha, Beta, Gold, launch. What nobody tells you clearly enough is that your spend is front-loaded and the milestone payments are back-loaded. You're hiring people, buying assets, paying for tools from month one. The milestone money shows up when you've proven something exists.
 
@@ -75,7 +84,7 @@ Burn rate is monthly cash out the door. It's the number that determines how many
 
 Every full-time salary slot is approximately $7,000-$15,000 per month in fully-loaded cost (salary plus benefits, employer taxes, equipment, software). Contractors are often cheaper on a per-month basis for specific skills you need in short bursts, though hourly rates for experienced game contractors have climbed significantly, with senior engineers running $90-$140/hour as of this year.
 
-What I've seen work: keep your core team small and senior. Two experienced people who own their domains will outship a team of five junior hires who need constant management, and the cash math is often better too. Hire specialists as contractors for specific production phases. Build your art pipeline, your audio, your QA to expand and contract with the production schedule, not permanently.
+What I've seen work: [keep your core team small](/how-to-keep-a-game-project-on-budget/) and senior. Two experienced people who own their domains will outship a team of five junior hires who need constant management, and the cash math is often better too. Hire specialists as contractors for specific production phases. Build your art pipeline, your audio, your QA to expand and contract with the production schedule, not permanently.
 
 The thing most people don't realize is that fixed costs are what kill you in a cash crisis, not variable ones. Variable costs (contractors, third-party services, per-unit licenses) flex down when revenue is delayed. Fixed costs (full-time salaries, office leases, annual tool subscriptions) do not. Structuring your cost base to be as variable as possible without destroying team cohesion is one of the most underrated strategic decisions a studio makes.
 

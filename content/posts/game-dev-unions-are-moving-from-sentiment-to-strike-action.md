@@ -12,6 +12,7 @@ author_title: "Studio Operations Lead"
 author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
 slug: "game-dev-unions-are-moving-from-sentiment-to-strike-action"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Something crossed a threshold in Barcelona this summer. On June 30, workers at Ubisoft Barcelona walked off the job, not for a full day, but for targeted partial strikes every Tuesday and Thursday afternoon through July 16. Six strikes in total. Coordinated, sustained, and deliberately disruptive. This wasn't a petition. It wasn't an open letter. It was industrial action, and it's the clearest signal yet that game dev labor organizing has moved from a sentiment to a strategy.
@@ -19,6 +20,19 @@ Something crossed a threshold in Barcelona this summer. On June 30, workers at U
 The trigger was brutal: 51 employees cut in a restructuring sweep that also shuttered Ubisoft Winnipeg and Ubisoft Belgrade. That's roughly 28% of the Barcelona studio gone in one announcement. When you lose more than a quarter of your colleagues in a single restructuring, the abstract arguments for collective bargaining become very concrete very fast.
 
 ## The Numbers Behind the Anger
+
+| Metric | Figure | Context |
+| --- | --- | --- |
+| US-based unionization support | 82% | GDC 2026 State of the Game Industry survey (2,300+ professionals) |
+| Support among laid-off workers | 88% | Workers laid off in past two years |
+| US workers laid off in past two years | 33% | One in three |
+| Employers with layoffs in past 12 months | 50% | Current or most recent employer |
+| Actual union membership | 10% | Industry-wide unionization rate |
+| Interest in joining union | 62% | Among surveyed respondents |
+| Ubisoft Barcelona cuts | 51 employees (28%) | June 2026 restructuring |
+| Global gaming job cuts (mid-2026) | 3,700+ roles | Confirmed by TradingPlatforms |
+| Epic layoffs (March 2026) | ~1,000 roles | Single announcement |
+| Bungie layoffs (summer 2026) | ~400 roles | Single announcement |
 
 I'll be honest, I've been watching union sentiment data in this industry for a few years, and the GDC 2026 State of the Game Industry report stopped me in my tracks. Of 2,300-plus professionals surveyed, 82% of US-based respondents said they support unionization. That's not a slim majority. That's a supermajority. And among workers who'd been laid off in the past two years, the number climbs to 88%.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Git LFS offloads large binary files to a separate storage backend instead of tracking them in the main Git history. It solves the repository bloat problem, but it doesn't give you native file locking to prevent overwrite conflicts without additional setup. It's a partial solution, not a full replacement for Perforce's binary handling."
  - q: "Should a small indie team bother with Perforce?"
    a: "Honestly, probably not unless you're in Unreal with a meaningful art team. The setup overhead and licensing cost past 5 users are real considerations. A well-configured Git setup with LFS handles most small-team scenarios just fine, and you can always migrate later if the project scales up and demands it."
+lastmod: 2026-07-07
 ---
 
 Most game studios get this decision wrong not because they lack information, but because they benchmark against the wrong kind of project.
@@ -54,6 +55,12 @@ Git is also free and self-hostable via GitLab, Gitea, or just GitHub for small r
 What surprised me was how many mid-sized studios (say, 15-40 people) are running a hybrid: Perforce for art assets and binary files, Git for pure code repositories, with some integration layer stitching them together. Unreal Engine projects in particular sometimes use this setup because Unreal's own tooling has historically played better with Perforce, though Epic has made real progress on Git compatibility over the last couple of years.
 
 ## The Unreal Situation Specifically
+
+| Scenario | Team Size | Engine | Setup | Result |
+| --- | --- | --- | --- | --- |
+| Indie roguelike | 8 people | Unity | Git + GitHub + Git LFS (audio only) | Shipped in 22 months, $4,000-6,000 saved on licensing |
+| Open world game | 35 people | Unreal | Git LFS (4 months), migrated to Helix Core | 3 asset corruption incidents with Git; zero incidents post-migration over 14 months |
+| Hybrid codebase | 60 people | Unity + C++ plugins | Perforce (art/engine) + Git (plugin code) + sync script | Improved programmer velocity on plugin work, no art pipeline disruption |
 
 If you're building in Unreal Engine, you need to think about this more carefully than Unity developers do.
 

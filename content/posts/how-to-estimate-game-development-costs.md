@@ -23,6 +23,7 @@ faqs:
    a: "At every major milestone, after any significant scope change, and whenever actual velocity diverges from planned velocity for two or more consecutive sprints. Estimates aren't a contract. They're a living forecast. Treating them as fixed after pre-production is one of the most common ways studios walk into production debt without noticing until it's too late."
 author_slug: "jordan-lee"
 author_title: "Game Developer"
+lastmod: 2026-07-07
 ---
 Most studios don't blow their budgets on big decisions. They bleed out on the small ones nobody estimated properly. The character rig that needed three passes. The audio implementation that got scoped as "two weeks" by someone who'd never opened FMOD. The month of crunch that cost nothing on paper and cost everything in turnover afterward. Estimation isn't a box you check before funding. It's the skill that separates studios that ship from studios that send a heartfelt update to their Kickstarter backers explaining why the game is five years late.
 
@@ -48,11 +49,19 @@ Before you estimate a number, you need a complete map of what you're estimating.
 
 **Hardware and infrastructure** includes development kits if you're shipping on console. PS5 and Xbox kits run $2,500 to $5,000 each, and you'll want multiples. Add workstations, storage, and any cloud build or testing infrastructure.
 
-**Publishing and platform fees** are often completely missing from indie budgets. Platform certification costs time. Localization for additional languages can run 10 to 20 percent of total development cost if you're doing it properly. Marketing, trailer production, press outreach, and a launch window advertising push are budget items, not afterthoughts.
+**Publishing and platform fees** are often completely missing from indie budgets. Platform certification costs time. [Localization for additional languages](/how-to-plan-a-game-development-budget/) can run 10 to 20 percent of total development cost if you're doing it properly. Marketing, trailer production, press outreach, and a launch window advertising push are budget items, not afterthoughts.
 
 **Contingency** is not optional. If your estimate doesn't include a buffer of at least 20 to 25 percent, your estimate is incomplete. Calling it a contingency doesn't mean you expect to use it. It means you're being honest about the fact that you've never made this exact game before.
 
 ## The Step-by-Step Estimation Process That Actually Works
+
+| Game Scope | Typical Team Size | Rough Dev Cost Range | Timeline |
+|---|---|---|---|
+| Micro (jam-style, 1-2 mechanics) | 1-3 people | $15K - $80K | 3-9 months |
+| Small (2D platformer, one mechanic depth) | 3-8 people | $80K - $400K | 9-18 months |
+| Mid-scope (2D action, 3-4 systems) | 8-15 people | $400K - $1.5M | 18-30 months |
+| Larger indie (3D action, multiple mechanics) | 15-30 people | $1.5M - $4M | 24-40 months |
+| AA-tier (narrative focus, high production) | 30-60 people | $4M - $15M | 36-48 months |
 
 There's no magic formula, but there is a sequence that produces better numbers than guessing from the top down.
 

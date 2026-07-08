@@ -23,12 +23,13 @@ faqs:
    a: "For project management around Steam launches, Notion works well for building content calendars and asset checklists. Trello is simpler if you want Kanban-style task tracking for milestone deadlines like 'capsule final' or 'trailer submitted.' For understanding your page performance, SteamDB is indispensable. For learning how to think about this more strategically, Chris Zukowski's blog (How To Market A Game) is the single most useful resource I've seen for indie developers on Steam marketing, and he posts detailed breakdowns of what's working right now. Udemy also has credible game marketing c"
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 You spent eight months building a demo. Finally got it live on Steam, shared the link everywhere, and... 127 wishlists in three weeks. Your friend's game, which honestly looks rougher than yours, already has 4,000. You refresh the page. What are you missing?
 
 I've seen this exact situation more times than I can count, and almost every time the problem isn't the game. It's the page.
 
-A Steam page isn't a formality you fill out before the real marketing begins. It *is* the marketing, at least for the first 90% of your audience who will never see your tweets or Discord. Valve's algorithm surfaces games to people who might like them, but it can only do that if your page clearly communicates what kind of game you made. And it can only convert those visitors into wishlists if every element earns trust fast. Most developers treat their Steam page like a README file. The ones who treat it like a landing page with an actual conversion goal are the ones who hit 10,000 wishlists before launch.
+A Steam page isn't a formality you fill out [before the real marketing begins](/game-launch-checklist-for-indie-developers/). It *is* the marketing, at least for the first 90% of your audience who will never see your tweets or Discord. Valve's algorithm surfaces games to people who might like them, but it can only do that if your page clearly communicates what kind of game you made. And it can only convert those visitors into wishlists if every element earns trust fast. Most developers treat their Steam page like a README file. The ones who treat it like a landing page with an actual conversion goal are the ones who hit 10,000 wishlists before launch.
 
 ## The Capsule Image Is the Only Thing That Matters First
 

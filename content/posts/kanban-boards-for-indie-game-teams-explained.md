@@ -23,6 +23,7 @@ faqs:
    a: "Don't put recurring operational tasks on your kanban board at all. They're not flow work; they're scheduled events. Put them in your calendar or a separate recurring checklist. Mixing them into your task flow pollutes the board and makes cycle time metrics meaningless."
  - q: "When should we actually update the board, and how do we stop it going stale?"
    a: "Daily self-updates (each person moves their own cards) combined with a 30-minute weekly team review is the pattern that sticks. If you can't get daily updates, do them at the start and end of each work session. What doesn't work: assigning one person to maintain the board for everyone else. It always drifts, and then nobody trusts it."
+lastmod: 2026-07-07
 ---
 
 Most kanban advice online was written for software developers shipping features to paying enterprise customers. That's a problem, because indie game dev doesn't look anything like that.
@@ -35,11 +36,17 @@ The fix wasn't complicated, but it required understanding what kanban is actuall
 
 Kanban originated at Toyota in the 1940s as a manufacturing flow system. The word means "signboard" in Japanese. The core idea: visualize your work, limit how much is in progress at one time, and watch for where things get stuck. That's it. There's no prescribed ceremony, no sprints, no velocity points. You're not committing to a two-week block of work; you're just pulling the next card when you have capacity.
 
-What surprised me, when I dug into this properly, is how well that model fits a small game team's reality. Indie dev is deeply asynchronous. Your composer works weird hours. Your artist is juggling contract gigs. Your programmer might disappear for a week into a hard rendering problem. Sprint commitments get broken constantly, which kills morale. Kanban doesn't ask you to commit. It asks you to keep moving and surface blockers fast.
+What surprised me, when I dug into this properly, is how well that model fits a small game team's reality. Indie dev is deeply asynchronous. Your composer works weird hours. Your artist is juggling contract gigs. Your programmer might disappear for a week into a hard rendering problem. [Sprint commitments get broken constantly](/sprint-planning-for-small-game-teams-guide/), which kills morale. Kanban doesn't ask you to commit. It asks you to keep moving and surface blockers fast.
 
 The research here is somewhat mixed: a 2018 analysis published in the *Journal of Software: Evolution and Process* compared agile methods on small creative software teams and found kanban outperformed Scrum on teams under eight people primarily because of lower coordination overhead. Not a slam dunk, but the direction is consistent with what I've seen in practice.
 
 ## Setting Up a Board That Actually Reflects How Games Get Made
+
+| Tool | Best For | Cost | Setup Time |
+| --- | --- | --- | --- |
+| Trello | Teams up to 6 people | Free tier available | Minimal |
+| HacknPlan | Game dev teams (Studio tier) | ~$5/user/month | Moderate |
+| Jira | Larger indie teams with publisher support | Variable | ~1 week |
 
 The default "To Do / Doing / Done" setup will work at first. But games have a production reality that most kanban templates ignore: assets, mechanics, and content have multiple distinct states that matter differently to different people on the team.
 

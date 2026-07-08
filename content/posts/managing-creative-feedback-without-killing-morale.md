@@ -23,6 +23,7 @@ faqs:
    a: "Frame.io is strong for video and animation reviews. ShotGrid (formerly Shotgun) is the industry standard for larger teams tracking asset reviews across a full pipeline. For smaller teams where budget matters, Loom plus a shared Notion page gets you surprisingly far."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Halfway through sprint review, your lead artist goes quiet. The creative director just called their environment work "a good start" and asked for "more energy." No specifics. No examples. Just vibes-based criticism delivered in front of the team. The artist nods, says nothing, and spends the next two weeks technically doing their job while emotionally checking out. You've just watched morale die in real time, and the worst part is the creative director genuinely thought they were being helpful.
 
@@ -38,7 +39,7 @@ The three structural failures I see most often:
 
 **Feedback without criteria.** Your team doesn't know what "good" looks like before they start work, so any criticism lands as arbitrary judgment. You can't hit a target no one drew.
 
-**Public critique without psychological safety.** Group review sessions are useful for some things. They're a terrible place to deliver substantive negative feedback for the first time. People perform defensiveness in public. They actually hear you in private.
+**Public critique without [psychological safety](/psychological-safety-and-milestone-reviews-in-game-dev/).** Group review sessions are useful for some things. They're a terrible place to deliver substantive negative feedback for the first time. People perform defensiveness in public. They actually hear you in private.
 
 **One-way transmission.** Feedback given with no mechanism for response or clarification isn't feedback, it's a verdict. The difference matters enormously to the person receiving it.
 
@@ -79,6 +80,14 @@ Why does it matter? "When the path is hard to read, playtesters miss the objecti
 Every feedback session should end with a specific, agreed task. Not "rework the lighting," but "adjust the midpoint lighting so the path marker is visible within two seconds of entering the section, and flag me when it's in for a quick look."
 
 ## The Public vs. Private Feedback Rule
+
+| Feedback Type | Best Format |
+|---|---|
+| High-level creative direction | Async, written, before live session |
+| Substantive critique on specific work | 1:1, before group review |
+| Positive callouts, shared learnings | Group session, great use of the format |
+| Directional pivots or scope changes | 1:1 first, then communicated to group |
+| Quick iterative notes | Async tool comments (Shotgrid, Frame.io, etc.) |
 
 I'll be blunt: most group critique sessions in game dev are run badly. They default to senior people talking and junior people nodding. That's not useful for quality and it's actively harmful to psychological safety.
 

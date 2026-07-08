@@ -23,6 +23,7 @@ faqs:
    a: "It's workable, but there's a real tension: the producer often has opinions about what should change, which can steer the discussion. Rotating facilitation among senior team members, or having a peer producer from another team facilitate quarterly, removes that bias. I've done both, and external facilitation produces noticeably more candid outputs."
  - q: "What's the best retrospective tool for remote teams?"
    a: "As of June 2026, EasyRetro and Miro remain the most practical options for distributed game teams. EasyRetro is simpler and faster to set up for async card input. Miro is better if you need flexible formats or want to integrate retro boards with other project documentation. FigJam works if your team already lives in Figma. The tool choice matters far less than whether action items end up in the same system your team uses for actual work."
+lastmod: 2026-07-07
 ---
 
 Most retrospective advice focuses on the wrong problem. It treats the retro as a morale exercise, a place to vent, then move on. The actual job is to produce a short list of changes your team will actually make before the next sprint. Everything else is optional.
@@ -48,6 +49,13 @@ Room setup: async or remote teams should use a dedicated board tool. Miro works,
 ---
 
 ## The Format Question (And How Most Teams Choose Wrong)
+
+| Retrospective Format | Best Used When | Key Focus |
+| --- | --- | --- |
+| Start-Stop-Continue | Default format, general sprints | Action-oriented; forces deletion decisions |
+| Glad-Sad-Mad | After shipping or crunch periods | Emotional processing before analysis |
+| Sailboat | Project losing direction | Structural shifts; not just velocity loss |
+| Custom Format | Based on team-flagged thorny issues | Addresses specific recurring problems |
 
 There are maybe a dozen named retrospective formats. Start-Stop-Continue. Four Ls. Sailboat. Glad-Sad-Mad. Most teams pick one, use it every sprint forever, and wonder why engagement drops around month three.
 

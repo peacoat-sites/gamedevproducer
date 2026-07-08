@@ -23,6 +23,7 @@ faqs:
     a: "Useful for opening conversations, not for making decisions. I've seen teams use DISC well as a shared language: 'I process better in writing, here's why.' That's valuable. Where assessments go wrong is when people use them to categorize or excuse: 'She's an introvert so she won't want to present.' Run the assessment, use the vocabulary, then watch the actual behavior. The person is always more accurate than the type."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Your lead engineer hasn't spoken in three standups this week. Your narrative designer won't stop talking in them. Both are doing excellent work. The problem isn't performance. The problem is you've built one communication system and expected two fundamentally different people to thrive in it equally. They won't.
 
@@ -37,6 +38,11 @@ Open offices, daily standups, group brainstorms, sprint reviews with stakeholder
 Extroverts have the opposite problem. Give them async Jira comments as the primary feedback loop and they'll feel invisible within a month.
 
 ## What You Actually Need to Know About Each Type
+
+| Communication Style | Energy Source | Group Setting Behavior | Best Feedback Method | Warning Sign Under Pressure |
+| --- | --- | --- | --- | --- |
+| Introvert | Internal processing | Quiet, self-editing, drained by back-to-back meetings | Async written feedback, one-on-ones with specific questions | Goes quieter and more isolated |
+| Extrovert | External interaction | Thinks out loud, fills silence, processes through talking | Synchronous discussion, group brainstorms, immediate feedback | Gets louder and more reactive |
 
 Introverts do their best thinking before or after the conversation, not during it. They need time to process, they often self-edit heavily in group settings, and back-to-back meetings can genuinely drain them in a way that compounds over a long sprint.
 

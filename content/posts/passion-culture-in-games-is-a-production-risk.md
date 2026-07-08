@@ -23,6 +23,7 @@ faqs:
    a: "Be honest about what changed and why. Explain that the studio is switching to realistic planning, which means the schedule will actually be achievable. Set clear boundaries on hours. Back them up. When someone does work a long night, ask why the plan failed. The first few people you hire into the new culture will be skeptical. But when the schedule holds and they can actually have a life outside work, you'll attract better people consistently."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 You're two weeks from an engine migration deadline. Your lead programmer hasn't slept properly in three weeks. The art director just finished a 60-hour sprint to redo character models that weren't technically broken. When you mention crunch in the standup, people nod like it's normal. Someone says, "That's just how game dev works." You believe them. You hire more passionate people. Six months later, two of your best artists quit without warning, and a junior engineer is too burned out to contribute meaningfully. The problem wasn't that they weren't passionate enough. It was that you built a production system that treated passion as a substitute for planning.
 
@@ -41,6 +42,14 @@ Here's the thing: truly passionate people will sustain effort for meaningful wor
 I've watched studios hire exclusively for passion and cultural fit, then act shocked when their most dedicated people quit. The reason is always the same: they thought passion was a renewable resource. It's not. It's fuel. And you can't expect people to run their tank dry repeatedly without consequences.
 
 ## How Passion Culture Hides Production Problems
+
+| Symptom | What It Looks Like | What It Actually Is |
+| --- | --- | --- |
+| On-time shipping with exhausted team | Evidence that passion-based hiring works | Unsustainable delivery model with hidden costs |
+| Features added mid-sprint | Team flexibility and dedication | Unaddressed scope creep and poor estimation |
+| Engineers fixing problems nights/weekends | Developer commitment | Accumulated architectural debt and ignored technical decisions |
+| Skipped pre-production and planning | Trusting the team to adapt | Poor scope management and unclear requirements |
+| Criticism of timelines feels personal | High team investment | Killed psychological safety and broken feedback culture |
 
 This might be the most insidious part. Passion culture actively prevents you from seeing what's actually broken about your process.
 

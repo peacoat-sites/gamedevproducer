@@ -23,6 +23,7 @@ faqs:
     a: "Yes, and more than people assume. Celeste was made by a tiny team with conscious attention to sustainable pace. Supergiant Games (Bastion, Hades) has been publicly vocal about their no-crunch approach for years. The thing these teams share isn't magic. It's scope discipline and a culture where leadership actually meant what they said about people's wellbeing. It's replicable. It just takes will."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Crunch killed two of my closest friends in the industry. Not literally, but one left games entirely after shipping a AAA title that required 80-hour weeks for eight months straight, and the other had a health scare at 34 that her cardiologist directly linked to sustained stress and sleep deprivation. I've watched talented producers, engineers, and artists grind themselves into dust on games that didn't even ship well. And the part that still makes me angry? Most of that crunch was preventable.
 
@@ -54,11 +55,19 @@ Two books keep coming up in my recommendations: *The Art of Project Management* 
 
 ## Overtime Isn't a Productivity Tool
 
+| Symptom | Timeframe | Impact |
+| --- | --- | --- |
+| Productivity decline per hour | After 4 weeks of 55+ hour weeks | Output matches 40-hour week |
+| Absolute productivity decline | After 8 weeks of sustained overtime | Actual output decreases |
+| Bug introduction rate | During prolonged crunch | Increases (tired developers) |
+| Quality catch rate | During prolonged crunch | Decreases (tired artists) |
+| Regression detection | During prolonged crunch | Misses increase (tired QA) |
+
 Mandatory sustained overtime does not improve output. It degrades it.
 
 There's solid research behind this, and it lines up with everything I've observed firsthand. After about four weeks of consistent 55-plus hour weeks, productivity per hour drops enough that you're essentially getting the same output you'd get from 40 hours, except your people are burning out in the process. After eight weeks, productivity can actually decline in absolute terms. Tired developers introduce more bugs. Tired artists stop catching quality issues. Tired QA testers miss regressions. You're building technical debt at the exact moment you can least afford it.
 
-The game industry has historically treated this as a cost of doing business. I think that framing is changing, slowly, but it's changing. The unionization movement, public post-mortems from studios like Bungie and CD Projekt Red, the increased employee leverage after the 2021-2022 layoff cycles pushed some experienced developers into demanding better conditions. All of it is creating pressure for more honest production practices.
+The game industry has historically treated this as a cost of doing business. I think that framing is changing, slowly, but it's changing. The unionization movement, public [post-mortems from studios](/what-is-crunch-in-the-game-industry/) like Bungie and CD Projekt Red, the increased employee leverage after the 2021-2022 layoff cycles pushed some experienced developers into demanding better conditions. All of it is creating pressure for more honest production practices.
 
 What actually works: keeping sprints to sustainable velocity, being transparent with your team about where the schedule stands (don't hide the bad news, it always comes out anyway), and making scope calls before you're in crisis. When people trust that leadership will cut features rather than demand blood, they work steadier and better.
 

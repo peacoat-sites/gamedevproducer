@@ -23,6 +23,7 @@ faqs:
    a: "Honestly, it depends on team size and maturity. Teams of fewer than six people who are experienced with agile can often self-facilitate. Larger teams, or teams new to Scrum, benefit enormously from a dedicated facilitator and coach. The mistake studios make is hiring a Scrum Master and then treating them like an administrative assistant or a junior Producer. If you're going to have the role, give it the authority and space to actually do the job."
 author_slug: "priya-sharma"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 You've just joined a mid-sized studio as a Scrum Master, and three weeks in, the Game Producer is handing you tasks that have nothing to do with facilitation: negotiating with external audio vendors, writing milestone reports for the publisher, deciding which features get cut before the next sprint. You're confused. So is the Producer. Nobody defined these roles clearly before kickoff, and now you're both stepping on each other's toes while the team watches the awkward dance.
 
@@ -77,7 +78,7 @@ If you're at a studio right now and nobody's written this down, do it. A one-pag
 ## Comparison: Producer vs. Scrum Master at a Glance
 
 | Dimension | Game Producer | Scrum Master |
-|---|---|---|
+|---|---|
 | Primary accountability | Delivering the project (scope, time, cost) | Team process health and agile practice |
 | Reports to | Studio head, Publisher, Executive Producer | Dev team (servant-leader model) |
 | Owns the schedule | Yes | No |
@@ -87,6 +88,19 @@ If you're at a studio right now and nobody's written this down, do it. A one-pag
 | Coaches team on Scrum | No | Yes |
 | Can cancel a sprint | No (but can reprioritize scope) | Yes (with Product Owner alignment) |
 | Career path | Executive Producer, Studio Head, Director of Production | Agile Coach, Product Owner, Dev Manager |
+| Typical certification | AICP, PMP, or none (experience-based) | CSM, PSM, SAFe certifications |
+
+| Dimension | Game Producer | Scrum Master |
+|---|---|---|
+| Primary accountability | Delivering the project (scope, time, cost) | Team process health and agile practice |
+| Reports to | Studio head, Publisher, Executive Producer | Dev team (servant-leader model) |
+| Owns the schedule | Yes | No |
+| Facilitates ceremonies | Sometimes attends | Yes, that's the job |
+| Manages vendor relationships | Yes | No |
+| Handles publisher/milestone reports | Yes | No |
+| Coaches team on Scrum | No | Yes |
+| Can cancel a sprint | No (but can reprioritize scope) | Yes (with Product Owner alignment) |
+| Career path | [Executive Producer, Studio Head](/game-producer-career-path-from-associate-to-executive/), Director of Production | Agile Coach, Product Owner, Dev Manager |
 | Typical certification | AICP, PMP, or none (experience-based) | CSM, PSM, SAFe certifications |
 
 One thing about that last row: in game development, lots of Producers have no formal certification and a stack of shipped titles. Lots of Scrum Masters have a CSM certificate and limited game-specific experience. Neither path is inherently better, but they reflect different training philosophies.

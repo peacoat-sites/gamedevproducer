@@ -23,8 +23,9 @@ faqs:
    a: "Unclear ownership. When two projects share a producer and something goes wrong, both teams assume the other project got the attention. Document your ownership model explicitly. Who owns what decision, on which project, and what requires your escalation. Ambiguity at the producer level spreads into every team below it."
 author_slug: "marcus-webb"
 author_title: "Technical Editor"
+lastmod: 2026-07-07
 ---
-You're staring at three different project boards, each one representing a game in active development. Team A needs a sprint review. Team B's lead just flagged a critical blocker. Team C is two weeks from a publisher milestone and someone just quit. This is multi-title production, and if nobody warned you it would feel like this, you're not alone.
+You're staring at three different project boards, each one representing a game in active development. Team A needs a sprint review. Team B's lead just flagged a critical blocker. Team C is two weeks from a [publisher milestone](/publisher-vs-self-publishing-what-changes-for-producers/) and someone just quit. This is multi-title production, and if nobody warned you it would feel like this, you're not alone.
 
 Managing multiple games simultaneously is one of the hardest skill jumps in game development. Single-title production is hard enough. Multi-title adds a whole different layer of cognitive load, people management complexity, and strategic decision-making that most producers learn by surviving it rather than studying it.
 
@@ -41,7 +42,7 @@ Your portfolio view should show you, at a glance:
 - Current milestone and days to deadline for each title
 - Red/yellow/green status for scope, budget, and team morale
 - Shared dependencies or shared team members across projects
-- Upcoming risk flags (playtests, platform submissions, key personnel travel)
+- Upcoming risk flags ([playtests, platform submissions](/platform-certification-what-producers-need-to-know/), key personnel travel)
 
 **Notion** works well for lightweight portfolio dashboards. **Confluence** paired with **Jira** if you need tighter integration. Or honestly, a well-structured **Google Sheet** if you're keeping it lean. The tool matters less than updating it every single week without fail.
 

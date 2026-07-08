@@ -23,6 +23,7 @@ faqs:
    a: "Someone has to own it, even informally. If there's no producer, the most organized person on the team needs to take this on as a defined responsibility, not a vague shared one. 'Everyone is responsible for scope' means no one is. Pick a person, give them the authority to say no, and support that authority publicly when it gets tested."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Scope creep killed the last game I worked on at a AAA studio. Not the whole project, technically, it shipped, four years late and $12 million over budget, with half the team burned out and two leads who quit before release. The game was fine. The production was a disaster. And the thing that started the slow collapse wasn't a catastrophic decision. It was a hundred small ones, each of which seemed completely reasonable at the time.
 
@@ -50,6 +51,12 @@ Here's something I'd push back on though: not all scope additions are bad. A mec
 
 ## The Paperwork That Actually Saves You
 
+| Tool | Cost | Best For | Notes |
+| --- | --- | --- | --- |
+| Jira | $8.15/user/month (Standard) | Teams 5+ | Strong dependency mapping |
+| Notion | Free tier available | Small teams | Simple feature tracking |
+| Linear | Free tier available | Small teams | Clean, lightweight alternative |
+
 I know, nobody got into game development to write documents. But the specific documents I'm about to describe aren't bureaucratic box-ticking. They're the closest thing to a time machine you'll have access to.
 
 The first is a Game Design Document that's explicitly scoped, not just described. Most GDDs I've read describe features richly but make no commitment about which features are non-negotiable for launch. That omission is critical. You need three clear tiers:
@@ -58,13 +65,13 @@ The first is a Game Design Document that's explicitly scoped, not just described
 
 That third tier changes everything. When someone's idea gets put into "Won't Ship This Version" instead of just rejected, something interesting happens: they stop fighting for it. The idea has a future, even if it's not this game. Some of the best features in sequels started life in that column.
 
-The second document is a Feature Change Request process. Keep it simple. At my current studio we use a one-page Notion form: what's the feature, who's requesting it, what does it cost in time and dependencies, what gets cut to make room for it. That last question is the one that changes behavior. When adding something means explicitly naming what you're removing, about 60% of requests evaporate before they're formally submitted.
+The second document is a [Feature Change Request process](/how-to-write-good-user-stories-for-game-features/). Keep it simple. At my current studio we use a one-page Notion form: what's the feature, who's requesting it, what does it cost in time and dependencies, what gets cut to make room for it. That last question is the one that changes behavior. When adding something means explicitly naming what you're removing, about 60% of requests evaporate before they're formally submitted.
 
-For tracking this work, I've used a lot of tools. **Jira** (around $8.15 per user per month for the Standard tier) is worth it once you're past five people, mostly because of how it handles dependency mapping. Smaller teams often do fine with **Notion** or **Linear** (Linear's free up to a point). The tool matters less than the discipline of putting everything in it.
+For tracking this work, I've used a lot of tools. **Jira** (around $8.15 per user per month for the Standard tier) is worth it once you're past five people, mostly because of how it handles [dependency mapping](/how-to-build-a-game-development-roadmap/). Smaller teams often do fine with **Notion** or **Linear** (Linear's free up to a point). The tool matters less than the discipline of putting everything in it.
 
 ## Your Schedule Is a Prediction, Not a Promise, Treat It That Way
 
-One of the most useful mental shifts I made as a producer was stopping the pretense that the initial schedule was accurate. It isn't. It can't be. You're estimating work you've never done before, in a medium where half the problems won't reveal themselves until you're deep in production.
+One of the most useful mental shifts I made as a producer was stopping the pretense that the [initial schedule was accurate](/how-to-manage-a-game-development-project-timeline/). It isn't. It can't be. You're estimating work you've never done before, in a medium where half the problems won't reveal themselves until you're deep in production.
 
 Build explicit buffer into your schedule. Protect that buffer like it's a feature. I'm talking about scheduled, named, inviolable time, not "we'll make up time later" rhetoric. I typically plan for a 20-30% buffer on any feature estimate, and I communicate to leadership that this buffer exists not as slack, but as the expected absorption rate for things we can't anticipate. When the buffer gets used, it's not failure. It's the plan working.
 

@@ -23,16 +23,17 @@ faqs:
    a: "Sprint retro: 60 minutes max. Milestone retro: 90 minutes to 2 hours. Full project post-mortem: this can take a half day done properly, especially for projects over a year long. For post-mortems I recommend a timeline exercise where the team reconstructs major events from memory before analysis. It surfaces things that no one person remembered alone and builds a shared understanding of what actually happened."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most retrospectives I've sat in felt like group therapy sessions where nothing actually changed. The team vented, someone wrote stuff on sticky notes, and three weeks later we were repeating the exact same mistakes. Sound familiar? The problem usually isn't the format. It's that producers treat retros as a ceremony to complete rather than a tool to use. After running retrospectives across projects ranging from 6-week mobile jam games to multi-year console titles, I've learned that a good retro can be the single highest-leverage hour of your sprint. A bad one actively damages trust. Here's how to run one that does real work.
 
 ## Why Most Game Dev Retros Fail Before They Start
 
-The research on retrospective effectiveness is genuinely mixed. Some agile literature swears by them, while post-mortems from shipped games often reveal that teams held regular retros and still walked into the same walls.
+The research on retrospective effectiveness is genuinely mixed. Some [agile literature](/agile-game-development-what-actually-works-in-practice/) swears by them, while post-mortems from shipped games often reveal that teams held regular retros and still walked into the same walls.
 
 What I've found is that the failure almost always comes down to psychological safety, not format. If your team believes that naming a problem will embarrass someone senior, they'll say nothing meaningful. If the lead designer is in the room and everyone knows she hates feedback on the pipeline, the retro becomes theater.
 
-The GDC post-mortem tradition actually exposed this pattern decades ago. Studios would publish "what went wrong" lists that were suspiciously vague, full of phrases like "communication issues" and "scope creep" without naming the decisions that caused them. The same happens inside teams that don't feel safe being honest.
+The GDC post-mortem tradition actually exposed this pattern decades ago. Studios would publish "what went wrong" lists that were suspiciously vague, full of phrases like "communication issues" and "[scope creep](/scope-creep-prevention-in-game-development/)" without naming the decisions that caused them. The same happens inside teams that don't feel safe being honest.
 
 Before you choose a format or book a room, ask yourself honestly: does your team trust that raising a real problem won't get them labeled as a complainer? If the answer is no, fix that first.
 
@@ -45,6 +46,14 @@ Get the right people in the room. For a small indie team that's everyone. For a 
 Use a dedicated tool. I've had good results with **EasyRetro** and **Parabol** for remote teams. Both let people add items asynchronously before the meeting so quieter team members aren't steamrolled by faster talkers. For in-person sessions, a physical board with color-coded sticky notes still works well if your team is 10 or fewer.
 
 ## Choosing a Format That Fits Your Team's Current Needs
+
+| Format | Best For | Watch Out |
+|---|---|---|
+| Start / Stop / Continue | New teams, first 3-4 retros | Gets repetitive; low specificity |
+| 4Ls (Liked, Learned, Lacked, Longed For) | Mid-project reflection, mid-size teams | "Longed For" can turn into wishlist complaints |
+| Mad / Sad / Glad | Teams processing a rough sprint | Can get emotional; needs a skilled facilitator |
+| Timeline Retro | End of milestone or full project | Time-intensive; great for root cause analysis |
+| Sailboat / Speedboat | Quarterly or quarterly goals retro | Works beautifully for strategic reflection |
 
 The classic Start/Stop/Continue is fine for teams new to retros. But it gets stale fast, and "continue doing good stuff" is rarely actionable.
 

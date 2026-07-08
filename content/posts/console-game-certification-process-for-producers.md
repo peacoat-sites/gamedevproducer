@@ -23,6 +23,7 @@ faqs:
    a: "The requirements are the same regardless of studio size. What differs is access to platform support. Larger publishers often have a dedicated platform relations contact who can expedite questions or flag issues before submission. Indie studios working through the standard developer programs typically rely on documentation and developer forums. Joining programs like the ID@Xbox or PlayStation Indies initiative can improve your access to support resources."
 author_slug: "samantha-roberts"
 author_title: "Contributing Writer"
+lastmod: 2026-07-07
 ---
 You've just hit your ship date. The build is stable, the team is exhausted, and someone in the room asks, "So how long does cert actually take?" The honest answer is: longer than you budgeted, almost certainly. Sony's PlayStation certification process alone has historically taken anywhere from two to six weeks for a first submission, and Nintendo's Lotcheck can stretch even longer if your documentation isn't airtight. Microsoft's Xbox certification runs on a similar timeline. If you didn't plan for that buffer, you're already in trouble. This article is for producers who want to stop being surprised by that number.
 
@@ -54,7 +55,7 @@ This is the part producers actually need to manage. The exact steps vary by plat
 
 1. **Complete your first-party developer registration**: You need an approved developer account and access to the partner portal before you can submit anything. This alone can take weeks if you haven't started the process.
 2. **Obtain your age ratings**: You'll need ratings from ESRB (North America), PEGI (Europe), and any other relevant regional bodies before submission. Apply early. IARC (the unified self-classification tool) speeds this up for digital releases.
-3. **Build your submission binary**: This is a cert-specific build, not your debug build. It has to be close to final, with gold master-level stability.
+3. **Build your submission binary**: This is a cert-specific build, not your debug build. It has to be close to final, with [gold master-level stability](/what-is-a-game-milestone-alpha-beta-gold/).
 4. **Run your internal first-party compliance pass**: Using the requirements documents, your QA team needs to systematically verify your build against every applicable requirement. Use a spreadsheet or a purpose-built test management tool. Zephyr Scale inside Jira or TestRail are both solid choices here.
 5. **Submit your build and documentation through the partner portal**: This includes your submission form, marketing assets, and any required legal agreements. Missing documentation is a fast path to rejection.
 6. **Wait for first-party QA**: The platform holder's team will test your build. This takes one to three weeks minimum, sometimes longer during high-volume windows like Q4 before the holidays.
@@ -64,6 +65,15 @@ This is the part producers actually need to manage. The exact steps vary by plat
 Plan for at least two submission attempts. Most games don't pass on the first try. That's not a failure of your team; it's just the reality of how many requirements exist.
 
 ## Platform Comparison: What's Different Between Sony, Microsoft, and Nintendo
+
+| Factor | PlayStation (Sony) | Xbox (Microsoft) | Switch (Nintendo) |
+|---|---|---|---|
+| Requirements doc | TRC (Technical Requirements Checklist) | Xbox Requirements (XR) | Guidelines (via NDev) |
+| Avg. first submission window | 2-4 weeks | 1-3 weeks | 2-5 weeks |
+| Self-service resubmission | Limited | More flexible via Partner Center | Structured, strict |
+| Physical release complexity | Moderate | Moderate | High (Nintendo handles manufacturing) |
+| Age rating requirement | ESRB/PEGI/IARC | ESRB/PEGI/IARC | ESRB/PEGI/IARC |
+| Known strictness | Network/system events | Accessibility, MP features | Overall polish, memory usage |
 
 | Factor | PlayStation (Sony) | Xbox (Microsoft) | Switch (Nintendo) |
 |---|---|---|---|

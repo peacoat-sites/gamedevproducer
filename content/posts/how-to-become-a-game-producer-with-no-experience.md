@@ -23,6 +23,7 @@ faqs:
     a: "It's harder but not impossible. Your best remote path is building a strong enough online presence in game dev communities that people know your work before you apply, and targeting companies with established remote cultures like Riot, certain mobile studios, or remote-first indie publishers. Expect it to take longer than if you were physically present in a games market."
 author_slug: "tyler-brooks"
 author_title: "Studio Operations Lead"
+lastmod: 2026-07-07
 ---
 Nobody in games has a clean origin story. The producers I respect most started as QA testers, English teachers, failed musicians, one guy I know was a Subway sandwich artist for three years before landing his first coordinator role at a mid-size studio. The path into production is genuinely messy, and most advice you'll find online treats it like a linear career ladder when it's really more like a climbing wall with half the handholds missing.
 
@@ -31,6 +32,12 @@ I wasted about eighteen months chasing the "right" credentials before I realized
 That last part is where most people stumble before they even start.
 
 ## "Producer" Is Not One Job
+
+| Producer Type | Context | Primary Focus | Entry Point |
+| --- | --- | --- | --- |
+| Internal Studio Producer | Dev team management | Sprint planning, cross-discipline coordination, milestone tracking | Associate Producer |
+| External/Publisher Producer | Publisher side | Developer relationships, milestone deliverables, contracts, budgets | Associate Producer |
+| Production Coordinator | Entry-level support | Administrative and organizational support | Production Coordinator |
 
 This causes real confusion and I see it derail people constantly. A game producer at Riot or 2K is doing something fundamentally different from a production coordinator at a 12-person indie studio, which is different again from an executive producer at a mobile games company. Same title. Completely different skill sets and hiring criteria.
 
@@ -58,7 +65,7 @@ The number one thing that gets people hired as production coordinators is eviden
 
 Game jam communities on Discord (Global Game Jam, Ludum Dare, GMTK Game Jam) are good places to find teams who desperately need someone to keep things on track.
 
-**Step 2: Get real with project management fundamentals.**
+**Step 2: Get real with [project management fundamentals](/skills-every-game-producer-needs-explained/).**
 
 You don't need an expensive degree. Google Project Management Certificate on Coursera runs about $49 a month and takes roughly six months to complete. It's recognized, it's practical, and it covers Agile methodology in enough depth that you'll be able to talk fluently about sprints, retrospectives, and backlog grooming in an interview. Some studios are PMP-curious but most care less about certification than demonstrated understanding.
 

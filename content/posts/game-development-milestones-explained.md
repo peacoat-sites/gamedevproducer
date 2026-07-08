@@ -23,6 +23,7 @@ faqs:
    a: "You assess why, honestly. Missing a milestone isn't automatically a project failure, but it is data. Was the scope wrong? Was the estimate wrong? Was something unexpected technically? The answer shapes what changes next. If a team misses multiple milestones in a row without changing anything, that's when the project is in real trouble."
 author_slug: "ryan-cole"
 author_title: "Senior Contributing Writer"
+lastmod: 2026-07-07
 ---
 Most games don't die because the team ran out of talent. They die because nobody knew when to stop, reassess, or kill something early enough.
 
@@ -35,7 +36,7 @@ Here's what I tell people new to production: a milestone is a decision point, no
  <div class="vm-head">Milestone Gate Decision Checklist</div>
  <div class="vm-body">
  <p class="vm-intro">Use these pass/fail criteria at each gate to force honest evaluation rather than performative demos.</p>
- <table><thead><tr><th>Milestone Gate</th><th>Core Question</th><th>Pass Threshold</th><th>Kill/Pivot Signal</th></tr></thead><tbody><tr><td>Concept/Pitch</td><td>Is this worth building?</td><td>Core fantasy articulable in one sentence; TAM supports budget; team has relevant shipped experience</td><td>Cannot identify target player or comparable market success</td></tr><tr><td>Prototype</td><td>Is the core mechanic fun?</td><td>Playtesters replay voluntarily; 30-second loop generates measurable engagement (retention in session &gt;10 min)</td><td>Fun requires explanation; team disagrees on what the game <em>is</em></td></tr><tr><td>Vertical Slice</td><td>Can we build this at quality?</td><td>10-minute segment at near-final quality; content pipeline produces 1 hour of gameplay/month minimum</td><td>Slice required &gt;40% of total budget; scope math doesn't close</td></tr><tr><td>Alpha</td><td>Is the game complete in shape?</td><td>All features implemented (bugs allowed); full critical path playable; no placeholder systems in core loop</td><td>Core loop still being redesigned; team morale trending negative</td></tr><tr><td>Beta</td><td>Is it shippable with polish?</td><td>All content in; bug count trending downward week-over-week; first-time user experience tested with &gt;20 external players</td><td>Bug count rising; performance targets missed by &gt;25%</td></tr><tr><td>Gold/Release Candidate</td><td>Would we be proud to ship this?</td><td>Zero critical bugs; day-one patch scope defined and &lt;500MB; launch marketing assets final</td><td>Team leads unwilling to attach their name publicly</td></tr></tbody></table>
+ <table><thead><tr><th>Milestone Gate</th><th>Core Question</th><th>Pass Threshold</th><th>Kill/Pivot Signal</th></tr></thead><tbody><tr><td>Concept/Pitch</td><td>Is this worth building?</td><td>Core fantasy articulable in one sentence; TAM supports budget; team has relevant shipped experience</td><td>Cannot identify target player or comparable market success</td></tr><tr><td>[Prototype](/how-to-define-a-playable-prototype-milestone/)</td><td>Is the core mechanic fun?</td><td>Playtesters replay voluntarily; 30-second loop generates measurable engagement (retention in session &gt;10 min)</td><td>Fun requires explanation; team disagrees on what the game <em>is</em></td></tr><tr><td>Vertical Slice</td><td>Can we build this at quality?</td><td>10-minute segment at near-final quality; content pipeline produces 1 hour of gameplay/month minimum</td><td>Slice required &gt;40% of total budget; scope math doesn't close</td></tr><tr><td>Alpha</td><td>Is the game complete in shape?</td><td>All features implemented (bugs allowed); full critical path playable; no placeholder systems in core loop</td><td>Core loop still being redesigned; team morale trending negative</td></tr><tr><td>Beta</td><td>Is it shippable with polish?</td><td>All content in; bug count trending downward week-over-week; first-time user experience tested with &gt;20 external players</td><td>Bug count rising; performance targets missed by &gt;25%</td></tr><tr><td>Gold/Release Candidate</td><td>Would we be proud to ship this?</td><td>Zero critical bugs; day-one patch scope defined and &lt;500MB; launch marketing assets final</td><td>Team leads unwilling to attach their name publicly</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -76,7 +77,7 @@ Teams lie to themselves here constantly. They'll call something alpha because th
 
 **Beta**
 
-Beta is content-complete. All levels are in, all features are tuned, assets are final or close. You're now testing for bugs, not design changes. Ideally, design lock happens before beta. Feature creep that sneaks in during beta is the single fastest way to blow your ship date.
+[Beta is content-complete](/what-is-a-content-complete-milestone-in-games/). All levels are in, all features are tuned, assets are final or close. You're now testing for bugs, not design changes. Ideally, design lock happens before beta. Feature creep that sneaks in during beta is the single fastest way to blow your ship date.
 
 **Gold / Submission / Release Candidate**
 

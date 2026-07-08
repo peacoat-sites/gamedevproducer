@@ -23,6 +23,7 @@ faqs:
    a: "A task that carries over once is normal. Twice in a row is a signal. Three times means it's either badly estimated, blocked by something nobody's naming out loud, or it's not actually a priority and should go back to the backlog. Chronic carryover is a planning problem, not a execution problem."
  - q: "Do we need a dedicated producer or scrum master for this to work?"
    a: "No, but someone has to own the backlog and run the ceremony. On a three-person team, that's usually whoever is strongest at project thinking, even if their primary role is design or code. What doesn't work is 'everyone owns it together,' which in practice means nobody does."
+lastmod: 2026-07-07
 ---
 
 Most sprint planning guides are written for software teams building CRMs. They assume you have a scrum master, a product owner, a development team, and a QA department. If you're a four-person indie studio where the "art director" also does UI and occasionally writes dialogue, that framework is going to fit you like a suit two sizes too big.
@@ -30,6 +31,12 @@ Most sprint planning guides are written for software teams building CRMs. They a
 Here's what actually works when your whole team fits in a Discord call.
 
 ## The Sprint Length Question Nobody Agrees On
+
+| Sprint Length | Best For | Overhead | Duration |
+| --- | --- | --- | --- |
+| One week | Full crunch/polish mode near ship date | High | Tight daily visibility |
+| Two weeks | Software with stable requirements | Medium | Industry default |
+| Three weeks | Small teams (under 6) making full games | Low-Medium | Sweet spot for discovery & iteration |
 
 Two weeks is the industry default and it's usually wrong for small game teams. I'll defend that.
 
@@ -76,7 +83,7 @@ For backlog management and sprint tracking, Jira is the obvious choice and it's 
 
 For estimation sessions, PlanningPoker.live is free, runs in a browser, and takes five minutes to set up. No install required. It removes the social pressure of estimation where the junior dev always agrees with the senior dev's number.
 
-If you want to go deeper on the theory, "Agile Game Development with Scrum" by Clinton Keith is the only book I know that actually addresses game dev specifically rather than just transplanting software agile wholesale. Some of it is dated now but the core frameworks hold up. Pair it with the GDC Vault talks on production (many are free) and you'll get a more complete picture than most online courses offer.
+If you want to go deeper on the theory, "[Agile Game Development with Scrum](/agile-vs-waterfall-for-game-development/)" by Clinton Keith is the only book I know that actually addresses game dev specifically rather than just transplanting software agile wholesale. Some of it is dated now but the core frameworks hold up. Pair it with the GDC Vault talks on production (many are free) and you'll get a more complete picture than most online courses offer.
 
 For tracking velocity and generating simple burndown charts without a lot of setup overhead, Shortcut (formerly Clubhouse) has a clean sprint view that works well at small team scale.
 
