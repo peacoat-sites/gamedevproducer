@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-07",
+  "updated": "2026-07-08",
   "items": [
     {
-      "name": "operation",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4868590/43f1708b9804c8f5d17a10677c4e6acb16db0faa/header.jpg?t=1783416504",
-      "url": "https://store.steampowered.com/app/4868590/",
+      "name": "Neuro Hunter",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899790/8c6110c8d1f0fb59263060b4cc99013c31ac9864/header.jpg?t=1783486728",
+      "url": "https://store.steampowered.com/app/4899790/",
+      "short_description": "",
+      "final_price": 674
+    },
+    {
+      "name": "Robo Rig",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655610/29825f0eb22cd35c7e42622fca510b148a4577f3/header.jpg?t=1783481769",
+      "url": "https://store.steampowered.com/app/4655610/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Fugaz",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389170/875943eb9507b1ccd7ed5a905cfae3c7ab5664bb/header.jpg?t=1783416309",
-      "url": "https://store.steampowered.com/app/4389170/",
+      "name": "Magical Girl: Final Pink Star",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297450/d92a2a81f1dd0a033a048649e9168bc817ce1b38/header.jpg?t=1783480392",
+      "url": "https://store.steampowered.com/app/4297450/",
       "short_description": "",
-      "final_price": 539
+      "final_price": 449
     },
     {
-      "name": "DOI: Defense Shooter",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829530/34f9ee7d5e3ad048483f70d150197d6018850b81/header.jpg?t=1783414874",
-      "url": "https://store.steampowered.com/app/4829530/",
+      "name": "Trump Ballroom Blitz",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/bf2809895a0053804a2e9abce31b72b6e7b7b2ef/header.jpg?t=1783476406",
+      "url": "https://store.steampowered.com/app/4443070/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Down The Stairs: The Game",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4810930/459633a763050799d1fe385403a9b7196f6fb791/header.jpg?t=1783407871",
-      "url": "https://store.steampowered.com/app/4810930/",
+      "name": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 4",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905260/5d5be1df8f13119b469a5e9840161a0a31084057/header.jpg?t=1783462855",
+      "url": "https://store.steampowered.com/app/3905260/",
       "short_description": "",
-      "final_price": 989
+      "final_price": 1199
     },
     {
-      "name": "Khaldun: Text Based Strategy",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4539870/5316be7037ffe8c25f90519fc5d8e043a0c2e0d2/header.jpg?t=1783405744",
-      "url": "https://store.steampowered.com/app/4539870/",
+      "name": "Spire of Legends",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856250/5e986ba7c61373bf093f75623199b5a0ee4d5fe5/header.jpg?t=1783462563",
+      "url": "https://store.steampowered.com/app/4856250/",
+      "short_description": "",
+      "final_price": 499
+    },
+    {
+      "name": "NTE: Neverness to Everness",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/7a1301fa4f8d31bfa3e32205bc92de6c520a9475/header.jpg?t=1783485762",
+      "url": "https://store.steampowered.com/app/4508340/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Stinky Cat",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279050/7087c8631517e91b136dbfb9bfd751e0050c8e16/header.jpg?t=1783460412",
+      "url": "https://store.steampowered.com/app/4279050/",
+      "short_description": "",
+      "final_price": 359
+    },
+    {
+      "name": "NotifyXR",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/562347d418ba106e104f1923672b9cf7bc2f64c1/header.jpg?t=1783458461",
+      "url": "https://store.steampowered.com/app/4781770/",
+      "short_description": "",
+      "final_price": 679
+    },
+    {
+      "name": "Deadly Warrior",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848340/fb4e08d650ad07af1afed680506b856f22c54039/header.jpg?t=1783457636",
+      "url": "https://store.steampowered.com/app/4848340/",
+      "short_description": "",
+      "final_price": 425
+    },
+    {
+      "name": "Demon Protocol",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/cc22b31b06e66c7900336e4c037534fa47d57084/header.jpg?t=1783457169",
+      "url": "https://store.steampowered.com/app/4798960/",
       "short_description": "",
       "final_price": 299
     },
     {
-      "name": "Heavy Wake",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4235660/af51978101ba90deb6e23586711126bbe16e19bb/header.jpg?t=1783404099",
-      "url": "https://store.steampowered.com/app/4235660/",
-      "short_description": "",
-      "final_price": 179
-    },
-    {
-      "name": "PROJECT: OJISAN",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4588010/bcf703355670f5a584d74e86953f189ec1cb7bda/header.jpg?t=1783404056",
-      "url": "https://store.steampowered.com/app/4588010/",
-      "short_description": "",
-      "final_price": 159
-    },
-    {
-      "name": "DEMON SIEGE",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724650/f9368810fef7eb9e2ebdc48d3fdfcb377654e0b3/header.jpg?t=1783399593",
-      "url": "https://store.steampowered.com/app/4724650/",
-      "short_description": "",
-      "final_price": 224
-    },
-    {
-      "name": "Monster Breeder",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4827240/1f7e0e350cbbd0e0066ae502d2bc4c1d7c2c4741/header.jpg?t=1783397431",
-      "url": "https://store.steampowered.com/app/4827240/",
+      "name": "Flamel's Requiem",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611050/441db6a5915eb2d2567cad3bd13816c614c74e8a/header.jpg?t=1783452709",
+      "url": "https://store.steampowered.com/app/4611050/",
       "short_description": "",
       "final_price": 0
-    },
-    {
-      "name": "Silicon Scars",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2627350/395460856296440fd3e560dbd7df3d9c61097f6f/header.jpg?t=1783396861",
-      "url": "https://store.steampowered.com/app/2627350/",
-      "short_description": "",
-      "final_price": 1034
-    },
-    {
-      "name": "Moonlight Peaks - Art Book",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892990/0b2c235ba4269d9731dcdcf169358f53ce69bad0/header.jpg?t=1783400113",
-      "url": "https://store.steampowered.com/app/4892990/",
-      "short_description": "",
-      "final_price": 849
-    },
-    {
-      "name": "Moonlight Peaks",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783397812",
-      "url": "https://store.steampowered.com/app/2209900/",
-      "short_description": "",
-      "final_price": 2974
     }
   ]
 }
