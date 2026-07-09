@@ -2,29 +2,32 @@
   {
     "label": "Engine Comparison",
     "url": "/game-engine-comparison/",
-    "icon": "\ud83d\udcc8",
+    "icon": "📈",
     "match": [
       "engine"
-    ]
+    ],
+    "desc": "Compare Unity, Unreal, and Godot for your next game project."
   },
   {
     "label": "Indie Game Budget Calc",
     "url": "/indie-game-budget-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "indie",
       "game",
       "budget"
-    ]
+    ],
+    "desc": "Estimate the real budget and timeline to ship your indie game."
   },
   {
     "label": "Steam Wishlist Sales",
     "url": "/steam-wishlist-to-sales/",
-    "icon": "\u2705",
+    "icon": "✅",
     "match": [
       "steam",
       "wishlist",
       "sales"
-    ]
+    ],
+    "desc": "Project your launch sales from your Steam wishlist numbers."
   }
 ]
