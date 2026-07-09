@@ -6,6 +6,9 @@ slug: "indie-game-budget-calculator"
 categories: ["Game Business"]
 description: "Use our free indie game budget estimator to calculate real development costs — including the hidden expenses most first-time developers never see coming."
 image: "https://images.pexels.com/photos/7491011/pexels-photo-7491011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+author: "Samantha Roberts"
+author_slug: "samantha-roberts"
+author_title: "Publishing Strategist"
 ---
 
 Planning to make a game? The number one mistake new indie developers make is underestimating their budget. Not just the obvious stuff — programmer salaries, art assets — but the hidden costs that quietly eat your runway: Steam fees, console certification, audio licensing, marketing, and the ever-reliable reality that projects take two to three times longer than planned.
