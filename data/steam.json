@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-08",
+  "updated": "2026-07-09",
   "items": [
     {
-      "name": "Neuro Hunter",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899790/8c6110c8d1f0fb59263060b4cc99013c31ac9864/header.jpg?t=1783486728",
-      "url": "https://store.steampowered.com/app/4899790/",
-      "short_description": "",
-      "final_price": 674
-    },
-    {
-      "name": "Robo Rig",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4655610/29825f0eb22cd35c7e42622fca510b148a4577f3/header.jpg?t=1783481769",
-      "url": "https://store.steampowered.com/app/4655610/",
+      "name": "CORGI & WOOLLY - Little Horizon -",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481560/fae60558982f1bf7767fa55bf04a217375549cee/header.jpg?t=1783584916",
+      "url": "https://store.steampowered.com/app/4481560/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Magical Girl: Final Pink Star",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4297450/d92a2a81f1dd0a033a048649e9168bc817ce1b38/header.jpg?t=1783480392",
-      "url": "https://store.steampowered.com/app/4297450/",
+      "name": "\u4ed9\u9014\u653e\u7f6e\uff1a\u65e0\u5c3d\u5929\u68af\u548c\u5b8c\u7f8e\u88c5\u5907",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829980/fe7f466438f09dc17739aa7e86470214e9c42048/header.jpg?t=1783582604",
+      "url": "https://store.steampowered.com/app/4829980/",
       "short_description": "",
       "final_price": 449
     },
     {
-      "name": "Trump Ballroom Blitz",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443070/bf2809895a0053804a2e9abce31b72b6e7b7b2ef/header.jpg?t=1783476406",
-      "url": "https://store.steampowered.com/app/4443070/",
+      "name": "Love Train",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/ccec1f018552de08ce4eb87e0a0492ab62aa1014/header.jpg?t=1783582371",
+      "url": "https://store.steampowered.com/app/4872690/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Chapter 4",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905260/5d5be1df8f13119b469a5e9840161a0a31084057/header.jpg?t=1783462855",
-      "url": "https://store.steampowered.com/app/3905260/",
+      "name": "Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282450/085d9a38c8482abfbbe1272818d50088b7cd644a/header.jpg?t=1783580468",
+      "url": "https://store.steampowered.com/app/4282450/",
       "short_description": "",
-      "final_price": 1199
+      "final_price": 2699
     },
     {
-      "name": "Spire of Legends",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856250/5e986ba7c61373bf093f75623199b5a0ee4d5fe5/header.jpg?t=1783462563",
-      "url": "https://store.steampowered.com/app/4856250/",
-      "short_description": "",
-      "final_price": 499
-    },
-    {
-      "name": "NTE: Neverness to Everness",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508340/7a1301fa4f8d31bfa3e32205bc92de6c520a9475/header.jpg?t=1783485762",
-      "url": "https://store.steampowered.com/app/4508340/",
+      "name": "Zerion: Infinite Space",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787300/d49254a4c39acddf71dd36f19469343e901b9e7a/header.jpg?t=1783568681",
+      "url": "https://store.steampowered.com/app/4787300/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Stinky Cat",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279050/7087c8631517e91b136dbfb9bfd751e0050c8e16/header.jpg?t=1783460412",
-      "url": "https://store.steampowered.com/app/4279050/",
+      "name": "Pay Off The Mortgage",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774490/8159088132143bc80fdcc147fb2a5b18410f9841/header.jpg?t=1783568561",
+      "url": "https://store.steampowered.com/app/4774490/",
+      "short_description": "",
+      "final_price": 179
+    },
+    {
+      "name": "AI NOVEL GENERATION",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800920/9ef83f8e1759f6f1fd4c67594146c31e9c397560/header.jpg?t=1783565735",
+      "url": "https://store.steampowered.com/app/3800920/",
       "short_description": "",
       "final_price": 359
     },
     {
-      "name": "NotifyXR",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781770/562347d418ba106e104f1923672b9cf7bc2f64c1/header.jpg?t=1783458461",
-      "url": "https://store.steampowered.com/app/4781770/",
+      "name": "Veritas Tales: Witch of the Dark Castle",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508570/a928ae98d5030143507e944e7de25b072d3f2395/header.jpg?t=1783565726",
+      "url": "https://store.steampowered.com/app/4508570/",
       "short_description": "",
-      "final_price": 679
+      "final_price": 1529
     },
     {
-      "name": "Deadly Warrior",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848340/fb4e08d650ad07af1afed680506b856f22c54039/header.jpg?t=1783457636",
-      "url": "https://store.steampowered.com/app/4848340/",
+      "name": "Pun-ishment",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781720/4b24d13a6d57c9b3b9c8d307ab27d82ba92ee3c3/header.jpg?t=1783561897",
+      "url": "https://store.steampowered.com/app/4781720/",
       "short_description": "",
-      "final_price": 425
+      "final_price": 599
     },
     {
-      "name": "Demon Protocol",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4798960/cc22b31b06e66c7900336e4c037534fa47d57084/header.jpg?t=1783457169",
-      "url": "https://store.steampowered.com/app/4798960/",
+      "name": "Make it! Shaved Ice",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834080/1e1d3e3aa99b83e36cee82524b51434d6006b332/header.jpg?t=1783552826",
+      "url": "https://store.steampowered.com/app/4834080/",
       "short_description": "",
-      "final_price": 299
+      "final_price": 496
     },
     {
-      "name": "Flamel's Requiem",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611050/441db6a5915eb2d2567cad3bd13816c614c74e8a/header.jpg?t=1783452709",
-      "url": "https://store.steampowered.com/app/4611050/",
+      "name": "Safe Haven Repair Station",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581510/62ab2080a231102777ee33c04a19337431addc7a/header.jpg?t=1783552791",
+      "url": "https://store.steampowered.com/app/4581510/",
       "short_description": "",
       "final_price": 0
+    },
+    {
+      "name": "shark",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875720/d937fcd4b1688249560b672be7fc809f43597ede/header.jpg?t=1783547942",
+      "url": "https://store.steampowered.com/app/4875720/",
+      "short_description": "",
+      "final_price": 119
     }
   ]
 }
