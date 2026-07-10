@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-09",
+  "updated": "2026-07-10",
   "items": [
     {
-      "name": "CORGI & WOOLLY - Little Horizon -",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4481560/fae60558982f1bf7767fa55bf04a217375549cee/header.jpg?t=1783584916",
-      "url": "https://store.steampowered.com/app/4481560/",
+      "name": "Catjong 6: Pawztec Temple",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/3d3bf4af71c526b18f232837c7be3f69bce6c55b/header.jpg?t=1783673623",
+      "url": "https://store.steampowered.com/app/4233090/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "\u4ed9\u9014\u653e\u7f6e\uff1a\u65e0\u5c3d\u5929\u68af\u548c\u5b8c\u7f8e\u88c5\u5907",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4829980/fe7f466438f09dc17739aa7e86470214e9c42048/header.jpg?t=1783582604",
-      "url": "https://store.steampowered.com/app/4829980/",
+      "name": "Thinky Wants To Guess",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4517560/63844c6f865c7796fe6737f200d464e789fc0322/header.jpg?t=1783672357",
+      "url": "https://store.steampowered.com/app/4517560/",
+      "short_description": "",
+      "final_price": 425
+    },
+    {
+      "name": "Giants",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476360/9ee3c020bd79e21a57c6c6596090ab55fd8a2116/header.jpg?t=1783671742",
+      "url": "https://store.steampowered.com/app/4476360/",
+      "short_description": "",
+      "final_price": 199
+    },
+    {
+      "name": "Doomsday Draft",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4869370/f2e287c125ae43086477a0680d42ee7d7eac7bcc/header.jpg?t=1783671376",
+      "url": "https://store.steampowered.com/app/4869370/",
+      "short_description": "",
+      "final_price": 699
+    },
+    {
+      "name": "Micronova",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551130/f02045c989bf02cdcdc44c9993bd7dd87d9211a7/header.jpg?t=1783670538",
+      "url": "https://store.steampowered.com/app/4551130/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Curio Shop",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4600020/48002e5557fc498665b5a3987ad531194fbeef30/header.jpg?t=1783670212",
+      "url": "https://store.steampowered.com/app/4600020/",
       "short_description": "",
       "final_price": 449
     },
     {
-      "name": "Love Train",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872690/ccec1f018552de08ce4eb87e0a0492ab62aa1014/header.jpg?t=1783582371",
-      "url": "https://store.steampowered.com/app/4872690/",
+      "name": "Anomaly Control Division",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/d9d66936454fde48ac72e8393b8f115c34edc138/header.jpg?t=1783669401",
+      "url": "https://store.steampowered.com/app/4872780/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Gunvolt Chronicles: Luminous Avenger iX 1+2 Dual Collection",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282450/085d9a38c8482abfbbe1272818d50088b7cd644a/header.jpg?t=1783580468",
-      "url": "https://store.steampowered.com/app/4282450/",
-      "short_description": "",
-      "final_price": 2699
-    },
-    {
-      "name": "Zerion: Infinite Space",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4787300/d49254a4c39acddf71dd36f19469343e901b9e7a/header.jpg?t=1783568681",
-      "url": "https://store.steampowered.com/app/4787300/",
+      "name": "\uc544\ud06c\uc2dc\ud2f0\ub124\uc624",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834700/4dea3faecfaa217831f4e302b36248367fea993b/header.jpg?t=1783668177",
+      "url": "https://store.steampowered.com/app/4834700/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Pay Off The Mortgage",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4774490/8159088132143bc80fdcc147fb2a5b18410f9841/header.jpg?t=1783568561",
-      "url": "https://store.steampowered.com/app/4774490/",
-      "short_description": "",
-      "final_price": 179
-    },
-    {
-      "name": "AI NOVEL GENERATION",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800920/9ef83f8e1759f6f1fd4c67594146c31e9c397560/header.jpg?t=1783565735",
-      "url": "https://store.steampowered.com/app/3800920/",
-      "short_description": "",
-      "final_price": 359
-    },
-    {
-      "name": "Veritas Tales: Witch of the Dark Castle",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4508570/a928ae98d5030143507e944e7de25b072d3f2395/header.jpg?t=1783565726",
-      "url": "https://store.steampowered.com/app/4508570/",
-      "short_description": "",
-      "final_price": 1529
-    },
-    {
-      "name": "Pun-ishment",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4781720/4b24d13a6d57c9b3b9c8d307ab27d82ba92ee3c3/header.jpg?t=1783561897",
-      "url": "https://store.steampowered.com/app/4781720/",
-      "short_description": "",
-      "final_price": 599
-    },
-    {
-      "name": "Make it! Shaved Ice",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834080/1e1d3e3aa99b83e36cee82524b51434d6006b332/header.jpg?t=1783552826",
-      "url": "https://store.steampowered.com/app/4834080/",
-      "short_description": "",
-      "final_price": 496
-    },
-    {
-      "name": "Safe Haven Repair Station",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4581510/62ab2080a231102777ee33c04a19337431addc7a/header.jpg?t=1783552791",
-      "url": "https://store.steampowered.com/app/4581510/",
+      "name": "Trance World",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847120/cf8ce77ad2b1ae2b1520ede3b1a6787b3423200e/header.jpg?t=1783666892",
+      "url": "https://store.steampowered.com/app/4847120/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "shark",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875720/d937fcd4b1688249560b672be7fc809f43597ede/header.jpg?t=1783547942",
-      "url": "https://store.steampowered.com/app/4875720/",
+      "name": "O2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4861100/82d330e84a998b2ebc622505916e6b73afdaf4d6/header.jpg?t=1783667261",
+      "url": "https://store.steampowered.com/app/4861100/",
       "short_description": "",
-      "final_price": 119
+      "final_price": 424
+    },
+    {
+      "name": "Mycelium Conquest: Mitosis",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853400/8f6ef8cbadf381e575406bd99d1362dac639bfb8/header.jpg?t=1783666515",
+      "url": "https://store.steampowered.com/app/4853400/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "TAKE CARE OF THE DOG",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820140/b9c80bc73dfb31ae57f3241a91de078463a76c3a/header.jpg?t=1783665623",
+      "url": "https://store.steampowered.com/app/4820140/",
+      "short_description": "",
+      "final_price": 0
     }
   ]
 }
