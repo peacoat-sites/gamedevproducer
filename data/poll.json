@@ -1,0 +1,21 @@
+{
+  "question": "Where are you in your gamedev journey?",
+  "options": [
+    {
+      "label": "Aspiring, learning",
+      "votes": 274
+    },
+    {
+      "label": "Prototyping",
+      "votes": 246
+    },
+    {
+      "label": "In production",
+      "votes": 187
+    },
+    {
+      "label": "Launched a game",
+      "votes": 93
+    }
+  ]
+}
