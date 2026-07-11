@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "items": [
     {
-      "name": "Catjong 6: Pawztec Temple",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4233090/3d3bf4af71c526b18f232837c7be3f69bce6c55b/header.jpg?t=1783673623",
-      "url": "https://store.steampowered.com/app/4233090/",
+      "name": "The Mutiny",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412900/8366f8c5937e2e0328226ebd611634265adc609b/header.jpg?t=1783753253",
+      "url": "https://store.steampowered.com/app/4412900/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 269
     },
     {
-      "name": "Thinky Wants To Guess",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4517560/63844c6f865c7796fe6737f200d464e789fc0322/header.jpg?t=1783672357",
-      "url": "https://store.steampowered.com/app/4517560/",
+      "name": "Summer Days in the Joyful Countryside",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606380/ebfbd993c177c3368dccb44e72281d0e1311d7de/header.jpg?t=1783742406",
+      "url": "https://store.steampowered.com/app/3606380/",
       "short_description": "",
-      "final_price": 425
+      "final_price": 1199
     },
     {
-      "name": "Giants",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476360/9ee3c020bd79e21a57c6c6596090ab55fd8a2116/header.jpg?t=1783671742",
-      "url": "https://store.steampowered.com/app/4476360/",
-      "short_description": "",
-      "final_price": 199
-    },
-    {
-      "name": "Doomsday Draft",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4869370/f2e287c125ae43086477a0680d42ee7d7eac7bcc/header.jpg?t=1783671376",
-      "url": "https://store.steampowered.com/app/4869370/",
-      "short_description": "",
-      "final_price": 699
-    },
-    {
-      "name": "Micronova",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4551130/f02045c989bf02cdcdc44c9993bd7dd87d9211a7/header.jpg?t=1783670538",
-      "url": "https://store.steampowered.com/app/4551130/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Curio Shop",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4600020/48002e5557fc498665b5a3987ad531194fbeef30/header.jpg?t=1783670212",
-      "url": "https://store.steampowered.com/app/4600020/",
+      "name": "Isekai x Isekai",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542860/add38b55f88d50bbd971381dc4f24d87f2a8f7e0/header.jpg?t=1783741506",
+      "url": "https://store.steampowered.com/app/4542860/",
       "short_description": "",
       "final_price": 449
     },
     {
-      "name": "Anomaly Control Division",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4872780/d9d66936454fde48ac72e8393b8f115c34edc138/header.jpg?t=1783669401",
-      "url": "https://store.steampowered.com/app/4872780/",
+      "name": "A surgery beyond the heart",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943310/19eef447a5bc270a7000b3d85519f298dd92a935/header.jpg?t=1783740030",
+      "url": "https://store.steampowered.com/app/2943310/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "\uc544\ud06c\uc2dc\ud2f0\ub124\uc624",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834700/4dea3faecfaa217831f4e302b36248367fea993b/header.jpg?t=1783668177",
-      "url": "https://store.steampowered.com/app/4834700/",
+      "name": "Jiaobei: Ask the Divine",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563040/60fa4047ac92e9eca595b890fa5ba35cf8a2e9ba/header.jpg?t=1783739953",
+      "url": "https://store.steampowered.com/app/4563040/",
+      "short_description": "",
+      "final_price": 79
+    },
+    {
+      "name": "The Long Drift",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/e6a4edf658d763012b6fd0e1d8f24043dc8d8582/header.jpg?t=1783734394",
+      "url": "https://store.steampowered.com/app/4289180/",
+      "short_description": "",
+      "final_price": 399
+    },
+    {
+      "name": "You.Tapes",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824530/349d846107412d36b16bd27ac4a92339ff14aa54/header.jpg?t=1783730770",
+      "url": "https://store.steampowered.com/app/4824530/",
+      "short_description": "",
+      "final_price": 399
+    },
+    {
+      "name": "Clickstead",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294400/6c404639b47375df831c62184240c71ea03d3a13/header.jpg?t=1783730163",
+      "url": "https://store.steampowered.com/app/4294400/",
+      "short_description": "",
+      "final_price": 319
+    },
+    {
+      "name": "Scourge of the Necromancer",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4717680/6ccec98ac181eb8c519ba7f69c1e095a3877dddd/header.jpg?t=1783728029",
+      "url": "https://store.steampowered.com/app/4717680/",
+      "short_description": "",
+      "final_price": 999
+    },
+    {
+      "name": "HYPERFIST",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689210/c1445aad422d27f5abe35d14e4febf25bbd6428d/header.jpg?t=1783744534",
+      "url": "https://store.steampowered.com/app/3689210/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Trance World",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847120/cf8ce77ad2b1ae2b1520ede3b1a6787b3423200e/header.jpg?t=1783666892",
-      "url": "https://store.steampowered.com/app/4847120/",
+      "name": "Math Frenzy",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961580/b3ae35e0cc4180945cc57c30811903052e1a6d14/header.jpg?t=1783726089",
+      "url": "https://store.steampowered.com/app/3961580/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 499
     },
     {
-      "name": "O2",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4861100/82d330e84a998b2ebc622505916e6b73afdaf4d6/header.jpg?t=1783667261",
-      "url": "https://store.steampowered.com/app/4861100/",
+      "name": "HiveBreak",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858120/0fcb976364c7cd21588a858e3d28c13794379d9b/header.jpg?t=1783725185",
+      "url": "https://store.steampowered.com/app/4858120/",
       "short_description": "",
-      "final_price": 424
-    },
-    {
-      "name": "Mycelium Conquest: Mitosis",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4853400/8f6ef8cbadf381e575406bd99d1362dac639bfb8/header.jpg?t=1783666515",
-      "url": "https://store.steampowered.com/app/4853400/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "TAKE CARE OF THE DOG",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4820140/b9c80bc73dfb31ae57f3241a91de078463a76c3a/header.jpg?t=1783665623",
-      "url": "https://store.steampowered.com/app/4820140/",
-      "short_description": "",
-      "final_price": 0
+      "final_price": 399
     }
   ]
 }
