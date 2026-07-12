@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-11",
+  "updated": "2026-07-12",
   "items": [
     {
-      "name": "The Mutiny",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412900/8366f8c5937e2e0328226ebd611634265adc609b/header.jpg?t=1783753253",
-      "url": "https://store.steampowered.com/app/4412900/",
-      "short_description": "",
-      "final_price": 269
-    },
-    {
-      "name": "Summer Days in the Joyful Countryside",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606380/ebfbd993c177c3368dccb44e72281d0e1311d7de/header.jpg?t=1783742406",
-      "url": "https://store.steampowered.com/app/3606380/",
+      "name": "Goblin Camp",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2431980/header.jpg?t=1783842258",
+      "url": "https://store.steampowered.com/app/2431980/",
       "short_description": "",
       "final_price": 1199
     },
     {
-      "name": "Isekai x Isekai",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542860/add38b55f88d50bbd971381dc4f24d87f2a8f7e0/header.jpg?t=1783741506",
-      "url": "https://store.steampowered.com/app/4542860/",
-      "short_description": "",
-      "final_price": 449
-    },
-    {
-      "name": "A surgery beyond the heart",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943310/19eef447a5bc270a7000b3d85519f298dd92a935/header.jpg?t=1783740030",
-      "url": "https://store.steampowered.com/app/2943310/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Jiaobei: Ask the Divine",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4563040/60fa4047ac92e9eca595b890fa5ba35cf8a2e9ba/header.jpg?t=1783739953",
-      "url": "https://store.steampowered.com/app/4563040/",
-      "short_description": "",
-      "final_price": 79
-    },
-    {
-      "name": "The Long Drift",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4289180/e6a4edf658d763012b6fd0e1d8f24043dc8d8582/header.jpg?t=1783734394",
-      "url": "https://store.steampowered.com/app/4289180/",
-      "short_description": "",
-      "final_price": 399
-    },
-    {
-      "name": "You.Tapes",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824530/349d846107412d36b16bd27ac4a92339ff14aa54/header.jpg?t=1783730770",
-      "url": "https://store.steampowered.com/app/4824530/",
-      "short_description": "",
-      "final_price": 399
-    },
-    {
-      "name": "Clickstead",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4294400/6c404639b47375df831c62184240c71ea03d3a13/header.jpg?t=1783730163",
-      "url": "https://store.steampowered.com/app/4294400/",
-      "short_description": "",
-      "final_price": 319
-    },
-    {
-      "name": "Scourge of the Necromancer",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4717680/6ccec98ac181eb8c519ba7f69c1e095a3877dddd/header.jpg?t=1783728029",
-      "url": "https://store.steampowered.com/app/4717680/",
+      "name": "Urban Rangers Arcade 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863520/92c22c9e598b3041c9aca119d1868d718dc7692a/header.jpg?t=1783834231",
+      "url": "https://store.steampowered.com/app/4863520/",
       "short_description": "",
       "final_price": 999
     },
     {
-      "name": "HYPERFIST",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689210/c1445aad422d27f5abe35d14e4febf25bbd6428d/header.jpg?t=1783744534",
-      "url": "https://store.steampowered.com/app/3689210/",
+      "name": "Qwerty's Quickies",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859360/06038017cd7970c319562dced8638fae5fecd8a0/header.jpg?t=1783826757",
+      "url": "https://store.steampowered.com/app/4859360/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 749
     },
     {
-      "name": "Math Frenzy",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961580/b3ae35e0cc4180945cc57c30811903052e1a6d14/header.jpg?t=1783726089",
-      "url": "https://store.steampowered.com/app/3961580/",
+      "name": "Haggle simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376780/dc0f36437911d315c057570de1f82dc7170a86fd/header.jpg?t=1783814241",
+      "url": "https://store.steampowered.com/app/4376780/",
       "short_description": "",
-      "final_price": 499
+      "final_price": 179
     },
     {
-      "name": "HiveBreak",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4858120/0fcb976364c7cd21588a858e3d28c13794379d9b/header.jpg?t=1783725185",
-      "url": "https://store.steampowered.com/app/4858120/",
+      "name": "Zombie Queen",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811410/d6925f2227b4787f5b0b6018496e76766a8ac79c/header.jpg?t=1783827901",
+      "url": "https://store.steampowered.com/app/4811410/",
+      "short_description": "",
+      "final_price": 1000
+    },
+    {
+      "name": "Angels Fall First",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367270/fa7defd4ca90f5f306de47576a3424d8006d12f5/header.jpg?t=1783807186",
+      "url": "https://store.steampowered.com/app/367270/",
+      "short_description": "",
+      "final_price": 1619
+    },
+    {
+      "name": "Blobbin",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736050/a6f306b331f7df9c0c99d19c3a79f4ad90f2360b/header.jpg?t=1783806099",
+      "url": "https://store.steampowered.com/app/4736050/",
+      "short_description": "",
+      "final_price": 254
+    },
+    {
+      "name": "Tri City Monsters",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2414410/ff706d4717c7f851a7aa24a35075241906636e31/header.jpg?t=1783800518",
+      "url": "https://store.steampowered.com/app/2414410/",
+      "short_description": "",
+      "final_price": 2499
+    },
+    {
+      "name": "Hentai Flesh",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660300/23892b267671afe9c1e985d189415ece9f880f65/header.jpg?t=1783799938",
+      "url": "https://store.steampowered.com/app/4660300/",
+      "short_description": "",
+      "final_price": 159
+    },
+    {
+      "name": "The Dungeon Persists",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819560/0e7124f502b49d963cb7f02a5a77dcc64ac43303/header.jpg?t=1783794744",
+      "url": "https://store.steampowered.com/app/4819560/",
       "short_description": "",
       "final_price": 399
+    },
+    {
+      "name": "Brandon's Semiconductor Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/c9cf1783cce0bcc8f650149ef10fab5d348713ab/header.jpg?t=1783786187",
+      "url": "https://store.steampowered.com/app/4864110/",
+      "short_description": "",
+      "final_price": 399
+    },
+    {
+      "name": "Health Audit Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/3b66cd0a76116252561ab1f27491869c7ec90733/header.jpg?t=1783785527",
+      "url": "https://store.steampowered.com/app/4336300/",
+      "short_description": "",
+      "final_price": 1099
     }
   ]
 }
