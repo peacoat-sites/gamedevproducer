@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-12",
+  "updated": "2026-07-13",
   "items": [
     {
-      "name": "Goblin Camp",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2431980/header.jpg?t=1783842258",
-      "url": "https://store.steampowered.com/app/2431980/",
+      "name": "Intertwined - Season 1",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783540/6201ab43f2ed3e8b431fee7672501b9ec92ee62c/header.jpg?t=1783930572",
+      "url": "https://store.steampowered.com/app/4783540/",
       "short_description": "",
-      "final_price": 1199
+      "final_price": 1299
     },
     {
-      "name": "Urban Rangers Arcade 2",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863520/92c22c9e598b3041c9aca119d1868d718dc7692a/header.jpg?t=1783834231",
-      "url": "https://store.steampowered.com/app/4863520/",
+      "name": "Kill The Nova",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542800/f368f2003c50da8b372a6bd9783a3d14774d576c/header.jpg?t=1783929609",
+      "url": "https://store.steampowered.com/app/4542800/",
       "short_description": "",
-      "final_price": 999
+      "final_price": 629
     },
     {
-      "name": "Qwerty's Quickies",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4859360/06038017cd7970c319562dced8638fae5fecd8a0/header.jpg?t=1783826757",
-      "url": "https://store.steampowered.com/app/4859360/",
+      "name": "OctoMech Survivors",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803650/15eaa10f77d86e928d878618062f47c2f37810e6/header.jpg?t=1783929030",
+      "url": "https://store.steampowered.com/app/4803650/",
       "short_description": "",
-      "final_price": 749
+      "final_price": 359
     },
     {
-      "name": "Haggle simulator",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376780/dc0f36437911d315c057570de1f82dc7170a86fd/header.jpg?t=1783814241",
-      "url": "https://store.steampowered.com/app/4376780/",
+      "name": "Zombie City Together",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4888720/eeb6753df97bf5cdf1ab0b250cf4e2a79a6b3059/header.jpg?t=1783927505",
+      "url": "https://store.steampowered.com/app/4888720/",
       "short_description": "",
-      "final_price": 179
+      "final_price": 49
     },
     {
-      "name": "Zombie Queen",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4811410/d6925f2227b4787f5b0b6018496e76766a8ac79c/header.jpg?t=1783827901",
-      "url": "https://store.steampowered.com/app/4811410/",
+      "name": "Fart Fighter",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876280/e515e363c255109ed5ba3446e9dce758112b4b20/header.jpg?t=1783926245",
+      "url": "https://store.steampowered.com/app/4876280/",
       "short_description": "",
-      "final_price": 1000
+      "final_price": 199
     },
     {
-      "name": "Angels Fall First",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367270/fa7defd4ca90f5f306de47576a3424d8006d12f5/header.jpg?t=1783807186",
-      "url": "https://store.steampowered.com/app/367270/",
+      "name": "Ascend to ZERO",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2697940/2b50769aaa2d06f460a5e2ef6ef13ca9ed88305d/header.jpg?t=1783926666",
+      "url": "https://store.steampowered.com/app/2697940/",
       "short_description": "",
-      "final_price": 1619
+      "final_price": 959
     },
     {
-      "name": "Blobbin",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4736050/a6f306b331f7df9c0c99d19c3a79f4ad90f2360b/header.jpg?t=1783806099",
-      "url": "https://store.steampowered.com/app/4736050/",
+      "name": "Soulforge Lost Path",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3839250/b674ca74dc1b40e04ce1339274ff5d688b73594e/header.jpg?t=1783925883",
+      "url": "https://store.steampowered.com/app/3839250/",
       "short_description": "",
-      "final_price": 254
+      "final_price": 809
     },
     {
-      "name": "Tri City Monsters",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2414410/ff706d4717c7f851a7aa24a35075241906636e31/header.jpg?t=1783800518",
-      "url": "https://store.steampowered.com/app/2414410/",
+      "name": "Tidy Up: Spaceship",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882280/d12e0d702a8b0063925654ca905283df4d0870b8/header.jpg?t=1783924954",
+      "url": "https://store.steampowered.com/app/4882280/",
       "short_description": "",
-      "final_price": 2499
+      "final_price": 0
     },
     {
-      "name": "Hentai Flesh",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660300/23892b267671afe9c1e985d189415ece9f880f65/header.jpg?t=1783799938",
-      "url": "https://store.steampowered.com/app/4660300/",
+      "name": "Save the President : Trust Issues",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336960/6d56669be5bc44b1180d7a4ff667d5f979c9c37b/header.jpg?t=1783921434",
+      "url": "https://store.steampowered.com/app/4336960/",
       "short_description": "",
-      "final_price": 159
+      "final_price": 499
     },
     {
-      "name": "The Dungeon Persists",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819560/0e7124f502b49d963cb7f02a5a77dcc64ac43303/header.jpg?t=1783794744",
-      "url": "https://store.steampowered.com/app/4819560/",
+      "name": "701\u75c5\u623f",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4723460/244658557d9aae36a79872575748b3e87038172e/header.jpg?t=1783918405",
+      "url": "https://store.steampowered.com/app/4723460/",
       "short_description": "",
       "final_price": 399
     },
     {
-      "name": "Brandon's Semiconductor Simulator",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864110/c9cf1783cce0bcc8f650149ef10fab5d348713ab/header.jpg?t=1783786187",
-      "url": "https://store.steampowered.com/app/4864110/",
+      "name": "Carpet Cleaning Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634560/30ce64b008c8a9d0828a372fea2a75d015d5f22d/header.jpg?t=1783917119",
+      "url": "https://store.steampowered.com/app/4634560/",
       "short_description": "",
-      "final_price": 399
+      "final_price": 559
     },
     {
-      "name": "Health Audit Simulator",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336300/3b66cd0a76116252561ab1f27491869c7ec90733/header.jpg?t=1783785527",
-      "url": "https://store.steampowered.com/app/4336300/",
+      "name": "Finding Cats",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830500/db930372cc6721936882b27a538b848a684c8fae/header.jpg?t=1783915254",
+      "url": "https://store.steampowered.com/app/4830500/",
       "short_description": "",
-      "final_price": 1099
+      "final_price": 449
     }
   ]
 }
