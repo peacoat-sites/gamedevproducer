@@ -1,137 +1,143 @@
 {
-  "updated": "2026-07-13",
+  "updated": "2026-07-14",
   "count": 25,
   "items": [
     {
+      "source": "Polygon",
+      "title": "Stephen King's The Long Walk just hit #1 on HBO Max after just one day",
+      "url": "https://www.polygon.com/this-stephen-king-the-long-walk-hbo-max/",
+      "date": "Tue, 14 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "\"I have what it takes to continue this series' legacy\" Hideaki Itsuno may have left Capcom, but Dragon's Dogma 2's new director reckons the RPG is still in good hands",
+      "url": "https://www.eurogamer.net/dragons-dogma-2-dark-arisen-itsuno-future",
+      "date": "Tue, 14 Ju"
+    },
+    {
       "source": "Game Developer",
-      "title": "Asha Sharma joins Federal Reserve advisory task force days after laying off thousands at Xbox",
-      "url": "https://www.gamedeveloper.com/business/asha-sharma-joins-federal-reserve-task-force-days-after-laying-off-thousands-at-xbox",
-      "date": "Thu, 09 Ju"
+      "title": "The Alters and Frostpunk developer 11 Bit Studios is laying off 20 employees",
+      "url": "https://www.gamedeveloper.com/business/the-alters-and-frostpunk-developer-11-bit-studios-is-laying-off-20-employees-",
+      "date": "Mon, 13 Ju"
     },
     {
       "source": "Game Developer",
-      "title": "Eurogamer and VG247 veterans launch new independent site",
-      "url": "https://www.gamedeveloper.com/business/eurogamer-and-vg247-veterans-launch-new-independent-site",
-      "date": "Thu, 09 Ju"
+      "title": "Games Done Quick apologizes for partnering with Saudi-owned studio SNK",
+      "url": "https://www.gamedeveloper.com/business/games-done-quick-apologizes-for-partnering-with-saudi-owned-studio-snk",
+      "date": "Mon, 13 Ju"
+    },
+    {
+      "source": "Game Developer",
+      "title": "'A kick in the teeth:' Game workers protest alleged misconduct at MindsEye developer Build A Rocket Boy",
+      "url": "https://www.gamedeveloper.com/business/-a-kick-in-the-teeth-game-workers-protest-alleged-misconduct-at-mindseye-developer-build-a-rocket-boy",
+      "date": "Mon, 13 Ju"
     },
     {
       "source": "Kotaku",
-      "title": "Phoebe Bridgers Launches Itch.io Page With An Infinite Runner",
-      "url": "https://kotaku.com/phoebe-bridgers-launches-itch-io-page-with-an-infinite-runner-2000715034",
-      "date": "Sun, 12 Ju"
+      "title": "I Hate The Pok\u00e9mon Worlds 2026 Ticket Lottery",
+      "url": "https://kotaku.com/i-hate-pokemon-worlds-2026-ticket-lottery-2000715380",
+      "date": "Mon, 13 Ju"
     },
     {
       "source": "Kotaku",
-      "title": "Expensive Games Are Fueling Steam\u2019s Most Lucrative Year Despite Players Trending Towards Older Releases",
-      "url": "https://kotaku.com/expensive-games-are-fueling-steams-most-lucrative-year-despite-players-trending-towards-older-releases-2000715030",
-      "date": "Sun, 12 Ju"
+      "title": "Aerial Knight\u2019s MrFreezy Turns Chopping Off Heads Into An Absorbing Brain-Teaser",
+      "url": "https://kotaku.com/aerial-knights-mrfreezy-turns-chopping-off-heads-into-an-absorbing-brain-teaser-2000715345",
+      "date": "Mon, 13 Ju"
     },
     {
       "source": "Kotaku",
-      "title": "Ubisoft Drops Claim That Monetization Makes Games \u2018More Fun\u2019 From Annual Report",
-      "url": "https://kotaku.com/ubisoft-drops-claim-that-monetization-makes-games-more-fun-from-annual-report-2000715026",
-      "date": "Sun, 12 Ju"
+      "title": "We\u2019re Finally Getting An Instant Cup Of Noodles You Can Make With Cold Water",
+      "url": "https://kotaku.com/were-finally-getting-an-instant-cup-of-noodles-you-can-make-with-cold-water-2000715361",
+      "date": "Mon, 13 Ju"
     },
     {
       "source": "Kotaku",
-      "title": "Brazilian Court Forces Xbox To Restore Hacked Account And Pay Damages As Players Grapple With An All-Digital Future",
-      "url": "https://kotaku.com/brazilian-courts-force-xbox-to-restore-hacked-account-and-pay-damages-2000715020",
-      "date": "Sun, 12 Ju"
+      "title": "My Chemical Romance Fans Ask Gerard Way If He\u2019s Played Baldur\u2019s Gate 3, And Now Larian Is Involved",
+      "url": "https://kotaku.com/baldurs-gate-3-my-chemical-romance-gerard-way-larian-2000715363",
+      "date": "Mon, 13 Ju"
     },
     {
       "source": "Kotaku",
-      "title": "Vanillaware Artist Moved Into The Mountains For Six Years To Create Lush Love Letter To Old School RPGs",
-      "url": "https://kotaku.com/vanillaware-artist-moved-into-the-mountains-for-six-years-to-create-lush-love-letter-to-old-school-rpgs-2000715013",
-      "date": "Sun, 12 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Christopher Nolan's first movie is waiting to be rediscovered (and for free)",
-      "url": "https://www.polygon.com/christopher-nolan-debut-film-following-streaming-free/",
-      "date": "Sun, 12 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "7 years ago, Nintendo officially released the best anime RPG dramas of all time",
-      "url": "https://www.polygon.com/fire-emblem-three-houses-anniversary-switch/",
-      "date": "Sun, 12 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Spider-Man is at his best when Peter Parker can't catch a break",
-      "url": "https://www.polygon.com/spider-man-peter-parker-luck-a-little-pathetic/",
-      "date": "Sun, 12 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Summer Games Done Quick 2026 raises another $2.4 million for Doctors Without Borders",
-      "url": "https://www.eurogamer.net/sgdq-2026-raises-24-m",
-      "date": "Sun, 12 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Steam's \"no questions asked\" refund policy makes it \"super easy for players to abuse this rule\", says indie developer",
-      "url": "https://www.eurogamer.net/indie-dev-steam-refund-policy",
-      "date": "Sun, 12 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "God of War Laufey studio hints at 2027 release window following tweet that assures players it \"will be available on disc\"",
-      "url": "https://www.eurogamer.net/god-of-war-laufey-disc-confirmed",
-      "date": "Sun, 12 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Marvel T\u014dkon: Fighting Souls' single-player Episode Modes have been written by legendary writer, Kieron Gillen",
-      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-episode-modes-kieron-gillen",
-      "date": "Sun, 12 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Larys Strong and Aegon II hit 'rock bottom' in this week's House of the Dragon",
-      "url": "https://www.polygon.com/house-of-dragon-matthew-needham-tom-glynn-carney-interview/",
+      "title": "Presumably Bored Pilot Uses Plane To Skywrite \u2018I\u2019m Bored\u2019 Over England",
+      "url": "https://kotaku.com/bored-pilot-uses-plane-to-skywrite-im-bored-over-england-2000715320",
       "date": "Mon, 13 Ju"
     },
     {
       "source": "Polygon",
-      "title": "Denzel Washington's Equalizer trilogy is finally streaming on HBO Max",
-      "url": "https://www.polygon.com/denzel-washington-equalizer-trilogy-on-hbo-max/",
+      "title": "Marvel's next big solo movie could revive the Guardians of the Galaxy era",
+      "url": "https://www.polygon.com/marvel-studios-nova-movie-in-development-mcu/",
+      "date": "Mon, 13 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Best tactics RPGs to play like Fire Emblem: Fortune's Weave",
+      "url": "https://www.polygon.com/best-games-like-fire-emblem-fortunes-wave/",
+      "date": "Mon, 13 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Disney's D23 fan event to feature big Kingdom Hearts 'deep dive'",
+      "url": "https://www.polygon.com/kingdom-hearts-anniversary-fortnite-d23-kh4-square-enix/",
+      "date": "Mon, 13 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "How to get pure quartz in Palworld",
+      "url": "https://www.polygon.com/palworld-guides/24050884/pure-quartz-location-how-to-get-where-find/",
       "date": "Mon, 13 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "Despite having an offline mode, Assassin's Creed Black Flag Resynced was unplayable when Ubisoft Connect went down",
-      "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-ubisoft-connect-outage-offline-mode",
+      "title": "Halo Studios reportedly cancels Halo multiplayer project Ekur, which had customisable Spartans and Elites and large player battles",
+      "url": "https://www.eurogamer.net/halo-studios-project-ekur-cancelled-certain-affinity",
+      "date": "Mon, 13 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Games Done Quick announces and then quickly cancels SNK-sponsored stream because of company's Saudi ownership",
+      "url": "https://www.eurogamer.net/games-done-quick-cancels-snk-sponsored-stream",
+      "date": "Mon, 13 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Dragon's Dogma 2 devs on the big fast travel U-turn, and wanting to \"win back the trust\" of RPG fans with the Dark Arisen DLC",
+      "url": "https://www.eurogamer.net/dragons-dogma-2-dark-arisen-interview-performance-microtransactions",
+      "date": "Mon, 13 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Nintendo's next Lego set looks to be a retro Donkey Kong arcade machine",
+      "url": "https://www.eurogamer.net/lego-donkey-kong-arcade-machine-set-leaked",
       "date": "Mon, 13 Ju"
     },
     {
       "source": "IGN",
-      "title": "LA Noire Developer Considered Mad Men Star Jon Hamm for the Role of Cole Phelps, but Had a Very Good Reason for Going With Aaron Staton Instead",
-      "url": "https://www.ign.com/articles/la-noire-developer-considered-mad-men-star-jon-hamm-for-the-role-of-cole-phelps-but-had-a-very-good-reason-for-going-with-aaron-staton-instead",
+      "title": "Save $50 Off the AirPods Pro 3 Noise Canceling Earbuds",
+      "url": "https://www.ign.com/articles/best-apple-airpods-pro-3-earbuds-deal-july-2026",
       "date": "Mon, 13 Ju"
     },
     {
       "source": "IGN",
-      "title": "LEGO Leak Reveals $200 Donkey Kong Arcade Cabinet",
-      "url": "https://www.ign.com/articles/lego-leak-reveals-200-donkey-kong-arcade-cabinet",
+      "title": "Avengers: Doomsday Runtime Revealed, Ticket Pre-Sales Begin Soon",
+      "url": "https://www.ign.com/articles/avengers-doomsday-runtime-revealed-ticket-pre-sales-begin-soon",
       "date": "Mon, 13 Ju"
     },
     {
       "source": "IGN",
-      "title": "Christopher Nolan Says Batman Helped Him Prepare for 'Irrelevant' Backlash to The Odyssey",
-      "url": "https://www.ign.com/articles/christopher-nolan-says-batman-helped-him-prepare-for-irrelevant-backlash-to-the-odyssey",
+      "title": "The Tiny Aoostar Ryzen 7 Pro 6850H Mini PC With 24GB of DDR5 RAM and USB 4 Ports Drops Below $300",
+      "url": "https://www.ign.com/articles/aoostar-ryzen-7-pro-6850h-mini-pc-deal-july-2026-updated",
       "date": "Mon, 13 Ju"
     },
     {
       "source": "IGN",
-      "title": "Sam Neill Dies at 78",
-      "url": "https://www.ign.com/articles/sam-neill-dies-at-78",
+      "title": "Thousands of Xbox Players Demand an End to Layoffs, Studio Closures on Microsoft's Own Fan Feedback Website",
+      "url": "https://www.ign.com/articles/thousands-of-xbox-players-demand-an-end-to-layoffs-studio-closures-on-microsofts-own-fan-feedback-website",
       "date": "Mon, 13 Ju"
     },
     {
       "source": "IGN",
-      "title": "Rick and Morty Season 9, Episodes 6-8 Review & Recap",
-      "url": "https://www.ign.com/articles/rick-and-morty-season-9-episodes-6-8-review-recap",
+      "title": "The Popular Budget-Friendly Flashforge Adventurer 5M 3D Printer Drops to Just $155 Shipped",
+      "url": "https://www.ign.com/articles/flashforge-adventurer-5m-3d-printer-deal-july-2026",
       "date": "Mon, 13 Ju"
     },
     {
@@ -144,12 +150,6 @@
       "source": "Game Developer",
       "title": "Own goal specialist Xbox rifles another into the roof of the net - Patch Notes #60",
       "url": "https://www.gamedeveloper.com/business/the-state-of-play-after-a-truly-torrid-week-for-xbox-patch-notes-60",
-      "date": "Fri, 10 Ju"
-    },
-    {
-      "source": "Game Developer",
-      "title": "'We mean business:' Xbox union workers fighting back with 'Save Our Devs' rally on July 15",
-      "url": "https://www.gamedeveloper.com/business/-we-mean-business-xbox-union-workers-fighting-back-with-save-our-devs-rally-on-july-15",
       "date": "Fri, 10 Ju"
     }
   ]
