@@ -1,0 +1,14 @@
+{{ with .Site.Data.steam }}
+<div class="feedtbl" style="margin:28px 0;overflow-x:auto">
+<table>
+  <thead><tr><th>#</th><th>Game</th><th>Developer</th><th>Est. owners</th><th>Peak players</th><th>Price</th></tr></thead>
+  <tbody>
+  {{ range .games }}
+  <tr><td>{{ .rank }}</td><td><strong>{{ .name }}</strong></td><td>{{ .developer }}</td>
+      <td>{{ .owners }}</td><td>{{ lang.FormatNumberCustom 0 .ccu }}</td><td>{{ .price }}</td></tr>
+  {{ end }}
+  </tbody>
+</table>
+<p style="font-size:.8rem;color:var(--muted,#64748b);margin-top:8px">Data: {{ .source }}. Refreshed weekly; last update {{ .as_of }}.</p>
+</div>
+{{ end }}
