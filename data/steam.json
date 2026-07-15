@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-14",
+  "updated": "2026-07-15",
   "items": [
     {
-      "name": "Material Maker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110830/b5b9a74c03614c016ebed7ac02cda431a864594a/header.jpg?t=1784016954",
-      "url": "https://store.steampowered.com/app/4110830/",
-      "short_description": "",
-      "final_price": 1349
-    },
-    {
-      "name": "ChronoRewind: The Great Ritual",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4769770/e120d6fe8628f601a7d551f9122a6a4dea63a606/header.jpg?t=1784016028",
-      "url": "https://store.steampowered.com/app/4769770/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Zigdig",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4364590/9da2fabd2088beb50a965d98db0a1b5f3789dcaf/header.jpg?t=1784015011",
-      "url": "https://store.steampowered.com/app/4364590/",
-      "short_description": "",
-      "final_price": 499
-    },
-    {
-      "name": "Mesh Storm",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4799530/e82f1d6572be3ebb3e3f026c3e67fe650ba244a5/header.jpg?t=1784014156",
-      "url": "https://store.steampowered.com/app/4799530/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "A Simpler World",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2243890/28f1b7b6101cb70d7568608656214f07e40698d0/header.jpg?t=1784013817",
-      "url": "https://store.steampowered.com/app/2243890/",
-      "short_description": "",
-      "final_price": 629
-    },
-    {
-      "name": "Warena",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4331100/deb0ad8d2c015602b51cb49048bc7ea0e972cbd9/header.jpg?t=1784012909",
-      "url": "https://store.steampowered.com/app/4331100/",
-      "short_description": "",
-      "final_price": 799
-    },
-    {
-      "name": "Naked Interrogation Simulator",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436350/4674e0502682fd6408aa8095e57df154b41cf568/header.jpg?t=1784012754",
-      "url": "https://store.steampowered.com/app/3436350/",
+      "name": "Roll Together",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4397780/23d51289c57bf56b0dc809b71f67e53f1dc6aabe/header.jpg?t=1784104548",
+      "url": "https://store.steampowered.com/app/4397780/",
       "short_description": "",
       "final_price": 449
     },
     {
-      "name": "Creepy Support",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3685900/dbdeb90d096f03f7a9c7890223ef5e536431c5eb/header.jpg?t=1784012440",
-      "url": "https://store.steampowered.com/app/3685900/",
+      "name": "Marsmare: Alienation",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875120/header.jpg?t=1784104082",
+      "url": "https://store.steampowered.com/app/1875120/",
       "short_description": "",
-      "final_price": 399
+      "final_price": 119
     },
     {
-      "name": "Ambitious Road",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4429120/d1a03a89b62265192d4cbb33de76bdcacb710282/header.jpg?t=1784014719",
-      "url": "https://store.steampowered.com/app/4429120/",
+      "name": "\u4e3b\u89d2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4234260/505c23ffb66ed463e35d4a20f13f745dba0df855/header.jpg?t=1784102165",
+      "url": "https://store.steampowered.com/app/4234260/",
       "short_description": "",
-      "final_price": 1439
+      "final_price": 687
     },
     {
-      "name": "Mandir: Gods Untouched",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4361100/992bc557c5cc7fa2878a93d77ed89ed75c77d422/header.jpg?t=1784014983",
-      "url": "https://store.steampowered.com/app/4361100/",
+      "name": "Lux Anima",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4443160/d3d3e01233df12e8f05c9feeebde1ff23a7b143a/header.jpg?t=1784101711",
+      "url": "https://store.steampowered.com/app/4443160/",
+      "short_description": "",
+      "final_price": 360
+    },
+    {
+      "name": "HAMISH",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3983870/87ede458173566b84e0a77cc89941de6be371810/header.jpg?t=1784098872",
+      "url": "https://store.steampowered.com/app/3983870/",
+      "short_description": "",
+      "final_price": 1079
+    },
+    {
+      "name": "Galatria",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890720/da17485797f1d0003ed5c2df855a3bbd0bcfea69/header.jpg?t=1784096547",
+      "url": "https://store.steampowered.com/app/4890720/",
+      "short_description": "",
+      "final_price": 339
+    },
+    {
+      "name": "Railway Dispatcher",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282480/c7fd73ab1e850b967d7b525dc998b648d65e7308/header.jpg?t=1784094907",
+      "url": "https://store.steampowered.com/app/4282480/",
+      "short_description": "",
+      "final_price": 1079
+    },
+    {
+      "name": "Pleasure Room - Haunted Apartment",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3938800/1a771153083c867c0a8d0acb10bd74d5eee41395/header.jpg?t=1784094551",
+      "url": "https://store.steampowered.com/app/3938800/",
+      "short_description": "",
+      "final_price": 424
+    },
+    {
+      "name": "Ascension: The Infinite Descent",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4541610/d9f083126aca3b9d4a6b21b5e22d2eeae41a97d4/header.jpg?t=1784090494",
+      "url": "https://store.steampowered.com/app/4541610/",
+      "short_description": "",
+      "final_price": 1119
+    },
+    {
+      "name": "Trainz Simulator World Tour",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998560/e5fdc03182e9941e14ddb2ec133b2e8abd46db2c/header.jpg?t=1784089128",
+      "url": "https://store.steampowered.com/app/3998560/",
+      "short_description": "",
+      "final_price": 3999
+    },
+    {
+      "name": "ShareNote Engine",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549560/0d17daf01e364094579ba7a71159916ad0a784fe/header.jpg?t=1784087734",
+      "url": "https://store.steampowered.com/app/4549560/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Rogue Realm: Guardian Grids",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4645200/40d2fedea8210bbb0ba5c722f837219558bb1b17/header.jpg?t=1784002946",
-      "url": "https://store.steampowered.com/app/4645200/",
+      "name": "Edd Skeleton VR",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4389140/82eac957c33a7a111529a81921ebca92a7769b58/header.jpg?t=1784086266",
+      "url": "https://store.steampowered.com/app/4389140/",
       "short_description": "",
-      "final_price": 1039
-    },
-    {
-      "name": "Femme Fatality",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4682660/d7a15706caa114d3d82538a07e0c4bf17d0b01f2/header.jpg?t=1783996011",
-      "url": "https://store.steampowered.com/app/4682660/",
-      "short_description": "",
-      "final_price": 719
+      "final_price": 399
     }
   ]
 }
