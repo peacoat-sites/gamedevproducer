@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "items": [
     {
-      "name": "Mobsteria: Rise",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4886810/2ded4f367ce48bc1b36bec4f2e535ddbb85787a0/header.jpg?t=1784274599",
-      "url": "https://store.steampowered.com/app/4886810/",
+      "name": "ERODE",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1959020/b14f34e4eee39038a6129f8ad0158beb06de170e/header.jpg?t=1784360394",
+      "url": "https://store.steampowered.com/app/1959020/",
+      "short_description": "",
+      "final_price": 117
+    },
+    {
+      "name": "World Tree Ranch: Elven Legacy",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3586450/2c3049f0b41fc80976f4b0278043cfee861c289d/header.jpg?t=1784343604",
+      "url": "https://store.steampowered.com/app/3586450/",
+      "short_description": "",
+      "final_price": 1484
+    },
+    {
+      "name": "\u4e09\u56fd\uff1a\u8c0b\u5b9a\u5929\u4e0b",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542640/fb2c3041e71251456359876acfd5bf7d18e7df52/header.jpg?t=1784339593",
+      "url": "https://store.steampowered.com/app/4542640/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Touhou: Divine Land -Majesty in Game-",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3406890/cf6c0415f21023f6067080c400549f90ee2894b3/header.jpg?t=1784273459",
-      "url": "https://store.steampowered.com/app/3406890/",
+      "name": "Hentai World Health",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4893840/c64a6f7381bdf29f0a3bf4d00d4d97775435e95a/header.jpg?t=1784339026",
+      "url": "https://store.steampowered.com/app/4893840/",
       "short_description": "",
-      "final_price": 19450000
+      "final_price": 87
     },
     {
-      "name": "VOS: First Faiths",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832460/99bee21f0f4072a59db01c1260725d8284033c2a/header.jpg?t=1784273093",
-      "url": "https://store.steampowered.com/app/4832460/",
+      "name": "\u7570\u4e16\u754c\u62f7\u554f\u5b98 \u301c\u5fe0\u72ac\u5973\u9a0e\u58eb\u30ea\u30ea\u30a2\u306e\u7518\u7f8e\u306a\u308b\u5c48\u670d\u301c",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847680/fd1e62ff58035d5cbde36d8020105357c1aaa966/header.jpg?t=1784338227",
+      "url": "https://store.steampowered.com/app/4847680/",
       "short_description": "",
-      "final_price": 6950000
+      "final_price": 1229
     },
     {
-      "name": "FixForce",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3933150/942daaeb17c44bcf43fa167affacfd01f30e20ae/header.jpg?t=1784272867",
-      "url": "https://store.steampowered.com/app/3933150/",
+      "name": "Cat Climbing",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2965020/beec20f0f63caf0369957956ac393074ed9d78d8/header.jpg?t=1784336338",
+      "url": "https://store.steampowered.com/app/2965020/",
       "short_description": "",
-      "final_price": 12100000
+      "final_price": 369
     },
     {
-      "name": "Please One More Block",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132980/7b2c220961e96045dd596056e3282c5415df29db/header.jpg?t=1784275076",
-      "url": "https://store.steampowered.com/app/4132980/",
+      "name": "HOOK",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731310/4b737b9b3e3e7b5c69e1dfc9ae73bf19192f674f/header.jpg?t=1784335305",
+      "url": "https://store.steampowered.com/app/4731310/",
       "short_description": "",
-      "final_price": 1450000
+      "final_price": 519
     },
     {
-      "name": "Class of '09: Puzzle Showdown",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3861730/54be3d0d0c43bf121fd820382f975adc89921477/header.jpg?t=1784271634",
-      "url": "https://store.steampowered.com/app/3861730/",
-      "short_description": "",
-      "final_price": 27400000
-    },
-    {
-      "name": "Mallow & The Street of the Fallen",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4050550/b5821b145c9bee89855b06ef2844ff5584c98c65/header.jpg?t=1784269767",
-      "url": "https://store.steampowered.com/app/4050550/",
-      "short_description": "",
-      "final_price": 9700000
-    },
-    {
-      "name": "Pixel Texas Hold'em",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834490/59ceaf9d33d32c1eb0fc9010ce5a1d1b64ae4cf0/header.jpg?t=1784269331",
-      "url": "https://store.steampowered.com/app/4834490/",
+      "name": "Knights vs Aliens",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4805390/a800150ac145f5c35ee001fbcf4290466658bf2b/header.jpg?t=1784333304",
+      "url": "https://store.steampowered.com/app/4805390/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "\u5175\u738b",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4291090/70b7506071e18f6d5f7b846825e2ed66a823a9b8/header.jpg?t=1784267997",
-      "url": "https://store.steampowered.com/app/4291090/",
+      "name": "Vanya Online - Idle MMORPG",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866960/95fb17d20afe3ad9a1a48819a797f359e64199de/header.jpg?t=1784333020",
+      "url": "https://store.steampowered.com/app/4866960/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Absolute Legend",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899040/7809565fdc374efbe4f3a7367c9111e77cb5d23e/header.jpg?t=1784267683",
-      "url": "https://store.steampowered.com/app/4899040/",
+      "name": "Cult of Shadows",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3936450/fb30b336345ec492916c3e84eb923dad8b794d17/header.jpg?t=1784326613",
+      "url": "https://store.steampowered.com/app/3936450/",
       "short_description": "",
-      "final_price": 9650000
+      "final_price": 1479
     },
     {
-      "name": "Scroll Hold VR",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884700/7f89e3edb69dccbd59ae431790da87c55c57ff14/header.jpg?t=1784263904",
-      "url": "https://store.steampowered.com/app/4884700/",
+      "name": "STALZONE \u2014 Memories of STALCRAFT: X",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908670/18ff4300cd12ffee5e37c4d02d06dcd0525aa940/header.jpg?t=1784319741",
+      "url": "https://store.steampowered.com/app/4908670/",
       "short_description": "",
-      "final_price": 13450000
+      "final_price": 0
     },
     {
-      "name": "Dark and Darker - EAS10 Seasonal Pack",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4863550/9bb85e7fe03c27f6b150eaa3e0822cd1c56aa0a7/header.jpg?t=1784263621",
-      "url": "https://store.steampowered.com/app/4863550/",
+      "name": "Lured In",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4178020/ccbed6142b7749032d5d9cf308acab0f4fb75425/header.jpg?t=1784321180",
+      "url": "https://store.steampowered.com/app/4178020/",
       "short_description": "",
-      "final_price": 13600000
+      "final_price": 652
     }
   ]
 }
