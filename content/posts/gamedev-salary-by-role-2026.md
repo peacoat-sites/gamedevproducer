@@ -5,7 +5,7 @@ lastmod: 2026-07-08
 draft: false
 description: "2026 game dev salary benchmarks by role and seniority. Programmer, artist, designer, producer, QA pay ranges with market demand insights for US job seekers."
 image: "/img/heroes/901e04b3e0fb.jpg"
-categories: ["Careers"]
+categories: ["careers"]
 tags: ["comparison", "2026", "costs", "data"]
 author: "Ryan Cole"
 author_slug: "ryan-cole"

@@ -3,7 +3,7 @@ title: "Game Developer Salary Guide: What Do Game Devs Actually Earn?"
 image: "/img/heroes/5909791.jpg"
 slug: "game-developer-salary"
 date: 2026-06-10
-categories: ["Game Industry"]
+categories: ["industry intel"]
 description: "Explore real game developer salary ranges by role, experience level, studio size, and region with an interactive salary calculator."
 author: "Ryan Cole"
 lastmod: 2026-07-08

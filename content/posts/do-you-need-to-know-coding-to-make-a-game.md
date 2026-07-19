@@ -4,7 +4,7 @@ date: 2026-07-08T10:33:09.163110+00:00
 draft: false
 description: "Discover how to build a real game without writing code. Explore the best no-code tools, engines, and what beginners can realistically create today."
 image: "https://images.pexels.com/photos/9071745/pexels-photo-9071745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-categories: ["Engines and Tools"]
+categories: ["pm frameworks"]
 tags: ["need", "know", "coding", "make", "game"]
 author: "Samantha Roberts"
 author_slug: "samantha-roberts"

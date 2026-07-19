@@ -3,7 +3,7 @@ title: "Steam Revenue Calculator: Estimate Your Game's Earnings on Steam"
 image: "/img/heroes/7948037.jpg"
 slug: "steam-revenue-calculator"
 date: 2026-06-10
-categories: ["Game Business"]
+categories: ["industry intel"]
 description: "Use our free Steam revenue estimator to project your indie game's sales, developer net income, and revenue scenarios using the Boxleiter Method."
 author: "Ryan Cole"
 lastmod: 2026-07-08

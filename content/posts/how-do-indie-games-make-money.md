@@ -4,7 +4,7 @@ date: 2026-07-12T10:03:33.452968+00:00
 draft: false
 description: "From Steam sales to crowdfunding and merchandise, discover the real ways indie game developers earn a living from their passion projects."
 image: "/img/heroes/34803969.jpg"
-categories: ["Game Dev Business"]
+categories: ["industry intel"]
 tags: ["indie", "games", "make", "money"]
 author: "Priya Sharma"
 author_slug: "priya-sharma"

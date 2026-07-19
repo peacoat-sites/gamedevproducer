@@ -3,3 +3,12 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/engines-and-tools/ /categories/pm-frameworks/ 301
+/categories/game-business/ /categories/industry-intel/ 301
+/categories/game-dev-business/ /categories/industry-intel/ 301
+/categories/game-engines/ /categories/pm-frameworks/ 301
+/categories/game-industry/ /categories/industry-intel/ 301
+/categories/industry/ /categories/industry-intel/ 301
+/categories/tools/ /categories/pm-frameworks/ 301

@@ -4,7 +4,7 @@ date: 2026-07-10T11:25:13.188535+00:00
 draft: false
 description: "Choosing between Unity and Unreal Engine as a beginner? We break down ease of use, language, cost, and which engine fits your goals."
 image: "/img/heroes/31862218.jpg"
-categories: ["Engines and Tools"]
+categories: ["pm frameworks"]
 tags: ["unity", "unreal", "beginners"]
 author: "Samantha Roberts"
 author_slug: "samantha-roberts"

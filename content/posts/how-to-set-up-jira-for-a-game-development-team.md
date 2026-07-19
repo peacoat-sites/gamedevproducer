@@ -4,7 +4,7 @@ date: 2026-06-21T11:27:12.518137+00:00
 draft: false
 description: "Learn how to configure Jira for game development workflows, from sprint planning and bug tracking to asset management and milestone delivery."
 image: "/img/heroes/5569379.jpg"
-categories: ["tools"]
+categories: ["pm frameworks"]
 tags: ["jira", "game", "development", "team"]
 author: "Jordan Lee"
 author_slug: "jordan-lee"

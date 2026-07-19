@@ -4,7 +4,7 @@ date: 2026-06-14T18:32:33.980554+00:00
 draft: false
 description: "Telltale is back, but can it shed the crunch culture and mismanagement that doomed it before? We explore whether the revived studio has truly changed its ways."
 image: "/img/heroes/219377.jpg"
-categories: ["industry"]
+categories: ["industry intel"]
 tags: ["telltale", "return", "asks", "studios", "unlearn"]
 author: "Ryan Cole"
 author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."

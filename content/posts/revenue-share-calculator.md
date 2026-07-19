@@ -3,7 +3,7 @@ title: "Game Revenue Share Calculator: Split Revenue the Right Way"
 image: "/img/heroes/5942520.jpg"
 slug: "revenue-share-calculator"
 date: 2026-06-10
-categories: ["Game Business"]
+categories: ["industry intel"]
 description: "Calculate how game revenue splits between platforms, publishers, and team members, with recoupment thresholds and clear per-person payouts."
 author: "Ryan Cole"
 lastmod: 2026-07-08

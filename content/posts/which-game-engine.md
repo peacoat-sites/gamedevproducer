@@ -3,7 +3,7 @@ title: "Which Game Engine Is Right for You? Take the Quiz"
 image: "/img/heroes/2225616.jpg"
 slug: "which-game-engine-quiz"
 date: 2026-06-10
-categories: ["Game Engines"]
+categories: ["pm frameworks"]
 description: "Answer 7 questions to find the best game engine for your project, Godot, Unity, Unreal, GameMaker, Construct, Bevy, or Ren'Py, based on your goals and experience."
 author: "Ryan Cole"
 lastmod: 2026-07-07
