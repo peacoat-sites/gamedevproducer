@@ -1,156 +1,156 @@
 {
-  "updated": "2026-07-21",
+  "updated": "2026-07-22",
   "count": 25,
   "items": [
     {
+      "source": "Polygon",
+      "title": "X-Men 97 just brought back a little-known villain created 21 years ago by a controversial writer",
+      "url": "https://www.polygon.com/x-men-97-season-2-episode-6-danger-room-evil-ai/",
+      "date": "Wed, 22 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Star Trek: Strange New Worlds season 4 review: Gimmicks over character development",
+      "url": "https://www.polygon.com/star-trek-strange-new-worlds-season-4-review/",
+      "date": "Wed, 22 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "The Incident at Galley House review",
+      "url": "https://www.eurogamer.net/the-incident-at-galley-house-review",
+      "date": "Wed, 22 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Mortal Shell 2 sells out of physical Revered Edition PS5 pre-orders as players rush to buy the highly-anticipated game on disc",
+      "url": "https://www.eurogamer.net/mortal-shell-2-revered-edition-ps5-disc-sold-out",
+      "date": "Wed, 22 Ju"
+    },
+    {
+      "source": "IGN",
+      "title": "X-Men '97 Season 2, Episode 6 Review & Recap: \"Danger.exe\"",
+      "url": "https://www.ign.com/articles/x-men-97-season-2-episode-6-review-recap-danger-exe",
+      "date": "Wed, 22 Ju"
+    },
+    {
+      "source": "IGN",
+      "title": "PAX Aus 2026 Guest Lineup Includes Former WWE superstar Austin Creed, Doom Composer Mick Gordon, and More",
+      "url": "https://www.ign.com/articles/pax-aus-2026-guest-lineup-includes-former-wwe-superstar-austin-creed-doom-composer-mick-gordon-and-more",
+      "date": "Wed, 22 Ju"
+    },
+    {
+      "source": "IGN",
+      "title": "Wreckreation 2 Announced Despite Studio Closure, Just Nine Months After the Original Arrived",
+      "url": "https://www.ign.com/articles/wreckreation-2-announced-despite-studio-closure-just-nine-months-after-the-original-arrived",
+      "date": "Wed, 22 Ju"
+    },
+    {
+      "source": "IGN",
+      "title": "New Langrisser: Sea of Sword Trailer Provides First Look at Gameplay",
+      "url": "https://www.ign.com/articles/new-langrisser-sea-of-sword-trailer-provides-first-look-at-gameplay",
+      "date": "Wed, 22 Ju"
+    },
+    {
+      "source": "IGN",
+      "title": "Former Tekken Director Katsuhiro Harada Reveals He Totally Misunderstood What Getting Invited To the Cookout Meant After Fans Loved the Leroy Smith Reveal",
+      "url": "https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-reveals-he-totally-misunderstood-what-getting-invited-to-the-cookout-meant-after-fans-loved-the-leroy-smith-reveal",
+      "date": "Wed, 22 Ju"
+    },
+    {
       "source": "Game Developer",
-      "title": "Edge of Memories developer Midgar Studio is being liquidated",
-      "url": "https://www.gamedeveloper.com/business/edge-of-memories-developer-midgar-studio-is-being-liquidated",
+      "title": "Former Wreckreation team starts up new studio working on sequel",
+      "url": "https://www.gamedeveloper.com/business/former-wreckreation-team-starts-up-new-studio-working-on-sequel",
       "date": "Tue, 21 Ju"
     },
     {
       "source": "Game Developer",
-      "title": "Unity unveils Unity 7 roadmap with update path that won't break your build",
-      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-7-roadmap-with-update-path-that-won-t-break-your-build",
+      "title": "Pentiment director emphasizes the importance of RPG players not controlling everything",
+      "url": "https://www.gamedeveloper.com/design/pentiment-director-emphasizes-the-importance-of-rpg-players-not-controlling-everything",
+      "date": "Tue, 21 Ju"
+    },
+    {
+      "source": "Game Developer",
+      "title": "What developers can learn from this generation of game criticism",
+      "url": "https://www.gamedeveloper.com/design/what-developers-can-learn-from-this-generation-of-games-criticism",
+      "date": "Tue, 21 Ju"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Report: Splitgate dev 1047 games lays off staff",
+      "url": "https://www.gamedeveloper.com/business/report-splitgate-dev-1047-games-lays-off-staff",
+      "date": "Tue, 21 Ju"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Nintendo says consumers are not legally entitled to tariff refunds",
+      "url": "https://www.gamedeveloper.com/business/nintendo-says-consumers-are-not-legally-entitled-to-tariff-rebate",
+      "date": "Tue, 21 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Seamless No-Load-Screen Takeoffs Come To Starfield Three Years Later Thanks To Modder",
+      "url": "https://kotaku.com/seamless-no-load-screen-takeoffs-come-to-starfield-three-years-later-thanks-to-modder-2000718146",
+      "date": "Tue, 21 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Things Are So Bad Even Apple Is Implementing Buy Now, Pay Later Plans",
+      "url": "https://kotaku.com/things-are-so-bad-even-apple-is-implementing-buy-now-pay-later-plans-2000718171",
+      "date": "Tue, 21 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Xbox Game Pass Reveals Everything Else Besides Halo Getting Added July 2026",
+      "url": "https://kotaku.com/xbox-game-pass-reveals-everything-else-besides-halo-getting-added-july-2026-2000718151",
+      "date": "Tue, 21 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "There\u2019s Technically A Way To Get A Switch 2 For Just $400 Before Its Big Price Increase But It\u2019s Not Going To Last Long",
+      "url": "https://kotaku.com/theres-technically-a-way-to-get-a-switch-2-for-just-400-before-its-big-price-increase-but-its-not-going-to-last-long-2000718158",
+      "date": "Tue, 21 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "New Disney Layoffs Hit Pixar Hard Despite $1.2 Billion Box Office From Toy Story 5 And Hoppers",
+      "url": "https://kotaku.com/new-disney-layoffs-hit-pixar-hard-despite-1-2-billion-box-office-from-toy-story-5-and-hoppers-2000718134",
       "date": "Tue, 21 Ju"
     },
     {
       "source": "Polygon",
-      "title": "What time does Splatoon Raiders release in your time zone?",
-      "url": "https://www.polygon.com/splatoon-raiders-release-time-edt-pdt-preorder-preload/",
+      "title": "Alan Ritchson's 106-minute sci-fi action thriller is officially Netflix's biggest streaming hit of 2026",
+      "url": "https://www.polygon.com/netflix-biggest-movie-streaming-2026/",
       "date": "Tue, 21 Ju"
     },
     {
       "source": "Polygon",
-      "title": "Ridley Scott's $630 million sci-Fi masterpiece makes a comeback on streaming for 1 very obvious reason",
-      "url": "https://www.polygon.com/as-the-odyssey-conquers-the-box-office-another-great-matt-damon-film-is/",
+      "title": "Sam's Club Ascended Heroes Pok\u00e9mon TCG release was awful, employees say",
+      "url": "https://www.polygon.com/sams-club-pokemon-tcg-ascended-heroes-when-is-drop/",
       "date": "Tue, 21 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Despite outrage at Sony's shift towards a discless future, only seven PlayStation games have managed more than 100,000 physical sales in the US this year",
-      "url": "https://www.eurogamer.net/playstation-disc-sales--outrage-circana",
-      "date": "Tue, 21 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Modern Warfare 4 open and closed beta dates announced, including for Switch 2, alongside the return of Call of Duty: Next",
-      "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-beta-dates-switch-2-next",
-      "date": "Tue, 21 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "Leon Kennedy Voice Actor Says Metallica, Nirvana Helped Shape His Performance for the Resident Evil Character",
-      "url": "https://www.ign.com/articles/leon-kennedy-voice-actor-says-metallica-nirvana-helped-shape-his-performance-for-the-resident-evil-character",
-      "date": "Tue, 21 Ju"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Netflix says its critically-panned FIFA World Cup video game was a 'top tier' performer",
-      "url": "https://www.gamedeveloper.com/business/netflix-says-its-critically-panned-fifa-world-cup-video-game-was-a-big-success",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Two thirds of remaining Doom (2016) devs laid off during latest round of Xbox cuts",
-      "url": "https://www.gamedeveloper.com/production/two-thirds-of-doom-2016-development-team-laid-off-during-latest-round-of-xbox-cuts",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Reported Director Of Obsidian\u2019s Upcoming Fallout Game Says RPGS Are \u2018At Their Best\u2026When You Can\u2019t Control Everything\u2019",
-      "url": "https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Mobile Doom Dev Alpha Dog Games Reemerges As An Independent Studio Two Years After Microsoft Closed It",
-      "url": "https://kotaku.com/mighty-doom-dev-alpha-dog-games-independent-studio-2000717795",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Trump FDA Sends Mixed Signals About Diarrhea Lettuce",
-      "url": "https://kotaku.com/trump-fda-sends-mixed-signals-about-diarrhea-lettuce-2000717770",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "14 Classic Xbox 360 Games Are On Sale For Dirt Cheap Right Now",
-      "url": "https://kotaku.com/14-classic-xbox-360-games-are-on-sale-for-dirt-cheap-right-now-2000717632",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "I Watched District 9\u2032s Director\u2019s New, Awful AI-Generated Movie So You Don\u2019t Have To",
-      "url": "https://kotaku.com/district-9-director-ai-generated-short-film-nightborne-2000717745",
-      "date": "Mon, 20 Ju"
     },
     {
       "source": "Polygon",
-      "title": "New DC fighting game announced, but it's not Injustice 3",
-      "url": "https://www.polygon.com/dcko-fighting-game-mobile-announced-dicko-injustice-3/",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Fallout 5: Here are 10 adjustments Bethesda should make for an improved experience",
-      "url": "https://www.polygon.com/fallout-5-wishlist-features-we-want-to-see/",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Marvel Studios' Kevin Feige responds to Blade movie's failure",
-      "url": "https://www.polygon.com/marvel-blade-movie-update-kevin-feige/",
-      "date": "Mon, 20 Ju"
+      "title": "Disney lays off 100s of employees, with Pixar hit hard",
+      "url": "https://www.polygon.com/pixar-disney-layoffs-toy-story-5-hoppers/",
+      "date": "Tue, 21 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "Battlefield 6's newest and largest map is good, but I worry it will end up being nothing more than a curiosity",
-      "url": "https://www.eurogamer.net/battlefield-6-season-4-tsuru-reef-preview",
-      "date": "Mon, 20 Ju"
+      "title": "Darkest Dungeon is getting its first dollop of DLC in several years, as the gloomy old RPG celebrates its 10th birthday",
+      "url": "https://www.eurogamer.net/darkest-dungeon-the-fires-edge-dlc-reveal",
+      "date": "Tue, 21 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "After Doom director Hugo Martin denied reports that id Software had been gutted, \"current and former employees\" are disagreeing with his optimism",
-      "url": "https://www.eurogamer.net/id-software-developers-comments-hugo-martin-layoffs",
-      "date": "Mon, 20 Ju"
+      "title": "Jagex wants classic British point-and-click MMO RuneScape to be bigger than World of Warcraft",
+      "url": "https://www.eurogamer.net/jagex-runescape-bigger-than-world-of-warcraft",
+      "date": "Tue, 21 Ju"
     },
     {
       "source": "Eurogamer",
-      "title": "A religious war is raging right now, as people are dressing in robes and rushing into danger in Old School RuneScape",
-      "url": "https://www.eurogamer.net/religious-war-old-school-runescape",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "Kingdom Hearts Missing-Link Leak Has Fans Wishing Square Enix Hadn't Canceled Its Mobile Spinoff",
-      "url": "https://www.ign.com/articles/kingdom-hearts-missing-link-leak-has-fans-wishing-square-enix-hadnt-canceled-its-mobile-spinoff",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "Nier Creator Yoko Taro Mourns Death of Physical Media as PlayStation Plans to End Production of Game Discs",
-      "url": "https://www.ign.com/articles/nier-creator-yoko-taro-mourns-death-of-physical-media-as-playstation-plans-to-end-production-of-game-discs",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "Pick Up a Powerful and Infinitely Reusable Cordless Electric Air Duster for $19 After Coupon",
-      "url": "https://www.ign.com/articles/jufinx-cordless-electric-air-duster-deal-july-updated",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "This TSA-Compliant Daran 28,000mAh 100W LiFePO4 Power Station Drops to Just $48.57",
-      "url": "https://www.ign.com/articles/daran-28000mah-100w-lifepo4-power-station-deal-july",
-      "date": "Mon, 20 Ju"
-    },
-    {
-      "source": "Game Developer",
-      "title": "ZA/UM Studios to lay off up to 32 workers two months after releasing Zero Parades: For Dead Spies",
-      "url": "https://www.gamedeveloper.com/business/za-um-studios-to-lay-off-up-to-32-workers-two-months-after-releasing-zero-parades-for-dead-spies",
-      "date": "Fri, 17 Ju"
+      "title": "The FBI has arrested a 21-year-old alleged to have stolen $220,000 through Steam using malware-ridden games",
+      "url": "https://www.eurogamer.net/fbi-arrest-21-year-old-stolen-crypto-currency",
+      "date": "Tue, 21 Ju"
     }
   ]
 }
