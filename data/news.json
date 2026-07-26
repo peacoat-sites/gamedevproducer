@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "count": 25,
   "items": [
     {
@@ -15,69 +15,117 @@
       "date": "Thu, 23 Ju"
     },
     {
+      "source": "Polygon",
+      "title": "Marvel Studios Hall H panel: All the news, trailers, and reveals",
+      "url": "https://www.polygon.com/marvel-studios-hall-h-panel-news-everything-announced/",
+      "date": "Sun, 26 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Marvel casts a new Black Panther for Black Panther 3",
+      "url": "https://www.polygon.com/black-panther-3-announcement-marvel-comic-con/",
+      "date": "Sun, 26 Ju"
+    },
+    {
+      "source": "Polygon",
+      "title": "Ryan Gosling officially cast as Marvel's new Ghost Rider",
+      "url": "https://www.polygon.com/marvel-ghost-rider-movie-ryan-gosling-comic-con/",
+      "date": "Sun, 26 Ju"
+    },
+    {
+      "source": "IGN",
+      "title": "Kevin Feige Pushes Back at Criticisms That Dr. Doom Hasn't Had Thanos-Level Buildup",
+      "url": "https://www.ign.com/articles/kevin-feige-pushes-back-at-criticisms-that-dr-doom-hasnt-had-thanos-level-buildup",
+      "date": "Sun, 26 Ju"
+    },
+    {
+      "source": "IGN",
+      "title": "Winston Duke Confirms That Yes, He Really Did Improvise That Iconic Line In Black Panther",
+      "url": "https://www.ign.com/articles/winston-duke-confirms-that-yes-he-really-did-improvise-that-iconic-line-in-black-panther",
+      "date": "Sun, 26 Ju"
+    },
+    {
+      "source": "IGN",
+      "title": "'I Would Stay at That Haunted Inn' \u2014 Widow's Bay Cast and Crew Are Just as Attached to the Island as the Rest of Us | Comic Con 2026",
+      "url": "https://www.ign.com/articles/i-would-stay-at-that-haunted-inn-widows-bay-apple-tv-panel-hall-h-cast-and-crew-comic-con-2026",
+      "date": "Sun, 26 Ju"
+    },
+    {
+      "source": "IGN",
+      "title": "The 4 Biggest Mysteries From Marvel's Comic-Con Panel | Comic Con 2026",
+      "url": "https://www.ign.com/articles/the-4-biggest-mysteries-from-marvels-comic-con-panel-black-panther-deadpool-doomsday",
+      "date": "Sun, 26 Ju"
+    },
+    {
+      "source": "IGN",
+      "title": "Hayley Atwell Explains That Trailer With Steve Rogers Holding a Baby",
+      "url": "https://www.ign.com/articles/hayley-atwell-explains-that-trailer-with-steve-rogers-holding-a-baby",
+      "date": "Sun, 26 Ju"
+    },
+    {
       "source": "Kotaku",
-      "title": "God Of War Laufey Joins The Growing Pile Of February 2027 Game Releases",
-      "url": "https://kotaku.com/god-of-war-laufey-joins-the-growing-pile-of-february-2027-game-releases-2000719291",
+      "title": "Warren Spector\u2019s Thick As Thieves Ends Support After Two Months",
+      "url": "https://kotaku.com/warren-spectors-thick-as-thieves-ends-support-after-two-months-2000719337",
       "date": "Sat, 25 Ju"
     },
     {
       "source": "Kotaku",
-      "title": "The Next God Of War Is In Development, Stars Kratos, Will Tie Directly To Laufey",
-      "url": "https://kotaku.com/god-of-war-laufey-kratos-new-playstation-sdcc-2000719261",
+      "title": "The Tactical Tank Turns Splatoon Raiders Into Vampire Survivors",
+      "url": "https://kotaku.com/the-tactical-tank-turns-splatoon-raiders-into-vampire-survivors-2000719331",
       "date": "Sat, 25 Ju"
     },
     {
       "source": "Kotaku",
-      "title": "Dataminers Discover Xbox Backward Compatibility On PC Can Run Xbox 360 Games",
-      "url": "https://kotaku.com/xbox-360-pc-backwards-compatibility-microsoft-xefu-2000719199",
+      "title": "Multiple Meccha Chameleon Steam Workshop Maps Got Infected With Malware And Its Discord Server Was Hacked",
+      "url": "https://kotaku.com/multiple-meccha-chameleon-steam-workshop-maps-got-infected-with-malware-and-its-discord-server-was-hacked-2000719315",
+      "date": "Sat, 25 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Rare Nintendo Console Discovered Throughout Japanese Love Hotel",
+      "url": "https://kotaku.com/rare-nintendo-console-discovered-throughout-japanese-love-hotel-2000719317",
+      "date": "Sat, 25 Ju"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Bethesda Addresses Concerns That The Elder Scrolls 6 Will Be Impacted By Xbox Layoffs And Claims \u2018The Roadmap Is Unaffected\u2019",
+      "url": "https://kotaku.com/bethesda-addresses-concerns-that-the-elder-scrolls-6-will-be-impacted-by-xbox-layoffs-the-roadmap-is-unaffected-2000719305",
       "date": "Sat, 25 Ju"
     },
     {
       "source": "Polygon",
-      "title": "New God of War game starring Kratos announced at Comic-Con",
-      "url": "https://www.polygon.com/new-god-of-war-game-announced-kratos-laufey-release-date/",
+      "title": "Apple's Neuromancer trailer looks as good as the 42-year-old masterpiece",
+      "url": "https://www.polygon.com/apple-tv-neuromancer-trailer-2027-release/",
       "date": "Sat, 25 Ju"
     },
     {
       "source": "Polygon",
-      "title": "Amazon pushes back Tomb Raider: Catalyst's release day to 2028",
-      "url": "https://www.polygon.com/tomb-raider-catalyst-delayed-to-2028/",
+      "title": "John Cena's Matchbox The Movie trailer gives toy cars the Barbie treatment",
+      "url": "https://www.polygon.com/john-cenas-matchbox-movie-trailer-gives-the-toy-cars-the-barbie-treatment/",
+      "date": "Sat, 25 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Silent Hill f writers were challenged to read \"100-200 books a year\" during production",
+      "url": "https://www.eurogamer.net/silent-hill-f-writers-read-100-200-books-a-year-during-development",
+      "date": "Sat, 25 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Aliens: Fireteam Elite 2 confirms release date and it's closer than you think",
+      "url": "https://www.eurogamer.net/aliens-fireteam-elite-2-release-date-confirmed",
+      "date": "Sat, 25 Ju"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "God of War Laufey finally gets a release date - here's when you'll be able to play it",
+      "url": "https://www.eurogamer.net/god-of-war-laufey-release-date-confirmed",
       "date": "Sat, 25 Ju"
     },
     {
       "source": "Eurogamer",
       "title": "What we've been playing - \"Gosh I had a really fun 30 minutes with Marvel Tokon before PSN went down\"",
       "url": "https://www.eurogamer.net/what-weve-been-playing-marvel-tokon-psn-down",
-      "date": "Sat, 25 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "Spaceballs: The New One Creators on Making Mel Brooks' Yogurt CGI and Paying Tribute to John Candy | Comic Con 2026",
-      "url": "https://www.ign.com/articles/spaceballs-2-sdcc-panel-rick-moranis-mel-brooks",
-      "date": "Sat, 25 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "God of War Laufey Release Date Announced | Comic Con 2026",
-      "url": "https://www.ign.com/articles/god-of-war-laufey-release-date-announced-comic-con-2026",
-      "date": "Sat, 25 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "Next Kratos-Led God of War Game Is Coming After Laufey, and Connects Directly to Her Story | Comic Con 2026",
-      "url": "https://www.ign.com/articles/next-kratos-led-god-of-war-game-is-coming-after-laufey-and-connects-directly-to-her-story-comic-con-2026",
-      "date": "Sat, 25 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "American Caper From Absurd Ventures' Dan Houser Is Getting a Double-Sized Season Finale Issue #12 - Exclusive | Comic Con 2026",
-      "url": "https://www.ign.com/articles/american-caper-from-absurd-ventures-dan-houser-is-getting-a-double-sized-season-finale-issue-12-exclusive-comic-con-2026",
-      "date": "Sat, 25 Ju"
-    },
-    {
-      "source": "IGN",
-      "title": "Palworld Review",
-      "url": "https://www.ign.com/articles/palworld-review",
       "date": "Sat, 25 Ju"
     },
     {
@@ -99,57 +147,9 @@
       "date": "Fri, 24 Ju"
     },
     {
-      "source": "Kotaku",
-      "title": "Johnny Depp Promoting A Christmas Carol Prequel In July At Comic-Con Is Incredibly Embarrassing",
-      "url": "https://kotaku.com/johnny-depp-promoting-a-christmas-carol-prequel-in-july-at-comic-con-is-incredibly-embarrassing-2000719232",
-      "date": "Fri, 24 Ju"
-    },
-    {
-      "source": "Kotaku",
-      "title": "It Is Always Morally Correct To Say \u2018Booyah\u2019 In Splatoon",
-      "url": "https://kotaku.com/morally-correct-booyah-splatoon-2000719229",
-      "date": "Fri, 24 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Keanu Reeves' 4-part fantasy series is a perfect HBO Max binge hiding in plain sight",
-      "url": "https://www.polygon.com/john-wick-is-secretly-one-of-the-best-fantasy-franchises-of-the-last-decade/",
-      "date": "Fri, 24 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Dungeons & Dragons and World of Warcraft crossover leaks ahead of Gen Con",
-      "url": "https://www.polygon.com/dnd-wow-world-of-warcraft-dungeons-dragons-crossover-leak/",
-      "date": "Fri, 24 Ju"
-    },
-    {
-      "source": "Polygon",
-      "title": "Nintendo officially gives a huge Switch 2 makeover to its most underrated RPG",
-      "url": "https://www.polygon.com/xenoblade-chronicles-2-xc2-nw2-upgrade-pyra-mythra-outfits/",
-      "date": "Fri, 24 Ju"
-    },
-    {
       "source": "Eurogamer",
       "title": "Lara Croft can't catch a break: after delaying one Tomb Raider game, Amazon is delaying another and this one won't show up until 2028",
       "url": "https://www.eurogamer.net/tomb-raider-catalyst-delay-2028",
-      "date": "Fri, 24 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "It looks like we're getting a Halo 2 remake next, but is that really a surprise?",
-      "url": "https://www.eurogamer.net/halo-2-remake-tease-legendary-ending-campaign-evolved",
-      "date": "Fri, 24 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Amid the recent Xbox devastation, Microsoft is seemingly uncancelling something, which is good news for Age of Empires 3 fans at least",
-      "url": "https://www.eurogamer.net/microsoft-age-of-empires-3-dlc-uncancelled",
-      "date": "Fri, 24 Ju"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "A new Guild Wars 3 blog post spills the beans on the game's narrative focus, and perhaps even how magic will work in the upcoming MMORPG",
-      "url": "https://www.eurogamer.net/guild-wars-3-narrative-magic-signets-spirits",
       "date": "Fri, 24 Ju"
     }
   ]

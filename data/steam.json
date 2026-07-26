@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-25",
+  "updated": "2026-07-26",
   "items": [
     {
-      "name": "Sneaky Fishy",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4582530/fc81d99c57a24c252e2c2ff7883267f9f7029b29/header.jpg?t=1784964043",
-      "url": "https://store.steampowered.com/app/4582530/",
+      "name": "Escape from Junglekov",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409050/2c5f0ed60c8f0e0ccb45c3c7e788179edcc58a33/header.jpg?t=1785048261",
+      "url": "https://store.steampowered.com/app/4409050/",
       "short_description": "",
-      "final_price": 363
+      "final_price": 319
     },
     {
-      "name": "SurfaBeam - Projection Mapping",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617300/2048e9e83cf271e057bcb1c5964252b5af0f1c42/header.jpg?t=1784960355",
-      "url": "https://store.steampowered.com/app/4617300/",
+      "name": "Idylls of the Lunar Maria",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915430/header.jpg?t=1785045686",
+      "url": "https://store.steampowered.com/app/1915430/",
+      "short_description": "",
+      "final_price": 764
+    },
+    {
+      "name": "PACOSTEP",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602710/8ce03de61a626257b8a42d71cb3622ea71746ee6/header.jpg?t=1785034808",
+      "url": "https://store.steampowered.com/app/3602710/",
+      "short_description": "",
+      "final_price": 699
+    },
+    {
+      "name": "\u661f\u5b87\u6218\u8230 Astral-Battlecraft",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848460/1cebd3555d4068c0db1a41c279bd18ea510f2f79/header.jpg?t=1785029917",
+      "url": "https://store.steampowered.com/app/3848460/",
+      "short_description": "",
+      "final_price": 299
+    },
+    {
+      "name": "Piano High Score",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4378860/224ede239a9a46e3fdf507f8721f87e506f27260/header.jpg?t=1785008562",
+      "url": "https://store.steampowered.com/app/4378860/",
+      "short_description": "",
+      "final_price": 499
+    },
+    {
+      "name": "No Final Night: Protect The Sponk Can",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4921930/ca0bc946cf0c02bc805856efa4c46b35e8cd341e/header.jpg?t=1785005950",
+      "url": "https://store.steampowered.com/app/4921930/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "B-Prison Unchain",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395030/cece63d67940d08ef8aa5f86494d6fcff5ed7a58/header.jpg?t=1784942677",
-      "url": "https://store.steampowered.com/app/4395030/",
+      "name": "PAY WITH TIME",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914890/12ceafd18002bca182903a99bdc3489a2b0f47cf/header.jpg?t=1785005280",
+      "url": "https://store.steampowered.com/app/4914890/",
       "short_description": "",
-      "final_price": 735
+      "final_price": 899
     },
     {
-      "name": "PorBor",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3755100/40b5133d8abe04bccccd6aa3936dd5ea38841cda/header.jpg?t=1784941226",
-      "url": "https://store.steampowered.com/app/3755100/",
+      "name": "Yield to the Abyss",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824150/95809586692126a3966141fce45a4437d0646660/header.jpg?t=1785002648",
+      "url": "https://store.steampowered.com/app/4824150/",
       "short_description": "",
-      "final_price": 1024
+      "final_price": 419
     },
     {
-      "name": "Curse of The Lineage",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4039190/6a1df8e7dd6423b3fbe0bb8a7ce9180d15ec42d5/header.jpg?t=1784939820",
-      "url": "https://store.steampowered.com/app/4039190/",
+      "name": "4 Power Marble Race Manager",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601340/0d64dc8ba7e76aa1f4e830d5962e6928aca89e3f/header.jpg?t=1785000827",
+      "url": "https://store.steampowered.com/app/4601340/",
       "short_description": "",
-      "final_price": 514
+      "final_price": 339
     },
     {
-      "name": "Box Office Mayhem: Theatre Tycoon",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4572730/0b4f408b52fbdde09cd65df001380c10ccfb12c2/header.jpg?t=1784932212",
-      "url": "https://store.steampowered.com/app/4572730/",
+      "name": "VORTEX-G: Anti-Gravity Racing & Track Editor",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570010/9d4a3eaade99298b836c114e88d414d8086f1c1a/header.jpg?t=1785000197",
+      "url": "https://store.steampowered.com/app/4570010/",
       "short_description": "",
-      "final_price": 769
+      "final_price": 1299
     },
     {
-      "name": "Steel Crawlers",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4653890/008844fa84a53841e71d767fdfc10644bcbfa453/header.jpg?t=1784927678",
-      "url": "https://store.steampowered.com/app/4653890/",
+      "name": "Jack Bonecroft 4",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730350/78303f251d26efddb387bdd2ef3446b7c4bc7682/header.jpg?t=1784997273",
+      "url": "https://store.steampowered.com/app/4730350/",
       "short_description": "",
-      "final_price": 519
+      "final_price": 1299
     },
     {
-      "name": "Princess Knight Concedes to Cum",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565560/6412da8908e33d98450258ae77828adb7b7c2f12/header.jpg?t=1784926708",
-      "url": "https://store.steampowered.com/app/4565560/",
+      "name": "100 Dragon Cats",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/72b6a752e09bce7b6122b22711c43ba190fdd2e9/header.jpg?t=1784991198",
+      "url": "https://store.steampowered.com/app/4383080/",
       "short_description": "",
-      "final_price": 959
-    },
-    {
-      "name": "Find Us Cats",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3184730/ba04e70092b45cffdab4c6c1d9babde83bc9f3ef/header.jpg?t=1784947739",
-      "url": "https://store.steampowered.com/app/3184730/",
-      "short_description": "",
-      "final_price": 193
-    },
-    {
-      "name": "Hotel Infinity",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4893300/7c33960debb06f84a5e717ee8f025dbd22b12925/header.jpg?t=1784929711",
-      "url": "https://store.steampowered.com/app/4893300/",
-      "short_description": "",
-      "final_price": 220
-    },
-    {
-      "name": "Skelemancer TD",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4732330/c675148764f10edc153d9de89ea3a0ed2ef54758/header.jpg?t=1784921829",
-      "url": "https://store.steampowered.com/app/4732330/",
-      "short_description": "",
-      "final_price": 467
-    },
-    {
-      "name": "LOVE 2077",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877400/47f0e291396e72d848a4b4e537009fe9e6b01dca/header.jpg?t=1784920163",
-      "url": "https://store.steampowered.com/app/4877400/",
-      "short_description": "",
-      "final_price": 249
+      "final_price": 149
     }
   ]
 }
