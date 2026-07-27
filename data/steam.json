@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-26",
+  "updated": "2026-07-27",
   "items": [
     {
-      "name": "Escape from Junglekov",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4409050/2c5f0ed60c8f0e0ccb45c3c7e788179edcc58a33/header.jpg?t=1785048261",
-      "url": "https://store.steampowered.com/app/4409050/",
+      "name": "Spell Knight: Abyss Cleaver",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4432910/fe077a09bd423eb33b7189ce7911aaa67087324f/header.jpg?t=1785147211",
+      "url": "https://store.steampowered.com/app/4432910/",
       "short_description": "",
-      "final_price": 319
+      "final_price": 441
     },
     {
-      "name": "Idylls of the Lunar Maria",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1915430/header.jpg?t=1785045686",
-      "url": "https://store.steampowered.com/app/1915430/",
+      "name": "The Left Behind",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2433630/91f8b65fe52c4ef3b6eab62ece9a72b9d9953ba8/header.jpg?t=1785146377",
+      "url": "https://store.steampowered.com/app/2433630/",
       "short_description": "",
-      "final_price": 764
+      "final_price": 1012
     },
     {
-      "name": "PACOSTEP",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602710/8ce03de61a626257b8a42d71cb3622ea71746ee6/header.jpg?t=1785034808",
-      "url": "https://store.steampowered.com/app/3602710/",
-      "short_description": "",
-      "final_price": 699
-    },
-    {
-      "name": "\u661f\u5b87\u6218\u8230 Astral-Battlecraft",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848460/1cebd3555d4068c0db1a41c279bd18ea510f2f79/header.jpg?t=1785029917",
-      "url": "https://store.steampowered.com/app/3848460/",
-      "short_description": "",
-      "final_price": 299
-    },
-    {
-      "name": "Piano High Score",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4378860/224ede239a9a46e3fdf507f8721f87e506f27260/header.jpg?t=1785008562",
-      "url": "https://store.steampowered.com/app/4378860/",
-      "short_description": "",
-      "final_price": 499
-    },
-    {
-      "name": "No Final Night: Protect The Sponk Can",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4921930/ca0bc946cf0c02bc805856efa4c46b35e8cd341e/header.jpg?t=1785005950",
-      "url": "https://store.steampowered.com/app/4921930/",
+      "name": "Cosdarica's Journey at the End of the World",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3910590/66427c79ddec1757444b7314d7453e585f5b38f8/header.jpg?t=1785145748",
+      "url": "https://store.steampowered.com/app/3910590/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "PAY WITH TIME",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914890/12ceafd18002bca182903a99bdc3489a2b0f47cf/header.jpg?t=1785005280",
-      "url": "https://store.steampowered.com/app/4914890/",
+      "name": "Kinny and the Cosmic Cauldron",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3330210/420ad9a6550dd7174dfcf17f777f91b575e1c611/header.jpg?t=1785146776",
+      "url": "https://store.steampowered.com/app/3330210/",
       "short_description": "",
-      "final_price": 899
+      "final_price": 1011
     },
     {
-      "name": "Yield to the Abyss",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824150/95809586692126a3966141fce45a4437d0646660/header.jpg?t=1785002648",
-      "url": "https://store.steampowered.com/app/4824150/",
+      "name": "Royal Goldenbeak and the Curse of Snowy Island",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3390770/header.jpg?t=1785139662",
+      "url": "https://store.steampowered.com/app/3390770/",
       "short_description": "",
-      "final_price": 419
+      "final_price": 799
     },
     {
-      "name": "4 Power Marble Race Manager",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4601340/0d64dc8ba7e76aa1f4e830d5962e6928aca89e3f/header.jpg?t=1785000827",
-      "url": "https://store.steampowered.com/app/4601340/",
+      "name": "Infinite Ruins",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4317900/97f8c952ad4713a2978c362a02240e44873102cf/header.jpg?t=1785139382",
+      "url": "https://store.steampowered.com/app/4317900/",
       "short_description": "",
-      "final_price": 339
+      "final_price": 539
     },
     {
-      "name": "VORTEX-G: Anti-Gravity Racing & Track Editor",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570010/9d4a3eaade99298b836c114e88d414d8086f1c1a/header.jpg?t=1785000197",
-      "url": "https://store.steampowered.com/app/4570010/",
+      "name": "I'm Just a Wall",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938440/0bb5668a7336e5ed771386c97d483cb8a28a0348/header.jpg?t=1785139379",
+      "url": "https://store.steampowered.com/app/4938440/",
       "short_description": "",
-      "final_price": 1299
+      "final_price": 352
     },
     {
-      "name": "Jack Bonecroft 4",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4730350/78303f251d26efddb387bdd2ef3446b7c4bc7682/header.jpg?t=1784997273",
-      "url": "https://store.steampowered.com/app/4730350/",
+      "name": "Dragonkin: The Banished - War Ancestors Pack",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4844640/8c48dca5b7c86eaf7fe1c5a7b411617b3e9947d8/header.jpg?t=1785139183",
+      "url": "https://store.steampowered.com/app/4844640/",
       "short_description": "",
-      "final_price": 1299
+      "final_price": 399
     },
     {
-      "name": "100 Dragon Cats",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383080/72b6a752e09bce7b6122b22711c43ba190fdd2e9/header.jpg?t=1784991198",
-      "url": "https://store.steampowered.com/app/4383080/",
+      "name": "\u5929\u5929\u6597\u5730\u4e3b",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903450/f3b06ab4f285745c238b4c2b400dabf72cf5aa94/header.jpg?t=1785137586",
+      "url": "https://store.steampowered.com/app/4903450/",
       "short_description": "",
-      "final_price": 149
+      "final_price": 0
+    },
+    {
+      "name": "Unsent",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830090/5cebfa6e2660384db3113caf1f6b0f77b441175a/header.jpg?t=1785135660",
+      "url": "https://store.steampowered.com/app/4830090/",
+      "short_description": "",
+      "final_price": 109
+    },
+    {
+      "name": "The Political Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4942350/cb1788073d9f8ad4a107d7816ef61f5bb979941b/header.jpg?t=1785135633",
+      "url": "https://store.steampowered.com/app/4942350/",
+      "short_description": "",
+      "final_price": 944
+    },
+    {
+      "name": "Water Drop Brick Breaker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467920/d398cddefd22434f05482f7c0f0087339f28f2fe/header.jpg?t=1785135631",
+      "url": "https://store.steampowered.com/app/4467920/",
+      "short_description": "",
+      "final_price": 0
     }
   ]
 }
