@@ -1,126 +1,89 @@
 {
- "as_of": "2026-07-27",
- "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
- "games": [
-  {
-   "rank": 1,
-   "name": "Counter-Strike: Global Offensive",
-   "developer": "Valve",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 1013936,
-   "price": "Free"
-  },
-  {
-   "rank": 2,
-   "name": "PUBG: BATTLEGROUNDS",
-   "developer": "PUBG Corporation",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 314682,
-   "price": "Free"
-  },
-  {
-   "rank": 3,
-   "name": "Rust",
-   "developer": "Facepunch Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 143870,
-   "price": "$39.99"
-  },
-  {
-   "rank": 4,
-   "name": "Apex Legends",
-   "developer": "Respawn",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 124262,
-   "price": "Free"
-  },
-  {
-   "rank": 5,
-   "name": "Wallpaper Engine",
-   "developer": "Wallpaper Engine Team",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 91184,
-   "price": "$4.99"
-  },
-  {
-   "rank": 6,
-   "name": "Grand Theft Auto V Legacy",
-   "developer": "Rockstar North",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67851,
-   "price": "Free"
-  },
-  {
-   "rank": 7,
-   "name": "Call of Duty: Modern Warfare II",
-   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67419,
-   "price": "$38.49"
-  },
-  {
-   "rank": 8,
-   "name": "NARAKA: BLADEPOINT",
-   "developer": "24 Entertainment",
-   "owners": "10,000,000 - 20,000,000",
-   "ccu": 66954,
-   "price": "Free"
-  },
-  {
-   "rank": 9,
-   "name": "Baldur's Gate 3",
-   "developer": "Larian Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 54771,
-   "price": "$44.99"
-  },
-  {
-   "rank": 10,
-   "name": "HELLDIVERS 2",
-   "developer": "Arrowhead Game Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 53399,
-   "price": "$39.99"
-  },
-  {
-   "rank": 11,
-   "name": "Tom Clancy's Rainbow Six Siege",
-   "developer": "Ubisoft Montreal",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 51847,
-   "price": "$19.99"
-  },
-  {
-   "rank": 12,
-   "name": "Stardew Valley",
-   "developer": "ConcernedApe",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50662,
-   "price": "$14.99"
-  },
-  {
-   "rank": 13,
-   "name": "War Thunder",
-   "developer": "Gaijin Entertainment",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50478,
-   "price": "Free"
-  },
-  {
-   "rank": 14,
-   "name": "Dead by Daylight",
-   "developer": "Behaviour Interactive Inc.",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 44886,
-   "price": "$19.99"
-  },
-  {
-   "rank": 15,
-   "name": "Team Fortress 2",
-   "developer": "Valve",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 43819,
-   "price": "Free"
-  }
- ]
+  "updated": "2026-07-28",
+  "items": [
+    {
+      "name": "E-Shop Tycoon",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4249850/89c708329b69dfa7b088e8e90857ac252459848b/header.jpg?t=1785227970",
+      "url": "https://store.steampowered.com/app/4249850/",
+      "short_description": "",
+      "final_price": 12674
+    },
+    {
+      "name": "\u8be1\u5b85\u796d\u575b",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754090/7391ec1ba8dfd44f1e0dc5f4b812e42b66b33e31/header.jpg?t=1785222406",
+      "url": "https://store.steampowered.com/app/4754090/",
+      "short_description": "",
+      "final_price": 3075
+    },
+    {
+      "name": "Convent Chronicles: Revelation",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4056490/8f77e6b99bed47bfd8796a32c85b85d8bc56e420/header.jpg?t=1785214882",
+      "url": "https://store.steampowered.com/app/4056490/",
+      "short_description": "",
+      "final_price": 20499
+    },
+    {
+      "name": "Saved by the Coupon",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4154440/99180c0c19947132f7541c79c27980a4a51ef572/header.jpg?t=1785209586",
+      "url": "https://store.steampowered.com/app/4154440/",
+      "short_description": "",
+      "final_price": 5159
+    },
+    {
+      "name": "\u4e3b\u516c\u8acb\u8eba\u597d",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639770/d1393ee8a295c3dcdbb7a769ad2b8a6d21a03660/header.jpg?t=1785207688",
+      "url": "https://store.steampowered.com/app/4639770/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Secret Dice",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4667910/459fdf925a6c18085673dcd4ff58c365ea1ebbcc/header.jpg?t=1785206293",
+      "url": "https://store.steampowered.com/app/4667910/",
+      "short_description": "",
+      "final_price": 7399
+    },
+    {
+      "name": "Hamster, Eat, Run",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259520/fe8edf7c5a3db72e721aa90a4ab4a9f9cc4f579f/header.jpg?t=1785204018",
+      "url": "https://store.steampowered.com/app/4259520/",
+      "short_description": "",
+      "final_price": 5919
+    },
+    {
+      "name": "Slot & Dungeons",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3160090/a996abde483a0589817ab3590e9f39a75f791a7c/header.jpg?t=1785203135",
+      "url": "https://store.steampowered.com/app/3160090/",
+      "short_description": "",
+      "final_price": 9099
+    },
+    {
+      "name": "Tac-Tums: DreamQuest",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932470/287aa5c41bf3f2191e42747610d693dd49aff0ac/header.jpg?t=1785201262",
+      "url": "https://store.steampowered.com/app/4932470/",
+      "short_description": "",
+      "final_price": 3075
+    },
+    {
+      "name": "Zen World",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1485650/header.jpg?t=1785199967",
+      "url": "https://store.steampowered.com/app/1485650/",
+      "short_description": "",
+      "final_price": 11159
+    },
+    {
+      "name": "Mahou Arms",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165870/6c1afe80d85f46fced31c46bf7c194acd73e0174/header.jpg?t=1785203443",
+      "url": "https://store.steampowered.com/app/1165870/",
+      "short_description": "",
+      "final_price": 42299
+    },
+    {
+      "name": "Dungeon Tactics: Idle, Incremental, Autobattler",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194860/4723e5ebf2f86d650e4307fc46582b321df52b2d/header.jpg?t=1785191101",
+      "url": "https://store.steampowered.com/app/4194860/",
+      "short_description": "",
+      "final_price": 5159
+    }
+  ]
 }
