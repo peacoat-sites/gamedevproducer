@@ -1,89 +1,89 @@
 {
-  "updated": "2026-07-30",
+  "updated": "2026-07-31",
   "items": [
     {
-      "name": "Astro Burn",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3810660/b02be8ba22b25765fd8c50bc0329d18284a290f7/header.jpg?t=1785398679",
-      "url": "https://store.steampowered.com/app/3810660/",
+      "name": "\u901a\u68a6\u677f",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3867250/bbbb78190b31958357154495eecc3e27a44e84b9/header.jpg?t=1785488578",
+      "url": "https://store.steampowered.com/app/3867250/",
       "short_description": "",
-      "final_price": 799
+      "final_price": 483
     },
     {
-      "name": "GameControllerMouse",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4890420/51e19ccfe77ea3b1cfcfc3b93e70d620df796af4/header.jpg?t=1785397167",
-      "url": "https://store.steampowered.com/app/4890420/",
+      "name": "Keypad Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4904220/0d9227192310f046fd2b8a9d205fcbb5132b925a/header.jpg?t=1785488563",
+      "url": "https://store.steampowered.com/app/4904220/",
       "short_description": "",
-      "final_price": 279
+      "final_price": 283
     },
     {
-      "name": "Forgotten Isle",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4847300/6f09223d9a788b7416bd11ed881a4145261efac7/header.jpg?t=1785396042",
-      "url": "https://store.steampowered.com/app/4847300/",
+      "name": "PAW Patrol\ud83c\udd6a la Pat'Patrouille: Mission Dino",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3525790/ed8ac98933d4b892818fb145cd2b5939c63f6050/header_french.jpg?t=1785486047",
+      "url": "https://store.steampowered.com/app/3525790/",
       "short_description": "",
-      "final_price": 209
+      "final_price": 3999
     },
     {
-      "name": "House of Anomalies",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4568640/5bc0643c6c44ad9e85500a60773ee194baee83c3/header.jpg?t=1785394040",
-      "url": "https://store.steampowered.com/app/4568640/",
+      "name": "Erotic Clicker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4595400/dccacd19c16aa85f8b60550d57e406736fa7f08d/header.jpg?t=1785485019",
+      "url": "https://store.steampowered.com/app/4595400/",
       "short_description": "",
-      "final_price": 679
+      "final_price": 492
     },
     {
-      "name": "Bob Run",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4383980/96156a6266dd2d26f909e3ae803a56c84291b42c/header.jpg?t=1785392935",
-      "url": "https://store.steampowered.com/app/4383980/",
+      "name": "Manga Club Advisor wants to support Saeki Sasara",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4295960/3d08383b821d93e84d1b20df1c75cc667e5a11d6/header.jpg?t=1785484815",
+      "url": "https://store.steampowered.com/app/4295960/",
       "short_description": "",
-      "final_price": 254
+      "final_price": 1102
     },
     {
-      "name": "CipherMind",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3733860/bb14db1f189cade7c364be49b40795e3ccf3d2fc/header.jpg?t=1785391200",
-      "url": "https://store.steampowered.com/app/3733860/",
+      "name": "LUNAR",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804180/da1b41dc86559ff137795d26fdf42e08c8be1058/header.jpg?t=1785484450",
+      "url": "https://store.steampowered.com/app/4804180/",
       "short_description": "",
-      "final_price": 799
+      "final_price": 267
     },
     {
-      "name": "Town Master",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4848440/b932200aa9c2bf70807cc12a28eb7211916e7d21/header.jpg?t=1785388032",
-      "url": "https://store.steampowered.com/app/4848440/",
+      "name": "Medieval Market Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4416980/637c1a3805efc3e1177d931a3169ba4063897ed7/header.jpg?t=1785484228",
+      "url": "https://store.steampowered.com/app/4416980/",
+      "short_description": "",
+      "final_price": 919
+    },
+    {
+      "name": "Party Quiz",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2024070/a342b6006749e867dea305450a5dcc85cc238ad2/header.jpg?t=1785484067",
+      "url": "https://store.steampowered.com/app/2024070/",
+      "short_description": "",
+      "final_price": 1225
+    },
+    {
+      "name": "Lofi Cozy Room",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621450/92e4f619e8c3f62e9c26fa9902ae2701c9b4a88b/header.jpg?t=1785483886",
+      "url": "https://store.steampowered.com/app/4621450/",
+      "short_description": "",
+      "final_price": 1484
+    },
+    {
+      "name": "Poisson de bois \u00e9lectronique",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790970/c17a7c95950623fc8b40ea698e92fa43a387f46c/header.jpg?t=1785483575",
+      "url": "https://store.steampowered.com/app/4790970/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Hyper Warfare",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4683090/de1fa1d19125fbabc34428a8c5434a2d4ea34795/header.jpg?t=1785393215",
-      "url": "https://store.steampowered.com/app/4683090/",
+      "name": "The Farm of the Living",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856500/1a28423ee381e9ce4ff2f4979db807a03943d8eb/header.jpg?t=1785481505",
+      "url": "https://store.steampowered.com/app/4856500/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 373
     },
     {
-      "name": "Water Margin Online",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4808310/1f0b4e1673c3c8ff7a0d594f62bb55b6e85c4612/header.jpg?t=1785384879",
-      "url": "https://store.steampowered.com/app/4808310/",
+      "name": "Drone Core Command",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783860/9be46dc69387fdd4e84034664ec0c70174e7faff/header.jpg?t=1785481299",
+      "url": "https://store.steampowered.com/app/4783860/",
       "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Seventh Mansion: The First Escape",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4624310/e7a30ede6fca1bf2f21cdab4c219e357782698f7/header.jpg?t=1785383985",
-      "url": "https://store.steampowered.com/app/4624310/",
-      "short_description": "",
-      "final_price": 239
-    },
-    {
-      "name": "My Dating Empire",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4320160/65121de08847ec23c41e0b10a1e0c70c78a2260c/header.jpg?t=1785380562",
-      "url": "https://store.steampowered.com/app/4320160/",
-      "short_description": "",
-      "final_price": 1104
-    },
-    {
-      "name": "CREATION OF THE GODS: Rebellion at Five Passes",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3908250/9994be5968da6acda90dfe7ff7d9010a98482ada/header.jpg?t=1785381120",
-      "url": "https://store.steampowered.com/app/3908250/",
-      "short_description": "",
-      "final_price": 1274
+      "final_price": 922
     }
   ]
 }
