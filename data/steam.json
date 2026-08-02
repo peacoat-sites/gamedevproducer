@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-01",
+  "updated": "2026-08-02",
   "items": [
     {
-      "name": "NTR Hunter",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4458730/c6ca4f7a2ae7ce7d9e9ec2f79ab82fb4b736b9d7/header.jpg?t=1785559797",
-      "url": "https://store.steampowered.com/app/4458730/",
+      "name": "ScreenSaver Idle",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4621410/a0643a3f71fd0f46d0093197879e3052c57e8a20/header.jpg?t=1785640686",
+      "url": "https://store.steampowered.com/app/4621410/",
       "short_description": "",
-      "final_price": 1199
+      "final_price": 314
     },
     {
-      "name": "Law of Demons",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247690/56e9790b9e21040ca47f2d1de68ba4c6f5c48ad2/header.jpg?t=1785556818",
-      "url": "https://store.steampowered.com/app/4247690/",
+      "name": "Morphing Blocks",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790300/2dbb5fd842357b82b99ebf62398d141175302505/header.jpg?t=1785627576",
+      "url": "https://store.steampowered.com/app/4790300/",
       "short_description": "",
-      "final_price": 909
+      "final_price": 69
     },
     {
-      "name": "Dog Park",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821510/0b49dcf4b0343f24fffed35be083ada523ded2b8/header.jpg?t=1785553608",
-      "url": "https://store.steampowered.com/app/4821510/",
+      "name": "Ore & Odds",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4166740/0a23c9ff88535af6a47bdb44cabed10c2c41a53f/header.jpg?t=1785622139",
+      "url": "https://store.steampowered.com/app/4166740/",
+      "short_description": "",
+      "final_price": 479
+    },
+    {
+      "name": "TRAUMAHACK",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694660/7381d14f97be045352a7a4a30a0658149fdc5d7f/header.jpg?t=1785630002",
+      "url": "https://store.steampowered.com/app/4694660/",
+      "short_description": "",
+      "final_price": 599
+    },
+    {
+      "name": "Frebbventure Alliance",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3670260/8b4901e2a4f66212af964f5f37d1b4aedb26dd6c/header.jpg?t=1785609225",
+      "url": "https://store.steampowered.com/app/3670260/",
+      "short_description": "",
+      "final_price": 1399
+    },
+    {
+      "name": "Cover Story",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4828740/f1f021a17204be35f2e53f47ec96daa3953ee202/header.jpg?t=1785608034",
+      "url": "https://store.steampowered.com/app/4828740/",
+      "short_description": "",
+      "final_price": 419
+    },
+    {
+      "name": "Way of the Wind",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841560/242b30b861c8baf57ddb6c4f55b8c6b3083ea6f3/header.jpg?t=1785607001",
+      "url": "https://store.steampowered.com/app/4841560/",
+      "short_description": "",
+      "final_price": 224
+    },
+    {
+      "name": "Avoidvania",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1375440/header.jpg?t=1785606514",
+      "url": "https://store.steampowered.com/app/1375440/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "LAST STAND Apocalypse",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423700/22405ac7a59d77ae908b4462159473d11b17d12a/header.jpg?t=1785553205",
-      "url": "https://store.steampowered.com/app/4423700/",
+      "name": "Droned",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712720/d6fbc1406f4627a693aed3aadbba92e1a5a69241/header.jpg?t=1785605806",
+      "url": "https://store.steampowered.com/app/1712720/",
       "short_description": "",
-      "final_price": 1619
+      "final_price": 119
     },
     {
-      "name": "Daiying Slingshot",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4958760/f66fec1e9e4be7d754cded0a7ef4a7815da3e787/header.jpg?t=1785550925",
-      "url": "https://store.steampowered.com/app/4958760/",
+      "name": "Reawait",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4913180/2c9b0c6dc8174dfac2a77f66ad423f0b9254f1c4/header.jpg?t=1785602504",
+      "url": "https://store.steampowered.com/app/4913180/",
       "short_description": "",
-      "final_price": 799
+      "final_price": 524
     },
     {
-      "name": "Wartorn: A Visual Novel of the Ukraine War",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932480/221198dd2a62049ea5ce69227e665e0a2aeb2fbf/header.jpg?t=1785549398",
-      "url": "https://store.steampowered.com/app/4932480/",
+      "name": "101 Dogs Hidden in Paris",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949810/ea19de74c5a0ab8ba7d092bdc1bf1a122f4897fa/header.jpg?t=1785600314",
+      "url": "https://store.steampowered.com/app/4949810/",
       "short_description": "",
-      "final_price": 299
+      "final_price": 119
     },
     {
-      "name": "Cotimero",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4710550/ad515dd71ceeaaf2b8725106a1cb7ef66c0a0c58/header.jpg?t=1785544204",
-      "url": "https://store.steampowered.com/app/4710550/",
+      "name": "Emerald Flower",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380750/754776642b1c5d02e95478cdcb52712147ef6004/header.jpg?t=1785604132",
+      "url": "https://store.steampowered.com/app/4380750/",
       "short_description": "",
       "final_price": 59
-    },
-    {
-      "name": "IKANDY",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4813240/044bdac746e17c3d6c2af98ed113dc1f41ceef76/header.jpg?t=1785543654",
-      "url": "https://store.steampowered.com/app/4813240/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Moshcave",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838600/f96c29170cf0e87e045b010522c4e58577cdf204/header.jpg?t=1785543379",
-      "url": "https://store.steampowered.com/app/1838600/",
-      "short_description": "",
-      "final_price": 59
-    },
-    {
-      "name": "Schooled",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902420/5026fd2bc24696b61f6f3aeeaa667437dc431cf6/header.jpg?t=1785540216",
-      "url": "https://store.steampowered.com/app/4902420/",
-      "short_description": "",
-      "final_price": 399
-    },
-    {
-      "name": "The Unfamiliars",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4505680/53efa49c97227ed29edf981ac06812e52f4f2c26/header.jpg?t=1785538638",
-      "url": "https://store.steampowered.com/app/4505680/",
-      "short_description": "",
-      "final_price": 399
-    },
-    {
-      "name": "Dinofurie | The Dinosaur's Battle Royale",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4756740/33efcec16e189424bf7236fc8b3539848b2b2aeb/header.jpg?t=1785537220",
-      "url": "https://store.steampowered.com/app/4756740/",
-      "short_description": "",
-      "final_price": 0
     }
   ]
 }
