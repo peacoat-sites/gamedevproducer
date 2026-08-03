@@ -1,89 +1,126 @@
 {
-  "updated": "2026-08-03",
-  "items": [
-    {
-      "name": "Necro Echo",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727250/d91bbb38fffa88cf3e02ce8882fbe2044b613b83/header.jpg?t=1785747905",
-      "url": "https://store.steampowered.com/app/4727250/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Checkpoint64:  Manage your saves between friends",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4790820/7c5b19feab090e079996d96baf4c00734d4b5b0b/header.jpg?t=1785747705",
-      "url": "https://store.steampowered.com/app/4790820/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "SatelliteMemory\uff08\u30b5\u30c6\u30e9\u30a4\u30c8\u30e1\u30e2\u30ea\u30fc\uff09",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4956850/b87fa66f3690e9803e799fe6897b1bc0793b9801/header.jpg?t=1785747397",
-      "url": "https://store.steampowered.com/app/4956850/",
-      "short_description": "",
-      "final_price": 187
-    },
-    {
-      "name": "Flow Of War",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2637210/header.jpg?t=1785748732",
-      "url": "https://store.steampowered.com/app/2637210/",
-      "short_description": "",
-      "final_price": 1039
-    },
-    {
-      "name": "Voracity",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962080/d1cf749225d30aef3cdbcfdcd90473fa60f74fc4/header.jpg?t=1785743552",
-      "url": "https://store.steampowered.com/app/1962080/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "MoonCraft",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954590/386119572dcdf29cfc90ade119b050c0e26ba109/header.jpg?t=1785741717",
-      "url": "https://store.steampowered.com/app/4954590/",
-      "short_description": "",
-      "final_price": 499
-    },
-    {
-      "name": "Columbus",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967530/49b424d021be36277edc80add43d539011c99a02/header.jpg?t=1785741638",
-      "url": "https://store.steampowered.com/app/4967530/",
-      "short_description": "",
-      "final_price": 84
-    },
-    {
-      "name": "Unemployed Nightmare Together",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4945580/a29fe55d6d4fe065506f9d4a25c36e2524c0bfd2/header.jpg?t=1785740744",
-      "url": "https://store.steampowered.com/app/4945580/",
-      "short_description": "",
-      "final_price": 49
-    },
-    {
-      "name": "Robin Hood: Sherwood Valley",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4792610/594524e44f0537c636d9a2b6ac8e670dd6f55fe4/header.jpg?t=1785740638",
-      "url": "https://store.steampowered.com/app/4792610/",
-      "short_description": "",
-      "final_price": 999
-    },
-    {
-      "name": "Soul Siblings",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706800/7643eff852b1265f134c923067fc0fbade0afe9f/header.jpg?t=1785740440",
-      "url": "https://store.steampowered.com/app/4706800/",
-      "short_description": "",
-      "final_price": 599
-    },
-    {
-      "name": "Origin Story - Season 1",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3942470/3e5f3077e8a15eabfad7ed52c56c2ef5b873e366/header.jpg?t=1785743309",
-      "url": "https://store.steampowered.com/app/3942470/",
-      "short_description": "",
-      "final_price": 1299
-    },
-    {
-      "name": "BeWHEELdering",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4913630/3a725475ff22e10ae7a119497cf6a2308487483d/header.jpg?t=1785739052",
-      "url": "https://store.steampowered.com/app/4913630/",
-      "short_description": "",
-      "final_price": 319
-    }
-  ]
+ "as_of": "2026-08-03",
+ "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
+ "games": [
+  {
+   "rank": 1,
+   "name": "Counter-Strike: Global Offensive",
+   "developer": "Valve",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 1013936,
+   "price": "Free"
+  },
+  {
+   "rank": 2,
+   "name": "PUBG: BATTLEGROUNDS",
+   "developer": "PUBG Corporation",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 314682,
+   "price": "Free"
+  },
+  {
+   "rank": 3,
+   "name": "Rust",
+   "developer": "Facepunch Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 143870,
+   "price": "$19.99"
+  },
+  {
+   "rank": 4,
+   "name": "Apex Legends",
+   "developer": "Respawn",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 124262,
+   "price": "Free"
+  },
+  {
+   "rank": 5,
+   "name": "Wallpaper Engine",
+   "developer": "Wallpaper Engine Team",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 91184,
+   "price": "$4.99"
+  },
+  {
+   "rank": 6,
+   "name": "Grand Theft Auto V Legacy",
+   "developer": "Rockstar North",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 67851,
+   "price": "Free"
+  },
+  {
+   "rank": 7,
+   "name": "Call of Duty: Modern Warfare II",
+   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 67419,
+   "price": "$38.49"
+  },
+  {
+   "rank": 8,
+   "name": "NARAKA: BLADEPOINT",
+   "developer": "24 Entertainment",
+   "owners": "10,000,000 - 20,000,000",
+   "ccu": 66954,
+   "price": "Free"
+  },
+  {
+   "rank": 9,
+   "name": "Baldur's Gate 3",
+   "developer": "Larian Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 54771,
+   "price": "$44.99"
+  },
+  {
+   "rank": 10,
+   "name": "HELLDIVERS 2",
+   "developer": "Arrowhead Game Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 53399,
+   "price": "$39.99"
+  },
+  {
+   "rank": 11,
+   "name": "Tom Clancy's Rainbow Six Siege",
+   "developer": "Ubisoft Montreal",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 51847,
+   "price": "$19.99"
+  },
+  {
+   "rank": 12,
+   "name": "Stardew Valley",
+   "developer": "ConcernedApe",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 50662,
+   "price": "$14.99"
+  },
+  {
+   "rank": 13,
+   "name": "War Thunder",
+   "developer": "Gaijin Entertainment",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 50478,
+   "price": "Free"
+  },
+  {
+   "rank": 14,
+   "name": "Dead by Daylight",
+   "developer": "Behaviour Interactive Inc.",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 44886,
+   "price": "$19.99"
+  },
+  {
+   "rank": 15,
+   "name": "Team Fortress 2",
+   "developer": "Valve",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 43819,
+   "price": "Free"
+  }
+ ]
 }
