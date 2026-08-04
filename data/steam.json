@@ -1,126 +1,89 @@
 {
- "as_of": "2026-08-03",
- "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
- "games": [
-  {
-   "rank": 1,
-   "name": "Counter-Strike: Global Offensive",
-   "developer": "Valve",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 1013936,
-   "price": "Free"
-  },
-  {
-   "rank": 2,
-   "name": "PUBG: BATTLEGROUNDS",
-   "developer": "PUBG Corporation",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 314682,
-   "price": "Free"
-  },
-  {
-   "rank": 3,
-   "name": "Rust",
-   "developer": "Facepunch Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 143870,
-   "price": "$19.99"
-  },
-  {
-   "rank": 4,
-   "name": "Apex Legends",
-   "developer": "Respawn",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 124262,
-   "price": "Free"
-  },
-  {
-   "rank": 5,
-   "name": "Wallpaper Engine",
-   "developer": "Wallpaper Engine Team",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 91184,
-   "price": "$4.99"
-  },
-  {
-   "rank": 6,
-   "name": "Grand Theft Auto V Legacy",
-   "developer": "Rockstar North",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67851,
-   "price": "Free"
-  },
-  {
-   "rank": 7,
-   "name": "Call of Duty: Modern Warfare II",
-   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67419,
-   "price": "$38.49"
-  },
-  {
-   "rank": 8,
-   "name": "NARAKA: BLADEPOINT",
-   "developer": "24 Entertainment",
-   "owners": "10,000,000 - 20,000,000",
-   "ccu": 66954,
-   "price": "Free"
-  },
-  {
-   "rank": 9,
-   "name": "Baldur's Gate 3",
-   "developer": "Larian Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 54771,
-   "price": "$44.99"
-  },
-  {
-   "rank": 10,
-   "name": "HELLDIVERS 2",
-   "developer": "Arrowhead Game Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 53399,
-   "price": "$39.99"
-  },
-  {
-   "rank": 11,
-   "name": "Tom Clancy's Rainbow Six Siege",
-   "developer": "Ubisoft Montreal",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 51847,
-   "price": "$19.99"
-  },
-  {
-   "rank": 12,
-   "name": "Stardew Valley",
-   "developer": "ConcernedApe",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50662,
-   "price": "$14.99"
-  },
-  {
-   "rank": 13,
-   "name": "War Thunder",
-   "developer": "Gaijin Entertainment",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50478,
-   "price": "Free"
-  },
-  {
-   "rank": 14,
-   "name": "Dead by Daylight",
-   "developer": "Behaviour Interactive Inc.",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 44886,
-   "price": "$19.99"
-  },
-  {
-   "rank": 15,
-   "name": "Team Fortress 2",
-   "developer": "Valve",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 43819,
-   "price": "Free"
-  }
- ]
+  "updated": "2026-08-04",
+  "items": [
+    {
+      "name": "Let's Catch the Variable!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908850/2ef4397581ea529aeb6239810ad9e7567d6e0f9e/header.jpg?t=1785832813",
+      "url": "https://store.steampowered.com/app/4908850/",
+      "short_description": "",
+      "final_price": 1050000
+    },
+    {
+      "name": "DEADLINE",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968450/671b0d3d8d616bf8fc33877b45b8293ba4c9f284/header.jpg?t=1785830206",
+      "url": "https://store.steampowered.com/app/4968450/",
+      "short_description": "",
+      "final_price": 297000
+    },
+    {
+      "name": "Usurper Reborn",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4336570/3fcb9a0153cd9f4ecfc5fc823ae85760f60a04d9/header.jpg?t=1785827451",
+      "url": "https://store.steampowered.com/app/4336570/",
+      "short_description": "",
+      "final_price": 490000
+    },
+    {
+      "name": "Battle Marine Advance!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975370/97761cd0854dd1911a014a7f5a88d7abed7cbb53/header.jpg?t=1785827443",
+      "url": "https://store.steampowered.com/app/4975370/",
+      "short_description": "",
+      "final_price": 105000
+    },
+    {
+      "name": "Shadow Princess",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4975090/4bd0d50780ff1ac28270f5a67371f4deac7712fd/header.jpg?t=1785826967",
+      "url": "https://store.steampowered.com/app/4975090/",
+      "short_description": "",
+      "final_price": 105000
+    },
+    {
+      "name": "Super Friends Party",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1075140/header.jpg?t=1785816459",
+      "url": "https://store.steampowered.com/app/1075140/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "SUBS\u00d8NIC",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4779680/e76363610886e9378ba20c5a2a3eb697181f3f5a/header.jpg?t=1785813769",
+      "url": "https://store.steampowered.com/app/4779680/",
+      "short_description": "",
+      "final_price": 545000
+    },
+    {
+      "name": "Idle Immortal Sentinel",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4650490/6016b70db9112dd07cf0fed80b34677afd19f2c0/header.jpg?t=1785808817",
+      "url": "https://store.steampowered.com/app/4650490/",
+      "short_description": "",
+      "final_price": 264000
+    },
+    {
+      "name": "Beast of Reincarnation",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/d068139fe039e26a6a9d9f57ac5d89785b984d33/header.jpg?t=1785818525",
+      "url": "https://store.steampowered.com/app/2001760/",
+      "short_description": "",
+      "final_price": 7580000
+    },
+    {
+      "name": "The Outskirts",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936190/8693155fc6530dbc62235368729d84c5d8cf8249/header.jpg?t=1785814671",
+      "url": "https://store.steampowered.com/app/4936190/",
+      "short_description": "",
+      "final_price": 463000
+    },
+    {
+      "name": "Flies.",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4194520/f877115e8be0cc67a59d1f0686a0a3f80c6cda14/header.jpg?t=1785792357",
+      "url": "https://store.steampowered.com/app/4194520/",
+      "short_description": "",
+      "final_price": 340000
+    },
+    {
+      "name": "Huiyu Image Tools",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953760/ce732105ddf8b315e25cabc2991755509f7bc9e3/header.jpg?t=1785791821",
+      "url": "https://store.steampowered.com/app/4953760/",
+      "short_description": "",
+      "final_price": 198000
+    }
+  ]
 }
