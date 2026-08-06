@@ -1,65 +1,89 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "count": 25,
   "items": [
     {
       "source": "IGN",
-      "title": "Star Wars: Visions Presents - The Ninth Jedi Season 1 Review",
-      "url": "https://www.ign.com/articles/star-wars-visions-presents-the-ninth-jedi-season-1-review",
+      "title": "Marvel Tokon: Fighting Souls Review So Far",
+      "url": "https://www.ign.com/articles/marvel-tokon-fighting-souls-review",
       "date": "Wed, 5 Aug"
     },
     {
-      "source": "IGN",
-      "title": "Ted Lasso Season 4 Premiere Review",
-      "url": "https://www.ign.com/articles/ted-lasso-season-4-premiere-review",
-      "date": "Wed, 5 Aug"
+      "source": "Game Developer",
+      "title": "Publisher Secret Mode opens development studio to support internal projects",
+      "url": "https://www.gamedeveloper.com/business/publisher-secret-mode-opens-development-studio-to-support-internal-projects",
+      "date": "Wed, 05 Au"
     },
     {
-      "source": "IGN",
-      "title": "X-Men '97 Season 2, Episode 8 Review & Recap: \"Dead Man's Hand\"",
-      "url": "https://www.ign.com/articles/x-men-97-season-2-episode-8-review-recap-dead-mans-hand",
-      "date": "Wed, 5 Aug"
+      "source": "Game Developer",
+      "title": "Candy Crush maker King has declined staff's collective bargaining agreement",
+      "url": "https://www.gamedeveloper.com/business/candy-crush-maker-king-has-declined-staff-s-collective-bargaining-agreement",
+      "date": "Wed, 05 Au"
     },
     {
-      "source": "IGN",
-      "title": "Save $750 Off Gigabyte's Flagship AORUS Master Gaming Laptop With GeForce RTX 5070 Ti Graphics",
-      "url": "https://www.ign.com/articles/gigabyte-aorus-master-rtx-5070-ti-gaming-laptop-deal",
-      "date": "Wed, 5 Aug"
+      "source": "Game Developer",
+      "title": "Policymakers across Europe told to do more to support local game industry",
+      "url": "https://www.gamedeveloper.com/production/policymakers-across-europe-told-to-do-more-to-support-game-industry",
+      "date": "Wed, 05 Au"
     },
     {
-      "source": "IGN",
-      "title": "Original Grand Tour Hosts Jeremy Clarkson, Richard Hammond, and James May Will Cameo in the New Season",
-      "url": "https://www.ign.com/articles/original-grand-tour-hosts-jeremy-clarkson-richard-hammond-and-james-may-will-cameo-in-the-new-season",
-      "date": "Wed, 5 Aug"
+      "source": "Game Developer",
+      "title": "Coffee Stain bullish despite underperformance of Deep Rock Galactic spinoff",
+      "url": "https://www.gamedeveloper.com/business/coffee-stain-bullish-despite-underperformance-of-deep-rock-galactic-spinoff",
+      "date": "Wed, 05 Au"
     },
     {
-      "source": "Polygon",
-      "title": "X-Men Finally Solves a 33-Year-Old Mystery \u2014 and Changes the Meaning of an Iconic TV Episode",
-      "url": "https://www.polygon.com/x-men-97-x-ternal-external-gambit-explained/",
+      "source": "Kotaku",
+      "title": "Beast Of Reincarnation Isn\u2019t A Pok\u00e9mon Game, But It Kind Of Is",
+      "url": "https://kotaku.com/beast-of-reincarnation-creatures-animals-pokemon-rpg-2000722004",
+      "date": "Wed, 05 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Roblox Tanked $9 Billion In A Single Day After The Company Admitted It Was Directing Fewer Kids Toward Viral Games That \u2018Emphasize Short-Term Monetization\u2019",
+      "url": "https://kotaku.com/roblox-tanked-9-billion-in-a-single-day-after-the-company-admitted-it-was-directing-fewer-kids-toward-viral-games-that-emphasize-short-term-monetization-2000722002",
+      "date": "Wed, 05 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "The Critically Acclaimed Co-Op Adventure From The Maker Of Untitled Goose Game Is Forcing Players To Make Friends",
+      "url": "https://kotaku.com/the-critically-acclaimed-co-op-adventure-from-the-maker-of-untitled-goose-game-is-forcing-players-to-make-friends-2000721641",
+      "date": "Wed, 05 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Fallout 3 Dev Excited For The Remaster Because The Original Game\u2019s Visuals Were \u2018100 Percent Not What We Intended\u2019",
+      "url": "https://kotaku.com/fallout-3-dev-excited-for-the-remaster-because-the-original-games-visuals-were-100-percent-not-what-we-intended-2000721988",
+      "date": "Wed, 05 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "GOG\u2019s Big Shooter Sale Includes A Ton Of Great Games That Cost $10 Or Less",
+      "url": "https://kotaku.com/gogs-big-shooter-sale-includes-a-ton-of-great-games-that-cost-10-or-less-2000721970",
       "date": "Wed, 05 Au"
     },
     {
       "source": "Polygon",
-      "title": "Star Wars the Ninth Jedi Review: a New Hope for the Franchise, from an Unexpected Source",
-      "url": "https://www.polygon.com/the-ninth-jedi-review/",
+      "title": "Halo 4 Still Holds Up As The Best Halo Game Ever, 14 Years Later",
+      "url": "https://www.polygon.com/halo-4-best-halo-game/",
       "date": "Wed, 05 Au"
     },
     {
       "source": "Polygon",
-      "title": "Chris Pratt's 157-Minute Action Thriller Changed Hollywood Forever, and It's Streaming Now on Netflix",
-      "url": "https://www.polygon.com/chris-pratt-zero-dark-thirty-netflix-august-2026/",
+      "title": "Christopher Nolan Reveals Genius Reason He Cast Tom Holland in New 'Odyssey' Interview [Exclusive]",
+      "url": "https://www.polygon.com/the-odyssey-christopher-nolan-book-casting-interviews/",
+      "date": "Wed, 05 Au"
+    },
+    {
+      "source": "Polygon",
+      "title": "How to get a portal pod in Pok\u00e9mon Pokopia",
+      "url": "https://www.polygon.com/pokemon-pokopia-how-to-get-universal-storage-crafting-recipe/",
       "date": "Wed, 05 Au"
     },
     {
       "source": "Eurogamer",
-      "title": "\"Mass layoffs\" expected at EA, as $55bn buyout by Saudi Arabia's PIF and Donald Trump's son-in-law officially goes through",
-      "url": "https://www.eurogamer.net/ea-aquisition-55-complete-saudi-arabia-jared-kushner-private",
-      "date": "Wed, 05 Au"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Resident Evil Veronica remake already proving popular for Capcom, as wishlists reach an impressive milestone",
-      "url": "https://www.eurogamer.net/resident-evil-veronica-2-million-wishlists",
+      "title": "Gears of War: E-Day's upcoming weekend beta suddenly gets PvP due to fan demand",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-weekend-beta-pvp-versus",
       "date": "Wed, 05 Au"
     },
     {
@@ -69,88 +93,64 @@
       "date": "Tue, 04 Au"
     },
     {
-      "source": "Game Developer",
-      "title": "Devs raise $130,000 in just five days to support laid-off peers",
-      "url": "https://www.gamedeveloper.com/business/the-game-industry-hardship-fund-bundle-surpasses-130-000",
-      "date": "Tue, 04 Au"
+      "source": "IGN",
+      "title": "Nintendo Offers Free Repair Services to Anyone in Area Impacted by Deadly Earthquake",
+      "url": "https://www.ign.com/articles/nintendo-offers-free-repair-services-to-anyone-in-area-impacted-by-deadly-earthquake",
+      "date": "Thu, 6 Aug"
     },
     {
-      "source": "Game Developer",
-      "title": "Amid child safety lawsuits, Roblox says it 'continues' to push toward a standard for digital safety",
-      "url": "https://www.gamedeveloper.com/business/amid-child-safety-lawsuits-roblox-says-it-continues-to-set-a-standard-for-digital-safety",
-      "date": "Tue, 04 Au"
+      "source": "IGN",
+      "title": "'This Is Not Cool' \u2014 BMW Owners Are Annoyed Over a New Spider-Man Ad Forced Into Their Cars",
+      "url": "https://www.ign.com/articles/this-is-not-cool-bmw-owners-are-annoyed-over-a-new-spider-man-ad-forced-into-their-cars",
+      "date": "Thu, 6 Aug"
     },
     {
-      "source": "Game Developer",
-      "title": "Update: Tencent-owned Lightspeed LA lays off 68 staff",
-      "url": "https://www.gamedeveloper.com/business/tencent-owned-lightspeed-la-is-laying-off-staff",
-      "date": "Tue, 04 Au"
+      "source": "IGN",
+      "title": "The Odyssey Translator Emily Wilson Slams Christopher Nolan\u2019s Understanding of Zeus\u2019 Law",
+      "url": "https://www.ign.com/articles/emily-wilson-criticizes-christopher-nolan-the-odyssey-zeus-law",
+      "date": "Thu, 6 Aug"
     },
     {
-      "source": "Game Developer",
-      "title": "Live service revenue dominates in EA's last fiscal report ahead of Saudi deal",
-      "url": "https://www.gamedeveloper.com/business/live-service-revenue-dominates-in-ea-s-last-fiscal-report-ahead-of-saudi-merger",
-      "date": "Tue, 04 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "PSA: Final Fantasy 14 Is Out Now On Nintendo Switch 2 But You Don\u2019t Have To Buy It To Play",
-      "url": "https://kotaku.com/final-fantasy-14-free-trial-nintendo-switch-2-2000721658",
-      "date": "Tue, 04 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Game Of Thrones Author George R. R. Martin Shares A Very Sad Note",
-      "url": "https://kotaku.com/game-of-thrones-author-george-r-r-martin-shares-a-very-sad-note-2000721660",
-      "date": "Tue, 04 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Electronic Arts Officially Belongs To Saudi Arabia, Private Equity, And Jared Kushner Now",
-      "url": "https://kotaku.com/electronic-arts-officially-belongs-saudi-arabia-jared-kushner-now-2000721666",
-      "date": "Tue, 04 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "New Baldur\u2019s Gate 3 Player Stats Prove You\u2019re All Knife-Happy Bard Murderers",
-      "url": "https://kotaku.com/baldurs-gate-3-player-stats-alfira-murderers-dark-urge-2000721639",
-      "date": "Tue, 04 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "I (18F) Have A Giant Wolf (???M) Following Me Around And Scaring Me For Fun",
-      "url": "https://kotaku.com/beast-of-reincarnation-koo-dog-wolf-teleport-abilities-2000721649",
-      "date": "Tue, 04 Au"
+      "source": "IGN",
+      "title": "Google Is Killing Google Assistant on Android Devices Next Month",
+      "url": "https://www.ign.com/articles/google-is-killing-google-assistant-on-android-devices-next-month",
+      "date": "Thu, 6 Aug"
     },
     {
       "source": "Polygon",
-      "title": "Marvel T\u014dkon Fighting Souls release time in your time zone",
-      "url": "https://www.polygon.com/marvel-tokon-fighting-souls-release-time-when-edt-pdt/",
-      "date": "Tue, 04 Au"
+      "title": "The Movie That Warner Bros. Tried to Kill Officially Releases in Theaters in 3 Weeks",
+      "url": "https://www.polygon.com/coyote-vs-acme-release-date-looney-tunes/",
+      "date": "Thu, 06 Au"
     },
     {
       "source": "Polygon",
-      "title": "Baldur's Gate 3 devs share more wild statistics, like what NPCs died the most",
-      "url": "https://www.polygon.com/baldurs-gate-3-third-anniversary-statistics-npc-murder/",
-      "date": "Tue, 04 Au"
+      "title": "Xbox's layoffs hit Halo Studios despite Campaign Evolved's success",
+      "url": "https://www.polygon.com/halo-studios-layoffs-campaign-evolved/",
+      "date": "Thu, 06 Au"
     },
     {
       "source": "Eurogamer",
-      "title": "Sick of rage quitters? This indie dev has created a very funny answer to those inclined to tilt (and turn)",
-      "url": "https://www.eurogamer.net/indie-game-anti-rage-quit-window",
-      "date": "Tue, 04 Au"
+      "title": "Getting Ill: Understanding the grossest horror game in development and how it takes more than a few cues from Valve's seminal shooter Half-Life 2",
+      "url": "https://www.eurogamer.net/ill-horror-game-team-clout-half-life-2",
+      "date": "Thu, 06 Au"
     },
     {
       "source": "Eurogamer",
-      "title": "You can try the newly-launched Switch 2 port of Final Fantasy 14 for free, right now, if you have a spare 117GB",
-      "url": "https://www.eurogamer.net/final-fantasy-14-switch-2-space-free-trial",
-      "date": "Tue, 04 Au"
+      "title": "Halo Studios hit by layoffs after release of Halo: Campaign Evolved",
+      "url": "https://www.eurogamer.net/halo-studios-layoffs-campaign-evolved",
+      "date": "Thu, 06 Au"
     },
     {
       "source": "Eurogamer",
-      "title": "The developer behind Fifa World Cup - which launched less than two months ago - has laid off 85% of its staff",
-      "url": "https://www.eurogamer.net/fifa-world-cup-game-layoffs",
-      "date": "Tue, 04 Au"
+      "title": "Minecraft finally has a Switch 2 release date, but there may be bad news for Switch 1 owners",
+      "url": "https://www.eurogamer.net/minecraft-switch-2-release-date-upgrade-path",
+      "date": "Thu, 06 Au"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Diablo 4 may finally arrive on Switch 2 next month as a code-in-the-box physical version, according to reliable leaker",
+      "url": "https://www.eurogamer.net/diablo-4-switch-2-release-date-price-leak-code-in-box",
+      "date": "Thu, 06 Au"
     }
   ]
 }

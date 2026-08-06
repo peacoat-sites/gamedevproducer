@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-05",
+  "updated": "2026-08-06",
   "items": [
     {
-      "name": "Vealo - Clean Desktop",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940750/54ba9e071b56cc7b4ab8af558c7c6b83b1ffa685/header.jpg?t=1785919365",
-      "url": "https://store.steampowered.com/app/4940750/",
+      "name": "Fury of the Axe",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4692890/31ac616894a8bc4bfefe59583922212914b360d0/header.jpg?t=1786003880",
+      "url": "https://store.steampowered.com/app/4692890/",
+      "short_description": "",
+      "final_price": 1050000
+    },
+    {
+      "name": "Connie and the Essence of Chaos",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958210/5c6c4d0225e51a3b109e08909085523b1cec13cc/header.jpg?t=1786004562",
+      "url": "https://store.steampowered.com/app/2958210/",
+      "short_description": "",
+      "final_price": 2610000
+    },
+    {
+      "name": "Axion Racer",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924800/8ac9a1e9dca072cfc4271895294511f0df6b1c02/header.jpg?t=1786001769",
+      "url": "https://store.steampowered.com/app/4924800/",
+      "short_description": "",
+      "final_price": 1360000
+    },
+    {
+      "name": "Dopamine Eggs",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967270/d348c6905279faae4b30c71fcf3a74e9494eb820/header.jpg?t=1785999749",
+      "url": "https://store.steampowered.com/app/4967270/",
+      "short_description": "",
+      "final_price": 760000
+    },
+    {
+      "name": "Summoner's Gambit",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570110/fb1302e609a4f4a86e2b0da3b08caedf2245571a/header.jpg?t=1785999812",
+      "url": "https://store.steampowered.com/app/3570110/",
+      "short_description": "",
+      "final_price": 783000
+    },
+    {
+      "name": "Doloc Town",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285550/6c2919e6f64b0efa4976b0bfc4864893508da68a/header_alt_assets_1.jpg?t=1785999596",
+      "url": "https://store.steampowered.com/app/2285550/",
+      "short_description": "",
+      "final_price": 1600000
+    },
+    {
+      "name": "Doloc Town Original Soundtrack",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617060/b746dd54e7b9ecf66c3876aa4ab246bd9480b51e/header.jpg?t=1785998161",
+      "url": "https://store.steampowered.com/app/3617060/",
+      "short_description": "",
+      "final_price": 275000
+    },
+    {
+      "name": "Doloc Town - Digital Artbook",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864710/df67e58a32473644a1651aaf5cabc357e34b6d5d/header.jpg?t=1785998138",
+      "url": "https://store.steampowered.com/app/4864710/",
+      "short_description": "",
+      "final_price": 330000
+    },
+    {
+      "name": "Dere Quintet",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776130/e9744acad0bab2160a18045d227c73944737089b/header.jpg?t=1785998899",
+      "url": "https://store.steampowered.com/app/4776130/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "TasteJump",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962090/2acc2380a990f4e308cad08baa03aa860ee195a1/header.jpg?t=1785918903",
-      "url": "https://store.steampowered.com/app/4962090/",
+      "name": "Nexfall",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754960/25d212fbbb5d1e5053526bda1e54852b8c6b4b15/header.jpg?t=1785991367",
+      "url": "https://store.steampowered.com/app/4754960/",
       "short_description": "",
-      "final_price": 499
+      "final_price": 684000
     },
     {
-      "name": "\u6a39\u4e16\u754c\uff1a\u96f2\u7aef\u5e87\u8b77\u6240",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4777900/7df82f2ffa21070bd23301bd7aaf4a2929c29c5d/header.jpg?t=1785917251",
-      "url": "https://store.steampowered.com/app/4777900/",
+      "name": "ALPARGUN",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954660/d41ba7aa5d65219d66da4609f1e3f8ccf26d0e3d/header.jpg?t=1785988818",
+      "url": "https://store.steampowered.com/app/4954660/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 463000
     },
     {
-      "name": "Slotlocked",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952440/eb145cdf6ea6e9120a3ff2810120a3236f8ec32d/header.jpg?t=1785916176",
-      "url": "https://store.steampowered.com/app/4952440/",
+      "name": "Black Saint: Goku",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832440/964e187c3391e5a0b0197e0f046e074229ead976/header.jpg?t=1785988727",
+      "url": "https://store.steampowered.com/app/4832440/",
       "short_description": "",
-      "final_price": 332
-    },
-    {
-      "name": "Incremental Birds",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965770/11336616e7d7b31acef176d36722c3ed76c96023/header.jpg?t=1785916124",
-      "url": "https://store.steampowered.com/app/4965770/",
-      "short_description": "",
-      "final_price": 65
-    },
-    {
-      "name": "\u5bb9\u5668",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855650/ff89ae9de9c9f5772ca533474f926585f3feed30/header.jpg?t=1785914484",
-      "url": "https://store.steampowered.com/app/3855650/",
-      "short_description": "",
-      "final_price": 611
-    },
-    {
-      "name": "corectl",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963500/482dd805297ab79e26504fd608d7b4d7394c7353/header.jpg?t=1785913389",
-      "url": "https://store.steampowered.com/app/4963500/",
-      "short_description": "",
-      "final_price": 415
-    },
-    {
-      "name": "Glamour Kaleidoscope",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3436280/3d1820b748f6b940b5c199c2fda2c3521582bf89/header.jpg?t=1785913345",
-      "url": "https://store.steampowered.com/app/3436280/",
-      "short_description": "",
-      "final_price": 733
-    },
-    {
-      "name": "\u3086\u308b\u3086\u308b\u751f\u914d\u4fe1\u3059\u308b\u63a8\u3057\u306f100\u4e07\u56de\u6b7b\u306c\uff5cMy Fav Chill Streamer Dies a Million Times",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3507880/3f07170a22dc2025f8babcb2a790771ad7d05bc1/header.jpg?t=1785913762",
-      "url": "https://store.steampowered.com/app/3507880/",
-      "short_description": "",
-      "final_price": 3194
-    },
-    {
-      "name": "Lust Story",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4851740/1e94d78093e927be3fda28f9873e738a9636741e/header.jpg?t=1785910534",
-      "url": "https://store.steampowered.com/app/4851740/",
-      "short_description": "",
-      "final_price": 352
-    },
-    {
-      "name": "World's Greatest Author",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4414640/3b7c69a5a8160ec5680f98670df24bafae2e395b/header.jpg?t=1785909996",
-      "url": "https://store.steampowered.com/app/4414640/",
-      "short_description": "",
-      "final_price": 679
-    },
-    {
-      "name": "Speedy Gun Savage",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530370/header.jpg?t=1785909149",
-      "url": "https://store.steampowered.com/app/1530370/",
-      "short_description": "",
-      "final_price": 163
+      "final_price": 308000
     }
   ]
 }
