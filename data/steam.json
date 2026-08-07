@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-06",
+  "updated": "2026-08-07",
   "items": [
     {
-      "name": "Fury of the Axe",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4692890/31ac616894a8bc4bfefe59583922212914b360d0/header.jpg?t=1786003880",
-      "url": "https://store.steampowered.com/app/4692890/",
+      "name": "Hearse Hero",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159710/d90d22519b803a33f4c1f7a2f7330e17db84e490/header.jpg?t=1786085165",
+      "url": "https://store.steampowered.com/app/4159710/",
       "short_description": "",
-      "final_price": 1050000
+      "final_price": 2550
     },
     {
-      "name": "Connie and the Essence of Chaos",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958210/5c6c4d0225e51a3b109e08909085523b1cec13cc/header.jpg?t=1786004562",
-      "url": "https://store.steampowered.com/app/2958210/",
-      "short_description": "",
-      "final_price": 2610000
-    },
-    {
-      "name": "Axion Racer",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924800/8ac9a1e9dca072cfc4271895294511f0df6b1c02/header.jpg?t=1786001769",
-      "url": "https://store.steampowered.com/app/4924800/",
-      "short_description": "",
-      "final_price": 1360000
-    },
-    {
-      "name": "Dopamine Eggs",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967270/d348c6905279faae4b30c71fcf3a74e9494eb820/header.jpg?t=1785999749",
-      "url": "https://store.steampowered.com/app/4967270/",
-      "short_description": "",
-      "final_price": 760000
-    },
-    {
-      "name": "Summoner's Gambit",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570110/fb1302e609a4f4a86e2b0da3b08caedf2245571a/header.jpg?t=1785999812",
-      "url": "https://store.steampowered.com/app/3570110/",
-      "short_description": "",
-      "final_price": 783000
-    },
-    {
-      "name": "Doloc Town",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285550/6c2919e6f64b0efa4976b0bfc4864893508da68a/header_alt_assets_1.jpg?t=1785999596",
-      "url": "https://store.steampowered.com/app/2285550/",
-      "short_description": "",
-      "final_price": 1600000
-    },
-    {
-      "name": "Doloc Town Original Soundtrack",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617060/b746dd54e7b9ecf66c3876aa4ab246bd9480b51e/header.jpg?t=1785998161",
-      "url": "https://store.steampowered.com/app/3617060/",
-      "short_description": "",
-      "final_price": 275000
-    },
-    {
-      "name": "Doloc Town - Digital Artbook",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4864710/df67e58a32473644a1651aaf5cabc357e34b6d5d/header.jpg?t=1785998138",
-      "url": "https://store.steampowered.com/app/4864710/",
-      "short_description": "",
-      "final_price": 330000
-    },
-    {
-      "name": "Dere Quintet",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4776130/e9744acad0bab2160a18045d227c73944737089b/header.jpg?t=1785998899",
-      "url": "https://store.steampowered.com/app/4776130/",
+      "name": "Cozy Cat Match",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898360/8348a2394a3068d4d623e6e34628a9758c795e96/header.jpg?t=1786084938",
+      "url": "https://store.steampowered.com/app/4898360/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Nexfall",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4754960/25d212fbbb5d1e5053526bda1e54852b8c6b4b15/header.jpg?t=1785991367",
-      "url": "https://store.steampowered.com/app/4754960/",
+      "name": "The Dare",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428150/fd9825cc3085f35184efec5d154c0a4c0b0bbc94/header.jpg?t=1786083930",
+      "url": "https://store.steampowered.com/app/4428150/",
       "short_description": "",
-      "final_price": 684000
+      "final_price": 3300
     },
     {
-      "name": "ALPARGUN",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954660/d41ba7aa5d65219d66da4609f1e3f8ccf26d0e3d/header.jpg?t=1785988818",
-      "url": "https://store.steampowered.com/app/4954660/",
+      "name": "Mindscape",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875250/1753c40bc531a47d846b233d4c039e29991057f9/header.jpg?t=1786082607",
+      "url": "https://store.steampowered.com/app/4875250/",
       "short_description": "",
-      "final_price": 463000
+      "final_price": 1440
     },
     {
-      "name": "Black Saint: Goku",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832440/964e187c3391e5a0b0197e0f046e074229ead976/header.jpg?t=1785988727",
-      "url": "https://store.steampowered.com/app/4832440/",
+      "name": "H.P Supernatural Event Archives",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139670/f9f683c2c959a65bb22b8bb91e0eba0118d5a4c9/header.jpg?t=1786077597",
+      "url": "https://store.steampowered.com/app/3139670/",
       "short_description": "",
-      "final_price": 308000
+      "final_price": 4640
+    },
+    {
+      "name": "No Thoughts Just Dodge",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980850/5c968f8a8b56ad9502595d2e8fee8a85552ff1b6/header.jpg?t=1786076204",
+      "url": "https://store.steampowered.com/app/4980850/",
+      "short_description": "",
+      "final_price": 1440
+    },
+    {
+      "name": "\u65e5\u672c\u4e8b\u6545\u7269\u4ef6\u76e3\u8996\u5354\u4f1a3 -Japan Stigmatized Property-",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611990/e59424ec894f20a4b1b13809362f290bceaa0162/header.jpg?t=1786075478",
+      "url": "https://store.steampowered.com/app/4611990/",
+      "short_description": "",
+      "final_price": 5300
+    },
+    {
+      "name": "The Forbidden Tomes of Olipos",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466090/1fffddc9b4bc19030cb55ffd980b33cfe1c1faf5/header.jpg?t=1786086458",
+      "url": "https://store.steampowered.com/app/4466090/",
+      "short_description": "",
+      "final_price": 5200
+    },
+    {
+      "name": "PHOFACE",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246140/c018af99ef7122eed31c4bf255cb8a2f5a6afbd4/header.jpg?t=1786075612",
+      "url": "https://store.steampowered.com/app/4246140/",
+      "short_description": "",
+      "final_price": 700
+    },
+    {
+      "name": "SPACE DASHER",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4885310/c8f2b47a122e6a41ee589b3afc2ed917430a8cac/header.jpg?t=1786073078",
+      "url": "https://store.steampowered.com/app/4885310/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Marie's Adventure",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819360/a4a2ef705f79e8f6359e67e8cbf9013f6961292c/header.jpg?t=1786071645",
+      "url": "https://store.steampowered.com/app/4819360/",
+      "short_description": "",
+      "final_price": 8912
+    },
+    {
+      "name": "Hololive Fantasy Battle",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003770/a6d6899aec90523bc04f48c34f7bd2435ab7a9df/header.jpg?t=1786071087",
+      "url": "https://store.steampowered.com/app/4003770/",
+      "short_description": "",
+      "final_price": 7596
     }
   ]
 }
