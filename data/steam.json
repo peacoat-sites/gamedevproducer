@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-07",
+  "updated": "2026-08-08",
   "items": [
     {
-      "name": "Hearse Hero",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159710/d90d22519b803a33f4c1f7a2f7330e17db84e490/header.jpg?t=1786085165",
-      "url": "https://store.steampowered.com/app/4159710/",
+      "name": "Penguin Quest",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389490/c008eb7f3adde5e8a2eb0b9331ad19257bcbaa06/header.jpg?t=1786170204",
+      "url": "https://store.steampowered.com/app/3389490/",
       "short_description": "",
-      "final_price": 2550
+      "final_price": 224
     },
     {
-      "name": "Cozy Cat Match",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898360/8348a2394a3068d4d623e6e34628a9758c795e96/header.jpg?t=1786084938",
-      "url": "https://store.steampowered.com/app/4898360/",
+      "name": "\u5929\u4eae\u4e4b\u540e",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838500/260719f774626cea05c473a23556ea587fe1bab5/header.jpg?t=1786165555",
+      "url": "https://store.steampowered.com/app/4838500/",
+      "short_description": "",
+      "final_price": 509
+    },
+    {
+      "name": "Comet Dudes",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960190/417c2134af3aea04381c1b1367a64cd30837d877/header.jpg?t=1786158076",
+      "url": "https://store.steampowered.com/app/4960190/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "The Dare",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4428150/fd9825cc3085f35184efec5d154c0a4c0b0bbc94/header.jpg?t=1786083930",
-      "url": "https://store.steampowered.com/app/4428150/",
+      "name": "Alice and the Devil's Prison",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145350/d5b52eb953acb402c627006b5118b398118b9477/header.jpg?t=1786158008",
+      "url": "https://store.steampowered.com/app/4145350/",
       "short_description": "",
-      "final_price": 3300
+      "final_price": 1259
     },
     {
-      "name": "Mindscape",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875250/1753c40bc531a47d846b233d4c039e29991057f9/header.jpg?t=1786082607",
-      "url": "https://store.steampowered.com/app/4875250/",
+      "name": "Lilim Clicker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071500/205037e48be34180a6a177feb25c8a85f4e3e1be/header.jpg?t=1786153817",
+      "url": "https://store.steampowered.com/app/4071500/",
       "short_description": "",
-      "final_price": 1440
+      "final_price": 639
     },
     {
-      "name": "H.P Supernatural Event Archives",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3139670/f9f683c2c959a65bb22b8bb91e0eba0118d5a4c9/header.jpg?t=1786077597",
-      "url": "https://store.steampowered.com/app/3139670/",
+      "name": "Deflect",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914740/44613c5b3ebaddad25079ee836a9eb5113957ed2/header.jpg?t=1786154262",
+      "url": "https://store.steampowered.com/app/4914740/",
       "short_description": "",
-      "final_price": 4640
+      "final_price": 499
     },
     {
-      "name": "No Thoughts Just Dodge",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980850/5c968f8a8b56ad9502595d2e8fee8a85552ff1b6/header.jpg?t=1786076204",
-      "url": "https://store.steampowered.com/app/4980850/",
+      "name": "Tailbreak",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685470/fab90383a5e905d2064352ca85562147941d92eb/header.jpg?t=1786154174",
+      "url": "https://store.steampowered.com/app/4685470/",
       "short_description": "",
-      "final_price": 1440
+      "final_price": 1874
     },
     {
-      "name": "\u65e5\u672c\u4e8b\u6545\u7269\u4ef6\u76e3\u8996\u5354\u4f1a3 -Japan Stigmatized Property-",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611990/e59424ec894f20a4b1b13809362f290bceaa0162/header.jpg?t=1786075478",
-      "url": "https://store.steampowered.com/app/4611990/",
+      "name": "Marine",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855290/887dab0dce8a6508c4a4f7e14c2b0dce2aef963d/header.jpg?t=1786144588",
+      "url": "https://store.steampowered.com/app/4855290/",
       "short_description": "",
-      "final_price": 5300
+      "final_price": 599
     },
     {
-      "name": "The Forbidden Tomes of Olipos",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4466090/1fffddc9b4bc19030cb55ffd980b33cfe1c1faf5/header.jpg?t=1786086458",
-      "url": "https://store.steampowered.com/app/4466090/",
+      "name": "Terra Physics & Money",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4983940/d47f214fc5af096d5a73c3b4b3fc7013732bbc06/header.jpg?t=1786143841",
+      "url": "https://store.steampowered.com/app/4983940/",
       "short_description": "",
-      "final_price": 5200
+      "final_price": 539
     },
     {
-      "name": "PHOFACE",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246140/c018af99ef7122eed31c4bf255cb8a2f5a6afbd4/header.jpg?t=1786075612",
-      "url": "https://store.steampowered.com/app/4246140/",
+      "name": "Cape Warrior",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991980/3460803a18170c6af48c07dc8f283e4f75784c40/header.jpg?t=1786143275",
+      "url": "https://store.steampowered.com/app/4991980/",
       "short_description": "",
-      "final_price": 700
+      "final_price": 179
     },
     {
-      "name": "SPACE DASHER",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4885310/c8f2b47a122e6a41ee589b3afc2ed917430a8cac/header.jpg?t=1786073078",
-      "url": "https://store.steampowered.com/app/4885310/",
+      "name": "PS Maker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823590/56729cb43819ecb63f0bff118c83ebf54caca2ef/header.jpg?t=1786164839",
+      "url": "https://store.steampowered.com/app/4823590/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 3599
     },
     {
-      "name": "Marie's Adventure",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819360/a4a2ef705f79e8f6359e67e8cbf9013f6961292c/header.jpg?t=1786071645",
-      "url": "https://store.steampowered.com/app/4819360/",
+      "name": "Selection Bias",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875600/aa3aec05e979ec27868eacc0baf98878ea22d359/header.jpg?t=1786135266",
+      "url": "https://store.steampowered.com/app/4875600/",
       "short_description": "",
-      "final_price": 8912
-    },
-    {
-      "name": "Hololive Fantasy Battle",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003770/a6d6899aec90523bc04f48c34f7bd2435ab7a9df/header.jpg?t=1786071087",
-      "url": "https://store.steampowered.com/app/4003770/",
-      "short_description": "",
-      "final_price": 7596
+      "final_price": 419
     }
   ]
 }
