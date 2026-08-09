@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-08",
+  "updated": "2026-08-09",
   "items": [
     {
-      "name": "Penguin Quest",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3389490/c008eb7f3adde5e8a2eb0b9331ad19257bcbaa06/header.jpg?t=1786170204",
-      "url": "https://store.steampowered.com/app/3389490/",
-      "short_description": "",
-      "final_price": 224
-    },
-    {
-      "name": "\u5929\u4eae\u4e4b\u540e",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838500/260719f774626cea05c473a23556ea587fe1bab5/header.jpg?t=1786165555",
-      "url": "https://store.steampowered.com/app/4838500/",
-      "short_description": "",
-      "final_price": 509
-    },
-    {
-      "name": "Comet Dudes",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960190/417c2134af3aea04381c1b1367a64cd30837d877/header.jpg?t=1786158076",
-      "url": "https://store.steampowered.com/app/4960190/",
+      "name": "Crosshair Ultra",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4956760/a573cfe8a490ba341b9d0bbc36efc59459542542/header.jpg?t=1786223863",
+      "url": "https://store.steampowered.com/app/4956760/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Alice and the Devil's Prison",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4145350/d5b52eb953acb402c627006b5118b398118b9477/header.jpg?t=1786158008",
-      "url": "https://store.steampowered.com/app/4145350/",
+      "name": "Pight",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2682270/67b6b98a7fd5e249c033139a0dc9dcac4200f550/header.jpg?t=1786208364",
+      "url": "https://store.steampowered.com/app/2682270/",
       "short_description": "",
-      "final_price": 1259
+      "final_price": 352000
     },
     {
-      "name": "Lilim Clicker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071500/205037e48be34180a6a177feb25c8a85f4e3e1be/header.jpg?t=1786153817",
-      "url": "https://store.steampowered.com/app/4071500/",
+      "name": "RE:DREAM",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4964240/884806c146d4f39b525f40e23ac5e9321a34074a/header.jpg?t=1786204940",
+      "url": "https://store.steampowered.com/app/4964240/",
       "short_description": "",
-      "final_price": 639
+      "final_price": 0
     },
     {
-      "name": "Deflect",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914740/44613c5b3ebaddad25079ee836a9eb5113957ed2/header.jpg?t=1786154262",
-      "url": "https://store.steampowered.com/app/4914740/",
+      "name": "Grand Cru: The Wine Maker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4451370/c97a3d186df3a91ff9320eba5f1c6f32eb8dd4f7/header.jpg?t=1786197785",
+      "url": "https://store.steampowered.com/app/4451370/",
       "short_description": "",
-      "final_price": 499
+      "final_price": 1300000
     },
     {
-      "name": "Tailbreak",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4685470/fab90383a5e905d2064352ca85562147941d92eb/header.jpg?t=1786154174",
-      "url": "https://store.steampowered.com/app/4685470/",
+      "name": "SEXOPHOBIA-WALLPAPERS \ud83d\udd1e",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5032240/7a5fa825eed0264158bf7aa2034cd1a31d325826/header.jpg?t=1786197358",
+      "url": "https://store.steampowered.com/app/5032240/",
       "short_description": "",
-      "final_price": 1874
+      "final_price": 280000
     },
     {
-      "name": "Marine",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4855290/887dab0dce8a6508c4a4f7e14c2b0dce2aef963d/header.jpg?t=1786144588",
-      "url": "https://store.steampowered.com/app/4855290/",
+      "name": "SEXOPHOBIA \ud83d\udd1e",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4657570/ae4802341f1a3ef0a383c875fb0c32eeb91d2510/header.jpg?t=1786197292",
+      "url": "https://store.steampowered.com/app/4657570/",
       "short_description": "",
-      "final_price": 599
+      "final_price": 1314000
     },
     {
-      "name": "Terra Physics & Money",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4983940/d47f214fc5af096d5a73c3b4b3fc7013732bbc06/header.jpg?t=1786143841",
-      "url": "https://store.steampowered.com/app/4983940/",
+      "name": "Birb Game",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3682550/0cca14c2894375f8a1f1af97dadd7e1b8fecc52a/header.jpg?t=1786193497",
+      "url": "https://store.steampowered.com/app/3682550/",
       "short_description": "",
-      "final_price": 539
+      "final_price": 307000
     },
     {
-      "name": "Cape Warrior",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991980/3460803a18170c6af48c07dc8f283e4f75784c40/header.jpg?t=1786143275",
-      "url": "https://store.steampowered.com/app/4991980/",
+      "name": "Super Smash Asteroids",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310260/header.jpg?t=1786191588",
+      "url": "https://store.steampowered.com/app/2310260/",
       "short_description": "",
-      "final_price": 179
+      "final_price": 504000
     },
     {
-      "name": "PS Maker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823590/56729cb43819ecb63f0bff118c83ebf54caca2ef/header.jpg?t=1786164839",
-      "url": "https://store.steampowered.com/app/4823590/",
+      "name": "Not a bug",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876190/177579f738171c2feb2ef948d97124d65bcb9251/header.jpg?t=1786197852",
+      "url": "https://store.steampowered.com/app/4876190/",
       "short_description": "",
-      "final_price": 3599
+      "final_price": 630000
     },
     {
-      "name": "Selection Bias",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875600/aa3aec05e979ec27868eacc0baf98878ea22d359/header.jpg?t=1786135266",
-      "url": "https://store.steampowered.com/app/4875600/",
+      "name": "Catetris",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4943170/c68babe26d4955c048cb7f0518792adcecd7b424/header.jpg?t=1786184386",
+      "url": "https://store.steampowered.com/app/4943170/",
       "short_description": "",
-      "final_price": 419
+      "final_price": 630000
+    },
+    {
+      "name": "Trippy Plains",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866640/5c6ae07f7d76f1a1f37d69c8bf21b126fa57ca01/header.jpg?t=1786179439",
+      "url": "https://store.steampowered.com/app/4866640/",
+      "short_description": "",
+      "final_price": 783000
+    },
+    {
+      "name": "Accident Investigator Simulator: Black Box",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961730/34d3276073a100f4a7cf8a7d17fb671a4034bb8f/header.jpg?t=1786175899",
+      "url": "https://store.steampowered.com/app/4961730/",
+      "short_description": "",
+      "final_price": 1260000
     }
   ]
 }
