@@ -1,89 +1,126 @@
 {
-  "updated": "2026-08-10",
-  "items": [
-    {
-      "name": "Ajnabee - The Unknown",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259690/b476d8a60fc223f989f0ab6de6096bab61653b49/header.jpg?t=1786345380",
-      "url": "https://store.steampowered.com/app/4259690/",
-      "short_description": "",
-      "final_price": 877
-    },
-    {
-      "name": "DISCIPLINE",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4951900/5392398e092abf663df443ef40a24abd87066a65/header.jpg?t=1786342609",
-      "url": "https://store.steampowered.com/app/4951900/",
-      "short_description": "",
-      "final_price": 1844
-    },
-    {
-      "name": "Bit Breaker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4190000/9810f7b70f92ee1548a4f1ca836e8ea2a44d7aee/header.jpg?t=1786344941",
-      "url": "https://store.steampowered.com/app/4190000/",
-      "short_description": "",
-      "final_price": 239
-    },
-    {
-      "name": "Clan and Crown - Supporter Pack",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4907000/d6d17906a1113c5bf91b12bbe911f0d1a8cdec45/header.jpg?t=1786330475",
-      "url": "https://store.steampowered.com/app/4907000/",
-      "short_description": "",
-      "final_price": 373
-    },
-    {
-      "name": "\u5bb6\u65cf\u4e0e\u5e1d\u56fd",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4142610/053d63e03eda71996bb9661fa306dab1a13b49a0/header.jpg?t=1786330695",
-      "url": "https://store.steampowered.com/app/4142610/",
-      "short_description": "",
-      "final_price": 922
-    },
-    {
-      "name": "MUGI",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4675230/4192c7f3ae9fa3101871d306b83830ef2eb2a877/header.jpg?t=1786318327",
-      "url": "https://store.steampowered.com/app/4675230/",
-      "short_description": "",
-      "final_price": 815
-    },
-    {
-      "name": "Immortal Generals",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739690/9a83cc077dca3f5d0221c17fa153fe768bcc826e/header.jpg?t=1786315816",
-      "url": "https://store.steampowered.com/app/4739690/",
-      "short_description": "",
-      "final_price": 815
-    },
-    {
-      "name": "Blackforest",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990600/026e4d55c7764c7afcdbcf21cf934a622ba92e6e/header.jpg?t=1786315395",
-      "url": "https://store.steampowered.com/app/4990600/",
-      "short_description": "",
-      "final_price": 733
-    },
-    {
-      "name": "Case of 1980",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914110/2f5cac037189d76ec6134bd4a02e7516dcfd9878/header.jpg?t=1786314599",
-      "url": "https://store.steampowered.com/app/4914110/",
-      "short_description": "",
-      "final_price": 363
-    },
-    {
-      "name": "Bara Coloring Book",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4544570/b1887c30c5a09461edf144a40788711bc113bf06/header.jpg?t=1786304104",
-      "url": "https://store.steampowered.com/app/4544570/",
-      "short_description": "",
-      "final_price": 209
-    },
-    {
-      "name": "The Dungeon Of Horror",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4102050/810bcde4867a3a56613f24370aab3ddeb0a6868a/header.jpg?t=1786302078",
-      "url": "https://store.steampowered.com/app/4102050/",
-      "short_description": "",
-      "final_price": 967
-    },
-    {
-      "name": "Cloud Sculptor",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4101700/85e272de6872598b20c99f5bc9f333a2588bdb59/header.jpg?t=1786297221",
-      "url": "https://store.steampowered.com/app/4101700/",
-      "short_description": "",
-      "final_price": 236
-    }
-  ]
+ "as_of": "2026-08-10",
+ "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
+ "games": [
+  {
+   "rank": 1,
+   "name": "Counter-Strike: Global Offensive",
+   "developer": "Valve",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 1013936,
+   "price": "Free"
+  },
+  {
+   "rank": 2,
+   "name": "PUBG: BATTLEGROUNDS",
+   "developer": "PUBG Corporation",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 314682,
+   "price": "Free"
+  },
+  {
+   "rank": 3,
+   "name": "Rust",
+   "developer": "Facepunch Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 143870,
+   "price": "$19.99"
+  },
+  {
+   "rank": 4,
+   "name": "Apex Legends",
+   "developer": "Respawn",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 124262,
+   "price": "Free"
+  },
+  {
+   "rank": 5,
+   "name": "Wallpaper Engine",
+   "developer": "Wallpaper Engine Team",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 91184,
+   "price": "$4.99"
+  },
+  {
+   "rank": 6,
+   "name": "Grand Theft Auto V Legacy",
+   "developer": "Rockstar North",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 67851,
+   "price": "Free"
+  },
+  {
+   "rank": 7,
+   "name": "Call of Duty: Modern Warfare II",
+   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 67419,
+   "price": "$38.49"
+  },
+  {
+   "rank": 8,
+   "name": "NARAKA: BLADEPOINT",
+   "developer": "24 Entertainment",
+   "owners": "10,000,000 - 20,000,000",
+   "ccu": 66954,
+   "price": "Free"
+  },
+  {
+   "rank": 9,
+   "name": "Baldur's Gate 3",
+   "developer": "Larian Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 54771,
+   "price": "$44.99"
+  },
+  {
+   "rank": 10,
+   "name": "HELLDIVERS 2",
+   "developer": "Arrowhead Game Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 53399,
+   "price": "$39.99"
+  },
+  {
+   "rank": 11,
+   "name": "Tom Clancy's Rainbow Six Siege",
+   "developer": "Ubisoft Montreal",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 51847,
+   "price": "$19.99"
+  },
+  {
+   "rank": 12,
+   "name": "Stardew Valley",
+   "developer": "ConcernedApe",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 50662,
+   "price": "$14.99"
+  },
+  {
+   "rank": 13,
+   "name": "War Thunder",
+   "developer": "Gaijin Entertainment",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 50478,
+   "price": "Free"
+  },
+  {
+   "rank": 14,
+   "name": "Dead by Daylight",
+   "developer": "Behaviour Interactive Inc.",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 44886,
+   "price": "$19.99"
+  },
+  {
+   "rank": 15,
+   "name": "Team Fortress 2",
+   "developer": "Valve",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 43819,
+   "price": "Free"
+  }
+ ]
 }
