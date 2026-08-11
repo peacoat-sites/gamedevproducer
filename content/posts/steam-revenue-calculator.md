@@ -5,7 +5,10 @@ slug: "steam-revenue-calculator"
 date: 2026-06-10
 categories: ["industry intel"]
 description: "Use our free Steam revenue estimator to project your indie game's sales, developer net income, and revenue scenarios using the Boxleiter Method."
-author: "Ryan Cole"
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
+author_title: "Lead Game Producer"
+author_slug: "stephen-brenish"
 lastmod: 2026-07-08
 ---
 Launching a game on Steam without a revenue projection is like shipping without a milestone plan. You might land somewhere interesting, or you might run out of runway before you get there. This Steam revenue calculator gives indie developers a data-backed starting point for financial planning, using the Boxleiter Method and community-sourced multipliers.

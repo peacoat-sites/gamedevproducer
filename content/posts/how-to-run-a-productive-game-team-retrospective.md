@@ -6,10 +6,10 @@ description: "Learn how to run a productive game team retrospective that boosts 
 image: "/img/heroes/15543117.jpg"
 categories: ["team management"]
 tags: ["productive", "game", "team", "retrospective"]
-author: "Priya Sharma"
-author_slug: "priya-sharma"
-author_title: "Design & Narrative Editor"
-author_bio: "Priya Sharma is a game designer with a particular focus on systems that create engaging games, covering everything from core loop design to narrative structure. She has worked on titles across multiple genres and believes that good design is invisible to the player. At GameDevProducer, she covers game design principles, narrative mechanics, player psychology, and the craft of building experiences that keep people playing."
+author: "Stephen Brenish"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "how-to-run-a-productive-game-team-retrospective"
 affiliate_disclosure: true
 faqs:

@@ -6,8 +6,8 @@ description: "Learn how to manage multiple game productions simultaneously with 
 image: "/img/heroes/3977908.jpg"
 categories: ["industry intel"]
 tags: ["multi-title", "production", "manage", "multiple", "games"]
-author: "Marcus Webb"
-author_bio: "Marcus Webb covers game engines, technical development, and programming at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "multi-title-production-how-to-manage-multiple-games-at-once"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Block calendar time for each project every week, and protect it. If Game A always gets the Monday morning slot and Game B gets Wednesday afternoon, your teams see consistency. It also forces you to batch decisions rather than context-switching constantly."
  - q: "What's the most common thing that tanks multi-title productions?"
    a: "Unclear ownership. When two projects share a producer and something goes wrong, both teams assume the other project got the attention. Document your ownership model explicitly. Who owns what decision, on which project, and what requires your escalation. Ambiguity at the producer level spreads into every team below it."
-author_slug: "marcus-webb"
-author_title: "Technical Editor"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You're staring at three different project boards, each one representing a game in active development. Team A needs a sprint review. Team B's lead just flagged a critical blocker. Team C is two weeks from a [publisher milestone](/publisher-vs-self-publishing-what-changes-for-producers/) and someone just quit. This is multi-title production, and if nobody warned you it would feel like this, you're not alone.

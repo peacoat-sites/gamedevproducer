@@ -6,8 +6,8 @@ description: "Plan, track, and mitigate project risks with a risk register templ
 image: "/img/heroes/8171198.jpg"
 categories: ["pm frameworks"]
 tags: ["risk", "register", "template", "game", "development"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "risk-register-template-for-game-development"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but size it appropriately. A solo developer or two-person team doesn't need eleven columns and a dedicated review meeting. A ten-item list in a notes app with monthly check-ins covers most of what you need. The habit matters more than the format."
  - q: "Can a risk register help with publisher conversations?"
    a: "Genuinely yes, and this is underused. Walking into a publisher milestone review with a current risk register shows professional rigor. It also gives you a structured way to surface risks that need publisher input, like platform certification strategy or marketing timeline dependencies, without it feeling like you're delivering bad news."
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Most game projects don't fail because of bad ideas. They fail because nobody wrote down the thing everyone quietly worried about in week two. I've sat in postmortems where the team collectively remembers the exact moment they knew the dependency on a third-party SDK was going to blow up the milestone, and nobody escalated it. It lived in someone's head. That's not a communication problem. That's a risk management problem, and a risk register is the tool that solves it.

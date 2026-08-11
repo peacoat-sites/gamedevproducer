@@ -7,9 +7,10 @@ description: "2026 game dev salary benchmarks by role and seniority. Programmer,
 image: "/img/heroes/901e04b3e0fb.jpg"
 categories: ["careers"]
 tags: ["comparison", "2026", "costs", "data"]
-author: "Ryan Cole"
-author_slug: "ryan-cole"
-author_title: "Production Lead"
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 slug: "gamedev-salary-by-role-2026"
 featured_depth: true
 faqs:

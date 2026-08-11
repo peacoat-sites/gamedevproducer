@@ -6,8 +6,8 @@ description: "Plan better sprints for your game dev team. Learn proven strategie
 image: "/img/heroes/1181343.jpg"
 categories: ["pm frameworks"]
 tags: ["sprint", "planning", "game", "development", "teams"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "sprint-planning-for-game-development-teams"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Break them down until they don't. If you genuinely can't break a task below the sprint length, it's a milestone or an epic, not a sprint task. A task that spans two sprints can't be properly blocked, reviewed, or adjusted within normal sprint cadence. It's a planning smell that something hasn't been defined tightly enough."
  - q: "What's the right way to measure velocity in a game dev team?"
    a: "Track completed story points per sprint and average over at least 6 sprints before you trust the number for forecasting. Earlier than that, you're averaging noise. Also track carryover points separately. A team that completes 40 points but carries 15 into the next sprint doesn't have 40-point velocity. They have a carryover problem disguised by a velocity number."
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You're three sprints into your new project, the board looks clean, velocity feels steady, and then a senior animator drops a task that reads "character rig polish" estimated at 3 points. Two weeks later it's still open, now flagged at 11 points, and the feature it was blocking has slipped. Nobody lied. Nobody was lazy. The estimate was just wrong in a way nobody caught during planning. That's not an execution problem. That's a sprint planning problem.

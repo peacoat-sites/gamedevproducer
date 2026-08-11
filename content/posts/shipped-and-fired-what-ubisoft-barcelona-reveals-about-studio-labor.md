@@ -6,10 +6,10 @@ description: "Ubisoft Barcelona's closure exposes troubling labor practices in g
 image: "/img/heroes/15688701.jpg"
 categories: ["trending"]
 tags: ["shipped", "fired:", "what", "ubisoft", "barcelona"]
-author: "Marcus Webb"
-author_slug: "marcus-webb"
-author_title: "Technical Lead"
-author_bio: "Marcus Webb is a game programmer who has shipped titles on four different engines and spent years leading technical teams on projects ranging from small indie releases to mid-budget productions. He approaches technical leadership as a craft, not just a job title. At GameDevProducer, he covers engine decisions, technical architecture, programming pipelines, and leading developers without micromanaging them."
+author: "Stephen Brenish"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "shipped-and-fired-what-ubisoft-barcelona-reveals-about-studio-labor"
 affiliate_disclosure: true
 ---

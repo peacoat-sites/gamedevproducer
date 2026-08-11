@@ -6,8 +6,8 @@ description: "Lessons from 20 years of GDC post-mortems: insights on game develo
 image: "/img/heroes/3321791.jpg"
 categories: ["industry intel"]
 tags: ["lessons", "from", "years", "post-mortems"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "lessons-from-20-years-of-gdc-post-mortems"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Based on postmortems from the last decade, the single most predictive metric is whether estimated work completed per week is trending up, stable, or down. Trending down early in production is a warning sign that estimation is breaking down or scope is expanding silently. Stable throughout production is what successful projects show."
  - q: "Q: How do you keep the team motivated after you've frozen scope and delayed features?"
    a: "Transparency helps more than you'd think. Teams get demoralized by surprises, not by clear expectations. When you tell people upfront 'we're shipping these features by month 12, here's what's deferred,' they adjust. When you tell them everything's launching on schedule and then cut features in month 11, morale collapses. The 2016 postmortem from a team that handled this well specifically noted that being clear about deferral from month two made their team more engaged, not less."
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Every Game Developers Conference since 2004, studios have lined up on the main stage to explain how their project fell apart. The pattern is eerie. A 2008 postmortem describes scope creep, communication breakdowns, and a last-minute [engine swap](/how-game-engine-choice-affects-your-production-plan/). Jump to 2023, and an indie team describes nearly the same disasters. Two decades of public failure analysis, and we're still making identical mistakes. The problems haven't changed. Most producers just aren't reading these postmortems, and the ones who do aren't pulling out the repeating patterns that actually matter.

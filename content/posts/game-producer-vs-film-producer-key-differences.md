@@ -6,8 +6,8 @@ description: "Game Producer vs Film Producer: Explore the key differences in pro
 image: "/img/heroes/66134.jpg"
 categories: ["role identity"]
 tags: ["game", "producer", "film", "producer", "differences"]
-author: "Jordan Lee"
-author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "game-producer-vs-film-producer-key-differences"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "In film, distributors typically come into play after production is complete, or at the financing stage. In games, publishers often have active oversight throughout development, including milestone approvals, regular builds, and embedded quality assurance feedback. Game producers have to manage upward to a publisher as an ongoing working relationship, not just a one-time deal. That's closer to how an executive producer manages a studio relationship in television than anything in film."
  - q: "What's the biggest mistake film producers make when moving into game development?"
    a: "Assuming the schedule is sacred. In film, a shooting schedule is built to be followed. In game development, the schedule is a planning tool that gets revised constantly as technical discoveries surface and design decisions change. Film producers often react to schedule slippage as a crisis. Game producers have to learn to treat it as information and respond with replanning rather than alarm. Related to that: underestimating how long things take in game development is the single most common source of crunch, which is a production failure, not an unavoidable feature of the industry."
-author_slug: "jordan-lee"
-author_title: "Game Developer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You've spent ten years producing indie films. You know how to wrangle a crew, manage a shooting schedule, and sweet-talk a distributor into taking your finished product. Then someone offers you a senior producer role at a mid-sized game studio, and you think: "How different can it be?" 

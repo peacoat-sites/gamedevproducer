@@ -6,8 +6,8 @@ description: "Learn how a structured game studio post-mortem process can improve
 image: "/img/heroes/7550286.jpg"
 categories: ["industry intel"]
 tags: ["game", "studio", "post-mortem", "process", "that"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "game-studio-post-mortem-process-that-actually-works"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Don't force the session immediately post-ship. Give the team one to two weeks. People need to decompress before they can reflect usefully. But don't wait more than three weeks, because after that the specific details start to blur and attendance becomes harder to coordinate as people shift onto new work."
  - q: "How do you handle sensitive findings, like a specific person or decision-maker who caused significant problems?"
    a: "The post-mortem document should focus on systems and processes, not individuals. 'The approval chain for art assets required sign-off from four people, which created a 2-week average delay' is something you can fix. 'Person X was a bottleneck' creates defensiveness and doesn't tell you what to change. If a specific personnel issue needs addressing, that's a separate conversation between the right people, not a post-mortem finding. The post-mortem is one of the few moments in a project cycle when the entire team has permission to look honestly at how work actually happened. Most studios waste i"
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You shipped the game. Or maybe you cancelled it. Either way, the team is exhausted, some people have already moved on to new projects, and someone in leadership is asking for a post-mortem document by end of next week. You open a blank Google Doc and stare at it. You're not sure if you're supposed to write a celebration, a confession, or something in between. Here's what I tell people in that moment: a post-mortem is none of those things. It's a diagnostic tool. And most studios run it wrong, which is why the same mistakes show up project after project.

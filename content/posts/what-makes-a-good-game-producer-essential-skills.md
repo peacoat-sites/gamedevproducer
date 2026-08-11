@@ -6,8 +6,8 @@ description: "Discover the essential skills every game producer needs to succeed
 image: "/img/heroes/7862519.jpg"
 categories: ["role identity"]
 tags: ["what", "makes", "good", "game", "producer"]
-author: "Marcus Webb"
-author_bio: "Marcus Webb covers game engines, technical development, and programming at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "what-makes-a-good-game-producer-essential-skills"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Agile-adjacent approaches work well for most teams, specifically Scrum with modifications for the creative parts of game dev. Pure Scrum doesn't map perfectly because games have phases (pre-production, production, polish) that don't fit cleanly into identical two-week sprints. Read Clinton Keith's Agile Game Development and adapt from there rather than adopting any method wholesale."
  - q: "How early should a producer join a project?"
    a: "As early as possible, ideally before pre-production ends. Producers who join mid-production spend months undoing decisions that were made without any production oversight. If you're a solo dev thinking 'I'll add a producer later,' that's the game development equivalent of saying 'I'll add load-bearing walls after the house is built.'"
-author_slug: "marcus-webb"
-author_title: "Technical Editor"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You're three weeks from alpha, the build is broken, your lead programmer just went silent on Slack, and the art team is asking whether they should keep working on assets that might get cut. Nobody's panicking yet, but you can feel the pressure moving through the room like a change in air pressure before a storm. This is the moment that separates producers who are good on paper from producers who are actually essential. It's not about your spreadsheet skills. It's about what you do in the next 90 minutes.

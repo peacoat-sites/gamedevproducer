@@ -6,8 +6,8 @@ description: "Learn how to write a game design document with our step-by-step gu
 image: "/img/heroes/9572697.jpg"
 categories: ["production"]
 tags: ["write", "game", "design", "document"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "how-to-write-a-game-design-document"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
     a: "Yes, but a short one. Even if you're the only person on the project, you're not the same person at month eight that you were at month one. A short document that records your core decisions and open questions saves you from relitigating the same design problems repeatedly. Think of it as writing notes to your future, exhausted self."
   - q: "What's the most common GDD mistake?"
     a: "Writing too much before anyone has played anything. The second most common is writing a document nobody can find or knows to update. Both of these kill the document's usefulness. Start lean, keep it in a shared wiki, and treat updates as a team habit."
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Most game design documents are dead on arrival. Not because the designer didn't care, not because the game idea was bad. Because the writer confused thoroughness with usefulness, and produced something so dense that nobody on the team actually read it.

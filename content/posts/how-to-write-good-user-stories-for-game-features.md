@@ -6,10 +6,10 @@ description: "Learn how to write effective user stories for game features that k
 image: "/img/heroes/7888981.jpg"
 categories: ["project management"]
 tags: ["write", "good", "user", "stories", "game"]
-author: "Ryan Cole"
-author_slug: "ryan-cole"
-author_title: "Production Lead"
-author_bio: "Ryan Cole has spent a decade working in game production across mobile, PC, and console projects. He started as a junior producer at a mid-size studio and worked his way up by learning to ship on schedule without burning out his team. At GameDevProducer, he covers production frameworks, milestone planning, and the practical side of getting a game from concept to launch."
+author: "Stephen Brenish"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "how-to-write-good-user-stories-for-game-features"
 affiliate_disclosure: true
 faqs:

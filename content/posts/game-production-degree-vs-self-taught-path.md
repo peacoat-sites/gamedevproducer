@@ -6,10 +6,10 @@ description: "Compare formal education and self-teaching paths in game developme
 image: "/img/heroes/3987066.jpg"
 categories: ["careers"]
 tags: ["game", "production", "degree", "self", "taught"]
-author: "Jordan Lee"
-author_slug: "jordan-lee"
-author_title: "Game Developer"
-author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
+author: "Stephen Brenish"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "game-production-degree-vs-self-taught-path"
 affiliate_disclosure: true
 faqs:

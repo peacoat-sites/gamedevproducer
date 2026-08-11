@@ -6,8 +6,8 @@ description: "Discover the real reasons game developers quit after a successful 
 image: "/img/heroes/340152.jpg"
 categories: ["team psychology"]
 tags: ["game", "developers", "leave", "after", "successful"]
-author: "Tyler Brooks"
-author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "why-game-developers-leave-after-a-successful-launch"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Practically, mid-project. If you're starting retention conversations at launch, you're already late for some of your people. The developers who feel most valued are the ones who received ongoing recognition throughout development, not a single thank-you when the credits rolled."
  - q: "What's the best thing a producer can do in the first two weeks after launch?"
    a: "Slow down the operational tempo deliberately and visibly. If the producer is immediately running at the same velocity post-launch, the team reads that as more crunch with a different label. Protect the recovery window. Schedule it. Defend it from stakeholder pressure. Your team will remember that you did."
-author_slug: "tyler-brooks"
-author_title: "Studio Operations Lead"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Your game ships. Reviews are good. Steam numbers are climbing. The Discord is alive. And then, over the next 90 days, three of your best people hand in their notice.

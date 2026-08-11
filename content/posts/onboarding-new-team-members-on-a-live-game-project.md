@@ -6,8 +6,8 @@ description: "Discover proven strategies for onboarding new team members onto a 
 image: "/img/heroes/8550657.jpg"
 categories: ["team psychology"]
 tags: ["onboarding", "team", "members", "live", "game"]
-author: "Tyler Brooks"
-author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "onboarding-new-team-members-on-a-live-game-project"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "The documentation burden is higher and the informal knowledge transfer is lower. Compensate by being more deliberate: daily 15-minute check-ins for the first two weeks (not optional), async video walkthroughs for every major system, and a clear list of who to message for what. Loneliness is a real retention risk in remote onboarding. Over-communicate during the first 30 days."
  - q: "What's the biggest mistake producers make when onboarding onto a live game?"
    a: "Throwing someone into ownership too fast because the team is stretched thin. I've seen this kill confidence in genuinely strong hires. Two weeks of shadow mode feels like lost time when you're short-staffed. It isn't. The cost of a mistake on a live game with active players is orders of magnitude higher than two weeks of slower ramp-up."
-author_slug: "tyler-brooks"
-author_title: "Studio Operations Lead"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Someone just accepted your offer. They start Monday. The game launched eight months ago, it's got 200,000 active players, three live events running in parallel, a hotfix due Thursday, and a Confluence wiki that hasn't been touched since beta. Congratulations. You now have approximately two weeks before this person either clicks into gear or quietly starts wondering if they made a mistake.

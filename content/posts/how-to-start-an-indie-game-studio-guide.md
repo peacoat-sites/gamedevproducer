@@ -6,8 +6,8 @@ description: "Learn how to start an indie game studio with our complete guide co
 image: "/img/heroes/38094552.jpg"
 categories: ["strategy"]
 tags: ["start", "indie", "game", "studio", "guide"]
-author: "Tyler Brooks"
-author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "how-to-start-an-indie-game-studio-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Unity and Unreal Engine 4/5 are the realistic choices for most teams. Unity has a larger indie ecosystem and more accessible learning curve; Unreal is more powerful out of the box for 3D but has a steeper ramp. Godot is free, open source, and increasingly capable for 2D. The honest answer: use whatever your team already knows. Switching engines to chase features costs more than people admit."
  - q: "How do I find co-founders or team members for an indie studio?"
    a: "The most reliable sources are people you've already worked with, game jams (Ludum Dare and Global Game Jam both produce real professional relationships), and communities like TIGSource forums or the r/gamedev Discord. Be skeptical of strangers who are 'very passionate' but have no shipped work and no specific skills. Passion without track record is a risk, not an asset."
-author_slug: "tyler-brooks"
-author_title: "Studio Operations Lead"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Most guides about starting an indie studio spend three thousand words telling you to "follow your passion" and "build what you love." They skip the part where you run out of money in month eight and wonder why nobody told you about quarterly estimated taxes.

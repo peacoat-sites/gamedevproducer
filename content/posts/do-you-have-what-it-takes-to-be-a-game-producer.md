@@ -6,10 +6,10 @@ description: "Take this fun 7-question quiz to find out if game producer is the 
 slug: "do-you-have-what-it-takes-to-be-a-game-producer"
 date: 2026-05-27T10:00:00+00:00
 tags: ["game producer", "game dev careers", "career quiz", "production", "breaking into games"]
-author: "Marcus Webb"
-author_slug: "marcus-webb"
-author_bio: "Marcus Webb covers game engines, technical development, and programming at GameDevProducer."
-author_title: "Technical Editor"
+author: "Stephen Brenish"
+author_slug: "stephen-brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
+author_title: "Lead Game Producer"
 lastmod: 2026-07-07
 ---
 Producers are the glue of a game studio. They keep dozens of moving parts, art, design, engineering, audio, marketing, pointed at the same goal and shipping on time. It's less about making the game yourself and more about making sure the game *gets made*.

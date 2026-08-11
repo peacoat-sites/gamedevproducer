@@ -6,10 +6,10 @@ description: "Discover why 73% of solo developers prefer this game engine. Compa
 image: "/img/heroes/6804080.jpg"
 categories: ["Engines and Tools"]
 tags: ["best", "game", "engine", "solo", "developer"]
-author: "Jordan Lee"
-author_slug: "jordan-lee"
-author_title: "Game Developer"
-author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
+author: "Stephen Brenish"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "best-game-engine-for-a-solo-developer"
 affiliate_disclosure: true
 faqs:

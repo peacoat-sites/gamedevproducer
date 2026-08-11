@@ -6,8 +6,8 @@ description: "Learn how to manage introverts and extroverts on game teams effect
 image: "/img/heroes/9071464.jpg"
 categories: ["team psychology"]
 tags: ["managing", "introverts", "extroverts", "game", "teams"]
-author: "Tyler Brooks"
-author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "managing-introverts-and-extroverts-on-game-teams"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
     a: "Introverts burning out go more internal. You'll see more single-word answers, missed async contributions, camera off during calls where they used to be engaged. Extroverts burning out get brittle. More friction in feedback sessions, more reactive in Slack, sudden withdrawal from the social rituals they normally initiate. Neither is dramatic. Both require you to ask a direct question in private before it becomes a crisis."
   - q: "Is it worth doing a team personality assessment like Myers-Briggs or DISC?"
     a: "Useful for opening conversations, not for making decisions. I've seen teams use DISC well as a shared language: 'I process better in writing, here's why.' That's valuable. Where assessments go wrong is when people use them to categorize or excuse: 'She's an introvert so she won't want to present.' Run the assessment, use the vocabulary, then watch the actual behavior. The person is always more accurate than the type."
-author_slug: "tyler-brooks"
-author_title: "Studio Operations Lead"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Your lead engineer hasn't spoken in three standups this week. Your narrative designer won't stop talking in them. Both are doing excellent work. The problem isn't performance. The problem is you've built one communication system and expected two fundamentally different people to thrive in it equally. They won't.

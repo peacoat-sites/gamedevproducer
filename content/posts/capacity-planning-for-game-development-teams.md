@@ -6,8 +6,8 @@ description: "Plan game dev team capacity effectively with proven strategies. Le
 image: "/img/heroes/29901199.jpg"
 categories: ["pm frameworks"]
 tags: ["capacity", "planning", "game", "development", "teams"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "capacity-planning-for-game-development-teams"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Counting people, not work. New producers often start by listing who's on the team. The better starting point is listing the work that needs to happen, estimating it honestly, and then figuring out whether the team can do it. That order change forces a confrontation with reality earlier."
  - q: "How often should I revisit capacity models during a long production cycle?"
    a: "At minimum, every milestone. In practice, I'd recommend a light recalibration every four to six sprints, especially if team composition has changed, scope has shifted, or your velocity data is drifting significantly from your estimates. Capacity models are not set-and-forget."
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The [post-mortem reveals](/how-to-run-a-game-development-retrospective/) no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.

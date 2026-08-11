@@ -6,8 +6,8 @@ description: "Learn how to give and receive creative feedback that improves work
 image: "/img/heroes/21704604.jpg"
 categories: ["team psychology"]
 tags: ["managing", "creative", "feedback", "without", "killing"]
-author: "Tyler Brooks"
-author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "managing-creative-feedback-without-killing-morale"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "This one takes time to reverse because it means the psychological safety is already gone. Start by actively soliciting disagreement in review sessions: 'What am I missing here?' or 'Does anyone see a problem with this direction?' When someone pushes back and turns out to be right, make that visible to the group. You're rebuilding a norm, not fixing a single incident."
  - q: "Is there a good tool for async visual feedback on game assets?"
    a: "Frame.io is strong for video and animation reviews. ShotGrid (formerly Shotgun) is the industry standard for larger teams tracking asset reviews across a full pipeline. For smaller teams where budget matters, Loom plus a shared Notion page gets you surprisingly far."
-author_slug: "tyler-brooks"
-author_title: "Studio Operations Lead"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Halfway through sprint review, your lead artist goes quiet. The creative director just called their environment work "a good start" and asked for "more energy." No specifics. No examples. Just vibes-based criticism delivered in front of the team. The artist nods, says nothing, and spends the next two weeks technically doing their job while emotionally checking out. You've just watched morale die in real time, and the worst part is the creative director genuinely thought they were being helpful.

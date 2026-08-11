@@ -5,7 +5,10 @@ slug: "game-developer-salary"
 date: 2026-06-10
 categories: ["industry intel"]
 description: "Explore real game developer salary ranges by role, experience level, studio size, and region with an interactive salary calculator."
-author: "Ryan Cole"
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
+author_title: "Lead Game Producer"
+author_slug: "stephen-brenish"
 lastmod: 2026-07-08
 ---
 Game developer salaries range wildly. A junior QA tester at an indie studio in Poland might pull in $22,000 a year. A senior engine programmer at a Seattle AAA studio? $250,000 in total compensation. That gap exists because of four things: what you do, how experienced you are, who you work for, and where you live.

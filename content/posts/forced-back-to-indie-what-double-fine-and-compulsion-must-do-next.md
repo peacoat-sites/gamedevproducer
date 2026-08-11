@@ -6,10 +6,10 @@ description: "Forced Back to Indie: What Double Fine and Compulsion Must Do Next
 image: "/img/heroes/9072245.jpg"
 categories: ["trending"]
 tags: ["forced", "back", "indie:", "what", "double"]
-author: "Tyler Brooks"
-author_slug: "tyler-brooks"
-author_title: "Studio Operations Lead"
-author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
+author: "Stephen Brenish"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "forced-back-to-indie-what-double-fine-and-compulsion-must-do-next"
 affiliate_disclosure: true
 ---

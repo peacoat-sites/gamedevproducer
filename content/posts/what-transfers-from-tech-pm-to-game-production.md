@@ -6,8 +6,8 @@ description: "Discover how tech PM skills like roadmapping, stakeholder manageme
 image: "/img/heroes/7862518.jpg"
 categories: ["role identity"]
 tags: ["what", "transfers", "from", "tech", "game"]
-author: "Jordan Lee"
-author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "what-transfers-from-tech-pm-to-game-production"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but rarely by the book. Most studios run a hybrid: sprint structure borrowed from Scrum, milestone-based planning from waterfall, and a lot of informal iteration that doesn't show up in any framework. Your job is to make whatever process exists more visible and more predictable, not to implement textbook Agile."
  - q: "What's the biggest mistake tech PMs make when switching to game production?"
    a: "Optimizing for process correctness over team trust. Coming in with a better system than the studio currently uses doesn't matter if you haven't built enough credibility for people to follow it. Fix the culture of your Jira board after you've fixed your relationships."
-author_slug: "jordan-lee"
-author_title: "Game Developer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You're three weeks into your new associate producer role at a mid-sized game studio, and your Jira board looks immaculate. Epics nested. Tickets groomed. Velocity tracked. Your engineering lead walks by, glances at the screen, and says "that's cute." Not mean about it. Just... unimpressed. You've run software sprints for five years. You shipped a payments platform used by millions. And somehow, you feel like you're starting from zero. That gap between tech PM confidence and game production reality is real, and it catches almost everyone off guard.

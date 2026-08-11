@@ -6,8 +6,8 @@ description: "Discover how outsourcing vendor management helps game producers sa
 image: "/img/heroes/7054510.jpg"
 categories: ["industry intel"]
 tags: ["outsource", "vendor", "management", "game", "producers"]
-author: "Priya Sharma"
-author_bio: "Priya Sharma covers game design, systems mechanics, and narrative at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "outsource-vendor-management-for-game-producers"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Both have tradeoffs. A single larger studio reduces coordination overhead but creates a single point of failure. Multiple smaller vendors give you redundancy and competitive pricing, but your management load scales up. For most indie and mid-size projects, one primary vendor with one backup relationship is the practical sweet spot."
  - q: "How do I protect unreleased game content when working with outsource partners?"
    a: "A solid NDA is the baseline. Beyond that, compartmentalize information. Vendors should only receive the assets, references, and context they need for their specific scope. Don't share full game design documents or unreleased narrative content unless it's operationally necessary. Watermarked references and access-controlled shared drives (Google Drive with link expiry, or SharePoint with role permissions) add another layer."
-author_slug: "priya-sharma"
-author_title: "Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You've just signed contracts with three vendors: an art outsource studio in Eastern Europe, a QA partner in Southeast Asia, and a freelance audio engineer working remotely. The kickoff calls went great. Everyone seemed aligned. Then week three hits, and the art batches are coming back 40% wrong, QA is logging bugs against the wrong build, and the audio engineer has gone quiet for nine days. This isn't a vendor problem. This is a management problem. And it's one of the most common ways mid-production schedules collapse.

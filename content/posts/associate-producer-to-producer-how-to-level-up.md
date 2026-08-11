@@ -6,8 +6,8 @@ description: "Learn how to level up from associate producer to producer with pro
 image: "/img/heroes/15164001.jpg"
 categories: ["role identity"]
 tags: ["associate", "producer", "producer", "level"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "associate-producer-to-producer-how-to-level-up"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "A Certified Scrum Master (CSM) is genuinely respected in game dev circles and takes a weekend. PMP is more work and more recognized outside the industry, which matters if you ever want to move laterally into tech or film production. Neither is required, but both signal initiative. The Scrum.org PSM I is free to study for and carries real weight."
  - q: "How do I ask for a promotion without damaging the relationship with my producer?"
    a: "Frame it as a conversation about growth, not a demand. Ask your producer directly: 'What would I need to demonstrate to be considered for a producer role here?' That question does two things. It puts the criteria on the table, and it signals you're serious without being threatening. If they can't answer it or dodge it, that's useful information about whether internal growth is actually possible."
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You're running the daily standup. Eight months in. You know every ticket in Jira, every blocker, every dev who claims they'll finish in two days and somehow always does. Your producer's in back-to-back meetings and the team basically treats you like the actual producer already. Then the senior role opens internally, and they hire someone from outside. That's when it hits: doing the job isn't the same as being ready for it.

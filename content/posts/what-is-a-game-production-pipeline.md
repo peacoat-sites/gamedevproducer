@@ -6,8 +6,8 @@ description: "Discover what a game production pipeline is, how it works, and why
 image: "/img/heroes/4832263.jpg"
 categories: ["production"]
 tags: ["what", "game", "production", "pipeline"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "what-is-a-game-production-pipeline"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
     a: "Pre-production, and specifically in the first few weeks of it. The worst time to define your pipeline is when you're already under production pressure. The second-worst time is never. If you're mid-production without a defined pipeline, it's not too late to establish one, but expect a painful transition period as the team adjusts to new processes mid-flight."
   - q: "What happens when the pipeline breaks down?"
     a: "Crunch, missed milestones, and a specific kind of team morale damage that's hard to recover from. When handoffs between disciplines consistently fail, people stop trusting each other's work, start duplicating effort defensively, and begin working around the process instead of through it. Fixing a broken pipeline usually requires stopping, doing a short honest retrospective, and re-establishing the agreements that make the workflow function. It's uncomfortable, and it takes time you feel like you don't have. You have less time if you don't do it."
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Most people asking "what is a game production pipeline?" want an org chart. Pre-Production flows to Production flows to Post-Launch, nice and clean. What they actually need to know is messier, way more interesting, and infinitely more useful: a pipeline is a set of agreements about how work flows through a team. When those agreements fall apart, games die.

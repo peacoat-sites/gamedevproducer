@@ -6,8 +6,8 @@ description: "Discover what game producers earn, including entry-level to senior
 image: "/img/heroes/4691477.jpg"
 categories: ["careers"]
 tags: ["game", "producer", "salary", "guide", "explained"]
-author: "Tyler Brooks"
-author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "game-producer-salary-guide-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "In many U.S. states, employers are legally prohibited from asking for your salary history. Even where it's not prohibited, you're not obligated to share it. I'd recommend anchoring the conversation around market rate and your expectations rather than your previous number. 'I'm looking for something in the $105,000 to $115,000 range based on my experience and what I'm seeing in the market' is a stronger position than confirming you were making $88,000."
  - q: "What's the best book on building a career as a game producer?"
    a: "Heather Maxwell Chandler's The Game Production Handbook (third edition) is the most comprehensive resource specific to the producer role. For career strategy more broadly, I also recommend Cracking the PM Interview by Gayle McDowell, which is technically for product management but covers negotiation and career leveling in ways that translate directly."
-author_slug: "tyler-brooks"
-author_title: "Studio Operations Lead"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Let me be direct with you: most salary guides for game producers are useless. They pull a number from somewhere, slap a range on it, and call it research. You end up with something like "$60,000 to $150,000 depending on experience" which tells you approximately nothing about whether the offer sitting in your inbox is fair.

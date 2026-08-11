@@ -6,10 +6,10 @@ description: "Learn how top game development teams manage bug triage, cut backlo
 image: "/img/heroes/27427258.jpg"
 categories: ["production"]
 tags: ["triage", "process", "game", "development", "teams"]
-author: "Jordan Lee"
-author_slug: "jordan-lee"
-author_title: "Game Developer"
-author_bio: "Jordan Lee has shipped indie titles and contributed to larger studio projects, writing from the trenches about what it actually takes to finish and release a game. At Gamedev Producer the focus is development workflow, scope, and shipping."
+author: "Stephen Brenish"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "bug-triage-process-for-game-development-teams"
 affiliate_disclosure: true
 faqs:

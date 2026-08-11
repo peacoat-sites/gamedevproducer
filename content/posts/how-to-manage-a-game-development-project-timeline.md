@@ -6,8 +6,8 @@ description: "Plan your game development project timeline with confidence. Learn
 image: "/img/heroes/7580765.jpg"
 categories: ["project management"]
 tags: ["manage", "game", "development", "project", "timeline"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "how-to-manage-a-game-development-project-timeline"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Estimating tasks in hours instead of days and treating those hours as if they'll actually be spent on that one task. Real work doesn't happen in a vacuum. A 'four-hour task' that gets interrupted twice, hits an unexpected bug, and requires a design conversation is a two-day task. Estimate in days, plan in weeks."
  - q: "How do you manage timeline when your team is all-volunteer or part-time?"
    a: "Part-time and volunteer teams need even more scheduling discipline, not less. Calculate actual available hours per person per week honestly (not aspirationally), use those numbers in your capacity planning, and treat contributor availability as a first-class constraint in your sprint planning. The projects I've seen succeed with part-time teams are the ones that kept scope extremely tight and milestones extremely clear."
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Sixty percent of the indie games I've watched fail in the last decade didn't fail because of bad code or weak art. They failed because someone made a timeline in month one and then never looked at it again.

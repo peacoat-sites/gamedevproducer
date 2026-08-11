@@ -6,8 +6,8 @@ description: "Discover how game producer salaries vary by studio size and role. 
 image: "/img/heroes/27559554.jpg"
 categories: ["role identity"]
 tags: ["game", "producer", "salary", "ranges", "studio"]
-author: "Samantha Roberts"
-author_bio: "Samantha Roberts writes about game publishing, pitching, and bringing games to market."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "game-producer-salary-ranges-by-studio-size-and-role"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "No. In many U.S. states, employers can't legally ask for your salary history. Even where they can, you're not obligated to volunteer it. The relevant number is the market rate for the role you're interviewing for, not what your previous employer decided to pay you."
  - q: "Are game producer bonuses meaningful or mostly on paper?"
    a: "At AAA publishers with structured bonus programs, they're real and can add $10K to $30K annually. At indie and mid-size studios, discretionary bonuses are less predictable and sometimes disappear when a title underperforms. Ask specifically whether the bonus is tied to company performance, personal performance, or both, and ask what bonuses looked like in the last two or three years. How a company answers that question tells you a lot."
-author_slug: "samantha-roberts"
-author_title: "Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You just got an offer for an Associate Producer role at a mid-size studio and the number feels low. Or maybe you're a Senior Producer wondering if you're being underpaid while your LinkedIn feed fills up with job posts that don't show salaries. Either way, you're trying to figure out what this job actually pays, and you're finding that almost nobody in this industry likes to say the number out loud. I've been in those conversations on both sides of the table. Let me give you the real picture.

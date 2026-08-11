@@ -5,7 +5,10 @@ slug: "revenue-share-calculator"
 date: 2026-06-10
 categories: ["industry intel"]
 description: "Calculate how game revenue splits between platforms, publishers, and team members, with recoupment thresholds and clear per-person payouts."
-author: "Ryan Cole"
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
+author_title: "Lead Game Producer"
+author_slug: "stephen-brenish"
 lastmod: 2026-07-08
 ---
 Revenue share disputes are one of the most common, and most avoidable, causes of studio conflict. Getting clear on who gets what before a game ships, in writing, with math that everyone has seen and agreed to, is one of the most impactful things a producer can do for team health and long-term business sustainability.

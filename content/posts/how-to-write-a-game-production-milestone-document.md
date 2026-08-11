@@ -6,8 +6,8 @@ description: "Learn how to write a game production milestone document with clear
 image: "/img/heroes/7580999.jpg"
 categories: ["pm frameworks"]
 tags: ["write", "game", "production", "milestone", "document"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "how-to-write-a-game-production-milestone-document"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Milestones and sprints operate at different time scales and serve different purposes, so they're not in conflict. Sprints manage two-week execution cycles. Milestones manage 6 to 16 week strategic objectives. In practice, I map milestones to groups of sprints, write the milestone document first to define the outcomes, and then let the sprint planning process figure out how to get there. The acceptance criteria from your milestone document become useful reference points during sprint reviews when you're asking: are we moving toward this thing?"
  - q: "What happens when you can't hit a milestone?"
    a: "You communicate early, document the gap formally, and revise with a recovery plan attached. Never let a milestone slip quietly. The moment you know a milestone is at risk, that information goes to every stakeholder immediately, along with a revised date and a clear account of what changed and why. Publishers and investors can usually absorb a delay. What they can't absorb is finding out about it on the day the milestone was due. In contractual milestone situations, check your agreement: many have provisions for milestone renegotiation that are far less painful than breach-of-contract territory"
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Most milestone documents I've seen are basically vibes dressed up in a table. A date. A vague deliverable name like "Alpha Build Ready." Maybe a sign-off field that nobody fills in. Then everyone proceeds to have completely different ideas about what "Alpha" actually means. Three months later, the publisher's furious, the team's demoralized, and the [post-mortem](/how-to-run-a-game-development-retrospective/) will diplomatically describe it as "misaligned expectations." I've been in that room. It's avoidable, and a well-written milestone document is one of the cheapest insurance policies in game development. Almost nobody writes one well.

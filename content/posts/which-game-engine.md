@@ -5,7 +5,10 @@ slug: "which-game-engine-quiz"
 date: 2026-06-10
 categories: ["pm frameworks"]
 description: "Answer 7 questions to find the best game engine for your project, Godot, Unity, Unreal, GameMaker, Construct, Bevy, or Ren'Py, based on your goals and experience."
-author: "Ryan Cole"
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
+author_title: "Lead Game Producer"
+author_slug: "stephen-brenish"
 lastmod: 2026-07-07
 ---
 Picking the wrong game engine early on is expensive. Not because you can't switch (porting is possible), but because switching costs time, and time is what you actually run out of. A solo developer who spends three months learning Unity, builds 60% of a 2D platformer, realizes the [learning curve is crushing them](/burnout-in-game-development-the-year-5-cliff/), then restarts in GameMaker has lost those months for good.

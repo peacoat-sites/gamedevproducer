@@ -6,8 +6,8 @@ description: "Learn how to set realistic game dev milestones that keep your proj
 image: "/img/heroes/7947841.jpg"
 categories: ["milestones"]
 tags: ["realistic", "game", "milestones"]
-author: "Ryan Cole"
-author_bio: "Ryan Cole covers game production and milestone planning at GameDevProducer."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "how-to-set-realistic-game-dev-milestones"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Scope creep is a milestone problem disguised as a feature problem. The best defense is a change control process, even a simple one. Any new feature or change request that affects a milestone's definition goes through a quick written assessment: what does this add, what does it cost in time, and what do we cut or delay to accommodate it? The answer might be 'nothing, we have the budget.' But the question must always be asked and answered explicitly, not absorbed silently into the schedule."
  - q: "What online resources help with game dev production skills?"
    a: "A few I regularly recommend: the Game Developers Conference (GDC) Vault has years of production talks available for free or cheap, and the project management content there is specifically game-industry-applicable. Coursera and LinkedIn Learning both have project management courses covering agile and scrum fundamentals that translate well to game dev. Ryan Sumo's writing on game production for small teams is also worth seeking out. And if you want something structured, the Scrum.org Professional Scrum Master certification gives you a rigorous foundation in sprint-based planning that you can ada"
-author_slug: "ryan-cole"
-author_title: "Senior Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You sat down on a Sunday with a fresh cup of coffee, opened a spreadsheet, and built out what looked like a perfectly reasonable development schedule. Six months to alpha. Three more to beta. Ship by the holidays. It felt good. Organized. Achievable. Then two months in, you're already three weeks behind, your lead programmer just told you the save system is "more complex than expected," and that holiday launch date is starting to feel like a joke you told at your own expense. If that sounds familiar, you're not alone. I've seen this happen to teams with zero experience and teams with fifteen years of it. The problem almost never starts with laziness or incompetence. It starts with how the milestones were set in the first place.

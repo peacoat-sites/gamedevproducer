@@ -6,8 +6,8 @@ description: "Learn how to build a Steam page that converts browsers into buyers
 image: "/img/heroes/16027821.jpg"
 categories: ["publishing"]
 tags: ["build", "steam", "page", "that", "converts"]
-author: "Samantha Roberts"
-author_bio: "Samantha Roberts writes about game publishing, pitching, and bringing games to market."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "how-to-build-a-steam-page-that-converts"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "You can and should update it as your game develops. Capsule images, trailers, screenshots, and descriptions can all be updated. Many developers do a full refresh in the weeks before launch when they have final assets. Just don't let the page go stale: if your trailer is from 18 months ago and your game looks substantially better now, update it."
  - q: "What tools do game producers actually use to manage Steam page launches?"
    a: "For project management around Steam launches, Notion works well for building content calendars and asset checklists. Trello is simpler if you want Kanban-style task tracking for milestone deadlines like 'capsule final' or 'trailer submitted.' For understanding your page performance, SteamDB is indispensable. For learning how to think about this more strategically, Chris Zukowski's blog (How To Market A Game) is the single most useful resource I've seen for indie developers on Steam marketing, and he posts detailed breakdowns of what's working right now. Udemy also has credible game marketing c"
-author_slug: "samantha-roberts"
-author_title: "Contributing Writer"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 You spent eight months building a demo. Finally got it live on Steam, shared the link everywhere, and... 127 wishlists in three weeks. Your friend's game, which honestly looks rougher than yours, already has 4,000. You refresh the page. What are you missing?

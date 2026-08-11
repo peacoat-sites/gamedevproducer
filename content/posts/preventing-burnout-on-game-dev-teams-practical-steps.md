@@ -6,8 +6,8 @@ description: "Learn practical strategies to prevent burnout on game dev teams, i
 image: "/img/heroes/7414226.jpg"
 categories: ["team psychology"]
 tags: ["preventing", "burnout", "game", "teams", "practical"]
-author: "Tyler Brooks"
-author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "preventing-burnout-on-game-dev-teams-practical-steps"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Yes, for a specific reason: the commute, annoying as it was, created a hard start and stop signal. Remote work removes that boundary, and 'one more thing before I log off' has no natural ceiling. Remote teams need more explicit structure around working hours, not less."
  - q: "What's the single highest-leverage change a producer can make today?"
    a: "Cancel one recurring meeting that could be an async update. This sounds trivial. It isn't. Every meeting you eliminate returns protected time and signals that you value focused work over performed productivity. Do it publicly and explain why. It models the culture shift you want."
-author_slug: "tyler-brooks"
-author_title: "Studio Operations Lead"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Your lead programmer hasn't taken a real day off in eleven weeks. She's still hitting deadlines, her code still ships clean, and when you ask how she's doing, she says "fine." Three weeks later she hands in her notice. You never saw it coming, but you absolutely should have.

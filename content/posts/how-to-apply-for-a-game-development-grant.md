@@ -6,10 +6,10 @@ description: "Learn how to find and apply for game development grants. Discover 
 image: "/img/heroes/4974916.jpg"
 categories: ["budgeting"]
 tags: ["apply", "game", "development", "grant"]
-author: "Samantha Roberts"
-author_slug: "samantha-roberts"
-author_title: "Publishing Strategist"
-author_bio: "Samantha Roberts has spent her career navigating the publisher side of the games industry: first pitching indie studios to publishers, then working inside a publishing label evaluating hundreds of projects. She knows what publishers look for and what indie developers consistently get wrong in their pitch decks. At GameDevProducer, she covers publishing strategy, funding, and the business of bringing a game to market."
+author: "Stephen Brenish"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "how-to-apply-for-a-game-development-grant"
 affiliate_disclosure: true
 faqs:

@@ -6,8 +6,8 @@ description: "Learn how to hire your first game developer with confidence. Disco
 image: "/img/heroes/36706460.jpg"
 categories: ["team management"]
 tags: ["hiring", "your", "first", "game", "developer"]
-author: "Tyler Brooks"
-author_bio: "Tyler Brooks has run operations and led teams inside game studios, from hiring to milestone planning to the unglamorous work that keeps a project on track. At Gamedev Producer he covers studio management and leadership."
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "hiring-your-first-game-developer-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,8 +21,8 @@ faqs:
    a: "Hiring a generalist when they need a specialist. 'Someone who can do everything' is tempting when budget is tight, but generalists who claim to do everything usually do three things adequately and six things poorly. Know the one or two specific gaps that are blocking you and hire for exactly those."
  - q: "How long should a trial contract be?"
    a: "Sixty days is a reasonable starting point for most first hires on an indie project. Long enough for both of you to understand the working rhythm and see real output. Short enough that a bad fit doesn't cost you four months of runway. Structure it around a defined deliverable rather than just time: 'complete the movement system and first enemy AI by this date' beats 'work for sixty days.'"
-author_slug: "tyler-brooks"
-author_title: "Studio Operations Lead"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
 Most first-time game studio founders hire wrong. Not because they don't care, but because they hire the person they *like talking to* rather than the person who can actually ship the thing they're trying to build. I watched three separate indie studios collapse in 2021 and 2022 partly because of that exact mistake, two of them people I'd worked alongside. Liking someone is not a hiring criterion. Let's get into what actually is.
