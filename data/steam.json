@@ -1,126 +1,89 @@
 {
- "as_of": "2026-08-10",
- "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
- "games": [
-  {
-   "rank": 1,
-   "name": "Counter-Strike: Global Offensive",
-   "developer": "Valve",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 1013936,
-   "price": "Free"
-  },
-  {
-   "rank": 2,
-   "name": "PUBG: BATTLEGROUNDS",
-   "developer": "PUBG Corporation",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 314682,
-   "price": "Free"
-  },
-  {
-   "rank": 3,
-   "name": "Rust",
-   "developer": "Facepunch Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 143870,
-   "price": "$19.99"
-  },
-  {
-   "rank": 4,
-   "name": "Apex Legends",
-   "developer": "Respawn",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 124262,
-   "price": "Free"
-  },
-  {
-   "rank": 5,
-   "name": "Wallpaper Engine",
-   "developer": "Wallpaper Engine Team",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 91184,
-   "price": "$4.99"
-  },
-  {
-   "rank": 6,
-   "name": "Grand Theft Auto V Legacy",
-   "developer": "Rockstar North",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67851,
-   "price": "Free"
-  },
-  {
-   "rank": 7,
-   "name": "Call of Duty: Modern Warfare II",
-   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67419,
-   "price": "$38.49"
-  },
-  {
-   "rank": 8,
-   "name": "NARAKA: BLADEPOINT",
-   "developer": "24 Entertainment",
-   "owners": "10,000,000 - 20,000,000",
-   "ccu": 66954,
-   "price": "Free"
-  },
-  {
-   "rank": 9,
-   "name": "Baldur's Gate 3",
-   "developer": "Larian Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 54771,
-   "price": "$44.99"
-  },
-  {
-   "rank": 10,
-   "name": "HELLDIVERS 2",
-   "developer": "Arrowhead Game Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 53399,
-   "price": "$39.99"
-  },
-  {
-   "rank": 11,
-   "name": "Tom Clancy's Rainbow Six Siege",
-   "developer": "Ubisoft Montreal",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 51847,
-   "price": "$19.99"
-  },
-  {
-   "rank": 12,
-   "name": "Stardew Valley",
-   "developer": "ConcernedApe",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50662,
-   "price": "$14.99"
-  },
-  {
-   "rank": 13,
-   "name": "War Thunder",
-   "developer": "Gaijin Entertainment",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50478,
-   "price": "Free"
-  },
-  {
-   "rank": 14,
-   "name": "Dead by Daylight",
-   "developer": "Behaviour Interactive Inc.",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 44886,
-   "price": "$19.99"
-  },
-  {
-   "rank": 15,
-   "name": "Team Fortress 2",
-   "developer": "Valve",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 43819,
-   "price": "Free"
-  }
- ]
+  "updated": "2026-08-11",
+  "items": [
+    {
+      "name": "FishFishFishFishFish",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4878240/e63fb3004fbeaaa4a45431d3f809483cd4ff70ff/header.jpg?t=1786424635",
+      "url": "https://store.steampowered.com/app/4878240/",
+      "short_description": "",
+      "final_price": 399
+    },
+    {
+      "name": "The Spirit of Twelve",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/497320/f81f375c214c8c56ad016f352febba45c7885e98/header.jpg?t=1786425435",
+      "url": "https://store.steampowered.com/app/497320/",
+      "short_description": "",
+      "final_price": 1274
+    },
+    {
+      "name": "Golden Hand",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2847620/5cc341abbebfe68f953e4be7fbc99ccf17632773/header.jpg?t=1786421515",
+      "url": "https://store.steampowered.com/app/2847620/",
+      "short_description": "",
+      "final_price": 899
+    },
+    {
+      "name": "Astrophobia",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4476070/bcaac8bba1408e9cc4b63f1d4a22b68b777ffee3/header.jpg?t=1786420822",
+      "url": "https://store.steampowered.com/app/4476070/",
+      "short_description": "",
+      "final_price": 269
+    },
+    {
+      "name": "Bjois",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821530/8cb5219906a652840700a9d1cad103cac845a62e/header.jpg?t=1786418846",
+      "url": "https://store.steampowered.com/app/4821530/",
+      "short_description": "",
+      "final_price": 799
+    },
+    {
+      "name": "Hexhorde",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4930750/5780474df5c120438746d3a052383502335e241e/header.jpg?t=1786418154",
+      "url": "https://store.steampowered.com/app/4930750/",
+      "short_description": "",
+      "final_price": 799
+    },
+    {
+      "name": "Home4Us",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533930/ecafeb3178250393e014479813a51e2ec9e8e4fb/header.jpg?t=1786415410",
+      "url": "https://store.steampowered.com/app/4533930/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "\u65b9\u5757\u9a91\u58ebSquare Knight",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934080/680550308c31dafd5803af37d791accfca30f7be/header.jpg?t=1786412562",
+      "url": "https://store.steampowered.com/app/4934080/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Arcade Survivors",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782690/19cf6386245ea18d2f03aa244b49e5072a617c75/header.jpg?t=1786412134",
+      "url": "https://store.steampowered.com/app/4782690/",
+      "short_description": "",
+      "final_price": 449
+    },
+    {
+      "name": "Succulent Break",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4536070/282046454f7fe3c42b8d467d5840464deedf8959/header.jpg?t=1786415124",
+      "url": "https://store.steampowered.com/app/4536070/",
+      "short_description": "",
+      "final_price": 179
+    },
+    {
+      "name": "DreamEcho",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226060/cf60ada73c16927513cced7811591dc439f89fab/header.jpg?t=1786410129",
+      "url": "https://store.steampowered.com/app/3226060/",
+      "short_description": "",
+      "final_price": 1079
+    },
+    {
+      "name": "Rooster Booster 3D",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4846230/574fb811975848a13007ef13471282eb902efb6e/header.jpg?t=1786402877",
+      "url": "https://store.steampowered.com/app/4846230/",
+      "short_description": "",
+      "final_price": 299
+    }
+  ]
 }
