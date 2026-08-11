@@ -72,7 +72,8 @@
   "author": {
     "@type": "Person",
     "name": "{{ .Params.author | default .Site.Params.author | replaceRE "\"" "\\\"" }}",
-    "url": "{{ .Site.BaseURL }}{{ with .Params.author_slug }}{{ . }}{{ else }}{{ .Params.author | urlize }}{{ end }}/"
+    "url": "{{ .Site.BaseURL }}{{ with .Params.author_slug }}{{ . }}{{ else }}{{ .Params.author | urlize }}{{ end }}/"{{ with .Site.Params.author_linkedin }},
+    "sameAs": ["{{ . }}"]{{ end }}
   },
 {{- with .Site.Data.reviewer }}
   "reviewedBy": {

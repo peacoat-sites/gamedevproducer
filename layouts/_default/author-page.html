@@ -3,6 +3,9 @@
 {{ $slug     := .Params.author_slug }}
 {{ $title    := .Params.author_title }}
 {{ $spec     := .Params.author_specialty }}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":{{ $name | jsonify }},"jobTitle":{{ $title | jsonify }},"image":{{ (printf "%simg/authors/%s.jpg" .Site.BaseURL $slug) | jsonify }},"url":{{ .Permalink | jsonify }}{{ with .Site.Params.author_linkedin }},"sameAs":[{{ . | jsonify }}]{{ end }}{{ with .Content }},"description":{{ .Content | plainify | jsonify }}{{ end }}}
+</script>
 
 <div class="ap-wrap">
   <div class="ap-hero">
@@ -16,6 +19,7 @@
       <p class="ap-title-label">{{ $title }}</p>
       {{ with $spec }}<p class="ap-spec">{{ . }}</p>{{ end }}
       {{ if .Content }}<p class="ap-summary">{{ .Content | plainify }}</p>{{ end }}
+      {{ with .Site.Params.author_linkedin }}<p class="ap-links" style="margin-top:10px"><a href="{{ . }}" rel="me noopener" target="_blank" style="color:inherit;font-weight:600;text-decoration:none">LinkedIn ↗</a></p>{{ end }}
     </div>
   </div>
   {{ $ap := where (where .Site.RegularPages "Section" "posts") "Params.author" $name }}
