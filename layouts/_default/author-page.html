@@ -4,7 +4,7 @@
 {{ $title    := .Params.author_title }}
 {{ $spec     := .Params.author_specialty }}
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Person","name":{{ $name | jsonify }},"jobTitle":{{ $title | jsonify }},"image":{{ (printf "%simg/authors/%s.jpg" .Site.BaseURL $slug) | jsonify }},"url":{{ .Permalink | jsonify }}{{ with .Site.Params.author_linkedin }},"sameAs":[{{ . | jsonify }}]{{ end }}{{ with .Content }},"description":{{ .Content | plainify | jsonify }}{{ end }}}
+{"@context":"https://schema.org","@type":"Person","name":{{ $name | jsonify }},"jobTitle":{{ $title | jsonify }},"image":{{ (printf "%simg/authors/%s.jpg" .Site.BaseURL $slug) | jsonify }},"url":{{ .Permalink | jsonify }}{{ with .Site.Params.author_linkedin }},"sameAs":[{{ . | jsonify }}]{{ end }}{{ with .Content }},"description":{{ . | plainify | jsonify }}{{ end }}}
 </script>
 
 <div class="ap-wrap">
