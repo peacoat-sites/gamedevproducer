@@ -1,29 +1,149 @@
 {
-  "updated": "2026-08-11",
+  "updated": "2026-08-12",
   "count": 25,
   "items": [
     {
       "source": "Polygon",
-      "title": "Netflix's The Last House ending explained by director: 'We humans are the bad guys of this planet'",
-      "url": "https://www.polygon.com/the-last-house-director-dives-into-a-murky-ending-of-cosmic-proportions/",
+      "title": "X-Men \u201897 Post-Credits Scene Teases Season 3\u2019s Supervillain Team-Up",
+      "url": "https://www.polygon.com/x-men-97-post-credits-scene-explained-season-2-finale/",
+      "date": "Wed, 12 Au"
+    },
+    {
+      "source": "IGN",
+      "title": "What Does X-Men '97 Season 2's Post-Credits Scene Mean for Season 3?",
+      "url": "https://www.ign.com/articles/x-men-97-season-2-post-credits-scene-explained",
+      "date": "Wed, 12 Au"
+    },
+    {
+      "source": "IGN",
+      "title": "X-Men '97 Season 2 Finale Review & Recap: \"Survival of the Fittest\"",
+      "url": "https://www.ign.com/articles/x-men-97-season-2-finale-review-recap-survival-of-the-fittest",
+      "date": "Wed, 12 Au"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Report: Crossfire dev That's No Moon lays off 14 staff",
+      "url": "https://www.gamedeveloper.com/business/report-crossfire-dev-that-s-no-moon-lays-off-14-staff",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Three indie horror publishers faced sexual harassment claims \u2013 what comes next?",
+      "url": "https://www.gamedeveloper.com/production/three-indie-horror-publishers-faced-sexual-harassment-claims-what-comes-next-",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Former Ubisoft Barcelona devs launch Dark Ritual Studios",
+      "url": "https://www.gamedeveloper.com/business/former-ubisoft-barcelona-devs-launch-dark-ritual-studios",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Remedy Entertainment touts pricing Control Resonant 'attractively for an AAA title'",
+      "url": "https://www.gamedeveloper.com/business/remedy-entertainment-touts-pricing-control-resonant-attractively-for-an-aaa-title-",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Supermassive Games begins third round of layoffs in three years",
+      "url": "https://www.gamedeveloper.com/business/supermassive-games-begins-third-round-of-layoffs-in-three-years",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Fans Created A 2D Demake Of Metroid Prime In Celebration of Metroid Turning 40",
+      "url": "https://kotaku.com/metroid-prime-origins-2d-demake-remake-fans-2000723548",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda\u2019s Office",
+      "url": "https://kotaku.com/xbox-boss-asha-sharma-says-elder-scrolls-vi-looks-great-so-stop-talking-about-that-giant-rat-outside-bethesdas-office-2000723542",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "New Steam Game Is For All You GoldenEye And Perfect Dark Sickos",
+      "url": "https://kotaku.com/new-steam-game-is-for-all-you-goldeneye-and-perfect-dark-sickos-2000723517",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times",
+      "url": "https://kotaku.com/kings-field-4-kill-you-like-it-2000722569",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "In Protest Of Mass Layoffs, Bethesda Devs Greet Xbox Leadership With A Giant Inflatable Rat",
+      "url": "https://kotaku.com/xbox-protests-zenimax-studios-maryland-scabby-cwa-2000723471",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Polygon",
+      "title": "Overwatch Season 4\u2019s Battle Pass Changes Make You Grind Even More for Free Currency",
+      "url": "https://www.polygon.com/overwatch-battle-pass-season-4-changes-free-currency-locked/",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Polygon",
+      "title": "Nintendo Officially Confirms Legend of Zelda: Ocarina of Time Remake",
+      "url": "https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-switch-2-announcement/",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Polygon",
+      "title": "'Lord of the Rings: War in the North' Just Shadow Dropped, and More Remasters Have Been Teased",
+      "url": "https://www.polygon.com/lord-rings-war-north-surprise-remaster-aspyr/",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Polygon",
+      "title": "'Overwatch\u2019 Season 4 Makes a Controversial Change to Lifeweaver\u2019s Life Grip",
+      "url": "https://www.polygon.com/overwatch-lifeweaver-signature-ability-change/",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Much-wishlisted 100-player shooter Wardogs gets an early access release date and promises refunds for anyone unhappy with the closed beta",
+      "url": "https://www.eurogamer.net/wardogs-steam-early-access-release-date-closed-beta",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "\"We live in a world full of AI, let's be honest with ourselves\" - 1666: Amsterdam developer still using AI tools despite recent controversy",
+      "url": "https://www.eurogamer.net/1666-amsterdam-ai-tools-controversy",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Star Wars: Zero Company will be brilliant because XCOM is brilliant",
+      "url": "https://www.eurogamer.net/star-wars-zero-company-preview-xcom",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Until Dawn and Little Nightmares 3 studio Supermassive announces further layoffs, with as many as 75 people expected to lose their jobs",
+      "url": "https://www.eurogamer.net/little-nightmares-3-dark-pictures-supermassive-layoffs",
+      "date": "Tue, 11 Au"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Gears of War E-Day is at the centre of a heated movement debate, as players new and old are torn on wall-bouncing",
+      "url": "https://www.eurogamer.net/gears-of-war-e-day-movement-wall-bouncing-debate-good-or-bad",
       "date": "Tue, 11 Au"
     },
     {
       "source": "IGN",
-      "title": "Halloween: The Game Refused Classification in Australia, So It Won\u2019t Be Sold in New Zealand Despite the Fact That\u2019s a Different Country",
-      "url": "https://www.ign.com/articles/halloween-the-game-refused-classification-in-australia-so-it-wont-be-sold-in-new-zealand-despite-the-fact-thats-a-different-country",
+      "title": "Zack Snyder Returns to Warner Bros. Lot Years After DCEU Exit",
+      "url": "https://www.ign.com/articles/zack-snyder-returns-to-warner-bros-lot-years-after-dceu-exit",
       "date": "Tue, 11 Au"
     },
     {
       "source": "IGN",
-      "title": "AU Deals: Save $100 on a Gigabyte OLED Monitor and get Onimusha: Way of the Sword For Free",
-      "url": "https://www.ign.com/articles/gigabyte-oled-monitor-onimusha-way-of-the-sword-for-free-au-deals",
-      "date": "Tue, 11 Au"
-    },
-    {
-      "source": "IGN",
-      "title": "Get a 36V 500W Adult Electric Bike for $275 Shipped During the AliExpress Back to School Sale",
-      "url": "https://www.ign.com/articles/5th-wheel-electric-bike-deal-august-2026",
+      "title": "Save 50% Off the Ecoflow River 3 Plus Power Station With Detachable Power Bank, Now Just $139",
+      "url": "https://www.ign.com/articles/ecoflow-river-3-plus-power-station-deal-august-2026",
       "date": "Tue, 11 Au"
     },
     {
@@ -31,126 +151,6 @@
       "title": "Ditch the Bubble Level, the Fanttik D2 Pocket Green Laser Level Is Priced Under $30",
       "url": "https://www.ign.com/articles/fanttik-d2-pocket-green-laser-level-deal-august-2026",
       "date": "Tue, 11 Au"
-    },
-    {
-      "source": "IGN",
-      "title": "The JSAUX Screen Protector Is Dirt Cheap Insurance for Your Nintendo Switch 2 for Just $7",
-      "url": "https://www.ign.com/articles/nintendo-switch-screen-protector-deal-august-2026",
-      "date": "Tue, 11 Au"
-    },
-    {
-      "source": "Game Developer",
-      "title": "The video game site backed by Walmart has laid off its editorial team",
-      "url": "https://www.gamedeveloper.com/business/the-video-game-site-backed-by-walmart-has-laid-off-its-editorial-team",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Game Developer",
-      "title": "EVE Online studio hires former Icelandic minister to lead autonomous AI efforts",
-      "url": "https://www.gamedeveloper.com/business/eve-online-studio-hires-former-icelandic-minister-to-lead-autonomous-ai-efforts",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Unity credits AI advertising platform for driving its 'best quarter ever'",
-      "url": "https://www.gamedeveloper.com/business/unity-credits-ai-advertising-platform-for-driving-its-best-quarter-ever-",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "13 Fields of Mistria Tips For First-Time Farmers",
-      "url": "https://kotaku.com/13-fields-of-mistria-tips-for-first-time-farmers-2000723128",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Steam User Claims $109 Refund Despite 470 Hours Played After Battlefield 6 Deletes An Entire Mode",
-      "url": "https://kotaku.com/steam-user-claims-109-refund-despite-470-hours-played-after-battlefield-6-deletes-an-entire-mode-2000723174",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Persona Boss Feels Remake Of 1 And 2 Is Something \u2018We Have To Do\u2019 Eventually",
-      "url": "https://kotaku.com/persona-1-2-remake-atlus-persona-4-revival-interview-2000723161",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Switch Game Some Players Paid $60 For Disappears In A Cloud Of Virtual Smoke",
-      "url": "https://kotaku.com/switch-game-some-players-paid-60-for-disappears-in-a-cloud-of-virtual-smoke-2000723165",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Marvel T\u014dkon PC Patch Improves Struggling Steam Version: \u2018Maybe PS5 Players Will Play With Us Now\u2019",
-      "url": "https://kotaku.com/marvel-tokon-fighting-souls-pc-patch-performance-steam-2000723166",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Polygon",
-      "title": "'House of the Dragon' Officially Rewrites the Saddest Downfall in Game of Thrones History",
-      "url": "https://www.polygon.com/house-of-the-dragon-season-4-changes-rhaenyra/",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Polygon",
-      "title": "2,000 Fortnite Players Hired as Air Traffic Controllers by US Government",
-      "url": "https://www.polygon.com/fortnite-united-states-air-traffic-control/",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Polygon",
-      "title": "Chiikawa the Movie Is Killing It in Japan's Cinemas \u2014 While Leaving Children Crying in Fear",
-      "url": "https://www.polygon.com/chiikawa-the-movie-secret-of-mermaid-island-box-office/",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Polygon",
-      "title": "Marvel Tokon's New PC Patch Finally Makes the Game Work, Players Say",
-      "url": "https://www.polygon.com/marvel-tokon-fighting-souls-pc-patch-reportedly-fixes-game/",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "I've seen much more of 1666: Amsterdam, and the witchy game by the creator of Assassin's Creed has some surprising ideas",
-      "url": "https://www.eurogamer.net/1666-amsterdam-impressions-patrice-desilets",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Assassin's Creed creator's dark and witchy action game 1666: Amsterdam is out in early access sooner than we expected",
-      "url": "https://www.eurogamer.net/amsterdam-1666-early-access-release-date",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "\"They don't understand art\" - id Software lead slams Xbox, says it's \"impossible\" to make games like 2016's Doom now",
-      "url": "https://www.eurogamer.net/id-software-slams-xbox-interview-impossible-aaa-games",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Sean Murray reflects on 10 years of No Man's Sky, its future, and why Hello Games' \"redemption arc\" narrative \"isn't really the story\" of the developer",
-      "url": "https://www.eurogamer.net/sean-murray-hello-games-reflects-10-years-no-mans-sky",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "As developer Arc System Works promises a fix, Marvel T\u014dkon's suffering PC players are creating some bizarre home remedies for its dire performance woes",
-      "url": "https://www.eurogamer.net/marvel-tokon-pc-problems-strange-fixes",
-      "date": "Mon, 10 Au"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Pushing the limits in Simulating a City, One Page at a Time",
-      "url": "https://www.gamedeveloper.com/design/pushing-the-limits-in-simulating-a-city-one-page-at-a-time",
-      "date": "Fri, 07 Au"
-    },
-    {
-      "source": "Game Developer",
-      "title": "GTA V surpasses 230 million sales months before GTA VI touches down",
-      "url": "https://www.gamedeveloper.com/business/gta-v-surpasses-230-million-sales-months-before-gta-vi-touches-down",
-      "date": "Fri, 07 Au"
     }
   ]
 }
