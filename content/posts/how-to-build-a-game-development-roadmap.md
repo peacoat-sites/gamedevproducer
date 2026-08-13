@@ -23,7 +23,7 @@ faqs:
     a: "Document everything. Update your confidence percentages. Make the delta between the current plan and realistic delivery visible in writing, repeatedly. If you're being pressured to maintain a roadmap you know is wrong, that's a project health problem, not a roadmap problem, and your job is to make the risk legible, not to paper over it."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-08-12
 ---
 Most game development roadmaps I've seen are either dishonestly optimistic or so vague they're useless. And I'll be honest: I was guilty of building both kinds before I figured out what actually works.
 
@@ -37,7 +37,7 @@ The first mistake most new producers make is building a roadmap that's really ju
 
 For game development, milestones are the answer. Specific, demonstrable milestones. Not "complete combat" but "player can attack, dodge, and die with final placeholder animations, reviewed and signed off by creative director." The difference matters enormously when you're three months in and someone's debating whether combat is "done enough" to move on.
 
-The industry has fairly standard milestone gates: First Playable, Vertical Slice, Alpha, Beta, Gold. But the definitions vary wildly between studios, and if you're building a roadmap for an indie project or a smaller team, you probably don't need all of them. What you do need is a shared understanding of what each gate means *for your specific project*. Write that definition down. Make it concrete. I've been in milestone reviews where two senior developers had completely different mental models of what "Alpha" meant, and neither of them was wrong by generic industry standards. They were just building different things in their heads.
+The industry has fairly standard milestone gates: First Playable, Vertical Slice, Alpha, Beta, Gold. But the definitions vary wildly between studios, and if you're building a roadmap for an indie project or a smaller team, you probably don't need all of them. What you do need is a shared understanding of what each gate means *for your specific project*. Write that definition down, ideally in a real [milestone document](/posts/how-to-write-a-game-production-milestone-document/), and make it concrete. I've been in milestone reviews where two senior developers had completely different mental models of what "Alpha" meant, and neither of them was wrong by generic industry standards. They were just building different things in their heads.
 
 Define no more than four or five major milestones for a project under two years. Each one should be something you can put in front of a publisher, investor, or even just a fresh playtest group and have them understand the state of the game without you explaining it. If you need to explain why something counts as a milestone, it probably doesn't.
 
@@ -47,7 +47,7 @@ I want to spend some time here because the Vertical Slice milestone is where mos
 
 The Vertical Slice is supposed to be a representative slice of your finished game: one level, one encounter, one complete loop, built to near-shipping quality. The point is to prove the concept before you commit to full production. What actually happens on most projects I've seen, and ran myself, is that the Vertical Slice becomes a showcase artifact built by your best people under crunch, completely disconnected from the production pipeline the rest of the team will use. Then Full Production starts and everything slows to a crawl because nobody built the actual systems during the VS, they built the *impression* of the systems.
 
-What surprised me when I started talking to producers at studios like Klei, Supergiant, and some of the mid-size European studios is how differently they approach this. Some skip a formal VS entirely in favor of aggressive prototyping phases where they're explicitly allowed to throw things away. Others treat the VS as a systems test, not a visual quality test. The specific approach matters less than the intent: use the pre-production phase to answer your highest-risk questions, not to build something impressive.
+What stands out talking to producers across different studios is how differently they approach this. Some skip a formal VS entirely in favor of aggressive prototyping phases where they're explicitly allowed to throw things away. Others treat the VS as a systems test, not a visual quality test. The specific approach matters less than the intent: use the pre-production phase to answer your highest-risk questions, not to build something impressive.
 
 When you're plotting this milestone on your roadmap, ask yourself: what are the three things most likely to kill this project? Put those in front of the VS. If the core loop is risky, prototype it first. If the tech is risky, prove the tech. Don't build the UI before you know whether the core mechanic is fun.
 
@@ -71,22 +71,36 @@ The research on this is genuinely mixed. Some designers argue that constraints b
 
 The roadmap is your tool for making scope decisions visible. When someone wants to add a feature, the question isn't "is this a good idea?" The question is: "which milestone does this fall before, and what does it push out?" Making the tradeoff explicit changes the conversation. I've watched feature requests evaporate the moment a developer has to say out loud which other thing they're willing to delay.
 
-There are two books I keep recommending on this. "The Art of Game Design" by Jesse Schell (third edition, around $45) covers design decision-making in ways that directly inform scope conversations. For the production and business side, "Blood, Sweat, and Pixels" by Jason Schreier is required reading. Not as a how-to, but because it documents, with brutal specificity, what happens when scope and roadmap discipline break down. Reading about Destiny's development hell or The Witcher 3's near-collapse is more instructive than any framework.
+There are two books I keep recommending on this. "The Art of Game Design" by Jesse Schell covers design decision-making in ways that directly inform scope conversations. For the production and business side, "Blood, Sweat, and Pixels" by Jason Schreier is required reading. Not as a how-to, but because it documents, with brutal specificity, what happens when scope and roadmap discipline break down.
 
-For online learning, the Game Production Fundamentals course on Coursera (offered through Michigan State, usually around $49) is decent for newer producers learning the vocabulary. If you want something more applied, Riot Games and some former AAA producers have published production talks through GDC Vault that are worth a few hours of your time, many of them are free.
+## The endgame: code lock, cert, and going gold
+
+There's one stretch of the roadmap worth calling out on its own, because it runs on someone else's clock: the path from code lock to a shipping build. On console especially, "launch" is not the real deadline. Certification is, and it sits weeks earlier.
+
+The back end of the schedule usually runs in this order:
+
+- **Feature complete / code complete.** Everything intended is in and building; no new systems after this point.
+- **The locks.** Larger teams lock in stages to stabilize: art lock, audio lock, design lock. A locked department stops producing new content and only fixes and tunes. The last of these, content lock, is the bridge to certification.
+- **Code lock (hard lock).** Only critical, cert-blocking fixes go in, because every change is now a risk to a build you are about to submit.
+- **Release candidate / candidate master.** The build you actually submit.
+- **Certification.** The platform holders test your build against their technical and policy requirements. Sony's checklist is the TRC, Microsoft's the TCR, and Nintendo runs Lotcheck.
+- **Gold master.** The approved build, locked for distribution. Going gold means certification passed.
+
+The reason this belongs on the roadmap and not just in a QA plan is the calendar cost. Certification review commonly runs one to four weeks per submission, and roughly six to ten weeks per platform from first submission to approval once resubmissions are counted. First submissions frequently come back with issues, so it's reasonable to budget two to three rounds per platform, with each rejection adding a few weeks to fix, rebuild, regression-test, and resubmit. On a multi-platform launch, those windows stack.
+
+The practical implication is straightforward: schedule backward from the certification submission date rather than the store date, and set code lock earlier than the team expects to need it. Placing the cert window on the roadmap early, and treating it as fixed, lets the final stretch of production plan around it instead of colliding with it.
 
 ## Living with uncertainty without lying to yourself
 
-## Sources
-
-- [Felicity Tai](https://www.pexels.com/@felicity-tai)
-- on this is genuinely mixed
-
-
 Your roadmap is a hypothesis. The moment you treat it as a commitment, it starts killing your project. This sounds obvious but the pressure comes from everywhere: publishers want dates, team members want clarity, you want to believe you know what you're doing. The answer isn't a more detailed roadmap. It's a more honest conversation about confidence levels.
 
-I started doing something a few years ago that I picked up from a producer at Double Fine: explicitly labeling each milestone with a confidence percentage. Not "the game ships in Q3 2026" but "we're targeting Q3 2026, currently 60% confident." That number forces a conversation. When it drops, something's wrong. When it rises, you've de-risked something real. It sounds soft but it's actually more rigorous than a clean date, because it acknowledges what you actually know.
+A practice I started leaning on a few years ago is explicitly labeling each milestone with a confidence percentage. Not "the game ships in Q3 2026" but "we're targeting Q3 2026, currently 60% confident." That number forces a conversation. When it drops, something's wrong. When it rises, you've de-risked something real. It sounds soft but it's actually more rigorous than a clean date, because it acknowledges what you actually know.
 
 Update your roadmap in a regular cadence, at least monthly, more often if you're in pre-production. Treat updates as a ritual, not a crisis response. If your roadmap only changes when something goes catastrophically wrong, you've lost the plot.
+
+## Sources
+
+- [Game development process and milestone gates (GDKeys)](https://gdkeys.com/game-development-process/)
+- [Certification and submission testing: TRC, TCR, and Lotcheck (Kudos QA)](https://www.kudosqa.com/services/certification-submission-testing)
 
 *Photo: [Felicity Tai](https://www.pexels.com/@felicity-tai) via Pexels*
