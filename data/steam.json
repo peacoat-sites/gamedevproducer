@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-12",
+  "updated": "2026-08-13",
   "items": [
     {
-      "name": "Shanhai Exorcist: Yin-Yang Chronicles",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986290/d4668cb8afa86881579cfc0b5c4abfdb2cccda62/header.jpg?t=1786518119",
-      "url": "https://store.steampowered.com/app/4986290/",
-      "short_description": "",
-      "final_price": 3059
-    },
-    {
-      "name": "Wacky! Deer & Munk Adventure",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4915120/15533f51514bd1fb92fb005df757c862bd4d8c4f/header.jpg?t=1786518049",
-      "url": "https://store.steampowered.com/app/4915120/",
-      "short_description": "",
-      "final_price": 3059
-    },
-    {
-      "name": "\u6211\u7684\u50b2\u5a07\u59b9\u59b9 MY TSUNDERE SISTER",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4622110/6185ecdbdfb24642b52072de13981f41b7ca73be/header.jpg?t=1786517900",
-      "url": "https://store.steampowered.com/app/4622110/",
-      "short_description": "",
-      "final_price": 715
-    },
-    {
-      "name": "Big Bad Pharma",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953610/1517978112c058f19faa82a411006f1194c9fa0a/header.jpg?t=1786511487",
-      "url": "https://store.steampowered.com/app/4953610/",
-      "short_description": "",
-      "final_price": 2407
-    },
-    {
-      "name": "\u4e16\u754c\u676f   \u65e0\u540d\u5c0f\u56fd\u7684\u593a\u51a0\u4e4b\u8def",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906860/83c98664a6d7610d4742eb36afb8668968433e68/header.jpg?t=1786505182",
-      "url": "https://store.steampowered.com/app/4906860/",
-      "short_description": "",
-      "final_price": 795
-    },
-    {
-      "name": "TASMON: Taskbar Monsters",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985540/0851aa70d6f95ffc9dcdacec2a1c438a9b8021f6/header.jpg?t=1786503560",
-      "url": "https://store.steampowered.com/app/4985540/",
+      "name": "Demon Queen's Hero Act",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986930/77f36626b3dcd6565a600ef88b573192b66f82a8/header.jpg?t=1786604974",
+      "url": "https://store.steampowered.com/app/4986930/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "SWEYET(etc.)",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3063200/16ff44155e42ebcd6612f0d6d2d5399f5600714d/header.jpg?t=1786501952",
-      "url": "https://store.steampowered.com/app/3063200/",
+      "name": "Dense Forest",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4843300/1864b208c950c68bd510d2f480cb45e9e21e4f09/header.jpg?t=1786604866",
+      "url": "https://store.steampowered.com/app/4843300/",
       "short_description": "",
-      "final_price": 2474
+      "final_price": 179
     },
     {
-      "name": "\u4e09\u570b\u9f0e\u7acbOnline Remastered",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770830/a179406eb63c7b7af667b1f993ac6ae72182f250/header.jpg?t=1786500357",
-      "url": "https://store.steampowered.com/app/4770830/",
+      "name": "Archomni 2: Mondus Maxima",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967010/9219b4f6cebeffc7cd075b3bcdf34414a87092d6/header.jpg?t=1786604466",
+      "url": "https://store.steampowered.com/app/4967010/",
+      "short_description": "",
+      "final_price": 1508
+    },
+    {
+      "name": "VanySlash",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2871010/header.jpg?t=1786604426",
+      "url": "https://store.steampowered.com/app/2871010/",
+      "short_description": "",
+      "final_price": 1619
+    },
+    {
+      "name": "Black Gold - Shining Town",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4228690/76d0731a31e70b21a988d9c2d37d26b74386f6b4/header.jpg?t=1786604406",
+      "url": "https://store.steampowered.com/app/4228690/",
+      "short_description": "",
+      "final_price": 1259
+    },
+    {
+      "name": "GirlFishing: Catch your Girlfriend!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4907960/31d98faf6ddcd6be619c9ae625c1505b2588e813/header.jpg?t=1786597410",
+      "url": "https://store.steampowered.com/app/4907960/",
+      "short_description": "",
+      "final_price": 392
+    },
+    {
+      "name": "Tidy Mart",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4967500/f91b5a01743bda87e16c83a5cf27ef68b428aa72/header.jpg?t=1786597263",
+      "url": "https://store.steampowered.com/app/4967500/",
+      "short_description": "",
+      "final_price": 449
+    },
+    {
+      "name": "IGS Classic Arcade Collection",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417140/7100b485629fde68ee1226f9a560ce33858824e2/header.jpg?t=1786597025",
+      "url": "https://store.steampowered.com/app/3417140/",
+      "short_description": "",
+      "final_price": 2699
+    },
+    {
+      "name": "Area Survivors",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4980380/995f203e44df289bf25a465cc4d6d9df97dbe0df/header.jpg?t=1786593696",
+      "url": "https://store.steampowered.com/app/4980380/",
+      "short_description": "",
+      "final_price": 360
+    },
+    {
+      "name": "Saikey Assets Manager",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877980/caad2d918a45442cd4417ec60b148309f74ddfc3/header.jpg?t=1786589748",
+      "url": "https://store.steampowered.com/app/4877980/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Underwater DuO",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3736310/6d1ab582ba06850feb53503b5f6a2bda80762036/header.jpg?t=1786501572",
-      "url": "https://store.steampowered.com/app/3736310/",
+      "name": "Dinotica",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3336520/3364bb97392eaaf1db91a0997a03361a6d3c307f/header.jpg?t=1786589593",
+      "url": "https://store.steampowered.com/app/3336520/",
       "short_description": "",
-      "final_price": 1338
+      "final_price": 1349
     },
     {
-      "name": "Heartbeat Impact",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809100/af383dcefeb5b0ed857ca07558c84884483222e8/header.jpg?t=1786499389",
-      "url": "https://store.steampowered.com/app/4809100/",
+      "name": "Void Authority",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3871110/463fba2952e4e87199cbafbdd8941d7ac549bcf6/header.jpg?t=1786588128",
+      "url": "https://store.steampowered.com/app/3871110/",
       "short_description": "",
-      "final_price": 1417
-    },
-    {
-      "name": "MINERALS: Deep Core Mining",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4639040/18f787c6b7dc791338d957ccab4c2d8254061408/header.jpg?t=1786498668",
-      "url": "https://store.steampowered.com/app/4639040/",
-      "short_description": "",
-      "final_price": 2549
-    },
-    {
-      "name": "Transformation Tycoon",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799850/header.jpg?t=1786497448",
-      "url": "https://store.steampowered.com/app/1799850/",
-      "short_description": "",
-      "final_price": 0
+      "final_price": 539
     }
   ]
 }
