@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-14",
+  "updated": "2026-08-15",
   "items": [
     {
-      "name": "Valentine in Bitterness",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3999750/39f8d173c913ee915af27efecd7a2a98c5de9378/header.jpg?t=1786692485",
-      "url": "https://store.steampowered.com/app/3999750/",
+      "name": "Flowers and Deities",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816000/3d273562cd5d17c00e0621ad87a880dafd7e4441/header.jpg?t=1786773618",
+      "url": "https://store.steampowered.com/app/3816000/",
       "short_description": "",
-      "final_price": 284
+      "final_price": 1214
     },
     {
-      "name": "Blue Sign",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911340/cc81574f1bcaab792eee47dd3ad38cd42f16f08e/header.jpg?t=1786692053",
-      "url": "https://store.steampowered.com/app/4911340/",
+      "name": "Super Rhythm Fit",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279200/28e18cd5caf2502f09d336a69b5cec2cdd87b02e/header.jpg?t=1786771541",
+      "url": "https://store.steampowered.com/app/4279200/",
+      "short_description": "",
+      "final_price": 922
+    },
+    {
+      "name": "Sands of Skullcreek",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566840/header.jpg?t=1786767657",
+      "url": "https://store.steampowered.com/app/2566840/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "The Ancient Caverns",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4977130/941bbfdaa822d319d2c449c3e239da456863a316/header.jpg?t=1786691363",
-      "url": "https://store.steampowered.com/app/4977130/",
+      "name": "VisApex",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854520/df7489ff9822ea60073d4487cc069de86490f379/header.jpg?t=1786767266",
+      "url": "https://store.steampowered.com/app/4854520/",
       "short_description": "",
-      "final_price": 1025
+      "final_price": 2549
     },
     {
-      "name": "Fluff'n'Roll",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321020/f9c3ff9d3e16b4b9c9b8269f88683bb13699fb0e/header.jpg?t=1786690880",
-      "url": "https://store.steampowered.com/app/3321020/",
+      "name": "Chronicles of Clams Island",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395020/93ccd37df86ec6ad7c2e667ed8fe3a626e90e4fd/header.jpg?t=1786764069",
+      "url": "https://store.steampowered.com/app/4395020/",
       "short_description": "",
-      "final_price": 467
+      "final_price": 980
     },
     {
-      "name": "\u4e71\u4e16\u6c5f\u5c71",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4729340/22462efd029e5364bdd9dff60f752d7ba9aeb63b/header.jpg?t=1786690854",
-      "url": "https://store.steampowered.com/app/4729340/",
+      "name": "Sister Other Paranoia",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240150/f04bd496b142e15f6d1fad725bb2d9a4db49bccf/header.jpg?t=1786763090",
+      "url": "https://store.steampowered.com/app/4240150/",
+      "short_description": "",
+      "final_price": 799
+    },
+    {
+      "name": "Trick \u00d7 Trick",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322230/0d7106cc5b4e39bea72fc155df454117be7ddc49/header.jpg?t=1786762224",
+      "url": "https://store.steampowered.com/app/4322230/",
+      "short_description": "",
+      "final_price": 1079
+    },
+    {
+      "name": "Bratki",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4359170/19f776739ef031b097f227f24458cfad45bbc3da/header.jpg?t=1786760847",
+      "url": "https://store.steampowered.com/app/4359170/",
+      "short_description": "",
+      "final_price": 441
+    },
+    {
+      "name": "Sealed",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960260/e2bcfbd95d4f85fee2521bcf9d324df0559b550c/header.jpg?t=1786760823",
+      "url": "https://store.steampowered.com/app/4960260/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Chinese Street Food Legend",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3584920/cd40d2003417f550bf57142d0c02a3fb3f096edb/header.jpg?t=1786693614",
-      "url": "https://store.steampowered.com/app/3584920/",
+      "name": "FairyLand",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823970/066b034d72af050c6b4d7a5c3d45cce19260f01e/header.jpg?t=1786752203",
+      "url": "https://store.steampowered.com/app/4823970/",
       "short_description": "",
-      "final_price": 373
+      "final_price": 209
     },
     {
-      "name": "SURA: Shattered Star",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4914580/56d0f91bc136f34c72b74e6a483cd0ef00af99b3/header.jpg?t=1786690810",
-      "url": "https://store.steampowered.com/app/4914580/",
+      "name": "The Newspapers of the day",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930370/75bebc940018bc4ee9ca1211c57ed8728dc281f8/header.jpg?t=1786750853",
+      "url": "https://store.steampowered.com/app/3930370/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 1649
     },
     {
-      "name": "heXtreaming:Deep",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106050/894445f0a3c08ade4316e90ea33fc0fd9685da13/header.jpg?t=1786690804",
-      "url": "https://store.steampowered.com/app/2106050/",
+      "name": "I Was a Failed Day Trader Who Lost Everything, But After Being Reincarnated in Another World, My Textbook Technical Analysis Actually Works and Now I'm the Richest Man in the Kingdom!?",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981130/bcfc42c9faa4d5ffba3f52d9d68ddd33b338d9e6/header.jpg?t=1786747526",
+      "url": "https://store.steampowered.com/app/4981130/",
       "short_description": "",
-      "final_price": 1304
-    },
-    {
-      "name": "No Results Found",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911390/926ef9259ad8bbefe82f400fed91ac305fae5df2/header.jpg?t=1786690802",
-      "url": "https://store.steampowered.com/app/4911390/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Kiss And Cry\uff1a\u6211\u7684\u5973\u53cb\u8111\u5b50\u6709\u95ee\u9898",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054420/f72c0b33da9eab89dfd12c66ad08ebd373cd939d/header.jpg?t=1786690698",
-      "url": "https://store.steampowered.com/app/4054420/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Aussie Rules Legend",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986110/29012f5467e25e4f4c0dcde69b55ec31b869d9aa/header.jpg?t=1786688638",
-      "url": "https://store.steampowered.com/app/4986110/",
-      "short_description": "",
-      "final_price": 1549
-    },
-    {
-      "name": "TickWords",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3895070/75350bae051d4089e86c42968d0a4c3ca403c627/header.jpg?t=1786684032",
-      "url": "https://store.steampowered.com/app/3895070/",
-      "short_description": "",
-      "final_price": 2205
+      "final_price": 188
     }
   ]
 }
