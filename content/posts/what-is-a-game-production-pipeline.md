@@ -63,7 +63,6 @@ Audio gets chronically underestimated. Sound designers often don't get assets to
 
 ## Sources
 
-- [Adonis Arias](https://www.pexels.com/@adonisariass)
 - collection
 
 

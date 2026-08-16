@@ -86,7 +86,6 @@ The tools I actually recommend for this: Google Sheets for your financial model 
 
 ## Sources
 
-- [RDNE Stock project](https://www.pexels.com/@rdne)
 - how do I survive long enough to finish one? Those
 
 

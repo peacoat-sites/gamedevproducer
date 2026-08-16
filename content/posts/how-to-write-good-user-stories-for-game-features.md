@@ -71,7 +71,6 @@ That's a story you can build, QA, and close. The vague version just generates me
 
 ## Sources
 
-- [RDNE Stock project](https://www.pexels.com/@rdne)
 - The Player One
 - As a player, I want a death screen. This
 - persists across sessions

@@ -77,7 +77,6 @@ Recommended reading if you want to go deeper: "Game Testing: All In One" by Char
 
 ## Sources
 
-- [cottonbro studio](https://www.pexels.com/@cottonbro)
 - that says "the game crashed when I was near the forest" is nearly worthless
 - that says "reproducible crash when entering Birchwood Forest from the eastern en
 - doesn't have those five things

@@ -95,7 +95,6 @@ Here's a practical sequence for the post-launch window, broken into phases:
 
 ## Sources
 
-- [hitesh choudhary](https://www.pexels.com/@hiteshchoudhary)
 - Do I want to keep doing this here? The
 
 

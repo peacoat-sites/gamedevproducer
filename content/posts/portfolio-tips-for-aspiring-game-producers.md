@@ -65,7 +65,6 @@ One thing I'd cut: elaborate interactive portfolio websites unless you're genuin
 
 ## Sources
 
-- [Pew Nguyen](https://www.pexels.com/@nguyendesigner)
 - helping. A
 
 

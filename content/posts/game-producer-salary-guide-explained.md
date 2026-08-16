@@ -95,7 +95,6 @@ Healthcare and PTO aren't glamorous. But a job with $105,000 salary and excellen
 
 ## Sources
 
-- [Aukid phumsirichat](https://www.pexels.com/@aukid-phumsirichat-3095759)
 - I've reviewed
 - Your Specific Number
 - publishes data periodically and is specific to games

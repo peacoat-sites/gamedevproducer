@@ -186,7 +186,6 @@ End scene. Nothing got overridden. No authority clash. Both roles got heard. A d
 
 ## Sources
 
-- [Ron Lach](https://www.pexels.com/@ron-lach)
 - given our actual constraints, what's the best creative output we can guarantee? The
 - Perfect. I'll update the roadmap, flag the underwater work to the next quarter, and we'll start planning weather integration tomorrow. End
 

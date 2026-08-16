@@ -120,7 +120,6 @@ Skipping or rushing any of these steps is how you end up with a botched launch t
 - [Jira](https://www.atlassian.com/software/jira)
 - [Hack n Plan](https://hacknplan.com/)
 - [Notion](https://www.notion.so/)
-- [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818)
 
 
 Definitions alone aren't enough. You need process structures that make everyone operate from the same understanding.

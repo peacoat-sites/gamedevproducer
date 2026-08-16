@@ -99,7 +99,6 @@ What surprised me when I started doing this consistently was how quickly team mo
 
 ## Sources
 
-- [Quyn Phạm](https://www.pexels.com/@quyn-ph-m-255082234)
 - on retrospective effectiveness is genuinely mixed
 
 

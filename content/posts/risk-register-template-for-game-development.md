@@ -100,7 +100,6 @@ Don't let the register bloat forever. If you're adding risks but never closing t
 
 ## Sources
 
-- [Kampus Production](https://www.pexels.com/@kampus)
 
 
 For the register itself, **Notion** with a filtered database view is my recommendation for indie and mid-size teams. You can link risks directly to sprint tasks, which creates useful traceability. **Airtable** works similarly. For teams already inside Jira, the Confluence marketplace has risk register templates that integrate cleanly.

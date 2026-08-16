@@ -101,7 +101,6 @@ Game producers are also deeply embedded in studio culture in a way film producer
 
 ## Sources
 
-- [Donald Tong](https://www.pexels.com/@donaldtong94)
 - How different can it be? Very
 
 

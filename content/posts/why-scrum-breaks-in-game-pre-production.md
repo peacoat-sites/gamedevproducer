@@ -106,7 +106,6 @@ Here's a step-by-step approach that works:
 
 ## Sources
 
-- [cottonbro studio](https://www.pexels.com/@cottonbro)
 - did we reduce uncertainty enough to make the next decision? This
 - did we hit our velocity target? For
 - before she can write a single user story

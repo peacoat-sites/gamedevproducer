@@ -101,7 +101,6 @@ Fill out every metadata field Valve gives you: developer name, publisher, releas
 
 ## Sources
 
-- [Matheus Bertelli](https://www.pexels.com/@bertellifotografia)
 - field Valve gives you: developer name
 
 

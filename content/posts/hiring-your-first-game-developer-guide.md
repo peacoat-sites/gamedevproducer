@@ -104,7 +104,6 @@ References still matter. Ask for two people they shipped something with, not man
 ## Sources
 
 - [jobs board](https://itch.io/jobs)
-- [Zayed Hossain](https://www.pexels.com/@zayed-hossain-52728970)
 
 
 This is the section most guides skip because it's awkward. Don't be awkward. Money is information.

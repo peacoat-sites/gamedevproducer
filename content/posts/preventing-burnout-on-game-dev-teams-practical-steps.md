@@ -94,7 +94,6 @@ Specific tactics that actually move the needle:
 
 ## Sources
 
-- [RDNE Stock project](https://www.pexels.com/@rdne)
 - everyone else is still working. 2
 - collection
 

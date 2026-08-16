@@ -106,7 +106,6 @@ Run a pre-certification audit six to eight weeks before your planned submission 
 
 ## Sources
 
-- [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch)
 - gracefully
 
 

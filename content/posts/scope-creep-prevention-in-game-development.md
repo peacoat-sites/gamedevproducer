@@ -97,7 +97,6 @@ If that doesn't work, you need to document it. Not as protection (though it is t
 - [Jira](https://www.atlassian.com/software/jira)
 - [Hacknplan](https://hacknplan.com/)
 - [Game Production Masterclass on Udemy](https://www.udemy.com/topic/game-development/)
-- [nappy](https://www.pexels.com/@nappy)
 - on whether better planning actually prevents scope creep is messy
 
 
