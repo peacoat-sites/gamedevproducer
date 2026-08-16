@@ -23,13 +23,14 @@ faqs:
     a: "Writing too much before anyone has played anything. The second most common is writing a document nobody can find or knows to update. Both of these kill the document's usefulness. Start lean, keep it in a shared wiki, and treat updates as a team habit."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-08-12
 ---
+
 Most game design documents are dead on arrival. Not because the designer didn't care, not because the game idea was bad. Because the writer confused thoroughness with usefulness, and produced something so dense that nobody on the team actually read it.
 
-I'll be honest: I've been guilty of this myself. My first GDD at a mid-size studio in 2011 was 94 pages. Gorgeous formatting, a table of contents with four levels of nesting, a five-page section on the fictional history of a kingdom the player would spend about forty minutes in. My lead programmer read the first twelve pages, then asked me to walk him through the rest verbally. That conversation took twenty minutes. The GDD took six weeks.
+It's a classic first-timer mistake, and an easy one to make. Picture the beautifully formatted hundred-page GDD: four levels of nested headings, a five-page fictional history of a kingdom the player will spend forty minutes in. The lead programmer reads the first dozen pages, then asks to be walked through the rest verbally. That conversation takes twenty minutes. The document took six weeks.
 
-That experience broke something useful in me. I stopped thinking about the GDD as a document and started thinking about it as a communication tool with a specific job to do. Different job, different output entirely.
+The fix is a mindset shift: stop treating the GDD as a document and start treating it as a communication tool with a specific job to do. Different job, different output entirely.
 
 ## What a GDD Is Actually For
 
@@ -43,7 +44,7 @@ The mistake is writing one document that tries to speak to all of those audience
 
 ## The Structure That Actually Gets Used
 
-I've reviewed probably 300 GDDs at this point, from solo projects to $40M productions. The ones that get referenced, revised, and actually shape the game tend to share a specific structure. Not identical formatting, but the same load-bearing sections.
+Across a lot of GDDs, from solo projects to big-budget productions, the ones that get referenced, revised, and actually shape the game tend to share a specific structure. Not identical formatting, but the same load-bearing sections.
 
 **The one-page pitch.** Always first. Before anything else, a reader needs to know: what is this game, who is it for, why does it exist, and what's the core loop. One page, no exceptions. If you can't do it in one page you don't understand your own game well enough yet. Harsh, but true. The format I use: a logline (one sentence, genre plus hook), a target player description, a core experience statement ("the player should feel like..."), and a short paragraph on the primary mechanic. Done.
 
@@ -71,18 +72,13 @@ And that's the living document problem. The GDD has to stay current or it become
 
 Write a "what this game is not" section. Seriously.
 
-Scope creep doesn't usually come from someone proposing a wild, obviously-out-of-scope feature. It comes from reasonable people making reasonable extensions of the existing design, each one small, collectively catastrophic. A clear articulation of what you've deliberately excluded -- and why -- is worth more than any number of schedule buffers.
+Scope creep doesn't usually come from someone proposing a wild, obviously-out-of-scope feature. It comes from reasonable people making reasonable extensions of the existing design, each one small, collectively catastrophic. A clear articulation of what you've deliberately excluded, and why, is worth more than any number of schedule buffers.
 
-On a roguelike project I worked on a few years back, we had a line in the GDD that said "no player housing, no relationship systems, no persistent world state between runs beyond the meta-progression defined in section 4." Every time someone proposed a new feature (and they always did, features are fun to propose), we could point to that line and have a conversation grounded in an actual decision we'd documented, not a vague appeal to scope.
+One of the most useful lines I have seen in a GDD was blunt: "no player housing, no relationship systems, no persistent world state between runs beyond the meta-progression defined in section 4." Every time someone proposes a new feature, and they always do, because features are fun to propose, the team can point to that line and have a conversation grounded in a documented decision rather than a vague appeal to scope.
 
-What surprised me about this section was how much the team liked writing it. There's something clarifying about articulating your constraints out loud. It makes the thing you are building feel more real.
+What surprises people about this section is how much teams enjoy writing it. There's something clarifying about articulating your constraints out loud. It makes the thing you are building feel more real.
 
 ## Making It Readable for Non-Designers
-
-## Sources
-
-- [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko)
-
 
 Your programmer doesn't read for pleasure. Your concept artist is going to open this document once, skim it, and leave. You have about ninety seconds before they close the tab.
 
