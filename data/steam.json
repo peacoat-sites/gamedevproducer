@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-15",
+  "updated": "2026-08-16",
   "items": [
     {
-      "name": "Flowers and Deities",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816000/3d273562cd5d17c00e0621ad87a880dafd7e4441/header.jpg?t=1786773618",
-      "url": "https://store.steampowered.com/app/3816000/",
-      "short_description": "",
-      "final_price": 1214
-    },
-    {
-      "name": "Super Rhythm Fit",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4279200/28e18cd5caf2502f09d336a69b5cec2cdd87b02e/header.jpg?t=1786771541",
-      "url": "https://store.steampowered.com/app/4279200/",
-      "short_description": "",
-      "final_price": 922
-    },
-    {
-      "name": "Sands of Skullcreek",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2566840/header.jpg?t=1786767657",
-      "url": "https://store.steampowered.com/app/2566840/",
+      "name": "Chicken_Run",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4901590/d3acdea553838574dd9e3a13bb57b7aadbf172b1/header.jpg?t=1786855714",
+      "url": "https://store.steampowered.com/app/4901590/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "VisApex",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854520/df7489ff9822ea60073d4487cc069de86490f379/header.jpg?t=1786767266",
-      "url": "https://store.steampowered.com/app/4854520/",
+      "name": "Cosmic Crossover",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4977910/8ab040aad5fbce0b09ddc8bb5792dd55e8395745/header.jpg?t=1786850686",
+      "url": "https://store.steampowered.com/app/4977910/",
       "short_description": "",
-      "final_price": 2549
+      "final_price": 449
     },
     {
-      "name": "Chronicles of Clams Island",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395020/93ccd37df86ec6ad7c2e667ed8fe3a626e90e4fd/header.jpg?t=1786764069",
-      "url": "https://store.steampowered.com/app/4395020/",
+      "name": "Century\u2019s End Awakening",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4659330/90d81baf481ffae4ac6c1ebebd3155d9562b7bfe/header.jpg?t=1786844813",
+      "url": "https://store.steampowered.com/app/4659330/",
       "short_description": "",
-      "final_price": 980
+      "final_price": 374
     },
     {
-      "name": "Sister Other Paranoia",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240150/f04bd496b142e15f6d1fad725bb2d9a4db49bccf/header.jpg?t=1786763090",
-      "url": "https://store.steampowered.com/app/4240150/",
+      "name": "Octo Armada",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4883890/abe83ca0132f94a23cc307e04752934c30790583/header.jpg?t=1786842413",
+      "url": "https://store.steampowered.com/app/4883890/",
       "short_description": "",
-      "final_price": 799
+      "final_price": 179
     },
     {
-      "name": "Trick \u00d7 Trick",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322230/0d7106cc5b4e39bea72fc155df454117be7ddc49/header.jpg?t=1786762224",
-      "url": "https://store.steampowered.com/app/4322230/",
+      "name": "One Day To Live",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4206840/2d4fd6f482bb2bf409b4a112482a190c6d089b6b/header.jpg?t=1786841886",
+      "url": "https://store.steampowered.com/app/4206840/",
       "short_description": "",
-      "final_price": 1079
+      "final_price": 899
     },
     {
-      "name": "Bratki",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4359170/19f776739ef031b097f227f24458cfad45bbc3da/header.jpg?t=1786760847",
-      "url": "https://store.steampowered.com/app/4359170/",
-      "short_description": "",
-      "final_price": 441
-    },
-    {
-      "name": "Sealed",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960260/e2bcfbd95d4f85fee2521bcf9d324df0559b550c/header.jpg?t=1786760823",
-      "url": "https://store.steampowered.com/app/4960260/",
+      "name": "3D Printer Manager",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2498780/f57d1e7994eac11bebf8299e6c59a2692a557d7c/header.jpg?t=1786837482",
+      "url": "https://store.steampowered.com/app/2498780/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "FairyLand",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823970/066b034d72af050c6b4d7a5c3d45cce19260f01e/header.jpg?t=1786752203",
-      "url": "https://store.steampowered.com/app/4823970/",
+      "name": "Bear With Me: The Pizza Chronicles (Prequel)",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4913420/fbe92306f2560cf9f0d614710f72984ba25b47c0/header.jpg?t=1786829449",
+      "url": "https://store.steampowered.com/app/4913420/",
       "short_description": "",
-      "final_price": 209
+      "final_price": 0
     },
     {
-      "name": "The Newspapers of the day",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3930370/75bebc940018bc4ee9ca1211c57ed8728dc281f8/header.jpg?t=1786750853",
-      "url": "https://store.steampowered.com/app/3930370/",
+      "name": "Libera Nos a Malo",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4902060/b7fdd85c1c1f2afc8229abe24876bff8af20c216/header.jpg?t=1786815678",
+      "url": "https://store.steampowered.com/app/4902060/",
       "short_description": "",
-      "final_price": 1649
+      "final_price": 199
     },
     {
-      "name": "I Was a Failed Day Trader Who Lost Everything, But After Being Reincarnated in Another World, My Textbook Technical Analysis Actually Works and Now I'm the Richest Man in the Kingdom!?",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981130/bcfc42c9faa4d5ffba3f52d9d68ddd33b338d9e6/header.jpg?t=1786747526",
-      "url": "https://store.steampowered.com/app/4981130/",
+      "name": "Harvest Yuuka",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767620/6c9020e0085521361786bb0050bc8fa8acdbc1f2/header.jpg?t=1786810999",
+      "url": "https://store.steampowered.com/app/3767620/",
       "short_description": "",
-      "final_price": 188
+      "final_price": 2249
+    },
+    {
+      "name": "Hidden Pets: 101 Cats in Athens",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4949840/12ae51abf71027742a67fa73b65c1e1b2e4e8d9b/header.jpg?t=1786808947",
+      "url": "https://store.steampowered.com/app/4949840/",
+      "short_description": "",
+      "final_price": 59
+    },
+    {
+      "name": "VN Engine 2D",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4712050/c758b067fcc6e4de6ba39cd35732dfb99cca7ba4/header.jpg?t=1786806196",
+      "url": "https://store.steampowered.com/app/4712050/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Monster Girls: You Can't Say No - Wallpapers\ud83d\udd1e",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5054000/341f6236b22de47ae00b05b0120b9fd91052d828/header.jpg?t=1786805579",
+      "url": "https://store.steampowered.com/app/5054000/",
+      "short_description": "",
+      "final_price": 254
     }
   ]
 }
