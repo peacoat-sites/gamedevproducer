@@ -23,8 +23,9 @@ faqs:
    a: "Hack n Plan is built specifically for games, so things like discipline tagging, milestone structure, and estimation are already built in without configuration. Jira is more powerful and more flexible but starts as a blank slate you have to shape for game dev use. For a team that doesn't have a producer or project manager with Jira experience, Hack n Plan gets you productive faster. For a team with complex QA pipelines or publisher reporting requirements, Jira's depth is worth the setup time."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-08-12
 ---
+
 You're three weeks into production, your team is split across two time zones, and someone just pinged you asking which version of the level design doc is "the real one." There are four copies. Two are in Discord, one's in a Google Drive folder nobody can find, and the last one is in a Notion page that got duplicated by accident. This kills momentum on otherwise solid projects. I've watched teams spend entire sprint reviews untangling documentation chaos instead of reviewing actual work. The right tools won't make you a better producer overnight, but the wrong ones, or having no system at all, will quietly wreck you.
 
 ## Why Game Dev Has Unique Project Management Needs
@@ -33,7 +34,7 @@ Most project management advice is written for software teams shipping quarterly 
 
 Here's what most people miss: the tool doesn't have to be games-specific to work. It has to be flexible enough to handle the weird, non-linear way game production actually moves. A lot of studios waste months searching for the "perfect" game dev tool when a well-configured general-purpose tool would've gotten them shipping months ago.
 
-## Core Project Management Platforms: A Honest Comparison
+## Core Project Management Platforms: An Honest Comparison
 
 Here's how the main options stack up for game teams specifically:
 
@@ -62,7 +63,7 @@ For version control on actual game files and assets, Perforce (Helix Core) is th
 
 Discord is where most indie teams live, and that's fine, but Discord without structure is just a faster way to lose information. Set up dedicated channels per discipline, a clear #announcements channel that only leads post in, and a searchable #decisions log where you drop any call-to-action from meetings.
 
-Slack is the more professional alternative with better search and thread management. If you're [working with external partners](/the-creative-director-producer-relationship-explained/) or have more than 15 people, Slack's thread-based conversations age better than Discord's channel flow.
+Slack is the more professional alternative with better search and thread management. If you're [working with external partners](/posts/the-creative-director-producer-relationship-explained/) or have more than 15 people, Slack's thread-based conversations age better than Discord's channel flow.
 
 For async video communication, Loom is genuinely useful for producers. Instead of writing a three-paragraph explanation of a complex bug or a new workflow change, you record a 90-second walkthrough. Faster to create, faster to consume, and it leaves a record.
 
@@ -84,7 +85,7 @@ For scheduling across a team with mixed availability, Teamup Calendar or even a 
 
 ## Books and Courses Worth Your Time
 
-Tools only work if you know [how to think about production](/what-makes-a-good-game-producer-essential-skills/). These are worth the investment:
+Tools only work if you know [how to think about production](/posts/what-makes-a-good-game-producer-essential-skills/). These are worth the investment:
 
 **Books:**
 - *The Game Producer's Handbook* by Dan Irish is still one of the most practical books on the craft. Dated in some specifics, but the production thinking is solid.
