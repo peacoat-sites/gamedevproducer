@@ -1,89 +1,126 @@
 {
-  "updated": "2026-08-17",
-  "items": [
-    {
-      "name": "GameOverd",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015990/93c445195873adf7fd67435b0bb58c9b4e8f9922/header.jpg?t=1786942937",
-      "url": "https://store.steampowered.com/app/5015990/",
-      "short_description": "",
-      "final_price": 199
-    },
-    {
-      "name": "MODIFY",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4935320/98f8a05f0a91e4d0d13210295a6f2d72b7799612/header.jpg?t=1786939215",
-      "url": "https://store.steampowered.com/app/4935320/",
-      "short_description": "",
-      "final_price": 1099
-    },
-    {
-      "name": "Cat Meow-tilation",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511020/33dd5c7b2c5f54f4d8a7118049f467b155d4b92e/header.jpg?t=1786935810",
-      "url": "https://store.steampowered.com/app/4511020/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Apple Faces Up",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511010/ff311499c1ebe06585e01578edb33e13e9c45fdd/header.jpg?t=1786935733",
-      "url": "https://store.steampowered.com/app/4511010/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "\u4e1c\u65b9",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576040/05378cb0981191d428f6031203057acd09614047/header.jpg?t=1786932534",
-      "url": "https://store.steampowered.com/app/4576040/",
-      "short_description": "",
-      "final_price": 299
-    },
-    {
-      "name": "\u6f14\u4e49\u4e09\u56fd",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4382980/86ecb3acd4e7196225a3d6ac1fba2515a7283099/header.jpg?t=1786941815",
-      "url": "https://store.steampowered.com/app/4382980/",
-      "short_description": "",
-      "final_price": 699
-    },
-    {
-      "name": "\u672b\u65e5\u6218\u59ec\uff1a\u5e9f\u571f\u89c9\u9192",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4977680/c36f409e92356c4dd45976ed2d56989392c4c3ec/header.jpg?t=1786931697",
-      "url": "https://store.steampowered.com/app/4977680/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Desktop Grass",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4971830/3a88ed87ca369d0a07b804344a251f0c9dda7dbd/header.jpg?t=1786931388",
-      "url": "https://store.steampowered.com/app/4971830/",
-      "short_description": "",
-      "final_price": 150
-    },
-    {
-      "name": "Is That a Human Organ?",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5014260/8027b1d3771b1bfc8644d00caabf229bbcb6fd83/header.jpg?t=1786929293",
-      "url": "https://store.steampowered.com/app/5014260/",
-      "short_description": "",
-      "final_price": 159
-    },
-    {
-      "name": "My Gym Adventure!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4867230/37e12d9daa898c43131f0bd43dab4bbb752a7369/header.jpg?t=1786924473",
-      "url": "https://store.steampowered.com/app/4867230/",
-      "short_description": "",
-      "final_price": 319
-    },
-    {
-      "name": "Dave's Questions",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4484750/f01bc449b3b31f104b9260857da8f5b4d7927aa0/header.jpg?t=1786915822",
-      "url": "https://store.steampowered.com/app/4484750/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Lunch Break Dodgeball",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4968140/692c115944fd8146b48930b36f5e1fa714041c13/header.jpg?t=1786913227",
-      "url": "https://store.steampowered.com/app/4968140/",
-      "short_description": "",
-      "final_price": 747
-    }
-  ]
+ "as_of": "2026-08-17",
+ "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
+ "games": [
+  {
+   "rank": 1,
+   "name": "Counter-Strike: Global Offensive",
+   "developer": "Valve",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 1013936,
+   "price": "Free"
+  },
+  {
+   "rank": 2,
+   "name": "PUBG: BATTLEGROUNDS",
+   "developer": "PUBG Corporation",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 314682,
+   "price": "Free"
+  },
+  {
+   "rank": 3,
+   "name": "Rust",
+   "developer": "Facepunch Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 143870,
+   "price": "$39.99"
+  },
+  {
+   "rank": 4,
+   "name": "Apex Legends",
+   "developer": "Respawn",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 124262,
+   "price": "Free"
+  },
+  {
+   "rank": 5,
+   "name": "Wallpaper Engine",
+   "developer": "Wallpaper Engine Team",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 91184,
+   "price": "$4.99"
+  },
+  {
+   "rank": 6,
+   "name": "Grand Theft Auto V Legacy",
+   "developer": "Rockstar North",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 67851,
+   "price": "Free"
+  },
+  {
+   "rank": 7,
+   "name": "Call of Duty: Modern Warfare II",
+   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 67419,
+   "price": "$38.49"
+  },
+  {
+   "rank": 8,
+   "name": "NARAKA: BLADEPOINT",
+   "developer": "24 Entertainment",
+   "owners": "10,000,000 - 20,000,000",
+   "ccu": 66954,
+   "price": "Free"
+  },
+  {
+   "rank": 9,
+   "name": "Baldur's Gate 3",
+   "developer": "Larian Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 54771,
+   "price": "$44.99"
+  },
+  {
+   "rank": 10,
+   "name": "HELLDIVERS 2",
+   "developer": "Arrowhead Game Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 53399,
+   "price": "$29.99"
+  },
+  {
+   "rank": 11,
+   "name": "Tom Clancy's Rainbow Six Siege",
+   "developer": "Ubisoft Montreal",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 51847,
+   "price": "$19.99"
+  },
+  {
+   "rank": 12,
+   "name": "Stardew Valley",
+   "developer": "ConcernedApe",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 50662,
+   "price": "$14.99"
+  },
+  {
+   "rank": 13,
+   "name": "War Thunder",
+   "developer": "Gaijin Entertainment",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 50478,
+   "price": "Free"
+  },
+  {
+   "rank": 14,
+   "name": "Dead by Daylight",
+   "developer": "Behaviour Interactive Inc.",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 44886,
+   "price": "$19.99"
+  },
+  {
+   "rank": 15,
+   "name": "Team Fortress 2",
+   "developer": "Valve",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 43819,
+   "price": "Free"
+  }
+ ]
 }
