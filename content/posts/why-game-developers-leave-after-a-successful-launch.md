@@ -49,7 +49,7 @@ Attrition after launch usually gets diagnosed as a compensation problem. Sometim
 
 **Creative exhaustion combined with uncertainty.** The team doesn't know what's next. If leadership hasn't communicated a clear next project, people who have options start entertaining them. Ambiguity is expensive. Talent reads silence as a signal.
 
-**Feeling undervalued during the home stretch.** Crunch leaves marks. If someone spent six months in mandatory overtime and received no meaningful acknowledgment, a LinkedIn recruiter message lands differently than it would have in year one. The launch bonus, if there was one, doesn't erase the memory of cancelled vacations.
+**Feeling undervalued during the home stretch.** [Crunch leaves marks](/crunch-aftermath-how-to-rebuild-team-trust/). If someone spent six months in mandatory overtime and received no meaningful acknowledgment, a LinkedIn recruiter message lands differently than it would have in year one. The launch bonus, if there was one, doesn't erase the memory of cancelled vacations.
 
 **Resume timing.** This is coldly practical. A shipped, well-reviewed title is the best possible career leverage a developer will have. Recruiters know this. Developers know this. The 90 days after a successful launch is prime hunting season. Some departures have nothing to do with your studio and everything to do with the market timing.
 
@@ -92,11 +92,6 @@ Here's a practical sequence for the post-launch window, broken into phases:
 ---
 
 ## The Comparison: Studios That Keep Their Teams vs. Studios That Don't
-
-## Sources
-
-- Do I want to keep doing this here? The
-
 
 | Factor | Studios with low post-launch attrition | Studios with high post-launch attrition |
 |---|---|---|

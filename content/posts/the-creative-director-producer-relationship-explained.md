@@ -144,7 +144,7 @@ The CD sets the vision and then steps back. The producer micro-manages the imple
 
 **The Ego-Driven CD + The Burned-Out Producer**
 
-The CD prioritizes creative ambition above all else. The producer is exhausted from fighting crunch and scope. This produces dysfunctional games or projects that implode. This is actually a production failure, not a personal conflict. Fix this by replacing one or both of them if the situation doesn't improve quickly.
+The CD prioritizes creative ambition above all else. The producer is exhausted from fighting crunch and scope. This produces dysfunctional games or projects that implode. This is actually a [production failure, not a personal conflict](/crunch-is-a-production-failure-not-a-culture-problem/). Fix this by replacing one or both of them if the situation doesn't improve quickly.
 
 ## Practical Example: The Feature Proposal Walkthrough
 
@@ -183,12 +183,6 @@ Here's how a mature CD-producer conversation actually goes, with dialogue.
 End scene. Nothing got overridden. No authority clash. Both roles got heard. A decision got made in reasonable time. This is what it looks like when it works.
 
 ## Cross-Functional Dependencies: CD Influence Beyond Vision
-
-## Sources
-
-- given our actual constraints, what's the best creative output we can guarantee? The
-- Perfect. I'll update the roadmap, flag the underwater work to the next quarter, and we'll start planning weather integration tomorrow. End
-
 
 Creative directors don't only work with producers. They also influence engineers and artists in ways that can disrupt production plans if not coordinated.
 

@@ -25,7 +25,7 @@ author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
-Every Game Developers Conference since 2004, studios have lined up on the main stage to explain how their project fell apart. The pattern is eerie. A 2008 postmortem describes scope creep, communication breakdowns, and a last-minute engine swap. Jump to 2023, and an indie team describes nearly the same disasters. Two decades of public failure analysis, and we're still making identical mistakes. The problems haven't changed. Most producers just aren't reading these postmortems, and the ones who do aren't pulling out the repeating patterns that actually matter.
+Every Game Developers Conference since 2004, studios have lined up on the main stage to explain how their project fell apart. The pattern is eerie. A 2008 postmortem describes scope creep, communication breakdowns, and a last-minute [engine swap](/how-game-engine-choice-affects-your-production-plan/). Jump to 2023, and an indie team describes nearly the same disasters. Two decades of public failure analysis, and we're still making identical mistakes. The problems haven't changed. Most producers just aren't reading these postmortems, and the ones who do aren't pulling out the repeating patterns that actually matter.
 
 ## The Consistent Failures Keep Appearing
 
@@ -85,7 +85,7 @@ The difference is whether the team actually adapted agile to game development or
 
 Studios that tanked while using agile made the same mistake: they treated sprints like software projects. "User can pick up a sword" sounds simple until you realize it touches animation, sound, inventory logic, UI updates, and playtesting. A sprint that didn't account for that coordination ended with features that were half-done and broken.
 
-[Agile game development actually works when teams understand how it differs from software teams](/posts/agile-game-development-what-actually-works-in-practice/). The postmortems documenting successful agile implementations in games emphasize cross-functional collaboration inside a sprint, not handing work between specialized phases.
+[Agile game development actually works when teams understand how it differs from software teams](/agile-game-development-what-actually-works-in-practice/). The postmortems documenting successful agile implementations in games emphasize cross-functional collaboration inside a sprint, not handing work between specialized phases.
 
 ## How to Mine Postmortems for Your Specific Problem
 
@@ -100,12 +100,6 @@ Third, look for the structural fix instead of the behavioral one. "We'll be more
 Finally, check whether that problem exists in your current project right now. You might be reading about scheduling when your real risk is technical debt. Match the lesson to your actual constraints.
 
 ## Red Flags to Catch Early
-
-## Sources
-
-- about how game projects actually work
-- embed it into their processes
-
 
 Postmortems that document successful recoveries usually point to a specific moment when someone identified a problem and escalated it correctly. Warning signs consistently precede major failures.
 

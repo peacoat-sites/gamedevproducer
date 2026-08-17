@@ -25,7 +25,7 @@ author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
-You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The [post-mortem reveals](/posts/how-to-run-a-game-development-retrospective/) no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.
+You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The [post-mortem reveals](/how-to-run-a-game-development-retrospective/) no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.
 
 ## Why Game Studios Get Capacity Planning Wrong
 
@@ -77,14 +77,9 @@ Build a simple capacity map broken down by discipline. Spreadsheet, Notion table
 
 ## The Invisible Capacity Drain: Lead Time
 
-## Sources
-
-- on knowledge worker productivity suggests that three to five hours of deep focus
-
-
 One thing that rarely shows up in capacity models is lead time for decisions. If an art director needs to approve an asset before a junior artist can proceed, and that approval takes two days, you've lost two days of capacity that never gets counted anywhere. Multiply this across a team over six months of production.
 
-Map your decision dependencies the same way you map task dependencies. Know who the bottlenecks are before the sprint starts, not after.
+[Map your decision dependencies](/dependency-mapping-in-game-development-schedules/) the same way you map task dependencies. Know who the bottlenecks are before the sprint starts, not after.
 
 ---
 

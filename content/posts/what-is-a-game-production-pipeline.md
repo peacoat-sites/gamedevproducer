@@ -39,9 +39,9 @@ Here's what surprises most people new to production: the pipeline exists mainly 
 
 ## What the pipeline actually looks like phase by phase
 
-Pre-production is where the pipeline gets defined, not just where you make your GDD and prototype. A good producer asks: how are we going to track assets? What's our naming convention? How does a [design doc](/posts/how-to-write-a-game-design-document/) move from "idea" to "spec" to "in development" to "done"? What does "done" even mean on this project? Teams that skip this work, and plenty do, pay for it in production when they have to stop and answer these questions under deadline pressure.
+Pre-production is where the pipeline gets defined, not just where you make your GDD and prototype. A good producer asks: how are we going to track assets? What's our naming convention? How does a [design doc](/how-to-write-a-game-design-document/) move from "idea" to "spec" to "in development" to "done"? What does "done" even mean on this project? Teams that skip this work, and plenty do, pay for it in production when they have to stop and answer these questions under deadline pressure.
 
-The tools conversation happens here too. Are you using Jira, Shotgrid, Hansoft, HacknPlan? Are your artists using Perforce or Git LFS? What's your import pipeline for audio? I've seen small indie studios waste two months in production fighting version control issues that a one-week pre-production decision would've prevented. If you're starting a project right now and haven't made these calls yet, stop and make them. Codecks is worth a look for smaller teams, by the way. It's genuinely built for games, and the card-based backlog suits how game designers think in a way that Jira often doesn't.
+The tools conversation happens here too. Are you using Jira, Shotgrid, Hansoft, HacknPlan? Are your artists using Perforce or Git LFS? What's your import pipeline for audio? I've seen small indie studios waste two months in production fighting [version control issues](/how-to-manage-version-control-for-a-game-team/) that a one-week pre-production decision would've prevented. If you're starting a project right now and haven't made these calls yet, stop and make them. Codecks is worth a look for smaller teams, by the way. It's genuinely built for games, and the card-based backlog suits how game designers think in a way that Jira often doesn't.
 
 Production is where the pipeline gets stress-tested. This is your alpha-to-beta stretch, and it's where you'll discover every assumption you made in pre-production that turned out to be wrong. The art pipeline that worked fine for 50 assets starts choking at 300. The design-to-implementation handoff that worked when three people were in the same room breaks down when the team doubles. A good pipeline is designed to be revised. Bad ones are treated like law.
 
@@ -57,14 +57,9 @@ The design pipeline is less linear and more iterative. A feature usually goes in
 
 Audio gets chronically underestimated. Sound designers often don't get assets to work with until late in production because levels aren't locked. That creates a crunch-time crunch specifically in audio that's painful and avoidable. Good pipelines involve audio early, even with placeholder content, and build in proper middleware integration time. Wwise and FMOD integration aren't plug-and-play; they need engineering time and a clear data pipeline.
 
-[QA is not a phase](/posts/qa-testing-workflow-for-indie-games-explained/). It's a pipeline that runs parallel to everything else. The teams that understand this ship better games. QA needs reproducible build processes, ideally nightly automated builds, a bug tracking workflow that connects to the dev team's task management, and clear triage criteria so time isn't wasted on bugs that won't make the build anyway. The Pragmatic Programmer has a solid chapter on automation thinking that applies here even though it's not a games book. That kind of thinking eventually turns your QA pipeline from manual chaos into something scalable.
+[QA is not a phase](/qa-testing-workflow-for-indie-games-explained/). It's a pipeline that runs parallel to everything else. The teams that understand this ship better games. QA needs reproducible build processes, ideally nightly automated builds, a bug tracking workflow that connects to the dev team's task management, and clear triage criteria so time isn't wasted on bugs that won't make the build anyway. The Pragmatic Programmer has a solid chapter on automation thinking that applies here even though it's not a games book. That kind of thinking eventually turns your QA pipeline from manual chaos into something scalable.
 
 ## Tools and resources worth knowing
-
-## Sources
-
-- collection
-
 
 If you're a producer trying to understand the pipeline more deeply, or build one from scratch, a few things genuinely helped me.
 

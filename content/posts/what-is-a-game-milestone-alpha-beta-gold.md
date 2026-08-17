@@ -41,7 +41,7 @@ Get this locked down in your production bible before you sign anything. If you'r
 
 Pre-Alpha is the phase most articles skip, but it's where the game actually gets built. There's no single industry standard for when Pre-Alpha starts, but practically it covers everything from concept lock through first playable.
 
-During Pre-Alpha you're doing foundational work: engine selection, core loop prototyping, pipeline setup, art style validation, and early tech spikes. Your team is small. Content is sparse. The builds you're shipping internally aren't representative of the final product and shouldn't be shown to anyone outside the core team.
+During Pre-Alpha you're doing foundational work: [engine selection](/how-game-engine-choice-affects-your-production-plan/), core loop prototyping, pipeline setup, art style validation, and early tech spikes. Your team is small. Content is sparse. The builds you're shipping internally aren't representative of the final product and shouldn't be shown to anyone outside the core team.
 
 The milestone that ends Pre-Alpha is usually called "First Playable" or "Proof of Concept." This is a narrow, polished slice, maybe 10-15 minutes of gameplay, that proves the core mechanic works and the visual style is achievable. Publishers often fund or greenlight based on this deliverable. Don't treat it as a rough prototype. Treat it like a pitch. It's making a promise about what the full game will be.
 
@@ -82,7 +82,7 @@ Publishers reviewing an Alpha build are checking whether you've built what you p
 
 Beta is where the game becomes the game. The defining characteristic: **content complete.** Every level is in. Every enemy type is in. Every cutscene, every item, every quest. The end credits play. You can finish the game.
 
-What Beta is not: ship-ready. The Beta phase is a sustained quality campaign. Your QA team is running full regression passes. You're closing bugs, tuning difficulty curves, and stress-testing multiplayer if your game has it. Platform certification requirements (TRCs for PlayStation, TCRs for Xbox, Nintendo's lotcheck) become a daily concern.
+What Beta is not: ship-ready. The Beta phase is a sustained quality campaign. Your QA team is running full regression passes. You're closing bugs, tuning difficulty curves, and stress-testing multiplayer if your game has it. [Platform certification requirements](/platform-certification-what-producers-need-to-know/) (TRCs for PlayStation, TCRs for Xbox, Nintendo's lotcheck) become a daily concern.
 
 Beta is often split into two sub-phases in larger productions:
 
@@ -114,13 +114,6 @@ The practical steps to get from Beta to Gold usually look like this:
 Skipping or rushing any of these steps is how you end up with a botched launch that generates headlines for the wrong reasons.
 
 ## How to Keep Your Team Aligned on Milestones
-
-## Sources
-
-- [Jira](https://www.atlassian.com/software/jira)
-- [Hack n Plan](https://hacknplan.com/)
-- [Notion](https://www.notion.so/)
-
 
 Definitions alone aren't enough. You need process structures that make everyone operate from the same understanding.
 

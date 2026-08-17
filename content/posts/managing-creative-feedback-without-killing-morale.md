@@ -39,7 +39,7 @@ The three structural failures I see most often:
 
 **Feedback without criteria.** Your team doesn't know what "good" looks like before they start work, so any criticism lands as arbitrary judgment. You can't hit a target no one drew.
 
-**Public critique without psychological safety.** Group review sessions are useful for some things. They're a terrible place to deliver substantive negative feedback for the first time. People perform defensiveness in public. They actually hear you in private.
+**Public critique without [psychological safety](/psychological-safety-and-milestone-reviews-in-game-dev/).** Group review sessions are useful for some things. They're a terrible place to deliver substantive negative feedback for the first time. People perform defensiveness in public. They actually hear you in private.
 
 **One-way transmission.** Feedback given with no mechanism for response or clarification isn't feedback, it's a verdict. The difference matters enormously to the person receiving it.
 
@@ -104,14 +104,6 @@ A workable model:
 The group session becomes a lot more functional when it isn't doing the job it was never designed to do. It's for alignment, celebration, and shared context. Not for delivering news that blindsides someone in front of their peers.
 
 ## Building Feedback Resilience Into Your Team Culture
-
-## Sources
-
-- [Notion](https://www.notion.so/)
-- [Confluence](https://www.atlassian.com/software/confluence)
-- [Milanote](https://milanote.com/)
-- [TeamRetro](https://www.teamretro.com/)
-
 
 Morale isn't just about how feedback is delivered. It's about whether the team believes the feedback is worth engaging with at all. If revisions feel arbitrary, if direction changes constantly, if nobody ever explains why a decision was made, people stop investing in getting things right. They start working to avoid criticism rather than achieve something.
 

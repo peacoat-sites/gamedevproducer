@@ -49,7 +49,7 @@ Before you estimate a number, you need a complete map of what you're estimating.
 
 **Hardware and infrastructure** includes development kits if you're shipping on console. PS5 and Xbox kits run $2,500 to $5,000 each, and you'll want multiples. Add workstations, storage, and any cloud build or testing infrastructure.
 
-**Publishing and platform fees** are often completely missing from indie budgets. Platform certification costs time. Localization for additional languages can run 10 to 20 percent of total development cost if you're doing it properly. Marketing, trailer production, press outreach, and a launch window advertising push are budget items, not afterthoughts.
+**Publishing and platform fees** are often completely missing from indie budgets. Platform certification costs time. [Localization for additional languages](/how-to-plan-a-game-development-budget/) can run 10 to 20 percent of total development cost if you're doing it properly. Marketing, trailer production, press outreach, and a launch window advertising push are budget items, not afterthoughts.
 
 **Contingency** is not optional. If your estimate doesn't include a buffer of at least 20 to 25 percent, your estimate is incomplete. Calling it a contingency doesn't mean you expect to use it. It means you're being honest about the fact that you've never made this exact game before.
 
@@ -120,12 +120,6 @@ For budgeting specifically, a well-structured **Google Sheet or Excel workbook**
 On the learning side, *The Game Production Handbook* by Heather Maxwell Chandler is the closest thing the industry has to a textbook on production fundamentals. Designer Gagnon's **Game Production Masterclass** on Udemy covers estimation and scheduling in a practical, applied way. For producer fundamentals more broadly, the **AICP Game Production Management** resources and the **Producer Summit talks at GDC** (available on GDC Vault, many for free) are genuinely useful and grounded in current practice.
 
 ## How to Present Estimates to Stakeholders Without Lying to Yourself
-
-## Sources
-
-- and development in disguise
-- what similar games cost
-
 
 An estimate is a model. It reflects your current understanding, your current team, and your current scope. Presenting it as a commitment is how studios end up in conversations they can't win.
 

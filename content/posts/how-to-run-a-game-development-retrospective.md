@@ -29,11 +29,11 @@ Most retrospectives I've sat in felt like group therapy sessions where nothing a
 
 ## Why Most Game Dev Retros Fail Before They Start
 
-The research on retrospective effectiveness is genuinely mixed. Some [agile literature](/posts/agile-game-development-what-actually-works-in-practice/) swears by them, while post-mortems from shipped games often reveal that teams held regular retros and still walked into the same walls.
+The research on retrospective effectiveness is genuinely mixed. Some [agile literature](/agile-game-development-what-actually-works-in-practice/) swears by them, while post-mortems from shipped games often reveal that teams held regular retros and still walked into the same walls.
 
 What I've found is that the failure almost always comes down to psychological safety, not format. If your team believes that naming a problem will embarrass someone senior, they'll say nothing meaningful. If the lead designer is in the room and everyone knows she hates feedback on the pipeline, the retro becomes theater.
 
-The GDC post-mortem tradition actually exposed this pattern decades ago. Studios would publish "what went wrong" lists that were suspiciously vague, full of phrases like "communication issues" and "[scope creep](/posts/scope-creep-prevention-in-game-development/)" without naming the decisions that caused them. The same happens inside teams that don't feel safe being honest.
+The GDC post-mortem tradition actually exposed this pattern decades ago. Studios would publish "what went wrong" lists that were suspiciously vague, full of phrases like "communication issues" and "[scope creep](/scope-creep-prevention-in-game-development/)" without naming the decisions that caused them. The same happens inside teams that don't feel safe being honest.
 
 Before you choose a format or book a room, ask yourself honestly: does your team trust that raising a real problem won't get them labeled as a complainer? If the answer is no, fix that first.
 
@@ -96,11 +96,6 @@ Track your retro action items inside your actual project management system, not 
 What surprised me when I started doing this consistently was how quickly team morale improved, not because the problems disappeared immediately, but because people saw that raising an issue actually led to something. That feedback loop is the whole point.
 
 ## Tools Worth Having in Your Producer Toolkit
-
-## Sources
-
-- on retrospective effectiveness is genuinely mixed
-
 
 **Project Management:**
 - **Shortcut** (formerly Clubhouse) is excellent for game dev teams that need sprint tracking without Jira's overhead

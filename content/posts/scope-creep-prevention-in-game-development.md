@@ -39,7 +39,7 @@ The second driver is fuzzy initial definitions. If your design doc says "the pla
 
 ## The Document That Will Save Your Ship Date
 
-What surprised me most when I started taking scope seriously was how few teams actually use a formal [Scope Agreement document](/posts/how-to-write-a-game-production-milestone-document/) or anything equivalent. They have a GDD, maybe a milestone plan, but nothing that explicitly defines what is OUT of this version.
+What surprised me most when I started taking scope seriously was how few teams actually use a formal [Scope Agreement document](/how-to-write-a-game-production-milestone-document/) or anything equivalent. They have a GDD, maybe a milestone plan, but nothing that explicitly defines what is OUT of this version.
 
 A Scope Agreement is exactly what it sounds like: a written, signed-off document that defines the game's boundaries. Not just what's in, but what's explicitly deferred. Two columns. In scope. Out of scope this version. Both columns matter equally.
 
@@ -47,7 +47,7 @@ Include these elements:
 
 - Feature list with definitions clear enough that two people would implement them the same way
 - A "parking lot" section for good ideas that are explicitly saved for post-launch or a sequel
-- A [change request process](/posts/sprint-planning-for-game-development-teams/), even if that process is just a weekly producer review
+- A [change request process](/sprint-planning-for-game-development-teams/), even if that process is just a weekly producer review
 - Sign-off from your leads, your director, and if applicable, your publisher
 
 That last point isn't bureaucracy for its own sake. Getting signatures creates psychological commitment. People second-guess themselves before verbally agreeing to change something they've already signed their name to. It's simple friction that buys you time to think.
@@ -91,14 +91,6 @@ Show the cost in time, not in argument. "Yes, we can add that. Here's what it co
 If that doesn't work, you need to document it. Not as protection (though it is that), but because when the ship date slips, having a paper trail of the decisions that caused it is the only way to learn from it properly.
 
 ## Scope Management Tools Worth Using
-
-## Sources
-
-- [Jira](https://www.atlassian.com/software/jira)
-- [Hacknplan](https://hacknplan.com/)
-- [Game Production Masterclass on Udemy](https://www.udemy.com/topic/game-development/)
-- on whether better planning actually prevents scope creep is messy
-
 
 A few specific recommendations based on what I've actually used:
 

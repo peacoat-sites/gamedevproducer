@@ -63,13 +63,13 @@ Generic project management templates don't account for how games actually break.
 
 **Technology and engine risk.** Engine version locks, middleware licensing changes, platform certification requirements that shift mid-development. The Unity pricing announcement in 2023 nearly tanked some studios' entire roadmaps. That's now a risk category that matters.
 
-**[Scope creep from creative iteration](/posts/scope-creep-prevention-in-game-development/).** This one's almost unique to games. The first playtest shows the core loop isn't fun, so the designer wants to rebuild it. That's legitimate creative work, not a failure. But it needs to be in your register with a probability score before the playtest happens, not after.
+**[Scope creep from creative iteration](/scope-creep-prevention-in-game-development/).** This one's almost unique to games. The first playtest shows the core loop isn't fun, so the designer wants to rebuild it. That's legitimate creative work, not a failure. But it needs to be in your register with a probability score before the playtest happens, not after.
 
 **Key person dependency.** Games get made by small teams. One programmer might own the entire save system. One designer might be the only person who understands the AI behavior trees. Document it. That's a risk score of 15 on a team of six.
 
 **Platform and certification risk.** Submission windows, first-party review backlogs, rating board requirements. Console certification alone can add four to eight weeks if you fail the first submission. That's not theoretical. That's something you plan for on day one.
 
-**External dependency risk.** Licensed IP, audio middleware, backend services, localization vendors. Any dependency you don't control directly belongs here.
+**[External dependency risk](/dependency-mapping-in-game-development-schedules/).** Licensed IP, audio middleware, backend services, localization vendors. Any dependency you don't control directly belongs here.
 
 ## How to Build Your Register in a Working Session
 
@@ -88,7 +88,7 @@ The silent writing step matters more than it sounds. Senior people can unintenti
 
 The biggest failure mode I've watched is a beautifully formatted risk register that becomes a museum artifact by sprint three. Here's what keeps it alive:
 
-Review high-score risks every two weeks during your [sprint retrospective](/posts/how-to-run-a-game-development-retrospective/) or milestone check-in. You don't need a dedicated meeting. Five minutes at the end of standup works if you're consistent.
+Review high-score risks every two weeks during your [sprint retrospective](/how-to-run-a-game-development-retrospective/) or milestone check-in. You don't need a dedicated meeting. Five minutes at the end of standup works if you're consistent.
 
 Set a "stale risk" rule. Any risk that hasn't been reviewed in 30 days gets flagged automatically. Most spreadsheet tools can do this with a simple formula on the "Last Reviewed" column.
 
@@ -97,10 +97,6 @@ Close risks explicitly. When a risk passes, mark it closed with a date and a one
 Don't let the register bloat forever. If you're adding risks but never closing them, you'll hit 60 items within two months and nobody will touch it. Close risks ruthlessly. A focused list of 15 to 20 live risks beats an 80-item archive every time.
 
 ## Tools That Actually Help
-
-## Sources
-
-
 
 For the register itself, **Notion** with a filtered database view is my recommendation for indie and mid-size teams. You can link risks directly to sprint tasks, which creates useful traceability. **Airtable** works similarly. For teams already inside Jira, the Confluence marketplace has risk register templates that integrate cleanly.
 
