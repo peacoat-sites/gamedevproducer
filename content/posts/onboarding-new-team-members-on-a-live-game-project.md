@@ -68,7 +68,7 @@ On live projects, also consider rotating shadowing. Have your new hire spend two
 
 ## Establish Incident Awareness Early, Not After the First Incident
 
-New team members on live games will eventually be in the room when something breaks. If you haven't prepared them for that moment, the [first real incident](/crunch-aftermath-how-to-rebuild-team-trust/) is going to be a terrible experience for everyone.
+New team members on live games will eventually be in the room when something breaks. If you haven't prepared them for that moment, the first real incident is going to be a terrible experience for everyone.
 
 Run a tabletop review of a past incident during their first two weeks. Walk through an actual postmortem: what broke, how it was detected, who was called, what the communication chain looked like, what the player-facing impact was, and what changed afterward. Real examples beat any process document.
 

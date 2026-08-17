@@ -25,9 +25,9 @@ faqs:
     a: "The research here is genuinely mixed, but my working rule is this: if writing the doc takes longer than reading it will save across the project's lifetime, skip it. Optimize for documents that get read, not documents that get written. A five-page design spec nobody references is just technical debt in a different format."
 ---
 
-Most studios don't fail at making games. [They fail](/posts/okrs-in-game-studios-where-they-work-and-where-they-fail/) at remembering how they made them.
+Most studios don't fail at making games. They fail at remembering how they made them.
 
-I've watched this happen more times than I'd like to admit. A lead designer leaves six months before ship. A new producer joins mid-production and spends three weeks just trying to figure out what decisions were made and why. A QA team finds a bug that was already fixed, undone, fixed again, and undone again because nobody wrote down the reasoning the first time. The documentation problem in [game studios](/posts/team-dynamics-in-aaa-game-studios/) isn't about not having the right tool. It's about not taking documentation seriously until it's already too late.
+I've watched this happen more times than I'd like to admit. A lead designer leaves six months before ship. A new producer joins mid-production and spends three weeks just trying to figure out what decisions were made and why. A QA team finds a bug that was already fixed, undone, fixed again, and undone again because nobody wrote down the reasoning the first time. The documentation problem in game studios isn't about not having the right tool. It's about not taking documentation seriously until it's already too late.
 
 That said, the right tool actually does matter. I spent the better part of this past year auditing how several studios (ranging from four-person indie teams to mid-size studios with around 80 staff) handle their internal documentation, and what surprised me was how consistently people are using the wrong tool for the wrong job. Confluence where they need something lightweight. Notion where they need something structured. Google Docs for everything and then wondering why nothing is findable.
 
@@ -61,7 +61,7 @@ Here's what I think is actually going on. Confluence rewards teams that already 
 
 The catch with Notion: that same flexibility becomes a mess without someone actively curating the structure. I've seen Notion workspaces six months into a project that look like a junk drawer. If nobody owns the information architecture, it collapses.
 
-Practical worked example: A 12-person indie studio I consulted with switched from Google Docs to Notion in early production on their current project. They built a simple three-level hierarchy: Game Pillars at the top, System Design pages underneath, and individual feature specs at the bottom. Six months later, onboarding a new contractor took about two hours instead of the two days it had taken on their previous project. [Same team](/posts/managing-engineers-and-artists-on-the-same-team/), different tool, different habits around the tool.
+Practical worked example: A 12-person indie studio I consulted with switched from Google Docs to Notion in early production on their current project. They built a simple three-level hierarchy: Game Pillars at the top, System Design pages underneath, and individual feature specs at the bottom. Six months later, onboarding a new contractor took about two hours instead of the two days it had taken on their previous project. Same team, different tool, different habits around the tool.
 
 ## What nobody talks about: decision logs
 

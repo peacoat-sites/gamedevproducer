@@ -33,9 +33,9 @@ Burnout doesn't announce itself. It accumulates quietly behind "fine" and "almos
 
 Every industry has burnout. Games have a specific flavor of it that makes conventional HR advice almost useless.
 
-Developers in games are often deeply mission-driven. They care about the product in a way that makes it hard to disengage. That passion is exploitable, and studios, sometimes unconsciously, exploit it. "[Crunch culture](/passion-culture-in-games-is-a-production-risk/)" is the obvious villain, but the subtler problem is a chronic low-grade overload: 50-hour weeks that aren't officially crunch, scope that never quite gets cut, feedback cycles that reset work already done. That slow grind does more cumulative damage than a single death-march sprint.
+Developers in games are often deeply mission-driven. They care about the product in a way that makes it hard to disengage. That passion is exploitable, and studios, sometimes unconsciously, exploit it. "[Crunch culture](/posts/passion-culture-in-games-is-a-production-risk/)" is the obvious villain, but the subtler problem is a chronic low-grade overload: 50-hour weeks that aren't officially crunch, scope that never quite gets cut, feedback cycles that reset work already done. That slow grind does more cumulative damage than a single death-march sprint.
 
-There's also [the seniority trap](/burnout-in-game-development-the-year-5-cliff/). Your most experienced people are the ones most likely to say yes to extra load, least likely to flag that they're drowning, and most catastrophic to lose. They've already been burned before. They've got a quiet countdown running.
+There's also the seniority trap. Your most experienced people are the ones most likely to say yes to extra load, least likely to flag that they're drowning, and most catastrophic to lose. They've already been burned before. They've got a quiet countdown running.
 
 ## Build Sustainable Capacity Before You Need It
 

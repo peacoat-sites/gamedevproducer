@@ -45,7 +45,7 @@ According to the International Game Developers Association's 2025 Developer Sati
 
 Here's a worked example that plays out constantly:
 
-Composer accepts rev share on a 12-month indie project, contributing 45 minutes of finished music at a market rate of roughly $300/min → estimated deferred value: $13,500 → [game launches](/posts/wishlist-strategy-for-indie-game-launches/), sells 1,200 units at $12.99 → gross revenue: $15,588, minus Steam's 30% cut leaves $10,912 → composer's 8% share: $873 → outcome: $12,627 short of market rate.
+Composer accepts rev share on a 12-month indie project, contributing 45 minutes of finished music at a market rate of roughly $300/min → estimated deferred value: $13,500 → game launches, sells 1,200 units at $12.99 → gross revenue: $15,588, minus Steam's 30% cut leaves $10,912 → composer's 8% share: $873 → outcome: $12,627 short of market rate.
 
 That's not a horror story. That's just a mid-performing indie game.
 

@@ -14,7 +14,7 @@ slug: "shipped-and-fired-what-ubisoft-barcelona-reveals-about-studio-labor"
 affiliate_disclosure: true
 ---
 
-Assassin's Creed Black Flag Resynced launched on July 9, 2026, sold over 2 million copies in its first 24 hours, and within days the studio that built it announced 51 layoffs. That's not a typo. [Ubisoft Barcelona](/posts/laid-off-after-a-hit-what-ubisoft-barcelona-reveals/) shipped one of the fastest-selling games of the year, and roughly 28% of its workforce got cut anyway. If you've ever told yourself "once this game ships, things will stabilize," this story is a direct challenge to that belief.
+Assassin's Creed Black Flag Resynced launched on July 9, 2026, sold over 2 million copies in its first 24 hours, and within days the studio that built it announced 51 layoffs. That's not a typo. Ubisoft Barcelona shipped one of the fastest-selling games of the year, and roughly 28% of its workforce got cut anyway. If you've ever told yourself "once this game ships, things will stabilize," this story is a direct challenge to that belief.
 
 The Barcelona developers didn't take it quietly. Represented by the Coordinadora Sindical del Videojuego, the CSVI union, workers struck from June 30 through July 16, demanding job reinstatement, a five-year guarantee against future collective layoffs, and restoration of 60% remote-work flexibility. A union rep told IGN that the severance offers on the table were "far below the minimum expected" and actually lower than payouts given to previously laid-off employees at the same studio. According to Game Informer's reporting from July 14, the union explicitly warned the strike could become indefinite if management didn't improve those numbers.
 

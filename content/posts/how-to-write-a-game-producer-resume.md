@@ -25,7 +25,7 @@ faqs:
     a: "After two to three years of industry experience, GPA is irrelevant and looks like padding. The degree itself (just school, degree type, year) is worth listing until you have roughly five or more years of experience, after which it becomes largely decorative. Most studios care far more about shipped work and demonstrated skills than academic credentials for production roles."
 ---
 
-Most game producer resumes I've reviewed over the years have the same fatal flaw: they read like job descriptions, not accomplishments. Someone spent three years managing a 40-person team, shipped a title to 2.3 [million players](/posts/how-game-pass-accounting-killed-studios-that-hit-a-million-players/), and their resume says "Coordinated cross-functional teams and facilitated daily standups." That's not a resume. That's a meeting agenda.
+Most game producer resumes I've reviewed over the years have the same fatal flaw: they read like job descriptions, not accomplishments. Someone spent three years managing a 40-person team, shipped a title to 2.3 million players, and their resume says "Coordinated cross-functional teams and facilitated daily standups." That's not a resume. That's a meeting agenda.
 
 I'll be honest, I made this exact mistake myself when I was transitioning out of my first studio job. I had genuinely useful experience, but I buried it under vague process language because I thought that's what a "professional" resume looked like. It took a hiring manager at a mid-size studio (she's since moved to Riot) bluntly telling me my resume "could belong to anyone" before I actually fixed it.
 

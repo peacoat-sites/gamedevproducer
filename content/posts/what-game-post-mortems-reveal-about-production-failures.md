@@ -41,7 +41,7 @@ Practical fix: before you enter production, write a one-page document that answe
 
 Read enough post-mortems and you start noticing something. Teams rarely say "we had a communication problem." They say things like "the art team didn't know about the engine change" or "QA wasn't looped in until month eight" or "the publisher's feedback came too late." That's all communication failure wearing different clothes.
 
-The *Ultima IX: Ascension* post-mortem from 2000 described a situation where [engine changes](/how-game-engine-choice-affects-your-production-plan/) invalidated months of level design work, and the level designers found out after it happened. The leads knew. The leads assumed someone else had told them. Nobody had.
+The *Ultima IX: Ascension* post-mortem from 2000 described a situation where engine changes invalidated months of level design work, and the level designers found out after it happened. The leads knew. The leads assumed someone else had told them. Nobody had.
 
 In my experience, the most dangerous phrase in game dev is "I assumed they knew." You have to build workflows where critical information travels by default, not by memory. That means standups that actually surface blockers, not just status theater. It means a single source of truth for the current design spec, not a folder with seventeen versions of a design document.
 
@@ -80,7 +80,7 @@ Here's what actually works for getting better estimates before production locks 
 2. **Have the person doing the work give the estimate, not the lead.** Leads are optimistic. Implementers are closer to reality.
 3. **Add a 20% buffer to every sprint, minimum.** Not to absorb laziness. To absorb unknowns, which always exist.
 4. **Track your estimate accuracy per sprint.** If you're consistently off by 40%, adjust your estimation formula. This is called velocity tracking, and it's standard in agile frameworks for good reason.
-5. **Run a [pre-mortem](/lessons-from-20-years-of-gdc-post-mortems/).** Before you commit to a timeline, ask the team: "Assume we shipped late. What caused it?" You'll surface risks nobody was consciously acknowledging.
+5. **Run a [pre-mortem](/posts/lessons-from-20-years-of-gdc-post-mortems/).** Before you commit to a timeline, ask the team: "Assume we shipped late. What caused it?" You'll surface risks nobody was consciously acknowledging.
 
 Tools: **Jira** with proper sprint velocity tracking is the industry standard for mid-to-large teams. **Hack n' Plan** is built specifically for game dev and handles task breakdown well. For learning the methodology, Jason Schreier's *Blood, Sweat, and Pixels* is essential reading. It's not a textbook but it shows you what these failures look like from the inside.
 

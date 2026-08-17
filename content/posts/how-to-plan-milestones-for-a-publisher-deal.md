@@ -26,7 +26,7 @@ Here's what I've learned from both sides of the table: a milestone is only as go
 
 I tested this the hard way early in my career. We signed a contract that said "submit build for certification" as a milestone. We thought that meant the build existed and was ready. The publisher thought it meant the build had been accepted by the platform holder and was literally days from launch. The difference was about three months of work and a 30% penalty we didn't negotiate out of. 
 
-[Real definitions look like this](/game-development-milestones-explained/): "Vertical slice, single-player campaign from game start to first boss encounter, 15 minutes of uninterrupted gameplay, menu system functional, no crashes on Xbox Series X or PlayStation 5 running at 1080p/60fps." Not poetry, but it's defensible.
+Real definitions look like this: "Vertical slice, single-player campaign from game start to first boss encounter, 15 minutes of uninterrupted gameplay, menu system functional, no crashes on Xbox Series X or PlayStation 5 running at 1080p/60fps." Not poetry, but it's defensible.
 
 That specificity matters because once you sign, both sides point back to that language. When you hit the date, there's either a checkmark or a fight. You want there to be a checkmark.
 
@@ -47,7 +47,7 @@ Start by listing the actual production phases your game needs:
 
 **Pre-production** usually takes 8-14 weeks. That's core design locked, tech prototype working, art direction proven in at least two scenes, and everyone on the same page about scope. Don't skip this. I've never seen a milestone miss because pre-production took "too long." I've seen dozens miss because people thought they could skip it.
 
-**Production** is where you build the bulk of the game. For a mid-scale title, expect 12-20 months depending on team size and scope. This is where most milestones live, [alpha, beta, content complete](/alpha-vs-beta-milestone-in-game-production/), optimization pass. Break it into chunks that represent real work: "all campaign levels blocked out," "all core mechanics implemented," "art complete for Acts 1 and 2."
+**Production** is where you build the bulk of the game. For a mid-scale title, expect 12-20 months depending on team size and scope. This is where most milestones live, alpha, beta, content complete, optimization pass. Break it into chunks that represent real work: "all campaign levels blocked out," "all core mechanics implemented," "art complete for Acts 1 and 2."
 
 **Certification and launch prep** is often underestimated. Platform certification alone (whether that's Sony, Microsoft, Nintendo, or Valve) takes 4-6 weeks minimum, and you'll almost always get notes back that need fixing. Budget another 6-8 weeks for optimization, day-one patch prep, and actually shipping the thing.
 

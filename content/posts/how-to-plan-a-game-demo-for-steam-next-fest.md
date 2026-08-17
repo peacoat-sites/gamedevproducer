@@ -25,7 +25,7 @@ faqs:
     a: "Watch four numbers: demo downloads, demo completion rate (in Steamworks analytics), wishlist conversion rate (wishlists divided by downloads), and Day 1 drop-off point. The drop-off tells you exactly where players lost interest, which is the most actionable post-fest data you'll get."
 ---
 
-Most [Steam Next Fest](/posts/steam-next-fest-hit-4382-demos-and-the-math-got-harder/) coverage tells you to "build hype" and "show your best content." That's like telling someone to "just score more points" to win a basketball game. Here's what actually matters: your demo is a product unto itself, and it will be reviewed, compared, and abandoned at the same rate as any released game. Plan it wrong and you'll spend six weeks building something that tanks your wishlist instead of growing it.
+Most Steam Next Fest coverage tells you to "build hype" and "show your best content." That's like telling someone to "just score more points" to win a basketball game. Here's what actually matters: your demo is a product unto itself, and it will be reviewed, compared, and abandoned at the same rate as any released game. Plan it wrong and you'll spend six weeks building something that tanks your wishlist instead of growing it.
 
 I've watched teams treat Next Fest as a deadline rather than a strategy, and the results are predictable. Forty hours of content crammed into a two-hour demo. Onboarding that assumes everyone read the store page. A build submitted 48 hours before the event that has a game-breaking bug on level two. The demo isn't a trailer. It's a handshake that either closes the deal or doesn't.
 
@@ -37,7 +37,7 @@ Steam Next Fest currently runs twice a year, in February and June, with Valve op
 
 ## What You're Actually Planning
 
-A demo is not a [vertical slice](/posts/what-is-a-vertical-slice-in-game-development/) of your game. I know that's the standard advice, but it's imprecise in a way that causes real damage. A vertical slice is internal proof-of-concept work. A demo is a standalone experience designed to convert a stranger into a wishlist. Those are different problems.
+A demo is not a vertical slice of your game. I know that's the standard advice, but it's imprecise in a way that causes real damage. A vertical slice is internal proof-of-concept work. A demo is a standalone experience designed to convert a stranger into a wishlist. Those are different problems.
 
 The question to ask yourself is: what is the one feeling I want a player to have in the last five minutes of this demo? Not a feature. A feeling. Work backward from that. Every content decision, every scope cut, every onboarding step either supports that feeling or it doesn't.
 
@@ -57,7 +57,7 @@ Valve's submission window and the event's marketing visibility funnel create har
 | External playtest (streamer/press) | 3-4 weeks | Capture real first-impression footage |
 | Live event | 0 | Demo public, stream schedule active |
 
-The "cold playtest" at seven weeks is the one teams always skip, and it's the one that saves them from themselves. You want someone who hasn't seen the game in any form to sit down without explanation. Watch [where they](/posts/okrs-in-game-studios-where-they-work-and-where-they-fail/) stop. Watch what they try to click that doesn't work. Don't say a word. It's genuinely uncomfortable and genuinely the most useful hour of the entire demo development cycle.
+The "cold playtest" at seven weeks is the one teams always skip, and it's the one that saves them from themselves. You want someone who hasn't seen the game in any form to sit down without explanation. Watch where they stop. Watch what they try to click that doesn't work. Don't say a word. It's genuinely uncomfortable and genuinely the most useful hour of the entire demo development cycle.
 
 ## Scope: The Decision That Kills More Demos Than Bugs Do
 

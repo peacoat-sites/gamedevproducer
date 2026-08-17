@@ -39,7 +39,7 @@ Producers get hired for their systems, their judgment, and their communication. 
 
 **A production artifact.** This is it. The one thing that matters most. A sprint plan, a risk register, a milestone tracking document, a capacity planning spreadsheet, a postmortem. Something that shows you can create usable structure. Redact any confidential data, but show the actual thing. A real, slightly messy Jira board screenshot with your logic explained beats a polished diagram of nothing.
 
-**[A postmortem or retrospective write-up.](/associate-producer-to-producer-how-to-level-up/)** One to two pages. Explain what went wrong on a project, what you did about it, and what changed as a result. Hiring managers love this because it shows self-awareness and process thinking. Most candidates don't include it because they're afraid it makes them look bad. It doesn't.
+**[A postmortem or retrospective write-up.](/posts/associate-producer-to-producer-how-to-level-up/)** One to two pages. Explain what went wrong on a project, what you did about it, and what changed as a result. Hiring managers love this because it shows self-awareness and process thinking. Most candidates don't include it because they're afraid it makes them look bad. It doesn't.
 
 **Metrics that mean something.** "Shipped on time" is not a metric. "Reduced bug backlog from 340 open tickets to 47 over six weeks by introducing a weekly triage ceremony" is a metric. Quantify your impact wherever you can. Even rough numbers beat vague claims.
 

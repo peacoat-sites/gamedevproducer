@@ -37,7 +37,7 @@ Here's what I want to give you: a practical, specific way to build and maintain 
 
 ## The backlog isn't a list. It's a decision queue.
 
-Most people build a backlog like it's a to-do list. Add everything, sort it vaguely by priority, and then wonder why [sprint planning](/posts/sprint-planning-for-small-game-teams-guide/) takes two hours and still leaves people uncertain about what they're doing. The reframe that changed how I run production: a backlog is a queue of pre-made decisions. Every item in it should already have enough context that a developer can pick it up, understand the acceptance criteria, and start without asking three clarifying questions first.
+Most people build a backlog like it's a to-do list. Add everything, sort it vaguely by priority, and then wonder why sprint planning takes two hours and still leaves people uncertain about what they're doing. The reframe that changed how I run production: a backlog is a queue of pre-made decisions. Every item in it should already have enough context that a developer can pick it up, understand the acceptance criteria, and start without asking three clarifying questions first.
 
 That means the work of organizing a backlog isn't just tagging and sorting. It's writing. Every ticket needs a "done means" statement, not a description of effort. "Done means the player can jump, land, and the landing animation plays correctly at 60fps on our target hardware." Not "work on jump." This sounds obvious and it is almost universally ignored.
 

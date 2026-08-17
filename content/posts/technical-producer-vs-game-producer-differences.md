@@ -25,9 +25,9 @@ faqs:
     a: "Read the reporting structure, not the title. If you'd report primarily to an engineering director or CTO, push for Technical Producer. If you'd report to a creative director or studio head, that's Game Producer territory. Titles are inconsistent enough across studios that the org chart tells you more than the job name does."
 ---
 
-Most people assume the title tells you everything. "Technical Producer" sounds like it's for the engineers. "[Game Producer](/posts/what-does-a-game-producer-actually-do/)" sounds like it's for everyone else. I thought the same thing when I was coming up, and I was wrong in ways that cost me at least one project relationship I really wish I'd handled better.
+Most people assume the title tells you everything. "Technical Producer" sounds like it's for the engineers. "Game Producer" sounds like it's for everyone else. I thought the same thing when I was coming up, and I was wrong in ways that cost me at least one project relationship I really wish I'd handled better.
 
-The split between these two roles is genuinely one of the most misunderstood things in [game development](/posts/burnout-in-game-development-the-year-5-cliff/), and the confusion doesn't just live in job postings. It lives in studios that don't know which one they need, in candidates who apply for the wrong role, and in teams where both titles exist but nobody's clear on who owns what. If you're trying to figure out which path you're on, or whether you should hire one or the other, you're in the right place.
+The split between these two roles is genuinely one of the most misunderstood things in game development, and the confusion doesn't just live in job postings. It lives in studios that don't know which one they need, in candidates who apply for the wrong role, and in teams where both titles exist but nobody's clear on who owns what. If you're trying to figure out which path you're on, or whether you should hire one or the other, you're in the right place.
 
 Here's what I tell people when they ask: the difference isn't really about technical skill level. It's about where you sit relative to the work and who you're primarily accountable to. Let me show you what [that actually](/posts/game-studio-post-mortem-process-that-actually-works/) looks like in practice.
 

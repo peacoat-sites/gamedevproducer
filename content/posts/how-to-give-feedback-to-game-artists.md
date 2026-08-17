@@ -47,7 +47,7 @@ Solution feedback: "Add more red." The artist is now executing your idea instead
 
 The one [that actually works](/posts/game-studio-post-mortem-process-that-actually-works/) is problem-first feedback: "The character doesn't read as a threat in the context of the level lighting, which is already dark. Players need to register danger at a glance." Now the artist has the constraint, the context, and the problem to solve. They can bring actual skill to it.
 
-A researcher named Nicole Forsgren co-authored "Accelerate" (2018), which found that [psychological safety](/posts/psychological-safety-in-game-development-playtests/) is the single biggest predictor of team performance, and that applies directly here. When artists feel like feedback is about the work's function rather than the producer's taste, they engage differently. They push back intelligently. That's good. You want that.
+A researcher named Nicole Forsgren co-authored "Accelerate" (2018), which found that psychological safety is the single biggest predictor of team performance, and that applies directly here. When artists feel like feedback is about the work's function rather than the producer's taste, they engage differently. They push back intelligently. That's good. You want that.
 
 ## Timing Is the Variable Nobody Talks About
 
@@ -87,7 +87,7 @@ Three scenarios that show the pattern clearly:
 
 Small studio, early production, environment art review: Lead artist was giving notes in front of the full team, including "this looks amateur." Junior artist clammed up for two sprints, producing only safe, generic work. When I came in as a consultant, we shifted to written private feedback first, then team discussion. Revision cycle dropped from 9 days average to 5.3 days within a month.
 
-Mid-size studio, [vertical slice](/posts/what-is-a-vertical-slice-in-game-development/), character pipeline: Producer was sending feedback over Slack with no context, just screenshots with red circles. Artist couldn't tell if notes were blockers or suggestions. Added a priority tag system (P1/P2/P3) to every note. Blocker resolution time went from 4.2 days to 1.8 days because artists knew what to hit first.
+Mid-size studio, vertical slice, character pipeline: Producer was sending feedback over Slack with no context, just screenshots with red circles. Artist couldn't tell if notes were blockers or suggestions. Added a priority tag system (P1/P2/P3) to every note. Blocker resolution time went from 4.2 days to 1.8 days because artists knew what to hit first.
 
 Jam team, 48-hour project: Zero formal feedback process, just people shouting opinions. Mid-jam they adopted a simple rule: every note has to name the player experience it's trying to protect. Scope stayed controlled and the team shipped on time, which for a jam is honestly the whole game.
 

@@ -37,7 +37,7 @@ The honest truth is that indie marketing on a budget isn't about doing everythin
 
 ## The Number That Should Restructure Your Whole Approach
 
-Here's the thing most people don't realize about Steam's algorithm: it's not primarily driven by review count or price. It's driven by wishlist conversion rate and the velocity of purchases in the first 48-72 hours [after launch](/posts/how-to-plan-content-updates-after-launch/). Valve doesn't publish the exact formula, but Simon Carless at Game Discover Co has tracked this extensively, and his data consistently shows that games crossing roughly 7,000 wishlists before launch have a dramatically higher chance of appearing in "Popular Upcoming" and post-launch browse sections.
+Here's the thing most people don't realize about Steam's algorithm: it's not primarily driven by review count or price. It's driven by wishlist conversion rate and the velocity of purchases in the first 48-72 hours after launch. Valve doesn't publish the exact formula, but Simon Carless at Game Discover Co has tracked this extensively, and his data consistently shows that games crossing roughly 7,000 wishlists before launch have a dramatically higher chance of appearing in "Popular Upcoming" and post-launch browse sections.
 
 Seven thousand is a lot if you're starting from zero in month one of development. It's achievable if you start building an audience 8-12 months out. That reframe changes everything, because it means the timeline question isn't "when do I start marketing before launch." It's "how long does it realistically take to accumulate the audience I need."
 

@@ -41,7 +41,7 @@ A lot of devs conflate "build pipeline" with "CI/CD pipeline" with "deployment p
 
 For a game, a build pipeline at minimum does three things: it compiles your project in a reproducible environment, packages it for one or more target platforms, and makes the output available somewhere for testing or distribution. That's it. You don't need automated deploys to Steam or continuous deployment on day one. You need a system where anyone on the team can trigger a build and get a playable artifact without touching your lead programmer's laptop.
 
-The more ambitious version adds automated testing, [platform certification](/posts/platform-certification-what-producers-need-to-know/) checks, crash symbolication, and deployment to stores. That's the full pipeline. Most studios should build toward it incrementally, not start there.
+The more ambitious version adds automated testing, platform certification checks, crash symbolication, and deployment to stores. That's the full pipeline. Most studios should build toward it incrementally, not start there.
 
 ## Choosing Your CI System
 

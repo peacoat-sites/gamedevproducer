@@ -34,7 +34,7 @@ Here's what actually gets tested when studios interview for producer roles, what
 
 A producer interview isn't really about your answers. It's about watching how you think under mild pressure. Studios are trying to figure out three things: Can you hold a schedule that means something? Can you manage humans who are smarter than you in their specific discipline? And will you tell leadership the truth when the truth is bad?
 
-That last one is underrated. I've interviewed candidates who gave technically competent answers about [sprint planning and backlog grooming](/skills-every-game-producer-needs-explained/), then completely froze when I asked them to walk me through a time they had to tell a director that a feature wasn't going to ship. The freeze tells me everything.
+That last one is underrated. I've interviewed candidates who gave technically competent answers about sprint planning and backlog grooming, then completely froze when I asked them to walk me through a time they had to tell a director that a feature wasn't going to ship. The freeze tells me everything.
 
 So before you prep for a producer interview, accept that the preparation has two layers. The surface layer is knowing the language (Agile, Scrum, JIRA, Hansoft, milestone tracking). The deeper layer is having real stories from your career that demonstrate judgment, not just process knowledge.
 
@@ -72,7 +72,7 @@ Ask things like:
 
 - "What's the current state of the schedule on the project I'd be joining?" (If there's hesitation, that's information.)
 - "What does a producer here own versus what's driven by directors?" (Scope of ownership varies wildly between studios.)
-- "What happened to the producer who had this role before me?" (You'd be surprised how often this gets answered honestly, and [what it reveals.](/game-producer-salary-guide-explained/))
+- "What happened to the producer who had this role before me?" (You'd be surprised how often this gets answered honestly, and [what it reveals.](/posts/game-producer-salary-guide-explained/))
 - "How does the studio handle crunch? What was the actual crunch pattern on the last shipped title?" (This is not a trick question. Studios that crunch badly know they crunch badly. The honest ones will tell you.)
 
 The last question especially. I've walked away from two offers in my career because the answers to that question were evasive. No regrets.

@@ -53,7 +53,7 @@ Think of pre-production not as a mini-production sprint sequence, but as a serie
 
 This reframe changes everything about how you structure the work. Instead of a backlog of tasks, you maintain a list of open questions ranked by risk and dependency. Instead of sprint goals, you set experiment goals: "By the end of week two, we will know whether physics-based traversal is technically feasible on our target platform." That's a pass/fail question. The team knows what they're running at.
 
-This is closer to how the best pre-production teams I've seen actually operate, even when they're officially "doing Scrum." They're running Scrum on the outside and something closer to [hypothesis-driven development](/agile-game-development-what-actually-works-in-practice/) on the inside. It's worth formalizing that instead of pretending the sprint board captures the real work.
+This is closer to how the best pre-production teams I've seen actually operate, even when they're officially "doing Scrum." They're running Scrum on the outside and something closer to [hypothesis-driven development](/posts/agile-game-development-what-actually-works-in-practice/) on the inside. It's worth formalizing that instead of pretending the sprint board captures the real work.
 
 ## What to Use Instead (or Alongside)
 

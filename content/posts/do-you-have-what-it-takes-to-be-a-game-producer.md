@@ -18,4 +18,4 @@ So is that you? Answer 7 quick questions about how you work, what energizes you,
 
 {{< quiz >}}
 
-However you scored, producing is a skill you build, not a personality you're born with. If the role intrigues you, start small: [organize a game jam team](/best-project-management-tools-for-game-studios/), run a side project to ship, or shadow a producer's daily standup. The instincts come faster than you'd think once you're in the seat.
+However you scored, producing is a skill you build, not a personality you're born with. If the role intrigues you, start small: [organize a game jam team](/posts/best-project-management-tools-for-game-studios/), run a side project to ship, or shadow a producer's daily standup. The instincts come faster than you'd think once you're in the seat.

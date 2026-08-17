@@ -24,7 +24,7 @@ This isn't an abstract story about corporate restructuring. The GDC 2026 State o
 
 ## What "Founder Independence with Runway Funding" Actually Looks Like
 
-Let's be specific about what Microsoft gave these studios versus what it didn't give them. According to reporting from GameDaily and Kotaku on July 6, both [Double Fine](/posts/what-double-fine-and-compulsion-got-right-in-their-xbox-exit/) and Compulsion Games are receiving runway funding to begin new projects and attract future investors or publishers. They also retain all their IP, including titles and franchises developed while they were Xbox subsidiaries. That's a genuinely generous exit package by any industry standard.
+Let's be specific about what Microsoft gave these studios versus what it didn't give them. According to reporting from GameDaily and Kotaku on July 6, both Double Fine and Compulsion Games are receiving runway funding to begin new projects and attract future investors or publishers. They also retain all their IP, including titles and franchises developed while they were Xbox subsidiaries. That's a genuinely generous exit package by any industry standard.
 
 What they don't have: a guaranteed publishing deal, a platform relationship locked in for their next title, or the operational safety net of a parent company absorbing HR, legal, IT, and facilities costs. Those invisible line items are what kill studios. A 40-person team burning through runway funding without a signed deal can be looking at 18 months of runway at best, often less depending on average salary levels in their market. San Francisco, where Double Fine is based, is not cheap. Montreal, where Compulsion works, is more favorable but still a real burn rate.
 

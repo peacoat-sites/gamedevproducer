@@ -11,7 +11,7 @@ author_title: "Lead Game Producer"
 author_slug: "stephen-brenish"
 lastmod: 2026-07-07
 ---
-Picking the wrong game engine early on is expensive. Not because you can't switch (porting is possible), but because switching costs time, and time is what you actually run out of. A solo developer who spends three months learning Unity, builds 60% of a 2D platformer, realizes the [learning curve is crushing them](/burnout-in-game-development-the-year-5-cliff/), then restarts in GameMaker has lost those months for good.
+Picking the wrong game engine early on is expensive. Not because you can't switch (porting is possible), but because switching costs time, and time is what you actually run out of. A solo developer who spends three months learning Unity, builds 60% of a 2D platformer, realizes the learning curve is crushing them, then restarts in GameMaker has lost those months for good.
 
 The right engine depends on four things: what you're building, how experienced you are, what you can afford, and where you want to ship it. Answer those honestly and you'll get a recommendation more useful than any "best engine" ranking.
 
@@ -21,7 +21,7 @@ The right engine depends on four things: what you're building, how experienced y
 
 ## Why Engine Choice Matters More Than You Think
 
-Most engine debates online focus on the wrong stuff. People argue about performance, graphics quality, or programming language, and sure, those matter at the edges, but the real factor for indie developers is **[time to productive output](/agile-game-development-what-actually-works-in-practice/)**. How fast can you go from nothing to a working prototype? How big is the community answering questions on forums and YouTube? How many tutorials exist for the specific game you want to make?
+Most engine debates online focus on the wrong stuff. People argue about performance, graphics quality, or programming language, and sure, those matter at the edges, but the real factor for indie developers is **[time to productive output](/posts/agile-game-development-what-actually-works-in-practice/)**. How fast can you go from nothing to a working prototype? How big is the community answering questions on forums and YouTube? How many tutorials exist for the specific game you want to make?
 
 By that measure, Godot, GameMaker, and Unity dominate indie development right now. Deep tutorial libraries, active Discord communities, documented solutions for weird edge cases. Bevy and GDevelop are genuinely excellent with smaller communities (though very dedicated ones). The trade-off is fewer tutorials when you hit something unusual.
 

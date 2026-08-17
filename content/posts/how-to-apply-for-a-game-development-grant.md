@@ -69,7 +69,7 @@ Same principle applies everywhere. Creative Europe MEDIA wants to know about co-
 
 The actual submission process varies by program, but most serious grants share a common anatomy. You're almost always filling out:
 
-A project description (what the game is, who it's for, what it's about, platform, scope). A company profile (your studio's history, past projects, key personnel and their credits). A [production plan](/posts/how-game-engine-choice-affects-your-production-plan/) (phases, milestones, team roles, realistic timeline). A budget breakdown (every major line item, justified). Supporting materials (trailers, prototypes, letters of support, sometimes a playable demo).
+A project description (what the game is, who it's for, what it's about, platform, scope). A company profile (your studio's history, past projects, key personnel and their credits). A production plan (phases, milestones, team roles, realistic timeline). A budget breakdown (every major line item, justified). Supporting materials (trailers, prototypes, letters of support, sometimes a playable demo).
 
 The budget section is where most applications quietly die. I've reviewed grant applications for two different funding bodies, and the pattern is consistent: teams write two sentences about their budget and attach a spreadsheet that doesn't match the narrative. Reviewers read the numbers. They check whether your programmer rate is realistic for your market, whether your QA budget is plausible for your scope, whether you've allocated anything for localization if you're claiming international ambitions.
 

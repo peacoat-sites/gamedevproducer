@@ -44,7 +44,7 @@ Do this first, before you write a single line of code or sign a single contract.
 
 Form an LLC. In most U.S. states, it takes about $50-500 in filing fees and an afternoon on your state's Secretary of State website. If you're in the UK, a limited company through Companies House costs £12 and fifteen minutes. Yes, you can technically operate as a sole proprietor. Don't. The liability protection alone is worth the paperwork.
 
-Co-founders need a [written operating agreement](/contract-basics-for-indie-game-developers/) before any work begins. This covers the important stuff: who owns what percentage, how decisions get made when you disagree, what happens if someone leaves in year one versus year three, who gets the IP if the studio dissolves. Clerky or a startup attorney (budget $1,500-3,000 for the full setup) will handle this properly. LegalZoom is cheaper but you often get what you pay for.
+Co-founders need a [written operating agreement](/posts/contract-basics-for-indie-game-developers/) before any work begins. This covers the important stuff: who owns what percentage, how decisions get made when you disagree, what happens if someone leaves in year one versus year three, who gets the IP if the studio dissolves. Clerky or a startup attorney (budget $1,500-3,000 for the full setup) will handle this properly. LegalZoom is cheaper but you often get what you pay for.
 
 Open a dedicated business bank account. Mercury is free and works well for indie studios. Relay is another solid option. Mixing personal and business finances is how you create an audit nightmare and also how you accidentally pierce your liability protection.
 

@@ -55,7 +55,7 @@ This is the part producers actually need to manage. The exact steps vary by plat
 
 1. **Complete your first-party developer registration**: You need an approved developer account and access to the partner portal before you can submit anything. This alone can take weeks if you haven't started the process.
 2. **Obtain your age ratings**: You'll need ratings from ESRB (North America), PEGI (Europe), and any other relevant regional bodies before submission. Apply early. IARC (the unified self-classification tool) speeds this up for digital releases.
-3. **Build your submission binary**: This is a cert-specific build, not your debug build. It has to be close to final, with [gold master-level stability](/what-is-a-game-milestone-alpha-beta-gold/).
+3. **Build your submission binary**: This is a cert-specific build, not your debug build. It has to be close to final, with [gold master-level stability](/posts/what-is-a-game-milestone-alpha-beta-gold/).
 4. **Run your internal first-party compliance pass**: Using the requirements documents, your QA team needs to systematically verify your build against every applicable requirement. Use a spreadsheet or a purpose-built test management tool. Zephyr Scale inside Jira or TestRail are both solid choices here.
 5. **Submit your build and documentation through the partner portal**: This includes your submission form, marketing assets, and any required legal agreements. Missing documentation is a fast path to rejection.
 6. **Wait for first-party QA**: The platform holder's team will test your build. This takes one to three weeks minimum, sometimes longer during high-volume windows like Q4 before the holidays.

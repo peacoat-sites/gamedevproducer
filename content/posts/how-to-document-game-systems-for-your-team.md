@@ -25,7 +25,7 @@ faqs:
     a: "Keep early-stage system docs deliberately lightweight. A half-page with intent and rough behavior is enough during preproduction when everything's in flux. Mark it clearly as 'draft.' The temptation to write comprehensive docs before systems are stable just means you'll rewrite everything twice. Lock the format down after alpha, and do the full write-up at that point."
 ---
 
-Most documentation advice for [game teams](/posts/sprint-planning-for-small-game-teams-guide/) focuses on the wrong end of the problem. People obsess over *where* to put the docs, which wiki tool to use, whether Confluence or Notion is better for your situation. Meanwhile, the actual game system description is three sentences and a diagram that made sense to exactly one person, six months ago, who has since left the company.
+Most documentation advice for game teams focuses on the wrong end of the problem. People obsess over *where* to put the docs, which wiki tool to use, whether Confluence or Notion is better for your situation. Meanwhile, the actual game system description is three sentences and a diagram that made sense to exactly one person, six months ago, who has since left the company.
 
 I've inherited enough undocumented codebases and "just ask Marcus, he knows how it works" systems to have strong feelings about this. Bad system documentation doesn't just slow down new hires. It actively breaks sprints, causes re-implementation bugs, and produces the specific kind of meeting where six people argue for forty minutes about what the original intent of a mechanic was, with no resolution.
 
