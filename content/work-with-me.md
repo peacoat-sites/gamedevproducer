@@ -2,7 +2,7 @@
 title: "Work With Me"
 layout: "coaching"
 hide_title: true
-description: "1:1 coaching, portfolio reviews, and mock interviews with Stephen Brenish, a Lead Game Producer (Fortnite, Unreal Engine)."
+description: "1:1 coaching, portfolio reviews, and mock interviews with Stephen Brenish, a game producer with 14+ years shipping and running live games at scale."
 ---
 <style>
 .cw{max-width:920px;margin:0 auto;padding:0 4px;color:var(--body,#1f2937)}
@@ -11,8 +11,9 @@ description: "1:1 coaching, portfolio reviews, and mock interviews with Stephen 
 .cw .lede{font-size:1.18rem;line-height:1.5;color:var(--muted,#4b5563)}
 .cw-hero{display:flex;gap:26px;align-items:center;flex-wrap:wrap;padding:14px 0 6px}
 .cw-hero img{width:104px;height:104px;border-radius:50%;object-fit:cover;object-position:top;border:3px solid var(--surface,#fff);box-shadow:0 4px 18px rgba(0,0,0,.12)}
-.cw-cred{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 4px}
-.cw-cred span{font-size:.82rem;font-weight:600;background:var(--surface,#f3f4f6);border:1px solid var(--border,#e5e7eb);border-radius:999px;padding:5px 11px;color:var(--muted,#374151)}
+.cw-about{font-size:.95rem;color:var(--muted,#4b5563);margin:14px 0 4px}
+.cw-about a{font-weight:600;color:#4f46e5;text-decoration:none}
+.cw-about a:hover{text-decoration:underline}
 .cw-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;margin:12px 0}
 .cw-card{border:1px solid var(--border,#e5e7eb);border-radius:14px;padding:22px;background:var(--surface,#fff);display:flex;flex-direction:column}
 .cw-card h3{margin:0 0 2px;font-size:1.18rem;color:var(--heading,#111827)}
@@ -39,12 +40,7 @@ description: "1:1 coaching, portfolio reviews, and mock interviews with Stephen 
   </div>
 </div>
 
-<div class="cw-cred">
-  <span>Lead Game Producer, Fortnite &amp; Unreal Engine</span>
-  <span>Ex-Senior Program Manager, Blizzard</span>
-  <span>14+ years shipping &amp; running live games</span>
-  <span>Certified ScrumMaster</span>
-</div>
+<p class="cw-about">14+ years shipping and running live games at scale, and a Certified ScrumMaster. <a href="/about/">See my full background and track record &rarr;</a></p>
 
 <h2>How I can help</h2>
 <div class="cw-cards">
