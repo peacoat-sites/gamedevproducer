@@ -1,126 +1,89 @@
 {
- "as_of": "2026-08-17",
- "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
- "games": [
-  {
-   "rank": 1,
-   "name": "Counter-Strike: Global Offensive",
-   "developer": "Valve",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 1013936,
-   "price": "Free"
-  },
-  {
-   "rank": 2,
-   "name": "PUBG: BATTLEGROUNDS",
-   "developer": "PUBG Corporation",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 314682,
-   "price": "Free"
-  },
-  {
-   "rank": 3,
-   "name": "Rust",
-   "developer": "Facepunch Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 143870,
-   "price": "$39.99"
-  },
-  {
-   "rank": 4,
-   "name": "Apex Legends",
-   "developer": "Respawn",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 124262,
-   "price": "Free"
-  },
-  {
-   "rank": 5,
-   "name": "Wallpaper Engine",
-   "developer": "Wallpaper Engine Team",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 91184,
-   "price": "$4.99"
-  },
-  {
-   "rank": 6,
-   "name": "Grand Theft Auto V Legacy",
-   "developer": "Rockstar North",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67851,
-   "price": "Free"
-  },
-  {
-   "rank": 7,
-   "name": "Call of Duty: Modern Warfare II",
-   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67419,
-   "price": "$38.49"
-  },
-  {
-   "rank": 8,
-   "name": "NARAKA: BLADEPOINT",
-   "developer": "24 Entertainment",
-   "owners": "10,000,000 - 20,000,000",
-   "ccu": 66954,
-   "price": "Free"
-  },
-  {
-   "rank": 9,
-   "name": "Baldur's Gate 3",
-   "developer": "Larian Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 54771,
-   "price": "$44.99"
-  },
-  {
-   "rank": 10,
-   "name": "HELLDIVERS 2",
-   "developer": "Arrowhead Game Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 53399,
-   "price": "$29.99"
-  },
-  {
-   "rank": 11,
-   "name": "Tom Clancy's Rainbow Six Siege",
-   "developer": "Ubisoft Montreal",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 51847,
-   "price": "$19.99"
-  },
-  {
-   "rank": 12,
-   "name": "Stardew Valley",
-   "developer": "ConcernedApe",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50662,
-   "price": "$14.99"
-  },
-  {
-   "rank": 13,
-   "name": "War Thunder",
-   "developer": "Gaijin Entertainment",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50478,
-   "price": "Free"
-  },
-  {
-   "rank": 14,
-   "name": "Dead by Daylight",
-   "developer": "Behaviour Interactive Inc.",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 44886,
-   "price": "$19.99"
-  },
-  {
-   "rank": 15,
-   "name": "Team Fortress 2",
-   "developer": "Valve",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 43819,
-   "price": "Free"
-  }
- ]
+  "updated": "2026-08-18",
+  "items": [
+    {
+      "name": "Puzzles Stars",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936760/fe724809bdaa1a30e21097222d4ff6000a2a0ad7/header.jpg?t=1787034041",
+      "url": "https://store.steampowered.com/app/4936760/",
+      "short_description": "",
+      "final_price": 15900
+    },
+    {
+      "name": "Project DeepWeb: Eternal Nightmare",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756870/572dcbf1c182bfa9d65bfe51bb2b359841f0d70e/header.jpg?t=1787024688",
+      "url": "https://store.steampowered.com/app/3756870/",
+      "short_description": "",
+      "final_price": 108000
+    },
+    {
+      "name": "Red Cap Adventure",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775760/ac76965f69f40143bdfd7a4cc99bec9b8d6b668c/header.jpg?t=1787019864",
+      "url": "https://store.steampowered.com/app/4775760/",
+      "short_description": "",
+      "final_price": 58900
+    },
+    {
+      "name": "The World Well: Blood of Caro",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2648900/fef28fece41557bbabeff38165c8b7c7a42f3b4c/header.jpg?t=1787020198",
+      "url": "https://store.steampowered.com/app/2648900/",
+      "short_description": "",
+      "final_price": 139500
+    },
+    {
+      "name": "\u5149\u4e0e\u5f71\u4e4b\u604b Chiaroscuro Lovers",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412960/3432e6210f9eed1a09d9e58024cf5c88079b3faf/header.jpg?t=1787018357",
+      "url": "https://store.steampowered.com/app/4412960/",
+      "short_description": "",
+      "final_price": 81400
+    },
+    {
+      "name": "\u5143\u6c14\u684c\u9762\u58c1\u7eb8",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864570/275ad1d095256fef6a5ce92c76b3a5df5b941b68/header.jpg?t=1787024586",
+      "url": "https://store.steampowered.com/app/3864570/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Elemental Master: Heroes Assemble",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2598990/2a11a4657eb21dc930945c53128745975680ac13/header.jpg?t=1787011283",
+      "url": "https://store.steampowered.com/app/2598990/",
+      "short_description": "",
+      "final_price": 108000
+    },
+    {
+      "name": "Squirterzz",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652920/853eff8f8e4458ad25e2b31bc207fa176c24a53b/header.jpg?t=1787010190",
+      "url": "https://store.steampowered.com/app/4652920/",
+      "short_description": "",
+      "final_price": 53000
+    },
+    {
+      "name": "BALLSKIN",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000970/b08f6a10a0dcab4ab18d4a20f6590f88f3bbbfed/header.jpg?t=1787007619",
+      "url": "https://store.steampowered.com/app/4000970/",
+      "short_description": "",
+      "final_price": 35500
+    },
+    {
+      "name": "Yipe! V - Attack of Idle Hands",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900320/015fdc1394e9add4c51b46625bc4ae7414cb5a6b/header.jpg?t=1787003317",
+      "url": "https://store.steampowered.com/app/4900320/",
+      "short_description": "",
+      "final_price": 76900
+    },
+    {
+      "name": "Tap To Travel",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854670/f2ed34d4a0bd6c98f9599e4235dc7c6877adf7e5/header.jpg?t=1787001983",
+      "url": "https://store.steampowered.com/app/4854670/",
+      "short_description": "",
+      "final_price": 52400
+    },
+    {
+      "name": "Little Sim World",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429880/347bd96d4644b3dbf8711c6ce3b174dad2a1b0fb/header.jpg?t=1787004722",
+      "url": "https://store.steampowered.com/app/1429880/",
+      "short_description": "",
+      "final_price": 108000
+    }
+  ]
 }
