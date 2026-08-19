@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "items": [
     {
-      "name": "Puzzles Stars",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4936760/fe724809bdaa1a30e21097222d4ff6000a2a0ad7/header.jpg?t=1787034041",
-      "url": "https://store.steampowered.com/app/4936760/",
-      "short_description": "",
-      "final_price": 15900
-    },
-    {
-      "name": "Project DeepWeb: Eternal Nightmare",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756870/572dcbf1c182bfa9d65bfe51bb2b359841f0d70e/header.jpg?t=1787024688",
-      "url": "https://store.steampowered.com/app/3756870/",
-      "short_description": "",
-      "final_price": 108000
-    },
-    {
-      "name": "Red Cap Adventure",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4775760/ac76965f69f40143bdfd7a4cc99bec9b8d6b668c/header.jpg?t=1787019864",
-      "url": "https://store.steampowered.com/app/4775760/",
-      "short_description": "",
-      "final_price": 58900
-    },
-    {
-      "name": "The World Well: Blood of Caro",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2648900/fef28fece41557bbabeff38165c8b7c7a42f3b4c/header.jpg?t=1787020198",
-      "url": "https://store.steampowered.com/app/2648900/",
-      "short_description": "",
-      "final_price": 139500
-    },
-    {
-      "name": "\u5149\u4e0e\u5f71\u4e4b\u604b Chiaroscuro Lovers",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4412960/3432e6210f9eed1a09d9e58024cf5c88079b3faf/header.jpg?t=1787018357",
-      "url": "https://store.steampowered.com/app/4412960/",
-      "short_description": "",
-      "final_price": 81400
-    },
-    {
-      "name": "\u5143\u6c14\u684c\u9762\u58c1\u7eb8",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864570/275ad1d095256fef6a5ce92c76b3a5df5b941b68/header.jpg?t=1787024586",
-      "url": "https://store.steampowered.com/app/3864570/",
+      "name": "DrawTheBlock",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961600/8c1523ff66fb6cfea7400979394c2a26e37ff152/header.jpg?t=1787118413",
+      "url": "https://store.steampowered.com/app/4961600/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Elemental Master: Heroes Assemble",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2598990/2a11a4657eb21dc930945c53128745975680ac13/header.jpg?t=1787011283",
-      "url": "https://store.steampowered.com/app/2598990/",
+      "name": "Nioh 3 Hell Rising",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4003950/bc6bd9a310b036c1082ea7e293021b0dd37f99d7/header.jpg?t=1787112015",
+      "url": "https://store.steampowered.com/app/4003950/",
       "short_description": "",
-      "final_price": 108000
+      "final_price": 1999
     },
     {
-      "name": "Squirterzz",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4652920/853eff8f8e4458ad25e2b31bc207fa176c24a53b/header.jpg?t=1787010190",
-      "url": "https://store.steampowered.com/app/4652920/",
+      "name": "20 Bucks Is 20 Bucks: A Never-Ending Story",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898520/0c3721c6ab44d1dae9709bb1af61e64adc844ffc/header.jpg?t=1787110974",
+      "url": "https://store.steampowered.com/app/4898520/",
       "short_description": "",
-      "final_price": 53000
+      "final_price": 850
     },
     {
-      "name": "BALLSKIN",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4000970/b08f6a10a0dcab4ab18d4a20f6590f88f3bbbfed/header.jpg?t=1787007619",
-      "url": "https://store.steampowered.com/app/4000970/",
+      "name": "Just Another Animal",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991800/3280f1e08eef0ed312d1a52084e582ecae801edc/header.jpg?t=1787107806",
+      "url": "https://store.steampowered.com/app/4991800/",
       "short_description": "",
-      "final_price": 35500
+      "final_price": 139
     },
     {
-      "name": "Yipe! V - Attack of Idle Hands",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900320/015fdc1394e9add4c51b46625bc4ae7414cb5a6b/header.jpg?t=1787003317",
-      "url": "https://store.steampowered.com/app/4900320/",
+      "name": "Plodding Recovery",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4532490/9c1a111f4c27ace7dede535ba5f2b469d2b94359/header.jpg?t=1787106500",
+      "url": "https://store.steampowered.com/app/4532490/",
       "short_description": "",
-      "final_price": 76900
+      "final_price": 339
     },
     {
-      "name": "Tap To Travel",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4854670/f2ed34d4a0bd6c98f9599e4235dc7c6877adf7e5/header.jpg?t=1787001983",
-      "url": "https://store.steampowered.com/app/4854670/",
+      "name": "Tanach: A Journey Through the Hebrew Bible",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4984690/d3aae5db3ac983d041869086eb7d30095ff00b80/header.jpg?t=1787106239",
+      "url": "https://store.steampowered.com/app/4984690/",
       "short_description": "",
-      "final_price": 52400
+      "final_price": 699
     },
     {
-      "name": "Little Sim World",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429880/347bd96d4644b3dbf8711c6ce3b174dad2a1b0fb/header.jpg?t=1787004722",
-      "url": "https://store.steampowered.com/app/1429880/",
+      "name": "Battle Ranker in Another World",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821280/3b5fbd80c87a33a93cbb8381854407bf1e3c4518/header.jpg?t=1787104023",
+      "url": "https://store.steampowered.com/app/4821280/",
       "short_description": "",
-      "final_price": 108000
+      "final_price": 0
+    },
+    {
+      "name": "\u5357\u6d3e\u76d7\u5893\u4f20\u5947",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911220/30db47ae6927ebd8750ee44322e5175d41763eb6/header.jpg?t=1787103573",
+      "url": "https://store.steampowered.com/app/4911220/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "LuluPaw",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4976750/2da1b506df3f1e814ce4de3ae79654ed4a2e35e4/header.jpg?t=1787103093",
+      "url": "https://store.steampowered.com/app/4976750/",
+      "short_description": "",
+      "final_price": 79
+    },
+    {
+      "name": "Siege",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926990/3d4ed5569230029443893ce398b6483b0e77560d/header.jpg?t=1787102130",
+      "url": "https://store.steampowered.com/app/4926990/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "The Return of Those Who Didn't Go",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4957260/a1c0051e06659e4d1eef1cc3d49a37d74f02ee70/header.jpg?t=1787100806",
+      "url": "https://store.steampowered.com/app/4957260/",
+      "short_description": "",
+      "final_price": 690
+    },
+    {
+      "name": "Alien Siege: Earth",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4931700/3adf62a97e6bee90495635f02b74c68f6fe81603/header.jpg?t=1787097389",
+      "url": "https://store.steampowered.com/app/4931700/",
+      "short_description": "",
+      "final_price": 120
     }
   ]
 }
