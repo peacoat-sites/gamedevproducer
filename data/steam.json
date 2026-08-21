@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "items": [
     {
-      "name": "PengPong",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766910/00d12cf9306edb84f39883023ba0eb537a2bd21b/header.jpg?t=1787209472",
-      "url": "https://store.steampowered.com/app/2766910/",
+      "name": "Turning Box",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938570/59f023ee26ca7d174fe4138257651602efbd9043/header.jpg?t=1787295105",
+      "url": "https://store.steampowered.com/app/4938570/",
       "short_description": "",
-      "final_price": 674
+      "final_price": 0
     },
     {
-      "name": "Grim Trials",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2621930/4d1b126182608f16e520fac6c2417a56e9cd5f6c/header.jpg?t=1787208840",
-      "url": "https://store.steampowered.com/app/2621930/",
+      "name": "Blowing Off Steam",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4388150/0267a28a44712891cff3d774ac566600ed62aac5/header.jpg?t=1787292511",
+      "url": "https://store.steampowered.com/app/4388150/",
       "short_description": "",
-      "final_price": 895
+      "final_price": 500
     },
     {
-      "name": "Ghost Buster:Village",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4354710/4b8c3687d23a72c752ab047d18593266f80d80a1/header.jpg?t=1787203671",
-      "url": "https://store.steampowered.com/app/4354710/",
+      "name": "Roll n' Bounce",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379400/a0db9219aacfbe9f8334c429f65ba6ffcbb7d298/header.jpg?t=1787292314",
+      "url": "https://store.steampowered.com/app/4379400/",
       "short_description": "",
-      "final_price": 449
+      "final_price": 0
     },
     {
-      "name": "With the Devilish Her\u2026",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4321510/7bdeb77d9b9a70a8c0524c26faf0ad6d56e45d03/header.jpg?t=1787200233",
-      "url": "https://store.steampowered.com/app/4321510/",
+      "name": "Hua Manlou",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749320/44f94ee26f0ce3755d227b6a39a303f59d4a25e5/header.jpg?t=1787291920",
+      "url": "https://store.steampowered.com/app/3749320/",
       "short_description": "",
-      "final_price": 859
+      "final_price": 934
     },
     {
-      "name": "Arcanum Collegium",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926910/d499cc4ad614be041bddbd6080db08140bdbeb37/header.jpg?t=1787198629",
-      "url": "https://store.steampowered.com/app/4926910/",
+      "name": "Hoop Empire",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866370/76ca3065b48de072c2773fbb5bf3456e1269a9ca/header.jpg?t=1787285807",
+      "url": "https://store.steampowered.com/app/4866370/",
+      "short_description": "",
+      "final_price": 659
+    },
+    {
+      "name": "Fish Slayer",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542590/2cca9cbd60eb1269feafb86a25e18e91d28f4ebe/header.jpg?t=1787281344",
+      "url": "https://store.steampowered.com/app/4542590/",
+      "short_description": "",
+      "final_price": 351
+    },
+    {
+      "name": "Drunken Rogue",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2836990/d88fd1435a264ea00ade1a85f29a8db90f152cdb/header.jpg?t=1787285676",
+      "url": "https://store.steampowered.com/app/2836990/",
+      "short_description": "",
+      "final_price": 799
+    },
+    {
+      "name": "Anomaly Operation",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025060/03b3d8fc0b91348414112277d43eeadc9f72d484/header.jpg?t=1787279122",
+      "url": "https://store.steampowered.com/app/4025060/",
+      "short_description": "",
+      "final_price": 559
+    },
+    {
+      "name": "Thousands of Heroes",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741790/header.jpg?t=1787277941",
+      "url": "https://store.steampowered.com/app/2741790/",
+      "short_description": "",
+      "final_price": 999
+    },
+    {
+      "name": "\u5168\u7f51\u6709\u70b9\u602a",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243330/e78a623a687db695671fa8d33c7943029966b704/header.jpg?t=1787277894",
+      "url": "https://store.steampowered.com/app/4243330/",
+      "short_description": "",
+      "final_price": 703
+    },
+    {
+      "name": "Locked and Wagered: A Girlfriend at Stake",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192280/60f94e53d40b437fd52345ee7d3453922643c584/header.jpg?t=1787277827",
+      "url": "https://store.steampowered.com/app/3192280/",
       "short_description": "",
       "final_price": 629
     },
     {
-      "name": "Media Basket Manager",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4924370/dbb3bd8a26448660a7e66e9943ba9531f5cb46e4/header.jpg?t=1787195502",
-      "url": "https://store.steampowered.com/app/4924370/",
+      "name": "Baito Fight!!: Part-time Devil Hunter",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3852160/061bc824c8075a676fc1a7095f2ce042f0b776fd/header.jpg?t=1787276073",
+      "url": "https://store.steampowered.com/app/3852160/",
       "short_description": "",
-      "final_price": 98
-    },
-    {
-      "name": "Desktop Mate Kizuna AI ~ KAMATTE AI ver.~ DLC",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4981520/02a032572e09344907960b3722621202bba87b91/header.jpg?t=1787196763",
-      "url": "https://store.steampowered.com/app/4981520/",
-      "short_description": "",
-      "final_price": 819
-    },
-    {
-      "name": "H3LLV3TE",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4480320/fc1aa8e93a19cf359b1b766afff529837fdadaac/header.jpg?t=1787192265",
-      "url": "https://store.steampowered.com/app/4480320/",
-      "short_description": "",
-      "final_price": 566
-    },
-    {
-      "name": "Detective Pig",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3952160/99b93e542804dad3d8a68ce99a0b43bf12644850/header.jpg?t=1787192212",
-      "url": "https://store.steampowered.com/app/3952160/",
-      "short_description": "",
-      "final_price": 54
-    },
-    {
-      "name": "Visual Novel Transformer",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001290/4500ada17d7858bdc194b5c09e5be8b69cd66e27/header.jpg?t=1787191332",
-      "url": "https://store.steampowered.com/app/5001290/",
-      "short_description": "",
-      "final_price": 463
-    },
-    {
-      "name": "PHANTOM TAG: MANIFEST",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4894010/f8e89e4111a9c7cdf7f7e9511dad994c6222f1de/header.jpg?t=1787191247",
-      "url": "https://store.steampowered.com/app/4894010/",
-      "short_description": "",
-      "final_price": 1199
-    },
-    {
-      "name": "Arms Dealer",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4698270/5c7115fb10f079f702202f3caa66dd07918c7b92/header.jpg?t=1787192546",
-      "url": "https://store.steampowered.com/app/4698270/",
-      "short_description": "",
-      "final_price": 399
+      "final_price": 799
     }
   ]
 }
