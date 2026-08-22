@@ -1,25 +1,7 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "count": 25,
   "items": [
-    {
-      "source": "Game Developer",
-      "title": "Harvey Smith and fellow Arkane Austin veterans announce a new studio, Black Pony Immersive",
-      "url": "https://www.gamedeveloper.com/business/harvey-smith-and-fellow-arkane-austin-veterans-launch-a-new-studio",
-      "date": "Wed, 19 Au"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Triple-A vets and accessibility experts launch new game dev co-op: Raze and Rebuild Studio",
-      "url": "https://www.gamedeveloper.com/business/triple-a-vets-and-accessibility-experts-launch-new-game-dev-co-op-raze-and-rebuild-studio",
-      "date": "Wed, 19 Au"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Report: PlayStation scales back live service ambitions for Horizon Hunters Gathering, reassigns devs",
-      "url": "https://www.gamedeveloper.com/business/report-playstation-reworks-horizon-live-service-game-after-negative-feedback",
-      "date": "Wed, 19 Au"
-    },
     {
       "source": "Game Developer",
       "title": "Makers Fund expands game industry footprint through $250 million investment round",
@@ -33,123 +15,141 @@
       "date": "Thu, 20 Au"
     },
     {
-      "source": "Kotaku",
-      "title": "Darth Vader Wants Flock Surveillance Cameras In Cities To \u2018Find The Rebel Scum\u2019 And \u2018Stalk My Ex-Girlfriend\u2019",
-      "url": "https://kotaku.com/darth-vader-wants-flock-surveillance-cameras-2000726326",
-      "date": "Thu, 20 Au"
+      "source": "Polygon",
+      "title": "5 Times Disney\u2019s Sci-Fi Ambitions Crashed and Burned at the Box Office",
+      "url": "https://www.polygon.com/disneys-5-biggest-sci-fi-box-office-flops/",
+      "date": "Sat, 22 Au"
     },
     {
-      "source": "Kotaku",
-      "title": "Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer",
-      "url": "https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316",
-      "date": "Thu, 20 Au"
+      "source": "Polygon",
+      "title": "5 Must-Play New Steam Games to Try This Weekend",
+      "url": "https://www.polygon.com/new-steam-games-august-21-2026/",
+      "date": "Sat, 22 Au"
     },
     {
-      "source": "Kotaku",
-      "title": "Geoff Keighley Explains The Key To Getting In The Gamescom Showcase For Free Is Having Something Exciting To Reveal",
-      "url": "https://kotaku.com/geoff-keighley-explains-the-key-to-getting-in-the-gamescom-showcase-for-free-is-having-something-exciting-to-reveal-2000726290",
-      "date": "Thu, 20 Au"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Xbox And EA Aren\u2019t Sharing U.S. Digital Sales Data With Circana Anymore, And That\u2019s Worrisome",
-      "url": "https://kotaku.com/xbox-isnt-sharing-us-digital-sales-data-anymore-2000726257",
-      "date": "Thu, 20 Au"
+      "source": "Polygon",
+      "title": "'Pok\u00e9mon' Free August 2026 DLC Confirmed for Pok\u00e9mon Worlds",
+      "url": "https://www.polygon.com/pokemon-worlds-twitch-drops-how-to-get-tcg-pikachu-card-astronaut/",
+      "date": "Sat, 22 Au"
     },
     {
       "source": "Eurogamer",
-      "title": "Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign",
-      "url": "https://www.eurogamer.net/hidetaka-miyazaki-fromsoftware-single-player-games",
-      "date": "Thu, 20 Au"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "IO Interactive announces new sales milestone for James Bond game 007 First Light",
-      "url": "https://www.eurogamer.net/james-bond-007-first-light-sales",
-      "date": "Thu, 20 Au"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "No, The Duskbloods isn't releasing on 24th September, according to Nintendo",
-      "url": "https://www.eurogamer.net/the-duskbloods-release-date-nintendo-denied",
-      "date": "Thu, 20 Au"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Final Fantasy: Crystal Chronicles composer speaks out about AI-generated Spotify album falsely using her name",
-      "url": "https://www.eurogamer.net/final-fantasy-crystal-chronicles-composer-kumi-tanioka-ai-spotify",
-      "date": "Thu, 20 Au"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "A cracked version of Marvel T\u014dkon is reigniting questions around DRM and its impact on PC games",
-      "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-crack-drm-performance",
-      "date": "Thu, 20 Au"
+      "title": "What we've been playing - \"We're in danger of making this a regular thing\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-were-in-danger-of-making-this-a-regular-thing",
+      "date": "Sat, 22 Au"
     },
     {
       "source": "IGN",
-      "title": "Double Your PlayStation 5 Storage With This 1TB PCIe M.2 SSD for Just $136.39 Shipped",
-      "url": "https://www.ign.com/articles/best-ps5-ssd-deal-august-2026",
-      "date": "Thu, 20 Au"
+      "title": "The Sinking City 2 Review",
+      "url": "https://www.ign.com/articles/the-sinking-city-2-review",
+      "date": "Sat, 22 Au"
     },
     {
       "source": "IGN",
-      "title": "Zoey 101 Star Jamie Lynn Spears Denies Show Was Canceled Because of Teen Pregnancy",
-      "url": "https://www.ign.com/articles/zoey-101-star-jamie-lynn-spears-denies-show-was-canceled-because-of-teen-pregnancy",
-      "date": "Thu, 20 Au"
+      "title": "'Hoping for a Huge October Surprise, But Not Holding My Breath' \u2014 Arc Raiders Players Torn After Embark Delays Future Expeditions Until Early 2027",
+      "url": "https://www.ign.com/articles/hoping-for-a-huge-october-surprise-but-not-holding-my-breath-arc-raiders-players-torn-after-embark-delays-future-expeditions-until-early-2027",
+      "date": "Sat, 22 Au"
+    },
+    {
+      "source": "IGN",
+      "title": "Save $800 Off This Top-Tier iBuypower Gaming PC With AMD Ryzen 9 9950X3D CPU and 5090 GPU",
+      "url": "https://www.ign.com/articles/ibuypower-rtx-5090-gaming-pc-deal-august-2026",
+      "date": "Sat, 22 Au"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Report: Take-Two subpoenas Microsoft and Discord in bid to halt extensive Grand Theft Auto VI leak",
+      "url": "https://www.gamedeveloper.com/business/rockstar-subpoenas-microsoft-and-discord-in-bid-to-halt-extensive-grand-theft-auto-vi-leak",
+      "date": "Fri, 21 Au"
+    },
+    {
+      "source": "Game Developer",
+      "title": "We're finally talking about AI, ft. David 'Rez' Graham and Luke Dicken",
+      "url": "https://www.gamedeveloper.com/programming/we-re-finally-talking-about-ai-ft-david-rez-graham-and-luke-dicken",
+      "date": "Fri, 21 Au"
+    },
+    {
+      "source": "Game Developer",
+      "title": "EA staff worries over Saudi buyout, Grand Theft Auto 6 leaks, and Peak's last major update - Patch Notes #66",
+      "url": "https://www.gamedeveloper.com/business/ea-staff-worries-over-saudi-buyout-grand-theft-auto-6-leaks-and-peak-s-last-major-update-patch-notes-66",
+      "date": "Fri, 21 Au"
     },
     {
       "source": "Kotaku",
-      "title": "Metal Gear Solid 4: Guns Of The Patriots: The Kotaku Review",
-      "url": "https://kotaku.com/metal-gear-solid-4-guns-of-the-patriots-the-kotaku-review-2000726365",
+      "title": "In This Soulslike, The Dog Will Pet You Back\u2026With A Sword",
+      "url": "https://kotaku.com/dog-souls-stray-dog-nobody-cares-annoucement-pc-game-steam-2000726752",
+      "date": "Fri, 21 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Someone Cleared All 1,000 Levels Of Splatoon Raiders\u2019 \u2018Bottomless Buffet\u2019 And Got Nothing For It",
+      "url": "https://kotaku.com/someone-cleared-all-1000-levels-of-splatoon-raiders-bottomless-buffet-2000726699",
+      "date": "Fri, 21 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Clanker Runs Full Speed Into A Wall And Then Snaps In Half After Stumbling Backwards Like A Looney Toons Character",
+      "url": "https://kotaku.com/clanker-runs-full-speed-into-a-wall-and-then-snaps-in-half-after-stumbling-backwards-2000726696",
+      "date": "Fri, 21 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Pok\u00e9mon\u2019s Battle System May Not Be Turn-Based For Much Longer",
+      "url": "https://kotaku.com/pokemon-champions-turn-based-real-time-battles-winds-waves-2000726753",
+      "date": "Fri, 21 Au"
+    },
+    {
+      "source": "Kotaku",
+      "title": "People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot",
+      "url": "https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706",
       "date": "Fri, 21 Au"
     },
     {
       "source": "Polygon",
-      "title": "There Will Never Be Another Game Like Metal Gear Solid 4",
-      "url": "https://www.polygon.com/metal-gear-solid-4-master-collection-review/",
+      "title": "10 New Movies to Watch This Weekend on Netflix, HBO Max, and Hulu (August 21-23)",
+      "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-august-21-23/",
       "date": "Fri, 21 Au"
     },
     {
       "source": "Polygon",
-      "title": "Forget 'The Odyssey,' Anne Hathaway's Unforgettable Thriller Is Officially Streaming on HBO Max",
-      "url": "https://www.polygon.com/anne-hathaway-mother-mary-best-performance-hbo-max/",
+      "title": "Noomi Rapace\u2019s Sci-Fi Thriller 'Hot Spot' Is Like 'Dune's Deranged Cousin",
+      "url": "https://www.polygon.com/hot-spot-noomi-rapace-director-interview/",
       "date": "Fri, 21 Au"
     },
     {
-      "source": "Polygon",
-      "title": "Steam Makes Two Games Completely Free To Play Until Aug. 4",
-      "url": "https://www.polygon.com/steam-free-games-weekend-august-21-2026/",
+      "source": "Eurogamer",
+      "title": "Take-Two's legal action to find GTA 6 leaker begins, as it subpoenas Microsoft and Discord for any data \"sufficient to identify the users person\"",
+      "url": "https://www.eurogamer.net/take-two-legal-action-gta-6-leeks-cyberleek",
       "date": "Fri, 21 Au"
     },
     {
-      "source": "Polygon",
-      "title": "Zelda: Ocarina of Time Mod Remakes the N64 Classic in True 3D",
-      "url": "https://www.polygon.com/zelda-ocarina-of-time-mod-nintendo-64-replaces-games-fake-3d/",
+      "source": "Eurogamer",
+      "title": "The second season of Netflix's Cyberpunk Edgerunners anime releases this year",
+      "url": "https://www.eurogamer.net/cyberpunk-edgerunners-release-date-october-teaser-trailer",
       "date": "Fri, 21 Au"
     },
     {
-      "source": "Polygon",
-      "title": "Netflix\u2019s Near-Perfect Revenge Thriller Blue Eye Samurai Is Getting a Third Season",
-      "url": "https://www.polygon.com/blue-eye-samurai-season-3-announced/",
+      "source": "Eurogamer",
+      "title": "That limited edition green see-through Xbox Series X reportedly costs as much as a PS5 Pro, and releases on Black Friday",
+      "url": "https://www.eurogamer.net/limited-edition-retro-green-xbox-series-x-date-price",
+      "date": "Fri, 21 Au"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Careful, the new Plague Tale game appears to have leaked a week ahead of launch",
+      "url": "https://www.eurogamer.net/plague-tale-resonance-leaked-pc",
       "date": "Fri, 21 Au"
     },
     {
       "source": "IGN",
-      "title": "Netflix Reveals New Cyberpunk: Edgerunners 2 Trailer and Images at Anime NYC",
-      "url": "https://www.ign.com/articles/netflix-reveals-new-cyberpunk-edgerunners-2-trailer-and-images-at-anime-nyc",
+      "title": "Amazon Has Box Set Deals Hidden Deep Within Its BOGO 50% Off Book Sale",
+      "url": "https://www.ign.com/articles/amazon-bogo-book-sale-august-2026",
       "date": "Fri, 21 Au"
     },
     {
       "source": "IGN",
-      "title": "Netflix Confirms Blue Eye Samurai Will End With Third and Final Season",
-      "url": "https://www.ign.com/articles/netflix-confirms-blue-eye-samurai-will-end-with-third-and-final-season",
-      "date": "Fri, 21 Au"
-    },
-    {
-      "source": "IGN",
-      "title": "Netflix Reveals Packed Anime Slate: Full Announcement Rundown, Trailers, and Images",
-      "url": "https://www.ign.com/articles/netflix-reveals-packed-anime-slate-full-announcement-rundown-trailers-and-images",
+      "title": "Double Fine Owns IP and Publishing Rights for All of Its Games Following Xbox Split, Psychonauts Studio Confirms",
+      "url": "https://www.ign.com/articles/double-fine-owns-ip-and-publishing-rights-for-all-of-its-games-following-xbox-split-psychonauts-studio-confirms",
       "date": "Fri, 21 Au"
     }
   ]

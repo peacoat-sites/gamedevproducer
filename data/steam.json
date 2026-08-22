@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "items": [
     {
-      "name": "Turning Box",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938570/59f023ee26ca7d174fe4138257651602efbd9043/header.jpg?t=1787295105",
-      "url": "https://store.steampowered.com/app/4938570/",
+      "name": "KurunMania: Spiral Drop",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5002080/d8757b596360fc98e533695cf6ea976821095c7a/header.jpg?t=1787370291",
+      "url": "https://store.steampowered.com/app/5002080/",
+      "short_description": "",
+      "final_price": 254
+    },
+    {
+      "name": "Mado Marks",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4832290/d134a92972487a6a382e93dfc61a549e2d2355fa/header.jpg?t=1787368837",
+      "url": "https://store.steampowered.com/app/4832290/",
+      "short_description": "",
+      "final_price": 239
+    },
+    {
+      "name": "Popping Bubbles in Space",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4803440/da47c12d08f6b46b92ee28c15f2c36852e8aa49d/header.jpg?t=1787367816",
+      "url": "https://store.steampowered.com/app/4803440/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Blowing Off Steam",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4388150/0267a28a44712891cff3d774ac566600ed62aac5/header.jpg?t=1787292511",
-      "url": "https://store.steampowered.com/app/4388150/",
+      "name": "27-year-old Female Teacher \u2013 A Moment in Daily Life, Chapter 1",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243700/9cb55f54b4b393d49eecf9659b639180f01c86bb/header.jpg?t=1787367604",
+      "url": "https://store.steampowered.com/app/4243700/",
       "short_description": "",
-      "final_price": 500
+      "final_price": 809
     },
     {
-      "name": "Roll n' Bounce",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4379400/a0db9219aacfbe9f8334c429f65ba6ffcbb7d298/header.jpg?t=1787292314",
-      "url": "https://store.steampowered.com/app/4379400/",
+      "name": "Meet Sudoku",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932400/ee2bc7257feb6d8c173f3c9382d3fdee5a6a7a33/header.jpg?t=1787365364",
+      "url": "https://store.steampowered.com/app/4932400/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 594
     },
     {
-      "name": "Hua Manlou",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3749320/44f94ee26f0ce3755d227b6a39a303f59d4a25e5/header.jpg?t=1787291920",
-      "url": "https://store.steampowered.com/app/3749320/",
+      "name": "Three Kingdoms: Shu-Han Chronicles",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669490/229daf67807436cc2ee5a4a67fac3a9171b6f49d/header.jpg?t=1787364401",
+      "url": "https://store.steampowered.com/app/3669490/",
       "short_description": "",
-      "final_price": 934
+      "final_price": 1039
     },
     {
-      "name": "Hoop Empire",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4866370/76ca3065b48de072c2773fbb5bf3456e1269a9ca/header.jpg?t=1787285807",
-      "url": "https://store.steampowered.com/app/4866370/",
-      "short_description": "",
-      "final_price": 659
-    },
-    {
-      "name": "Fish Slayer",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4542590/2cca9cbd60eb1269feafb86a25e18e91d28f4ebe/header.jpg?t=1787281344",
-      "url": "https://store.steampowered.com/app/4542590/",
-      "short_description": "",
-      "final_price": 351
-    },
-    {
-      "name": "Drunken Rogue",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2836990/d88fd1435a264ea00ade1a85f29a8db90f152cdb/header.jpg?t=1787285676",
-      "url": "https://store.steampowered.com/app/2836990/",
-      "short_description": "",
-      "final_price": 799
-    },
-    {
-      "name": "Anomaly Operation",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4025060/03b3d8fc0b91348414112277d43eeadc9f72d484/header.jpg?t=1787279122",
-      "url": "https://store.steampowered.com/app/4025060/",
+      "name": "Claws Of Power",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3998900/89ccb250359de3656efe87940ef637257f3c03d8/header.jpg?t=1787363801",
+      "url": "https://store.steampowered.com/app/3998900/",
       "short_description": "",
       "final_price": 559
     },
     {
-      "name": "Thousands of Heroes",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2741790/header.jpg?t=1787277941",
-      "url": "https://store.steampowered.com/app/2741790/",
-      "short_description": "",
-      "final_price": 999
-    },
-    {
-      "name": "\u5168\u7f51\u6709\u70b9\u602a",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243330/e78a623a687db695671fa8d33c7943029966b704/header.jpg?t=1787277894",
-      "url": "https://store.steampowered.com/app/4243330/",
-      "short_description": "",
-      "final_price": 703
-    },
-    {
-      "name": "Locked and Wagered: A Girlfriend at Stake",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3192280/60f94e53d40b437fd52345ee7d3453922643c584/header.jpg?t=1787277827",
-      "url": "https://store.steampowered.com/app/3192280/",
+      "name": "Ashfire Keep",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5009540/206994b6f13eb9d1888ef684eceb3355d777ff4f/header.jpg?t=1787361161",
+      "url": "https://store.steampowered.com/app/5009540/",
       "short_description": "",
       "final_price": 629
     },
     {
-      "name": "Baito Fight!!: Part-time Devil Hunter",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3852160/061bc824c8075a676fc1a7095f2ce042f0b776fd/header.jpg?t=1787276073",
-      "url": "https://store.steampowered.com/app/3852160/",
+      "name": "Neko Rogue",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4973340/c764bd577cc413cd3349192c4301c7ca7bd8a907/header.jpg?t=1787358761",
+      "url": "https://store.steampowered.com/app/4973340/",
       "short_description": "",
-      "final_price": 799
+      "final_price": 974
+    },
+    {
+      "name": "Realms Of Wands",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989300/7eb99d50c48201b7084b5be3bcf71c6331b5e77c/header.jpg?t=1787354972",
+      "url": "https://store.steampowered.com/app/4989300/",
+      "short_description": "",
+      "final_price": 1259
+    },
+    {
+      "name": "Empire Eleven 2026",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502700/46428c8b472a90350ca005250442f59aef204e10/header.jpg?t=1787371853",
+      "url": "https://store.steampowered.com/app/4502700/",
+      "short_description": "",
+      "final_price": 999
+    },
+    {
+      "name": "Pavlov Shack",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3504270/65358c725f92240b4c0f15eb8647ec5a230cc31d/header.jpg?t=1787352893",
+      "url": "https://store.steampowered.com/app/3504270/",
+      "short_description": "",
+      "final_price": 1999
     }
   ]
 }
