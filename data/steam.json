@@ -1,89 +1,126 @@
 {
-  "updated": "2026-08-24",
-  "items": [
-    {
-      "name": "The Brothers Karamazov",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4955990/44ba87c06ec3d77fbd3034b5f8e2a2f1b96a35fb/header.jpg?t=1787553208",
-      "url": "https://store.steampowered.com/app/4955990/",
-      "short_description": "",
-      "final_price": 764
-    },
-    {
-      "name": "Backyard Paintball",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3509670/97e49a0c4d78d3fee30c9fa7c4c89c66f2c3427a/header.jpg?t=1787546504",
-      "url": "https://store.steampowered.com/app/3509670/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "The Library on the Lake",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747380/a4c9e2dbf6e4e4fa9f31b7763bf1c1fdb93422c8/header.jpg?t=1787544784",
-      "url": "https://store.steampowered.com/app/4747380/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "\u30b9\u30de\u30fc\u30c8\u30d5\u30a9\u30f3",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4937120/15ca58887242415838540a0736fd532f5d0cf365/header.jpg?t=1787540141",
-      "url": "https://store.steampowered.com/app/4937120/",
-      "short_description": "",
-      "final_price": 254
-    },
-    {
-      "name": "Last Fiefdom",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4938410/140d69b0c12a7f7254f89d71a34d6c36b70e439a/header.jpg?t=1787538920",
-      "url": "https://store.steampowered.com/app/4938410/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Idle Demon Lord",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4932620/51e28f5f1e71793d0021dc50e85c6a38804252e0/header.jpg?t=1787535793",
-      "url": "https://store.steampowered.com/app/4932620/",
-      "short_description": "",
-      "final_price": 399
-    },
-    {
-      "name": "AFTERLIGHT: The Apartment",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4986740/dda5c52690fa22a0d212c1b654e1889ffb6afd72/header.jpg?t=1787531842",
-      "url": "https://store.steampowered.com/app/4986740/",
-      "short_description": "",
-      "final_price": 399
-    },
-    {
-      "name": "Ironvale",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4720080/554e1e5a39e56f9c84ca24625b8659a0c05fba6f/header.jpg?t=1787530301",
-      "url": "https://store.steampowered.com/app/4720080/",
-      "short_description": "",
-      "final_price": 299
-    },
-    {
-      "name": "OverlayGG: Game Guide Overlay",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747010/834c8fc9be7ecdf3379c6b8f9061f7a8092a7ef2/header.jpg?t=1787520968",
-      "url": "https://store.steampowered.com/app/4747010/",
-      "short_description": "",
-      "final_price": 899
-    },
-    {
-      "name": "Cow",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4745980/cd46c014e43e648da40eaa5a2aa24a25a3446eb4/header.jpg?t=1787525536",
-      "url": "https://store.steampowered.com/app/4745980/",
-      "short_description": "",
-      "final_price": 399
-    },
-    {
-      "name": "Puzzles Hamster",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961770/94d6be1029961f082cd3ee24f696a87f77475e86/header.jpg?t=1787515670",
-      "url": "https://store.steampowered.com/app/4961770/",
-      "short_description": "",
-      "final_price": 59
-    },
-    {
-      "name": "Puzzles Colors",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4961800/123173ad3539981410d85ac9b6c5b9b3252219f9/header.jpg?t=1787515469",
-      "url": "https://store.steampowered.com/app/4961800/",
-      "short_description": "",
-      "final_price": 119
-    }
-  ]
+ "as_of": "2026-08-24",
+ "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
+ "games": [
+  {
+   "rank": 1,
+   "name": "Counter-Strike: Global Offensive",
+   "developer": "Valve",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 1013936,
+   "price": "Free"
+  },
+  {
+   "rank": 2,
+   "name": "PUBG: BATTLEGROUNDS",
+   "developer": "PUBG Corporation",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 314682,
+   "price": "Free"
+  },
+  {
+   "rank": 3,
+   "name": "Rust",
+   "developer": "Facepunch Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 143870,
+   "price": "$39.99"
+  },
+  {
+   "rank": 4,
+   "name": "Apex Legends",
+   "developer": "Respawn",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 124262,
+   "price": "Free"
+  },
+  {
+   "rank": 5,
+   "name": "Wallpaper Engine",
+   "developer": "Wallpaper Engine Team",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 91184,
+   "price": "$4.99"
+  },
+  {
+   "rank": 6,
+   "name": "Grand Theft Auto V Legacy",
+   "developer": "Rockstar North",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 67851,
+   "price": "Free"
+  },
+  {
+   "rank": 7,
+   "name": "Call of Duty: Modern Warfare II",
+   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 67419,
+   "price": "$38.49"
+  },
+  {
+   "rank": 8,
+   "name": "NARAKA: BLADEPOINT",
+   "developer": "24 Entertainment",
+   "owners": "10,000,000 - 20,000,000",
+   "ccu": 66954,
+   "price": "Free"
+  },
+  {
+   "rank": 9,
+   "name": "Baldur's Gate 3",
+   "developer": "Larian Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 54771,
+   "price": "$44.99"
+  },
+  {
+   "rank": 10,
+   "name": "HELLDIVERS 2",
+   "developer": "Arrowhead Game Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 53399,
+   "price": "$39.99"
+  },
+  {
+   "rank": 11,
+   "name": "Tom Clancy's Rainbow Six Siege",
+   "developer": "Ubisoft Montreal",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 51847,
+   "price": "$19.99"
+  },
+  {
+   "rank": 12,
+   "name": "Stardew Valley",
+   "developer": "ConcernedApe",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 50662,
+   "price": "$14.99"
+  },
+  {
+   "rank": 13,
+   "name": "War Thunder",
+   "developer": "Gaijin Entertainment",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 50478,
+   "price": "Free"
+  },
+  {
+   "rank": 14,
+   "name": "Dead by Daylight",
+   "developer": "Behaviour Interactive Inc.",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 44886,
+   "price": "$19.99"
+  },
+  {
+   "rank": 15,
+   "name": "Team Fortress 2",
+   "developer": "Valve",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 43819,
+   "price": "Free"
+  }
+ ]
 }
