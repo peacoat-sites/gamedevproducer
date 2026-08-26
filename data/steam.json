@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "items": [
     {
-      "name": "ROCKET SCIENCE",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4977610/3d51f5186626e32714f3bdda1d9c338fc9dba973/header.jpg?t=1787638465",
-      "url": "https://store.steampowered.com/app/4977610/",
-      "short_description": "",
-      "final_price": 999
-    },
-    {
-      "name": "Tsugunohi -The Thread That Beckons to Heaven-",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4830660/0a3875dc9eec1ba26f23025eb2eb9c2cccb50a19/header.jpg?t=1787636773",
-      "url": "https://store.steampowered.com/app/4830660/",
-      "short_description": "",
-      "final_price": 339
-    },
-    {
-      "name": "Base Station Sync",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4989130/9b9ab8757aa393c70546517af493e5c819ae8f70/header.jpg?t=1787624724",
-      "url": "https://store.steampowered.com/app/4989130/",
-      "short_description": "",
-      "final_price": 299
-    },
-    {
-      "name": "CityExplorer",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911410/f833bd37c1199e2e9102da32b323a8203c3adbbf/header.jpg?t=1787641027",
-      "url": "https://store.steampowered.com/app/4911410/",
-      "short_description": "",
-      "final_price": 479
-    },
-    {
-      "name": "Honoiro no Jikou \u7a57\u8272\u65f6\u5149",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4926100/b1736b8e82b1a99e855866652beef7dc9a45da7b/header.jpg?t=1787622942",
-      "url": "https://store.steampowered.com/app/4926100/",
+      "name": "Fatal Claw",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827750/d7d0e546e2ed7a1cd07f3abfdc2b65f140201b24/header.jpg?t=1787727739",
+      "url": "https://store.steampowered.com/app/2827750/",
       "short_description": "",
       "final_price": 1999
     },
     {
-      "name": "A Border With No End",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5008790/666a88f0c8591b58a86e8a3344e0d6aa2944b3c2/header.jpg?t=1787619494",
-      "url": "https://store.steampowered.com/app/5008790/",
-      "short_description": "",
-      "final_price": 539
-    },
-    {
-      "name": "Chuck Bonesteel & The Alien Apocalypse",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3098780/b492e4b61bc883d4bd59706eba88735215692838/header.jpg?t=1787613966",
-      "url": "https://store.steampowered.com/app/3098780/",
-      "short_description": "",
-      "final_price": 499
-    },
-    {
-      "name": "Descendants of the Dragon",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499760/5f8cc3bf1e79af69971fd5755a5e253ea67dd90e/header.jpg?t=1787608593",
-      "url": "https://store.steampowered.com/app/4499760/",
-      "short_description": "",
-      "final_price": 59
-    },
-    {
-      "name": "No One Prays in Ovruch",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026670/5f77d3134d4878d2265ef095911bc685e12559e2/header.jpg?t=1787603941",
-      "url": "https://store.steampowered.com/app/5026670/",
-      "short_description": "",
-      "final_price": 395
-    },
-    {
-      "name": "Olinda Fighters",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3618600/dc3bd85f5a67688a6561115c6363f4794d9dcb0d/header.jpg?t=1787602804",
-      "url": "https://store.steampowered.com/app/3618600/",
-      "short_description": "",
-      "final_price": 799
-    },
-    {
-      "name": "Farmous",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4992330/68ccb409f72d23d0d0c6cf62e7643802b20d07d6/header.jpg?t=1787600284",
-      "url": "https://store.steampowered.com/app/4992330/",
-      "short_description": "",
-      "final_price": 479
-    },
-    {
-      "name": "Banana Republic",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440710/82ade00ba074032f9d6abc6fa354165689245e4e/header.jpg?t=1787598005",
-      "url": "https://store.steampowered.com/app/4440710/",
+      "name": "b 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293650/893c00a628f7b5b77cdc872ea404128e8332cb59/header.jpg?t=1787725958",
+      "url": "https://store.steampowered.com/app/1293650/",
       "short_description": "",
       "final_price": 0
+    },
+    {
+      "name": "Astral Archive",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4636840/6ed7bc9c934005612d471a81b7902e47d3939735/header.jpg?t=1787714635",
+      "url": "https://store.steampowered.com/app/4636840/",
+      "short_description": "",
+      "final_price": 269
+    },
+    {
+      "name": "Express 404",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4329710/a17f4410f6441eed1945ee35853d974a3c7e1178/header.jpg?t=1787713227",
+      "url": "https://store.steampowered.com/app/4329710/",
+      "short_description": "",
+      "final_price": 359
+    },
+    {
+      "name": "\u304a\u304b\u3086\u306b\u3085\uff5e\uff5e\u3080\uff01R ~Okayunyumu\uff01R~",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580450/4cf7bfd320aad9df8b60d3decb9c7f1badeba7bc/header.jpg?t=1787712907",
+      "url": "https://store.steampowered.com/app/4580450/",
+      "short_description": "",
+      "final_price": 2150
+    },
+    {
+      "name": "INvent",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5062450/35858864764164bafe7eb2570959ffc458c894ea/header.jpg?t=1787709508",
+      "url": "https://store.steampowered.com/app/5062450/",
+      "short_description": "",
+      "final_price": 509
+    },
+    {
+      "name": "Tales of Medieval Duelists",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4258240/85958085fa199f8f2a926707347f105240e052e9/header.jpg?t=1787707753",
+      "url": "https://store.steampowered.com/app/4258240/",
+      "short_description": "",
+      "final_price": 599
+    },
+    {
+      "name": "\u5c11\u5973\u7684\u5e7b\u60f3\u4e50\u56ed",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503490/eefce3921f699622d3a990161df32a172ffc679e/header.jpg?t=1787707221",
+      "url": "https://store.steampowered.com/app/4503490/",
+      "short_description": "",
+      "final_price": 209
+    },
+    {
+      "name": "a dead astronaut in space",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5026730/b257359790261247b76cae0b1467ede1b0a81cf7/header.jpg?t=1787703966",
+      "url": "https://store.steampowered.com/app/5026730/",
+      "short_description": "",
+      "final_price": 89
+    },
+    {
+      "name": "Sludgineers",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4073860/7650b13fcdd191929038fdbbfb2800ec0759bbca/header.jpg?t=1787703019",
+      "url": "https://store.steampowered.com/app/4073860/",
+      "short_description": "",
+      "final_price": 559
+    },
+    {
+      "name": "Crown of the Nile: Cleopatra's Choice",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4507910/3925edfd8d44b7981173497f0946566f0889ccc9/header.jpg?t=1787701837",
+      "url": "https://store.steampowered.com/app/4507910/",
+      "short_description": "",
+      "final_price": 849
+    },
+    {
+      "name": "A PhD Simulator - Publish & Perish",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4970570/4d001130e82c558300f5548d4d7002ad2381540f/header.jpg?t=1787696583",
+      "url": "https://store.steampowered.com/app/4970570/",
+      "short_description": "",
+      "final_price": 799
     }
   ]
 }
