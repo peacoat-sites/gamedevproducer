@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-29",
+  "updated": "2026-08-30",
   "items": [
     {
-      "name": "Der Anzeigenhauptmeister",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521730/header.jpg?t=1787999708",
-      "url": "https://store.steampowered.com/app/2521730/",
+      "name": "Just Open The Door",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4424690/76c7aa24472cc93555768e62e967f82ec48fd6aa/header.jpg?t=1788088479",
+      "url": "https://store.steampowered.com/app/4424690/",
       "short_description": "",
-      "final_price": 74
+      "final_price": 519
     },
     {
-      "name": ".panic",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5059320/ca3d2c8a3c62afbb15470dea9c0c9d43052b6b5a/header.jpg?t=1787995455",
-      "url": "https://store.steampowered.com/app/5059320/",
-      "short_description": "",
-      "final_price": 199
-    },
-    {
-      "name": "Fairysite",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3467750/e7e497f6d494ac0fd30c461d85f7ec3395a8d8da/header.jpg?t=1787993103",
-      "url": "https://store.steampowered.com/app/3467750/",
-      "short_description": "",
-      "final_price": 399
-    },
-    {
-      "name": "Lost Light",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075970/5fe652360d50b9499f6aa4c6cd92468b0a344076/header.jpg?t=1787992817",
-      "url": "https://store.steampowered.com/app/5075970/",
+      "name": "POSER",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763600/fe3708679e89b950a6cdc2df266401bfe2bf6700/header.jpg?t=1788078166",
+      "url": "https://store.steampowered.com/app/4763600/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "\u6446\u70c2\u5927\u5b66\u751f\u4f1a\u9047\u5230\u5e9f\u7269\u795e",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040230/15fcd0b39526df92992ddd146387c9f944adfadc/header.jpg?t=1787992467",
-      "url": "https://store.steampowered.com/app/5040230/",
+      "name": "Grey Cloaks of Aron: The Sleeping Village",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077560/49460f5080c571475805e7e2f35ac80b1b6e397c/header.jpg?t=1788073942",
+      "url": "https://store.steampowered.com/app/5077560/",
       "short_description": "",
-      "final_price": 119
+      "final_price": 92
     },
     {
-      "name": "Chair Tai Chi",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5090360/5d24ef3bdc1193e095eab567b3bef928c1bc2ffc/header.jpg?t=1787986982",
-      "url": "https://store.steampowered.com/app/5090360/",
+      "name": "Meme Farm",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906780/db99fc0124ae559754f93d0425bfc01c60fe8024/header.jpg?t=1788072533",
+      "url": "https://store.steampowered.com/app/4906780/",
+      "short_description": "",
+      "final_price": 299
+    },
+    {
+      "name": "CUBE_",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823530/101f73d1d613482b4742dae44a77f51a6a4cf190/header.jpg?t=1788073721",
+      "url": "https://store.steampowered.com/app/4823530/",
+      "short_description": "",
+      "final_price": 522
+    },
+    {
+      "name": "Hyetyn: The Last Charge",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939350/971361d893bf8a99f6223834afb8cfa886ab167d/header.jpg?t=1788070510",
+      "url": "https://store.steampowered.com/app/4939350/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "2048 3D: Rebuilt",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5041630/4231238cd590d47654cb9391c2c0808dd4e90c6b/header.jpg?t=1787986973",
-      "url": "https://store.steampowered.com/app/5041630/",
+      "name": "LuLuLaLa",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812880/643283bbc5dfadefe647b5d67512b9db8a38ecad/header.jpg?t=1788069684",
+      "url": "https://store.steampowered.com/app/4812880/",
       "short_description": "",
-      "final_price": 89
+      "final_price": 815
     },
     {
-      "name": "Silicon Path",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4489660/6255000c441bcf06f55e62840695171534fdb5d0/header.jpg?t=1787984489",
-      "url": "https://store.steampowered.com/app/4489660/",
+      "name": "Scrap Snap",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4846790/890b43f754f137724905d0ba12b2adedeb22bc93/header.jpg?t=1788066122",
+      "url": "https://store.steampowered.com/app/4846790/",
       "short_description": "",
-      "final_price": 679
+      "final_price": 415
     },
     {
-      "name": "Basis Labs",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3157090/4822aa828b8c39de8e19bc8cd1bbab151070ac9c/header.jpg?t=1787981845",
-      "url": "https://store.steampowered.com/app/3157090/",
+      "name": "Bots to Mars",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4984980/cd041f4b2435346a39f43a5cbb45da6ae6055433/header.jpg?t=1788056126",
+      "url": "https://store.steampowered.com/app/4984980/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 441
     },
     {
-      "name": "Push and Pull",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4575420/db47ff2046a305ec19e559cef61d8ad2761b70d0/header.jpg?t=1787980464",
-      "url": "https://store.steampowered.com/app/4575420/",
+      "name": "\uacac\uc6b0\uc758 \uc0ac\ub791",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5025320/eae9118a35fb7fde5217c46e09f52c4ddee304ed/header.jpg?t=1788049602",
+      "url": "https://store.steampowered.com/app/5025320/",
       "short_description": "",
-      "final_price": 319
+      "final_price": 109
     },
     {
-      "name": "Sidebar Starship",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005840/a920530b5c3658ceabfc352dbef6ff9693067cd8/header.jpg?t=1787979054",
-      "url": "https://store.steampowered.com/app/5005840/",
+      "name": "1 HP DUNGEON",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940570/d597f19f5556f2093d8d1039c397d6c5e8d93867/header.jpg?t=1788074897",
+      "url": "https://store.steampowered.com/app/4940570/",
       "short_description": "",
-      "final_price": 339
+      "final_price": 415
     },
     {
-      "name": "HARVEST ARCANA",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5039800/875e6b4e8964b3e46101b1e579d490c980f98097/header.jpg?t=1787978320",
-      "url": "https://store.steampowered.com/app/5039800/",
+      "name": "En busca de la libertad",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119760/7b014bc99d078d8283b697628f46b96d3d45e66a/header.jpg?t=1788043960",
+      "url": "https://store.steampowered.com/app/4119760/",
       "short_description": "",
-      "final_price": 629
+      "final_price": 1012
     }
   ]
 }
