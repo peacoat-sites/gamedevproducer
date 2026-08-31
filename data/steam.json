@@ -1,89 +1,89 @@
 {
-  "updated": "2026-08-30",
+  "updated": "2026-08-31",
   "items": [
     {
-      "name": "Just Open The Door",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4424690/76c7aa24472cc93555768e62e967f82ec48fd6aa/header.jpg?t=1788088479",
-      "url": "https://store.steampowered.com/app/4424690/",
-      "short_description": "",
-      "final_price": 519
-    },
-    {
-      "name": "POSER",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4763600/fe3708679e89b950a6cdc2df266401bfe2bf6700/header.jpg?t=1788078166",
-      "url": "https://store.steampowered.com/app/4763600/",
+      "name": "Chill Chime Desktop",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4804580/3443bdc2e6f7173f747ee8a252afbde5d1171590/header.jpg?t=1788183373",
+      "url": "https://store.steampowered.com/app/4804580/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Grey Cloaks of Aron: The Sleeping Village",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5077560/49460f5080c571475805e7e2f35ac80b1b6e397c/header.jpg?t=1788073942",
-      "url": "https://store.steampowered.com/app/5077560/",
+      "name": "Edge Of Evil",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3928510/59cdc55f04c4af66f17f9474f10dadeb5f813265/header.jpg?t=1788181378",
+      "url": "https://store.steampowered.com/app/3928510/",
       "short_description": "",
-      "final_price": 92
+      "final_price": 1104
     },
     {
-      "name": "Meme Farm",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4906780/db99fc0124ae559754f93d0425bfc01c60fe8024/header.jpg?t=1788072533",
-      "url": "https://store.steampowered.com/app/4906780/",
+      "name": "Math-Havoc",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4607690/61c428e573a2bd53ce25988bf4f2cc3772ad223c/header.jpg?t=1788181219",
+      "url": "https://store.steampowered.com/app/4607690/",
       "short_description": "",
-      "final_price": 299
+      "final_price": 169
     },
     {
-      "name": "CUBE_",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4823530/101f73d1d613482b4742dae44a77f51a6a4cf190/header.jpg?t=1788073721",
-      "url": "https://store.steampowered.com/app/4823530/",
+      "name": "Streets of Sorcery: The Lost Girls: A Magical Mystery Investigation",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4733340/16eeb7aecfc5ccae590d8eebd7dcf1e8c2a4ac08/header.jpg?t=1788182374",
+      "url": "https://store.steampowered.com/app/4733340/",
       "short_description": "",
-      "final_price": 522
+      "final_price": 799
     },
     {
-      "name": "Hyetyn: The Last Charge",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4939350/971361d893bf8a99f6223834afb8cfa886ab167d/header.jpg?t=1788070510",
-      "url": "https://store.steampowered.com/app/4939350/",
+      "name": "LA: Streets of Sorcery",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3913950/20942db4552167cfd02a89174a7c6c8ec7ed2564/header.jpg?t=1788181150",
+      "url": "https://store.steampowered.com/app/3913950/",
+      "short_description": "",
+      "final_price": 1499
+    },
+    {
+      "name": "Lumina:Last Bloom",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4737990/ba9b9619a162d580a614c152649348ae866a678c/header.jpg?t=1788181079",
+      "url": "https://store.steampowered.com/app/4737990/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "LuLuLaLa",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4812880/643283bbc5dfadefe647b5d67512b9db8a38ecad/header.jpg?t=1788069684",
-      "url": "https://store.steampowered.com/app/4812880/",
+      "name": "Cherry blossom",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4038390/54549a81573962bca929a874a7432ee4868abd48/header.jpg?t=1788180768",
+      "url": "https://store.steampowered.com/app/4038390/",
       "short_description": "",
-      "final_price": 815
+      "final_price": 59
     },
     {
-      "name": "Scrap Snap",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4846790/890b43f754f137724905d0ba12b2adedeb22bc93/header.jpg?t=1788066122",
-      "url": "https://store.steampowered.com/app/4846790/",
+      "name": "Fuck the Infected \ud83e\udddf",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4213530/fca659f44de7069c68b9d725b2fc908b7e397c27/header.jpg?t=1788173965",
+      "url": "https://store.steampowered.com/app/4213530/",
       "short_description": "",
-      "final_price": 415
+      "final_price": 449
     },
     {
-      "name": "Bots to Mars",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4984980/cd041f4b2435346a39f43a5cbb45da6ae6055433/header.jpg?t=1788056126",
-      "url": "https://store.steampowered.com/app/4984980/",
+      "name": "Spectral",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5048210/b9227109c4c21b9522ca465f017630978bb61fe4/header.jpg?t=1788172342",
+      "url": "https://store.steampowered.com/app/5048210/",
       "short_description": "",
-      "final_price": 441
+      "final_price": 849
     },
     {
-      "name": "\uacac\uc6b0\uc758 \uc0ac\ub791",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5025320/eae9118a35fb7fde5217c46e09f52c4ddee304ed/header.jpg?t=1788049602",
-      "url": "https://store.steampowered.com/app/5025320/",
+      "name": "Luminous Jigsaw Puzzles",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4498280/24326b863ab794f5b76dcc405cac656c009bb88e/header.jpg?t=1788172310",
+      "url": "https://store.steampowered.com/app/4498280/",
       "short_description": "",
-      "final_price": 109
+      "final_price": 0
     },
     {
-      "name": "1 HP DUNGEON",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940570/d597f19f5556f2093d8d1039c397d6c5e8d93867/header.jpg?t=1788074897",
-      "url": "https://store.steampowered.com/app/4940570/",
+      "name": "Overprint",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4978160/993c4840fb34b253794a6123d8b5e5d5c7394c64/header.jpg?t=1788171528",
+      "url": "https://store.steampowered.com/app/4978160/",
       "short_description": "",
-      "final_price": 415
+      "final_price": 399
     },
     {
-      "name": "En busca de la libertad",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4119760/7b014bc99d078d8283b697628f46b96d3d45e66a/header.jpg?t=1788043960",
-      "url": "https://store.steampowered.com/app/4119760/",
+      "name": "Broken Arrow: Russian Guard",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232510/ba8694c20bc9aafee710169773c32f5791eca8cc/header.jpg?t=1788183498",
+      "url": "https://store.steampowered.com/app/4232510/",
       "short_description": "",
-      "final_price": 1012
+      "final_price": 999
     }
   ]
 }
