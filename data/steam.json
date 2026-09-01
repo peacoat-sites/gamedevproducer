@@ -1,126 +1,89 @@
 {
- "as_of": "2026-08-31",
- "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
- "games": [
-  {
-   "rank": 1,
-   "name": "Counter-Strike: Global Offensive",
-   "developer": "Valve",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 1013936,
-   "price": "Free"
-  },
-  {
-   "rank": 2,
-   "name": "PUBG: BATTLEGROUNDS",
-   "developer": "PUBG Corporation",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 314682,
-   "price": "Free"
-  },
-  {
-   "rank": 3,
-   "name": "Rust",
-   "developer": "Facepunch Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 143870,
-   "price": "$39.99"
-  },
-  {
-   "rank": 4,
-   "name": "Apex Legends",
-   "developer": "Respawn",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 124262,
-   "price": "Free"
-  },
-  {
-   "rank": 5,
-   "name": "Wallpaper Engine",
-   "developer": "Wallpaper Engine Team",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 91184,
-   "price": "$4.99"
-  },
-  {
-   "rank": 6,
-   "name": "Grand Theft Auto V Legacy",
-   "developer": "Rockstar North",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67851,
-   "price": "Free"
-  },
-  {
-   "rank": 7,
-   "name": "Call of Duty: Modern Warfare II",
-   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67419,
-   "price": "$38.49"
-  },
-  {
-   "rank": 8,
-   "name": "NARAKA: BLADEPOINT",
-   "developer": "24 Entertainment",
-   "owners": "10,000,000 - 20,000,000",
-   "ccu": 66954,
-   "price": "Free"
-  },
-  {
-   "rank": 9,
-   "name": "Baldur's Gate 3",
-   "developer": "Larian Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 54771,
-   "price": "$44.99"
-  },
-  {
-   "rank": 10,
-   "name": "HELLDIVERS 2",
-   "developer": "Arrowhead Game Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 53399,
-   "price": "$39.99"
-  },
-  {
-   "rank": 11,
-   "name": "Tom Clancy's Rainbow Six Siege",
-   "developer": "Ubisoft Montreal",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 51847,
-   "price": "$19.99"
-  },
-  {
-   "rank": 12,
-   "name": "Stardew Valley",
-   "developer": "ConcernedApe",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50662,
-   "price": "$14.99"
-  },
-  {
-   "rank": 13,
-   "name": "War Thunder",
-   "developer": "Gaijin Entertainment",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50478,
-   "price": "Free"
-  },
-  {
-   "rank": 14,
-   "name": "Dead by Daylight",
-   "developer": "Behaviour Interactive Inc.",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 44886,
-   "price": "$19.99"
-  },
-  {
-   "rank": 15,
-   "name": "Team Fortress 2",
-   "developer": "Valve",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 43819,
-   "price": "Free"
-  }
- ]
+  "updated": "2026-09-01",
+  "items": [
+    {
+      "name": "Cognition Method",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1636620/89a802094180c232aa370ab6dbab786f0a151c58/header.jpg?t=1788260250",
+      "url": "https://store.steampowered.com/app/1636620/",
+      "short_description": "",
+      "final_price": 1599
+    },
+    {
+      "name": "Deck & Conn",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828500/62d87084c8df6d7c86acd19b8978c65fcd5d00fb/header.jpg?t=1788261469",
+      "url": "https://store.steampowered.com/app/3828500/",
+      "short_description": "",
+      "final_price": 1199
+    },
+    {
+      "name": "Bounty Trail",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126530/1c1e4ce67ea9db5b04c24360bcf698bb9fcffef2/header.jpg?t=1788261440",
+      "url": "https://store.steampowered.com/app/4126530/",
+      "short_description": "",
+      "final_price": 559
+    },
+    {
+      "name": "Simple Image Converter \u2014 HEIC, WEBP, AVIF, PNG, JPG, PDF",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5105220/d6491530292e0253d7e7240b1f4786438bc45b49/header.jpg?t=1788258692",
+      "url": "https://store.steampowered.com/app/5105220/",
+      "short_description": "",
+      "final_price": 399
+    },
+    {
+      "name": "Aerial_Knight's MrFreezy",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4756010/edee0d22445bfc4685f19fd2ce967710c198efb8/header.jpg?t=1788257306",
+      "url": "https://store.steampowered.com/app/4756010/",
+      "short_description": "",
+      "final_price": 424
+    },
+    {
+      "name": "Nonoko: Lofi Days",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4997240/bf94fd9546a0898d641c40fea808f1b3676b4ac3/header.jpg?t=1788256806",
+      "url": "https://store.steampowered.com/app/4997240/",
+      "short_description": "",
+      "final_price": 449
+    },
+    {
+      "name": "Being a DIK - Season 3",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1807120/header.jpg?t=1788256738",
+      "url": "https://store.steampowered.com/app/1807120/",
+      "short_description": "",
+      "final_price": 1799
+    },
+    {
+      "name": "We Are Gum",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4105470/019822e51f92cd1b9d31d3915e0ca7683e5dd9ad/header.jpg?t=1788256552",
+      "url": "https://store.steampowered.com/app/4105470/",
+      "short_description": "",
+      "final_price": 899
+    },
+    {
+      "name": "Wartheon",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3214320/177c0e20f3dbe2f4cb78afacb8ffabb611c03ebc/header.jpg?t=1788255591",
+      "url": "https://store.steampowered.com/app/3214320/",
+      "short_description": "",
+      "final_price": 319
+    },
+    {
+      "name": "Sollervir",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5036740/bfd9b099d48a9b0b930c7ce1b5d6ae18893d0645/header.jpg?t=1788254970",
+      "url": "https://store.steampowered.com/app/5036740/",
+      "short_description": "",
+      "final_price": 629
+    },
+    {
+      "name": "CompaDesk",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911990/ff75385154155209001f8ccab082abeef21e5c0e/header.jpg?t=1788254373",
+      "url": "https://store.steampowered.com/app/4911990/",
+      "short_description": "",
+      "final_price": 499
+    },
+    {
+      "name": "ASCEND.exe",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4875270/6261d0166e35a0ae490c6e25a84b41ac307de607/header.jpg?t=1788253964",
+      "url": "https://store.steampowered.com/app/4875270/",
+      "short_description": "",
+      "final_price": 299
+    }
+  ]
 }
