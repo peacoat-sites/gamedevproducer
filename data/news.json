@@ -1,101 +1,23 @@
 {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "count": 25,
   "items": [
     {
-      "source": "IGN",
-      "title": "Pok\u00e9mon Fans Think The Franchise's New TCG Movie Hides a Secret Mega Evolution",
-      "url": "https://www.ign.com/articles/pokmon-fans-think-the-franchises-new-tcg-movie-hides-a-secret-mega-evolution",
-      "date": "Wed, 2 Sep"
-    },
-    {
-      "source": "IGN",
-      "title": "LEGO PlayStation Images Leak, Revealing Some Incredible PS1 Easter Eggs",
-      "url": "https://www.ign.com/articles/lego-playstation-images-leak-revealing-some-incredible-ps1-easter-eggs",
-      "date": "Wed, 2 Sep"
-    },
-    {
-      "source": "IGN",
-      "title": "Eight-Player Splitscreen Added to Mario Kart 8 Deluxe",
-      "url": "https://www.ign.com/articles/eight-player-splitscreen-added-to-mario-kart-8-deluxe",
-      "date": "Wed, 2 Sep"
-    },
-    {
-      "source": "IGN",
-      "title": "LEGO Star Wars: The Mandalorian Review",
-      "url": "https://www.ign.com/articles/lego-star-wars-the-mandalorian-review-disney-plus",
-      "date": "Wed, 2 Sep"
-    },
-    {
-      "source": "IGN",
-      "title": "The Runner Review",
-      "url": "https://www.ign.com/articles/the-runner-review-gal-gadot",
-      "date": "Wed, 2 Sep"
+      "source": "Game Developer",
+      "title": "Nexus Mods is acquiring database and analytics site SteamDB",
+      "url": "https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb",
+      "date": "Wed, 02 Se"
     },
     {
       "source": "Kotaku",
-      "title": "Emotional Fans Say Goodbye to Tokyo\u2019s Life-Sized Gundam: \u2018Thank You For Your Service!\u2019",
-      "url": "https://kotaku.com/emotional-fans-say-goodbye-to-tokyos-life-sized-gundam-thank-you-for-your-service-2000730106",
+      "title": "The Witcher 3 Remastered Isn\u2019t Pulling Punches: \u2018When We Think About This Remaster, It\u2019s Almost Like A 2.0 Overhaul\u2019",
+      "url": "https://kotaku.com/the-witcher-3-remastered-isnt-pulling-punches-when-we-think-about-this-remaster-its-almost-like-a-2-0-overhaul-2000730636",
       "date": "Wed, 02 Se"
     },
     {
-      "source": "Polygon",
-      "title": "Star Wars Zero Company Handles Difficulty Like No Other Game Ever Has",
-      "url": "https://www.polygon.com/star-wars-zero-company-crisis-missions/",
-      "date": "Wed, 02 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "All 24 Pok\u00e9mon Movies Will Be Available in Pricey Amazon-Exclusive Set",
-      "url": "https://www.polygon.com/pokemon-amazon-movie-collection-viz-media/",
-      "date": "Wed, 02 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "10 Unforgettable 'Far Side' Comics About Dinosaurs",
-      "url": "https://www.polygon.com/best-far-side-comics-about-dinosaurs/",
-      "date": "Wed, 02 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "D&D Could Go Back to the Underdark Soon With a New Campaign",
-      "url": "https://www.polygon.com/dnd-underdark-new-campaign-dungeons-dragons/",
-      "date": "Wed, 02 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "28 Years Later, This Remains the Most Near-Perfect WWII Movie of All Time",
-      "url": "https://www.polygon.com/saving-private-ryan-near-perfect-wwii-28-years-later/",
-      "date": "Wed, 02 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Capcom quietly releases new trailers for Monster Hunter Wilds Ascendance, teasing changes to all 14 weapon types",
-      "url": "https://www.eurogamer.net/monster-hunter-wilds-ascendance-boost-weapons",
-      "date": "Wed, 02 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "The next StarCraft may not be made by Blizzard, according to a new report",
-      "url": "https://www.eurogamer.net/starcraft-sequel-nexon-deal-report",
-      "date": "Wed, 02 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "A behind-closed-doors demo of The Witcher 3: Songs of the Past has been a great reminder: CDPR's writing is some of gaming's very best",
-      "url": "https://www.eurogamer.net/witcher-3-songs-of-the-past-behind-closed-doors-preview",
-      "date": "Wed, 02 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "No Rest for the Wicked delayed to 2027, promises new beta and founders packs for early buyers to tide people over",
-      "url": "https://www.eurogamer.net/no-rest-for-the-wicked-delayed-march-2027",
-      "date": "Wed, 02 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "The Grand Theft Auto run button has changed after 25 years - GTA 6 no longer requires you to tap a face button to peg it",
-      "url": "https://www.eurogamer.net/gta-6-run-button-changes-tap-rockstar",
+      "source": "Kotaku",
+      "title": "A Witcher 3 Dev Reflects On Its Most Memorable Quest: \u2018The Bloody Baron Quest, I Made So Many Mistakes\u2019",
+      "url": "https://kotaku.com/a-witcher-3-dev-reflects-on-its-most-memorable-quest-the-bloody-baron-quest-i-made-so-many-mistakes-2000730612",
       "date": "Wed, 02 Se"
     },
     {
@@ -117,40 +39,118 @@
       "date": "Tue, 01 Se"
     },
     {
-      "source": "Game Developer",
-      "title": "Sega-owned Rovio is shutting down its Copenhagen studio",
-      "url": "https://www.gamedeveloper.com/business/sega-owned-rovio-is-shutting-down-its-copenhagen-studio",
-      "date": "Tue, 01 Se"
+      "source": "IGN",
+      "title": "Confirmed: No Generative AI in Warhammer 40,000: Space Marine 3",
+      "url": "https://www.ign.com/articles/confirmed-no-generative-ai-in-warhammer-40000-space-marine-3",
+      "date": "Thu, 3 Sep"
+    },
+    {
+      "source": "IGN",
+      "title": "Sony Says It Won't Pass Tariff Refunds Back to PlayStation Customers, and Dismisses Fan Arguments as 'Speculative and Illogical'",
+      "url": "https://www.ign.com/articles/sony-says-it-wont-pass-tariff-refunds-back-to-playstation-customers-and-dismisses-fan-arguments-as-speculative-and-illogical",
+      "date": "Thu, 3 Sep"
+    },
+    {
+      "source": "IGN",
+      "title": "Spider-Man Star Andrew Garfield Hasn't Yet Congratulated Tom Holland on Brand New Day's Success, Admits He Hasn't Seen It",
+      "url": "https://www.ign.com/articles/i-dont-want-to-be-disingenuous-spider-man-star-andrew-garfield-hasnt-yet-congratulated-tom-holland-on-brand-new-days-success-and-admits-he-hasnt-seen-it",
+      "date": "Thu, 3 Sep"
+    },
+    {
+      "source": "IGN",
+      "title": "Planet Coaster Maker Announces Disney Game Development, Opening Doors to a Disneyland Park Creator",
+      "url": "https://www.ign.com/articles/planet-coaster-maker-announces-disney-game-development-opening-doors-to-a-disneyland-park-creator",
+      "date": "Thu, 3 Sep"
+    },
+    {
+      "source": "IGN",
+      "title": "Save 26% Off Kirby Air Riders for the Nintendo Switch 2",
+      "url": "https://www.ign.com/articles/kirby-air-riders-switch-2-game-deal-september-2026",
+      "date": "Thu, 3 Sep"
     },
     {
       "source": "Game Developer",
-      "title": "Paradox Interactive's Afterworld wants to entice new players to grand strategy with tasty RPG hooks",
-      "url": "https://www.gamedeveloper.com/design/paradox-interactive-s-afterworld-wants-to-entice-new-players-to-grand-strategy-with-tasty-rpg-hooks",
-      "date": "Tue, 01 Se"
+      "title": "CD Projekt Red won't be abandoning physical releases",
+      "url": "https://www.gamedeveloper.com/business/cd-projekt-red-won-t-be-abandoning-physical-releases",
+      "date": "Thu, 03 Se"
     },
     {
       "source": "Kotaku",
-      "title": "Fully Playable Online Scream Game Discovered In The Massive Steam Leak",
-      "url": "https://kotaku.com/fully-playable-online-scream-game-discovered-in-the-massive-steam-leak-2000730358",
-      "date": "Tue, 01 Se"
+      "title": "Wizards Of The Coast Are \u2018Incredibly Sorry\u2019 For Dreadful Magic: The Gathering Launch: \u2018It Was A Disaster\u2019",
+      "url": "https://kotaku.com/magic-the-gathering-secret-lair-zeta-set-launch-wizards-of-the-coast-2000730825",
+      "date": "Thu, 03 Se"
     },
     {
       "source": "Kotaku",
-      "title": "Get Off My Screen Dork, I\u2019m Trying To Play Star Wars: Zero Company",
-      "url": "https://kotaku.com/get-off-my-screen-dork-im-trying-to-playstar-wars-zero-company-2000730324",
-      "date": "Tue, 01 Se"
+      "title": "After Withheld Funding, Hospitalization, Cult-Hit Japanese Thriller\u2019s Development Might Be Back On Track",
+      "url": "https://kotaku.com/after-withheld-funding-hospitalization-cult-hit-japanese-thrillers-development-might-be-back-on-track-2000730670",
+      "date": "Thu, 03 Se"
     },
     {
       "source": "Kotaku",
-      "title": "Video Game Kratos Christopher Judge Explains Why He Didn\u2019t Want To Star In The God Of War TV Show: \u2018I Just Have No Desire To Live That Way Again\u2019",
-      "url": "https://kotaku.com/video-game-kratos-christopher-judge-explains-why-he-didnt-want-to-star-in-the-god-of-war-tv-show-i-just-have-no-desire-to-live-that-way-again-2000730345",
-      "date": "Tue, 01 Se"
+      "title": "DEI-Free Lollipop Chainsaw Sequel Teases A Big Unveiling At Tokyo Game Show",
+      "url": "https://kotaku.com/dei-free-lollipop-chainsaw-sequel-teases-a-big-unveiling-at-tokyo-game-show-2000730673",
+      "date": "Thu, 03 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Call Of Duty: Modern Warfare 4 Runs On Switch 2 And That\u2019s The Nicest Thing I Can Say About It",
-      "url": "https://kotaku.com/call-of-duty-modern-warfare-4-runs-on-switch-2-and-thats-the-nicest-thing-i-can-say-about-it-2000730276",
-      "date": "Tue, 01 Se"
+      "source": "Polygon",
+      "title": "Clint Eastwood's Forgotten Western That Redefined His Career Is Officially Free to Watch on YouTube",
+      "url": "https://www.polygon.com/clint-eastwood-hang-em-high-streaming-free-youtube/",
+      "date": "Thu, 03 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Dragon Ball Super Shares Release Date and Spectacular Trailer Full of New Details",
+      "url": "https://www.polygon.com/dragon-ball-super-beerus-release-date-surge-trailer/",
+      "date": "Thu, 03 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "11 Best MAPPA Anime That Aren\u2019t 'Jujutsu Kaisen' or 'Chainsaw Man'",
+      "url": "https://www.polygon.com/best-anime-from-jujutsu-kaisen-chainsaw-man-studio-mappa/",
+      "date": "Thu, 03 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "31 Years Later, the Smartest 'Calvin and Hobbes' Character Still Doesn't Get the Recognition They Deserve",
+      "url": "https://www.polygon.com/calvin-hobbes-susie-best-quote/",
+      "date": "Thu, 03 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Guy Ritchie\u2019s Netflix Crime Thriller Just Got Even More Ambitious",
+      "url": "https://www.polygon.com/the-gentlemen-season-2-review-guy-ritchie/",
+      "date": "Thu, 03 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Assassin's Creed Black Flag Resynced is seemingly on its way to Switch 2",
+      "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-switch-2-listing",
+      "date": "Thu, 03 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "How does Epic Games CEO Tim Sweeney reckon we can fight the industry's \"Crash 2.0\"? By building more factories",
+      "url": "https://www.eurogamer.net/tim-sweeney-crash-2-more-factories",
+      "date": "Thu, 03 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "\"We can get any IP\" - Saber CCO on why reviving dormant franchises is the big, obvious secret to the publisher's success, and why Xbox could learn from it",
+      "url": "https://www.eurogamer.net/saber-interactive-we-can-get-any-ip-gamescom-interview-1",
+      "date": "Thu, 03 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Planet Coaster and Jurassic World developer Frontier  partners with Disney for a new video game",
+      "url": "https://www.eurogamer.net/frontier-disney-new-video-game-planet-coaster-jurassic-world",
+      "date": "Thu, 03 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Following Nintendo's example, Sony and Microsoft argue they have no obligation to pass tariff refunds onto customers",
+      "url": "https://www.eurogamer.net/sony-microsoft-no-refunds-us-tariff-lawsuits",
+      "date": "Thu, 03 Se"
     }
   ]
 }

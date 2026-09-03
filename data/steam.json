@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "items": [
     {
-      "name": "Fofumia",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459570/a524de7d6973216f2f95e4c6df0644d0a8a59435/header.jpg?t=1788345026",
-      "url": "https://store.steampowered.com/app/3459570/",
+      "name": "Tofush",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117310/0dea7e4c5925fa639dac1757f356599dfb7ef5f5/header.jpg?t=1788432870",
+      "url": "https://store.steampowered.com/app/5117310/",
       "short_description": "",
-      "final_price": 1279
+      "final_price": 415
     },
     {
-      "name": "Category 6",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2823820/157f7a0b9746a6c51ec27c15e58751f0b07a7b1a/header.jpg?t=1788344245",
-      "url": "https://store.steampowered.com/app/2823820/",
+      "name": "Soulforge",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5108130/ce68e63f827add9b277cc1ea310c95f94197ce93/header.jpg?t=1788433071",
+      "url": "https://store.steampowered.com/app/5108130/",
       "short_description": "",
-      "final_price": 1274
+      "final_price": 159
     },
     {
-      "name": "Screen Pals",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4913550/8fd55043305b03db1a5d734469833d540dff20b2/header.jpg?t=1788343250",
-      "url": "https://store.steampowered.com/app/4913550/",
+      "name": "Breeding Visa",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3785660/34ef7f3fa3450281b8d6783a072ba7e713b7ebad/header.jpg?t=1788426703",
+      "url": "https://store.steampowered.com/app/3785660/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 1079
     },
     {
-      "name": "THE GUTTER",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3946190/e15035aa75a191e740a48dfc5535c7a48d80e3dd/header.jpg?t=1788343874",
-      "url": "https://store.steampowered.com/app/3946190/",
+      "name": "Cloudgazer: A Game About Watching Clouds",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052300/f018868476356b29b16a57034d8853180baabf10/header.jpg?t=1788427739",
+      "url": "https://store.steampowered.com/app/5052300/",
       "short_description": "",
-      "final_price": 399
+      "final_price": 269
     },
     {
-      "name": "The woods",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044730/045a0e842b8e8323a4f6e9770e8159c3b10b703a/header.jpg?t=1788339347",
-      "url": "https://store.steampowered.com/app/5044730/",
+      "name": "LUX - MouseTrail",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5044290/fdb77487a21457a7dec1f3262f9a099dfd147e86/header.jpg?t=1788422472",
+      "url": "https://store.steampowered.com/app/5044290/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 415
     },
     {
-      "name": "SnowRunner - Mercedes-Benz Trucks Dual Pack 2",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3777660/f6fc8bced90d9294569333a0ac2fa7aa0947341f/header.jpg?t=1788338921",
-      "url": "https://store.steampowered.com/app/3777660/",
+      "name": "Marsupilami 2 - Salsa Palombia",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3650170/a19c8f25ba08f13fc2088f6106365189fb0158e8/header.jpg?t=1788428495",
+      "url": "https://store.steampowered.com/app/3650170/",
       "short_description": "",
-      "final_price": 599
+      "final_price": 2499
     },
     {
-      "name": "\u63a2\u8bbf\u795e\u660eSearching for the Divine ~Prologue of the Journey",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4963350/b0bc93fc2caa23fa21045af429ec587458505874/header.jpg?t=1788338906",
-      "url": "https://store.steampowered.com/app/4963350/",
+      "name": "Button Down",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5084060/02009206397711664666a67a778f496593d65c94/header.jpg?t=1788422106",
+      "url": "https://store.steampowered.com/app/5084060/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 577
     },
     {
-      "name": "Dimensional Craft",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4247000/0b5eeb015d4f3eb3a59d3de48c3d61cf0bb9897b/header.jpg?t=1788336315",
-      "url": "https://store.steampowered.com/app/4247000/",
+      "name": "Deep Core Protocol",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114890/722978f95bccc684feccaca13fd549c2ece03e9a/header.jpg?t=1788420947",
+      "url": "https://store.steampowered.com/app/5114890/",
       "short_description": "",
-      "final_price": 239
+      "final_price": 415
     },
     {
-      "name": "Claws of Soria: Escape the Succubus Night",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4054650/7092279fd90f10ec69cfd7c720735e2ce1073398/header.jpg?t=1788336027",
-      "url": "https://store.steampowered.com/app/4054650/",
+      "name": "Girlfriend GPT",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5123000/62cd775b86ed8b549c4c5c1c0cc58ef1140c4bbf/header.jpg?t=1788418833",
+      "url": "https://store.steampowered.com/app/5123000/",
       "short_description": "",
-      "final_price": 1169
+      "final_price": 467
     },
     {
-      "name": "\u4e00\u628a\u83dc\u5200\u6253\u5929\u4e0b",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501680/022c395e53f961b738a4154d7e54fb5467338c75/header.jpg?t=1788332776",
-      "url": "https://store.steampowered.com/app/4501680/",
+      "name": "Square Dungeon 2: Remastered",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4807960/52cd97f1d8f15c57d69b1c6331e7caf3b4a34ea9/header.jpg?t=1788419782",
+      "url": "https://store.steampowered.com/app/4807960/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 249
     },
     {
-      "name": "Barb",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045700/b9d7727546c9e4d5976121e6182f9d28d030d250/header.jpg?t=1788328892",
-      "url": "https://store.steampowered.com/app/5045700/",
+      "name": "Slipstream",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3602870/be2364199ccb693d7e5759a055584b1dbf315d78/header.jpg?t=1788416244",
+      "url": "https://store.steampowered.com/app/3602870/",
       "short_description": "",
-      "final_price": 204
+      "final_price": 703
     },
     {
-      "name": "Demon Kingdom",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860130/06f416b12c04816bd69c938f6902188fa850cd5b/header.jpg?t=1788326385",
-      "url": "https://store.steampowered.com/app/2860130/",
+      "name": "SplatStick",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074850/1ed0602a2b23843b17e04c25e651ed7f0c4f3442/header.jpg?t=1788411490",
+      "url": "https://store.steampowered.com/app/5074850/",
       "short_description": "",
-      "final_price": 299
+      "final_price": 146
     }
   ]
 }
