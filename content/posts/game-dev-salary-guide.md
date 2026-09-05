@@ -13,7 +13,7 @@ lastmod: 2026-07-08
 ---
 Game developer salaries range wildly. A junior QA tester at an indie studio in Poland might pull in $22,000 a year. A senior engine programmer at a Seattle AAA studio? $250,000 in total compensation. That gap exists because of four things: what you do, how experienced you are, who you work for, and where you live.
 
-This guide pulls from 2024 data across the GDC State of the Industry Survey, Levels.fyi community submissions, and salary disclosures from publicly traded studios.
+This guide pulls from 2024 data across the GDC State of the Industry Survey, Levels.fyi community submissions, and salary disclosures from publicly traded studios. For a producer-specific breakdown, see [what game producers actually earn by studio size and role](/posts/game-producer-salary-ranges-by-studio-size-and-role/).
 
 ## Use the Salary Explorer
 

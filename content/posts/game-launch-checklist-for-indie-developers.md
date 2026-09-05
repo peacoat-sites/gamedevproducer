@@ -25,7 +25,7 @@ author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
 lastmod: 2026-07-08
 ---
-Most indie games don't fail because they're bad games. They fail because they launched badly. I've watched genuinely good games sell fewer than 200 copies at launch because the developer treated "upload to Steam and post on Twitter" as a release strategy. The game sat there, invisible, while the developer refreshed their sales dashboard in quiet despair. What surprised me most when I started digging into post-mortems and talking to other developers was how consistent the pattern is: the game was fine, sometimes great, but the launch infrastructure was completely missing. A checklist won't save a bad game, but the absence of one has killed plenty of good ones.
+Most indie games don't fail because they're bad games. They fail because they launched badly. I've watched genuinely good games sell fewer than 200 copies at launch because the developer treated "upload to Steam and post on Twitter" as a release strategy. Knowing your target matters too: the [Steam wishlist calculator](/steam-wishlist-to-sales/) turns a wishlist count into a realistic launch-week sales estimate. The game sat there, invisible, while the developer refreshed their sales dashboard in quiet despair. What surprised me most when I started digging into post-mortems and talking to other developers was how consistent the pattern is: the game was fine, sometimes great, but the launch infrastructure was completely missing. A checklist won't save a bad game, but the absence of one has killed plenty of good ones.
 
 
 <div class="value-module">

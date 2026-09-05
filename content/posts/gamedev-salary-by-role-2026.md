@@ -26,7 +26,7 @@ faqs:
     a: "Every 18-24 months if you're growing or every time a major project ships. Don't negotiate annually; it wastes both your time and your negotiating window. Save the conversation for a real inflection point: promotion, new role scope, or an external offer to consider."
 ---
 
-I've spent five years watching offers come across my desk, and I can tell you that game dev compensation is finally catching up to adjacent tech fields. But it's wildly uneven. A senior gameplay programmer can pull in $180k+ while a senior environment artist tops out at $145k, even though both bring critical skill. The gap isn't about unfairness, it's about supply and desperation. Understanding where you sit in this landscape matters before you negotiate.
+I've spent five years watching offers come across my desk, and I can tell you that game dev compensation is finally catching up to adjacent tech fields. But it's wildly uneven. A senior gameplay programmer can pull in $180k+ while a senior environment artist tops out at $145k, even though both bring critical skill. The gap isn't about unfairness, it's about supply and desperation. Understanding where you sit in this landscape matters before you negotiate. For producers specifically, here is [what the role pays across studio tiers](/posts/game-producer-salary-ranges-by-studio-size-and-role/).
 
 {{< gamedev-salaries >}}
 

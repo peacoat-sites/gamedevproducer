@@ -30,7 +30,7 @@ You spent eight months building a demo. Finally got it live on Steam, shared the
 
 I've seen this exact situation more times than I can count, and almost every time the problem isn't the game. It's the page.
 
-A Steam page isn't a formality you fill out [before the real marketing begins](/posts/game-launch-checklist-for-indie-developers/). It *is* the marketing, at least for the first 90% of your audience who will never see your tweets or Discord. Valve's algorithm surfaces games to people who might like them, but it can only do that if your page clearly communicates what kind of game you made. And it can only convert those visitors into wishlists if every element earns trust fast. Most developers treat their Steam page like a README file. The ones who treat it like a landing page with an actual conversion goal are the ones who hit 10,000 wishlists before launch.
+A Steam page isn't a formality you fill out [before the real marketing begins](/posts/game-launch-checklist-for-indie-developers/). It *is* the marketing, at least for the first 90% of your audience who will never see your tweets or Discord. Valve's algorithm surfaces games to people who might like them, but it can only do that if your page clearly communicates what kind of game you made. And it can only convert those visitors into wishlists if every element earns trust fast. Most developers treat their Steam page like a README file. The ones who treat it like a landing page with an actual conversion goal are the ones who hit 10,000 wishlists before launch. Once you have a wishlist target in mind, the [Steam wishlist calculator](/steam-wishlist-to-sales/) shows what that number means in launch-week sales.
 
 ## The Capsule Image Is the Only Thing That Matters First
 

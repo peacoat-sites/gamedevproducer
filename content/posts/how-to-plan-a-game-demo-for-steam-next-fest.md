@@ -25,7 +25,7 @@ faqs:
     a: "Watch four numbers: demo downloads, demo completion rate (in Steamworks analytics), wishlist conversion rate (wishlists divided by downloads), and Day 1 drop-off point. The drop-off tells you exactly where players lost interest, which is the most actionable post-fest data you'll get."
 ---
 
-Most Steam Next Fest coverage tells you to "build hype" and "show your best content." That's like telling someone to "just score more points" to win a basketball game. Here's what actually matters: your demo is a product unto itself, and it will be reviewed, compared, and abandoned at the same rate as any released game. Plan it wrong and you'll spend six weeks building something that tanks your wishlist instead of growing it.
+Most Steam Next Fest coverage tells you to "build hype" and "show your best content." That's like telling someone to "just score more points" to win a basketball game. Here's what actually matters: your demo is a product unto itself, and it will be reviewed, compared, and abandoned at the same rate as any released game. Plan it wrong and you'll spend six weeks building something that tanks your wishlist instead of growing it. And before you invest six weeks, it helps to know what those wishlists are worth: the [Steam wishlist calculator](/steam-wishlist-to-sales/) estimates launch-week sales from your wishlist count.
 
 I've watched teams treat Next Fest as a deadline rather than a strategy, and the results are predictable. Forty hours of content crammed into a two-hour demo. Onboarding that assumes everyone read the store page. A build submitted 48 hours before the event that has a game-breaking bug on level two. The demo isn't a trailer. It's a handshake that either closes the deal or doesn't.
 

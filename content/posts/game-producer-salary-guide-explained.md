@@ -29,7 +29,7 @@ Let me be direct with you: most salary guides for game producers are useless. Th
 
 So let's actually talk about this.
 
-You might be wondering whether you're underpaid, or whether you should ask for more before accepting that new role, or maybe you're just trying to figure out if producing is even a financially viable career. All legitimate questions. Here's what I tell people when they ask me in person: the number on your offer letter is almost never the whole story, and understanding *why* producers get paid what they do is more useful than any static range.
+You might be wondering whether you're underpaid, or whether you should ask for more before accepting that new role, or maybe you're just trying to figure out if producing is even a financially viable career. All legitimate questions. Here's what I tell people when they ask me in person: the number on your offer letter is almost never the whole story, and understanding *why* producers get paid what they do is more useful than any static range. If you want the full picture, my [game producer salary ranges by studio size and role](/posts/game-producer-salary-ranges-by-studio-size-and-role/) lay out the numbers tier by tier.
 
 ---
 
