@@ -4,7 +4,10 @@ hide_title: true
 description: "Compare 12 game engines — Unity, Unreal, Godot, GameMaker and more — by language, 2D/3D focus, pricing, royalties, and difficulty. Sort and filter to find your engine."
 date: 2026-06-12
 slug: "game-engine-comparison"
-author: "Marcus Webb"
+author: "Stephen Brenish"
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 categories: ["Game Engines"]
 image: "https://images.pexels.com/photos/4523021/pexels-photo-4523021.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---

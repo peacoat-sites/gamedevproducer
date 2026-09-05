@@ -1,5 +1,5 @@
 ---
-title: "What Game Producers Actually Earn Across Studios"
+title: "Game Producer Salary: What Producers Actually Earn Across Studios"
 date: 2026-05-23T03:51:22.773903+00:00
 draft: false
 description: "Discover how game producer salaries vary by studio size and role. Compare pay ranges from indie to AAA studios and find out what impacts your earning potential."

@@ -1,15 +1,20 @@
 ---
-title: "Steam Wishlist to First-Week Sales Calculator: How Many Will You Actually Sell?"
+title: "Steam Wishlist Calculator: Estimate Your First-Week Sales from Wishlists"
 hide_title: true
 date: 2026-06-10
 slug: "steam-wishlist-to-sales"
 categories: ["Game Marketing"]
 description: "Estimate your Steam launch week sales from wishlist count using community-derived conversion rates and the Boxleiter Method benchmarks."
 image: "https://images.pexels.com/photos/2882655/pexels-photo-2882655.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-author: "Marcus Webb"
-author_slug: "marcus-webb"
-author_title: "Technical Lead"
+author: "Stephen Brenish"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
+author_slug: "stephen-brenish"
+author_title: "Lead Game Producer"
 ---
+# Steam Wishlist Calculator
+
+This free Steam wishlist calculator estimates your launch-week sales from your wishlist count, using community-derived conversion rates and the Boxleiter Method benchmarks.
+
 
 You have spent months building your Steam presence. Wishlists are climbing. Now the question every indie developer eventually asks: how many copies will I actually sell launch week?
 

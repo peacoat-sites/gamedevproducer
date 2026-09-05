@@ -3,8 +3,10 @@ title: "Game Production Glossary: 44 Terms Explained in Plain English"
 date: 2026-07-15
 slug: "glossary"
 description: "Every game production term you keep running into, defined in plain English. 44 definitions, alphabetical, written for beginners."
-author: "Samantha Roberts"
-author_slug: "samantha-roberts"
+author: "Stephen Brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
+author_slug: "stephen-brenish"
 lastmod: 2026-07-16
 ---
 

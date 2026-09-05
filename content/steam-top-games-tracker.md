@@ -4,8 +4,10 @@ date: 2026-07-14
 slug: "steam-top-games-tracker"
 description: "Weekly-updated table of the top Steam games by peak concurrent players, with estimated ownership and pricing, from SteamSpy data."
 categories: ["Industry Data"]
-author: "Samantha Roberts"
-author_slug: "samantha-roberts"
+author: "Stephen Brenish"
+author_title: "Lead Game Producer"
+author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
+author_slug: "stephen-brenish"
 lastmod: 2026-07-15
 ---
 
