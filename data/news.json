@@ -1,13 +1,7 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "count": 25,
   "items": [
-    {
-      "source": "Game Developer",
-      "title": "Nexus Mods is acquiring database and analytics site SteamDB",
-      "url": "https://www.gamedeveloper.com/business/nexus-mods-is-acquiring-database-and-analytics-site-steamdb",
-      "date": "Wed, 02 Se"
-    },
     {
       "source": "Game Developer",
       "title": "Xbox to cap Cloud Gaming hours for Game Pass subscribers",
@@ -33,123 +27,129 @@
       "date": "Thu, 03 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "A Mysterious Internet Setting Has Been Ruining All My Elden Ring Nightreign Games",
-      "url": "https://kotaku.com/mysterious-internet-setting-ruining-elden-ring-nightreign-2000731028",
-      "date": "Thu, 03 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "We Now Have An Official 22-Minute-Long Pok\u00e9rap With All 1025 Pok\u00e9mon And It\u2019s A Banger",
-      "url": "https://kotaku.com/pokemon-pokerap-every-song-all-generations-youtube-2000731047",
-      "date": "Thu, 03 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Naughty Dog Keeps Distancing Itself From The Last Of Us Season 3 But Says More Projects Are In The Works",
-      "url": "https://kotaku.com/last-of-us-season-3-hbo-neil-druckmann-craig-mazin-2000731056",
-      "date": "Thu, 03 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Elden Ring\u2019s Director Says He Doesn\u2019t Have A Foot Fetish, He\u2019s Just \u2018Trying To Depict Human Nature\u2019",
-      "url": "https://kotaku.com/elden-rings-director-feet-human-nature-2000731033",
-      "date": "Thu, 03 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Letting You Be A Complete Psychopath Reveals The Scale Of Fable\u2018s Ambition",
-      "url": "https://kotaku.com/letting-you-be-a-complete-psychopath-reveals-the-scale-of-fables-ambition-2000730974",
-      "date": "Thu, 03 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Final Fantasy 7 Revelation finally gets a 2027 release date, as Final Fantasy Resonance gets a surprise demo",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-release-date-resonance-demo",
-      "date": "Thu, 03 Se"
+      "source": "IGN",
+      "title": "Tomb Raider: Legacy of Atlantis Could Be Great, But There's Some Things We Can't Ignore...",
+      "url": "https://www.ign.com/articles/tomb-raider-legacy-of-atlantis-impressions",
+      "date": "Sat, 5 Sep"
     },
     {
       "source": "IGN",
-      "title": "PUBG: DED.NET Developer Argues Making a Game for the Mass Market Where 'Nobody's Too Offended and Everybody Kind of Likes It' Has Become 'Box Office Poison'",
-      "url": "https://www.ign.com/articles/pubg-dednet-developer-argues-making-a-game-for-the-mass-market-where-nobodys-too-offended-and-everybody-kind-of-likes-it-has-become-box-office-poison",
+      "title": "14 Predictions for the September 2026 Nintendo Direct and Zelda 40th Anniversary Direct",
+      "url": "https://www.ign.com/articles/14-predictions-for-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct",
+      "date": "Sat, 5 Sep"
+    },
+    {
+      "source": "IGN",
+      "title": "'No One Puts Double Fine Out of Business Except for Me' \u2014 Tim Schafer Explains How He Kept Double Fine Afloat After Leaving Xbox",
+      "url": "https://www.ign.com/articles/no-one-puts-double-fine-out-of-business-except-for-me-tim-schafer-explains-how-he-kept-double-fine-afloat-after-leaving-xbox",
+      "date": "Sat, 5 Sep"
+    },
+    {
+      "source": "Polygon",
+      "title": "40 Years Ago, Konami Changed the Video Game Industry Forever",
+      "url": "https://www.polygon.com/40-years-konami-changed-industry/",
+      "date": "Sat, 05 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Samara Weaving's Gritty Action Sleeper Hit Officially Finds a New Home on Streaming",
+      "url": "https://www.polygon.com/samara-weaving-ready-or-not-netflix-streaming/",
+      "date": "Sat, 05 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "5 Star Trek Ships That Changed the Legendary Sci-Fi Franchise Forever",
+      "url": "https://www.polygon.com/star-trek-ships-best-spaceships/",
+      "date": "Sat, 05 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Ridley Scott's 158-Minute War Action Epic Is Officially a Global Streaming Sensation",
+      "url": "https://www.polygon.com/ridley-scott-napoleon-apple-tv-top-movies/",
+      "date": "Sat, 05 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Zelda: Tears of the Kingdom Returns in October With a New Deluxe Release",
+      "url": "https://www.polygon.com/zelda-tears-of-the-kingdom-secrets-of-the-zonai-book-october-2026/",
+      "date": "Sat, 05 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "BioWare doesn't need advice for Mass Effect 4, says veteran designer, as long as \"people get out of the way\"",
+      "url": "https://www.eurogamer.net/bioware-mass-effect-4-doesnt-need-advice-veteran-designer",
+      "date": "Sat, 05 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Gen-AI controversy aside, Crazy Taxi: World Tour feels like classic arcade Sega - and it's an absolute blast",
+      "url": "https://www.eurogamer.net/crazy-taxi-world-tour-gamescom-preview",
+      "date": "Sat, 05 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "What we've been playing - \"Well this is embarrassing, we're wearing the same outfit!\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-well-this-is-embarrassing-were-wearing-the-same-outfit",
+      "date": "Sat, 05 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Wonder Woman Casting Rumors Heat Up as Fans Suspect James Gunn Secretly Picked Adria Arjona for the Role",
+      "url": "https://www.ign.com/articles/wonder-woman-casting-rumors-heat-up-as-fans-suspect-james-gunn-secretly-picked-adria-arjona-for-the-role",
       "date": "Fri, 4 Sep"
     },
     {
       "source": "IGN",
-      "title": "Marvel Secretly Developing New Live-Action Disney+ Project, Potentially Young Avengers or New Mutants",
-      "url": "https://www.ign.com/articles/marvel-secretly-developing-new-live-action-disney-project-potentially-young-avengers-or-new-mutants",
+      "title": "gamescom Apologizes for Its Initial Response to Thefts, Promises Improved Security Measures",
+      "url": "https://www.ign.com/articles/gamescom-apologizes-for-its-initial-response-to-thefts-promises-improved-security-measures",
       "date": "Fri, 4 Sep"
     },
     {
-      "source": "IGN",
-      "title": "Amid Concern in Japan, Dragon Ball Producer Toei Animation Denies Involvement in Saudi-France Paris Theme Park",
-      "url": "https://www.ign.com/articles/amid-concern-in-japan-dragon-ball-producer-toei-animation-denies-involvement-in-saudi-france-paris-theme-park",
-      "date": "Fri, 4 Sep"
-    },
-    {
-      "source": "IGN",
-      "title": "Original Gran Turismo Circuit Returns to Series After 13-Year Absence",
-      "url": "https://www.ign.com/articles/original-gran-turismo-circuit-returns-to-series-after-13-year-absence",
-      "date": "Fri, 4 Sep"
-    },
-    {
-      "source": "IGN",
-      "title": "Save $3,000 Off the Massive 83\" LG Evo M3 4K OLED TV With Wireless Connectivity and 5 Year Warranty",
-      "url": "https://www.ign.com/articles/lg-evo-m3-4k-oled-tv-deal-september-2026",
-      "date": "Fri, 4 Sep"
-    },
-    {
-      "source": "Polygon",
-      "title": "6 Upcoming Steam Games That Need To Be on Your Wishlist",
-      "url": "https://www.polygon.com/wishlister-gamescom-september-4/",
+      "source": "Game Developer",
+      "title": "Strategically making Star Wars Zero Company, ft. Greg Foertsch",
+      "url": "https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch",
       "date": "Fri, 04 Se"
     },
     {
-      "source": "Polygon",
-      "title": "Xbox Is Putting a Time Limit on Cloud Gaming",
-      "url": "https://www.polygon.com/xbox-game-pass-cloud-gaming-time-limit/",
+      "source": "Kotaku",
+      "title": "Double Fine Boss Says \u2018We Never Actively Tried To Make A Game We Thought Was Going To Lose Money\u2019",
+      "url": "https://kotaku.com/double-fine-boss-says-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money-2000731429",
       "date": "Fri, 04 Se"
     },
     {
-      "source": "Polygon",
-      "title": "Netflix Is About to Lose an Unforgettable Sci-Fi Movie With a Near-Perfect Rotten Tomatoes Score",
-      "url": "https://www.polygon.com/poor-things-emma-stone-leaving-netflix-september-2026/",
+      "source": "Kotaku",
+      "title": "Tim Schafer Calls Double Fine Leaving Xbox A \u2018Creative Awakening\u2019: \u2018Asha\u2019s Not Going To Shoot My Dog\u2019",
+      "url": "https://kotaku.com/tim-schafer-calls-double-fine-leaving-xbox-a-creative-awakening-ashas-not-going-to-shoot-my-dog-2000731428",
       "date": "Fri, 04 Se"
     },
     {
-      "source": "Polygon",
-      "title": "10 New Movies to Watch This Weekend on Netflix, HBO Max, and Hulu (September 4-6)",
-      "url": "https://www.polygon.com/new-movies-streaming-this-weekend-netflix-september-4-6/",
+      "source": "Kotaku",
+      "title": "Star Wars Zero Company: The Kotaku Review",
+      "url": "https://kotaku.com/star-wars-zero-company-review-is-it-good-performance-ps5-xcom-2000731426",
       "date": "Fri, 04 Se"
     },
     {
-      "source": "Polygon",
-      "title": "8 Near-Perfect Anime To Watch if You Like 'Solo Leveling'",
-      "url": "https://www.polygon.com/8-best-anime-like-solo-leveling-to-watch/",
+      "source": "Kotaku",
+      "title": "The 1001 Threads Of Mizan Director Avoids Answering A Simple Question At Gamescom",
+      "url": "https://kotaku.com/the-1001-threads-of-mizan-director-avoids-answering-a-simple-question-at-gamescom-2000731406",
+      "date": "Fri, 04 Se"
+    },
+    {
+      "source": "Kotaku",
+      "title": "You Can Get 5 Excellent 90+ Rated Steam Games For Under $25 Right Now",
+      "url": "https://kotaku.com/you-can-get-5-excellent-90-rated-steam-games-for-under-25-right-now-2000731362",
       "date": "Fri, 04 Se"
     },
     {
       "source": "Eurogamer",
-      "title": "Something strange is happening to the Starcraft website, as BlizzCon inches ever closer",
-      "url": "https://www.eurogamer.net/starcraft-website-glitches-blizzcon-2026",
+      "title": "After AI slop accusations, Humankind 2 studio says its new trailer was definitely \"made by humankind\" and at least five chickens",
+      "url": "https://www.eurogamer.net/after-ai-slop-accusations-humankind-2-studio-says-its-new-trailer-was-definitely-made-by-humankind-and-at-least-five-chickens",
       "date": "Fri, 04 Se"
     },
     {
       "source": "Eurogamer",
-      "title": "No Law was one of the most exciting games I saw at Gamescom: a cyberpunk immersive sim that solves one of Deus Ex's biggest problems",
-      "url": "https://www.eurogamer.net/no-law-hands-off-preview-gamescom-cyberpunk-deus-ex-biggest-problem",
-      "date": "Fri, 04 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Xbox places monthly time limits to its paid cloud gaming service, insists only a fraction of players will be impacted",
-      "url": "https://www.eurogamer.net/xbox-cloud-gaming-monthly-time-limits",
-      "date": "Fri, 04 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Final Fantasy 7 Revelation is getting a physical version, but it will require an internet connection to download",
-      "url": "https://www.eurogamer.net/final-fantasy-7-revelation-physical-version-catch",
+      "title": "It looks like No Man's Sky's next update is imminent as Sean Murray breaks out the emojis again - and fans reckon it's a big one",
+      "url": "https://www.eurogamer.net/no-mans-sky-cosmos-update-imminent-emoji-tease",
       "date": "Fri, 04 Se"
     }
   ]
