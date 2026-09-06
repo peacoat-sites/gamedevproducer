@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "items": [
     {
-      "name": "Exspelled",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064270/ed72eecd77a6349e8d63e053c00529dcc7d4a77e/header.jpg?t=1788600433",
-      "url": "https://store.steampowered.com/app/5064270/",
+      "name": "\u6c34\u6d52\u82f1\u96c4\u4f20\uff1a\u516b\u5e55\u6218\u5f79",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5088120/5833bfa4383177bc2fdb0c903f5b3a4b9d162224/header.jpg?t=1788676833",
+      "url": "https://store.steampowered.com/app/5088120/",
+      "short_description": "",
+      "final_price": 899
+    },
+    {
+      "name": "Sea of Electronica",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953010/a318ac878fdb5fe4a8f8021c1c45ed300730b53e/header.jpg?t=1788662976",
+      "url": "https://store.steampowered.com/app/4953010/",
+      "short_description": "",
+      "final_price": 399
+    },
+    {
+      "name": "Ultimate Dengon Game : A 3D Telephone Game",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991530/53c6961d29a4409ebc18760cc56fc23c4e509a68/header.jpg?t=1788662526",
+      "url": "https://store.steampowered.com/app/4991530/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "KANSYS: Storms Suppressed",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5133780/7a3f81921e5f61e069efa60ad9fe2631cc5ec20f/header.jpg?t=1788594906",
-      "url": "https://store.steampowered.com/app/5133780/",
+      "name": "Alkurai",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2084590/3def7726f5f9b95c4197ee5055e74b387f2b9d0f/header.jpg?t=1788660434",
+      "url": "https://store.steampowered.com/app/2084590/",
       "short_description": "",
-      "final_price": 467
+      "final_price": 419
     },
     {
-      "name": "Cribbage!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4984120/7ae80cf8f228e45fe25e860e489f0afc884026af/header.jpg?t=1788594775",
-      "url": "https://store.steampowered.com/app/4984120/",
+      "name": "Legacy of the Ark: Beneath the Broken Sky",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5028230/d8bb8f4b6d8bc555b40317eb7515f8d69a998686/header.jpg?t=1788658964",
+      "url": "https://store.steampowered.com/app/5028230/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Pitchside Empire",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099380/63b07c2e93174a6b9ddbea3189a1af05c0f3c500/header.jpg?t=1788592394",
-      "url": "https://store.steampowered.com/app/5099380/",
+      "name": "Restcue",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4889480/aad018c40aef6685cc144564d4ec41b6a07b88a5/header.jpg?t=1788660728",
+      "url": "https://store.steampowered.com/app/4889480/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 116
     },
     {
-      "name": "Pomoroid",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4940360/5e86cdbf0cf55820d4b0b4b31cd5b547465623ae/header.jpg?t=1788590508",
-      "url": "https://store.steampowered.com/app/4940360/",
+      "name": "My Dearest Direst Disaster",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549300/d7e5de48700f1332d6d17c3afafbfa30193bfc47/header.jpg?t=1788653167",
+      "url": "https://store.steampowered.com/app/4549300/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 1479
     },
     {
-      "name": "Crustacean Station!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4565420/f17459d9c0fb860780d765ed809e561428db38ad/header.jpg?t=1788580746",
-      "url": "https://store.steampowered.com/app/4565420/",
+      "name": "Final Rider",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3093580/4aedee6219fc15248fe28a48756cefca3effbe1e/header.jpg?t=1788648713",
+      "url": "https://store.steampowered.com/app/3093580/",
       "short_description": "",
-      "final_price": 315
+      "final_price": 349
     },
     {
-      "name": "SimulFactory:Robo fencing",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5013560/3a8aadae62d51af2262c5fa533a35ae138407617/header.jpg?t=1788579160",
-      "url": "https://store.steampowered.com/app/5013560/",
+      "name": "Normile",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4627340/225bb4a2503b3382a6ad2671c393a5f7ecfa0c78/header.jpg?t=1788646809",
+      "url": "https://store.steampowered.com/app/4627340/",
       "short_description": "",
-      "final_price": 209
+      "final_price": 236
     },
     {
-      "name": "\u6302\u673a\u5427\u4e09\u56fd",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5075090/e0eb39bb9996f0699cf7e7c710002d342546e614/header.jpg?t=1788577152",
-      "url": "https://store.steampowered.com/app/5075090/",
+      "name": "The Secret of Island of Fear",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4377690/d1617cea52a8a2a1ac07e238009b5f14848004ce/header.jpg?t=1788642579",
+      "url": "https://store.steampowered.com/app/4377690/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 1099
     },
     {
-      "name": "Record of Chaos - Korean Chapter",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020610/71b442f77b57aa87f77f98774ea0fa5b57d9a2f3/header.jpg?t=1788589613",
-      "url": "https://store.steampowered.com/app/5020610/",
+      "name": "101 Dogs Hidden in Antalya",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5091840/d56f9e25f8017cd7f375705422f73cb820567872/header.jpg?t=1788635923",
+      "url": "https://store.steampowered.com/app/5091840/",
       "short_description": "",
-      "final_price": 389
+      "final_price": 59
     },
     {
-      "name": "Snowdrop and the Four Sisters",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3435190/header.jpg?t=1788576405",
-      "url": "https://store.steampowered.com/app/3435190/",
+      "name": "Note Bounce \u2013 Sheet Music Game & Video Creator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5104050/71a2a2b4eb1a522cae914cc68cc07f0c2f591853/header.jpg?t=1788631128",
+      "url": "https://store.steampowered.com/app/5104050/",
       "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Magnet Hunt",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908300/b2cdc3dfdd7ff7b36d34f50086e2a65fb0634301/header.jpg?t=1788566493",
-      "url": "https://store.steampowered.com/app/4908300/",
-      "short_description": "",
-      "final_price": 125
-    },
-    {
-      "name": "Football Legacy Manager 27",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4896050/d65036f025feda3c26a659707c0b7bbcb0bfe100/header.jpg?t=1788563537",
-      "url": "https://store.steampowered.com/app/4896050/",
-      "short_description": "",
-      "final_price": 1025
+      "final_price": 1499
     }
   ]
 }
