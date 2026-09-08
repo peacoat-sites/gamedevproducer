@@ -1,126 +1,89 @@
 {
- "as_of": "2026-09-07",
- "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
- "games": [
-  {
-   "rank": 1,
-   "name": "Counter-Strike: Global Offensive",
-   "developer": "Valve",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 1013936,
-   "price": "Free"
-  },
-  {
-   "rank": 2,
-   "name": "PUBG: BATTLEGROUNDS",
-   "developer": "PUBG Corporation",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 314682,
-   "price": "Free"
-  },
-  {
-   "rank": 3,
-   "name": "Rust",
-   "developer": "Facepunch Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 143870,
-   "price": "$39.99"
-  },
-  {
-   "rank": 4,
-   "name": "Apex Legends",
-   "developer": "Respawn",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 124262,
-   "price": "Free"
-  },
-  {
-   "rank": 5,
-   "name": "Wallpaper Engine",
-   "developer": "Wallpaper Engine Team",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 91184,
-   "price": "$4.99"
-  },
-  {
-   "rank": 6,
-   "name": "Grand Theft Auto V Legacy",
-   "developer": "Rockstar North",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67851,
-   "price": "Free"
-  },
-  {
-   "rank": 7,
-   "name": "Call of Duty: Modern Warfare II",
-   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67419,
-   "price": "$38.49"
-  },
-  {
-   "rank": 8,
-   "name": "NARAKA: BLADEPOINT",
-   "developer": "24 Entertainment",
-   "owners": "10,000,000 - 20,000,000",
-   "ccu": 66954,
-   "price": "Free"
-  },
-  {
-   "rank": 9,
-   "name": "Baldur's Gate 3",
-   "developer": "Larian Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 54771,
-   "price": "$44.99"
-  },
-  {
-   "rank": 10,
-   "name": "HELLDIVERS 2",
-   "developer": "Arrowhead Game Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 53399,
-   "price": "$39.99"
-  },
-  {
-   "rank": 11,
-   "name": "Tom Clancy's Rainbow Six Siege",
-   "developer": "Ubisoft Montreal",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 51847,
-   "price": "$19.99"
-  },
-  {
-   "rank": 12,
-   "name": "Stardew Valley",
-   "developer": "ConcernedApe",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50662,
-   "price": "$14.99"
-  },
-  {
-   "rank": 13,
-   "name": "War Thunder",
-   "developer": "Gaijin Entertainment",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50478,
-   "price": "Free"
-  },
-  {
-   "rank": 14,
-   "name": "Dead by Daylight",
-   "developer": "Behaviour Interactive Inc.",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 44886,
-   "price": "$19.99"
-  },
-  {
-   "rank": 15,
-   "name": "Team Fortress 2",
-   "developer": "Valve",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 43819,
-   "price": "Free"
-  }
- ]
+  "updated": "2026-09-08",
+  "items": [
+    {
+      "name": "Spellsteel",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020290/dc51829e347f7aaaf6f8bfdc42fdc21757f08713/header.jpg?t=1788865444",
+      "url": "https://store.steampowered.com/app/5020290/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Acceptable Losses",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884200/7c789749a5af1adff23271e55a6c6cf5a0090386/header.jpg?t=1788862950",
+      "url": "https://store.steampowered.com/app/3884200/",
+      "short_description": "",
+      "final_price": 559
+    },
+    {
+      "name": "CrystalStack",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5112090/80a886f76b15c0d6ad95b0ab4589f358953cbc47/header.jpg?t=1788861158",
+      "url": "https://store.steampowered.com/app/5112090/",
+      "short_description": "",
+      "final_price": 199
+    },
+    {
+      "name": "Token x Token x Clicker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034150/93fad1b1aba19ae2354d932467436e351bb5fe13/header.jpg?t=1788859720",
+      "url": "https://store.steampowered.com/app/5034150/",
+      "short_description": "",
+      "final_price": 269
+    },
+    {
+      "name": "Surviving Mars: Relaunched - Feeding the Future",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889430/35f20c4f34d94701803f482026891c2881f545c6/header.jpg?t=1788860830",
+      "url": "https://store.steampowered.com/app/3889430/",
+      "short_description": "",
+      "final_price": 999
+    },
+    {
+      "name": "Desktop P2W Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094720/e302c9c13ee1063687b3ddd0fc75a66520bad67a/header.jpg?t=1788853987",
+      "url": "https://store.steampowered.com/app/5094720/",
+      "short_description": "",
+      "final_price": 254
+    },
+    {
+      "name": "Alchemy Factory",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669570/6972705aba17c765ed16a98d81312a6970a9d362/header_alt_assets_0.jpg?t=1788863012",
+      "url": "https://store.steampowered.com/app/3669570/",
+      "short_description": "",
+      "final_price": 1439
+    },
+    {
+      "name": "Flood With Friends",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005150/8241d492e516a3fde511387de6fea6a32255151e/header.jpg?t=1788847079",
+      "url": "https://store.steampowered.com/app/5005150/",
+      "short_description": "",
+      "final_price": 449
+    },
+    {
+      "name": "Run to Run",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994490/b623ef0cad6df60a092a3a8859a690e949ea685e/header.jpg?t=1788841071",
+      "url": "https://store.steampowered.com/app/4994490/",
+      "short_description": "",
+      "final_price": 539
+    },
+    {
+      "name": "Dragon Tiles",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115370/d35032c6d01ae9940a1a8755020598399f3bd4a3/header.jpg?t=1788840581",
+      "url": "https://store.steampowered.com/app/4115370/",
+      "short_description": "",
+      "final_price": 359
+    },
+    {
+      "name": "Novel Forger: Suicide Mr. Fury",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4496240/21ff75d759b2a0e036d73a4031d23db9058f73d3/header.jpg?t=1788859914",
+      "url": "https://store.steampowered.com/app/4496240/",
+      "short_description": "",
+      "final_price": 599
+    },
+    {
+      "name": "Toilet 101",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5051340/a5096e4ecd399811a92af29a85d9c26821c570c7/header.jpg?t=1788839631",
+      "url": "https://store.steampowered.com/app/5051340/",
+      "short_description": "",
+      "final_price": 359
+    }
+  ]
 }
