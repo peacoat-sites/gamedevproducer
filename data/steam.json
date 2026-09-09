@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "items": [
     {
-      "name": "Spellsteel",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020290/dc51829e347f7aaaf6f8bfdc42fdc21757f08713/header.jpg?t=1788865444",
-      "url": "https://store.steampowered.com/app/5020290/",
+      "name": "Slay the Horde",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380280/07adcfb30b35890a529452af6f446d24eb53a7bb/header.jpg?t=1788952909",
+      "url": "https://store.steampowered.com/app/4380280/",
+      "short_description": "",
+      "final_price": 839
+    },
+    {
+      "name": "Country Town Trains",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673750/9733bc3ffa9832b149e31199fee8483b6a57568b/header.jpg?t=1788949327",
+      "url": "https://store.steampowered.com/app/4673750/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Acceptable Losses",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884200/7c789749a5af1adff23271e55a6c6cf5a0090386/header.jpg?t=1788862950",
-      "url": "https://store.steampowered.com/app/3884200/",
-      "short_description": "",
-      "final_price": 559
-    },
-    {
-      "name": "CrystalStack",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5112090/80a886f76b15c0d6ad95b0ab4589f358953cbc47/header.jpg?t=1788861158",
-      "url": "https://store.steampowered.com/app/5112090/",
-      "short_description": "",
-      "final_price": 199
-    },
-    {
-      "name": "Token x Token x Clicker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034150/93fad1b1aba19ae2354d932467436e351bb5fe13/header.jpg?t=1788859720",
-      "url": "https://store.steampowered.com/app/5034150/",
-      "short_description": "",
-      "final_price": 269
-    },
-    {
-      "name": "Surviving Mars: Relaunched - Feeding the Future",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3889430/35f20c4f34d94701803f482026891c2881f545c6/header.jpg?t=1788860830",
-      "url": "https://store.steampowered.com/app/3889430/",
-      "short_description": "",
-      "final_price": 999
-    },
-    {
-      "name": "Desktop P2W Simulator",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094720/e302c9c13ee1063687b3ddd0fc75a66520bad67a/header.jpg?t=1788853987",
-      "url": "https://store.steampowered.com/app/5094720/",
-      "short_description": "",
-      "final_price": 254
-    },
-    {
-      "name": "Alchemy Factory",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669570/6972705aba17c765ed16a98d81312a6970a9d362/header_alt_assets_0.jpg?t=1788863012",
-      "url": "https://store.steampowered.com/app/3669570/",
-      "short_description": "",
-      "final_price": 1439
-    },
-    {
-      "name": "Flood With Friends",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5005150/8241d492e516a3fde511387de6fea6a32255151e/header.jpg?t=1788847079",
-      "url": "https://store.steampowered.com/app/5005150/",
-      "short_description": "",
-      "final_price": 449
-    },
-    {
-      "name": "Run to Run",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994490/b623ef0cad6df60a092a3a8859a690e949ea685e/header.jpg?t=1788841071",
-      "url": "https://store.steampowered.com/app/4994490/",
-      "short_description": "",
-      "final_price": 539
-    },
-    {
-      "name": "Dragon Tiles",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115370/d35032c6d01ae9940a1a8755020598399f3bd4a3/header.jpg?t=1788840581",
-      "url": "https://store.steampowered.com/app/4115370/",
-      "short_description": "",
-      "final_price": 359
-    },
-    {
-      "name": "Novel Forger: Suicide Mr. Fury",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4496240/21ff75d759b2a0e036d73a4031d23db9058f73d3/header.jpg?t=1788859914",
-      "url": "https://store.steampowered.com/app/4496240/",
+      "name": "\u30d5\u30a9\u30f3\u30c8\u306e\u3052\u3047\u3080 \uff5eWhich I Master\uff5e",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979100/60009298fee13db717308647b2fed2dd36fc2dc7/header.jpg?t=1788948038",
+      "url": "https://store.steampowered.com/app/4979100/",
       "short_description": "",
       "final_price": 599
     },
     {
-      "name": "Toilet 101",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5051340/a5096e4ecd399811a92af29a85d9c26821c570c7/header.jpg?t=1788839631",
-      "url": "https://store.steampowered.com/app/5051340/",
+      "name": "The Frontier Ballad: Tang Warden (\u8fb9\u5173\u957f\u6b4c\uff1a\u5927\u5510\u536b)",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5135310/a6e45205dcdb9f3697384229c38636189f0d55b4/header.jpg?t=1788945114",
+      "url": "https://store.steampowered.com/app/5135310/",
       "short_description": "",
-      "final_price": 359
+      "final_price": 0
+    },
+    {
+      "name": "CATAL CARTA",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116880/ea5cae275ab575678398a8539ffb09576dfd4fcd/header.jpg?t=1788944205",
+      "url": "https://store.steampowered.com/app/5116880/",
+      "short_description": "",
+      "final_price": 413
+    },
+    {
+      "name": "When We Arrive",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078360/8b1946ee11ee1c2a2ec96df64112e3c2a06fe423/header.jpg?t=1788943795",
+      "url": "https://store.steampowered.com/app/4078360/",
+      "short_description": "",
+      "final_price": 1199
+    },
+    {
+      "name": "BeaterCore",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711050/218327d5053e8920e01244b483c3fcf72cb59aa4/header.jpg?t=1788940842",
+      "url": "https://store.steampowered.com/app/3711050/",
+      "short_description": "",
+      "final_price": 1079
+    },
+    {
+      "name": "In Falsus",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971950/d60e71e91ee1e1b3edbdeed13e52e3423727be7a/header.jpg?t=1788940567",
+      "url": "https://store.steampowered.com/app/3971950/",
+      "short_description": "",
+      "final_price": 4499
+    },
+    {
+      "name": "Barbarian Saga: The Beastmaster",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459840/40108cab990d3fa9a61c503d056d74726b25d989/header.jpg?t=1788938141",
+      "url": "https://store.steampowered.com/app/2459840/",
+      "short_description": "",
+      "final_price": 1754
+    },
+    {
+      "name": "MyHiStory",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985690/da1f0a0b23ebab3209269c778c8fb286759ac6a9/header.jpg?t=1788937399",
+      "url": "https://store.steampowered.com/app/4985690/",
+      "short_description": "",
+      "final_price": 785
+    },
+    {
+      "name": "Hanzi Bird",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5143750/c4a9dbe3a14f2fc9b7708ae609f6ab8bc39b8669/header.jpg?t=1788937339",
+      "url": "https://store.steampowered.com/app/5143750/",
+      "short_description": "",
+      "final_price": 746
+    },
+    {
+      "name": "Plan\u00e8te Neuf",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292170/ab6b681a29107f31570d15d76aa82d298bbbc5bd/header_french.jpg?t=1788937315",
+      "url": "https://store.steampowered.com/app/4292170/",
+      "short_description": "",
+      "final_price": 746
     }
   ]
 }

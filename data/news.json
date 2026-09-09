@@ -1,36 +1,126 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "count": 25,
   "items": [
     {
       "source": "IGN",
-      "title": "The War for Westeros Developers Are Planning for a Flood of Game of Thrones Fans Who Have Never Played an RTS",
-      "url": "https://www.ign.com/articles/the-war-for-westeros-developers-are-planning-for-a-flood-of-game-of-thrones-fans-who-have-never-played-an-rts",
-      "date": "Tue, 8 Sep"
+      "title": "No Law Looks Like the Deus Ex Successor I\u2019ve Been Waiting For",
+      "url": "https://www.ign.com/articles/no-law-looks-like-the-deus-ex-successor-ive-been-waiting-for",
+      "date": "Wed, 9 Sep"
     },
     {
       "source": "IGN",
-      "title": "Andrew Garfield Says He Hopes Billionaires Are 'Scared S**tless' by His New Movie, The Uprising",
-      "url": "https://www.ign.com/articles/andrew-garfield-says-he-hopes-billionaires-are-scared-stless-by-his-new-movie-the-uprising",
-      "date": "Tue, 8 Sep"
+      "title": "Anthropic Safety Researcher Says There's a More Than 10% Chance AI 'Could Kill All Humans' Within the Next Decade",
+      "url": "https://www.ign.com/articles/anthropic-safety-researcher-says-theres-a-more-than-10-chance-ai-could-kill-all-humans-within-the-next-decade",
+      "date": "Wed, 9 Sep"
     },
     {
       "source": "IGN",
-      "title": "Nintendo Store Leak Reveals The Legend of Zelda: Ocarina of Time Switch 2 Remake Pricing",
-      "url": "https://www.ign.com/articles/nintendo-store-leak-reveals-the-legend-of-zelda-ocarina-of-time-switch-2-remake-pricing",
-      "date": "Tue, 8 Sep"
+      "title": "The Legend of Zelda 40th Anniversary Switch 2 Console and Accessories Sold Out in Minutes",
+      "url": "https://www.ign.com/articles/the-legend-of-zelda-40th-anniversary-switch-2-console-and-accessories-sold-out-in-minutes",
+      "date": "Wed, 9 Sep"
     },
     {
       "source": "IGN",
-      "title": "Pok\u00e9mon TCG Destined Rivals ETB in Stock at Amazon and Under Market Price",
-      "url": "https://www.ign.com/articles/pokemon-tcg-destined-rivals-etb-amazon-restock",
-      "date": "Tue, 8 Sep"
+      "title": "LEGO\u2019s Mario Kart Bowser\u2019s Castle Set Drops to Its Lowest Price Yet at Amazon Before It\u2019s Retired",
+      "url": "https://www.ign.com/articles/legos-mario-kart-bowsers-castle-set-drops-to-its-lowest-price-yet-at-amazon-before-its-retired",
+      "date": "Wed, 9 Sep"
     },
     {
       "source": "IGN",
-      "title": "Levelling Up with LG: How 5K is Changing the Gaming Monitor in 2026",
-      "url": "https://www.ign.com/articles/levelling-up-with-lg-how-5k-is-changing-the-gaming-monitor-in-2026",
-      "date": "Tue, 8 Sep"
+      "title": "Apparent Steam Leak Reveals Persona 6 and Kingdom Hearts 4 Achievements, Unannounced Games",
+      "url": "https://www.ign.com/articles/apparent-steam-leak-reveals-persona-6-and-kingdom-hearts-4-achievements-unannounced-games",
+      "date": "Wed, 9 Sep"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Massive Steam Leak May Have Revealed Every Kingdom Hearts IV World And Unannounced Games",
+      "url": "https://kotaku.com/kingdom-hearts-4-disney-worlds-coco-zootopia-star-wars-2000732471",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Major Persona 6 Spoilers May Have Just Leaked In A Crazy Way",
+      "url": "https://kotaku.com/persona-6-spoilers-leaks-steam-achievements-story-characters-2000732445",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "'VisionQuest' Showrunner Reveals How His Mysterious Sci-Fi Series Connects to the MCU",
+      "url": "https://www.polygon.com/visionquest-showrunner-interview-terry-matalas/",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Disney's Zootopia 2 Follow-up Wants to Resurrect 70-Year-Old Movie Magic",
+      "url": "https://www.polygon.com/disney-hexed-interview/",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Kingdom Hearts 4 Worlds Spoiled in Massive Steam Achievements Leak",
+      "url": "https://www.polygon.com/kingdom-hearts-4-worlds-spoiled-steam-achievements-leak/",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "'Battlestar Galactica' Meets 'Hunger Games' in 100-Episode Action Thriller That's Free on Streaming",
+      "url": "https://www.polygon.com/the-100-streaming-free-pluto-tv-best-binge/",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Marvel Phase 7 and 8 Movie Slate and Release Dates: 'Black Panther 3,' 'Shang-Chi 2' and Beyond",
+      "url": "https://www.polygon.com/marvels-phase-7-movie-slate-is-hiding-in-plain-sight/",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "FromSoftware patches Elden Ring to stop players sharing the Tarnished Edition Switch 2 extras for free",
+      "url": "https://www.eurogamer.net/elden-ring-patch-1-17-1-fix-tarnished-dlc-duplication-glitch",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Persona 6, Kingdom Hearts 4 spoilers may have emerged online amid massive achievements leak for unreleased games",
+      "url": "https://www.eurogamer.net/achievement-leak-persona-6-kingdom-hearts-games-list-steam",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Total War: Warhammer 40k is aiming to be the most complex and most accessible game Creative Assembly has ever made - here's how the devs managed both",
+      "url": "https://www.eurogamer.net/total-war-warhammer-40000-most-complex-accessible-heres-how",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "It turns out 58% of The Blood of Dawnwalker players have also played The Witcher 3, and roughly 40% of the entire playerbase is on Steam",
+      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-the-witcher-3-fans",
+      "date": "Wed, 09 Se"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Riot Games is considering making premium titles, says co-founder",
+      "url": "https://www.gamedeveloper.com/business/riot-games-marc-merrill-says-company-is-considering-making-premium-games",
+      "date": "Tue, 08 Se"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Report: EA is using genAI for commentator voiceover in NHL 27",
+      "url": "https://www.gamedeveloper.com/business/report-ea-s-nhl-27-is-using-genai-to-create-voiceover-claims-a-sports-commentator",
+      "date": "Tue, 08 Se"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Tim Schafer says Double Fine's unique games can be commercial hits if they can find their audience",
+      "url": "https://www.gamedeveloper.com/business/tim-schafer-we-never-actively-tried-to-make-a-game-we-thought-was-going-to-lose-money",
+      "date": "Tue, 08 Se"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Report: FuturLab lays off devs without informing team leads or managers",
+      "url": "https://www.gamedeveloper.com/business/report-futurlab-makes-layoffs-without-informing-team-leads-or-managers",
+      "date": "Tue, 08 Se"
     },
     {
       "source": "Game Developer",
@@ -40,117 +130,27 @@
     },
     {
       "source": "Kotaku",
-      "title": "Zelda: Ocarina Of Time Gets Early Australia Nintendo Store Listing Pointing To A Possible $60 Digital Price",
-      "url": "https://kotaku.com/zelda-ocarina-of-time-gets-early-australia-nintendo-store-listing-pointing-to-a-possible-60-digital-price-2000731917",
+      "title": "Nintendo, Please Stop Making Me Use My Phone To Play Zelda",
+      "url": "https://kotaku.com/nintendo-please-stop-making-me-use-my-phone-to-play-zelda-2000732210",
       "date": "Tue, 08 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "Baldur's Gate 3 Prequel Exclusive Clip Finds Neil Newbon Back as Astarion",
-      "url": "https://www.polygon.com/baldurs-gate-3-astarion-book-excerpt/",
-      "date": "Tue, 08 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "Tom Hiddleston's Return to Streaming Has Officially Been Confirmed",
-      "url": "https://www.polygon.com/tom-hiddlestons-return-to-streaming-tenzing/",
-      "date": "Tue, 08 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "How Grotesqqque Turns One Creator's Unfiltered Imagination Into an Anime Anthology",
-      "url": "https://www.polygon.com/why-the-director-of-grotesqqque-thinks-the-best-anime-are-a-little-unorganized/",
-      "date": "Tue, 08 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "10 Biggest Most Important Anime Releases of Fall 2026",
-      "url": "https://www.polygon.com/new-anime-shows-fall-2026-releases/",
-      "date": "Tue, 08 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Grand Theft Auto 6 worldwide unlock times revealed, and Xbox owners can seemingly still use the old New Zealand trick to play early",
-      "url": "https://www.eurogamer.net/gta-6-worldwide-release-unlock-times-ps5-xbox-series-x-s",
-      "date": "Tue, 08 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "\"Rockstar has tried to get away with Grand Theft Employment Rights\" - Final hearing in Rockstar vs. GTA 6 fired employees begins this week",
-      "url": "https://www.eurogamer.net/rockstar-north-employment-tribunal-gta-6",
-      "date": "Tue, 08 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "The EU's new Nintendo Switch 2 model teardown confirms smaller battery, slightly heavier console",
-      "url": "https://www.eurogamer.net/nintendo-switch-2-eu-compliant-revision-teardown",
-      "date": "Tue, 08 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Street Fighter 6 gets a new gameplay trailer for Arjun, a new Indian brawler with a love for Bollywood",
-      "url": "https://www.eurogamer.net/street-fighter-6-arjun-gameplay-trailer",
-      "date": "Tue, 08 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Forza Horizon 6 has not been delayed on PS5, developer confirms - but still won't say when it's coming out",
-      "url": "https://www.eurogamer.net/forza-horizon-6-ps5-on-track-2026",
-      "date": "Tue, 08 Se"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Xbox to cap Cloud Gaming hours for Game Pass subscribers",
-      "url": "https://www.gamedeveloper.com/cloud/xbox-to-cap-cloud-gaming-hours-for-game-pass-subscribers",
-      "date": "Thu, 03 Se"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Supercell's acquisition of Metacore expected to close this month",
-      "url": "https://www.gamedeveloper.com/business/supercell-s-acquisition-of-metacore-expected-to-close-this-month",
-      "date": "Thu, 03 Se"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Gamecity Hamburg launches second round of prototype funding",
-      "url": "https://www.gamedeveloper.com/business/gamecity-hamburg-launches-second-round-of-prototype-funding",
-      "date": "Thu, 03 Se"
     },
     {
       "source": "Kotaku",
-      "title": "Radical Dreamers Is A Short But Fun Reunion With Chrono Characters",
-      "url": "https://kotaku.com/radical-dreamers-is-a-short-but-fun-reunion-with-chrono-characters-2000731448",
-      "date": "Mon, 07 Se"
+      "title": "Skyrim Veteran Claims Howard Pushed Starfield Instead Of TES 6: \u2018It Was Very Much, \u2018Guess What, Team? We\u2019re Making This Space Game\u2019",
+      "url": "https://kotaku.com/skyrim-veteran-claims-howard-pushed-starfield-instead-of-tes-6-it-was-very-much-guess-what-team-were-making-this-space-game-2000732426",
+      "date": "Tue, 08 Se"
     },
     {
       "source": "Kotaku",
-      "title": "How Ys VIII\u2019s Unique Take On The Apocalypse Made It So Compelling",
-      "url": "https://kotaku.com/how-ys-viiis-unique-take-on-the-apocalypse-made-it-so-compelling-2000730391",
-      "date": "Mon, 07 Se"
+      "title": "Zelda: Ocarina Of Time Remake Changes One Of The Most Iconic Sounds In Gaming And It\u2019s Weird",
+      "url": "https://kotaku.com/ocarina-of-time-zelda-remake-navi-voice-2000732390",
+      "date": "Tue, 08 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "World End Syndrome Has A Fascinating Story If You Can Get Past Its Frustrating Game Mechanics",
-      "url": "https://kotaku.com/world-end-syndrome-has-a-fascinating-story-if-you-can-get-past-its-frustrating-game-mechanics-2000730975",
-      "date": "Mon, 07 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "The History of Ultima VII, One Of The Greatest RPGs Ever Made",
-      "url": "https://kotaku.com/the-history-of-ultima-vii-one-of-the-greatest-rpgs-ever-made-2000731070",
-      "date": "Mon, 07 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "Next Hunger Games Movie 'Sunrise' Confirms Switching Genres in 'Return to Form'",
-      "url": "https://www.polygon.com/hunger-games-sunrise-on-the-reaping-haymitch-new-interview/",
-      "date": "Mon, 07 Se"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Strategically making Star Wars Zero Company, ft. Greg Foertsch",
-      "url": "https://www.gamedeveloper.com/production/strategically-making-star-wars-zero-company-ft-greg-foertsch",
-      "date": "Fri, 04 Se"
+      "source": "Eurogamer",
+      "title": "\"Dawg it's Unreal Engine Zelda\" - Legend of Zelda: Ocarina of Time remake's new looks receives a mixed reception online following reveal",
+      "url": "https://www.eurogamer.net/legend-of-zelda-occarina-of-time-remake-reaction-visuals",
+      "date": "Tue, 08 Se"
     }
   ]
 }
