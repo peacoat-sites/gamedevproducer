@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "items": [
     {
-      "name": "Slay the Horde",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380280/07adcfb30b35890a529452af6f446d24eb53a7bb/header.jpg?t=1788952909",
-      "url": "https://store.steampowered.com/app/4380280/",
+      "name": "BrokenLore: DON\u2019T LIE",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3886200/fcbd7b23a478bae6929c28bbf569861b43e2cd14/header_alt_assets_1.jpg?t=1789039525",
+      "url": "https://store.steampowered.com/app/3886200/",
       "short_description": "",
-      "final_price": 839
+      "final_price": 1439
     },
     {
-      "name": "Country Town Trains",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4673750/9733bc3ffa9832b149e31199fee8483b6a57568b/header.jpg?t=1788949327",
-      "url": "https://store.steampowered.com/app/4673750/",
+      "name": "Frisky Phone: College Casual",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4900940/ad24af001a849b1b6a63e1c308e69b53b4270727/header.jpg?t=1789036231",
+      "url": "https://store.steampowered.com/app/4900940/",
+      "short_description": "",
+      "final_price": 1169
+    },
+    {
+      "name": "Dual Cultivation Trainer",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4503970/23aae8a0880f365d88eb228d194360095a66530f/header.jpg?t=1789035996",
+      "url": "https://store.steampowered.com/app/4503970/",
+      "short_description": "",
+      "final_price": 1169
+    },
+    {
+      "name": "Pay Back Girls",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4885070/86b00473915b901955960dd6f3b94b6cdc7dda4f/header.jpg?t=1789035577",
+      "url": "https://store.steampowered.com/app/4885070/",
+      "short_description": "",
+      "final_price": 799
+    },
+    {
+      "name": "THE FINALS - Silent Cypher Set",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5107950/82666bd925a6325499d87df0a21b0c8c66a6682b/header.jpg?t=1789034484",
+      "url": "https://store.steampowered.com/app/5107950/",
+      "short_description": "",
+      "final_price": 1999
+    },
+    {
+      "name": "A Night at Moka Efti: A Babylon Berlin Story",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3975470/f5da3040cd40fdaf961bf41de0bf010ccdeac835/header.jpg?t=1789034441",
+      "url": "https://store.steampowered.com/app/3975470/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "\u30d5\u30a9\u30f3\u30c8\u306e\u3052\u3047\u3080 \uff5eWhich I Master\uff5e",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979100/60009298fee13db717308647b2fed2dd36fc2dc7/header.jpg?t=1788948038",
-      "url": "https://store.steampowered.com/app/4979100/",
+      "name": "HimaNatsu: Of Churches, Sunflowers, and Long Summers",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838460/f13dff93a1af30970bbf2b806ffd963709e7718d/header.jpg?t=1789034403",
+      "url": "https://store.steampowered.com/app/4838460/",
       "short_description": "",
-      "final_price": 599
+      "final_price": 2799
     },
     {
-      "name": "The Frontier Ballad: Tang Warden (\u8fb9\u5173\u957f\u6b4c\uff1a\u5927\u5510\u536b)",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5135310/a6e45205dcdb9f3697384229c38636189f0d55b4/header.jpg?t=1788945114",
-      "url": "https://store.steampowered.com/app/5135310/",
+      "name": "Murdercartel",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5033550/3ff1acbb9df6a73bee4a31218fe4864276370a1c/header.jpg?t=1789033847",
+      "url": "https://store.steampowered.com/app/5033550/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "CATAL CARTA",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116880/ea5cae275ab575678398a8539ffb09576dfd4fcd/header.jpg?t=1788944205",
-      "url": "https://store.steampowered.com/app/5116880/",
+      "name": "Cheeze'd It!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4535760/55136dd13046f5a6272e043dbdad0b0a9a6420c4/header.jpg?t=1789032841",
+      "url": "https://store.steampowered.com/app/4535760/",
       "short_description": "",
-      "final_price": 413
+      "final_price": 0
     },
     {
-      "name": "When We Arrive",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4078360/8b1946ee11ee1c2a2ec96df64112e3c2a06fe423/header.jpg?t=1788943795",
-      "url": "https://store.steampowered.com/app/4078360/",
+      "name": "Hazard Pay",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692620/36163167ab14742e9395f0c75ca7db0d95746f7b/header.jpg?t=1789038362",
+      "url": "https://store.steampowered.com/app/2692620/",
       "short_description": "",
-      "final_price": 1199
+      "final_price": 1359
     },
     {
-      "name": "BeaterCore",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711050/218327d5053e8920e01244b483c3fcf72cb59aa4/header.jpg?t=1788940842",
-      "url": "https://store.steampowered.com/app/3711050/",
+      "name": "Living on Plain Pasta",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903800/212c01f73bd62f762915165f2793f5e9b2347b2d/header.jpg?t=1789030555",
+      "url": "https://store.steampowered.com/app/4903800/",
       "short_description": "",
-      "final_price": 1079
+      "final_price": 119
     },
     {
-      "name": "In Falsus",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3971950/d60e71e91ee1e1b3edbdeed13e52e3423727be7a/header.jpg?t=1788940567",
-      "url": "https://store.steampowered.com/app/3971950/",
+      "name": "PLATiNA :: LAB - FLAGSHIP Collection",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5058960/4eca23cb6939ed2ef10499864816523b6ea6686e/header.jpg?t=1789027055",
+      "url": "https://store.steampowered.com/app/5058960/",
       "short_description": "",
-      "final_price": 4499
-    },
-    {
-      "name": "Barbarian Saga: The Beastmaster",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2459840/40108cab990d3fa9a61c503d056d74726b25d989/header.jpg?t=1788938141",
-      "url": "https://store.steampowered.com/app/2459840/",
-      "short_description": "",
-      "final_price": 1754
-    },
-    {
-      "name": "MyHiStory",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985690/da1f0a0b23ebab3209269c778c8fb286759ac6a9/header.jpg?t=1788937399",
-      "url": "https://store.steampowered.com/app/4985690/",
-      "short_description": "",
-      "final_price": 785
-    },
-    {
-      "name": "Hanzi Bird",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5143750/c4a9dbe3a14f2fc9b7708ae609f6ab8bc39b8669/header.jpg?t=1788937339",
-      "url": "https://store.steampowered.com/app/5143750/",
-      "short_description": "",
-      "final_price": 746
-    },
-    {
-      "name": "Plan\u00e8te Neuf",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292170/ab6b681a29107f31570d15d76aa82d298bbbc5bd/header_french.jpg?t=1788937315",
-      "url": "https://store.steampowered.com/app/4292170/",
-      "short_description": "",
-      "final_price": 746
+      "final_price": 999
     }
   ]
 }
