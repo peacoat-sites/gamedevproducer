@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "items": [
     {
-      "name": "\u4f9d\u7075\u9910\u5385",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5125020/e29bac1e6ab382af9b7e748d908cba7f54ab2c1f/header.jpg?t=1789123080",
-      "url": "https://store.steampowered.com/app/5125020/",
-      "short_description": "",
-      "final_price": 1900000
-    },
-    {
-      "name": "\u5c0f\u5148\u751f Little ShiFu",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3170460/d830f5658a2f17374d0844fbd16c9c1e1ebf3767/header.jpg?t=1789121999",
-      "url": "https://store.steampowered.com/app/3170460/",
-      "short_description": "",
-      "final_price": 774000
-    },
-    {
-      "name": "Starweaver Express ~Per aspera ad astra~",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3664060/7dacedd3b79ab957a9725377b7780c387ef22afc/header.jpg?t=1789121896",
-      "url": "https://store.steampowered.com/app/3664060/",
-      "short_description": "",
-      "final_price": 945000
-    },
-    {
-      "name": "Tower Of Legends",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4998380/cdf33bcd1fd5385454b8b6cb5f29468be504e9c2/header.jpg?t=1789117905",
-      "url": "https://store.steampowered.com/app/4998380/",
-      "short_description": "",
-      "final_price": 354000
-    },
-    {
-      "name": "DIG Raiders: Anomaly Extraction",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4368640/776a7094af32cb8c47ef5952a34e557071eda52b/header.jpg?t=1789118320",
-      "url": "https://store.steampowered.com/app/4368640/",
-      "short_description": "",
-      "final_price": 735000
-    },
-    {
-      "name": "Stack Epoch",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3250900/ef98bef0da93b22ced618ee84e2a93590e1c7a1a/header.jpg?t=1789121166",
-      "url": "https://store.steampowered.com/app/3250900/",
-      "short_description": "",
-      "final_price": 402000
-    },
-    {
-      "name": "PegPigeon",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4737610/0814b3123d06ab739f001a0876590e0415b4dccc/header.jpg?t=1789114038",
-      "url": "https://store.steampowered.com/app/4737610/",
-      "short_description": "",
-      "final_price": 105000
-    },
-    {
-      "name": "King of Jade: Stone Tycoon",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4821420/44f2b27b40db79fbd9db20662c7320a0aab88280/header.jpg?t=1789113671",
-      "url": "https://store.steampowered.com/app/4821420/",
-      "short_description": "",
-      "final_price": 783000
-    },
-    {
-      "name": "Blurry Shopping",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4487760/c800969fcc13c813af518c91007486c0c38453b8/header.jpg?t=1789110492",
-      "url": "https://store.steampowered.com/app/4487760/",
-      "short_description": "",
-      "final_price": 382000
-    },
-    {
-      "name": "SIMPLE ACTION",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5157140/1efc6386263e2f2aee25becf97d0ea0deb19605b/header.jpg?t=1789110125",
-      "url": "https://store.steampowered.com/app/5157140/",
+      "name": "Friendly Fire",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905650/6ef5dfe6f571176318dbdaca657a8f0637cad5cc/header.jpg?t=1789209115",
+      "url": "https://store.steampowered.com/app/4905650/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Journey to Echo",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895560/cda805a26bfdf276ae2c8b9aa4e852bd37fd1d4f/header.jpg?t=1789110089",
-      "url": "https://store.steampowered.com/app/4895560/",
+      "name": "Vegeteamble",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099030/fd082ef925e4587506e08dbf2f85c5753dee1486/header.jpg?t=1789203043",
+      "url": "https://store.steampowered.com/app/5099030/",
       "short_description": "",
-      "final_price": 490000
+      "final_price": 299
     },
     {
-      "name": "She Sucked Me Once, and Dry",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116160/3c17534de42696a235a2b43a5ec2bd6672c0853e/header.jpg?t=1789110030",
-      "url": "https://store.steampowered.com/app/5116160/",
+      "name": "BULBIT",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064740/42e98bbe0dde58236d7b465acf1f1a3707c2d88e/header.jpg?t=1789197355",
+      "url": "https://store.steampowered.com/app/5064740/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 359
+    },
+    {
+      "name": "Mother;Above",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074900/e2991583d9401ad3f146c2a2f2d10bf4ed9c45b7/header.jpg?t=1789190931",
+      "url": "https://store.steampowered.com/app/5074900/",
+      "short_description": "",
+      "final_price": 239
+    },
+    {
+      "name": "\u6b66\u9053\u4f59\u6656 The Last Glimmer of the Martial Way",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842470/612ed356b50a524b1a6784b6185db8f62631b5c9/header.jpg?t=1789189430",
+      "url": "https://store.steampowered.com/app/4842470/",
+      "short_description": "",
+      "final_price": 899
+    },
+    {
+      "name": "scale2fit",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057950/54cf005b5696fdb3aa39cba6ccaa012c6057071a/header.jpg?t=1789188875",
+      "url": "https://store.steampowered.com/app/4057950/",
+      "short_description": "",
+      "final_price": 199
+    },
+    {
+      "name": "Chud Logic's: Gockbound",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802620/7f891ba8004cacac93486a7abea171cc496b1c91/header.jpg?t=1789189059",
+      "url": "https://store.steampowered.com/app/3802620/",
+      "short_description": "",
+      "final_price": 559
+    },
+    {
+      "name": "Play the Wor!d",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727440/b154f7200d8870e15da81c8d2df8785e020cbc07/header.jpg?t=1789183012",
+      "url": "https://store.steampowered.com/app/4727440/",
+      "short_description": "",
+      "final_price": 159
+    },
+    {
+      "name": "Pixel Cultivation Chronicles",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903680/9c4d8dc89c34c31fe965b3d242b29d3799ccb6ea/header.jpg?t=1789185814",
+      "url": "https://store.steampowered.com/app/4903680/",
+      "short_description": "",
+      "final_price": 629
+    },
+    {
+      "name": "Tentacle Locker 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071460/ee78bb59adc99344b517244e28b0884de28ee045/header.jpg?t=1789180136",
+      "url": "https://store.steampowered.com/app/4071460/",
+      "short_description": "",
+      "final_price": 559
+    },
+    {
+      "name": "THE LAST LOGIN",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773940/b09c610d5275949ed06895b1874bece4da342610/header.jpg?t=1789179674",
+      "url": "https://store.steampowered.com/app/4773940/",
+      "short_description": "",
+      "final_price": 1169
+    },
+    {
+      "name": "Minip",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097600/7882b883ab7a9177d7d5733f647438f5218b459b/header.jpg?t=1789174641",
+      "url": "https://store.steampowered.com/app/5097600/",
+      "short_description": "",
+      "final_price": 199
     }
   ]
 }

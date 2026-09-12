@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11",
+  "updated": "2026-09-12",
   "count": 25,
   "items": [
     {
@@ -21,52 +21,88 @@
       "date": "Thu, 10 Se"
     },
     {
+      "source": "Polygon",
+      "title": "The Legend of Zelda: Ocarina of Time is Actually A Horror Game",
+      "url": "https://www.polygon.com/zelda-ocarina-of-time-horror-game/",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Wallace & Gromit's Overlooked Spinoff Is Officially Switching Genres With Its Next Movie",
+      "url": "https://www.polygon.com/shaun-the-sheep-beast-of-mossy-bottom-preview-image/",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Paramount's Near-Perfect 3-Part Sci-Fi Series Officially Finds a New Streaming Home",
+      "url": "https://www.polygon.com/star-trek-reboot-trilogy-franchise-future/",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Netflix\u2019s 'Kpop Demon Hunters' Replacement Reimagines a Classic Disney Princess",
+      "url": "https://www.polygon.com/steps-netflix-interview/",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
+      "url": "https://www.polygon.com/best-nintendo-nes-games/",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Nightdive confirms Thief Remastered's leaked new campaign, The Tarnished Mirror, with a November reveal date",
+      "url": "https://www.eurogamer.net/thief-remastered-tarnished-mirror-campaign-confirmed-nightdive",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Moss studio Polyarc shuts down, becoming the latest casualty of a brutal year for VR",
+      "url": "https://www.eurogamer.net/polyarc-moss-studio-closure-vr-industry-2026",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Final Fantasy 7 Revelation director confirms his studio is also making Kingdom Hearts 4",
+      "url": "https://www.eurogamer.net/kingdom-hearts-4-final-fantasy-7-revelation-creative-studio-1",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "With Chronicles Medieval, a team of \"history nerds\" is mixing authentic historical world-building and stimulating strategy to promising effect",
+      "url": "https://www.eurogamer.net/chronicles-medieval-gamescom-history-nerds-hands-off-preview",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "What we've been playing - \"I don't think this is this game's biggest problem\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-i-dont-think-this-is-this-games-biggest-problem",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Planet Zoo 2 Puts You Right Down into the Wild With Your Animals | IGN Preview",
+      "url": "https://www.ign.com/articles/planet-zoo-2-puts-you-right-down-into-the-wild-with-your-animals-ign-preview",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests",
+      "url": "https://www.ign.com/articles/wolverine-developer-insomniac-says-logans-scent-trail-isnt-always-on-amid-fart-gas-toggle-requests",
+      "date": "Sat, 12 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Save $950 Off the 2.6-Pound Lenovo Yoga 7X Ultra-Slim Laptop With the New Snapdragon X2 Elite Processor",
+      "url": "https://www.ign.com/articles/lenovo-yoga-slim-7x-ultraportable-laptop-deal-september-2026",
+      "date": "Sat, 12 Se"
+    },
+    {
       "source": "Game Developer",
-      "title": "'Justice at last feels within reach:' Fired Rockstar workers rally in Glasgow as union busting tribunal begins",
-      "url": "https://www.gamedeveloper.com/production/-justice-at-last-feels-within-reach-fired-rockstar-workers-rally-in-glasgow-as-union-busting-tribunal-begins",
-      "date": "Thu, 10 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Someone Recreated The Weirdest-Looking Moment From The Big GTA 6 Trailer In Real Life",
-      "url": "https://kotaku.com/someone-recreated-the-weirdest-looking-moment-from-the-big-gta-6-trailer-in-real-life-2000733323",
-      "date": "Thu, 10 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "I Played A Game That Turns Tetris Into Doom, And It\u2019s For Babies",
-      "url": "https://kotaku.com/i-played-a-game-that-turns-tetris-into-doom-and-its-for-babies-2000733317",
-      "date": "Thu, 10 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Final Fantasy 7 Revelation Requires A Download Instead Of Shipping Complete On Multiple Discs To Avoid Compromising The \u2018Fidelity\u2019 And \u2018Quality\u2019",
-      "url": "https://kotaku.com/heres-why-final-fantasy-7-revelation-will-require-a-download-instead-of-shipping-complete-on-multiple-discs-like-the-previous-games-2000733319",
-      "date": "Thu, 10 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Metroid Dread studio MercurySteam appears to confirm it's making Metroid Ravenous, addressing a lingering question from yesterday's Nintendo Direct",
-      "url": "https://www.eurogamer.net/metroid-ravenous-mercury-steam-developer",
-      "date": "Thu, 10 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Nintendo of America thanks fans for dealing with tariff-related price hikes by encouraging them to spend more money in a new sale",
-      "url": "https://www.eurogamer.net/nintendo-american-tarrif-refund-sale",
-      "date": "Thu, 10 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Marvel's Wolverine review",
-      "url": "https://www.eurogamer.net/marvels-wolverine-review",
-      "date": "Thu, 10 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "\"What in the vibe-coded s*** is this\" - RuneScape players revolt as gen-AI copycat game appears and eventually attracts the eye of Jagex",
-      "url": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down",
-      "date": "Thu, 10 Se"
+      "title": "An honest opinion or defamation? A solicitor outlines the legal nuance",
+      "url": "https://www.gamedeveloper.com/business/an-honest-opinion-or-defamation-a-solicitor-outlines-the-legal-nuance",
+      "date": "Fri, 11 Se"
     },
     {
       "source": "Game Developer",
@@ -76,80 +112,44 @@
     },
     {
       "source": "Kotaku",
-      "title": "Miami Beach Debates Taking Millions From Rockstar To Advertise GTA 6: \u2018We\u2019re Not Giving Away Pistols And Cocaine To People\u2019",
-      "url": "https://kotaku.com/miami-beach-debates-taking-millions-from-rockstar-to-advertise-gta-6-were-not-giving-away-pistols-and-cocaine-to-people-2000733378",
+      "title": "The Most Viral Roblox Games Are About To Break Containment",
+      "url": "https://kotaku.com/the-most-viral-roblox-games-are-about-to-break-containment-2000733606",
       "date": "Fri, 11 Se"
     },
     {
       "source": "Kotaku",
-      "title": "Marvel\u2019s Wolverine Has Already Been Consumed By A Debate About \u2018Fart Gas\u2019 And It\u2019s Not Even Out Yet",
-      "url": "https://kotaku.com/marvels-wolverine-has-already-been-consumed-by-a-debate-about-fart-gas-and-its-not-even-out-yet-2000733361",
+      "title": "Steam\u2019s Latest Super Hit Is A Massive 100-Player Warzone Simulator Fueled By Cash That Has Me Hooked",
+      "url": "https://kotaku.com/steams-latest-super-hit-is-a-massive-100-player-warzone-simulator-fueled-by-cash-that-has-me-hooked-2000733568",
       "date": "Fri, 11 Se"
     },
     {
-      "source": "Polygon",
-      "title": "13 Horror Movies Coming Out This October",
-      "url": "https://www.polygon.com/13-horror-movies-coming-out-this-october/",
+      "source": "Kotaku",
+      "title": "Hero GTA V Modder Adds 235 Flock Cameras Specifically For Players To Destroy",
+      "url": "https://kotaku.com/hero-gta-v-modder-adds-235-flock-cameras-specifically-for-players-to-destroy-2000733594",
       "date": "Fri, 11 Se"
     },
     {
-      "source": "Polygon",
-      "title": "Star Trek's 3 Versions Of Captain James T. Kirk: The Definitive Ranking",
-      "url": "https://www.polygon.com/all-captain-kirks-ranked/",
+      "source": "Kotaku",
+      "title": "Twitch Plans To Shove More AI Down Creators\u2019 Throats With Stream Coach Tool",
+      "url": "https://kotaku.com/twitch-ai-stream-coach-tool-ai-content-training-opt-out-2000733578",
       "date": "Fri, 11 Se"
     },
     {
-      "source": "Polygon",
-      "title": "Gary Larson's 10 Best The Far Side Comics, Ranked",
-      "url": "https://www.polygon.com/10-best-far-side-gary-larson/",
-      "date": "Fri, 11 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "33 Years Later, the Best Sci-Fi Show of the '90s Is Officially Streaming for Free",
-      "url": "https://www.polygon.com/x-files-streaming-free-pluto-tv/",
-      "date": "Fri, 11 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "24 Years Later, the 220-Episode Action Classic That Defined a Generation Is Free to Stream on YouTube",
-      "url": "https://www.polygon.com/naruto-streaming-free-on-youtube/",
-      "date": "Fri, 11 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "\"I don't think it's worth any amount of money\" - Controversial real-life GTA 6 advertising campaign passed by City of Miami, but brand can only appear \"discreetly\"",
-      "url": "https://www.eurogamer.net/gta-6-miami-beach-marketing-campagin-negotiations-approved",
+      "source": "Kotaku",
+      "title": "Blood of The Dawnwalker\u2019s Biggest Threats Aren\u2019t All The Vampires",
+      "url": "https://kotaku.com/blood-of-the-dawnwalker-bears-difficulty-dragon-age-inquisition-hinterlands-2000733559",
       "date": "Fri, 11 Se"
     },
     {
       "source": "IGN",
-      "title": "Lady Dimitrescu Actor Maggie Robertson Would Say Yes in a Heartbeat if Capcom Called to Reprise Her Breakout Resident Evil Role",
-      "url": "https://www.ign.com/articles/lady-dimitrescu-actor-maggie-robertson-would-say-yes-in-a-heartbeat-if-capcom-called-to-reprise-her-breakout-resident-evil-role",
+      "title": "Brandon Sanderson's Mistborn Expansion for the Cosmere RPG Is Up for Preorder at Amazon",
+      "url": "https://www.ign.com/articles/mistborn-cosmere-rpg-expansion-where-to-buy",
       "date": "Fri, 11 Se"
     },
     {
       "source": "IGN",
-      "title": "Permanent New Drift Attack Feature Active Now in Forza Horizon 6",
-      "url": "https://www.ign.com/articles/permanent-new-drift-attack-feature-active-now-in-forza-horizon-6",
-      "date": "Fri, 11 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "The SteelSeries Arctis Nova Pro Wireless Gaming Headset With Infinite Battery Life Drops to $250",
-      "url": "https://www.ign.com/articles/steelseries-arctis-nova-pro-gaming-headset-deal-september-2026",
-      "date": "Fri, 11 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "The Retroid Pocket Duo Looks Perfect for DS and 3DS Emulation",
-      "url": "https://www.ign.com/articles/the-retroid-pocket-duo-looks-perfect-for-ds-and-3ds-emulation",
-      "date": "Fri, 11 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Hasbro Responds to DHS Using AI Optimus Prime in Deportation Posts",
-      "url": "https://www.ign.com/articles/hasbro-dhs-ai-optimus-prime-deportation-response",
+      "title": "GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks",
+      "url": "https://www.ign.com/articles/gta-6-reviews-plague-real-life-nudist-resort-after-fans-draw-comparisons-to-leaks",
       "date": "Fri, 11 Se"
     }
   ]
