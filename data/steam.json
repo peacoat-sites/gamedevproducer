@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "items": [
     {
-      "name": "Friendly Fire",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4905650/6ef5dfe6f571176318dbdaca657a8f0637cad5cc/header.jpg?t=1789209115",
-      "url": "https://store.steampowered.com/app/4905650/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Vegeteamble",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5099030/fd082ef925e4587506e08dbf2f85c5753dee1486/header.jpg?t=1789203043",
-      "url": "https://store.steampowered.com/app/5099030/",
+      "name": "The Rallying Ball",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4342670/5dcf3904c7a0059231337405828e84230988577b/header.jpg?t=1789297269",
+      "url": "https://store.steampowered.com/app/4342670/",
       "short_description": "",
       "final_price": 299
     },
     {
-      "name": "BULBIT",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064740/42e98bbe0dde58236d7b465acf1f1a3707c2d88e/header.jpg?t=1789197355",
-      "url": "https://store.steampowered.com/app/5064740/",
+      "name": "ORBA",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3520600/1f40121081780a0844803f9277ee708f107d3994/header.jpg?t=1789285931",
+      "url": "https://store.steampowered.com/app/3520600/",
       "short_description": "",
-      "final_price": 359
+      "final_price": 209
     },
     {
-      "name": "Mother;Above",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074900/e2991583d9401ad3f146c2a2f2d10bf4ed9c45b7/header.jpg?t=1789190931",
-      "url": "https://store.steampowered.com/app/5074900/",
+      "name": "DAKENSHI",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5156410/747e89a7402fd5a7a82b36d0d3848d0d508a3f7c/header.jpg?t=1789262331",
+      "url": "https://store.steampowered.com/app/5156410/",
       "short_description": "",
-      "final_price": 239
+      "final_price": 299
     },
     {
-      "name": "\u6b66\u9053\u4f59\u6656 The Last Glimmer of the Martial Way",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4842470/612ed356b50a524b1a6784b6185db8f62631b5c9/header.jpg?t=1789189430",
-      "url": "https://store.steampowered.com/app/4842470/",
+      "name": "Elegy For A Violet",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3991330/543d4f98dadeb2117cbac5c2c81c9a413576cdcc/header.jpg?t=1789259976",
+      "url": "https://store.steampowered.com/app/3991330/",
       "short_description": "",
-      "final_price": 899
+      "final_price": 0
     },
     {
-      "name": "scale2fit",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4057950/54cf005b5696fdb3aa39cba6ccaa012c6057071a/header.jpg?t=1789188875",
-      "url": "https://store.steampowered.com/app/4057950/",
+      "name": "Kilnborn",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5104330/09cbd2ae316c9daa5a4cc0d80f93c5f9f113cd85/header.jpg?t=1789256399",
+      "url": "https://store.steampowered.com/app/5104330/",
       "short_description": "",
-      "final_price": 199
+      "final_price": 0
     },
     {
-      "name": "Chud Logic's: Gockbound",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3802620/7f891ba8004cacac93486a7abea171cc496b1c91/header.jpg?t=1789189059",
-      "url": "https://store.steampowered.com/app/3802620/",
+      "name": "Strip Mall Simulator",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5050290/e2b37ec458e6393db9ef668cb8eb1a577ba3dc19/header.jpg?t=1789250929",
+      "url": "https://store.steampowered.com/app/5050290/",
       "short_description": "",
-      "final_price": 559
+      "final_price": 719
     },
     {
-      "name": "Play the Wor!d",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4727440/b154f7200d8870e15da81c8d2df8785e020cbc07/header.jpg?t=1789183012",
-      "url": "https://store.steampowered.com/app/4727440/",
+      "name": "Enhanced Affair",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950560/f5103faf2292d5bfba7076d796053537336f136a/header.jpg?t=1789236353",
+      "url": "https://store.steampowered.com/app/4950560/",
       "short_description": "",
-      "final_price": 159
+      "final_price": 419
     },
     {
-      "name": "Pixel Cultivation Chronicles",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4903680/9c4d8dc89c34c31fe965b3d242b29d3799ccb6ea/header.jpg?t=1789185814",
-      "url": "https://store.steampowered.com/app/4903680/",
+      "name": "Level P",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4724910/d2922570693bb950eef07a47842e79e27b53fbef/header.jpg?t=1789231956",
+      "url": "https://store.steampowered.com/app/4724910/",
       "short_description": "",
-      "final_price": 629
+      "final_price": 449
     },
     {
-      "name": "Tentacle Locker 2",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4071460/ee78bb59adc99344b517244e28b0884de28ee045/header.jpg?t=1789180136",
-      "url": "https://store.steampowered.com/app/4071460/",
+      "name": "You Will Get Rich!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5169430/810c9697d3bc546b13fe94ca4de0580a5b9261e5/header.jpg?t=1789231019",
+      "url": "https://store.steampowered.com/app/5169430/",
       "short_description": "",
-      "final_price": 559
+      "final_price": 99
     },
     {
-      "name": "THE LAST LOGIN",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4773940/b09c610d5275949ed06895b1874bece4da342610/header.jpg?t=1789179674",
-      "url": "https://store.steampowered.com/app/4773940/",
+      "name": "ESCAPEAWAY!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5143520/221a68a21230ed2e2aee010c1e42e85a6b0e845a/header.jpg?t=1789230915",
+      "url": "https://store.steampowered.com/app/5143520/",
       "short_description": "",
-      "final_price": 1169
+      "final_price": 0
     },
     {
-      "name": "Minip",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5097600/7882b883ab7a9177d7d5733f647438f5218b459b/header.jpg?t=1789174641",
-      "url": "https://store.steampowered.com/app/5097600/",
+      "name": "Pool Ball Battle Royale",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193040/header.jpg?t=1789229571",
+      "url": "https://store.steampowered.com/app/2193040/",
       "short_description": "",
-      "final_price": 199
+      "final_price": 599
+    },
+    {
+      "name": "Next Girl, Please \ud83c\udfac - Wallpapers 18+",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5174070/cc7cf77a6e3024f3aec775f03d7b611c438e6cf5/header.jpg?t=1789223270",
+      "url": "https://store.steampowered.com/app/5174070/",
+      "short_description": "",
+      "final_price": 224
     }
   ]
 }
