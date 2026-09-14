@@ -1,89 +1,126 @@
 {
-  "updated": "2026-09-14",
-  "items": [
-    {
-      "name": "Sudoku",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4985880/c29da83e00ffacac750b4d4d1747b9c8ffcee235/header.jpg?t=1789388815",
-      "url": "https://store.steampowered.com/app/4985880/",
-      "short_description": "",
-      "final_price": 415
-    },
-    {
-      "name": "Sigilfarer: A Dice-Rolling Roguelite",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436870/0066b7820e137b724e377c26c67cf5ebaab17381/header_alt_assets_1.jpg?t=1789390705",
-      "url": "https://store.steampowered.com/app/2436870/",
-      "short_description": "",
-      "final_price": 799
-    },
-    {
-      "name": "Pibcremental",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4573090/419ffc83c7fcf8273668d9860399d5469b0dc7c7/header.jpg?t=1789388725",
-      "url": "https://store.steampowered.com/app/4573090/",
-      "short_description": "",
-      "final_price": 461
-    },
-    {
-      "name": "Neat!",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300090/ff72b99c390662cac9d982544f0457493592af50/header.jpg?t=1789385629",
-      "url": "https://store.steampowered.com/app/4300090/",
-      "short_description": "",
-      "final_price": 717
-    },
-    {
-      "name": "Depth of Mind",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3711100/36dccb5b12416157489aa035b6a97ec0955a4e25/header.jpg?t=1789378103",
-      "url": "https://store.steampowered.com/app/3711100/",
-      "short_description": "",
-      "final_price": 492
-    },
-    {
-      "name": "Parry Survivor",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4540130/298987d70306f9d4cfc755f813cf595a1014fed7/header.jpg?t=1789376939",
-      "url": "https://store.steampowered.com/app/4540130/",
-      "short_description": "",
-      "final_price": 489
-    },
-    {
-      "name": "Tropical Lust",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4375110/345526563deb29e25a77f8458f2625b5ac9c2f60/header_alt_assets_0.jpg?t=1789378758",
-      "url": "https://store.steampowered.com/app/4375110/",
-      "short_description": "",
-      "final_price": 1394
-    },
-    {
-      "name": "Joker Master",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020530/32feaf1ae032dbe8b985b0aed1147bd5653bec68/header.jpg?t=1789376307",
-      "url": "https://store.steampowered.com/app/5020530/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Creator Chronicles",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3947460/a96bf25e5ef026cc66a2e760842927e12c3bd444/header_alt_assets_0.jpg?t=1789379723",
-      "url": "https://store.steampowered.com/app/3947460/",
-      "short_description": "",
-      "final_price": 857
-    },
-    {
-      "name": "Infinite Music Game",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5153850/051cf5316b1e26289e8a85437b2323bf57b18f69/header.jpg?t=1789372053",
-      "url": "https://store.steampowered.com/app/5153850/",
-      "short_description": "",
-      "final_price": 1484
-    },
-    {
-      "name": "Escape! House of Bonds",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4719560/5d4cec057e6843f0f5d057d835c6c1f13ca35ded/header.jpg?t=1789370922",
-      "url": "https://store.steampowered.com/app/4719560/",
-      "short_description": "",
-      "final_price": 373
-    },
-    {
-      "name": "Out of Range",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5114230/446a7ad2f27827ad89bccd07723677911dfee59e/header.jpg?t=1789370852",
-      "url": "https://store.steampowered.com/app/5114230/",
-      "short_description": "",
-      "final_price": 0
-    }
-  ]
+ "as_of": "2026-09-14",
+ "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
+ "games": [
+  {
+   "rank": 1,
+   "name": "Counter-Strike: Global Offensive",
+   "developer": "Valve",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 1013936,
+   "price": "Free"
+  },
+  {
+   "rank": 2,
+   "name": "PUBG: BATTLEGROUNDS",
+   "developer": "PUBG Corporation",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 314682,
+   "price": "Free"
+  },
+  {
+   "rank": 3,
+   "name": "Rust",
+   "developer": "Facepunch Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 143870,
+   "price": "$19.99"
+  },
+  {
+   "rank": 4,
+   "name": "Apex Legends",
+   "developer": "Respawn",
+   "owners": "100,000,000 - 200,000,000",
+   "ccu": 124262,
+   "price": "Free"
+  },
+  {
+   "rank": 5,
+   "name": "Wallpaper Engine",
+   "developer": "Wallpaper Engine Team",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 91184,
+   "price": "$4.99"
+  },
+  {
+   "rank": 6,
+   "name": "Grand Theft Auto V Legacy",
+   "developer": "Rockstar North",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 67851,
+   "price": "Free"
+  },
+  {
+   "rank": 7,
+   "name": "Call of Duty: Modern Warfare II",
+   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 67419,
+   "price": "$38.49"
+  },
+  {
+   "rank": 8,
+   "name": "NARAKA: BLADEPOINT",
+   "developer": "24 Entertainment",
+   "owners": "10,000,000 - 20,000,000",
+   "ccu": 66954,
+   "price": "Free"
+  },
+  {
+   "rank": 9,
+   "name": "Baldur's Gate 3",
+   "developer": "Larian Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 54771,
+   "price": "$44.99"
+  },
+  {
+   "rank": 10,
+   "name": "HELLDIVERS 2",
+   "developer": "Arrowhead Game Studios",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 53399,
+   "price": "$39.99"
+  },
+  {
+   "rank": 11,
+   "name": "Tom Clancy's Rainbow Six Siege",
+   "developer": "Ubisoft Montreal",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 51847,
+   "price": "$19.99"
+  },
+  {
+   "rank": 12,
+   "name": "Stardew Valley",
+   "developer": "ConcernedApe",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 50662,
+   "price": "$14.99"
+  },
+  {
+   "rank": 13,
+   "name": "War Thunder",
+   "developer": "Gaijin Entertainment",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 50478,
+   "price": "Free"
+  },
+  {
+   "rank": 14,
+   "name": "Dead by Daylight",
+   "developer": "Behaviour Interactive Inc.",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 44886,
+   "price": "$19.99"
+  },
+  {
+   "rank": 15,
+   "name": "Team Fortress 2",
+   "developer": "Valve",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 43819,
+   "price": "Free"
+  }
+ ]
 }
