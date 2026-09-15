@@ -1,126 +1,89 @@
 {
- "as_of": "2026-09-14",
- "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
- "games": [
-  {
-   "rank": 1,
-   "name": "Counter-Strike: Global Offensive",
-   "developer": "Valve",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 1013936,
-   "price": "Free"
-  },
-  {
-   "rank": 2,
-   "name": "PUBG: BATTLEGROUNDS",
-   "developer": "PUBG Corporation",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 314682,
-   "price": "Free"
-  },
-  {
-   "rank": 3,
-   "name": "Rust",
-   "developer": "Facepunch Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 143870,
-   "price": "$19.99"
-  },
-  {
-   "rank": 4,
-   "name": "Apex Legends",
-   "developer": "Respawn",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 124262,
-   "price": "Free"
-  },
-  {
-   "rank": 5,
-   "name": "Wallpaper Engine",
-   "developer": "Wallpaper Engine Team",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 91184,
-   "price": "$4.99"
-  },
-  {
-   "rank": 6,
-   "name": "Grand Theft Auto V Legacy",
-   "developer": "Rockstar North",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67851,
-   "price": "Free"
-  },
-  {
-   "rank": 7,
-   "name": "Call of Duty: Modern Warfare II",
-   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67419,
-   "price": "$38.49"
-  },
-  {
-   "rank": 8,
-   "name": "NARAKA: BLADEPOINT",
-   "developer": "24 Entertainment",
-   "owners": "10,000,000 - 20,000,000",
-   "ccu": 66954,
-   "price": "Free"
-  },
-  {
-   "rank": 9,
-   "name": "Baldur's Gate 3",
-   "developer": "Larian Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 54771,
-   "price": "$44.99"
-  },
-  {
-   "rank": 10,
-   "name": "HELLDIVERS 2",
-   "developer": "Arrowhead Game Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 53399,
-   "price": "$39.99"
-  },
-  {
-   "rank": 11,
-   "name": "Tom Clancy's Rainbow Six Siege",
-   "developer": "Ubisoft Montreal",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 51847,
-   "price": "$19.99"
-  },
-  {
-   "rank": 12,
-   "name": "Stardew Valley",
-   "developer": "ConcernedApe",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50662,
-   "price": "$14.99"
-  },
-  {
-   "rank": 13,
-   "name": "War Thunder",
-   "developer": "Gaijin Entertainment",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50478,
-   "price": "Free"
-  },
-  {
-   "rank": 14,
-   "name": "Dead by Daylight",
-   "developer": "Behaviour Interactive Inc.",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 44886,
-   "price": "$19.99"
-  },
-  {
-   "rank": 15,
-   "name": "Team Fortress 2",
-   "developer": "Valve",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 43819,
-   "price": "Free"
-  }
- ]
+  "updated": "2026-09-15",
+  "items": [
+    {
+      "name": "Batomon Showdown",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/6c25fc6647ef86f969b98b29a0d226fbddb4e614/header.jpg?t=1789470804",
+      "url": "https://store.steampowered.com/app/4557380/",
+      "short_description": "",
+      "final_price": 974
+    },
+    {
+      "name": "Solvizz",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210440/4bc158e9f04b734371ae0ec8751b78bf7ba56b7b/header.jpg?t=1789469582",
+      "url": "https://store.steampowered.com/app/4210440/",
+      "short_description": "",
+      "final_price": 419
+    },
+    {
+      "name": "Might & Poison Mushroom",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991340/51a2b80fdc83fe5f385364ccfac761f6be1abd25/header.jpg?t=1789472763",
+      "url": "https://store.steampowered.com/app/4991340/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Mixed Spirits: Bartender",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891400/0b5b178f5749ff8988f68afb43e590bc7a57cfce/header.jpg?t=1789467841",
+      "url": "https://store.steampowered.com/app/3891400/",
+      "short_description": "",
+      "final_price": 974
+    },
+    {
+      "name": "RuneScape: Dragonwilds - Deluxe Edition Upgrade",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908050/388802372e3832d98950b62287d77783715c5488/header.jpg?t=1789462932",
+      "url": "https://store.steampowered.com/app/4908050/",
+      "short_description": "",
+      "final_price": 999
+    },
+    {
+      "name": "RuneScape: Dragonwilds",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/0e1f8e3e13a1effc44bf507917970319a8157731/header_alt_assets_4.jpg?t=1789468296",
+      "url": "https://store.steampowered.com/app/1374490/",
+      "short_description": "",
+      "final_price": 2999
+    },
+    {
+      "name": "Active Matter - Upgrade to Advanced Edition",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107830/1eeb4a432fca63b2b871fb41392325eadf4542a4/header.jpg?t=1789464065",
+      "url": "https://store.steampowered.com/app/4107830/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Active Matter - Original Game Soundtrack, Vol.1",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5180360/ff73e399d8d49ed8959de88c31c1fb258aeeaf76/header.jpg?t=1789462764",
+      "url": "https://store.steampowered.com/app/5180360/",
+      "short_description": "",
+      "final_price": 899
+    },
+    {
+      "name": "Active Matter - Upgrade to Deluxe Edition",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107840/b2d7573cb0ee2e233f1c52b9b36ba436ae6321f3/header.jpg?t=1789464056",
+      "url": "https://store.steampowered.com/app/4107840/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Active Matter",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/191801a8de4db48075ef195473a922391cb4c6de/header.jpg?t=1789472580",
+      "url": "https://store.steampowered.com/app/2887580/",
+      "short_description": "",
+      "final_price": 2999
+    },
+    {
+      "name": "SCORE",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438310/dd53f51a84e10ff6ceefb0b4c6267c8341157f3e/header.jpg?t=1789458115",
+      "url": "https://store.steampowered.com/app/438310/",
+      "short_description": "",
+      "final_price": 849
+    },
+    {
+      "name": "Cube Boy",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757970/9639ee4ab96f3a0a8d54e02601eb78a6b7ad0406/header.jpg?t=1789457721",
+      "url": "https://store.steampowered.com/app/4757970/",
+      "short_description": "",
+      "final_price": 299
+    }
+  ]
 }

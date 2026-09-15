@@ -1,30 +1,114 @@
 {
-  "updated": "2026-09-14",
+  "updated": "2026-09-15",
   "count": 25,
   "items": [
     {
-      "source": "Game Developer",
-      "title": "Xbox to publish Kojima Productions' Physint after PlayStation ditches project",
-      "url": "https://www.gamedeveloper.com/business/xbox-to-publish-kojima-productions-physint-after-playstation-ditches-project",
-      "date": "Thu, 10 Se"
-    },
-    {
-      "source": "Game Developer",
-      "title": "'Ship a good game, learn from it, and build from there:' Lessons from going indie after a decade at id Software",
-      "url": "https://www.gamedeveloper.com/production/-ship-a-good-game-learn-from-it-and-build-from-there-lessons-from-going-indie-after-a-decade-at-id-software",
-      "date": "Thu, 10 Se"
+      "source": "Kotaku",
+      "title": "Marvel\u2019s Wolverine Post-Credits Scene, Explained",
+      "url": "https://kotaku.com/marvels-wolverine-post-credits-scene-sabretooth-apocalypse-2000734385",
+      "date": "Tue, 15 Se"
     },
     {
       "source": "Kotaku",
-      "title": "Warcraft 3 Reforged\u2019s Big Update Adds Two New Secret Levels That No One\u2019s Found Yet",
-      "url": "https://kotaku.com/warcraft-3-reforged-forsaken-kingdom-secret-levels-2000734013",
-      "date": "Sun, 13 Se"
+      "title": "8 New Things We Just Learned About World Of Warcraft: Forever From Its Lead Designers",
+      "url": "https://kotaku.com/new-things-learned-world-of-warcraft-forever-2000734005",
+      "date": "Tue, 15 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "The Legend of Zelda: Majora\u2019s Mask\u2019s Art Director Gets Blow Back For Using AI In Prototyping Test",
-      "url": "https://kotaku.com/the-legend-of-zelda-majoras-masks-art-director-gets-blow-back-for-using-ai-in-prototyping-test-2000734003",
-      "date": "Sun, 13 Se"
+      "source": "Polygon",
+      "title": "The Problem with Netflix's Iron Fist",
+      "url": "https://www.polygon.com/video/the-problem-with-netflix-s-iron-fist/",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Who is Legion? Who Are the Runaways?",
+      "url": "https://www.polygon.com/video/who-is-legion-who-are-the-runaways/",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Widow's Bay Just Quietly Made Emmy History",
+      "url": "https://www.polygon.com/widows-bay-emmys-2026/",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "South America's First Teaser Shows South Park Is Going Back to Its Roots Despite Name Change",
+      "url": "https://www.polygon.com/south-park-america-season-29-episode-1-teaser/",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "007 First Light Significantly Delayed on Nintendo Switch 2",
+      "url": "https://www.polygon.com/007-first-light-nintendo-switch-2-delayed/",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Ubisoft delays Rayman Legends remake Retold a couple of months \"to make sure every detail gets the care it deserves\"",
+      "url": "https://www.eurogamer.net/rayman-legends-remake-retold-release-date-delay",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Everything we've gleaned about Diablo 5 since its BlizzCon 2026 reveal - a game that appears to be much more than Diablo 4.5",
+      "url": "https://www.eurogamer.net/diablo-5-all-gameplay-details",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "007 First Light catches a big delay on Switch 2, pushing it into next year",
+      "url": "https://www.eurogamer.net/007-first-light-switch-2-delay",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Injustice 3 is seemingly the mysterious, unannounced fighting game that's been hosting playtests in California",
+      "url": "https://www.eurogamer.net/injustice-3-playtests-leak",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Trump Calls AI Safety Warnings a 'Hoax,' Refuses to Back Guardrails Anthropic and OpenAI Insist Are Needed to Help Prevent Human Extinction",
+      "url": "https://www.ign.com/articles/trump-calls-ai-safety-warnings-a-hoax-refuses-to-back-guardrails-anthropic-and-openai-insist-are-needed-to-help-prevent-human-extinction",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Is Eternal Darkness Getting a Remaster? Nightdive Studios Raises Hopes That the GameCube Classic Will Return",
+      "url": "https://www.ign.com/articles/is-eternal-darkness-getting-a-remaster-nightdive-studios-raises-hopes-that-the-gamecube-classic-will-return",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "US Confirms for the First Time It Has Deployed a Space Weapon in Earth's Orbit",
+      "url": "https://www.ign.com/articles/us-confirms-for-the-first-time-it-has-deployed-a-space-weapon-in-earths-orbit",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "James Bond Game 007 First Light Delayed Until 2027 on Nintendo Switch 2",
+      "url": "https://www.ign.com/articles/james-bond-game-007-first-light-delayed-until-2027-on-nintendo-switch-2",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Marvel's Wolverine Actor Liam McIntyre Isn't Fazed by Players' Brutal Comments About the Game",
+      "url": "https://www.ign.com/articles/marvels-wolverine-actor-liam-mcintyre-isnt-fazed-by-players-brutal-comments-about-the-game",
+      "date": "Tue, 15 Se"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Valve's Steam Frame pricing starts at $1,059",
+      "url": "https://www.gamedeveloper.com/extended-reality/valve-s-steam-frame-will-retail-for-1-059",
+      "date": "Mon, 14 Se"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Moss developer Polyarc has shut down",
+      "url": "https://www.gamedeveloper.com/business/moss-developer-polyarc-has-shut-down",
+      "date": "Mon, 14 Se"
     },
     {
       "source": "Game Developer",
@@ -34,110 +118,26 @@
     },
     {
       "source": "Kotaku",
-      "title": "Last Of Us Part II Multiplayer Mod Shut Down By Sony After Months Of Work",
-      "url": "https://kotaku.com/last-of-us-part-2-multiplayer-mod-sony-naughty-dog-canceled-2000734244",
+      "title": "I Need This Fire Emblem: Fortune\u2019s Weave Character To Be Romanceable, For Reasons",
+      "url": "https://kotaku.com/fire-emblem-fortunes-weave-jester-romance-charcter-design-2000734368",
       "date": "Mon, 14 Se"
     },
     {
       "source": "Kotaku",
-      "title": "Thank You To Whoever Made Logan Hairy In Marvel\u2019s Wolverine",
-      "url": "https://kotaku.com/marvels-wolverine-logan-hairy-arms-back-suit-damage-2000733260",
+      "title": "Valve Says Mystery Plans For Steam Deck 2 Remain Unchanged Despite RAM Crisis",
+      "url": "https://kotaku.com/valve-says-its-steam-deck-2-plans-havent-changed-despite-ongoing-ram-crisis-2000734366",
       "date": "Mon, 14 Se"
     },
     {
       "source": "Kotaku",
-      "title": "GTA 6\u2032s First Voice Actor Is Confirmed, And There\u2019s A Good Chance You Already Figured It Out",
-      "url": "https://kotaku.com/gta6-grand-theft-auto-vi-voice-actors-rockstar-netflix-footage-2000734229",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "Sega Confirms Persona 6 Physical Release for Switch 2",
-      "url": "https://www.polygon.com/persona-6-switch-2-physical-release/",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "Fortnite Confirms Kingdom Hearts Collab Release Date, and It's Bigger Than Expected",
-      "url": "https://www.polygon.com/fortnite-kingdom-hearts-collab-skins-release-date/",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "'Marvel\u2019s Wolverine' Voice Actor Reveals Who Inspired His Take on Logan",
-      "url": "https://www.polygon.com/marvels-wolverine-liam-mcintyre-performance-inspirations/",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "Clair Obscur Expedition 33 Director Comments on Sandfall's Next Game",
-      "url": "https://www.polygon.com/clair-obscur-expedition-33-developer-next-game/",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "After 'Reacher' Season 4 Ends, Here Are Alan Ritchson's 10 Best Performances to Watch Next",
-      "url": "https://www.polygon.com/alan-ritchson-best-movies-tv-shows-ranked/",
+      "title": "Sources: Brutal IGN Layoffs Hit Multiple Departments And Long-Time Hosts [Update]",
+      "url": "https://kotaku.com/sources-ign-layoffs-hit-multiple-departments-and-long-time-hosts-2000734361",
       "date": "Mon, 14 Se"
     },
     {
       "source": "Eurogamer",
-      "title": "In a big change for Blizzard, it sounds like the new StarCraft shooter won't be a live-service game",
-      "url": "https://www.eurogamer.net/starcraft-shooter-2030-details-not-live-service",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Diablo 4 was basically an MMO, will Diablo 5 follow suit? Blizzard is being coy for now",
-      "url": "https://www.eurogamer.net/diablo-5-multiplayer-co-op-diablo-4-comparisons",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Blizzard explains why it's revealing StarCraft and Diablo 5 release dates so far away: \"We want to convey confidence in some of our biggest bets\"",
-      "url": "https://www.eurogamer.net/why-blizzard-dating-games-far-away-starcraft-diablo-5",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "A multiplayer mod for The Last of Us 2 was reportedly cancelled \"at Sony's request\"",
-      "url": "https://www.eurogamer.net/the-last-of-us-2-mod-cancelled-playstation",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Blizzard confirms no more Diablo 4 expansions from now until Diablo 5's release",
-      "url": "https://www.eurogamer.net/diablo-4-expansions-over",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Remembering Nintendo GameCube, 25 Years On From Launch",
-      "url": "https://www.ign.com/articles/remembering-nintendo-gamecube-25-years-on-from-launch",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Nintendo Customer Appreciation Sale is Live With Several First Party Games 30% Off",
-      "url": "https://www.ign.com/articles/nintendo-customer-appreciation-sale-best-deals",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Hope: Exclusive New Images Depicting the Sci-Fi Film's Alien Intruders",
-      "url": "https://www.ign.com/articles/hope-movie-alien-invaders-images",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "First Major Cast Member Confirms Appearance in GTA 6, Seemingly Going Off Rockstar's Script",
-      "url": "https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script",
-      "date": "Mon, 14 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Make-A-Wish UK Brings Golf With Your Friends to Life For a Chaotic Charity Stream: How to Watch and What to Expect",
-      "url": "https://www.ign.com/articles/make-a-wish-uk-brings-golf-with-your-friends-to-life-for-a-chaotic-charity-stream-how-to-watch-and-what-to-expect",
+      "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
+      "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
       "date": "Mon, 14 Se"
     },
     {
