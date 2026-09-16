@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-15",
+  "updated": "2026-09-16",
   "items": [
     {
-      "name": "Batomon Showdown",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/6c25fc6647ef86f969b98b29a0d226fbddb4e614/header.jpg?t=1789470804",
-      "url": "https://store.steampowered.com/app/4557380/",
+      "name": "Incredible Dracula: Bloodwood Secrets",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201280/1106a30306fc9235eeaacde7c2560a5d64931a7a/header.jpg?t=1789555876",
+      "url": "https://store.steampowered.com/app/5201280/",
       "short_description": "",
-      "final_price": 974
+      "final_price": 594
     },
     {
-      "name": "Solvizz",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210440/4bc158e9f04b734371ae0ec8751b78bf7ba56b7b/header.jpg?t=1789469582",
-      "url": "https://store.steampowered.com/app/4210440/",
+      "name": "Arcade Hall 1980",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5135100/d1cdeca9e6e97dc3f032f130166c309081bc2108/header.jpg?t=1789554533",
+      "url": "https://store.steampowered.com/app/5135100/",
       "short_description": "",
-      "final_price": 419
+      "final_price": 199
     },
     {
-      "name": "Might & Poison Mushroom",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991340/51a2b80fdc83fe5f385364ccfac761f6be1abd25/header.jpg?t=1789472763",
-      "url": "https://store.steampowered.com/app/4991340/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Mixed Spirits: Bartender",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3891400/0b5b178f5749ff8988f68afb43e590bc7a57cfce/header.jpg?t=1789467841",
-      "url": "https://store.steampowered.com/app/3891400/",
-      "short_description": "",
-      "final_price": 974
-    },
-    {
-      "name": "RuneScape: Dragonwilds - Deluxe Edition Upgrade",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4908050/388802372e3832d98950b62287d77783715c5488/header.jpg?t=1789462932",
-      "url": "https://store.steampowered.com/app/4908050/",
-      "short_description": "",
-      "final_price": 999
-    },
-    {
-      "name": "RuneScape: Dragonwilds",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/0e1f8e3e13a1effc44bf507917970319a8157731/header_alt_assets_4.jpg?t=1789468296",
-      "url": "https://store.steampowered.com/app/1374490/",
-      "short_description": "",
-      "final_price": 2999
-    },
-    {
-      "name": "Active Matter - Upgrade to Advanced Edition",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107830/1eeb4a432fca63b2b871fb41392325eadf4542a4/header.jpg?t=1789464065",
-      "url": "https://store.steampowered.com/app/4107830/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Active Matter - Original Game Soundtrack, Vol.1",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5180360/ff73e399d8d49ed8959de88c31c1fb258aeeaf76/header.jpg?t=1789462764",
-      "url": "https://store.steampowered.com/app/5180360/",
+      "name": "ToyStorm",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185260/2c0b860223862b0db67f5d9026745b0ee819aa06/header.jpg?t=1789554406",
+      "url": "https://store.steampowered.com/app/5185260/",
       "short_description": "",
       "final_price": 899
     },
     {
-      "name": "Active Matter - Upgrade to Deluxe Edition",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4107840/b2d7573cb0ee2e233f1c52b9b36ba436ae6321f3/header.jpg?t=1789464056",
-      "url": "https://store.steampowered.com/app/4107840/",
+      "name": "Tinker Shot",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3351280/a23562e80dcacd029fa5c89913f3db011417e45e/header.jpg?t=1789553137",
+      "url": "https://store.steampowered.com/app/3351280/",
+      "short_description": "",
+      "final_price": 374
+    },
+    {
+      "name": "Ride Up Together",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895550/d1a01a40786680b15870677ba12daeb4bd85f17f/header.jpg?t=1789553002",
+      "url": "https://store.steampowered.com/app/4895550/",
+      "short_description": "",
+      "final_price": 424
+    },
+    {
+      "name": "TinyChip Workstation",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4661420/5374c7352fa277e669d5ac085cc1b71de6293528/header.jpg?t=1789550593",
+      "url": "https://store.steampowered.com/app/4661420/",
+      "short_description": "",
+      "final_price": 3399
+    },
+    {
+      "name": "LUCK IT",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5190280/5c8cdb77f3fc4171eb901d48fb2e5c0654f7e46d/header.jpg?t=1789547999",
+      "url": "https://store.steampowered.com/app/5190280/",
+      "short_description": "",
+      "final_price": 399
+    },
+    {
+      "name": "WATT FUR? Animal Power Plant",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4974950/eb761c1ff600d825bdad59a15f5088b846c1f2ed/header.jpg?t=1789544292",
+      "url": "https://store.steampowered.com/app/4974950/",
+      "short_description": "",
+      "final_price": 449
+    },
+    {
+      "name": "Super Clown Spookyland",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5181540/195b7268563bd03c3f56c9b2646f217e682c5c42/header.jpg?t=1789543219",
+      "url": "https://store.steampowered.com/app/5181540/",
+      "short_description": "",
+      "final_price": 179
+    },
+    {
+      "name": "Code Velocity",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4240610/e4a647dd2e3645d2195f468704d0b08e27bffff7/header.jpg?t=1789541936",
+      "url": "https://store.steampowered.com/app/4240610/",
+      "short_description": "",
+      "final_price": 239
+    },
+    {
+      "name": "Deep Drift Signal Below - Marine Eco Package 1",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185880/e65d120f480530f1d4176a898a8166d063a15166/header.jpg?t=1789539672",
+      "url": "https://store.steampowered.com/app/5185880/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Active Matter",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887580/191801a8de4db48075ef195473a922391cb4c6de/header.jpg?t=1789472580",
-      "url": "https://store.steampowered.com/app/2887580/",
+      "name": "Query Noir",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5015610/6d0c0a16422fc297ec70dd4548a97320567c3fc5/header.jpg?t=1789537038",
+      "url": "https://store.steampowered.com/app/5015610/",
       "short_description": "",
-      "final_price": 2999
-    },
-    {
-      "name": "SCORE",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438310/dd53f51a84e10ff6ceefb0b4c6267c8341157f3e/header.jpg?t=1789458115",
-      "url": "https://store.steampowered.com/app/438310/",
-      "short_description": "",
-      "final_price": 849
-    },
-    {
-      "name": "Cube Boy",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4757970/9639ee4ab96f3a0a8d54e02601eb78a6b7ad0406/header.jpg?t=1789457721",
-      "url": "https://store.steampowered.com/app/4757970/",
-      "short_description": "",
-      "final_price": 299
+      "final_price": 499
     }
   ]
 }
