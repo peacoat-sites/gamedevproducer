@@ -1,101 +1,53 @@
 {
-  "updated": "2026-09-16",
+  "updated": "2026-09-17",
   "count": 25,
   "items": [
     {
+      "source": "Game Developer",
+      "title": "Report: MindsEye developer Build a Rocket Boy seemingly closing after more layoffs",
+      "url": "https://www.gamedeveloper.com/business/report-mindseye-developer-build-a-rocket-boy-seemingly-closing-after-more-layoffs",
+      "date": "Wed, 16 Se"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Shinji Mikami to join AIAS Hall of Fame at 2026 DICE Awards",
+      "url": "https://www.gamedeveloper.com/business/shinji-mikami-to-join-aias-hall-of-fame-at-2026-dice-awards",
+      "date": "Wed, 16 Se"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Activision Blizzard sued by former employee over sexual harassment",
+      "url": "https://www.gamedeveloper.com/production/activision-blizzard-sued-by-former-employee-over-sexual-harassment",
+      "date": "Wed, 16 Se"
+    },
+    {
       "source": "Kotaku",
-      "title": "Trails In The Sky 2nd Chapter: The Kotaku Review",
-      "url": "https://kotaku.com/trails-in-the-sky-2nd-chapter-the-kotaku-review-2000734716",
+      "title": "Early Reviews Hail Zach Cregger\u2019s Resident Evil As A Clever Homage That Doesn\u2019t Get Bogged Down By The Details: \u2018This Is How Movies And Video Games Can Merge In A Way That Makes Them Stronger\u2019",
+      "url": "https://kotaku.com/early-reviews-hail-zach-creggers-resident-evil-as-a-clever-homage-that-doesnt-get-bogged-down-by-the-details-this-is-how-movies-and-video-games-can-merge-in-a-way-that-makes-them-stronger-2000735209",
       "date": "Wed, 16 Se"
     },
     {
-      "source": "Polygon",
-      "title": "\u2018Hytale\u2019\u2019s Pok\u00e9mon MMO Is the Most Bonkers Mod of 2026",
-      "url": "https://www.polygon.com/hytale-mod-pokemon-online-mmo/",
+      "source": "Kotaku",
+      "title": "Studio Behind Last Year\u2019s Poorly Rated Call Of Duty Promises Something New As It Leaves Black Ops 7 Behind",
+      "url": "https://kotaku.com/studio-behind-last-years-poorly-rated-call-of-duty-promises-something-new-as-it-leaves-black-ops-7-behind-2000735207",
       "date": "Wed, 16 Se"
     },
     {
-      "source": "Polygon",
-      "title": "HBO's Harry Potter Officially Casts Key 'Chamber of Secrets' Role for Season 2",
-      "url": "https://www.polygon.com/harry-potter-hbo-new-cast-season-2-moaning-myrtle/",
+      "source": "Kotaku",
+      "title": "Epic CEO Says EU Banning Kids From Playing Fortnite Is \u2018Terrible For The Next Generation Of Humanity\u2019",
+      "url": "https://kotaku.com/epic-ceo-says-eu-banning-kids-from-playing-fortnite-is-terrible-for-the-next-generation-of-humanity-2000735192",
       "date": "Wed, 16 Se"
     },
     {
-      "source": "Polygon",
-      "title": "Xbox Game Pass Gets One More Stacked Lineup Before Major Downgrade",
-      "url": "https://www.polygon.com/xbox-game-pass-september-2026-wave-2/",
+      "source": "Kotaku",
+      "title": "Endless Legend 2 Dev Reflects On How Early Access Has Changed Nearly 15 Years Later: \u2018People Can Be A Bit Unforgiving\u2019",
+      "url": "https://kotaku.com/endless-legend-2-dev-reflects-on-how-early-access-has-changed-nearly-15-years-later-people-can-be-a-bit-unforgiving-2000735194",
       "date": "Wed, 16 Se"
     },
     {
-      "source": "Polygon",
-      "title": "John Lithgow's High Fantasy Masterpiece Is Officially a Global Streaming Sensation",
-      "url": "https://www.polygon.com/shrek-netflix-top-streaming-worldwide/",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "10 BG3 Characters Fans Still Want as Companions",
-      "url": "https://www.polygon.com/bg3-best-non-companion-npcs/",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Here's the second wave of Xbox Game Pass games coming in September",
-      "url": "https://www.eurogamer.net/xbox-game-pass-second-wave-september-gears-of-war",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Microsoft doesn't dismiss rumours a major Xbox Game Pass shake-up is on the way, which reportedly removes day-one game offerings entirely",
-      "url": "https://www.eurogamer.net/xbox-game-pass-big-changes-2027-rumour-microsoft-responds",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "You can play a sizeable demo of Wo Long 2: Wings of Ember right now, getting you ready for its March 2027 release date",
-      "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-demo-release-date",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Login errors delay Diablo 4's big new Season of Hell's Legacy anniversary update",
-      "url": "https://www.eurogamer.net/diablo-4-season-of-hells-legacy-30th-anniversary-delayed",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive",
-      "url": "https://www.eurogamer.net/wo-long-2-wings-of-ember-preview",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Images for Unannounced Tiny Tina's Wonderlands and Brothers in Arms Games Leak Online",
-      "url": "https://www.ign.com/articles/images-for-unannounced-tiny-tinas-wonderlands-and-brothers-in-arms-games-leak-online",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "The Transformers: The Movie Rolls Back into Cinemas for 40th Anniversary",
-      "url": "https://www.ign.com/articles/the-transformers-the-movie-rolls-back-into-cinemas-for-40th-anniversary",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Will Microsoft Kill Day 1 Launches via Game Pass? After Word Leaks of Potential Changes, Xbox Says It Has Nothing 'To Announce Today'",
-      "url": "https://www.ign.com/articles/will-microsoft-kill-day-1-launches-via-game-pass-after-word-leaks-of-potential-changes-xbox-says-it-has-nothing-to-announce-today",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Fire Emblem: Fortune's Weave Developers Explain Why You Only Need 1 Save File \u2014 and That The Game Originally Had 8 Protagonists",
-      "url": "https://www.ign.com/articles/fire-emblem-fortunes-weave-developers-explain-why-you-only-need-1-save-file-and-that-the-game-originally-had-8-protagonists",
-      "date": "Wed, 16 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "PS5 Update Lets You Turn on Display Names, Adds Trending Now and Top 10 Views, and More",
-      "url": "https://www.ign.com/articles/ps5-update-lets-you-turn-on-display-names-adds-trending-now-and-top-10-views-and-more",
+      "source": "Kotaku",
+      "title": "\u2018Nearly Everyone\u2019 Laid Off As Hyper Light Drifter Studio Risks Closing: \u2018I\u2019m Not Sure Yet How Or If Heart Machine Survives\u2019",
+      "url": "https://kotaku.com/nearly-everyone-laid-as-hyper-light-drifter-studio-risks-closure-im-not-sure-yet-how-or-if-heart-machine-survives-2000735172",
       "date": "Wed, 16 Se"
     },
     {
@@ -106,51 +58,99 @@
     },
     {
       "source": "Game Developer",
-      "title": "Bungie is overhauling Marathon from its original extraction shooter vision",
-      "url": "https://www.gamedeveloper.com/business/bungie-is-overhauling-marathon-from-its-original-extraction-shooter-vision",
-      "date": "Tue, 15 Se"
+      "title": "Hyper Light Drifter developer Heart Machine has laid off the majority of staff",
+      "url": "https://www.gamedeveloper.com/business/hyper-light-drifter-developer-heart-machine-has-laid-off-the-majority-of-staff",
+      "date": "Thu, 17 Se"
     },
     {
-      "source": "Game Developer",
-      "title": "Wardogs lead says the studio won't hire people who decry crunch on social media",
-      "url": "https://www.gamedeveloper.com/business/wardogs-lead-says-the-studio-won-t-hire-people-who-decry-crunch-on-social-media",
-      "date": "Tue, 15 Se"
+      "source": "Polygon",
+      "title": "New Hunger Games Trailer Reveals This Will Be the Most Brutal Movie in the Series",
+      "url": "https://www.polygon.com/hunger-games-sunrise-on-the-reaping-trailer-september/",
+      "date": "Thu, 17 Se"
     },
     {
-      "source": "Game Developer",
-      "title": "Why does this prominent Washington state politician think video games can be 'soft power?'",
-      "url": "https://www.gamedeveloper.com/business/why-does-this-prominent-washington-state-politician-think-video-games-can-be-soft-power-",
-      "date": "Tue, 15 Se"
+      "source": "Polygon",
+      "title": "Kingdom Hearts and Cyberpunk Edgerunners Officially join Fortnite in Latest Update",
+      "url": "https://www.polygon.com/fortnite-kingdom-hearts-cyberpunk-edgerunners-update/",
+      "date": "Thu, 17 Se"
     },
     {
-      "source": "Game Developer",
-      "title": "Bohemia Interactive acquires minority stake in Everwind developer Enjoy Studio",
-      "url": "https://www.gamedeveloper.com/business/bohemia-interactive-acquires-minority-stake-in-everwind-developer-enjoy-studio",
-      "date": "Tue, 15 Se"
+      "source": "Polygon",
+      "title": "20 Years Ago, Sega Introduced the World to Its Greatest Hero of All Time",
+      "url": "https://www.polygon.com/yakuza-1-20th-anniversary-north-america/",
+      "date": "Thu, 17 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Diablo 5 Devs Address The Release Date Skepticism: \u2018The Team All Agreed That It Was A Great Time To Tell The World\u2019",
-      "url": "https://kotaku.com/diablo-5-developers-release-date-skepticism-2000734728",
-      "date": "Tue, 15 Se"
+      "source": "Polygon",
+      "title": "Konami's Castlevania: Belmont's Curse Plays Like.a Dream",
+      "url": "https://www.polygon.com/castlevania-belmonts-curse-impressions-tgs-2026/",
+      "date": "Thu, 17 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Fire Emblem: Fortune\u2019s Weave Almost Had Eight Protagonists",
-      "url": "https://kotaku.com/fire-emblem-fortunes-weave-nintendo-developer-interview-eight-protagonists-2000734731",
-      "date": "Tue, 15 Se"
+      "source": "Polygon",
+      "title": "60 Years Ago, the Best Charlie Brown Quote Was So Perfect It Made It Into the Movie",
+      "url": "https://www.polygon.com/peanuts-best-charlie-brown-quote/",
+      "date": "Thu, 17 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Xbox Responds To Rumors That Game Pass Is Losing New Day-One Games in 2027",
-      "url": "https://kotaku.com/xbox-responds-to-rumors-that-game-pass-is-losing-day-one-new-games-in-2027-2000734755",
-      "date": "Tue, 15 Se"
+      "source": "Eurogamer",
+      "title": "Hideo Kojima confirms Bill Skarsg\u00e5rd is Physint's lead actor, gives production update on mysterious horror game OD",
+      "url": "https://www.eurogamer.net/hideo-kojima-bill-skarsgard-physint-mysterious-horror-game-od",
+      "date": "Thu, 17 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Blizzard Delays Diablo 4\u2032s Big 30th Anniversary Season 15 Kick-Off After A Flood Of Error Codes",
-      "url": "https://kotaku.com/blizzard-delays-diablo-4s-big-30th-anniversary-season-15-kick-off-after-a-flood-of-error-codes-2000734752",
-      "date": "Tue, 15 Se"
+      "source": "Eurogamer",
+      "title": "Wardogs has already made more money than Marathon, and its Steam launch momentum is ahead of Arc Raiders and Helldivers 2",
+      "url": "https://www.eurogamer.net/wardogs-marathon-revenue-arc-raiders-helldivers-2-steam",
+      "date": "Thu, 17 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Helldivers 2 and Horizon Forbidden West mysteriously delisted from Steam in the UK, Sony promises to \"address the issue\" with Valve",
+      "url": "https://www.eurogamer.net/helldivers-2-horizon-forbidden-west-delisted-steam-uk-sony-valve",
+      "date": "Thu, 17 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Monster Hunter Wilds upcoming expansion, Ascendance, reveals an infamous returning monster - and it looks like it'll address the difficulty complaints",
+      "url": "https://www.eurogamer.net/monster-hunter-ascendance-teostra-reveal",
+      "date": "Thu, 17 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "PlayStation 5's latest firmware update takes Community Activity out of beta, but it's missing a key feature",
+      "url": "https://www.eurogamer.net/ps5-firmware-update-14-00-00-community-activity-missing-feature",
+      "date": "Thu, 17 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "The Grand Tour Reboot Season 1 Review",
+      "url": "https://www.ign.com/articles/the-grand-tour-reboot-season-1-review",
+      "date": "Thu, 17 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Hot Wheels Infinite Rush Review",
+      "url": "https://www.ign.com/articles/hot-wheels-infinite-rush-review",
+      "date": "Thu, 17 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Moza Will Debut First PlayStation-Licensed Racing Wheels at Tokyo Game Show 2026",
+      "url": "https://www.ign.com/articles/moza-will-debut-first-playstation-licensed-racing-wheels-at-tokyo-game-show-2026",
+      "date": "Thu, 17 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Hideo Kojima Announces It Star Bill Skarsgard Will Portray Physint's Main Character",
+      "url": "https://www.ign.com/articles/hideo-kojima-announces-it-star-bill-skarsgard-will-portray-physints-main-character",
+      "date": "Thu, 17 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Call of Duty: Modern Warfare 4 Campaign Trailer Reveals Death Stranding Star Mads Mikkelsen",
+      "url": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-campaign-trailer-reveals-death-stranding-star-mads-mikkelsen",
+      "date": "Thu, 17 Se"
     }
   ]
 }
