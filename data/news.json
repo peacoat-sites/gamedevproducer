@@ -1,47 +1,89 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "count": 25,
   "items": [
     {
+      "source": "Polygon",
+      "title": "13 Years Later, 'President Curtis' is Repeating 'Rick and Morty\u2019s Biggest Mistake",
+      "url": "https://www.polygon.com/president-curtis-repeating-rick-and-morty-biggest-mistake/",
+      "date": "Sun, 20 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "8 Years Ago, Critical Role Changed Forever with Its Most Shocking Character Death",
+      "url": "https://www.polygon.com/8-years-ago-critical-role-mollymauk-death/",
+      "date": "Sun, 20 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "The GTA Timeline Is Completely Irrelevant",
+      "url": "https://www.polygon.com/gta-timeline-doesnt-matter/",
+      "date": "Sun, 20 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Lord and Miller's Near-Perfect 21 Jump Street Revival is Officially Returning",
+      "url": "https://www.polygon.com/21-jump-street-movie-sequel-spider-verse-creators/",
+      "date": "Sun, 20 Se"
+    },
+    {
+      "source": "Polygon",
+      "title": "Persona is Coming to TV with a New Netflix Series",
+      "url": "https://www.polygon.com/persona-streaming-tv-series-netflix/",
+      "date": "Sun, 20 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Clive Barker's Hellraiser: Revival gets a playable demo and a new trailer ahead of its October launch",
+      "url": "https://www.eurogamer.net/clive-barkers-hellraiser-revival-demo-scarlet-church-trailer",
+      "date": "Sun, 20 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "The Last of Us director apologises for calling out Sony Santa Monica's God of War Laufey after saying he was \"not excited\"",
+      "url": "https://www.eurogamer.net/last-of-us-director-apologises-god-of-war-laufey-not-excited",
+      "date": "Sun, 20 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Wolverine developer Insomniac denies using generative AI after fans spot strange restroom sign",
+      "url": "https://www.eurogamer.net/insomniac-denies-generative-ai-marvels-wolverine-bathroom-sign",
+      "date": "Sun, 20 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Hideo Kojima Reveals What Happened With Sony in Exclusive First Interview Since PlayStation Ditched Physint",
+      "url": "https://www.ign.com/articles/hideo-kojima-reveals-what-happened-with-sony-in-exclusive-first-interview-since-playstation-ditched-physint",
+      "date": "Sun, 20 Se"
+    },
+    {
       "source": "Kotaku",
-      "title": "Bill Skarsg\u00e5rd Sounds Very Excited To Be Starring In Hideo Kojima\u2019s Physint",
-      "url": "https://kotaku.com/bill-skarsgard-sounds-very-excited-to-be-starring-in-hideo-kojimas-physint-2000735799",
+      "title": "Nintendo Gives Mario Those Little Coin Pockets In Newly Updated Renders",
+      "url": "https://kotaku.com/nintendo-gives-mario-those-little-coin-pockets-in-newly-updated-renders-2000735891",
       "date": "Sat, 19 Se"
     },
     {
       "source": "Kotaku",
-      "title": "Wolverine Hotfix Nerfs \u2018Fart Gas\u2019 As Insomniac Explores An Option To Toggle It Off Completely",
-      "url": "https://kotaku.com/wolverine-hotfix-nerfs-fart-gas-as-insomniac-explores-an-option-to-toggle-it-off-completely-2000735790",
+      "title": "Father Says Nine-Year-Old Spent Over $100K Plugging Minecraft YouTube Videos And Cost Him His Job",
+      "url": "https://kotaku.com/father-says-nine-year-old-spent-over-100k-plugging-minecraft-youtube-videos-and-cost-him-his-job-2000735884",
       "date": "Sat, 19 Se"
     },
     {
-      "source": "Polygon",
-      "title": "Every Star Wars Zero Company Hero, Ranked From Worst to Best",
-      "url": "https://www.polygon.com/star-wars-zero-company-characters-ranked/",
+      "source": "Kotaku",
+      "title": "YouTube Channel Accused Of Taking Advantage Of \u2018Vulnerable, First-Time Indie Developers\u2019 With Expensive Advertising Campaigns",
+      "url": "https://kotaku.com/youtube-channel-accused-of-taking-advantage-of-vulnerable-first-time-indie-developers-with-expensive-advertising-campaigns-2000735860",
       "date": "Sat, 19 Se"
     },
     {
-      "source": "Polygon",
-      "title": "The 9 Best Anime You Can Stream on HBO Max",
-      "url": "https://www.polygon.com/best-anime-to-stream-on-hbo-max/",
+      "source": "Kotaku",
+      "title": "Typhoon Dujuan Forces Tokyo Game Show 2026 To Shut Down A Day Early",
+      "url": "https://kotaku.com/typhoon-dujuan-forces-tokyo-game-show-2026-to-shut-down-a-day-early-2000735879",
       "date": "Sat, 19 Se"
     },
     {
-      "source": "Polygon",
-      "title": "The 5 Best Charlie Brown Football Comic Strips in 'Peanuts' History",
-      "url": "https://www.polygon.com/best-charlie-brown-football-jokes-peanuts-comic-strip/",
-      "date": "Sat, 19 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "Dwayne Johnson's Forgotten Box-office Juggernaut is Officially Conquering the Streaming World",
-      "url": "https://www.polygon.com/dwayne-johnson-hercules-netflix-streaming-hit-september-2026/",
-      "date": "Sat, 19 Se"
-    },
-    {
-      "source": "Polygon",
-      "title": "39 Years Later, the Most Important Sci-Fi Series of the '80s Is Officially Free on Stream",
-      "url": "https://www.polygon.com/star-trek-next-generation-streaming-free/",
+      "source": "Kotaku",
+      "title": "Jared Kushner Reportedly Likes Playing Video Games With The Saudi Crown Prince",
+      "url": "https://kotaku.com/jared-kushner-reportedly-likes-playing-video-games-with-the-saudi-crown-prince-2000735875",
       "date": "Sat, 19 Se"
     },
     {
@@ -58,32 +100,26 @@
     },
     {
       "source": "IGN",
-      "title": "As Fans Flood the World of Warcraft: Forever Beta, Dev Says It's Putting Up 'The Craziest Numbers I've Seen in 17 Years Working at Blizzard'",
-      "url": "https://www.ign.com/articles/as-fans-flood-the-world-of-warcraft-forever-beta-dev-says-its-putting-up-the-craziest-numbers-ive-seen-in-17-years-working-at-blizzard",
+      "title": "Big Bang Theory Spinoff Features Surprise Live-Action Cameos from The Flash and Mr. Freeze",
+      "url": "https://www.ign.com/articles/big-bang-theory-spinoff-features-surprise-live-action-cameos-from-the-flash-and-mr-freeze",
       "date": "Sat, 19 Se"
     },
     {
       "source": "IGN",
-      "title": "Marvel's Wolverine Developer Nerfs Scent Trails and Audio Sense Indicators After 'Fart Gas' Backlash",
-      "url": "https://www.ign.com/articles/marvels-wolverine-developer-nerfs-scent-trails-and-audio-sense-indicators-after-fart-gas-backlash",
+      "title": "The Last of Us Director Apologizes to God of War Laufey Devs After Calling Recent AAA Games 'Boring'",
+      "url": "https://www.ign.com/articles/the-last-of-us-director-apologizes-to-god-of-war-laufey-devs-after-calling-recent-aaa-games-boring",
       "date": "Sat, 19 Se"
     },
     {
       "source": "IGN",
-      "title": "Lollipop Chainsaw Live-Action Movie Revealed by Dragami Games",
-      "url": "https://www.ign.com/articles/lollipop-chainsaw-live-action-movie-revealed-by-dragami-games",
+      "title": "Insomniac Says Marvel's Wolverine Uses No Generative AI After Fans Spot Strange Signs in-Game",
+      "url": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
       "date": "Sat, 19 Se"
     },
     {
       "source": "IGN",
-      "title": "Resident Evil Fans 'Will Feel Seen' After the Movie, Says Director Zach Cregger",
-      "url": "https://www.ign.com/articles/resident-evil-fans-will-feel-seen-after-the-movie-says-director-zach-cregger",
-      "date": "Sat, 19 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "We Ranked the 10 Best First Partner Pok\u00e9mon TCG Cards of All Time",
-      "url": "https://www.ign.com/articles/best-first-partner-pokemon-tcg-cards",
+      "title": "We Ranked The 10 Best Eevee Pok\u00e9mon Cards of All Time",
+      "url": "https://www.ign.com/articles/best-eevee-pokemon-tcg-cards",
       "date": "Sat, 19 Se"
     },
     {
@@ -105,52 +141,16 @@
       "date": "Fri, 18 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Insomniac Confirms Wolverine Doesn\u2019t Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral",
-      "url": "https://kotaku.com/insomniac-confirms-wolverine-doesnt-contain-ai-generated-assets-after-a-weird-looking-sign-goes-viral-2000735775",
-      "date": "Fri, 18 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Fire Emblem: Fortune\u2019s Weave Fans Cause Online Banana Shortage At Walmart",
-      "url": "https://kotaku.com/fire-emblem-fortunes-weave-fans-cause-online-banana-shortage-at-walmart-2000735758",
-      "date": "Fri, 18 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Star Wars: Zero Company Contains One Of The Coolest Star Wars Cameos Ever",
-      "url": "https://kotaku.com/star-wars-zero-company-contains-one-of-the-coolest-star-wars-cameos-ever-2000735747",
-      "date": "Fri, 18 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Sony execs behind iconic game-sharing meme recreate it, but fittingly, without a physical game",
-      "url": "https://www.eurogamer.net/sony-execs-game-sharing-meme-physical",
-      "date": "Fri, 18 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
-      "url": "https://www.eurogamer.net/new-gta-5-leak-rockstar-liberty-city-dlc-early-gta-6",
-      "date": "Fri, 18 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Despite controversial reviews and online mockery, Marvel's Wolverine looks to have sold 1.9m on PS5 - and over 1 in 5 sales are physical",
-      "url": "https://www.eurogamer.net/marvel-wolverine-sales-ps5-physical-controversial-reviews",
-      "date": "Fri, 18 Se"
-    },
-    {
       "source": "Game Developer",
       "title": "Game Conference MX (GCMX)",
       "url": "https://www.gamedeveloper.com/events/untitled",
-      "date": "2026-09-19"
+      "date": "2026-09-20"
     },
     {
       "source": "Game Developer",
       "title": "gamescom",
       "url": "https://www.gamedeveloper.com/events/gamescom",
-      "date": "2026-09-19"
+      "date": "2026-09-20"
     }
   ]
 }
