@@ -1,126 +1,89 @@
 {
- "as_of": "2026-09-21",
- "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
- "games": [
-  {
-   "rank": 1,
-   "name": "Counter-Strike: Global Offensive",
-   "developer": "Valve",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 1013936,
-   "price": "Free"
-  },
-  {
-   "rank": 2,
-   "name": "PUBG: BATTLEGROUNDS",
-   "developer": "PUBG Corporation",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 314682,
-   "price": "Free"
-  },
-  {
-   "rank": 3,
-   "name": "Rust",
-   "developer": "Facepunch Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 143870,
-   "price": "$19.99"
-  },
-  {
-   "rank": 4,
-   "name": "Apex Legends",
-   "developer": "Respawn",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 124262,
-   "price": "Free"
-  },
-  {
-   "rank": 5,
-   "name": "Wallpaper Engine",
-   "developer": "Wallpaper Engine Team",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 91184,
-   "price": "$4.99"
-  },
-  {
-   "rank": 6,
-   "name": "Grand Theft Auto V Legacy",
-   "developer": "Rockstar North",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67851,
-   "price": "Free"
-  },
-  {
-   "rank": 7,
-   "name": "Call of Duty: Modern Warfare II",
-   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67419,
-   "price": "$38.49"
-  },
-  {
-   "rank": 8,
-   "name": "NARAKA: BLADEPOINT",
-   "developer": "24 Entertainment",
-   "owners": "10,000,000 - 20,000,000",
-   "ccu": 66954,
-   "price": "Free"
-  },
-  {
-   "rank": 9,
-   "name": "Baldur's Gate 3",
-   "developer": "Larian Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 54771,
-   "price": "$44.99"
-  },
-  {
-   "rank": 10,
-   "name": "HELLDIVERS 2",
-   "developer": "Arrowhead Game Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 53399,
-   "price": "$39.99"
-  },
-  {
-   "rank": 11,
-   "name": "Tom Clancy's Rainbow Six Siege",
-   "developer": "Ubisoft Montreal",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 51847,
-   "price": "$19.99"
-  },
-  {
-   "rank": 12,
-   "name": "Stardew Valley",
-   "developer": "ConcernedApe",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50662,
-   "price": "$14.99"
-  },
-  {
-   "rank": 13,
-   "name": "War Thunder",
-   "developer": "Gaijin Entertainment",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50478,
-   "price": "Free"
-  },
-  {
-   "rank": 14,
-   "name": "Dead by Daylight",
-   "developer": "Behaviour Interactive Inc.",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 44886,
-   "price": "$19.99"
-  },
-  {
-   "rank": 15,
-   "name": "Team Fortress 2",
-   "developer": "Valve",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 43819,
-   "price": "Free"
-  }
- ]
+  "updated": "2026-09-22",
+  "items": [
+    {
+      "name": "Panzer Deck",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3872650/60060c12ce43248396699a2f6e249fee1fa16a99/header.jpg?t=1790074677",
+      "url": "https://store.steampowered.com/app/3872650/",
+      "short_description": "",
+      "final_price": 1039
+    },
+    {
+      "name": "Blova",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5129690/97be2642606d3b0fc2a0d22ec9d6a87ae7dee57c/header.jpg?t=1790073751",
+      "url": "https://store.steampowered.com/app/5129690/",
+      "short_description": "",
+      "final_price": 899
+    },
+    {
+      "name": "Packed Lair",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3489680/71f730ece1d51acab02f18b2551e789ab6f05a95/header.jpg?t=1790073956",
+      "url": "https://store.steampowered.com/app/3489680/",
+      "short_description": "",
+      "final_price": 719
+    },
+    {
+      "name": "Kihaven",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4991690/40b84ab4d6851ac5839d35b56f253721742b42bc/header.jpg?t=1790070748",
+      "url": "https://store.steampowered.com/app/4991690/",
+      "short_description": "",
+      "final_price": 159
+    },
+    {
+      "name": "Le Mans Ultimate - US Track Pack 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4694200/a4a65b52ce841ae690a2fa0fb2c8ed4dd5de9520/header.jpg?t=1790069287",
+      "url": "https://store.steampowered.com/app/4694200/",
+      "short_description": "",
+      "final_price": 1999
+    },
+    {
+      "name": "GREGS: Linked Together",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240010/header.jpg?t=1790068933",
+      "url": "https://store.steampowered.com/app/3240010/",
+      "short_description": "",
+      "final_price": 674
+    },
+    {
+      "name": "SPIRAL OJOSAMA CHOHATSU MAKINA",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5144700/c2daa0e548bc69411686af5c8c059f5cba228b20/header.jpg?t=1790066697",
+      "url": "https://store.steampowered.com/app/5144700/",
+      "short_description": "",
+      "final_price": 1999
+    },
+    {
+      "name": "Hentai Senpai: MILFs & GILFs",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4770010/1b2bf3f3d4a6edb1b61d368a539df94e1e1e2b11/header.jpg?t=1790066066",
+      "url": "https://store.steampowered.com/app/4770010/",
+      "short_description": "",
+      "final_price": 359
+    },
+    {
+      "name": "I Transmigrated to Another World to Become the Overlord \u2014\u2014Stop Fighting Over Me",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4996800/dbff0bfad0732250741e80bbc820515c1fc6321f/header.jpg?t=1790065180",
+      "url": "https://store.steampowered.com/app/4996800/",
+      "short_description": "",
+      "final_price": 89
+    },
+    {
+      "name": "Rogue Snake",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3207150/711fdaa7f9c411109f358ed59ab224254413710d/header.jpg?t=1790067175",
+      "url": "https://store.steampowered.com/app/3207150/",
+      "short_description": "",
+      "final_price": 389
+    },
+    {
+      "name": "PAYDAY 3: Brute Force Crimebond",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101770/54c6c2f8a18b23e0d3335aac4a4154f32f066bba/header.jpg?t=1790068641",
+      "url": "https://store.steampowered.com/app/5101770/",
+      "short_description": "",
+      "final_price": 999
+    },
+    {
+      "name": "STUNTBOOST",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999500/d7fa053a1107707ec1a6760450a9ba8ac6f270f4/header.jpg?t=1790072408",
+      "url": "https://store.steampowered.com/app/2999500/",
+      "short_description": "",
+      "final_price": 595
+    }
+  ]
 }
