@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "items": [
     {
-      "name": "M\u00f4rgan",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4977550/25b85f80928f7da43a3a7f00fca43cc9b53ccc89/header.jpg?t=1790337307",
-      "url": "https://store.steampowered.com/app/4977550/",
+      "name": "Fiducia: Rent The World",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953150/702a4bb12bd91b3f0f8fd44556e1f10ee57f120d/header.jpg?t=1790420921",
+      "url": "https://store.steampowered.com/app/4953150/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "SIRIUS BFM Coach",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5181790/6919630d08be102d864bda014879d67448693d7c/header.jpg?t=1790334755",
-      "url": "https://store.steampowered.com/app/5181790/",
-      "short_description": "",
-      "final_price": 1159
-    },
-    {
-      "name": "Sandwich +1",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4511900/91cac03a507b22673a1c2661b5dade657b7b3fd8/header.jpg?t=1790333892",
-      "url": "https://store.steampowered.com/app/4511900/",
-      "short_description": "",
-      "final_price": 197
-    },
-    {
-      "name": "Neon Tyrant",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953310/1691d48c3292c202308b3a0365cbcea683149d10/header.jpg?t=1790331304",
-      "url": "https://store.steampowered.com/app/4953310/",
-      "short_description": "",
-      "final_price": 329
-    },
-    {
-      "name": "Escape Sequence",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4965510/7677d7bd55ec699fdc7f53e8110ec83f6c500d3b/header.jpg?t=1790331255",
-      "url": "https://store.steampowered.com/app/4965510/",
-      "short_description": "",
-      "final_price": 329
-    },
-    {
-      "name": "Tower of Pestilence",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3400590/bc07e34df756d8fe814a359f78926f8fa3ef1e1e/header.jpg?t=1790330498",
-      "url": "https://store.steampowered.com/app/3400590/",
-      "short_description": "",
-      "final_price": 439
-    },
-    {
-      "name": "YOU ARE NEWTON",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4994950/03604a572c0c39baaf468ab084d1e3e5df64bb5e/header.jpg?t=1790330451",
-      "url": "https://store.steampowered.com/app/4994950/",
-      "short_description": "",
-      "final_price": 375
-    },
-    {
-      "name": "Smart Crosshair ",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5012860/b40c0ce9fed24c96e8432843139d5c142a7549ab/header.jpg?t=1790329486",
-      "url": "https://store.steampowered.com/app/5012860/",
-      "short_description": "",
-      "final_price": 161
-    },
-    {
-      "name": "Immortal Chess",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5045450/cf13d1036f6cc271f6acef3f7c707c7626c34873/header.jpg?t=1790329244",
-      "url": "https://store.steampowered.com/app/5045450/",
+      "name": "Kartboard Dash",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4510790/d593d7161e9940c490fd75ba7405d0ecbc55a5ba/header.jpg?t=1790417240",
+      "url": "https://store.steampowered.com/app/4510790/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Dr. Murph",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943200/header.jpg?t=1790328293",
-      "url": "https://store.steampowered.com/app/2943200/",
+      "name": "Versus One",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3653680/11210c00764a85c3107464ed0b661cacf7e208b6/header.jpg?t=1790417966",
+      "url": "https://store.steampowered.com/app/3653680/",
       "short_description": "",
-      "final_price": 299
+      "final_price": 0
     },
     {
-      "name": "Girls vs Zombies",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2197690/ea252e9588a08bb4b1aef3ebe312ff6fb3f49d4e/header.jpg?t=1790328064",
-      "url": "https://store.steampowered.com/app/2197690/",
+      "name": "The Handler of Dragons",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172730/987ddc6e3da192aa34155468e1fc942293dab493/header.jpg?t=1790402878",
+      "url": "https://store.steampowered.com/app/1172730/",
       "short_description": "",
-      "final_price": 492
+      "final_price": 545000
     },
     {
-      "name": "King of Pickaxe",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4264240/42d00f22b528eb90d6923fa359d693c8b7d032b0/header.jpg?t=1790323720",
-      "url": "https://store.steampowered.com/app/4264240/",
+      "name": "Jackpot Dungeon",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4948400/4be67ec29c56f0e4d1be1b9ca07284f8897a35ef/header.jpg?t=1790396975",
+      "url": "https://store.steampowered.com/app/4948400/",
       "short_description": "",
-      "final_price": 153
+      "final_price": 467000
+    },
+    {
+      "name": "Sector 13: Haunted Woods",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4244040/4b397752a47953c44692b2c2290e674de04e676d/header.jpg?t=1790396109",
+      "url": "https://store.steampowered.com/app/4244040/",
+      "short_description": "",
+      "final_price": 783000
+    },
+    {
+      "name": "Nebula Blink",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116270/4bde8fff224eac1bff20438b01a191655319f4dc/header.jpg?t=1790393801",
+      "url": "https://store.steampowered.com/app/5116270/",
+      "short_description": "",
+      "final_price": 396000
+    },
+    {
+      "name": "Surrounded by Scrunchies",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5228310/f8974839af8c314420f678055569c57fe89b22af/header.jpg?t=1790392905",
+      "url": "https://store.steampowered.com/app/5228310/",
+      "short_description": "",
+      "final_price": 1087000
+    },
+    {
+      "name": "DARK HUNTER KURO",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4150170/ffa93a879ce220bbedecaf4f055a6b2934857647/header.jpg?t=1790391647",
+      "url": "https://store.steampowered.com/app/4150170/",
+      "short_description": "",
+      "final_price": 1530000
+    },
+    {
+      "name": "Stranded with You",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4260270/cc47b8e93897e132294ad3ac9593d592bab708ed/header.jpg?t=1790391557",
+      "url": "https://store.steampowered.com/app/4260270/",
+      "short_description": "",
+      "final_price": 840000
+    },
+    {
+      "name": "Hook Line Ball",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4494410/ea3c209e81f6a7f06bbedade2ca61431a243b888/header.jpg?t=1790391045",
+      "url": "https://store.steampowered.com/app/4494410/",
+      "short_description": "",
+      "final_price": 157000
+    },
+    {
+      "name": "Lexilotl: Crossword Puzzle Run",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4735750/94a5489925a034831d7cb4c9b43141aab0cec5f7/header.jpg?t=1790390399",
+      "url": "https://store.steampowered.com/app/4735750/",
+      "short_description": "",
+      "final_price": 545000
     }
   ]
 }

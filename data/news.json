@@ -1,13 +1,7 @@
 {
-  "updated": "2026-09-25",
+  "updated": "2026-09-26",
   "count": 25,
   "items": [
-    {
-      "source": "Game Developer",
-      "title": "Discord re-introduces age verification policy based on 'account signal' methodology",
-      "url": "https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods",
-      "date": "Wed, 23 Se"
-    },
     {
       "source": "Game Developer",
       "title": "Meta announces new VR glasses that weigh about 100 grams and cost $1,300",
@@ -27,46 +21,76 @@
       "date": "Thu, 24 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Nvidia CEO Doesn\u2019t Care That Kids Are Forgetting Basic Math Because Of AI: \u2018I Actually Don\u2019t Know My Address\u2019",
-      "url": "https://kotaku.com/nvidia-ceo-doesnt-care-that-kids-are-forgetting-basic-math-because-of-ai-i-actually-dont-know-my-address-2000737092",
-      "date": "Thu, 24 Se"
+      "source": "Polygon",
+      "title": "Overwatch Seasonal Hero Releases 'The Right Thing for the Game,' Blizzard Says",
+      "url": "https://www.polygon.com/overwatch-2027-new-heroes-every-season/",
+      "date": "Sat, 26 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Moderator Of Switch Pirates Subreddit To Pay Nintendo $4.5 Million In Piracy Lawsuit",
-      "url": "https://kotaku.com/moderator-of-switch-pirates-subreddit-to-pay-nintendo-4-5-million-in-piracy-lawsuit-2000737079",
-      "date": "Thu, 24 Se"
+      "source": "Polygon",
+      "title": "3 Perfect Calvin and Hobbes Stories From the 1980S That Prove Bill Watterson Is a Genius",
+      "url": "https://www.polygon.com/calvin-hobbes-best-80s-stories/",
+      "date": "Sat, 26 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Star Wars: Galactic Racer Looks To Continue The Best Trend In Star Wars Gaming In Years",
-      "url": "https://kotaku.com/star-wars-galactic-racer-looks-to-continue-the-best-trend-in-star-wars-gaming-in-years-2000736273",
-      "date": "Thu, 24 Se"
+      "source": "Polygon",
+      "title": "'Star Wars' Meets 'Firefly' in this 10/10 Sci-Fi Series That's Free on Streaming Right Now",
+      "url": "https://www.polygon.com/farscape-tubi-free-to-watch-sci-fi-series/",
+      "date": "Sat, 26 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Ubisoft Was Reportedly Working On A Legend Of Zelda Spin-Off Starring Ganondorf",
-      "url": "https://kotaku.com/ubisoft-was-reportedly-working-on-a-legend-of-zelda-spin-off-starring-ganondorf-2000737078",
-      "date": "Thu, 24 Se"
+      "source": "Polygon",
+      "title": "5 Classic Sci-Fi Books That Are Perfect From Start to Finish",
+      "url": "https://www.polygon.com/classic-sci-fi-perfect-start-finish/",
+      "date": "Sat, 26 Se"
     },
     {
-      "source": "Kotaku",
-      "title": "Nobody Talk To Me Until I Finish Building My Perfect Mouse House With Picross Puzzles",
-      "url": "https://kotaku.com/squeakross-home-squeak-home-marios-super-picross-animal-crossing-2000737042",
-      "date": "Thu, 24 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of \"fear\" around the game",
-      "url": "https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter",
-      "date": "Thu, 24 Se"
+      "source": "Polygon",
+      "title": "11 anime to watch if you like Frieren",
+      "url": "https://www.polygon.com/best-anime-like-frieren-to-watch-stream-cozy-fantasy/",
+      "date": "Sat, 26 Se"
     },
     {
       "source": "Eurogamer",
-      "title": "\"It genuinely breaks my heart\"- Confusion and frustration reign as gaming communities react to Xbox's drastic restructuring this week",
-      "url": "https://www.eurogamer.net/community-reaction-xbox-restructuring-rare-ninja-theory-obsidian",
-      "date": "Thu, 24 Se"
+      "title": "US court orders Redditor to pay Nintendo \u00a33.4m over Switch piracy",
+      "url": "https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million",
+      "date": "Sat, 26 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "What we've been playing - \"I curl up on my sofa and breed my army of battle cats\"",
+      "url": "https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats",
+      "date": "Sat, 26 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Delta Force Celebrates Its Second Anniversary with New Season Reorientation",
+      "url": "https://www.ign.com/articles/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation",
+      "date": "Sat, 26 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Marvel's Wolverine Dev Adds Option to Turn Off Controversial Scent Trails and More in New Update",
+      "url": "https://www.ign.com/articles/marvels-wolverine-dev-adds-option-to-turn-off-controversial-scent-trails-and-more-in-new-update",
+      "date": "Sat, 26 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "Chris Hansen Announces His Own Documentary After Watching 'Fever Dream' Primetime and Grades Movie a D",
+      "url": "https://www.ign.com/articles/chris-hansen-announces-his-own-documentary-after-watching-fever-dream-primetime-and-grades-movie-a-d",
+      "date": "Sat, 26 Se"
+    },
+    {
+      "source": "IGN",
+      "title": "How to Play the Silent Hill Games in Order",
+      "url": "https://www.ign.com/articles/silent-hill-games-in-order",
+      "date": "Sat, 26 Se"
+    },
+    {
+      "source": "Game Developer",
+      "title": "GDC Side Quest - Exploring co-development opportunities with Sam Carlisle",
+      "url": "https://www.gamedeveloper.com/production/gdc-side-quest-exploring-co-development-opportunities-with-sam-carlisle",
+      "date": "Fri, 25 Se"
     },
     {
       "source": "Game Developer",
@@ -75,81 +99,57 @@
       "date": "Fri, 25 Se"
     },
     {
-      "source": "Polygon",
-      "title": "6 New October Games That Should Be on Your Steam Wishlist",
-      "url": "https://www.polygon.com/wishlister-september-25/",
+      "source": "Kotaku",
+      "title": "There Are Only Two Things That Money Can\u2019t Buy: True Love, And Homegrown Tomatoes",
+      "url": "https://kotaku.com/only-two-things-money-cant-buy-true-love-and-homegrown-tomatoes-2000737231",
       "date": "Fri, 25 Se"
     },
     {
-      "source": "Polygon",
-      "title": "New Magic Leak Confirms Fully-Foil Spider-Man Commander Deck",
-      "url": "https://www.polygon.com/magic-mtg-spider-man-commander-deck-christmas/",
+      "source": "Kotaku",
+      "title": "Nippon Ichi, NIS America Head Says Company Is \u2018Researching\u2019 AI But Personally Doesn\u2019t Think It Will Make Development Faster",
+      "url": "https://kotaku.com/nippon-ichi-nis-america-head-company-researching-ai-2000737211",
       "date": "Fri, 25 Se"
     },
     {
-      "source": "Polygon",
-      "title": "Fire Emblem: Three Houses Fans Must Play Dietrich in Fortune's Weave",
-      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-play-dietrichs-path/",
+      "source": "Kotaku",
+      "title": "Microsoft CEO On Recent Xbox Layoffs: \u2018There\u2019s Some Amount Of Streamlining Asha Is Doing\u2026Which Is Great To See\u2019",
+      "url": "https://kotaku.com/microsoft-ceo-on-recent-xbox-layoffs-theres-some-amount-of-streamlining-asha-is-doing-which-is-great-to-see-2000737217",
       "date": "Fri, 25 Se"
     },
     {
-      "source": "Polygon",
-      "title": "Saw Creators Return to the Franchise for New Movie from Wrong Turn Director",
-      "url": "https://www.polygon.com/saw-new-movie-reveal-announcement/",
+      "source": "Kotaku",
+      "title": "Disgaea Dev CEO Says Company Is Having \u2018Discussions\u2019 With Sony About The End Of Physical Discs: \u2018I Think That They\u2019re Hearing A Lot Of The Feedback From Customers\u2019",
+      "url": "https://kotaku.com/disgaea-dev-ceo-discussions-sony-physical-discs-2000737194",
       "date": "Fri, 25 Se"
     },
     {
-      "source": "Polygon",
-      "title": "20 Years Later, the Most Inventive Sci-Fi Superhero Series of the Century is Officially Free on Streaming",
-      "url": "https://www.polygon.com/heroes-series-free-streaming-september-2026/",
-      "date": "Fri, 25 Se"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "World of Warcraft: Forever has recaptured the original MMO's magic, something I thought was impossible",
-      "url": "https://www.eurogamer.net/world-of-warcraft-forever-outstanding",
+      "source": "Kotaku",
+      "title": "RuneScape: Dragonwilds Devs Admit Switch 2 Port Looks Bad, Promise Improvements, And Plan To Update Eshop With Accurate Screenshots",
+      "url": "https://kotaku.com/runescape-dragonwilds-devs-admit-switch-2-port-looks-bad-promise-improvements-and-plan-to-update-eshop-with-accurate-screenshots-2000737184",
       "date": "Fri, 25 Se"
     },
     {
       "source": "Eurogamer",
-      "title": "Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?",
-      "url": "https://www.eurogamer.net/sony-playstation-disc-ending-survey-report",
+      "title": "Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is \"very protective\" over its golden goose",
+      "url": "https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda",
       "date": "Fri, 25 Se"
     },
     {
       "source": "Eurogamer",
-      "title": "As Marathon's player slump continues, Bungie announces plans to grow it \"beyond extraction\"",
-      "url": "https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction",
+      "title": "Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops",
+      "url": "https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price",
+      "date": "Fri, 25 Se"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
+      "url": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
       "date": "Fri, 25 Se"
     },
     {
       "source": "IGN",
-      "title": "The Next Halo Game From Halo Studios Was Reportedly Still Years Away, Before Microsoft Handed the Franchise to Activision",
-      "url": "https://www.ign.com/articles/the-next-halo-game-from-halo-studios-was-reportedly-still-years-away-before-microsoft-handed-the-franchise-to-activision",
-      "date": "Fri, 25 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Nintendo Wins $4.5 Million From Reddit Mod Who Sold Pirated Switch Games",
-      "url": "https://www.ign.com/articles/nintendo-wins-45-million-from-reddit-mod-who-sold-pirated-switch-games",
-      "date": "Fri, 25 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Target Restocks Rare Pok\u00e9mon TCG Sets Today, Including 30th Anniversary ETBs and More",
-      "url": "https://www.ign.com/articles/target-pokemon-tcg-restock-30th-anniversary-etb",
-      "date": "Fri, 25 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "Woot's New Sale Includes the Best Switch 2 Console Deal of the Year, But it Expires Today",
-      "url": "https://www.ign.com/articles/woots-fall-in-love-with-video-games-sale-early-prime-day-deals",
-      "date": "Fri, 25 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "'That's Where Doomsday is Born': Avengers Director Discusses Endgame Encore's New Ending That Rewrites Steve Rogers' Story",
-      "url": "https://www.ign.com/articles/thats-where-doomsday-is-born-avengers-director-discusses-endgame-encores-new-ending-that-rewrites-steve-rogers-story",
+      "title": "EA Sports FC 27 Review",
+      "url": "https://www.ign.com/articles/ea-sports-fc-27-review",
       "date": "Fri, 25 Se"
     }
   ]
