@@ -1,126 +1,89 @@
 {
- "as_of": "2026-09-28",
- "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
- "games": [
-  {
-   "rank": 1,
-   "name": "Counter-Strike: Global Offensive",
-   "developer": "Valve",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 1013936,
-   "price": "Free"
-  },
-  {
-   "rank": 2,
-   "name": "PUBG: BATTLEGROUNDS",
-   "developer": "PUBG Corporation",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 314682,
-   "price": "Free"
-  },
-  {
-   "rank": 3,
-   "name": "Rust",
-   "developer": "Facepunch Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 143870,
-   "price": "$19.99"
-  },
-  {
-   "rank": 4,
-   "name": "Apex Legends",
-   "developer": "Respawn",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 124262,
-   "price": "Free"
-  },
-  {
-   "rank": 5,
-   "name": "Wallpaper Engine",
-   "developer": "Wallpaper Engine Team",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 91184,
-   "price": "$4.99"
-  },
-  {
-   "rank": 6,
-   "name": "Grand Theft Auto V Legacy",
-   "developer": "Rockstar North",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67851,
-   "price": "Free"
-  },
-  {
-   "rank": 7,
-   "name": "Call of Duty: Modern Warfare II",
-   "developer": "Treyarch, Raven Software, Beenox, High Moon Studios, Activision Shanghai, Sledgehammer Games, Infinity Ward, Demonware, Toys for Bob",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67419,
-   "price": "$38.49"
-  },
-  {
-   "rank": 8,
-   "name": "NARAKA: BLADEPOINT",
-   "developer": "24 Entertainment",
-   "owners": "10,000,000 - 20,000,000",
-   "ccu": 66954,
-   "price": "Free"
-  },
-  {
-   "rank": 9,
-   "name": "Baldur's Gate 3",
-   "developer": "Larian Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 54771,
-   "price": "$44.99"
-  },
-  {
-   "rank": 10,
-   "name": "HELLDIVERS 2",
-   "developer": "Arrowhead Game Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 53399,
-   "price": "$39.99"
-  },
-  {
-   "rank": 11,
-   "name": "Tom Clancy's Rainbow Six Siege",
-   "developer": "Ubisoft Montreal",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 51847,
-   "price": "$19.99"
-  },
-  {
-   "rank": 12,
-   "name": "Stardew Valley",
-   "developer": "ConcernedApe",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50662,
-   "price": "$14.99"
-  },
-  {
-   "rank": 13,
-   "name": "War Thunder",
-   "developer": "Gaijin Entertainment",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50478,
-   "price": "Free"
-  },
-  {
-   "rank": 14,
-   "name": "Dead by Daylight",
-   "developer": "Behaviour Interactive Inc.",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 44886,
-   "price": "$19.99"
-  },
-  {
-   "rank": 15,
-   "name": "Team Fortress 2",
-   "developer": "Valve",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 43819,
-   "price": "Free"
-  }
- ]
+  "updated": "2026-09-29",
+  "items": [
+    {
+      "name": "TOEM 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2900640/499ae31f4d74c4c41e61058259fca32ccd73c93c/header.jpg?t=1790687051",
+      "url": "https://store.steampowered.com/app/2900640/",
+      "short_description": "",
+      "final_price": 1699
+    },
+    {
+      "name": "Cosmo Cat: A Cozy Desktop Idler",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034300/764f01f98470cc2d760862cc0ed16c12d3136306/header.jpg?t=1790686829",
+      "url": "https://store.steampowered.com/app/5034300/",
+      "short_description": "",
+      "final_price": 269
+    },
+    {
+      "name": "Way of the Hunter 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/89b81de5ed439dcdcfca24611a416c5ddb033c63/header.jpg?t=1790686615",
+      "url": "https://store.steampowered.com/app/2543830/",
+      "short_description": "",
+      "final_price": 3499
+    },
+    {
+      "name": "Fuck This Job",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822520/d3692b1d56515ac902fab1f03f8662b5ced3c26a/header.jpg?t=1790685011",
+      "url": "https://store.steampowered.com/app/4822520/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "MATE THEM ALL",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040980/dd588aa101270ba1d508019ba4ca5f4028ee18c8/header.jpg?t=1790685225",
+      "url": "https://store.steampowered.com/app/5040980/",
+      "short_description": "",
+      "final_price": 266
+    },
+    {
+      "name": "Desktop Fishing Garden",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838830/cb24379bf1727aaf5faf77e79763bfe17eadea26/header.jpg?t=1790679928",
+      "url": "https://store.steampowered.com/app/4838830/",
+      "short_description": "",
+      "final_price": 349
+    },
+    {
+      "name": "Maul Tactics",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433930/ec7bfedae78470de69c95fe6a9ded9ffccc6e6bd/header.jpg?t=1790676453",
+      "url": "https://store.steampowered.com/app/4433930/",
+      "short_description": "",
+      "final_price": 1000
+    },
+    {
+      "name": "Royal - Phoenix Elite Battle Contract",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052500/3ba7d5c71658b61f731d3a1590d23f7d04b38078/header.jpg?t=1790676121",
+      "url": "https://store.steampowered.com/app/5052500/",
+      "short_description": "",
+      "final_price": 714
+    },
+    {
+      "name": "Dieselpunk - Overlord Elite Battle Contract",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052490/64cdd36977919ad260d939fed0b98e1e8354de94/header.jpg?t=1790676110",
+      "url": "https://store.steampowered.com/app/5052490/",
+      "short_description": "",
+      "final_price": 714
+    },
+    {
+      "name": "Royal - Sabertooth Elite Battle Contract",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052510/ee886ac45788ff385fae52436e643c0d816fe02f/header.jpg?t=1790676084",
+      "url": "https://store.steampowered.com/app/5052510/",
+      "short_description": "",
+      "final_price": 714
+    },
+    {
+      "name": "Angel Legion-DLC First Love Glow F",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074750/1cec14530f2e41abedcc2efa792b16599423eac3/header.jpg?t=1790675145",
+      "url": "https://store.steampowered.com/app/5074750/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Slots & Sword & Magic",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556750/4f2abd3ef2a93c29d6fdce98653c55ce6fbfbc34/header.jpg?t=1790672127",
+      "url": "https://store.steampowered.com/app/4556750/",
+      "short_description": "",
+      "final_price": 509
+    }
+  ]
 }
