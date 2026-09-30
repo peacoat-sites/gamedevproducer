@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "items": [
     {
-      "name": "TOEM 2",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2900640/499ae31f4d74c4c41e61058259fca32ccd73c93c/header.jpg?t=1790687051",
-      "url": "https://store.steampowered.com/app/2900640/",
+      "name": "Void Beserk",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4881960/3f2d0222058144ec69060f43719e698822f61558/header.jpg?t=1790769656",
+      "url": "https://store.steampowered.com/app/4881960/",
       "short_description": "",
-      "final_price": 1699
+      "final_price": 899
     },
     {
-      "name": "Cosmo Cat: A Cozy Desktop Idler",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034300/764f01f98470cc2d760862cc0ed16c12d3136306/header.jpg?t=1790686829",
-      "url": "https://store.steampowered.com/app/5034300/",
+      "name": "Snack Factory Together - Prologue",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895330/1bf58a07a19f6a101698b0d8436739f1ff546895/header.jpg?t=1790769494",
+      "url": "https://store.steampowered.com/app/4895330/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "\u25a0\u25a0\u306b\u306a\u3063\u3066\u304f\u308c\u307e\u305b\u3093\u304b\uff1f",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962190/513d712bc79001aa9988bd6c1f43e1c8b6ce63b8/header.jpg?t=1790767649",
+      "url": "https://store.steampowered.com/app/4962190/",
+      "short_description": "",
+      "final_price": 159
+    },
+    {
+      "name": "Creator Shelter",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070220/503d90f36041afc3b41ef0ca3c2d916418939a03/header.jpg?t=1790765661",
+      "url": "https://store.steampowered.com/app/5070220/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Jump Or Drown",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296160/f960e32057fcb22eee2e7455532301e81fccb906/header.jpg?t=1790764589",
+      "url": "https://store.steampowered.com/app/4296160/",
+      "short_description": "",
+      "final_price": 539
+    },
+    {
+      "name": "Eternal Swordsmith",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070640/4cfb0611c48d100c4d902f041b11f5ec5eaa0d68/header.jpg?t=1790762704",
+      "url": "https://store.steampowered.com/app/5070640/",
+      "short_description": "",
+      "final_price": 1104
+    },
+    {
+      "name": "VESSELS: Noiret Mansion",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884960/a883d176f8c4f97ddfb304062487b29a9239762a/header.jpg?t=1790762511",
+      "url": "https://store.steampowered.com/app/4884960/",
+      "short_description": "",
+      "final_price": 424
+    },
+    {
+      "name": "Digging A Hole In Ice With A Chainsaw",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3958210/2ddbceeb0eec5ee1d6aee9ade2a18b16aa89c8fb/header.jpg?t=1790762213",
+      "url": "https://store.steampowered.com/app/3958210/",
+      "short_description": "",
+      "final_price": 299
+    },
+    {
+      "name": "Mahou Shoujo Escape",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230470/b3bf6ac388f598018978391f9c58c3bec9d98f26/header.jpg?t=1790760889",
+      "url": "https://store.steampowered.com/app/3230470/",
+      "short_description": "",
+      "final_price": 239
+    },
+    {
+      "name": "Memory Wastes",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5247380/5e6167c086526a6a02647dfa82b01a2b4c3f7d06/header.jpg?t=1790757779",
+      "url": "https://store.steampowered.com/app/5247380/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Shelfbound",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5255880/e964970a22a20d2b0dbf6752a70e20d2381c9668/header.jpg?t=1790757619",
+      "url": "https://store.steampowered.com/app/5255880/",
       "short_description": "",
       "final_price": 269
     },
     {
-      "name": "Way of the Hunter 2",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2543830/89b81de5ed439dcdcfca24611a416c5ddb033c63/header.jpg?t=1790686615",
-      "url": "https://store.steampowered.com/app/2543830/",
+      "name": "Bonki D Bonk",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596250/df51de27652aac1d7496af1e5e8e3f2f3ce3e59e/header.jpg?t=1790757567",
+      "url": "https://store.steampowered.com/app/4596250/",
       "short_description": "",
-      "final_price": 3499
-    },
-    {
-      "name": "Fuck This Job",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4822520/d3692b1d56515ac902fab1f03f8662b5ced3c26a/header.jpg?t=1790685011",
-      "url": "https://store.steampowered.com/app/4822520/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "MATE THEM ALL",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5040980/dd588aa101270ba1d508019ba4ca5f4028ee18c8/header.jpg?t=1790685225",
-      "url": "https://store.steampowered.com/app/5040980/",
-      "short_description": "",
-      "final_price": 266
-    },
-    {
-      "name": "Desktop Fishing Garden",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4838830/cb24379bf1727aaf5faf77e79763bfe17eadea26/header.jpg?t=1790679928",
-      "url": "https://store.steampowered.com/app/4838830/",
-      "short_description": "",
-      "final_price": 349
-    },
-    {
-      "name": "Maul Tactics",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433930/ec7bfedae78470de69c95fe6a9ded9ffccc6e6bd/header.jpg?t=1790676453",
-      "url": "https://store.steampowered.com/app/4433930/",
-      "short_description": "",
-      "final_price": 1000
-    },
-    {
-      "name": "Royal - Phoenix Elite Battle Contract",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052500/3ba7d5c71658b61f731d3a1590d23f7d04b38078/header.jpg?t=1790676121",
-      "url": "https://store.steampowered.com/app/5052500/",
-      "short_description": "",
-      "final_price": 714
-    },
-    {
-      "name": "Dieselpunk - Overlord Elite Battle Contract",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052490/64cdd36977919ad260d939fed0b98e1e8354de94/header.jpg?t=1790676110",
-      "url": "https://store.steampowered.com/app/5052490/",
-      "short_description": "",
-      "final_price": 714
-    },
-    {
-      "name": "Royal - Sabertooth Elite Battle Contract",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052510/ee886ac45788ff385fae52436e643c0d816fe02f/header.jpg?t=1790676084",
-      "url": "https://store.steampowered.com/app/5052510/",
-      "short_description": "",
-      "final_price": 714
-    },
-    {
-      "name": "Angel Legion-DLC First Love Glow F",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5074750/1cec14530f2e41abedcc2efa792b16599423eac3/header.jpg?t=1790675145",
-      "url": "https://store.steampowered.com/app/5074750/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Slots & Sword & Magic",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4556750/4f2abd3ef2a93c29d6fdce98653c55ce6fbfbc34/header.jpg?t=1790672127",
-      "url": "https://store.steampowered.com/app/4556750/",
-      "short_description": "",
-      "final_price": 509
+      "final_price": 419
     }
   ]
 }
