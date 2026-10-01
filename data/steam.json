@@ -1,89 +1,89 @@
 {
-  "updated": "2026-09-30",
+  "updated": "2026-10-01",
   "items": [
     {
-      "name": "Void Beserk",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4881960/3f2d0222058144ec69060f43719e698822f61558/header.jpg?t=1790769656",
-      "url": "https://store.steampowered.com/app/4881960/",
+      "name": "Corner Miner",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990210/e6d35bb68e2c7027ec698bdf418465df9521dc13/header.jpg?t=1790859888",
+      "url": "https://store.steampowered.com/app/4990210/",
       "short_description": "",
-      "final_price": 899
+      "final_price": 279
     },
     {
-      "name": "Snack Factory Together - Prologue",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4895330/1bf58a07a19f6a101698b0d8436739f1ff546895/header.jpg?t=1790769494",
-      "url": "https://store.steampowered.com/app/4895330/",
+      "name": "So Close",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944470/50eebe1897680c0fec0ec5448cf46ffbebb356d4/header.jpg?t=1790859883",
+      "url": "https://store.steampowered.com/app/4944470/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 587
     },
     {
-      "name": "\u25a0\u25a0\u306b\u306a\u3063\u3066\u304f\u308c\u307e\u305b\u3093\u304b\uff1f",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962190/513d712bc79001aa9988bd6c1f43e1c8b6ce63b8/header.jpg?t=1790767649",
-      "url": "https://store.steampowered.com/app/4962190/",
+      "name": "Cricket Team Manager",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034440/127bedf5ffee6e73c16006863efb29c4186d9360/header.jpg?t=1790858775",
+      "url": "https://store.steampowered.com/app/5034440/",
       "short_description": "",
-      "final_price": 159
+      "final_price": 1499
     },
     {
-      "name": "Creator Shelter",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070220/503d90f36041afc3b41ef0ca3c2d916418939a03/header.jpg?t=1790765661",
-      "url": "https://store.steampowered.com/app/5070220/",
+      "name": "Better Chaos",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138000/471eaa4a0412ea45b74bd08861336641e06e7ddd/header.jpg?t=1790858739",
+      "url": "https://store.steampowered.com/app/5138000/",
       "short_description": "",
-      "final_price": 0
+      "final_price": 359
     },
     {
-      "name": "Jump Or Drown",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4296160/f960e32057fcb22eee2e7455532301e81fccb906/header.jpg?t=1790764589",
-      "url": "https://store.steampowered.com/app/4296160/",
-      "short_description": "",
-      "final_price": 539
-    },
-    {
-      "name": "Eternal Swordsmith",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5070640/4cfb0611c48d100c4d902f041b11f5ec5eaa0d68/header.jpg?t=1790762704",
-      "url": "https://store.steampowered.com/app/5070640/",
-      "short_description": "",
-      "final_price": 1104
-    },
-    {
-      "name": "VESSELS: Noiret Mansion",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884960/a883d176f8c4f97ddfb304062487b29a9239762a/header.jpg?t=1790762511",
-      "url": "https://store.steampowered.com/app/4884960/",
-      "short_description": "",
-      "final_price": 424
-    },
-    {
-      "name": "Digging A Hole In Ice With A Chainsaw",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3958210/2ddbceeb0eec5ee1d6aee9ade2a18b16aa89c8fb/header.jpg?t=1790762213",
-      "url": "https://store.steampowered.com/app/3958210/",
-      "short_description": "",
-      "final_price": 299
-    },
-    {
-      "name": "Mahou Shoujo Escape",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230470/b3bf6ac388f598018978391f9c58c3bec9d98f26/header.jpg?t=1790760889",
-      "url": "https://store.steampowered.com/app/3230470/",
-      "short_description": "",
-      "final_price": 239
-    },
-    {
-      "name": "Memory Wastes",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5247380/5e6167c086526a6a02647dfa82b01a2b4c3f7d06/header.jpg?t=1790757779",
-      "url": "https://store.steampowered.com/app/5247380/",
-      "short_description": "",
-      "final_price": 0
-    },
-    {
-      "name": "Shelfbound",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5255880/e964970a22a20d2b0dbf6752a70e20d2381c9668/header.jpg?t=1790757619",
-      "url": "https://store.steampowered.com/app/5255880/",
+      "name": "Pawsweeper",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094130/f7faced4be0fe0723bbeb83342b1484208b43918/header.jpg?t=1790858640",
+      "url": "https://store.steampowered.com/app/5094130/",
       "short_description": "",
       "final_price": 269
     },
     {
-      "name": "Bonki D Bonk",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4596250/df51de27652aac1d7496af1e5e8e3f2f3ce3e59e/header.jpg?t=1790757567",
-      "url": "https://store.steampowered.com/app/4596250/",
+      "name": "LeadFall",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839790/8ccd7a91388d030fa20fb7111ae00abb093d3785/header.jpg?t=1790856037",
+      "url": "https://store.steampowered.com/app/4839790/",
       "short_description": "",
-      "final_price": 419
+      "final_price": 594
+    },
+    {
+      "name": "Fantasia Sango",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208810/3c4ae9420e11666c6edd3ba48bcf1f6224aef2ae/header.jpg?t=1790854534",
+      "url": "https://store.steampowered.com/app/5208810/",
+      "short_description": "",
+      "final_price": 1079
+    },
+    {
+      "name": "\u65cf\u8b5c",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4600100/a64f35bfdcf3edfb7a3fc6c4bb662145ca1d680a/header.jpg?t=1790854284",
+      "url": "https://store.steampowered.com/app/4600100/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Carry The Count",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311440/bbed37330758e0b6a9fb6cd0c62efb5defae8e43/header.jpg?t=1790856073",
+      "url": "https://store.steampowered.com/app/4311440/",
+      "short_description": "",
+      "final_price": 1349
+    },
+    {
+      "name": "Dreidel I Shall Spin",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363700/e99224d93ff296a23eb68991bbaa4576e9584086/header.jpg?t=1790852239",
+      "url": "https://store.steampowered.com/app/4363700/",
+      "short_description": "",
+      "final_price": 299
+    },
+    {
+      "name": "Rahasya: The Unsolved Mystery",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4351700/679fbbf04445a231d470ba87f2c98946da745f8b/header.jpg?t=1790852228",
+      "url": "https://store.steampowered.com/app/4351700/",
+      "short_description": "",
+      "final_price": 196
+    },
+    {
+      "name": "r u n a w a y s",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4161080/45290c05a973c96c353cefe2f6f9dbf76c2acf76/header.jpg?t=1790850215",
+      "url": "https://store.steampowered.com/app/4161080/",
+      "short_description": "",
+      "final_price": 149
     }
   ]
 }
