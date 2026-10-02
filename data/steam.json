@@ -1,89 +1,89 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "items": [
     {
-      "name": "Corner Miner",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4990210/e6d35bb68e2c7027ec698bdf418465df9521dc13/header.jpg?t=1790859888",
-      "url": "https://store.steampowered.com/app/4990210/",
+      "name": "Wizard Harder Or Get Laid Off",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5184050/703c460dd76ddb2fd214d10931ea91f880337853/header.jpg?t=1790941322",
+      "url": "https://store.steampowered.com/app/5184050/",
       "short_description": "",
-      "final_price": 279
+      "final_price": 999
     },
     {
-      "name": "So Close",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4944470/50eebe1897680c0fec0ec5448cf46ffbebb356d4/header.jpg?t=1790859883",
-      "url": "https://store.steampowered.com/app/4944470/",
-      "short_description": "",
-      "final_price": 587
-    },
-    {
-      "name": "Cricket Team Manager",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5034440/127bedf5ffee6e73c16006863efb29c4186d9360/header.jpg?t=1790858775",
-      "url": "https://store.steampowered.com/app/5034440/",
-      "short_description": "",
-      "final_price": 1499
-    },
-    {
-      "name": "Better Chaos",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5138000/471eaa4a0412ea45b74bd08861336641e06e7ddd/header.jpg?t=1790858739",
-      "url": "https://store.steampowered.com/app/5138000/",
-      "short_description": "",
-      "final_price": 359
-    },
-    {
-      "name": "Pawsweeper",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5094130/f7faced4be0fe0723bbeb83342b1484208b43918/header.jpg?t=1790858640",
-      "url": "https://store.steampowered.com/app/5094130/",
-      "short_description": "",
-      "final_price": 269
-    },
-    {
-      "name": "LeadFall",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4839790/8ccd7a91388d030fa20fb7111ae00abb093d3785/header.jpg?t=1790856037",
-      "url": "https://store.steampowered.com/app/4839790/",
-      "short_description": "",
-      "final_price": 594
-    },
-    {
-      "name": "Fantasia Sango",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5208810/3c4ae9420e11666c6edd3ba48bcf1f6224aef2ae/header.jpg?t=1790854534",
-      "url": "https://store.steampowered.com/app/5208810/",
-      "short_description": "",
-      "final_price": 1079
-    },
-    {
-      "name": "\u65cf\u8b5c",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4600100/a64f35bfdcf3edfb7a3fc6c4bb662145ca1d680a/header.jpg?t=1790854284",
-      "url": "https://store.steampowered.com/app/4600100/",
+      "name": "Unnerving Nightmare",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5227020/01aacc9df7b2533d0f8dcae16402655c17345a8e/header.jpg?t=1790940240",
+      "url": "https://store.steampowered.com/app/5227020/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Carry The Count",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4311440/bbed37330758e0b6a9fb6cd0c62efb5defae8e43/header.jpg?t=1790856073",
-      "url": "https://store.steampowered.com/app/4311440/",
+      "name": "Touhou Meishuugeki (\u6771\u65b9\u660e\u79cb\u5287) ~ Cursed Sweeper and Bewildering Parallel",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5101330/fa033c26049916fd8c46fd77b0fc017dd3369461/header.jpg?t=1790938985",
+      "url": "https://store.steampowered.com/app/5101330/",
       "short_description": "",
-      "final_price": 1349
+      "final_price": 0
     },
     {
-      "name": "Dreidel I Shall Spin",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4363700/e99224d93ff296a23eb68991bbaa4576e9584086/header.jpg?t=1790852239",
-      "url": "https://store.steampowered.com/app/4363700/",
+      "name": "Infinite Museum",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4543490/c577009fe2122efa182cf7423454c725b8ef4b98/header.jpg?t=1790938650",
+      "url": "https://store.steampowered.com/app/4543490/",
       "short_description": "",
-      "final_price": 299
+      "final_price": 359
     },
     {
-      "name": "Rahasya: The Unsolved Mystery",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4351700/679fbbf04445a231d470ba87f2c98946da745f8b/header.jpg?t=1790852228",
-      "url": "https://store.steampowered.com/app/4351700/",
+      "name": "SAVE AMANI",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153280/a2134431d1cccb15a8f0f0d30fb56b0697564d3e/header.jpg?t=1790932561",
+      "url": "https://store.steampowered.com/app/3153280/",
       "short_description": "",
-      "final_price": 196
+      "final_price": 1399
     },
     {
-      "name": "r u n a w a y s",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4161080/45290c05a973c96c353cefe2f6f9dbf76c2acf76/header.jpg?t=1790850215",
-      "url": "https://store.steampowered.com/app/4161080/",
+      "name": "Yakko Tako Royale",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5186240/2ae7b058f8386aab68e87ef540aed42b85c75169/header.jpg?t=1790932401",
+      "url": "https://store.steampowered.com/app/5186240/",
       "short_description": "",
-      "final_price": 149
+      "final_price": 399
+    },
+    {
+      "name": "idle.am - lofi idle mmo",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5233680/994ea28c3fcd41a0e114eb6f50fc70384c0dcca0/header.jpg?t=1790928776",
+      "url": "https://store.steampowered.com/app/5233680/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Puke and Seek",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5118740/6a3a34a1fe565db6bf966938d9d17d180ec886ed/header.jpg?t=1790937827",
+      "url": "https://store.steampowered.com/app/5118740/",
+      "short_description": "",
+      "final_price": 479
+    },
+    {
+      "name": "Wind's Road",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5241100/3251e05eaa0e558adf602e5b2cfdc0a64626e0cb/header.jpg?t=1790926933",
+      "url": "https://store.steampowered.com/app/5241100/",
+      "short_description": "",
+      "final_price": 89
+    },
+    {
+      "name": "HYPERFRAG",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4271950/adb3f8be4519000a8ad7b18af4c3bbfa1a40b6fc/header.jpg?t=1790929756",
+      "url": "https://store.steampowered.com/app/4271950/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "Strip Memory: Milfy Librarians",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117300/301bad73d55054dc076a13a296ca23e0c05772f5/header.jpg?t=1790925824",
+      "url": "https://store.steampowered.com/app/5117300/",
+      "short_description": "",
+      "final_price": 449
+    },
+    {
+      "name": "Monster Nursery",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4819510/e9196f25ee376282ccb8cc59f4361642e80447ea/header.jpg?t=1790924943",
+      "url": "https://store.steampowered.com/app/4819510/",
+      "short_description": "",
+      "final_price": 659
     }
   ]
 }

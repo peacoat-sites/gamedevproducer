@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "count": 25,
   "items": [
     {
@@ -12,12 +12,6 @@
       "source": "Game Developer",
       "title": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
       "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
-      "date": "Wed, 30 Se"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Ex-PlayStation Veteran Says Sony Should Make The PS5 Console Generation Last As Long As Possible: \u2018I Don\u2019t Think Lots Of People Are Asking For More Power\u2019",
-      "url": "https://kotaku.com/ex-playstation-veteran-says-sony-should-make-the-ps5-console-generation-last-as-long-as-possible-i-dont-think-lots-of-people-are-asking-for-more-power-2000738760",
       "date": "Wed, 30 Se"
     },
     {
@@ -34,123 +28,129 @@
     },
     {
       "source": "Game Developer",
-      "title": "Naughty Dog is working on new The Last Of Us 'projects'",
-      "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-      "date": "Tue, 29 Se"
-    },
-    {
-      "source": "IGN",
-      "title": "After 'Crunching Hard' Through Their Final Months, Gears of War: E-Day Developers Are Reportedly Now Expecting Layoffs",
-      "url": "https://www.ign.com/articles/after-crunching-hard-through-their-final-months-gears-of-war-e-day-developers-are-reportedly-now-expecting-layoffs",
-      "date": "Thu, 1 Oct"
-    },
-    {
-      "source": "IGN",
-      "title": "Gears of War: E-Day Missing Classic Features From Original Games",
-      "url": "https://www.ign.com/articles/gears-of-war-e-day-missing-meat-shields",
-      "date": "Thu, 1 Oct"
-    },
-    {
-      "source": "IGN",
-      "title": "East of Eden Review",
-      "url": "https://www.ign.com/articles/east-of-eden-review-netflix-florence-pugh",
-      "date": "Thu, 1 Oct"
-    },
-    {
-      "source": "IGN",
-      "title": "LEGO PlayStation Is Now Available for LEGO Insiders",
-      "url": "https://www.ign.com/articles/lego-playstation-is-now-available-for-lego-insiders",
-      "date": "Thu, 1 Oct"
-    },
-    {
-      "source": "IGN",
-      "title": "\"Extraction is Still a Major Part of Marathon\" \u2013 Marathon Game Director Reassures Fans Main Game Mode Isn't Going Anywhere",
-      "url": "https://www.ign.com/articles/extraction-is-still-a-major-part-of-marathon-marathon-game-director-reassures-fans-main-game-mode-isnt-going-anywhere",
-      "date": "Thu, 1 Oct"
-    },
-    {
-      "source": "Kotaku",
-      "title": "The Gears Of War: E-Day Campaign Is Full Of Highs And Lows",
-      "url": "https://kotaku.com/the-gears-of-war-e-day-campaign-is-full-of-highs-and-lows-2000738923",
+      "title": "'Xbox is not for sale,' CEO Asha Sharma says",
+      "url": "https://www.gamedeveloper.com/business/-xbox-is-not-for-sale-ceo-asha-sharma-says",
       "date": "Thu, 01 Oc"
     },
     {
       "source": "Kotaku",
-      "title": "Reigns, Card Shark Dev Is Closing Down As Leads Go Independent Again: \u2018I Still Have Things That I Can Say\u2019",
-      "url": "https://kotaku.com/reigns-card-shark-dev-closing-down-2000738732",
+      "title": "RAM Maker Celebrates Record Profits And Predicts \u2018Even Higher Prices\u2019 And \u2018Greater Tightness In The Industry\u2019 In The Years Ahead",
+      "url": "https://kotaku.com/ram-maker-celebrates-record-profits-and-predicts-even-higher-prices-and-greater-tightness-in-the-industry-in-the-years-ahead-2000739125",
       "date": "Thu, 01 Oc"
     },
     {
       "source": "Kotaku",
-      "title": "Report: Gears Of War: E-Day Developers Fear For Their Jobs And Bonuses",
-      "url": "https://kotaku.com/gears-of-war-e-day-the-coalition-microsoft-xbox-job-losses-2000738913",
+      "title": "Guillermo del Toro On Trying To Make A BioShock Movie: \u2018Probably One Of The Most Disastrous Calls I\u2019ve Ever Had\u2019",
+      "url": "https://kotaku.com/guillermo-del-toro-on-trying-to-make-a-bioshock-movie-probably-one-of-the-most-disastrous-calls-ive-ever-had-2000739144",
       "date": "Thu, 01 Oc"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar",
+      "url": "https://www.eurogamer.net/aion-2-western-release-steam-player-numbers",
+      "date": "Thu, 01 Oc"
+    },
+    {
+      "source": "IGN",
+      "title": "Kingdom Come: Deliverance Dev Hopes GTA 6 Will Encourage Studios to Charge More for Their Games",
+      "url": "https://www.ign.com/articles/kingdom-come-deliverance-co-founder-gta-6-price",
+      "date": "Fri, 2 Oct"
+    },
+    {
+      "source": "IGN",
+      "title": "Ben Affleck Says There's 'Nobody Alive' Who Believes US Politics is Going Well \u2014 And Explains Why He Won't Personally Run for Office",
+      "url": "https://www.ign.com/articles/ben-affleck-says-theres-nobody-alive-who-believes-us-politics-is-going-well-and-explains-why-he-wont-personally-run-for-office",
+      "date": "Fri, 2 Oct"
+    },
+    {
+      "source": "IGN",
+      "title": "Original Xbox Version of Halo: Combat Evolved Made Available to Play in a Browser",
+      "url": "https://www.ign.com/articles/original-xbox-version-of-halo-combat-evolved-made-available-to-play-in-a-browser",
+      "date": "Fri, 2 Oct"
+    },
+    {
+      "source": "IGN",
+      "title": "Star Wars: Galactic Racer Review",
+      "url": "https://www.ign.com/articles/star-wars-galactic-racer-review",
+      "date": "Fri, 2 Oct"
+    },
+    {
+      "source": "IGN",
+      "title": "'I've Buried It Deep': X-Men Actor Says He Knew Sony's Spider-Man Spinoff Kraven Wasn't 'Going Well' During Filming",
+      "url": "https://www.ign.com/articles/ive-buried-it-deep-x-men-actor-says-he-knew-sonys-spider-man-spinoff-kraven-wasnt-going-well-during-filming",
+      "date": "Fri, 2 Oct"
     },
     {
       "source": "Kotaku",
-      "title": "Giving Sonic A Gun In Fortnite Has Been A Huge Success, With Players Killing Dr. Eggman 14 Million Times",
-      "url": "https://kotaku.com/giving-sonic-a-gun-in-fortnite-has-been-a-huge-success-with-players-killing-dr-eggman-14-million-times-2000737447",
-      "date": "Thu, 01 Oc"
+      "title": "Star Wars: Galactic Racer: The Kotaku Review",
+      "url": "https://kotaku.com/star-wars-galactic-racer-the-kotaku-review-2000739105",
+      "date": "Fri, 02 Oc"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Blizzard Added A Working Torch To WoW: Forever And I Hiked All The Way Across Azeroth To Try To Get It",
+      "url": "https://kotaku.com/blizzard-world-of-warcraft-forever-torch-hike-2000739020",
+      "date": "Fri, 02 Oc"
+    },
+    {
+      "source": "Kotaku",
+      "title": "PUBG Extraction Shooter Canceled Less Than A Year After Getting Revealed",
+      "url": "https://kotaku.com/pubg-extraction-shooter-canceled-less-than-a-year-after-getting-revealed-2000739106",
+      "date": "Fri, 02 Oc"
     },
     {
       "source": "Polygon",
-      "title": "Spider-Noir Star Jokes that the MCU is Becoming a \u2018Glorified WWE\u2019",
-      "url": "https://www.polygon.com/nicolas-cage-marvel-mcu-wwe/",
-      "date": "Thu, 01 Oc"
+      "title": "Star Wars: Galactic Racer is the Best Arcade Racing Game in a Generation",
+      "url": "https://www.polygon.com/star-wars-galactic-racer-review-best-arcade-racing-game-in-a-generation/",
+      "date": "Fri, 02 Oc"
     },
     {
       "source": "Polygon",
-      "title": "Gears of War: E-Day Is Gears at Its Finest, Despite One Huge Flaw | Review",
-      "url": "https://www.polygon.com/gears-of-war-eday-review/",
-      "date": "Thu, 01 Oc"
+      "title": "Evil Dead and Get Out Directors Will Bring Another Internet Horror Sensation to the Big Screen",
+      "url": "https://www.polygon.com/portrait-of-god-movie-deal-chase-infiniti-jordan-peeele-sam-raimi/",
+      "date": "Fri, 02 Oc"
     },
     {
       "source": "Polygon",
-      "title": "'Carrie' Review: Amazon Gives Stephen King's First Book Modern Update You'll Never See Coming",
-      "url": "https://www.polygon.com/carrie-review-amazon-prime-video-mike-flanagan/",
-      "date": "Thu, 01 Oc"
+      "title": "New Pok\u00e9mon Merch Is Literally out of This World",
+      "url": "https://www.polygon.com/new-pokemon-merch-esa-collaboration/",
+      "date": "Fri, 02 Oc"
     },
     {
       "source": "Polygon",
-      "title": "The PUBG Extraction Shooter Has Officially Been Canceled",
-      "url": "https://www.polygon.com/pubg-black-budget-krafton-development-canceled/",
-      "date": "Thu, 01 Oc"
+      "title": "Watch the Disturbing French Horror Classic that Inspired Halloween",
+      "url": "https://www.polygon.com/eyes-without-a-face-best-halloween-horror-movies/",
+      "date": "Fri, 02 Oc"
     },
     {
       "source": "Polygon",
-      "title": "Halloween Has Officially Started in Fortnite as Hollow Knight and More Join the Game",
-      "url": "https://www.polygon.com/fortnite-halloween-event-fortnitemares-update/",
-      "date": "Thu, 01 Oc"
+      "title": "GTA 6 Rating Officially Confirms Sex Will Indeed Be in the Game",
+      "url": "https://www.polygon.com/grand-theft-auto-gta-6-sex-scenes-rating-mature/",
+      "date": "Fri, 02 Oc"
     },
     {
       "source": "Eurogamer",
-      "title": "Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks",
-      "url": "https://www.eurogamer.net/gears-of-war-eday-campaign-review",
-      "date": "Thu, 01 Oc"
+      "title": "Star Wars: Galactic Racer review",
+      "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+      "date": "Fri, 02 Oc"
     },
     {
       "source": "Eurogamer",
-      "title": "Witcher 3 Remastered patch addressing \"various lighting adjustments\" rolls out",
-      "url": "https://www.eurogamer.net/witcher-3-lighting-brightness-patch-remastered",
-      "date": "Thu, 01 Oc"
+      "title": "CD Projekt Red addresses divisive lighting changes in a new Witcher 3 Remastered PC patch",
+      "url": "https://www.eurogamer.net/witcher-3-remastered-lighting-patch-pc",
+      "date": "Fri, 02 Oc"
     },
     {
       "source": "Eurogamer",
-      "title": "Krafton pulls the plug on another PUBG game, Black Budget, less than a year after it was announced",
-      "url": "https://www.eurogamer.net/krafton-pulls-the-plug-on-another-pubg-game-black-budget-less-than-a-year-after-it-was-announced",
-      "date": "Thu, 01 Oc"
+      "title": "Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're \"not gone from the franchise\"",
+      "url": "https://www.eurogamer.net/gears-of-war-eday-missing-features-update",
+      "date": "Fri, 02 Oc"
     },
     {
       "source": "Eurogamer",
-      "title": "New Uncharted game reportedly in the works at Naughty Dog, and it's not a remake",
-      "url": "https://www.eurogamer.net/new-uncharted-game-naughty-dog-report",
-      "date": "Thu, 01 Oc"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Here are our PS Plus monthly games for October 2026",
-      "url": "https://www.eurogamer.net/playstation-ps-plus-games-lineup-october-2026",
-      "date": "Thu, 01 Oc"
+      "title": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei",
+      "url": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
+      "date": "Fri, 02 Oc"
     }
   ]
 }
