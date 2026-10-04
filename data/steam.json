@@ -1,89 +1,89 @@
 {
-  "updated": "2026-10-03",
+  "updated": "2026-10-04",
   "items": [
     {
-      "name": "Intercept Line",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4899730/4e9bf84f7c5a7357634d0061df07d6bff77f8e56/header.jpg?t=1791024079",
-      "url": "https://store.steampowered.com/app/4899730/",
+      "name": "Jolly Roger Jam: Cathraul's Curse",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5235210/12f14464a77e07865f6d218bfb1c1a3bb533448c/header.jpg?t=1791108361",
+      "url": "https://store.steampowered.com/app/5235210/",
+      "short_description": "",
+      "final_price": 1050
+    },
+    {
+      "name": "HEARKEN",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087210/bc3e9168cd35f30bb9a2f6a7e6575e5eba74532e/header.jpg?t=1791103227",
+      "url": "https://store.steampowered.com/app/5087210/",
+      "short_description": "",
+      "final_price": 519
+    },
+    {
+      "name": "Snow War",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585100/97500e1769dca755ff04d143f79a66a95233b7f5/header.jpg?t=1791096223",
+      "url": "https://store.steampowered.com/app/1585100/",
+      "short_description": "",
+      "final_price": 207
+    },
+    {
+      "name": "Hazard Ready",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5261710/2900296a51822cc7a2f6aac8ec19c4acb7efd391/header.jpg?t=1791095446",
+      "url": "https://store.steampowered.com/app/5261710/",
+      "short_description": "",
+      "final_price": 0
+    },
+    {
+      "name": "New Frontier9",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116740/fc14b0dddedba220aa149a43d04ef3133da86316/header.jpg?t=1791091330",
+      "url": "https://store.steampowered.com/app/5116740/",
+      "short_description": "",
+      "final_price": 332
+    },
+    {
+      "name": "Gentle Night",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546070/d8a68c6bee9671bddfb2d7400c355f13f613bf91/header.jpg?t=1791087169",
+      "url": "https://store.steampowered.com/app/4546070/",
       "short_description": "",
       "final_price": 499
     },
     {
-      "name": "Myriad Gambit",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5262940/15c12d5dfd7481cddc800508e0f970934f4d7714/header.jpg?t=1791021225",
-      "url": "https://store.steampowered.com/app/5262940/",
+      "name": "Demon Lord: Clicker",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742110/425194813dc404cdf4c74e4bfe38bdcbf92c7b4d/header.jpg?t=1791064529",
+      "url": "https://store.steampowered.com/app/1742110/",
       "short_description": "",
-      "final_price": 299
+      "final_price": 0
     },
     {
-      "name": "TimoS",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4934110/f0763034c8db128c5102f67b1cc65fcf1cc99575/header.jpg?t=1791015192",
-      "url": "https://store.steampowered.com/app/4934110/",
+      "name": "Take Me in Totality",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117090/94452ae7ce4ea0b1faaea1790c1e7588c7045de9/header.jpg?t=1791050842",
+      "url": "https://store.steampowered.com/app/5117090/",
       "short_description": "",
-      "final_price": 2352
+      "final_price": 431
     },
     {
-      "name": "Soldier Rush",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5113560/c70c72992990ae9327403cdd3df1a63b4a3a360b/header.jpg?t=1791015019",
-      "url": "https://store.steampowered.com/app/5113560/",
+      "name": "Nobody Clocks Out",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5262000/c84de2c60e00c72d0ff8591f357503b979b3ab29/header.jpg?t=1791049571",
+      "url": "https://store.steampowered.com/app/5262000/",
       "short_description": "",
-      "final_price": 479
+      "final_price": 629
     },
     {
-      "name": "The 3AM Convenience Store",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5269520/b4182c9e5af11b22be1a57cc2662d9628d7f3360/header.jpg?t=1791013125",
-      "url": "https://store.steampowered.com/app/5269520/",
+      "name": "Draw Alive: Fish",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006170/1def9a0b5b086e95ba48656c2b00b38c72438fb4/header.jpg?t=1791040897",
+      "url": "https://store.steampowered.com/app/5006170/",
       "short_description": "",
-      "final_price": 269
+      "final_price": 922
     },
     {
-      "name": "LUMESPROUT",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5242800/efa9b8361255ec64636839de164e161a8e9377ca/header.jpg?t=1791011533",
-      "url": "https://store.steampowered.com/app/5242800/",
+      "name": "Keine\u2019s Terakoya: A Schoolhouse in Gensokyo",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679100/e6f456f6c6cda71d340ddffbcdc4d0fd0a4b8af4/header.jpg?t=1791040068",
+      "url": "https://store.steampowered.com/app/3679100/",
       "short_description": "",
-      "final_price": 239
+      "final_price": 1025
     },
     {
-      "name": "Alchemy Master",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5201260/7f176eaf63cd453cc17c5bc4e93482746048cc01/header.jpg?t=1791011277",
-      "url": "https://store.steampowered.com/app/5201260/",
+      "name": "The Webring",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884750/0a366d6adfd0d92f98b42e97643f8e46ddb23317/header.jpg?t=1791035355",
+      "url": "https://store.steampowered.com/app/4884750/",
       "short_description": "",
-      "final_price": 559
-    },
-    {
-      "name": "Dreamspring",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3231480/header.jpg?t=1791005482",
-      "url": "https://store.steampowered.com/app/3231480/",
-      "short_description": "",
-      "final_price": 1259
-    },
-    {
-      "name": "GENERAL IDLER",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3200810/8077e533e144637a40c7c4f989334c8a8655bc69/header.jpg?t=1791010324",
-      "url": "https://store.steampowered.com/app/3200810/",
-      "short_description": "",
-      "final_price": 449
-    },
-    {
-      "name": "SimRace Publisher Studio",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5219510/e382f0bfb71103929ab189f1caf8ac8eae2106f8/header.jpg?t=1791002236",
-      "url": "https://store.steampowered.com/app/5219510/",
-      "short_description": "",
-      "final_price": 2699
-    },
-    {
-      "name": "Tunnel Escape Fates Entwined",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4285110/141ce1d92ad831d9446487bd67e9d96a953c9bbf/header.jpg?t=1790995616",
-      "url": "https://store.steampowered.com/app/4285110/",
-      "short_description": "",
-      "final_price": 1599
-    },
-    {
-      "name": "Spaceman's Luck",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4706030/b704aa1629f8411d33ff78de5d69d81966316eef/header.jpg?t=1790991020",
-      "url": "https://store.steampowered.com/app/4706030/",
-      "short_description": "",
-      "final_price": 699
+      "final_price": 177
     }
   ]
 }
