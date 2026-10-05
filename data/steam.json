@@ -1,89 +1,89 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-05",
   "items": [
     {
-      "name": "Jolly Roger Jam: Cathraul's Curse",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5235210/12f14464a77e07865f6d218bfb1c1a3bb533448c/header.jpg?t=1791108361",
-      "url": "https://store.steampowered.com/app/5235210/",
+      "name": "Ping Ball!",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5218430/bef0db3079623677b3a6cc7a6fc084a54d0b7e54/header.jpg?t=1791206512",
+      "url": "https://store.steampowered.com/app/5218430/",
       "short_description": "",
-      "final_price": 1050
+      "final_price": 751
     },
     {
-      "name": "HEARKEN",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5087210/bc3e9168cd35f30bb9a2f6a7e6575e5eba74532e/header.jpg?t=1791103227",
-      "url": "https://store.steampowered.com/app/5087210/",
+      "name": "Gear Puzzle: the inheritance of grandpa",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114230/header.jpg?t=1791205532",
+      "url": "https://store.steampowered.com/app/1114230/",
       "short_description": "",
-      "final_price": 519
+      "final_price": 1619
     },
     {
-      "name": "Snow War",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585100/97500e1769dca755ff04d143f79a66a95233b7f5/header.jpg?t=1791096223",
-      "url": "https://store.steampowered.com/app/1585100/",
-      "short_description": "",
-      "final_price": 207
-    },
-    {
-      "name": "Hazard Ready",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5261710/2900296a51822cc7a2f6aac8ec19c4acb7efd391/header.jpg?t=1791095446",
-      "url": "https://store.steampowered.com/app/5261710/",
+      "name": "AION 2",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg?t=1791205225",
+      "url": "https://store.steampowered.com/app/3393110/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "New Frontier9",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5116740/fc14b0dddedba220aa149a43d04ef3133da86316/header.jpg?t=1791091330",
-      "url": "https://store.steampowered.com/app/5116740/",
+      "name": "Halloween Trouble 8 Collector's Edition",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5207370/941f9882247dcf0e64b079afb247285eb59eff41/header.jpg?t=1791203953",
+      "url": "https://store.steampowered.com/app/5207370/",
       "short_description": "",
-      "final_price": 332
+      "final_price": 6299
     },
     {
-      "name": "Gentle Night",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4546070/d8a68c6bee9671bddfb2d7400c355f13f613bf91/header.jpg?t=1791087169",
-      "url": "https://store.steampowered.com/app/4546070/",
+      "name": "Demonfall",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453010/79b288f4247e04c921735fba788516d1d6ef1c6d/header.jpg?t=1791205828",
+      "url": "https://store.steampowered.com/app/3453010/",
       "short_description": "",
-      "final_price": 499
+      "final_price": 3849
     },
     {
-      "name": "Demon Lord: Clicker",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1742110/425194813dc404cdf4c74e4bfe38bdcbf92c7b4d/header.jpg?t=1791064529",
-      "url": "https://store.steampowered.com/app/1742110/",
+      "name": "Chefarzt",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5220450/000d903bdb1b6501a2fc5eef9508d28f22b8d6ad/header.jpg?t=1791194875",
+      "url": "https://store.steampowered.com/app/5220450/",
+      "short_description": "",
+      "final_price": 7669
+    },
+    {
+      "name": "\u66d9\u709a\u70bc\u91d1\u6742\u8d27\u94fa",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4246730/9478dbe591989d50896e3bf35264df883ce4c2a5/header.jpg?t=1791193650",
+      "url": "https://store.steampowered.com/app/4246730/",
+      "short_description": "",
+      "final_price": 999
+    },
+    {
+      "name": "The Listener",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4840240/315c5740939f867247fbaaefd46d58e67098f581/header.jpg?t=1791185592",
+      "url": "https://store.steampowered.com/app/4840240/",
       "short_description": "",
       "final_price": 0
     },
     {
-      "name": "Take Me in Totality",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5117090/94452ae7ce4ea0b1faaea1790c1e7588c7045de9/header.jpg?t=1791050842",
-      "url": "https://store.steampowered.com/app/5117090/",
+      "name": "Ancestral Orb",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4928620/4f76096798a38375c3c576dfef1e4e7e10f912ec/header.jpg?t=1791184598",
+      "url": "https://store.steampowered.com/app/4928620/",
       "short_description": "",
-      "final_price": 431
+      "final_price": 1249
     },
     {
-      "name": "Nobody Clocks Out",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5262000/c84de2c60e00c72d0ff8591f357503b979b3ab29/header.jpg?t=1791049571",
-      "url": "https://store.steampowered.com/app/5262000/",
+      "name": "Horror In Santa Land",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5281760/c59b8fea6443c553831f080b52c6b5e6edd8f71e/header.jpg?t=1791183661",
+      "url": "https://store.steampowered.com/app/5281760/",
       "short_description": "",
-      "final_price": 629
+      "final_price": 749
     },
     {
-      "name": "Draw Alive: Fish",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5006170/1def9a0b5b086e95ba48656c2b00b38c72438fb4/header.jpg?t=1791040897",
-      "url": "https://store.steampowered.com/app/5006170/",
+      "name": "MugiPunch",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4617970/4372dcafbc607ee8b2e60ed738f4ef654810b01b/header.jpg?t=1791180460",
+      "url": "https://store.steampowered.com/app/4617970/",
       "short_description": "",
-      "final_price": 922
+      "final_price": 1061
     },
     {
-      "name": "Keine\u2019s Terakoya: A Schoolhouse in Gensokyo",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679100/e6f456f6c6cda71d340ddffbcdc4d0fd0a4b8af4/header.jpg?t=1791040068",
-      "url": "https://store.steampowered.com/app/3679100/",
+      "name": "Jono",
+      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5257200/989e148f3c5a42443b00f9352fbede25a4c99c71/header.jpg?t=1791178997",
+      "url": "https://store.steampowered.com/app/5257200/",
       "short_description": "",
-      "final_price": 1025
-    },
-    {
-      "name": "The Webring",
-      "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4884750/0a366d6adfd0d92f98b42e97643f8e46ddb23317/header.jpg?t=1791035355",
-      "url": "https://store.steampowered.com/app/4884750/",
-      "short_description": "",
-      "final_price": 177
+      "final_price": 0
     }
   ]
 }
