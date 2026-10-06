@@ -1,4 +1,4 @@
-{{- $ev := hugo.Data.steam_events | default dict -}}
+{{- $ev := site.Data.steam_events | default dict -}}
 <div id="gsp" class="gsp" data-events="{{ $ev | jsonify }}">
   <div class="gsp-head">
     <div class="gsp-kicker">Free planning tool</div>
