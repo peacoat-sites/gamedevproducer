@@ -1,24 +1,102 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "count": 25,
   "items": [
     {
-      "source": "Game Developer",
-      "title": "Suda 51's Grasshopper Manufacture splits from NetEase",
-      "url": "https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease",
-      "date": "Wed, 30 Se"
+      "source": "IGN",
+      "title": "Exclusive Warhammer 40,000: Dawn of War 4 Space Marine Screenshots and Interview With Creative Director Jan Theysen",
+      "url": "https://www.ign.com/articles/exclusive-warhammer-40000-dawn-of-war-4-space-marine-screenshots-and-interview-with-creative-director-jan-theysen",
+      "date": "Tue, 6 Oct"
     },
     {
-      "source": "Game Developer",
-      "title": "Ubisoft Montreal employees launch collective action to preserve hybrid work schedule",
-      "url": "https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule",
-      "date": "Wed, 30 Se"
+      "source": "IGN",
+      "title": "Carrie Forever: Every Adaptation of the Stephen King Story and Why You Should Watch Them All (More or Less)",
+      "url": "https://www.ign.com/articles/carrie-forever-every-adaptation-of-the-stephen-king-story",
+      "date": "Tue, 6 Oct"
     },
     {
-      "source": "Game Developer",
-      "title": "Steam's discounts and events tab will soon be fully algorithm-driven",
-      "url": "https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven",
-      "date": "Tue, 29 Se"
+      "source": "IGN",
+      "title": "GTA 5 Made Playable in Browser as AI-Generated Game Chaos Continues",
+      "url": "https://www.ign.com/articles/gta-5-made-playable-in-browser-as-ai-generated-game-chaos-continues",
+      "date": "Tue, 6 Oct"
+    },
+    {
+      "source": "IGN",
+      "title": "Ubisoft Will Reportedly Try Relaunching Watch Dogs: Legion With a Director's Cut",
+      "url": "https://www.ign.com/articles/ubisoft-will-reportedly-try-relaunching-watch-dogs-legion-with-a-directors-cut",
+      "date": "Tue, 6 Oct"
+    },
+    {
+      "source": "IGN",
+      "title": "The Witcher Box Set Is At the Lowest Price We've Seen All Year",
+      "url": "https://www.ign.com/articles/the-witcher-books-on-sale-for-prime-big-deal-days-2026",
+      "date": "Tue, 6 Oct"
+    },
+    {
+      "source": "Kotaku",
+      "title": "Sega Appears To Rule Out Using GenAI For All In-Game Creativity",
+      "url": "https://kotaku.com/sega-genai-ai-crazy-taxi-world-tour-assets-tsuyoshi-saito-interview-2000740914",
+      "date": "Tue, 06 Oc"
+    },
+    {
+      "source": "Polygon",
+      "title": "Final Fantasy 14\u2019s Most Unique Crossover Is Officially Returning This Week",
+      "url": "https://www.polygon.com/final-fantasy-14-fall-guys-crossover-event-dates-rewards/",
+      "date": "Tue, 06 Oc"
+    },
+    {
+      "source": "Polygon",
+      "title": "The Best Xbox Amazon Prime Day Gaming Deals",
+      "url": "https://www.polygon.com/best-xbox-deals-amazon-prime-day-sale-october-2026/",
+      "date": "Tue, 06 Oc"
+    },
+    {
+      "source": "Polygon",
+      "title": "Nintendo's New Switch Sports Is the Best of Wii Sports, Wave Race, and More",
+      "url": "https://www.polygon.com/nintendo-switch-sports-resort-preview-switch-2/",
+      "date": "Tue, 06 Oc"
+    },
+    {
+      "source": "Polygon",
+      "title": "Refurbished PS5 Pros Are Now 50% More Expensive than New Ones at GameStop",
+      "url": "https://www.polygon.com/gamestop-playstation-5-ps5-pro-price-change-preowned-refurbished/",
+      "date": "Tue, 06 Oc"
+    },
+    {
+      "source": "Polygon",
+      "title": "Christopher Nolan\u2019s Greatest Sci-Fi Twist Is Officially Streaming on Netflix",
+      "url": "https://www.polygon.com/christopher-nolan-the-prestige-stream-on-netflix-october-2026/",
+      "date": "Tue, 06 Oc"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Xbox Elite Series 3 controller leaks and appears to offer better analogue sticks, advanced haptics, d-pad choices and more",
+      "url": "https://www.eurogamer.net/xbox-elite-series-3-controller-leak-hall-effect-tmr-sticks-haptics",
+      "date": "Tue, 06 Oc"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "I spent an hour playing Switch Sports Resort and my favourite mini-game involves the Switch 2's least-loved gimmick: mouse controls",
+      "url": "https://www.eurogamer.net/nintendo-switch-sports-resort-gamescom-preview",
+      "date": "Tue, 06 Oc"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Gears of War: E-Day studio finds a way to get more performance from Xbox Series S - one that other Xbox games could probably use",
+      "url": "https://www.eurogamer.net/xbox-series-s-more-power-gears-of-war-e-day-ssd",
+      "date": "Tue, 06 Oc"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes",
+      "url": "https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5",
+      "date": "Tue, 06 Oc"
+    },
+    {
+      "source": "Eurogamer",
+      "title": "Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week",
+      "url": "https://www.eurogamer.net/supermassive-games-layoffs-70",
+      "date": "Tue, 06 Oc"
     },
     {
       "source": "Game Developer",
@@ -27,123 +105,45 @@
       "date": "Thu, 01 Oc"
     },
     {
-      "source": "IGN",
-      "title": "Modder Turns Diablo 2 Resurrected Into a VR Game, But You Probably Can't Play It",
-      "url": "https://www.ign.com/articles/modder-turns-diablo-2-resurrected-into-a-vr-game",
-      "date": "Mon, 5 Oct"
+      "source": "Game Developer",
+      "title": "Arc Raiders and The Finals set for TV and film adaptations from Backrooms co-producer",
+      "url": "https://www.gamedeveloper.com/business/arc-raiders-and-the-finals-set-for-tv-and-film-adaptations-from-backrooms-co-producer",
+      "date": "Mon, 05 Oc"
     },
     {
-      "source": "IGN",
-      "title": "'It\u2019s Incredibly Sad Knowing That We Won\u2019t Get to Finish What We Were Working on' \u2014 Hellblade Staff Bid Farewell to Ninja Theory as Layoffs Begin",
-      "url": "https://www.ign.com/articles/ninja-theory-layoffs",
-      "date": "Mon, 5 Oct"
+      "source": "Game Developer",
+      "title": "Report: Ninja Theory lays off workers after failing to spin off from Xbox",
+      "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
+      "date": "Mon, 05 Oc"
     },
     {
-      "source": "IGN",
-      "title": "3 New Batman LEGO Sets Announced, Including Wall Art of an Iconic Joker Comic Cover",
-      "url": "https://www.ign.com/articles/3-new-batman-lego-sets-announced-including-wall-art-of-an-iconic-joker-comic-cover",
-      "date": "Mon, 5 Oct"
-    },
-    {
-      "source": "IGN",
-      "title": "Avengers Star Anthony Mackie Says He'll Film Secret Wars When He's Done on Broadway Playing Macbeth \u2014 a Run That Lasts Until July 2027",
-      "url": "https://www.ign.com/articles/avengers-star-anthony-mackie-says-hell-film-secret-wars-when-hes-done-on-broadway-playing-macbeth-a-run-that-lasts-until-july-2027",
-      "date": "Mon, 5 Oct"
-    },
-    {
-      "source": "IGN",
-      "title": "Star Wars Zero Company Gets Its First Big Discount at Amazon Ahead of Prime Big Deal Days",
-      "url": "https://www.ign.com/articles/star-wars-zero-company-gets-its-first-big-discount-at-amazon-ahead-of-prime-big-deal-days",
-      "date": "Mon, 5 Oct"
-    },
-    {
-      "source": "Kotaku",
-      "title": "Here\u2019s What Capcom Said About Using Generative AI In The RE Engine: \u2018AI Is Not A Replacement For Humans\u2019",
-      "url": "https://kotaku.com/heres-what-capcom-said-about-using-generative-ai-in-the-re-engine-2000739690",
+      "source": "Game Developer",
+      "title": "Why it's still worth making immersive sims ft. Harvey Smith &amp; Ben Horne",
+      "url": "https://www.gamedeveloper.com/design/why-it-s-still-worth-making-immersive-sims-ft-harvey-smith-ben-horne",
       "date": "Mon, 05 Oc"
     },
     {
       "source": "Kotaku",
-      "title": "Senua Studio Ninja Theory Begins Letting People Go After Two Deals To Save The Studio Fell Through",
-      "url": "https://kotaku.com/senua-studio-ninja-theory-layoffs-consultation-2000739951",
+      "title": "Viral AI-Generated Comedian Steals Jokes And Is Rewarded With Millions Of Views",
+      "url": "https://kotaku.com/viral-ai-generated-comedian-steals-jokes-and-is-rewarded-with-millions-of-views-2000740077",
       "date": "Mon, 05 Oc"
     },
     {
       "source": "Kotaku",
-      "title": "Zelda and Banjo Recompiled Devs Go To War With AI Vibe-Coded \u2018Slopcomps\u2019",
-      "url": "https://kotaku.com/zelda-and-banjo-recompiled-devs-go-to-war-with-ai-vibe-coded-slopcomps-2000739936",
+      "title": "Supermassive Lays Off 70 People Less Than Six Months After Releasing Its New Sci-Fi Horror Game",
+      "url": "https://kotaku.com/supermassive-lays-off-70-people-less-than-six-months-after-releasing-its-new-sci-fi-horror-game-2000740078",
       "date": "Mon, 05 Oc"
     },
     {
       "source": "Kotaku",
-      "title": "Let\u2019s Play Through Kingdom Hearts Together (No, Seriously)",
-      "url": "https://kotaku.com/kingdom-hearts-collection-switch-xbox-ps5-review-recap-2000739938",
+      "title": "Someone Made A Fun Soccer Romhack For Ocarina Of Time And\u2014God Damnit, It\u2019s Vibe-Coded",
+      "url": "https://kotaku.com/ocarina-of-time-romhack-soccerina-of-time-2000740026",
       "date": "Mon, 05 Oc"
     },
     {
       "source": "Kotaku",
-      "title": "Lanterns Season 2 In Early Development And There Are Plenty Of Ways For Hal Jordan To Come Back",
-      "url": "https://kotaku.com/lanterns-season-2-in-early-development-and-there-are-plenty-of-ways-for-hal-jordan-to-come-back-2000739924",
-      "date": "Mon, 05 Oc"
-    },
-    {
-      "source": "Polygon",
-      "title": "New 'Pok\u00e9mon' 30th Anniversary TCG Deal Almost Sounds Too Good To Be True",
-      "url": "https://www.polygon.com/pokemon-30th-anniversary-dollar-general-etb-deal-discount-toys-app/",
-      "date": "Mon, 05 Oc"
-    },
-    {
-      "source": "Polygon",
-      "title": "Magic Is Officially Bringing Back God Packs and Making Major Changes to Booster Packs",
-      "url": "https://www.polygon.com/mtg-god-packs-booster-pack-changes-exclusive/",
-      "date": "Mon, 05 Oc"
-    },
-    {
-      "source": "Polygon",
-      "title": "Steam's Secretly Biggest Driving Game Ever is Coming to PS5 in 2 Weeks",
-      "url": "https://www.polygon.com/beamng-drive-ps5-release-date-steam-driving-simulator/",
-      "date": "Mon, 05 Oc"
-    },
-    {
-      "source": "Polygon",
-      "title": "Disney Makes WandaVision Episodes Free Ahead of Marvel's Next Big Show",
-      "url": "https://www.polygon.com/wandavision-youtube-streaming-free-visionquest/",
-      "date": "Mon, 05 Oc"
-    },
-    {
-      "source": "Polygon",
-      "title": "Pok\u00e9mon Go 'World Space Week 2026' event guide",
-      "url": "https://www.polygon.com/pokemon-go-world-space-week-2026-astronaut-pikachu/",
-      "date": "Mon, 05 Oc"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
-      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
-      "date": "Mon, 05 Oc"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Ninja Theory developers announce they are facing redundancy, as the studio starts laying off staff following widespread Xbox cuts",
-      "url": "https://www.eurogamer.net/ninja-theory-hellblade-developers-layoffs-xbox-cuts",
-      "date": "Mon, 05 Oc"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Sword Sage: Awakening feels like a breezier kind of Soulslike, and it's not just the adorable tea-serving panda that's got me intrigued",
-      "url": "https://www.eurogamer.net/sword-sage-awakening-gamescom-preview",
-      "date": "Mon, 05 Oc"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Dead by Daylight studio is hiring for a triple-A Sci-Fi first-person shooter with \"a high realism bar\"",
-      "url": "https://www.eurogamer.net/dead-by-daylight-behaviour-interactive-triple-a-sci-fi-shooter",
-      "date": "Mon, 05 Oc"
-    },
-    {
-      "source": "Eurogamer",
-      "title": "Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket",
-      "url": "https://www.eurogamer.net/witcher-3-remastered-steam-players-sales",
+      "title": "Gears Of War: E-Day\u2019s New Ballsack Enemy Keeps Kicking My Ass",
+      "url": "https://kotaku.com/gears-of-war-e-days-new-ballsack-enemy-keeps-kicking-my-ass-2000740022",
       "date": "Mon, 05 Oc"
     },
     {
