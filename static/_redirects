@@ -6,6 +6,12 @@
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
 
+# 2026-10-06 duplicate news coverage merged
+/posts/forced-back-to-indie-what-double-fine-and-compulsion-must-do-next/ /posts/what-going-independent-actually-means-for-double-fine-and-compulsion-g/ 301
+/posts/forced-back-to-indie-what-double-fine-and-compulsion-must-do-next /posts/what-going-independent-actually-means-for-double-fine-and-compulsion-g/ 301
+/posts/what-xboxs-reset-memo-means-for-indie-developers/ /posts/what-going-independent-actually-means-for-double-fine-and-compulsion-g/ 301
+/posts/what-xboxs-reset-memo-means-for-indie-developers /posts/what-going-independent-actually-means-for-double-fine-and-compulsion-g/ 301
+
 # thin-category consolidation (2026-07-18, retargeted 2026-10-06 to where those pages now live)
 /categories/engines-and-tools/ /categories/production/ 301
 /categories/game-business/ /categories/budgeting/ 301

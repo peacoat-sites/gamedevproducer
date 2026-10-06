@@ -1,6 +1,7 @@
 ---
 title: "Document Game Systems: A Team Guide to Rules and Mechanics"
 date: 2026-08-04T11:00:40.703185+00:00
+lastmod: 2026-10-06
 draft: false
 description: "Learn how to create clear documentation for game systems that keeps your team aligned on rules, mechanics, and design decisions."
 image: "/img/heroes/6557749.jpg"
@@ -18,7 +19,7 @@ faqs:
   - q: "Who should own system documentation, the designer or the programmer?"
     a: "The designer owns the intent layer; the programmer owns the implementation detail. In practice, the cleanest docs I've seen are co-authored: designer writes intent and behavior spec, programmer adds parameters, formulas, and edge case constraints after implementation. Neither alone produces something useful to both audiences."
   - q: "When is the right time to write documentation during development?"
-    a: "Write intent and behavior during design, before implementation starts. Update the edge cases and parameters layer after implementation, not before. Docs written entirely post-implementation are consistently less accurate because the author is reconstructing decisions rather than recording them. I'd estimate 60-70% fidelity loss, based on watching teams try to reconstruct why design decisions were made six months later."
+    a: "Write intent and behavior during design, before implementation starts. Update the edge cases and parameters layer after implementation, not before. Docs written entirely post-implementation are consistently less accurate because the author is reconstructing decisions rather than recording them, and six months later the reasons behind many decisions are simply gone."
   - q: "What goes in a system doc vs. a design doc?"
     a: "A design doc is forward-looking: it describes what you intend to build and why. A system doc is present-tense: it describes how the thing that exists actually works. Both have value, and they serve different audiences. Your system doc should be updated to match reality after implementation; your design doc can stay as a record of original intent."
   - q: "How do you handle documentation when systems change frequently in early development?"
@@ -55,7 +56,7 @@ Skip layer 1 and your programmers will implement it correctly but wrong. Skip la
 
 I used to think the wiki was the problem. Teams at studios I worked at would swap from Confluence to Notion to a Google Drive folder structure, and the documentation quality wouldn't budge. The format wasn't the issue. The issue was that nobody agreed on what a system doc should contain.
 
-As of August 2026, most mid-sized teams are using Notion or Confluence with some combination of Jira or Shortcut for task tracking. The specific tool matters less than having a template that's actually followed. Here's what I've landed on after iteration across several projects:
+Many mid-sized teams use Notion or Confluence alongside Jira or a similar tracker. The specific tool matters less than having a template that's actually followed. Here's what I've landed on after iteration across several projects:
 
 | System Complexity | Recommended Format | Approximate Doc Length | Update Frequency |
 |---|---|---|---|
@@ -86,7 +87,7 @@ A quick rule I apply: if you're writing "and then" or "unless" more than three t
 
 For state machines specifically, the diagram shows transitions, and prose annotates *why* those transitions exist. Example from a melee combat system I documented last year: the diagram showed the full attack chain state transitions in about twelve nodes. A separate paragraph explained why the "recovery" state existed at all (preventing input-buffer abuse, which wasn't obvious from the diagram alone). Neither piece was sufficient without the other.
 
-**Worked example:** An action RPG combat system had zero documentation beyond the code. A mid-project QA lead spent an estimated 23 days writing bug reports that were actually intended behaviors. After we produced a 1,400-word system doc with a state machine diagram and an explicit "this is not a bug" edge case list, the spurious-bug report rate dropped by about 65% over the following two sprints.
+**Illustration:** picture an action RPG combat system with no documentation beyond the code. A QA lead who joins mid-project spends days filing bug reports against behavior that was actually intended. A short system doc with a state machine diagram and an explicit "this is not a bug" list of edge cases stops most of those reports within a sprint or two.
 
 ## Getting your team to actually write the docs
 
@@ -94,11 +95,11 @@ Nobody wants to do this. That's the honest truth. I've never met a programmer wh
 
 The only thing that works, in my experience, is making documentation a definition-of-done condition for each system, not a separate phase at the end of production. You will not get to "documentation sprint" at the end. It doesn't happen. Not at indie scale, not at AAA scale. The project runs long, the team is exhausted, and the docs are three bullet points written under duress.
 
-**Worked example:** A four-person indie team I consulted with was planning a documentation pass after their beta. I persuaded them to shift: each system got a one-page doc written during design, before implementation. The doc took an average of 47 minutes per system. Total time: about nine hours across thirty systems. Two months later, when they brought in a fifth team member, onboarding to any individual system took under two hours instead of the half-day sessions they'd been expecting. That's not magic. That's nine hours of work paying off immediately.
+**Illustration:** a four-person indie team plans a documentation pass after beta. Instead, each system gets a one-page doc written during design, before implementation, at well under an hour per system. When a fifth team member joins a couple of months later, they can learn any single system from its page in an afternoon instead of needing a walkthrough from its author. A few hours of writing pays off the first time someone new arrives.
 
 The template matters here. A blank page is paralyzing. A template with five labeled sections (Intent, Behavior Overview, Parameters, Edge Cases, Dependencies) takes the decision-making out of it. I've seen teams produce genuinely good docs off a Google Doc template that took twenty minutes to create.
 
-**Worked example:** Mid-sized studio, eleven-person team, switching from a verbal-handoff culture to documented systems during preproduction. First month, compliance with the documentation requirement was about 30%. After the lead producer started doing ten-minute doc reviews in the weekly design sync (not critique, just reading aloud and asking clarifying questions), compliance hit 89% within six weeks. The social accountability loop worked where the deadline alone hadn't.
+**Illustration:** an eleven-person team moving from verbal handoffs to documented systems during pre-production finds that, at first, most docs simply don't get written. What changes it is not a stricter deadline but a ten-minute doc review in the weekly design sync: no critique, just reading a doc aloud and asking clarifying questions. Social accountability works where the deadline alone didn't.
 
 ## Tools worth knowing
 
@@ -106,21 +107,18 @@ A few specific recommendations that are worth the investment, current as of Augu
 
 **Notion** works well for small-to-mid teams who want flexible formatting. The database views let you link system docs to tasks and vice versa. The free tier is fine for a team under five.
 
-**Confluence** is better at scale, integrates more tightly with Jira, and has better permission management. At roughly $5.75 per user per month (Standard tier), it's not expensive for what it does. The search is genuinely better than Notion's for large doc sets.
+**Confluence** is better at scale, integrates more tightly with Jira, and has better permission management. The search is genuinely better than Notion's for large doc sets.
 
-For diagrams, **Miro** and **Lucidchart** are the two I'd pick from. Miro at $10 per user per month is more flexible for collaborative whiteboarding during design; Lucidchart is cleaner for formal state machine diagrams you're embedding in documentation.
+For diagrams, **Miro** and **Lucidchart** are the two I'd pick from. Miro is more flexible for collaborative whiteboarding during design; Lucidchart is cleaner for formal state machine diagrams you're embedding in documentation.
 
-**Game Production Handbook** (edited by Heather Maxwell Chandler, third edition) has a solid chapter on technical documentation practices that's worth reading before you design your team's template. It doesn't over-index on software tools, which is refreshing.
+*The Game Production Handbook* by Heather Maxwell Chandler (third edition) has a solid chapter on technical documentation practices that's worth reading before you design your team's template. It doesn't over-index on software tools, which is refreshing.
 
 For producers who want a deeper take on design documentation specifically, **The Art of [Game Design](/posts/how-to-write-a-game-design-document/)** by Jesse Schell has an underrated section on communicating design intent to teams, which maps directly to the intent layer I described above.
 
 ## Sources
 
-- Game Production Handbook, Heather Maxwell Chandler (ed.), 3rd edition: Industry-standard reference on production practices including documentation workflows and milestone structures.
+- *The Game Production Handbook*, Heather Maxwell Chandler, 3rd edition: Industry-standard reference on production practices including documentation workflows and milestone structures.
 - The Art of Game Design: A Book of Lenses, Jesse Schell: Covers design documentation and communicating intent to cross-discipline teams.
-- International Game Developers Association (IGDA) Game Development Essentials resources: Publicly available guidance on pre-production documentation practices and design documentation standards.
-- Atlassian Team Anywhere Report (2025): Data on remote and hybrid team documentation behavior, including retention rates for documented vs. undocumented knowledge handoffs.
-- Game Developer (formerly Gamasutra) postmortem archive: Recurring references across hundreds of postmortems to documentation failure as a top-five production problem.
 
 ---
 

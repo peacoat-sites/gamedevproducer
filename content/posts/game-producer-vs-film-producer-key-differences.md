@@ -23,7 +23,7 @@ faqs:
    a: "Assuming the schedule is sacred. In film, a shooting schedule is built to be followed. In game development, the schedule is a planning tool that gets revised constantly as technical discoveries surface and design decisions change. Film producers often react to schedule slippage as a crisis. Game producers have to learn to treat it as information and respond with replanning rather than alarm. Related to that: underestimating how long things take in game development is the single most common source of crunch, which is a production failure, not an unavoidable feature of the industry."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You've spent ten years producing indie films. You know how to wrangle a crew, manage a shooting schedule, and sweet-talk a distributor into taking your finished product. Then someone offers you a senior producer role at a mid-sized game studio, and you think: "How different can it be?" 
 
@@ -45,7 +45,7 @@ On a film, the director is king. The producer might shape the vision at a high l
 
 In game development, creative authority is more distributed and more contested. You have a game director or creative director, sure, but you also have a lead designer, a lead engineer, and an art director who each own significant pieces of the product experience. These people don't always agree. And unlike a film set where you can make a decision in the morning and shoot it in the afternoon, a game mechanic decision can ripple through six months of engineering work.
 
-The game producer's job is often to facilitate alignment rather than enforce a top-down decision. That requires a different political skill set entirely. You're mediating between engineering timelines and artistic ambitions constantly, which is a challenge I've written about in more depth in this piece on managing engineers and artists on the same team. Film producers don't typically face that tension at the same depth.
+The game producer's job is often to facilitate alignment rather than enforce a top-down decision. That requires a different political skill set entirely. You're mediating between engineering timelines and artistic ambitions constantly. Film producers don't typically face that tension at the same depth.
 
 ## Budget Structure and Financial Risk Are Structured Differently
 
@@ -69,7 +69,7 @@ Live service games add another layer. Revenue isn't a single theatrical release 
 | Process tools | Standardized across industry | Studio-specific and fragmented |
 | Planning approach | Locked script as north star | Living document, playtesting feedback |
 
-Film production runs on a mature, standardized toolset. Call sheets, production breakdowns, script supervisor reports, an AICP budget format. These have been industry standard for decades. Move between productions and the tools look familiar.
+Film production runs on a mature, standardized toolset. Call sheets, script breakdowns, script supervisor reports, standardized budget templates. These have been industry standard for decades. Move between productions and the tools look familiar.
 
 Game production tooling is more fragmented and studio-specific. Some studios run Jira with custom workflows. Others use Hansoft, Shotgun, or elaborate Notion setups. Agile frameworks like Scrum and Kanban are common but applied inconsistently. Before you assume Scrum is the right choice, it's worth understanding when Kanban actually outperforms Scrum for game teams, because the answer isn't as obvious as most people assume.
 

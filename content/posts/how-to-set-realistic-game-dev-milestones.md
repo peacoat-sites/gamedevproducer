@@ -20,10 +20,10 @@ faqs:
  - q: "How do I handle scope creep in relation to milestones?"
    a: "Scope creep is a milestone problem disguised as a feature problem. The best defense is a change control process, even a simple one. Any new feature or change request that affects a milestone's definition goes through a quick written assessment: what does this add, what does it cost in time, and what do we cut or delay to accommodate it? The answer might be 'nothing, we have the budget.' But the question must always be asked and answered explicitly, not absorbed silently into the schedule."
  - q: "What online resources help with game dev production skills?"
-   a: "A few I regularly recommend: the Game Developers Conference (GDC) Vault has years of production talks available for free or cheap, and the project management content there is specifically game-industry-applicable. Coursera and LinkedIn Learning both have project management courses covering agile and scrum fundamentals that translate well to game dev. Ryan Sumo's writing on game production for small teams is also worth seeking out. And if you want something structured, the Scrum.org Professional Scrum Master certification gives you a rigorous foundation in sprint-based planning that you can ada"
+   a: "A few I regularly recommend: the Game Developers Conference (GDC) Vault has years of production talks available for free or cheap, and the project management content there is specifically game-industry-applicable. Coursera and LinkedIn Learning both have project management courses covering agile and scrum fundamentals that translate well to game dev. And if you want something structured, the Scrum.org Professional Scrum Master certification gives you a rigorous foundation in sprint-based planning that you can ada"
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You sat down on a Sunday with a fresh cup of coffee, opened a spreadsheet, and built out what looked like a perfectly reasonable development schedule. Six months to alpha. Three more to beta. Ship by the holidays. It felt good. Organized. Achievable. Then two months in, you're already three weeks behind, your lead programmer just told you the save system is "more complex than expected," and that holiday launch date is starting to feel like a joke you told at your own expense. If that sounds familiar, you're not alone. I've seen this happen to teams with zero experience and teams with fifteen years of it. The problem almost never starts with laziness or incompetence. It starts with how the milestones were set in the first place.
 
@@ -61,13 +61,13 @@ Start now, even mid-project. Jira, Shortcut (formerly Clubhouse), or a simple Ai
 
 If you're starting fresh with no data, try this heuristic. Take your first instinct on a task, multiply it by 1.5 for work your team has done before, and by 2.5 for genuinely new work. Then add a 15 to 20 percent buffer at the milestone level, not the task level. This sounds aggressive. It's usually still optimistic.
 
-*Ship It* by Jared Richardson and William Gwaltney and *The Art of Agile Development* by James Shore are solid for velocity-based estimation. For games specifically, *Game Development Essentials: Game Project Management* by Jeannie Novak translates these concepts to our industry directly.
+*Ship It* by Jared Richardson and William Gwaltney and *The Art of Agile Development* by James Shore are solid for velocity-based estimation. For games specifically, *Game Development Essentials: Game Project Management* by John Hight and Jeannie Novak translates these concepts to our industry directly.
 
 ## Build in Explicit Risk Reviews at Each Milestone
 
 Most schedules treat risk as something that happens *to* you. Something breaks, something changes, and suddenly you're scrambling. Better is to treat risk as a first-class part of every milestone.
 
-Here's a framework I use with clients:
+Here's a framework that works:
 
 **Step 1: Identify the top three risks for the next milestone.** These are things most likely to blow the timeline. Be specific. "Multiplayer netcode might be harder than expected" is not a risk. "Implementing client-side prediction for the dodge mechanic could add two to four weeks based on initial tests" is a risk.
 

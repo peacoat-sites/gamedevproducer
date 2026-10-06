@@ -1,8 +1,8 @@
 ---
-title: "Game Producer Salary: What Producers Actually Earn Across Studios"
+title: "Game Producer Salary in 2026: Pay by Level and Studio Size"
 date: 2026-05-23T03:51:22.773903+00:00
 draft: false
-description: "Discover how game producer salaries vary by studio size and role. Compare pay ranges from indie to AAA studios and find out what impacts your earning potential."
+description: "What game producers earn in 2026 by level and studio size, from associate to director, with GDC 2025 survey data, why live-service producers earn more, and how to negotiate."
 image: "/img/heroes/27559554.jpg"
 categories: ["role identity"]
 tags: ["game", "producer", "salary", "ranges", "studio"]
@@ -12,7 +12,7 @@ slug: "game-producer-salary-ranges-by-studio-size-and-role"
 affiliate_disclosure: true
 faqs:
  - q: "Is a game producer salary lower than a software PM salary at a similar company size?"
-   a: "Yes, usually. Software PMs at tech companies with 100+ employees routinely earn $130K to $180K at the senior level. Game production at similar-sized studios tops out 20 to 40 percent lower on average. The tradeoff is industry alignment, creative ownership, and in some studios, profit participation tied to titles you actually care about. Whether that tradeoff is worth it is a personal decision, but don't make it blindly."
+   a: "Often, yes. Product and program managers at large tech companies tend to out-earn producers at game studios of a similar size, because most games run on thinner margins than software. The tradeoff is industry alignment, creative ownership, and in some studios, profit participation tied to titles you actually care about. Whether that tradeoff is worth it is a personal decision, but don't make it blindly."
  - q: "Do remote game producer roles pay the same as in-office roles?"
    a: "Increasingly, yes, especially at mid-size and larger studios that went remote-first during the pandemic and stayed there. A few studios still apply geographic pay bands and will offer less for remote workers outside expensive metro areas. Ask explicitly whether the role uses location-based compensation before you get to offer stage."
  - q: "What's the fastest path to higher producer compensation?"
@@ -20,32 +20,30 @@ faqs:
  - q: "Should I disclose my current salary during negotiations?"
    a: "No. In many U.S. states, employers can't legally ask for your salary history. Even where they can, you're not obligated to volunteer it. The relevant number is the market rate for the role you're interviewing for, not what your previous employer decided to pay you."
  - q: "Are game producer bonuses meaningful or mostly on paper?"
-   a: "At AAA publishers with structured bonus programs, they're real and can add $10K to $30K annually. At indie and mid-size studios, discretionary bonuses are less predictable and sometimes disappear when a title underperforms. Ask specifically whether the bonus is tied to company performance, personal performance, or both, and ask what bonuses looked like in the last two or three years. How a company answers that question tells you a lot."
+   a: "At large publishers with structured bonus programs, they are real money and can be a meaningful share of total compensation. At indie and mid-size studios, discretionary bonuses are less predictable and sometimes disappear when a title underperforms. Ask specifically whether the bonus is tied to company performance, personal performance, or both, and ask what bonuses looked like in the last two or three years. How a company answers that question tells you a lot."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-08-12
+lastmod: 2026-10-06
 ---
 You just got an offer for an Associate Producer role and the number feels low. Or you are a Senior Producer watching your LinkedIn fill with job posts that never list a salary. Either way, you are trying to find out what this job actually pays, and almost nobody in games likes to say the number out loud. I have sat on both sides of that table, negotiating my own compensation and making offers to producers I wanted to hire. Here is the real picture, built from public salary data and from what actually happens inside studios.
 
 ## The numbers are all over the place, and that tells you something
 
-Pull "game producer salary" from five sources and you get five different answers.
+Pull "game producer salary" from three sources and you get three very different answers.
 
 | Source | What it measures | Figure |
 |---|---|---|
-| Salary.com | Median base, blended across all studios | ~$56,000 |
-| Glassdoor | Average producer base | ~$74,000 |
-| ZipRecruiter | Average, all-in | ~$124,000 |
-| GDC 2025 Salary Report | Management and Operations (incl. producers), average | $160,000 |
-| Levels.fyi | AAA total comp (base, bonus, equity) | $168,000 to $220,000+ |
+| Glassdoor | Average "game producer" pay, from self-reported salaries | about $74,000 |
+| PayScale | Average "video game producer" base salary, 2026 | about $94,000 |
+| GDC 2025 Salary Report | Average for Management and Operations roles, including producers, US | about $160,000 |
 
-That is a spread of more than eight to one for the same job title. It is not measurement noise. It is the single most important thing to understand about producer pay: the word "Producer" means almost nothing on its own. What you earn is set by three things the averages bury: the size of the studio, the level of the role, and whether the game makes money once or makes money every day it stays live.
+That is a spread of more than two to one for the same job title, and self-reported total compensation at large studios runs higher still. It is not measurement noise. It is the single most important thing to understand about producer pay: the word "Producer" means almost nothing on its own. What you earn is set by three things the averages bury: the size of the studio, the level of the role, and whether the game makes money once or makes money every day it stays live.
 
 The last one is the one people miss.
 
 ## Live service is where the money is, and where producers get paid like directors
 
-The business of games has moved under everyone's feet. In Newzoo's PC and console analysis, add-on revenue, which is mostly games-as-a-service, ran north of 40 percent of PC and console game revenue, and well over half of the revenue from new titles came from games built as a service. A small number of live titles now absorb roughly half of all playtime on each platform. The money is no longer mostly in shipping a box and moving on. It is in games that ship and then keep shipping.
+The business of games has moved under everyone's feet. In Newzoo's PC and console report for 2023, microtransactions and DLC together made up just over 40 percent of PC and console spending in the US and the UK, and just 43 titles accounted for 90 percent of player spending on new games released since January 2022. The top five games alone took 27 percent of all PC and console playtime. The money is no longer mostly in shipping a box and moving on. It is in games that ship and then keep shipping.
 
 That changes who studios pay, and how. A premium, ship-and-done title needs a large production team right up until launch, and then most of that team disperses. A live-service title needs producers permanently. Someone owns the seasonal calendar, the live-ops cadence, the monetization roadmap, and the on-call rotation for when a build breaks in front of millions of players in real time. That is a genuinely different job from steering a game to a gold master, and the people who do it well are scarce.
 
@@ -53,15 +51,15 @@ I run production on a live game, and the shift that surprised me most moving fro
 
 ## Base salary is only part of the paycheck
 
-Every salary aggregator reports base salary. At a large studio, base is maybe 60 to 75 percent of what you actually take home, and the rest is exactly the part a live-service hit inflates.
+Most salary aggregators report base salary. At large public companies, bonus and equity can add a substantial amount on top, and that is exactly the part a live-service hit inflates.
 
-Look at self-reported total compensation on Levels.fyi for producer-adjacent roles at big studios. Program and technical program managers at Riot Games cluster around a $180,000 to $190,000 median in total comp, and Riot's structure stacks a roughly 10 percent annual bonus, which can double, on top of a long-term incentive that starts near 15 percent. Blizzard's technical program managers sit around a $168,000 median and run past $230,000 at the top. When ZipRecruiter says $124,000 and Levels.fyi says $180,000-plus for arguably the same seniority, most of that gap is variable comp riding on a game that keeps earning. Salary surveys cannot see it, which is why they under-report the ceiling every year.
+Self-reported total compensation on Levels.fyi for program and production roles at large game companies regularly sits well above the aggregators' averages, because it includes bonus and equity. When an aggregator and Levels.fyi disagree for the same seniority, most of the gap is variable pay riding on a game that keeps earning. Surveys of base pay cannot see it, which is why they under-report the ceiling.
 
 ## What producers earn by studio tier
 
-Studio tier is the biggest single lever on the base number. The GDC 2025 Game Industry Salary Report puts the average across Management and Operations roles at about $160,000, and the tier split is stark: 85 percent of people at AAA studios earn over $100,000, versus 75 percent at AA studios and only 50 percent at indies.
+Studio tier is the biggest single lever on the base number. The GDC 2025 Game Industry Salary Report, a survey of more than 500 US-based industry workers, puts the average across Management and Operations roles at about $160,000, and the tier split is stark: 85 percent of respondents at AAA studios earned over $100,000, against 75 percent at AA studios and 50 percent at indies.
 
-Here is how that shakes out by level and tier. Treat it as a directional guide, not a contract, and adjust up for expensive metros (LA, Seattle, SF, NYC) and for a strong live-service track record.
+Here is how that shakes out by level and tier. These are GameDevProducer directional estimates, checked against the GDC report and public compensation data. Treat them as a guide, not a contract, and adjust up for expensive metros (LA, Seattle, SF, NYC) and for a strong live-service track record.
 
 | Role | Indie / small | Mid-size (AA) | AAA (total comp) |
 |---|---|---|---|
@@ -94,7 +92,7 @@ Knowing the numbers matters less than knowing how to use them.
 5. Use competing offers plainly, not as threats. "I have a competing offer at X. Is there room to get closer?" is clean and professional.
 6. Know when to stop. Some studios have hard band ceilings. If they have moved as far as they can and it still does not work, that is useful information, not a personal failure.
 
-One piece of context should frame the whole conversation: in the GDC 2025 survey, only about a third of industry professionals felt they were fairly paid. The first number you are quoted is rarely the ceiling.
+One piece of context should frame the whole conversation: in the GDC 2025 survey, only about a third of respondents felt fairly compensated. The first number you are quoted is rarely the ceiling.
 
 ## Tools worth using
 
@@ -107,7 +105,7 @@ For grounding, two books earn their place on a producer's shelf: *The Art of Gam
 - [GDC 2025 Game Industry Salary Report](https://gdconf.com/article/us-game-development-salaries-in-2025-what-our-latest-industry-report-reveals/)
 - [Newzoo PC and Console Gaming Report (revenue and playtime)](https://gameworldobserver.com/2024/04/03/newzoo-pc-console-market-report-revenue-playtime-growth)
 - [Glassdoor: Game Producer salaries](https://www.glassdoor.com/Salaries/game-producer-salary-SRCH_KO0,13.htm)
-- [Levels.fyi: Riot Games program manager compensation](https://www.levels.fyi/companies/riot-games/salaries/program-manager)
-- [ZipRecruiter: Video Game Producer salary](https://www.ziprecruiter.com/Salaries/Video-Game-Producer-Salary)
+- [PayScale: Video Game Producer salary](https://www.payscale.com/research/US/Job=Video_Game_Producer/Salary)
+- [Levels.fyi](https://www.levels.fyi) for self-reported total compensation
 
 Producers are chronically underpaid relative to their actual impact on whether a game ships, ships well, and ships on time. The people around you often do not fully see that work, which means you have to be the one who names its value. Know your number, know how you got to it, and do not apologize for asking.

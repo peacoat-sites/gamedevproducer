@@ -12,7 +12,7 @@ slug: "milestone-deliverable-documents-what-to-include"
 affiliate_disclosure: true
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You're three weeks out from a major milestone review. Your studio lead asks for the deliverable document. You panic slightly because you realize you've never actually written a formal one, and you're not sure what should go in it. You've got spreadsheets, meeting notes, and a general sense of what's been completed, but there's no single source of truth. Sound familiar?
 
@@ -22,7 +22,7 @@ Most producers learn this the hard way. A milestone deliverable document isn't j
 
 A solid milestone deliverable document has four core sections: the executive summary, the scope definition, the acceptance criteria, and the known issues or deferred work. This structure scales from small indie teams to 200-person studios.
 
-The executive summary should be genuinely brief. Maybe 150 to 250 words. State what milestone you're completing, when it's due, which teams are responsible, and the high-level deliverables. This is what your studio director reads before a meeting. Be specific about dates. "End of Q3" is vague. "September 28, 2024" is clear.
+The executive summary should be genuinely brief. Maybe 150 to 250 words. State what milestone you're completing, when it's due, which teams are responsible, and the high-level deliverables. This is what your studio director reads before a meeting. Be specific about dates. "End of Q3" is vague. "September 28" is clear.
 
 The scope section is where you detail exactly what's included in this milestone. That means every feature, system, and piece of content that's supposed to be done. If you're hitting an alpha milestone for a 30-hour RPG, list the opening act completely, name the playable characters, note how many dungeons are included. Break it down by discipline: art deliverables separate from code, audio separate from narrative. You're aiming for a level of detail that someone who wasn't in every meeting can understand what the milestone contains.
 

@@ -23,7 +23,7 @@ faqs:
    a: "Genuinely yes, and this is underused. Walking into a publisher milestone review with a current risk register shows professional rigor. It also gives you a structured way to surface risks that need publisher input, like platform certification strategy or marketing timeline dependencies, without it feeling like you're delivering bad news."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 Most game projects don't fail because of bad ideas. They fail because nobody wrote down the thing everyone quietly worried about in week two. I've sat in postmortems where the team collectively remembers the exact moment they knew the dependency on a third-party SDK was going to blow up the milestone, and nobody escalated it. It lived in someone's head. That's not a communication problem. That's a risk management problem, and a risk register is the tool that solves it.
 
@@ -73,7 +73,7 @@ Generic project management templates don't account for how games actually break.
 
 ## How to Build Your Register in a Working Session
 
-Don't build this alone. A risk register written by the producer in isolation is 40% less useful than one built in a focused team session. Here's a process that actually works:
+Don't build this alone. A risk register written by the producer in isolation misses the risks only the people doing the work can see. Here's a process that actually works:
 
 1. Block 90 minutes with your leads (design, engineering, art, audio, production).
 2. Give everyone five minutes of silent writing first. Each person writes their top five worries on sticky notes or a shared doc.
@@ -100,7 +100,7 @@ Don't let the register bloat forever. If you're adding risks but never closing t
 
 For the register itself, **Notion** with a filtered database view is my recommendation for indie and mid-size teams. You can link risks directly to sprint tasks, which creates useful traceability. **Airtable** works similarly. For teams already inside Jira, the Confluence marketplace has risk register templates that integrate cleanly.
 
-If you want to go deeper on the production methodology behind all of this, Heather Maxwell Chandler's *The Game Production Toolbox* is the most practical book I've found on applied production methods for games specifically. For online learning, the Game Production certificate programs through Coursera's industry partners and the IGDA Foundation have solid modules on risk management. Clinton Keith's *Agile Game Development* also covers risk framing in a way that's actually adapted for creative iteration cycles, not just software engineering contexts.
+If you want to go deeper on the production methodology behind all of this, Heather Maxwell Chandler's *The Game Production Toolbox* is the most practical book I've found on applied production methods for games specifically. Clinton Keith's *Agile Game Development* also covers risk framing in a way that's actually adapted for creative iteration cycles, not just software engineering contexts.
 
 The best risk registers I've ever seen weren't the most elaborate ones. They were the ones the team actually read. Start simple, review consistently, and use the postmortem from your last project to seed the register for your next one. The risks that killed your last schedule are almost always lurking in your next one, just wearing different names.
 
