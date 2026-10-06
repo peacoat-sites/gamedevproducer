@@ -52,9 +52,9 @@ Most Associates make the same mistake: they try to act like a full Producer too 
 
 Spend time with your team's technical people. Ask an engineer why a feature took three weeks instead of two. Sit with artists and understand their tools, constraints, and estimation logic. This isn't about schmoozing. You're training your instincts. Eventually you'll look at a schedule and feel when something's wrong before the data confirms it.
 
-[Find a mentor](/posts/associate-producer-to-producer-how-to-level-up/). Ideally your direct manager or another Senior Producer at your studio. Have real conversations about what you're learning. Ask for feedback on your first risk assessments, your first difficult team conversation, your first missed date. Feedback loops accelerate you way faster than just clocking time.
+Find a mentor. Ideally your direct manager or another Senior Producer at your studio. Have real conversations about what you're learning. Ask for feedback on your first risk assessments, your first difficult team conversation, your first missed date. Feedback loops accelerate you way faster than just clocking time.
 
-Here's something practical: [build a production toolkit now](/posts/game-producer-tools-and-software-for-project-management/). Tools like Jira, Monday.com, or Asana become extensions of your thinking. Whatever your studio uses, get fluent early. Learn the automation. Build templates. It seems boring, but fluency here saves you dozens of hours a month once you're running bigger projects.
+Here's something practical: [build a production toolkit now](/posts/best-project-management-tools-for-game-studios/). Tools like Jira, Monday.com, or Asana become extensions of your thinking. Whatever your studio uses, get fluent early. Learn the automation. Build templates. It seems boring, but fluency here saves you dozens of hours a month once you're running bigger projects.
 
 ## Senior Associate to Coordinator: The 2-3 Year Inflection
 
@@ -93,6 +93,18 @@ The skills that got you to Senior Producer don't fully translate here. You need 
 You'll likely need to move studios at least once, or you'll need an opening created by someone leaving. Senior Producer is a level where many people stay long-term. Director positions are rarer. You might apply externally. You might wait for timing at your current studio. You might discover that Senior Producer is actually where you want to stay indefinitely, which is completely fine.
 
 The jump from Senior to Director is also where many producers hit a wall. You're asked to care about company politics, shareholder value, and hiring in ways you never had to before. Some thrive in that environment. Others realize they prefer hands-on production work and choose to stay senior indefinitely.
+
+## Moving from associate producer to producer
+
+The first promotion is the one people most often wait for instead of working toward. The step from associate producer to producer is a shift from executing plans to making them, and five habits show you are ready:
+
+- **Propose plans, don't just track them.** Draft the schedule and scope for a feature yourself, then bring it to your producer for critique.
+- **Read the budget and schedule as business documents.** Understand burn rate and the cost of a slip; ask to shadow budget reviews.
+- **Build relationships beyond your team.** Leads in other disciplines, and the people your producer reports to.
+- **Own a failure clearly.** Say what happened, what you changed and how you would catch it earlier next time.
+- **Keep a record of your scope and impact.** A running log of features you scoped, risks you caught early and processes you improved, with numbers where you have them, is your promotion case.
+
+Titles vary between studios, so compare responsibilities rather than job names when you weigh an internal promotion against an external move.
 
 ## Acceleration Tactics: What Actually Works
 

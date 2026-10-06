@@ -44,7 +44,7 @@ Put your shipped titles in a dedicated section near the top, before your full wo
 
 **Title** | Studio | Platform | Year | Role | (approximate) Player Count or Units Sold if public
 
-You're probably thinking "but what if the numbers aren't public?" Use whatever you legitimately know. Internal metrics you have access to are fine. "Shipped to 1.4M installs on iOS/Android" is real. "Contributing to a franchise with $200M lifetime revenue" is real if you can verify it. Don't invent numbers. You'd be surprised how often [hiring managers](/posts/game-producer-portfolio-what-to-show-hiring-managers/) know the actual figures and will notice a discrepancy.
+You're probably thinking "but what if the numbers aren't public?" Use whatever you legitimately know. Internal metrics you have access to are fine. "Shipped to 1.4M installs on iOS/Android" is real. "Contributing to a franchise with $200M lifetime revenue" is real if you can verify it. Don't invent numbers. You'd be surprised how often [hiring managers](/posts/portfolio-tips-for-aspiring-game-producers/) know the actual figures and will notice a discrepancy.
 
 Hiring teams respond strongly to this section when it is done well. A clean, specific shipped-titles section can move a candidate up a shortlist on its own, because most candidates bury their credits in work history bullets that take digging to find.
 
@@ -92,6 +92,10 @@ Indie: here's where the generalist stuff actually helps you. Show range. Localiz
 
 If you are moving from a large studio to an indie, reframe rather than rewrite. Lead with the moments where you made calls without much support structure, managed vendors with little oversight, or shipped features against ambiguous requirements, rather than with methodology and sprint metrics.
 
+## Make your LinkedIn match
+
+Your resume will not travel alone: hiring managers look candidates up. Make your LinkedIn titles and dates match your resume exactly, because inconsistencies read as a red flag. Use the Featured section for something tangible, such as a shipped game's store page, a postmortem you wrote or a talk you gave. If you have nothing to link yet, write a short postmortem of a game jam or personal project; showing you can think clearly in writing goes a long way.
+
 ## Tools Worth Knowing About
 
 For building and managing the actual document, nothing fancy is needed. Google Docs or Microsoft Word is fine. If you want clean PDF formatting without thinking too hard about it, Canva's resume templates are actually decent as long as you stick to single-column.
@@ -104,7 +108,7 @@ List the specific tools you have used in a short skills line, such as Jira, Conf
 
 ## Related reading
 
-- [Game producer portfolio: what to show hiring managers](/posts/game-producer-portfolio-what-to-show-hiring-managers/)
+- [Game producer portfolio: what to show hiring managers](/posts/portfolio-tips-for-aspiring-game-producers/)
 - [Game producer salary ranges by studio size and role](/posts/game-producer-salary-ranges-by-studio-size-and-role/)
 - [The game producer career path](/posts/game-producer-career-path-from-associate-to-executive/)
 

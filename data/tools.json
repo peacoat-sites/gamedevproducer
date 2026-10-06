@@ -10,7 +10,8 @@
       "demo",
       "marketing"
     ],
-    "desc": "Project your launch-week sales and revenue from your Steam wishlist count."
+    "desc": "Project first-week, first-month and first-year Steam sales from your wishlists, using published conversion benchmarks.",
+    "group": "Steam and launch"
   },
   {
     "label": "Schedule & Milestone Planner",
@@ -30,7 +31,8 @@
       "deadline",
       "crunch"
     ],
-    "desc": "Turn a launch or start date into phases, milestones, cert and Steam deadlines, with a protected buffer. Export to your calendar."
+    "desc": "Turn a launch or start date into phases, milestones, cert and Steam deadlines, with a protected buffer. Export to your calendar.",
+    "group": "Planning and scheduling"
   },
   {
     "label": "Steam Sale & Next Fest Calendar",
@@ -45,7 +47,8 @@
       "publishing",
       "launch"
     ],
-    "desc": "Every Steam sale, Next Fest and deadline for 2026 and 2027, plus a checker for when your game can discount."
+    "desc": "Every Steam sale, Next Fest and deadline for 2026 and 2027, plus a checker for when your game can discount.",
+    "group": "Steam and launch"
   },
   {
     "label": "Console Cert Checklist",
@@ -61,7 +64,8 @@
       "porting",
       "platform"
     ],
-    "desc": "An interactive pre-certification checklist covering the areas every console platform tests."
+    "desc": "An interactive pre-certification checklist covering the areas every console platform tests.",
+    "group": "Steam and launch"
   },
   {
     "label": "Game Dev Grants Database",
@@ -75,7 +79,8 @@
       "financing",
       "investor"
     ],
-    "desc": "22 verified grants, tax credits and rebates for game studios, filterable by region, type and stage."
+    "desc": "22 verified grants, tax credits and rebates for game studios, filterable by region, type and stage.",
+    "group": "Budget, revenue and funding"
   },
   {
     "label": "Producer Interview Question Bank",
@@ -89,7 +94,8 @@
       "producer role",
       "portfolio"
     ],
-    "desc": "40 game producer interview questions with what each one tests, strong-answer guides, red flags and a timed practice mode."
+    "desc": "40 game producer interview questions with what each one tests, strong-answer guides, red flags and a timed practice mode.",
+    "group": "Careers"
   },
   {
     "label": "Indie Game Budget Calculator",
@@ -102,7 +108,8 @@
       "estimate",
       "runway"
     ],
-    "desc": "Estimate the real budget and timeline to ship your indie game, including the costs teams forget."
+    "desc": "Estimate the real budget and timeline to ship your indie game, including the costs teams forget.",
+    "group": "Budget, revenue and funding"
   },
   {
     "label": "Steam Revenue Calculator",
@@ -115,7 +122,8 @@
       "steam cut",
       "how much money"
     ],
-    "desc": "Estimate what your game actually earns on Steam after Valve's cut, refunds, taxes and splits."
+    "desc": "Estimate Steam sales and revenue before launch from wishlists, or after launch from your review count.",
+    "group": "Budget, revenue and funding"
   },
   {
     "label": "Revenue Share Calculator",
@@ -128,7 +136,8 @@
       "split",
       "contract"
     ],
-    "desc": "Work out fair revenue splits for contractors, partners and small teams."
+    "desc": "Work out fair revenue splits for contractors, partners and small teams.",
+    "group": "Budget, revenue and funding"
   },
   {
     "label": "Game Engine Comparison",
@@ -141,7 +150,8 @@
       "godot",
       "engines and tools"
     ],
-    "desc": "Compare 12 game engines by language, 2D/3D focus, pricing, royalties and difficulty."
+    "desc": "Compare 12 game engines by language, 2D/3D focus, pricing, royalties and difficulty.",
+    "group": "Engines and industry data"
   },
   {
     "label": "Steam Top 15 Tracker",
@@ -154,6 +164,7 @@
       "players",
       "market"
     ],
-    "desc": "This week's most-played games on Steam, with owners, concurrents and pricing."
+    "desc": "This week's most-played games on Steam, with owners, concurrents and pricing.",
+    "group": "Engines and industry data"
   }
 ]

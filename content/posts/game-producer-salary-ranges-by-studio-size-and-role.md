@@ -81,6 +81,16 @@ Live-ops producers, as above, are the other one, and increasingly the better pai
 
 Localization and QA producers tend to sit lower on the band. The work is valuable, but it reads to studios as process management rather than creative or technical production, and the path up usually runs through visibly expanding scope.
 
+## How to research your own number
+
+No single source is enough, so combine three kinds:
+
+- **Published surveys.** The GDC Game Industry Salary Report is specific to games, though its sample is smaller than the big salary sites.
+- **Job postings.** Several US states, including California, Colorado, Washington and New York, require pay ranges in job postings, which makes postings the most current market data you can get for a specific role.
+- **Self-reported data.** Glassdoor and Levels.fyi, the latter strongest for large companies with bonus and equity.
+
+Then talk to people. Producers in your network will often share their level and range if you ask directly and offer the same in return. Keep a simple sheet of every data point and offer as you collect them; knowing your market takes active work, not one search.
+
 ## How to actually negotiate producer compensation
 
 Knowing the numbers matters less than knowing how to use them.

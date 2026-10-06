@@ -1,0 +1,34 @@
+{{- $tools := site.Data.tools -}}
+{{- if $tools -}}
+{{- $order := slice "Planning and scheduling" "Budget, revenue and funding" "Steam and launch" "Careers" "Engines and industry data" -}}
+<div class="th">
+  {{- range $g := $order }}
+  {{- $items := where $tools "group" $g }}
+  {{- if $items }}
+  <section class="th-group">
+    <h2 id="{{ $g | anchorize }}">{{ $g }}</h2>
+    <div class="th-grid">
+      {{- range $items }}
+      <a class="th-card" href="{{ .url }}">
+        <span class="th-ic" aria-hidden="true">{{ .icon }}</span>
+        <span class="th-title">{{ .label }}</span>
+        <span class="th-desc">{{ .desc }}</span>
+        <span class="th-go">Open tool &rarr;</span>
+      </a>
+      {{- end }}
+    </div>
+  </section>
+  {{- end }}
+  {{- end }}
+</div>
+<style>
+.th-group{margin:30px 0 8px}
+.th-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px}
+.th a.th-card{display:flex;flex-direction:column;gap:6px;padding:16px 18px;border:1px solid var(--border,#e7e5e4);border-radius:12px;background:var(--surface,#fff);text-decoration:none;color:inherit;transition:border-color .15s,transform .15s}
+.th a.th-card:hover{border-color:var(--accent,#4338ca);transform:translateY(-1px);text-decoration:none}
+.th-ic{font-size:1.5rem;line-height:1}
+.th-title{font-weight:700;color:var(--heading,#1e293b);font-size:1rem}
+.th-desc{font-size:.86rem;color:var(--muted,#64748b);line-height:1.5;flex:1}
+.th-go{font-size:.82rem;font-weight:700;color:var(--accent,#4338ca)}
+</style>
+{{- end -}}

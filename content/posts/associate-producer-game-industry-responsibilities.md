@@ -68,6 +68,9 @@ The last one deserves detail. A fast way to damage your relationship with an eng
 
 Two habits compound. First, make risk discussable: a short weekly review where leads can say "this is in trouble" without it feeling like a performance review surfaces problems while they are still cheap. A [risk register](/posts/risk-register-template-for-game-development/) gives that conversation a structure. Second, treat every phase you touch as a case study. During certification prep, note why things failed and what fixed them. During bug triage, notice how your QA lead decides what is a P1 versus a P2. You are building the judgment that eventually lets you see problems before they reach the tracker.
 
+
+{{< download file="/downloads/game-production-status-report-template.docx" title="Weekly production status report template" desc="One-page Word template: headline, defined on-track, at-risk and off-track statuses, milestone progress, decisions needed, top risks and next week." format="Word (.docx)" >}}
+
 ## Tools and reading
 
 Jira remains the default at mid-size and large studios, Notion is common at smaller ones, and Autodesk Flow Production Tracking (formerly ShotGrid) is widespread where asset pipelines are heavy. Fluency in all three makes you more hireable.
@@ -76,6 +79,6 @@ Three books earn their place: *The Art of Game Design* by Jesse Schell for desig
 
 ## What comes next
 
-The step from AP to producer comes when you can run a process end to end, own a milestone, and represent your team's risks to leadership without being prompted. For what that transition involves, read [associate producer to producer: how to level up](/posts/associate-producer-to-producer-how-to-level-up/), and for the long view, [the game producer career path from associate to executive](/posts/game-producer-career-path-from-associate-to-executive/).
+The step from AP to producer comes when you can run a process end to end, own a milestone, and represent your team's risks to leadership without being prompted. For what that transition involves, read [associate producer to producer: how to level up](/posts/game-producer-career-path-from-associate-to-executive/), and for the long view, [the game producer career path from associate to executive](/posts/game-producer-career-path-from-associate-to-executive/).
 
 *Photo: [Karol D](https://www.pexels.com/@karoldach) via Pexels*

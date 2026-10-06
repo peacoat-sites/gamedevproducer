@@ -36,6 +36,8 @@ Here's why that distinction matters: lots of producers create milestone document
 
 The funding model changes the stakes. Publisher-funded projects often have contractual milestones tied to payment tranches, which adds legal teeth to every deliverable. Indie projects have more flexibility but less external accountability. That means milestone documents serve different functions, but they're equally critical either way, they force the hard conversations before the deadline, not during it.
 
+{{< download file="/downloads/game-milestone-document-template.docx" title="Milestone definition document template" desc="Word template for a single milestone: plain-language description, deliverables with acceptance criteria, exit criteria, out of scope, dependencies and sign-off." format="Word (.docx)" >}}
+
 ## The Core Components Every Milestone Document Needs
 
 When I started pulling apart successful milestone documents from shipped projects, I noticed something: the structure was consistent across wildly different genres and team sizes. Here's what the good ones always had.

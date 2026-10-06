@@ -72,7 +72,7 @@ Ask things like:
 
 - "What's the current state of the schedule on the project I'd be joining?" (If there's hesitation, that's information.)
 - "What does a producer here own versus what's driven by directors?" (Scope of ownership varies wildly between studios.)
-- "What happened to the producer who had this role before me?" (You'd be surprised how often this gets answered honestly, and [what it reveals.](/posts/game-producer-salary-guide-explained/))
+- "What happened to the producer who had this role before me?" (You'd be surprised how often this gets answered honestly, and [what it reveals.](/posts/game-producer-salary-ranges-by-studio-size-and-role/))
 - "How does the studio handle crunch? What was the actual crunch pattern on the last shipped title?" (This is not a trick question. Studios that crunch badly know they crunch badly. The honest ones will tell you.)
 
 The last question especially. An evasive answer to it is a real warning sign.

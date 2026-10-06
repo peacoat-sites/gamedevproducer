@@ -1,0 +1,21 @@
+{{- $f := .Get "file" -}}
+<aside class="dl-card" aria-label="Free download">
+  <div class="dl-ic" aria-hidden="true">{{ .Get "icon" | default "&#11015;&#65039;" | safeHTML }}</div>
+  <div class="dl-main">
+    <span class="dl-kicker">Free template</span>
+    <div class="dl-title">{{ .Get "title" }}</div>
+    <p class="dl-sub">{{ .Get "desc" }}</p>
+  </div>
+  <a class="dl-cta" href="{{ $f }}" download>Download {{ .Get "format" }}</a>
+</aside>
+<style>
+.dl-card{display:flex;align-items:center;gap:16px;margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid #16a34a;border-radius:12px;background:var(--surface2,#f8fafc)}
+.dl-ic{font-size:1.8rem;line-height:1;flex-shrink:0}
+.dl-main{flex:1;min-width:0}
+.dl-kicker{font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#166534}
+.dl-title{font-size:1.08rem;font-weight:700;margin:2px 0 3px;color:var(--heading,#1e293b)}
+.dl-sub{font-size:.85rem;color:var(--muted,#64748b);margin:0;line-height:1.5}
+.dl-card a.dl-cta{flex-shrink:0;display:inline-block;padding:10px 16px;border-radius:8px;background:#16a34a;color:#fff;font-size:.85rem;font-weight:700;text-decoration:none;white-space:nowrap}
+.dl-card a.dl-cta:visited,.dl-card a.dl-cta:hover{color:#fff;text-decoration:none}
+@media(max-width:560px){.dl-card{flex-wrap:wrap}.dl-card a.dl-cta{width:100%;text-align:center}}
+</style>

@@ -1,8 +1,8 @@
 ---
-title: "Track Every Game Dev Risk: The Template You Need"
+title: "Game Risk Register Template: Free Excel Download and How to Use It"
 date: 2026-05-23T09:32:32.667926+00:00
 draft: false
-description: "Plan, track, and mitigate project risks with a risk register template built for game development. Protect your timeline, budget, and launch with confidence."
+description: "A free Excel risk register template for game development, with probability and impact scoring, a heat map and example risks, plus how to build and review the register with your team."
 image: "/img/heroes/8171198.jpg"
 categories: ["pm frameworks"]
 tags: ["risk", "register", "template", "game", "development"]
@@ -28,6 +28,8 @@ lastmod: 2026-10-06
 Most game projects don't fail because of bad ideas. They fail because nobody wrote down the thing everyone quietly worried about in week two. I've sat in postmortems where the team collectively remembers the exact moment they knew the dependency on a third-party SDK was going to blow up the milestone, and nobody escalated it. It lived in someone's head. That's not a communication problem. That's a risk management problem, and a risk register is the tool that solves it.
 
 Here's what surprised me when I started taking risk registers seriously: most game teams either skip them entirely or build one in week one and never open it again. Neither approach works. A risk register isn't a document. It's a living habit.
+
+{{< download file="/downloads/game-risk-register-template.xlsx" title="Game risk register template" desc="Excel template with probability and impact scoring, automatic ratings, a risk heat map and six example game-development risks to replace with your own." format="Excel (.xlsx)" >}}
 
 ## What a Risk Register Actually Is (And What It Isn't)
 

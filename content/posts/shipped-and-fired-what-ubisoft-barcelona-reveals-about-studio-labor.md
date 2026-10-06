@@ -47,7 +47,7 @@ You cannot control a parent company's cost plan. You can control how exposed you
 
 - **Know your baseline.** Read your contract and your employer's policies for notice periods, severance, benefits continuation and what happens to unvested bonuses or equity. Knowing it in advance is information, not paranoia.
 - **Know your local law.** Collective consultation in Spain and much of Europe, notice requirements for large layoffs in the US, and state rules all differ. Find out what applies to you.
-- **Keep your portfolio current.** Document what you shipped and owned while it is fresh. For producers, that means milestones, scope decisions and outcomes; see [what to show hiring managers](/posts/game-producer-portfolio-what-to-show-hiring-managers/).
+- **Keep your portfolio current.** Document what you shipped and owned while it is fresh. For producers, that means milestones, scope decisions and outcomes; see [what to show hiring managers](/posts/portfolio-tips-for-aspiring-game-producers/).
 - **Build a runway.** Even a few months of savings changes how you negotiate severance and how you choose your next job.
 
 None of this fixes an industry where commercial success and job security have come apart. But the Barcelona workers named the problem clearly and used the protections they had, which is more than most.

@@ -61,6 +61,21 @@ Evidence of communication. This one's weird to explain but easy to show. A scree
 
 One thing I'd cut: elaborate interactive portfolio websites unless you're genuinely good at web design. I've seen people spend three weeks building a custom portfolio site when they should have been working on the actual content. A clean PDF or a well-organized Notion page (Notion's free tier handles this fine) does the job. The format isn't the portfolio.
 
+## How to structure the portfolio
+
+Keep it simple: a PDF, a Notion page or a basic personal site all work. What does not work is making a hiring manager dig through folders to find anything.
+
+| Section | What to include |
+|---|---|
+| Short introduction | Your approach to production, in a few sentences |
+| Projects | Title, platform, team size, your role and two or three outcomes |
+| Production artifacts | Two or three real documents, anonymized, each with a line of context |
+| A postmortem | One honest write-up of what went wrong and what you changed |
+| Tools and methods | A brief list |
+| Contact | Email and LinkedIn |
+
+Skip the list of adjectives like "collaborative" and "detail-oriented". Show the work instead.
+
 ## The Networking Layer You Can't Skip
 
 Your portfolio doesn't get evaluated in a vacuum. It lands in someone's inbox, or it gets pulled up because someone you met at a conference remembered your name and searched for you. The production track is smaller than people think, and most mid-level and senior roles in studios don't get posted publicly at all.

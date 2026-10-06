@@ -1,5 +1,5 @@
 ---
-title: "Milestone Documents Every Game Dev Needs"
+title: "Milestone Deliverable Documents: What to Include (Free Template)"
 date: 2026-05-23T17:13:51.979361+00:00
 draft: false
 description: "Track project progress effectively with our complete guide to milestone deliverable documents. Learn what essential elements to include for success."
@@ -17,6 +17,8 @@ lastmod: 2026-10-06
 You're three weeks out from a major milestone review. Your studio lead asks for the deliverable document. You panic slightly because you realize you've never actually written a formal one, and you're not sure what should go in it. You've got spreadsheets, meeting notes, and a general sense of what's been completed, but there's no single source of truth. Sound familiar?
 
 Most producers learn this the hard way. A milestone deliverable document isn't just a checkbox for your publisher or studio leadership. It's your contract with the team about what "done" actually means, your defense against [scope creep](/posts/scope-creep-prevention-in-game-development/), and your historical record for postmortems. Done wrong, it becomes a bureaucratic nightmare that delays shipping. Done right, it eliminates arguments and keeps everyone aligned.
+
+{{< download file="/downloads/game-milestone-document-template.docx" title="Milestone definition document template" desc="Word template for a single milestone: plain-language description, deliverables with acceptance criteria, exit criteria, out of scope, dependencies and sign-off." format="Word (.docx)" >}}
 
 ## What Goes Into a Milestone Deliverable Document
 

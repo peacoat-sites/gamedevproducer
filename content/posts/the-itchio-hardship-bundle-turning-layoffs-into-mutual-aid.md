@@ -45,7 +45,7 @@ Beyond hardship grants, a few steps are worth taking early:
 
 - **Review your separation terms** for severance, notice, benefits continuation and any unvested bonuses or equity before you sign anything.
 - **Apply for unemployment benefits promptly,** since eligibility and waiting periods depend on where you live.
-- **Update your portfolio while the work is fresh.** For producers, that means the milestones you delivered, the scope decisions you made and their outcomes; see [what to show hiring managers](/posts/game-producer-portfolio-what-to-show-hiring-managers/) and our [interview question bank](/game-producer-interview-questions/).
+- **Update your portfolio while the work is fresh.** For producers, that means the milestones you delivered, the scope decisions you made and their outcomes; see [what to show hiring managers](/posts/portfolio-tips-for-aspiring-game-producers/) and our [interview question bank](/game-producer-interview-questions/).
 
 ## Sources
 

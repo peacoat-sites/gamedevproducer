@@ -12,6 +12,7 @@
     {{- range $tools }}
     <a href="{{ .url }}" role="menuitem" class="nt-item"><span class="nt-ic">{{ .icon }}</span><span class="nt-label">{{ .label }}</span></a>
     {{- end }}
+    <a href="/tools/" role="menuitem" class="nt-item nt-all"><span class="nt-ic">&#10140;</span><span class="nt-label">All tools and templates</span></a>
   </div>
 </div>
 <style>
@@ -28,6 +29,7 @@
 .nav-tools-menu .nt-ic{font-size:1.05rem;line-height:1;flex-shrink:0;width:1.2rem;text-align:center}
 .site-nav .nav-tools-menu .nt-quiz{color:var(--accent,#4338ca);border-bottom:1px solid rgba(0,0,0,.08);border-radius:8px 8px 0 0;margin-bottom:3px;padding-bottom:11px}
 .site-nav .nav-tools-menu .nt-quiz:hover{color:var(--accent,#4338ca)}
+.site-nav .nav-tools-menu .nt-all{color:var(--accent,#4338ca);border-top:1px solid rgba(0,0,0,.08);border-radius:0 0 8px 8px;margin-top:3px;padding-top:11px}
 @media (max-width:768px){
   .site-nav .nav-tools{display:block;width:100%}
   .site-nav .nav-tools-menu{position:static;opacity:1;visibility:visible;transform:none;box-shadow:none;border:0;background:transparent;padding:8px 0 0;min-width:0;display:none}
@@ -35,6 +37,7 @@
   .site-nav .nav-tools-menu .nt-item{color:rgba(255,255,255,.85)}
   .site-nav .nav-tools-menu .nt-item:hover{background:rgba(255,255,255,.1);color:#fff}
   .site-nav .nav-tools-menu .nt-quiz{color:#fff;border-bottom:0;margin-bottom:0;padding-bottom:9px}
+  .site-nav .nav-tools-menu .nt-all{color:#fff;border-top:0;margin-top:0;padding-top:9px}
 }
 </style>
 <script>
