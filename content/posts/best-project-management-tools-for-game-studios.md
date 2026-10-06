@@ -12,7 +12,7 @@ slug: "best-project-management-tools-for-game-studios"
 affiliate_disclosure: true
 faqs:
  - q: "Does every game studio need dedicated project management software?"
-   a: "A two-person project with a six-month timeline can survive on a shared spreadsheet and a weekly call. Once you hit three or more people, meaningful scope, or any external deadline (publisher, platform, Early Access), you need something structured. The cost of a tool is almost never the issue. The cost of coordination failures at $5,000 lost dev time per week makes a $10/user/month subscription look embarrassing."
+   a: "A two-person project with a six-month timeline can survive on a shared spreadsheet and a weekly call. Once you hit three or more people, meaningful scope, or any external deadline (publisher, platform, Early Access), you need something structured. The cost of a tool is almost never the issue. The cost of coordination failures at $5,000 lost dev time per week makes a paid per user subscription look embarrassing."
  - q: "Is Jira actually worth learning for game dev?"
    a: "Yes, with caveats. Jira's learning curve is real, and the default setup is actively bad for game teams. But if you spend 20 hours upfront configuring custom workflows, issue types, and dashboards for game production, the ongoing ROI is significant. For studios above 15 people, Jira configured well beats every other general-purpose option. If you're below that, the overhead might not be worth it."
  - q: "How do you handle tools for remote or hybrid game teams?"
@@ -23,7 +23,7 @@ faqs:
    a: "When your current tool creates more work than it eliminates. Specific signs: producers spend more than 30 minutes a day just maintaining the tool; team members regularly bypass it for 'real' work tracking; you can't answer basic questions like 'how many tasks are blocked right now?' or 'what's the risk to the next milestone?' in under five minutes. Migration is painful, but the pain is finite. Living in the wrong tool costs you every single day."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 Most game studios don't fail because they lack talent. They fail because nobody can answer "what is actually happening right now?" at 9am on a Monday morning. A producer I know spent three weeks reconstructing a sprint history from Slack threads and a whiteboard photo because their studio had been tracking work in four different tools simultaneously, none of them authoritative. That's not a planning problem. That's a tooling problem, and it's more common than anyone in this industry likes to admit.
 
@@ -48,7 +48,7 @@ The game-specific needs that most generic tools handle poorly:
 
 | Tool | Best For | Starting Cost | Key Strength for Game Dev |
 | --- | --- | --- | --- |
-| Jira | Teams 15+ | $8.15/user/month | Customizable workflows & dependency tracking |
+| Jira | Teams 15+ | Free for small teams; paid per user | Customizable workflows & dependency tracking |
 | Hacknplan | Teams 5-30 | Free tier available | Built for game pipelines, minimal setup |
 | Shortcut | Engineering-focused teams | Free (10 users) | Flexible workflows + GitHub integration |
 | Notion | Solo/small indie (3-5 people) | Free tier | Documentation & quick setup |
@@ -60,7 +60,7 @@ Jira is the most powerful option on this list and the most likely to make your t
 
 Configured well, it's the strongest choice for teams above 15 people. Custom issue types for features, tasks, bugs, and asset reviews. Custom workflows that match your pipeline stages. Dashboards that give producers a live view of milestone readiness. The Jira + Confluence combination is genuinely hard to beat for mid-to-large studios that need documentation and task tracking under one roof.
 
-Cost: from $8.15/user/month (Standard). Worth it at scale. Probably overkill below 10 people.
+Cost: free for small teams, then paid per user. Worth it at scale. Probably overkill below 10 people.
 
 **Hacknplan**
 
@@ -68,7 +68,7 @@ This one was built specifically for game development, and it shows. The concept 
 
 For studios between 5 and 30 people, Hacknplan is often the best answer. It's not as customizable as Jira and the reporting is shallower, but the out-of-the-box experience for game teams is significantly better. You won't spend two weeks configuring it before it's useful.
 
-Cost: free tier available; Pro from $4.99/user/month.
+Cost: free tier available, with paid plans per user.
 
 **Shortcut (formerly Clubhouse)**
 
@@ -76,7 +76,7 @@ Shortcut sits in a comfortable middle ground between Jira's power and Trello's s
 
 It's a strong choice for studios with a strong engineering culture who want something more structured than Trello but less heavyweight than Jira. Less ideal for heavy asset pipeline tracking.
 
-Cost: free up to 10 users; $8.50/user/month after that.
+Cost: free for small teams, with paid plans per user after that.
 
 **Notion**
 
@@ -86,15 +86,15 @@ The problem surfaces around 8 to 10 people. Notion has no real dependency tracki
 
 Use it for documentation and design wikis. Be careful about using it as your single source of truth for task tracking if you plan to grow.
 
-Cost: free tier; Plus from $10/user/month.
+Cost: free tier, with paid plans per user.
 
 **ShotGrid (formerly Shotgun)**
 
-If you're a studio doing significant outsourcing or running a large art pipeline, ShotGrid is in a different category from the others. It's built for production pipelines in games and VFX, with native review workflows, asset versioning, and client-facing review tools. It's genuinely powerful for managing external vendors and tracking asset versions through approval stages.
+If you're a studio doing significant outsourcing or running a large art pipeline, Autodesk Flow Production Tracking (formerly ShotGrid) is in a different category from the others. It's built for production pipelines in games and VFX, with native review workflows, asset versioning, and client-facing review tools. It's genuinely powerful for managing external vendors and tracking asset versions through approval stages.
 
 It's also expensive and requires real setup time. I wouldn't recommend it below 20 people or without a dedicated pipeline TD or technical producer to configure it. But for studios doing serious volume, it solves problems the other tools don't even acknowledge.
 
-Cost: from $30/user/month.
+Cost: paid per user; get a quote for your team size.
 
 ## How to Actually Choose: A Decision Framework
 

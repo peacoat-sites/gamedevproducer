@@ -23,9 +23,9 @@ faqs:
    a: "It can be, but it's not a magic fix. Early access works when you have a genuinely playable core loop that players find fun, a transparent roadmap, and the discipline to keep shipping updates. It doesn't work as a way to sell an unfinished game while you figure out what you're building. Players remember bad early access launches and the refund rates will show you immediately if you misjudged your readiness."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
-You've got a game idea. It's good. Maybe it's great. You've been sketching systems on napkins, you've got a Discord server with twelve friends who are "definitely in," and you've already mentally cast the launch trailer. Then someone asks: "How long do you think this will take?" You say six months. Everyone nods. Two years later, you're still in development, three people have quietly quit, and the scope has somehow expanded into something that would make a mid-size studio sweat. I've watched this happen to more teams than I can count. I've lived a version of it myself. The problem was never passion or talent. It was scope.
+You've got a game idea. It's good. Maybe it's great. You've been sketching systems on napkins, you've got a Discord server with twelve friends who are "definitely in," and you've already mentally cast the launch trailer. Then someone asks: "How long do you think this will take?" You say six months. Everyone nods. Two years later, you're still in development, three people have quietly quit, and the scope has somehow expanded into something that would make a mid-size studio sweat. It happens to more teams than anyone could count. The problem is rarely passion or talent. It is scope.
 
 Realistic scoping isn't about crushing ambition. It's about building something that actually ships.
 
@@ -37,7 +37,7 @@ Most people blame scope creep on disorganization or lack of discipline. That's n
 
 Game development makes this problem worse than almost any other software field. Why? Because games require code, art, audio, design, and player feel all converging at once, and player feel is the one variable you can't estimate until you're actually building it. You don't know your combat loop feels floaty until you've built it and played it for a week. You don't know you need to rebuild the inventory system until you've playtested with strangers who do things you never thought of.
 
-Here's what most people don't realize: the features you write down are only 40-50% of the actual work. The rest is iteration, bug fixing, integration, polish, and the invisible connective tissue holding everything together. That invisible work is where schedules die.
+Here's what most people don't realize: the features you write down are only part of the actual work, often the smaller part. The rest is iteration, bug fixing, integration, polish, and the invisible connective tissue holding everything together. That invisible work is where schedules die.
 
 ---
 
@@ -91,9 +91,9 @@ Don't absorb this into your tasks. Keep it as a project-level reserve for unknow
 
 This is what kills the most indie projects: overestimating what your team can actually accomplish.
 
-Five people sounds significant. But if those five all have day jobs, families, and other obligations? You might realistically have the equivalent of one full-time developer. Maybe less. I've seen teams of eight produce less work per month than a solo developer with a day job, because coordination overhead, unclear ownership, and inconsistent availability swallow everything.
+Five people sounds significant. But if those five all have day jobs, families, and other obligations? You might realistically have the equivalent of one full-time developer. Maybe less. A team of eight can produce less work per month than a solo developer with a day job, because coordination overhead, unclear ownership, and inconsistent availability swallow everything.
 
-Before you scope anything, [build a capacity map](/posts/best-project-management-tools-for-game-studios/). Write down each person's name, their role, and honest hours per week they can commit. Have them tell you themselves. Discount it by 20% because people overestimate their availability. Now you know your actual throughput.
+Before you scope anything, [build a capacity map](/posts/capacity-planning-for-game-development-teams/). Write down each person's name, their role, and honest hours per week they can commit. Have them tell you themselves. Discount it by 20% because people overestimate their availability. Now you know your actual throughput.
 
 Solo developers have simpler math but sobering conclusions. Projects that ship tend to be genuinely small: 2-6 hours to complete, fewer than 30 distinct content pieces, one core mechanic explored deeply rather than many explored shallowly. *Celeste* started as a four-day jam game. *Vampire Survivors* launched in early access with extremely limited content and a single map. These weren't accidents. They were scoping decisions.
 
@@ -125,9 +125,9 @@ For project management, **HacknPlan** was built specifically for game developmen
 
 For tracking estimates versus actuals, **Toggl Track** is free and simple, and quickly shows you where estimates are wrong. After two or three sprints of tracking real time, your estimates will improve measurably.
 
-For learning fundamentals, Heather Chandler's *The Game Production Handbook* is the most practical field guide I've found. For something shorter and indie-focused, Ryan Clark's GDC talks (free on YouTube) on designing a profitable indie game contain more useful scoping wisdom per minute than most courses.
+For learning fundamentals, Heather Chandler's *The Game Production Handbook* is the most practical field guide I've found. For something shorter, GDC's free talks on YouTube include several on choosing and scoping a game you can actually finish.
 
-The Game Production Fundamentals track on **Coursera** from Michigan State is solid for structured learning. If you want hands-on indie-focused material, **GameDev.tv** on Udemy regularly discounts to under $20 and covers production alongside technical work.
+If you want hands-on, indie-focused material, **GameDev.tv** courses cover production alongside technical work. To test your scope against a real calendar, run it through the [game development schedule planner](/game-development-schedule-planner/).
 
 One underrated tool: a simple **weekly check-in template** in Google Docs. Three questions answered by each team member every Monday. What did you complete last week? What are you doing this week? What's blocking you? Five minutes, and it surfaces scope problems before they become crises.
 

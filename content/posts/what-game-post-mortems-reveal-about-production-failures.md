@@ -20,10 +20,10 @@ faqs:
  - q: "What's the single most common production failure across post-mortems?"
    a: "Unclear ownership. Not scope, not crunch, not communication, though those all connect to it. When nobody knows who has final decision-making authority on a feature, that feature takes twice as long and satisfies nobody. Define ownership before you write a single line of code."
  - q: "Are there good resources for reading real game post-mortems?"
-   a: "Yes. GDC Vault has hundreds archived, many free to access. The book Postmortems: Selected Essays Volume One by various GDC authors collects some of the best ones in print. Gamasutra (now Game Developer) has a full archive online. Reading ten of them back to back is more valuable than most production courses."
+   a: "Yes. GDC Vault has hundreds archived, many free to access. *Postmortems from Game Developer*, edited by Austin Grossman, collects classic postmortems from the magazine in print. Gamasutra (now Game Developer) has a full archive online. Reading ten of them back to back is more valuable than most production courses."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You shipped the game. Or maybe you didn't, and it's sitting in a folder somewhere labeled "v_final_ACTUAL_final2." Either way, something went wrong during production, and you're trying to figure out what. Here's something that tends to surprise people outside the industry: the Game Developers Conference has published post-mortems since 1997, and across hundreds of them, the same five or six failure patterns show up over and over again. Not variations on a theme. The exact same problems. That should tell you something about how rarely teams learn from each other, and how much they could.
 

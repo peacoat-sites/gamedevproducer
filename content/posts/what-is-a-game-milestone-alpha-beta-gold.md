@@ -1,5 +1,5 @@
 ---
-title: "Alpha, Beta, Gold: The Stages Every Game Needs"
+title: "Alpha, Beta and Gold in Game Development: What Each Milestone Means"
 date: 2026-05-22T10:02:50.859818+00:00
 draft: false
 description: "A game milestone explained: discover what alpha, beta, and gold mean in game development, how each stage differs, and why they matter before a game launches."
@@ -23,7 +23,7 @@ faqs:
    a: "Jira is industry-standard for bug tracking and sprint management in studios with 10 or more people. Hack n Plan is a strong choice for smaller indie teams and has milestone tracking built specifically for game production workflows. For documentation and production bibles, Notion and Confluence are both commonly used. Some studios use Shotgun (now ShotGrid) for asset tracking alongside a separate task manager. The specific tool matters less than having a consistent, team-wide practice of updating it."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You're three months into production on a mid-sized mobile RPG when the publisher emails asking for your Alpha build delivery date. Your lead programmer looks at you. Your art director looks at you. You look at the calendar. Nobody in the room agrees on what "Alpha" actually means, and now you're negotiating a contractual deadline against a definition your team has never formally discussed. This happens constantly, and it costs studios real money.
 
@@ -31,7 +31,7 @@ Milestone terminology sounds like basic industry vocabulary, but it's one of the
 
 ## Why Milestone Definitions Matter More Than You Think
 
-Milestone gates aren't just vocabulary. They're contractual triggers. Most publishing agreements tie payment tranches directly to milestone approvals: 20% on Alpha acceptance, 20% on Beta, final payment on Gold. If your contract says "Alpha" but your team is building to a different internal definition, you're setting up a billing dispute before you've even finished the game.
+Milestone gates aren't just vocabulary. They're contractual triggers. Many publishing agreements tie payment tranches directly to milestone approvals, with a share paid on Alpha acceptance, another on Beta, and the final payment on Gold. If your contract says "Alpha" but your team is building to a different internal definition, you're setting up a billing dispute before you've even finished the game.
 
 Beyond the money, milestone definitions drive sprint planning, staffing decisions, and QA scope. A team that treats Alpha as "all features in, even if broken" will staff and schedule completely differently than a team that treats it as "playable vertical slice." Neither interpretation is universally wrong. The problem is operating without a shared definition.
 
@@ -82,7 +82,7 @@ Publishers reviewing an Alpha build are checking whether you've built what you p
 
 Beta is where the game becomes the game. The defining characteristic: **content complete.** Every level is in. Every enemy type is in. Every cutscene, every item, every quest. The end credits play. You can finish the game.
 
-What Beta is not: ship-ready. The Beta phase is a sustained quality campaign. Your QA team is running full regression passes. You're closing bugs, tuning difficulty curves, and stress-testing multiplayer if your game has it. Platform certification requirements (TRCs for PlayStation, TCRs for Xbox, Nintendo's lotcheck) become a daily concern.
+What Beta is not: ship-ready. The Beta phase is a sustained quality campaign. Your QA team is running full regression passes. You're closing bugs, tuning difficulty curves, and stress-testing multiplayer if your game has it. Platform certification requirements (Sony's TRC, the Xbox Requirements or XR, and Nintendo's Lotcheck) become a daily concern.
 
 Beta is often split into two sub-phases in larger productions:
 
@@ -93,7 +93,7 @@ Beta is often split into two sub-phases in larger productions:
 | Gold Candidate (RC) | Believed ship-ready | Final cert submission, regression |
 | Gold / RTM | Certified, released | Release, post-launch monitoring |
 
-First-party console submissions typically take 2-5 business days for an initial response, but a failed cert submission can cost you 1-2 weeks. Build your schedule assuming at least two submission attempts. I've rarely seen a first submission pass clean on a complex title.
+Turnaround on first-party submissions varies by platform and season, and a failed submission costs you the time to fix, rebuild and resubmit. Build your schedule assuming at least two submission attempts; the [console certification checklist](/console-certification-checklist/) helps you pass the first one. I've rarely seen a first submission pass clean on a complex title.
 
 ## Gold and RTM: The Finish Line Has Two Flags
 
@@ -127,6 +127,6 @@ Exit criteria documents also protect you in publisher conversations. If a publis
 
 ---
 
-Milestone definitions won't make your game good on their own, but blurry definitions will absolutely make your project harder than it needs to be. Get your exit criteria written before your next milestone gate, share them with your publisher if you have one, and make sure every department lead can recite what "Beta" means on your project without looking anything up. That single discipline change has saved more than one project I've worked on from a very expensive disagreement at exactly the wrong moment.
+Milestone definitions won't make your game good on their own, but blurry definitions will absolutely make your project harder than it needs to be. Get your exit criteria written before your next milestone gate (the [game development schedule planner](/game-development-schedule-planner/) generates a starting set with dates), share them with your publisher if you have one, and make sure every department lead can recite what "Beta" means on your project without looking anything up. That single discipline change has saved more than one project I've worked on from a very expensive disagreement at exactly the wrong moment.
 
 *Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*

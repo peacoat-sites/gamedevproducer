@@ -23,7 +23,7 @@ faqs:
    a: "When you have concrete evidence that what you have isn't working and the fix is clearly worth the cost. Playtest data that shows a core loop is broken is a legitimate reason to revisit scope. 'I think this would be cooler' is not. The bar should be: does this change the game from not-shippable to shippable, or from shippable to marginally better? Only the first justifies late scope addition. Scope creep is a solvable problem, but only if you treat it as a system issue rather than a discipline issue. Teams don't fail to manage scope because they're lazy or undisciplined. They fail because they"
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You greenlit a feature at 9am standup because a designer said it would "only take a day." Three weeks later, that feature has spawned four sub-features, two art revisions, and a backend change that touched six other systems. Your ship date is now a suggestion. Sound familiar? Scope creep doesn't usually announce itself. It accumulates quietly, one reasonable-sounding request at a time, until the project is unrecognizable from what you originally planned.
 
@@ -76,7 +76,7 @@ One of the most practical things you can do is track planned vs. actual velocity
 
 When a team consistently completes 60% of what they planned, something's wrong. Maybe estimates are bad. Maybe sprint goals are shifting mid-sprint. Maybe there are dependencies nobody logged. Velocity divergence is a diagnostic signal, and the earlier you catch it, the more options you have.
 
-I've used [Jira](https://www.atlassian.com/software/jira) for this on larger projects and [Hacknplan](https://hacknplan.com/) on smaller indie productions. Hacknplan is worth knowing about if you haven't tried it; it's built specifically for game development workflows and makes milestone tracking considerably more intuitive than adapting a generic project management tool.
+[Jira](https://www.atlassian.com/software/jira) handles this well on larger projects, and [HacknPlan](https://hacknplan.com/) on smaller ones. HacknPlan is worth knowing about if you haven't tried it; it's built specifically for game development workflows and makes milestone tracking considerably more intuitive than adapting a generic project management tool.
 
 If you want to go deeper on production fundamentals, Heather Maxwell Chandler's "The Game Production Handbook" is one of the most practical references I've found. For project management methodology with game context, the Game Developer Conference Vault has sessions on agile and scope management from teams that actually shipped.
 
@@ -92,16 +92,16 @@ If that doesn't work, you need to document it. Not as protection (though it is t
 
 ## Scope Management Tools Worth Using
 
-A few specific recommendations based on what I've actually used:
+A few tools that work well:
 
 | Tool | Best For | Cost |
 |---|---|---|
 | Hacknplan | Small-mid indie teams, milestone planning | Free tier available |
-| Jira | Larger teams, sprint tracking, integrations | From ~$8/user/month |
+| Jira | Larger teams, sprint tracking, integrations | Free tier; paid plans per user |
 | Notion | Feature documentation, parking lot management | Free tier available |
-| Productboard | Stakeholder feedback aggregation | Paid, ~$20+/user/month |
+| Productboard | Stakeholder feedback aggregation | Paid plans |
 | Google Sheets | Fast and flexible scope tracking on tiny budgets | Free |
 
-For learning more about production practice, I'd recommend the [Game Production Masterclass on Udemy](https://www.udemy.com/topic/game-development/) and GDC's free YouTube content, specifically anything from producers at Supergiant, Double Fine, or Bungie discussing their milestone processes.
+For learning more about production practice, GDC's free talks on YouTube and the GDC Vault include production sessions and postmortems from teams that shipped. To see what a feature costs in calendar time before you agree to it, re-run your dates in the [game development schedule planner](/game-development-schedule-planner/).
 
 *Photo: [nappy](https://www.pexels.com/@nappy) via Pexels*
