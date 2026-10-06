@@ -23,7 +23,7 @@ faqs:
     a: "Crunch, missed milestones, and a specific kind of team morale damage that's hard to recover from. When handoffs between disciplines consistently fail, people stop trusting each other's work, start duplicating effort defensively, and begin working around the process instead of through it. Fixing a broken pipeline usually requires stopping, doing a short honest retrospective, and re-establishing the agreements that make the workflow function. It's uncomfortable, and it takes time you feel like you don't have. You have less time if you don't do it."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 Most people asking "what is a game production pipeline?" want an org chart. Pre-Production flows to Production flows to Post-Launch, nice and clean. What they actually need to know is messier, way more interesting, and infinitely more useful: a pipeline is a set of agreements about how work flows through a team. When those agreements fall apart, games die.
 
@@ -41,7 +41,7 @@ Here's what surprises most people new to production: the pipeline exists mainly 
 
 Pre-production is where the pipeline gets defined, not just where you make your GDD and prototype. A good producer asks: how are we going to track assets? What's our naming convention? How does a [design doc](/posts/how-to-write-a-game-design-document/) move from "idea" to "spec" to "in development" to "done"? What does "done" even mean on this project? Teams that skip this work, and plenty do, pay for it in production when they have to stop and answer these questions under deadline pressure.
 
-The tools conversation happens here too. Are you using Jira, Shotgrid, Hansoft, HacknPlan? Are your artists using Perforce or Git LFS? What's your import pipeline for audio? I've seen small indie studios waste two months in production fighting version control issues that a one-week pre-production decision would've prevented. If you're starting a project right now and haven't made these calls yet, stop and make them. Codecks is worth a look for smaller teams, by the way. It's genuinely built for games, and the card-based backlog suits how game designers think in a way that Jira often doesn't.
+The tools conversation happens here too. Are you using Jira, Flow Production Tracking (formerly ShotGrid), Hansoft, HacknPlan? Are your artists using Perforce or Git LFS? What's your import pipeline for audio? Small studios can lose months in production to version control problems that a one-week pre-production decision would have prevented. If you're starting a project right now and haven't made these calls yet, stop and make them. Codecks is worth a look for smaller teams, by the way. It's genuinely built for games, and the card-based backlog suits how game designers think in a way that Jira often doesn't.
 
 Production is where the pipeline gets stress-tested. This is your alpha-to-beta stretch, and it's where you'll discover every assumption you made in pre-production that turned out to be wrong. The art pipeline that worked fine for 50 assets starts choking at 300. The design-to-implementation handoff that worked when three people were in the same room breaks down when the team doubles. A good pipeline is designed to be revised. Bad ones are treated like law.
 
@@ -63,13 +63,13 @@ Audio gets chronically underestimated. Sound designers often don't get assets to
 
 If you're a producer trying to understand the pipeline more deeply, or build one from scratch, a few things genuinely helped me.
 
-Jira (starts around $8.15 per user/month for small teams) is the industry standard at mid-to-large studios and for good reason. It's flexible enough to model almost any workflow. The downside is the setup overhead. For a team under ten people, it can feel like overkill.
+Jira (free for small teams, with paid plans per user) is the industry standard at mid-to-large studios and for good reason. It's flexible enough to model almost any workflow. The downside is the setup overhead. For a team under ten people, it can feel like overkill.
 
-Shotgrid (formerly Shotgun, now owned by Autodesk, pricing starts around $30/user/month) is specifically built for asset tracking pipelines in games and VFX. If your bottleneck is in the art pipeline and you have the budget, it's worth the cost. I've seen it cut asset review cycle time dramatically on mid-size productions.
+Autodesk Flow Production Tracking (formerly ShotGrid) is built specifically for asset tracking and review pipelines in games and VFX. If your bottleneck is in the art pipeline and you have the budget, it is worth evaluating.
 
-For learning, Jason Schreier's *Blood, Sweat, and Pixels* isn't a how-to book, but it's the most honest account of how game pipelines break under pressure that's publicly available. Read it as a case study collection. Clinton Keith's *Agile Game Development* (second edition, 2020) is the closest thing to a production textbook that actually accounts for how game dev works. The chapter on pipeline thinking for multidisciplinary teams is directly applicable.
+For learning, Jason Schreier's *Blood, Sweat, and Pixels* isn't a how-to book, but it's the most honest account of how game pipelines break under pressure that's publicly available. Read it as a case study collection. Clinton Keith's *Agile Game Development* is the closest thing to a production textbook that actually accounts for how game dev works, including how multidisciplinary teams hand work to each other.
 
-The Game Production Master Class on Udemy usually runs $15-20 on sale and covers the basics well. For something deeper, the CGMA course on Production Pipelines for Games costs around $600 and is genuinely geared toward people who want to work in production professionally.
+For talks, the GDC Vault's production sessions and postmortems show how real pipelines held up, or didn't, under pressure.
 
 The pipeline conversation is the production conversation. Everything else, the tools you pick, the methodology you use, the way you run standups, is in service of getting work to flow. When I'm assessing a team I've never worked with before, the first thing I try to understand isn't their backlog or their roadmap. It's how a piece of work moves from someone's head to something in the build. That answer tells me almost everything I need to know about whether the project is going to make it.
 

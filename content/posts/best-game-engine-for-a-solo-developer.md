@@ -1,8 +1,9 @@
 ---
-title: "73% of Solo Devs Choose This Game Engine"
+title: "Best Game Engine for a Solo Developer (2026): Godot vs Unity vs Unreal vs GameMaker"
 date: 2026-08-03T11:51:07.851769+00:00
+lastmod: 2026-10-06
 draft: false
-description: "Discover why 73% of solo developers prefer this game engine. Compare top options, costs, and features for independent game creators."
+description: "How a solo developer should choose a game engine in 2026: what Godot, Unity, Unreal, GameMaker and Defold actually cost, which genres each suits, and why switching engines mid-project is the real risk."
 image: "/img/heroes/6804080.jpg"
 categories: ["Engines and Tools"]
 tags: ["best", "game", "engine", "solo", "developer"]
@@ -13,85 +14,75 @@ author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Un
 slug: "best-game-engine-for-a-solo-developer"
 affiliate_disclosure: true
 faqs:
-  - q: "Is Godot actually production-ready for commercial games?"
-    a: "Yes. As of Godot 4.2 and beyond, it's stable enough for commercial release across PC, mobile, and console. The ecosystem for third-party plugins and console export support has matured significantly through 2025 and 2026."
-  - q: "Can a solo developer realistically ship a game in Unreal Engine 5?"
-    a: "Absolutely, but it favors specific project types. Atmospheric, visually-driven games with relatively light systems complexity (horror, walking sims, certain narrative games) are the sweet spot. Deep RPG systems or games with heavy networking will eat you alive in UE5 alone."
-  - q: "Should I learn C for Unity or GDScript for Godot?"
-    a: "If you already know C from a previous career or have .NET experience, Unity's C environment will feel natural. If you're starting from scratch, GDScript's Python-like syntax has a gentler learning curve and you'll be writing game logic faster in weeks 1-4. Neither choice locks you in forever."
-  - q: "What's the actual risk with Unity after the 2023 fee controversy?"
-    a: "The runtime fee as originally announced was cancelled, but Unity did restructure pricing and the Personal tier terms. The concrete risk isn't that you'll get hit with unexpected fees tomorrow. The risk is that Unity is a for-profit company with VC pressure, and its licensing terms can change. For a game you'll spend two years building, that's a non-trivial business consideration."
-  - q: "Is GameMaker still worth using in 2026?"
-    a: "For 2D games, genuinely yes. It's not trendy, but it's fast to prototype in, has solid export options, and the Undertale/Hotline Miami pedigree means it's battle-tested for commercial release. At $99.99/year for indie, it's a reasonable cost. Don't discount it just because it doesn't get talked about as much."
+  - q: "Is Godot ready for commercial games?"
+    a: "Yes. Godot 4 is used for commercial releases on PC and mobile, it is free under the MIT license with no royalties, and console versions are available through third-party porting partners rather than from Godot directly. Check that your target consoles are covered before you commit."
+  - q: "Can a solo developer ship a game in Unreal Engine 5?"
+    a: "Yes, and it suits some projects well, especially visually driven 3D games with relatively light systems. The engine is large, so expect a steeper learning curve and more time on engine management than in lighter engines. Unreal charges a 5% royalty only after a product earns $1 million in gross revenue, and revenue through the Epic Games Store is exempt."
+  - q: "Should I learn C# for Unity or GDScript for Godot?"
+    a: "If you already know C# or .NET, Unity will feel natural, and Godot also supports C#. If you are starting from scratch, GDScript's Python-like syntax is gentler and gets you writing game logic quickly. Neither choice locks you in for your whole career."
+  - q: "Is Unity still safe to use after the 2023 runtime fee controversy?"
+    a: "Unity cancelled the runtime fee and restructured its plans. Unity Personal is free for individuals and companies with under $200,000 in revenue and funding over the last 12 months, and Unity Pro costs $2,310 per seat per year from January 2026. The lasting lesson is that a commercial engine's terms can change, which is worth weighing for a multi-year project."
+  - q: "Is GameMaker still worth it in 2026?"
+    a: "For 2D games, yes. It is fast to prototype in and proven in commercial hits. GameMaker is free for non-commercial use, a one-time $99.99 Professional license covers commercial PC, web and mobile releases, and console exports need the Enterprise subscription."
 ---
 
-Roughly 73% of commercial games released on Steam are built by teams of five people or fewer, according to a 2025 analysis by Game Discover Co. That number caught me off guard the first time I saw it, because the discourse around game engines still tends to center on studio pipelines, team hierarchies, and technical directors making platform decisions. Solo developers are the actual majority of this market. And yet most engine comparison content is written like you're onboarding a 20-person team.
+Most engine comparisons are written as if you are onboarding a twenty-person team with a graphics programmer, a build engineer and a QA department. When you are all of those people at once, the right choice changes. The question is not which engine is most powerful. It is which one lets one person finish this particular game.
 
-I'll be honest: I spent years as a project manager at a mid-sized AAA studio before going indie, and I assumed my AAA toolkit would translate cleanly to solo work. It did not. The engine decisions that make sense when you have a dedicated graphics programmer, a build engineer, and a QA department are genuinely different from the decisions that make sense when you're all of those people simultaneously. So I went back and looked at the data more carefully, talked to a bunch of solo devs who've actually shipped, and tried to figure out what the numbers actually say.
+## What each engine actually costs
 
-What surprised me was how much the "best engine" question depends on what you're optimizing for, and how rarely that gets said plainly.
+| Engine | Cost to start | When you start paying | Source code |
+|---|---|---|---|
+| Godot 4 | Free | Never: no fees or royalties | Open source (MIT) |
+| Unity Personal | Free | Once revenue plus funding passes $200,000 in 12 months, you need a paid plan | Closed |
+| Unity Pro | $2,310 per seat per year (from January 2026) | From the first seat | Closed |
+| Unreal Engine 5 | Free | 5% royalty on gross revenue above $1 million per product; Epic Games Store revenue is exempt | Source available |
+| GameMaker | Free for non-commercial use | One-time $99.99 Professional license for commercial PC, web and mobile; Enterprise subscription for consoles | Closed |
+| Defold | Free | Never | Source available |
 
+Three things the table hides. Unity's threshold is measured on revenue and funding, not profit, so a solo developer can cross it while still netting modest income. Godot's console support comes through third-party porting partners, so confirm your target platforms early. And GameMaker's pedigree is real: it has shipped major commercial 2D hits.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Unity holds ~45% of the mobile solo dev market; Godot has grown to ~18% of new solo projects as of 2026.</li><li style="margin:5px 0">Godot 4.x is fully free; Unity charges $0 until you hit $200K annual revenue; Unreal takes 5% royalty after $1M gross.</li><li style="margin:5px 0">Solo devs who ship their first game in Godot do so ~30% faster on average than those starting in Unreal, per a 2025 GDC survey.</li><li style="margin:5px 0">For 2D games, Godot or GameMaker are almost always the better technical fit over Unity or Unreal.</li><li style="margin:5px 0">Engine switching mid-project kills more solo games than engine limitations do. Pick and commit.</li></ul></div>
+Pricing is the easy part of the decision, though. The harder part is fit.
 
+## Choose by genre and scope
 
-## The numbers that actually matter
+The most common solo-developer mistake is choosing an engine based on the games you like to play rather than the game you can realistically build alone.
 
-Let's start with the market share reality, because it shapes everything downstream, including asset store availability, tutorial quality, and hiring help if you ever need a contractor.
+**2D games** (platformers, puzzle games, top-down action, narrative games): Godot or GameMaker are usually the best fit. Godot's scene system and GDScript are well suited to one person building a medium-complexity 2D game, and GameMaker is built around 2D from the ground up. Unity's 2D tools are capable, but it remains a 3D engine that supports 2D.
 
-Unity still dominates solo development in raw numbers. According to Unity Technologies' own 2025 developer report, roughly 58% of all mobile games are built in Unity, and solo/micro-[studio developers](/posts/what-game-pass-economics-actually-cost-studio-developers/) make up the largest segment of their user base. But Unity's reputation has taken a real hit since the runtime fee controversy that exploded in late 2023. The fee structure was partially walked back, but the trust damage was not. A 2025 GDC State of the Game Industry survey found that 29% of indie developers had already migrated or were actively migrating away from Unity.
+**3D games with strong visuals and light systems** (atmospheric horror, exploration, walking sims): Unreal Engine 5 can be a strong fit. Features like Nanite and Lumen let one person reach visuals that used to need a team, and the Fab marketplace helps with assets. The cost is complexity: expect to spend real time learning the engine rather than building your game.
 
-Godot's growth over the same window is genuinely striking. The Godot Foundation reported that monthly active users on Godot 4.x passed 600,000 in early 2026, up from around 90,000 before the Unity controversy. That's not a rounding error. For a completely free, open-source engine with no licensing risk, those numbers suggest a community reaching real critical mass.
+**3D games with heavy systems** (RPGs, simulations, management games): Unity or Godot are often more manageable alone, because you spend less time fighting a large engine and more time on game logic.
 
-Unreal Engine 5 sits in an interesting position. It's technically extraordinary. It's also, in my experience, genuinely overkill for most solo projects, and the 5% royalty after $1 million in gross revenue is actually the least of the friction. The real cost is cognitive load. When I briefly prototyped a solo project in UE5 in early 2025, I spent more time managing engine overhead than building game logic. That's a me problem, partially. But it's also a valid signal for how you should think about it.
+**Mobile, especially with live operations**: Unity still has practical advantages, with mature iOS and Android pipelines and broad support for ad and analytics SDKs.
 
+## Choose by what you already know
 
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated solo dev engine usage share (2026)</div><div class="sc-row"><span class="sc-label">Unity</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">45%</span></div><div class="sc-row"><span class="sc-label">Godot</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">18%</span></div><div class="sc-row"><span class="sc-label">GameMaker</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">14%</span></div><div class="sc-row"><span class="sc-label">Unreal Engine</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">11%</span></div><div class="sc-row"><span class="sc-label">Other / Custom</span><span class="sc-track"><span class="sc-bar" style="width:27%"></span></span><span class="sc-val">12%</span></div><div class="sc-src">Source: GDC 2025 State of the Game Industry + Godot Foundation 2026 data</div></div>
+Your programming background shortens or lengthens every week of the project. If you know C#, Unity and Godot's C# support will feel familiar. If you are new to programming, GDScript is easier to start with than C++ or C#. If you would rather avoid code for most of the work, GameMaker's tools and Unreal's Blueprints both lower the barrier, with Blueprints scaling further for 3D.
 
+## The real risk: switching engines halfway
 
-## The real comparison: what you're actually paying
+Engine limitations rarely kill solo projects. Switching engines midway often does. A migration throws away working systems, resets your momentum and usually lands in the hardest stretch of the project, when you are tempted to believe the problems are the engine's fault.
 
-Pricing is where most comparison articles get lazy, so let me be precise about what each option actually costs as of August 2026.
+Most of the time they are not. The problem is scope, and scope follows you to the new engine. Before switching, ask whether a smaller version of your game would ship in the engine you already have. Usually it would.
 
-| Engine | Base Cost | Revenue Threshold | Royalty / Fee | Open Source? |
-|---|---|---|---|---|
-| Godot 4.x | Free | None | None | Yes (MIT) |
-| Unity Personal | Free | $200K annual revenue | None below threshold | No |
-| Unity Pro | $2,040/year per seat | None | None | No |
-| Unreal Engine 5 | Free | $1M gross | 5% above threshold | Source-available |
-| GameMaker | $99.99/year (indie) | None | None | No |
-| Defold | Free | None | None (made by King) | Yes |
-| GDevelop | Free (limited) / $99/year | None | None | Core is open source |
+A practical rule: prototype your core loop in your top two candidates for a week or two each, pick the one where you made more progress, and then commit for the life of the project.
 
-A few things worth saying about this table. First, the Godot number is genuinely zero, forever, including for commercial games. No gotchas. Second, Unity's $200K threshold sounds generous until you realize that's gross revenue, not profit, and a solo dev earning $200K gross on a game is probably netting considerably less after platform cuts and taxes. The potential for Unity to change its terms again is a real business risk that doesn't show up in the pricing table. Third, GameMaker's $99.99 is often underestimated as a serious commercial engine. Undertale and Hotline Miami both shipped in GameMaker. It's not a toy.
+## Quick verdicts
 
-## Genre and scope matter more than people admit
+- **Godot**: the best default for a solo developer starting a 2D or modest 3D game who wants zero licensing risk.
+- **Unity**: a pragmatic choice for mobile, for C# developers, and for 3D games that need a large asset and tutorial ecosystem.
+- **Unreal Engine 5**: the strongest option for visually ambitious 3D, if you accept the learning curve.
+- **GameMaker**: a fast, proven tool for 2D games, with a one-time license for commercial PC and mobile.
+- **Defold**: a lightweight, free option for 2D and mobile games, especially if small builds matter.
 
-Here's where I think a lot of solo devs make a category error. They pick an engine based on what games they like to play, not what games they can realistically build alone. I did this myself.
-
-For 2D games, particularly platformers, puzzle games, and anything with simple top-down perspective, Godot 4.x or GameMaker are almost always the right answer. Unity's 2D tooling has improved but it's still fundamentally a 3D engine that tolerates 2D. Godot's scene system and GDScript were basically designed for the "one person building a medium-complexity 2D game" use case. A solo dev I know, Elena Vargas, released a metroidvania in Godot 4.1 in about 14 months of part-time work. Her estimate was that the same project in Unity would have added 3-4 months of tooling and configuration overhead. That's not nothing.
-
-For 3D games, the calculus changes. Unreal 5's Nanite and Lumen make it possible for a single person to produce visuals that would have required a full lighting team five years ago. Solo scenario: a developer building a walking-sim style horror game in UE5 with photorealistic environments can produce something visually competitive with mid-budget studio work. Action taken: they accept the steeper learning curve and use Fab (Epic's marketplace) heavily for assets. Result: first-person horror game with a 94% positive rating on Steam, ~$180K in revenue over six months, well under the $1M royalty threshold. That trade-off made sense for that project. It wouldn't make sense for an RPG with deep systems logic.
-
-For mobile specifically, Unity still has significant practical advantages. The iOS and Android build pipelines are mature. The mobile ad SDK integrations are easier. If your game is going to mobile and you have any hope of a live-ops model, Unity is probably still the pragmatic choice, even given the trust issues.
-
-## The thing nobody says plainly
-
-The research here is mixed on whether engine choice actually predicts shipping success. What the data does suggest is that engine-switching mid-project is a strong predictor of failure. A 2024 analysis of 312 solo game projects on itch.io that had been publicly abandoned found that 41% had documented an engine migration at some point in their development history. That's a staggering correlation.
-
-My read: it's not that engine-switching is uniquely fatal. It's that it's a symptom of a larger indecision problem, and solo developers are especially vulnerable to it because there's no team pressure to commit. When I was managing a 25-person project, the sunk cost of migrating engines was obvious to everyone. Alone in your apartment at 11pm, it's easy to convince yourself the grass is greener in Godot when your Unity project is struggling, when actually the problem is scope, not engine.
-
-Pick based on your genre, your programming background (GDScript is easier to start with than C++, full stop), and your platform target. Then stay.
+To compare twelve engines side by side, use the [game engine comparison table](/game-engine-comparison/), or take the [which game engine quiz](/posts/which-game-engine-quiz/) for a recommendation based on your project. Scoping the game to what one person can finish is covered in [how to scope an indie game realistically](/posts/how-to-scope-an-indie-game-project-realistically/).
 
 ## Sources
 
-- [GDC State of the Game Industry 2025](https://gdconf.com/state-of-game-industry): Annual survey of ~3,000 developers including engine adoption, migration rates, and indie market data
-- [Unity Technologies Developer Report 2025](https://unity.com/our-company/newsroom): Official Unity data on platform usage, mobile market share, and developer segment breakdown
-- [Godot Foundation 2026 Activity Report](https://godotengine.org/): Monthly active user data and engine download statistics
-- [Game Discover Co. Newsletter, 2025](https://gamediscover.co): Steam market analysis including team-size breakdown of commercial releases
-- [itch.io Abandoned Project Analysis, 2024 (community research)](https://itch.io/): Fan-led dataset of 312 solo projects with documented development histories and abandonment reasons
-
----
-
+- [Unity: changes to subscription plans and pricing](https://unity.com/products/pricing-updates)
+- [Unreal Engine license and FAQ](https://www.unrealengine.com/en-US/license)
+- [GameMaker: pricing and licence FAQ](https://gamemaker.io/en/help/articles/november-2023-pricing-terms-change-faq)
+- [Godot Engine](https://godotengine.org/)
+- [Defold](https://defold.com/)
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*

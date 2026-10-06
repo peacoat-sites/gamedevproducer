@@ -1,5 +1,5 @@
 ---
-title: "Master Your Game Dev Timeline in 5 Steps"
+title: "How to Create a Game Development Schedule: A 7-Step Process"
 date: 2026-06-01T15:35:05.536548+00:00
 draft: false
 description: "Plan your game dev project with confidence. Learn how to create a realistic game development schedule, set milestones, manage tasks, and hit your deadlines."
@@ -12,7 +12,7 @@ slug: "how-to-create-a-game-development-schedule"
 affiliate_disclosure: true
 faqs:
  - q: "How long should a game development schedule actually be for an indie game?"
-   a: "Depends heavily on scope and team size, but here's a rough framework. Solo developer making a small arcade-style game: 6-12 months. 2-4 person team making a mid-scope narrative or platformer: 18-30 months. Team of 6-10 making something with substantial content (RPG, open world lite, etc.): 2-4 years. If your timeline is shorter than these, check your scope assumptions carefully. If it's longer, check your team structure. The research on indie completion rates suggests that projects scoped beyond 3 years for small teams have very low completion rates, largely due to team and motivation dynamics"
+   a: "Depends heavily on scope and team size, but here's a rough framework. Solo developer making a small arcade-style game: 6-12 months. 2-4 person team making a mid-scope narrative or platformer: 18-30 months. Team of 6-10 making something with substantial content (RPG, open world lite, etc.): 2-4 years. If your timeline is shorter than these, check your scope assumptions carefully. If it's longer, check your team structure. Small teams that scope beyond about three years face real completion risk, largely from team and motivation dynamics over that long a stretch"
  - q: "What's the difference between a milestone schedule and a sprint schedule?"
    a: "A milestone schedule defines the major project gates: what the game looks like at pre-production complete, vertical slice, alpha, beta, and gold. These are typically monthly or quarterly checkpoints. A sprint schedule operates inside those milestones, usually in 2-week cycles, and defines exactly which tasks the team is working on right now. You need both. The milestone schedule tells you if you're on track for the big picture. The sprint schedule tells you what to do on Tuesday."
  - q: "Should I use story points or hours for game dev estimates?"
@@ -23,9 +23,9 @@ faqs:
    a: "Stop trying to fix the estimates. Start tracking actuals and calculate your team's estimation ratio. If estimates are consistently 60% of actuals, apply a 1.7x multiplier to all future estimates automatically. This is called a velocity adjustment and it's much more reliable than trying to get people to estimate better through willpower. Over time, as you build a history of similar tasks, your estimates will naturally improve because they'll be anchored to real data rather than optimism."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
-Most game development schedules are wrong the moment you finish writing them. I don't mean slightly off. I mean the average game ships 40-75% later than its original internal estimate, and that's not a stat from bad studios, it's basically industry standard. I spent a long time thinking this was a discipline problem, a planning problem, or a "we just need better tools" problem. What I eventually figured out is that it's actually a fundamental misunderstanding of what a game development schedule is supposed to do.
+Most game development schedules are wrong the moment you finish writing them. Not slightly off: games routinely ship well past their original internal estimates, at good studios as well as bad ones. I spent a long time thinking this was a discipline problem, a planning problem, or a "we just need better tools" problem. What I eventually figured out is that it's actually a fundamental misunderstanding of what a game development schedule is supposed to do.
 
 ## Why Your Mental Model of "The Schedule" Is Probably Broken
 
@@ -50,6 +50,8 @@ Start with three anchor points:
 **Your phase gates.** Broadly: pre-production, production, alpha, beta, gold. These mean different things at different studios, so define them explicitly for your project. I've seen "alpha" mean "all features in but rough" at one studio and "content complete" at another. Write it down. Make everyone agree.
 
 Only after this top-down sketch does detailed task-level scheduling make sense. Otherwise you're stacking bricks without knowing how tall the building is supposed to be.
+
+The [game development schedule planner](/game-development-schedule-planner/) does this top-down pass for you: enter a launch or start date, scope and platforms, and it lays out phases, milestone gates, buffer and platform deadlines you can refine.
 
 ## Building the Detailed Schedule: A Step-by-Step Approach
 
@@ -78,19 +80,13 @@ At least 15-20% buffer time before each major milestone. Not padding every indiv
 
 ## The Tools That Actually Help (and What They're Not Good For)
 
-| Tool | Best For | Watch Out For |
-|---|---|---|
-| **Jira** | Sprint-level task tracking, bug tracking, large teams | Setup overhead, can become a reporting theater exercise |
-| **Hansoft** | AAA-scale milestone tracking, gantt-style views | Expensive, steep learning curve, overkill for indie |
-| **Hack n Plan** | Game-specific task management, indie/mid-size teams | Limited integration options, smaller community |
-
 Let's talk tools, because producers always want to know what to use.
 
 | Tool | Best For | Watch Out For |
 |---|---|---|
 | **Jira** | Sprint-level task tracking, bug tracking, large teams | Setup overhead, can become a reporting theater exercise |
 | **Hansoft** | AAA-scale milestone tracking, gantt-style views | Expensive, steep learning curve, overkill for indie |
-| **Hack n Plan** | Game-specific task management, indie/mid-size | Smaller community, fewer integrations |
+| **HacknPlan** | Game-specific task management, indie/mid-size | Smaller community, fewer integrations |
 | **Notion** | Feature documentation, lightweight schedule wikis | Not a real project management tool, limits at scale |
 | **Trello** | Very small teams, early pre-production | Falls apart fast above 4-5 people or complex schedules |
 | **Spreadsheets (Sheets/Excel)** | Fast top-level milestone planning, reporting to execs | Doesn't scale, version control nightmare |
@@ -99,7 +95,7 @@ My honest take: for teams under 8 people, a well-maintained spreadsheet combined
 
 If you want to go deeper on production methodology, the book I recommend most often is *Game Production Toolbox* by Heather Maxwell Chandler. It's dense and practical, not theoretical. Clinton Keith's *Agile Game Development* is also worth reading if you want to understand how to actually adapt Scrum and Kanban to game teams, which is different from adapting it to software teams in ways that matter.
 
-For online learning, the Game Producers community and GDC Vault both have solid production-focused sessions. The GDC talks by producers at Insomniac and Respawn in particular are unusually candid about scheduling and process.
+For talks, the GDC Vault has production-focused sessions and postmortems worth searching, many of them candid about how schedules went wrong.
 
 ## Tracking Actuals and Adjusting Without Losing Your Mind
 
@@ -109,7 +105,7 @@ The thing that made the biggest difference for me was weekly actuals tracking. E
 
 When actuals diverge from plan by more than 10-15% two weeks running, you don't wait. You have three choices: cut scope, add time, or add resources (which often adds time, as Brooks' Law famously points out). There is no fourth option where you "make up the time." In 14 years, I've never seen a game team make up significant time. They almost always make it up with crunch, which costs you quality, team health, and future velocity.
 
-The research on crunch and productivity is actually pretty clear here. Teams working 60-80 hour weeks see a short burst of output followed by a significant quality and velocity drop after about 3-4 weeks. The net time gain is often close to zero, and the human cost is real. Sustainable pace isn't a soft concept. It's a schedule integrity concept.
+The evidence on crunch points the same way. Evan Robinson's widely cited 2005 IGDA paper, "Why Crunch Mode Doesn't Work: Six Lessons," pulls together decades of research showing that extended overtime buys a short burst of output, then productivity and quality fall, often wiping out the gain within weeks. The human cost is real. Sustainable pace isn't a soft concept. It's a schedule integrity concept.
 
 Reschedule early and visibly. The studios I've seen handle this best have a culture where re-estimating is normal and expected, not a sign of failure. The studios with the worst crunch cultures are the ones where acknowledging schedule risk feels career-threatening.
 
@@ -119,6 +115,6 @@ Here's the thing most new producers don't realize: the time you invest in pre-pr
 
 A good vertical slice solves this. Not a vertical slice as a demo for investors (though it can serve that purpose), but a vertical slice as a production reality check. One level, fully representative of all your art, design, and tech systems. Time how long it actually took. Use that data to extrapolate your full production schedule. This is the most accurate scheduling method I know for games, because it's based on real measured velocity rather than theoretical estimates.
 
-What surprised me when I first started doing this consistently was how often the vertical slice revealed that the original production timeline was off not by 10-20%, but by a factor of 2. Better to know that at month 3 than month 12.
+It is common for a vertical slice to show that the original production estimate was off not by 10 or 20 percent but by much more. Better to know that at month 3 than month 12.
 
 Getting a game development schedule right isn't about finding the perfect template or the best tool. It's about building a system where you learn fast, communicate clearly, and make scope and timeline decisions based on what's actually happening rather than what you hoped would happen. The schedule is never going to be perfectly accurate. The goal is for it to be useful.

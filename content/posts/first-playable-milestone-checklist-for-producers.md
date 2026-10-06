@@ -1,6 +1,7 @@
 ---
 title: "First Playable Milestone Checklist for Game Producers"
 date: 2026-07-15T10:18:11.126796+00:00
+lastmod: 2026-10-06
 draft: false
 description: "Essential checklist for producers managing first playable milestones. Core systems, build stability, and team alignment requirements for game development."
 image: "/img/heroes/7915273.jpg"
@@ -25,9 +26,9 @@ faqs:
     a: "First playable proves the core loop works. A vertical slice proves the whole game experience can work at shipping quality, including art, audio, and polish, across a representative section of content. Vertical slice typically comes 3-6 months after first playable depending on team size, and has a much higher production bar."
 ---
 
-Forty-three percent of the projects I've seen blow their first playable milestone didn't fail because the team lacked talent. They failed because nobody agreed on what "first playable" actually meant until two weeks before the deadline, when the arguments started.
+When a team blows its first playable milestone, it is rarely for lack of talent. More often, nobody agreed on what "first playable" meant until two weeks before the deadline, when the arguments started.
 
-That's the real problem. "First playable" sounds self-explanatory until you're in a room with a lead designer who thinks it means the core loop is *designed*, an engineer who thinks it means the core loop is *coded*, and a publisher rep who thinks it means they're about to see something close to a vertical slice. I've watched that exact miscommunication cost a studio 11 weeks of rescheduling and roughly $340,000 in contractor overruns. One studio. One milestone. One preventable disaster.
+That's the real problem. "First playable" sounds self-explanatory until you're in a room with a lead designer who thinks it means the core loop is *designed*, an engineer who thinks it means the core loop is *coded*, and a publisher rep who thinks it means they're about to see something close to a vertical slice. That miscommunication can cost weeks of rescheduling and real money in contractor overruns, all for one milestone and all preventable.
 
 So let's talk about what a first playable milestone actually is, what should be on your checklist, and where most producers quietly get it wrong.
 
@@ -54,7 +55,7 @@ The checklist items here are:
 - At least one "win condition" or "progress marker" registers correctly in the game's internal logic
 - The loop can be completed at least three times consecutively without a hard crash
 
-That last one is more important than it sounds. I've seen demos fall apart in publisher meetings on the second run-through because nobody had looped the build more than once before the meeting. The "three consecutive loops without a hard crash" rule has saved me from embarrassment twice in my career.
+That last one is more important than it sounds. I've seen demos fall apart in publisher meetings on the second run-through because nobody had looped the build more than once before the meeting. The "three consecutive loops without a hard crash" rule exists to stop exactly that.
 
 **Zone 2: Technical Baseline**
 
@@ -75,7 +76,7 @@ This is where scope discipline lives or dies. You don't need *all* the content. 
 - UI is functional for core actions (doesn't have to be pretty, has to be readable)
 - Audio is present for at least the primary action feedback loop (jump sound, hit sound, card play sound, whatever is central)
 
-The audio one surprises people. But I've never had a playtest session where the absence of sound didn't skew feedback in a way that muddied the data. Even rough placeholder audio is better than silence.
+The audio one surprises people. But silence skews playtest feedback in ways that muddy the data. Even rough placeholder audio is better than silence.
 
 **Zone 4: Process Documentation**
 
@@ -94,41 +95,35 @@ If you don't have a feature freeze list signed off before you enter the final tw
 Here's where I want to be blunt, because most articles on this topic are not.
 
 
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical weeks from greenlight to first playable by team size</div><div class="sc-row"><span class="sc-label">1-3 person indie</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">8 weeks</span></div><div class="sc-row"><span class="sc-label">4-8 person indie</span><span class="sc-track"><span class="sc-bar" style="width:35%"></span></span><span class="sc-val">14 weeks</span></div><div class="sc-row"><span class="sc-label">10-20 person mid-size</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">20 weeks</span></div><div class="sc-row"><span class="sc-label">20-50 person team</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">28 weeks</span></div><div class="sc-row"><span class="sc-label">50+ person team</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">40 weeks</span></div><div class="sc-src">Source: Industry experience across 14+ projects, estimated ranges</div></div>
-
-
-These are rough estimates from my own experience across projects, not a formal study. But they're pretty close to what I've seen consistently.
-
-| Team Size | Typical First Playable Window | Most Common Failure Mode |
-|---|---|---|
-| 1-3 person indie | 6-10 weeks from concept lock | Scope creep, missing feature freeze |
-| 4-8 person indie | 10-18 weeks | Tech debt from moving too fast |
-| 10-20 person mid-size | 16-24 weeks | Communication gaps between disciplines |
-| 20-50 person | 22-32 weeks | Milestone definition drift with publisher |
-| 50+ person | 32-48 weeks | Organizational misalignment on milestone criteria |
+<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style>| Team size | Most common failure mode |
+|---|---|
+| 1 to 3 person indie | Scope creep, no feature freeze |
+| 4 to 8 person indie | Tech debt from moving too fast |
+| 10 to 20 person mid-size | Communication gaps between disciplines |
+| 20 to 50 person team | Milestone definition drifting from what the publisher expects |
+| 50+ person team | Organizational misalignment on milestone criteria |
 
 Notice the failure modes are different at every scale. That matters for where you put your energy as a producer.
 
-## Three Real Scenarios
+## Three ways first playable goes wrong
 
-Small indie team, puzzle platformer, two developers: They had a playable loop at week 9 but skipped the "three consecutive loops" test. The loop had a save state bug that only triggered on the second playthrough. Publisher demo went badly. They rescheduled, fixed it in four days, re-demoed. Final result: milestone accepted, but relationship damaged by a two-week delay that was entirely preventable.
+**Skipping the repeat-loop test.** A team has a playable loop but never plays it through more than once before the demo. A bug that only appears on the second run surfaces in front of the publisher. The fix takes days; the damage to confidence lasts longer. Loop the build several times before anyone else sees it.
 
-Mid-size team, action RPG, publisher deal: The contract defined "first playable" as "primary combat loop functional with at least three enemy types." Team only had two enemy types ready. Producer tried to present it anyway. Publisher rejected the milestone and held the $180,000 payment. Team had to build the third enemy type in three weeks under financial pressure. Lesson: read your contract language, then read it again.
+**Missing the contract definition.** If a publishing contract defines first playable as "primary combat loop functional with at least three enemy types," two enemy types is a failed milestone, however good they are, and a milestone payment may be held until it passes. Read your contract language, then read it again.
 
-Solo developer, narrative game, self-publishing: No formal milestone process, which is actually fine for a solo dev. But he had no playtest plan, so his first playable sat unplayed by anyone else for six weeks while he kept adding features. When he finally showed it to three people, two fundamental navigation problems emerged that required rearchitecting a core system. He estimated it cost him four months of misdirected work. A single structured playtest at first playable would have caught it at week 10 instead of week 24.
+**Never showing it to anyone.** A solo developer without a formal milestone process is fine, but a first playable nobody else plays is wasted. The longer it sits unplayed while features pile on, the more expensive the fundamental problems become when someone finally finds them. One structured playtest at first playable catches them while they are cheap.
 
 ## Tools Worth Using
 
-For milestone tracking, Hack n Plan (currently around $6-$8 per seat/month as of July 2026) is purpose-built for game dev and handles milestone structures better than generic project management tools. If you're on a tight budget, a well-structured Notion database can get you there, though it requires more setup discipline.
+For milestone tracking, HacknPlan is purpose-built for game dev and handles milestone structures better than generic project management tools. If you're on a tight budget, a well-structured Notion database can get you there, though it requires more setup discipline.
 
 For playtest session documentation, Loom is underrated. Record the playtest, timestamp your notes, and you have a reference that's harder to argue with than memory. For anything more structured, PlaytestCloud is worth the cost if you're doing remote unmoderated playtests.
 
-If you want to go deeper on production methodology, *Project Management for Video Game Developers* by Heather Maxwell Chandler is the closest thing to a standard text the industry has, and it covers milestone structures in useful detail. Raph Koster's *A Theory of Fun* isn't a production book, but understanding it will make you better at assessing whether your first playable is actually testing the right thing.
+If you want to go deeper on production methodology, *The Game Production Handbook* by Heather Maxwell Chandler is the closest thing to a standard text the industry has, and it covers milestone structures in useful detail. Raph Koster's *A Theory of Fun* isn't a production book, but understanding it will make you better at assessing whether your first playable is actually testing the right thing.
 
 ## Sources
 
 - Heather Maxwell Chandler, *Game Production Roadmap* (2020): Industry-standard reference on milestone structures and production pipelines for game development.
-- IGDA Developer Satisfaction Survey: Annual survey tracking developer experiences, project timelines, and production practices across studio sizes.
 - Game Developers Conference (GDC) Vault: Archive of production sessions covering milestone planning, publisher relations, and agile adaptation in game dev contexts.
 - Raph Koster, *A Theory of Fun for Game Design* (2004, revised 2014): Foundational text on game mechanics and what makes a play loop worth evaluating.
 

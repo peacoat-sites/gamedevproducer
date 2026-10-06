@@ -20,12 +20,12 @@ faqs:
  - q: "Is it worth applying to studios I'm underqualified for?"
    a: "Yes, selectively. If a role asks for 5 years and you have 3 strong years, apply. Requirements lists are wishlists, not contracts. What matters is whether your experience maps to the actual work. What's not worth your time: applying to senior roles when you're entry-level, or applying to highly specialized roles (like audio producer or tech producer) without any relevant background in that specialty."
  - q: "What project management tools should I learn right now to be competitive?"
-   a: "Jira is non-negotiable for mid-to-large studios. Learn it well enough that you can build out sprints, manage backlogs, and generate basic reports. Confluence often pairs with it. Shotgrid (formerly Shotgun) is used heavily in studios with large art pipelines. For smaller studios and indie work, Notion and Airtable are increasingly common. Asana shows up in mobile and casual game companies. Pick two and actually use them on a project, even a personal one. Certification courses on Coursera or LinkedIn Learning won't hurt for the resume, but real usage is what holds up in an interview."
+   a: "Jira is non-negotiable for mid-to-large studios. Learn it well enough that you can build out sprints, manage backlogs, and generate basic reports. Confluence often pairs with it. Autodesk Flow Production Tracking (formerly ShotGrid) is used heavily in studios with large art pipelines. For smaller studios and indie work, Notion and Airtable are increasingly common. Asana shows up in mobile and casual game companies. Pick two and actually use them on a project, even a personal one. Certification courses on Coursera or LinkedIn Learning won't hurt for the resume, but real usage is what holds up in an interview."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
-You sent your resume to six studios last month. Nothing. Not even an automated rejection. You tweaked your formatting, swapped in some keywords, sent it to six more. Still silence. Here's what's probably happening: your resume isn't failing because of typos or font choices. It's failing because it looks like every other producer resume in the pile, and hiring managers at studios are spending about 15 seconds on each one before moving on. I've reviewed hundreds of these on both sides of the table, and the gap between the resumes that get calls and the ones that disappear is almost always the same thing: specificity.
+You sent your resume to six studios last month. Nothing. Not even an automated rejection. You tweaked your formatting, swapped in some keywords, sent it to six more. Still silence. Here's what's probably happening: your resume isn't failing because of typos or font choices. It's failing because it looks like every other producer resume in the pile, and hiring managers make a first call on each one in a quick skim. I've reviewed hundreds of these on both sides of the table, and the gap between the resumes that get calls and the ones that disappear is almost always the same thing: specificity.
 
 
 <div class="value-module">
@@ -60,7 +60,7 @@ If you don't have those numbers memorized, go find them. Check your old Jira boa
 
 ## Tailoring for the Role: Don't Skip This Step
 
-A resume for a mobile live ops producer role and one for a narrative game associate producer role shouldn't look identical. I've watched candidates send the same resume to a AAA RPG studio and a mobile F2P shop. Both rejections came back fast.
+A resume for a mobile live ops producer role and one for a narrative game associate producer role shouldn't look identical. Sending the same resume to a AAA RPG studio and a mobile free-to-play studio usually earns two fast rejections.
 
 Before you apply, read the job description twice. Identify the three skills they're clearly prioritizing and make sure those three things show up in the top half of your resume. If they mention Agile, Jira, and stakeholder communication, those words need to appear, but only where they're actually true and backed by something real.
 
@@ -71,13 +71,13 @@ This isn't keyword stuffing. It's alignment. You're showing the hiring manager y
 A dedicated tools section is worth including, but keep it honest and relevant. Hiring managers do look here.
 
 **Include:**
-- Project management tools: Jira, Confluence, Asana, Shotgrid (Autodesk), Hansoft, Smartsheet
+- Project management tools: Jira, Confluence, Asana, Autodesk Flow Production Tracking (formerly ShotGrid), Hansoft, Smartsheet
 - Communication: Slack, Microsoft Teams, Notion
 - Scheduling/tracking: Google Sheets (if you've built real production trackers), Airtable
 
 **Skip:** Microsoft Word, PowerPoint, Google Docs. Listing these wastes space and signals inexperience. Everyone can use Word.
 
-For skill-building, *The Game Production Handbook* by Heather Maxwell Chandler is the closest thing the industry has to a production bible. Coursera's Agile and project management certificates carry legitimate weight for junior roles. Jason Vandenberghe's GDC talks on design and production thinking are free and worth watching.
+For skill-building, *The Game Production Handbook* by Heather Maxwell Chandler is the closest thing the industry has to a production bible. Agile and project management certificates can help junior candidates show they know the vocabulary, though shipped work counts for more. The GDC Vault's production sessions and postmortems are worth watching for how working producers describe their own work.
 
 ## Step-by-Step: Rebuilding Your Resume From Scratch
 
@@ -101,4 +101,4 @@ If you don't have anything to link yet, write something. A 500-word post-mortem 
 
 ---
 
-The producers I've seen break into this industry and grow fast all had one thing in common: they treated their resume like a production document. Scope it correctly, cut what doesn't serve the goal, and make sure every element is pulling its weight. Your resume isn't a life story. It's a pitch for a meeting. Make it earn that meeting.
+The producers I've seen break into this industry and grow fast all had one thing in common: they treated their resume like a production document. Scope it correctly, cut what doesn't serve the goal, and make sure every element is pulling its weight. Your resume isn't a life story. It's a pitch for a meeting. Make it earn that meeting. For a full walkthrough with before-and-after examples, see [how to write a game producer resume](/posts/how-to-write-a-game-producer-resume/).
