@@ -1,4 +1,4 @@
-{{/* ri-noindex-utility */}}{{ $ri := .RelPermalink }}{{ if or (in $ri "/tags/") (eq $ri "/search/") (in $ri "/page/") (eq $ri "/work-with-me/") }}<meta name="robots" content="noindex, follow">{{ end }}
+{{/* ri-noindex-utility */}}{{ $ri := .RelPermalink }}{{ if or (in $ri "/tags/") (eq $ri "/search/") (in $ri "/page/") (eq $ri "/work-with-me/") (eq $ri "/industry-news/") }}<meta name="robots" content="noindex, follow">{{ end }}
 {{ with .Site.Params.google_site_verification }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
 {{ if .IsHome }}
 <script type="application/ld+json">
@@ -125,6 +125,13 @@
 }
 </script>
 {{ end }}
+
+{{- if .Params.tool }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "WebApplication" "name" .Title "url" .Permalink "description" .Description "applicationCategory" (.Params.app_category | default "BusinessApplication") "operatingSystem" "Any (runs in the browser)" "isAccessibleForFree" true "offers" (dict "@type" "Offer" "price" "0" "priceCurrency" "USD") "dateModified" (.Lastmod.Format "2006-01-02") "author" (dict "@type" "Person" "name" (.Params.author | default "Stephen Brenish") "url" (print .Site.BaseURL (.Params.author_slug | default "stephen-brenish") "/")) "publisher" (dict "@type" "Organization" "name" .Site.Title "url" .Site.BaseURL) | jsonify | safeJS }}</script>
+{{- if ne .Type "posts" }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" (slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" .Site.BaseURL) (dict "@type" "ListItem" "position" 2 "name" .Title "item" .Permalink)) | jsonify | safeJS }}</script>
+{{- end }}
+{{- end }}
 
 <!-- FAQPage schema -->
 {{- if .Params.faqs }}

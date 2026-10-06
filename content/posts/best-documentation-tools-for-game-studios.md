@@ -5,7 +5,7 @@ lastmod: 2026-10-06
 draft: false
 description: "Compare top documentation tools designed for game development teams. Find the right platform for wikis, design docs, and collaboration."
 image: "/img/heroes/6804068.jpg"
-categories: ["tools"]
+categories: ["project management"]
 tags: ["best", "documentation", "tools", "game", "studios"]
 author: "Stephen Brenish"
 author_slug: "stephen-brenish"

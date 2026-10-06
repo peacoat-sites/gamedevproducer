@@ -6,11 +6,13 @@
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
 
-# 2026-07-18 thin-category consolidation
-/categories/engines-and-tools/ /categories/pm-frameworks/ 301
-/categories/game-business/ /categories/industry-intel/ 301
-/categories/game-dev-business/ /categories/industry-intel/ 301
-/categories/game-engines/ /categories/pm-frameworks/ 301
+# thin-category consolidation (2026-07-18, retargeted 2026-10-06 to where those pages now live)
+/categories/engines-and-tools/ /categories/production/ 301
+/categories/game-business/ /categories/budgeting/ 301
+/categories/game-dev-business/ /categories/publishing/ 301
+/categories/game-engines/ /categories/production/ 301
 /categories/game-industry/ /categories/industry-intel/ 301
 /categories/industry/ /categories/industry-intel/ 301
-/categories/tools/ /categories/pm-frameworks/ 301
+/categories/tools/ /categories/project-management/ 301
+/categories/industry-data/ /categories/industry-intel/ 301
+/categories/game-marketing/ /categories/publishing/ 301

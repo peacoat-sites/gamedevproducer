@@ -1,0 +1,124 @@
+{{- $d := site.Data.interview_questions -}}
+{{- if $d -}}
+{{- $cn := dict -}}{{- range $d.categories }}{{ $cn = merge $cn (dict .key .name) }}{{ end -}}
+{{- $ln := dict "associate" "Associate" "producer" "Producer" "senior" "Senior / lead" -}}
+<div id="iqb" class="iqb">
+  <div class="iqb-practice">
+    <div class="iqb-kicker">Practice mode</div>
+    <div class="iqb-pq" id="iqb-pq">Set your level and topic below, then press Start. You get one question at a time and two minutes to answer it out loud before you check the guide.</div>
+    <div class="iqb-timer" id="iqb-timer" hidden>2:00</div>
+    <div class="iqb-pa" id="iqb-pa" hidden></div>
+    <div class="iqb-pbtn">
+      <button type="button" id="iqb-start">Start practice</button>
+      <button type="button" id="iqb-reveal" hidden>Show the answer guide</button>
+      <button type="button" id="iqb-next" hidden>Next question</button>
+    </div>
+  </div>
+  <div class="iqb-bar">
+    <label>Level
+      <select id="iqb-lv"><option value="">All levels</option><option value="associate">Associate producer</option><option value="producer">Producer</option><option value="senior">Senior / lead producer</option></select>
+    </label>
+    <label>Topic
+      <select id="iqb-cat"><option value="">All topics</option>{{ range $d.categories }}<option value="{{ .key }}">{{ .name }}</option>{{ end }}</select>
+    </label>
+    <label>Search
+      <input id="iqb-q" type="search" placeholder="e.g. milestone, live ops, conflict">
+    </label>
+  </div>
+  <div class="iqb-meta"><span id="iqb-count">{{ len $d.questions }} questions</span><button type="button" id="iqb-expand">Expand all</button></div>
+  <div class="iqb-list">
+    {{- range $i, $q := $d.questions }}
+    <details class="iqb-card" id="q{{ add $i 1 }}" data-cat="{{ $q.cat }}" data-lv="{{ delimit $q.lv " " }}">
+      <summary><span class="iqb-n">{{ add $i 1 }}</span><span class="iqb-qt">{{ $q.q }}</span><span class="iqb-tag">{{ index $cn $q.cat }}</span></summary>
+      <div class="iqb-body">
+        <p><strong>What they are testing:</strong> {{ $q.test }}</p>
+        <div class="iqb-cols">
+          <div class="iqb-good"><div class="iqb-h">A strong answer covers</div><ul>{{ range $q.strong }}<li>{{ . }}</li>{{ end }}</ul></div>
+          <div class="iqb-bad"><div class="iqb-h">Red flags</div><ul>{{ range $q.weak }}<li>{{ . }}</li>{{ end }}</ul></div>
+        </div>
+        <p class="iqb-fu"><strong>Likely follow-up:</strong> {{ $q.follow }}</p>
+        <p class="iqb-lvl">Typically asked of: {{ range $j, $l := $q.lv }}{{ if $j }}, {{ end }}{{ index $ln $l }}{{ end }}</p>
+      </div>
+    </details>
+    {{- end }}
+  </div>
+  <p class="iqb-empty" id="iqb-empty" hidden>No questions match those filters. Try another topic or level.</p>
+</div>
+<style>
+.iqb{margin:28px 0}
+.iqb-practice{border:1px solid var(--border);border-radius:14px;padding:18px 20px;background:var(--surface,#fff);margin-bottom:16px}
+.iqb-kicker{font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#4338ca)}
+.iqb-pq{font-size:1.08rem;font-weight:700;color:var(--heading,#0f172a);margin:6px 0 10px;line-height:1.45}
+.iqb-pq.idle{font-size:.92rem;font-weight:400;color:var(--muted)}
+.iqb-timer{font-size:2rem;font-weight:800;font-variant-numeric:tabular-nums;color:var(--heading,#0f172a);margin-bottom:10px}
+.iqb-timer.over{color:#b91c1c}
+.iqb-pa{border-top:1px solid var(--border);padding-top:10px;margin-bottom:10px}
+.iqb-pbtn{display:flex;gap:8px;flex-wrap:wrap}
+.iqb-pbtn button,.iqb-meta button{padding:9px 14px;border-radius:9px;border:1.5px solid var(--accent,#4338ca);background:var(--surface,#fff);color:var(--accent,#4338ca);font-weight:700;font-size:.85rem;cursor:pointer;font-family:inherit}
+#iqb-start,#iqb-next{background:var(--accent,#4338ca);color:#fff}
+.iqb-bar{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;padding:16px;border:1px solid var(--border);border-radius:12px;background:var(--surface2,#f8fafc)}
+.iqb-bar label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.iqb-bar select,.iqb-bar input{padding:10px 12px;border:1.5px solid var(--border-strong,#cbd5e1);border-radius:10px;font-size:15px;font-family:inherit;color:var(--text);background:var(--surface,#fff)}
+.iqb-meta{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:12px 2px;font-size:.88rem;color:var(--muted);font-weight:600}
+.iqb-meta button{padding:6px 11px;font-size:.8rem}
+.iqb-list{display:flex;flex-direction:column;gap:8px}
+.iqb-card{border:1px solid var(--border);border-radius:11px;background:var(--surface,#fff)}
+.iqb-card[hidden]{display:none}
+.iqb-card summary{display:flex;gap:11px;align-items:baseline;padding:13px 15px;cursor:pointer;list-style:none}
+.iqb-card summary::-webkit-details-marker{display:none}
+.iqb-n{flex-shrink:0;min-width:24px;font-weight:800;font-size:.8rem;color:var(--accent,#4338ca)}
+.iqb-qt{flex:1;font-weight:650;color:var(--heading,#0f172a);line-height:1.4}
+.iqb-tag{flex-shrink:0;font-size:.66rem;font-weight:700;padding:3px 8px;border-radius:999px;background:var(--surface2,#f1f5f9);color:var(--muted);white-space:nowrap}
+.iqb-body{padding:0 15px 14px 50px;font-size:.9rem;line-height:1.55}
+.iqb-body p{margin:6px 0}
+.iqb-cols{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin:10px 0}
+.iqb-cols>div{border-radius:9px;padding:10px 12px}
+.iqb-good{background:#f0fdf4}.iqb-bad{background:#fef2f2}
+.iqb-h{font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px}
+.iqb-good .iqb-h{color:#166534}.iqb-bad .iqb-h{color:#991b1b}
+.iqb-cols ul{margin:0;padding-left:18px}
+.iqb-cols li{margin:3px 0;color:#1f2937}
+.iqb-lvl{font-size:.78rem;color:var(--muted)}
+.iqb-empty{padding:20px;text-align:center;color:var(--muted)}
+@media (max-width:640px){.iqb-cols{grid-template-columns:1fr}.iqb-body{padding-left:15px}.iqb-tag{display:none}}
+@media print{.iqb-practice,.iqb-bar,.iqb-meta button{display:none}}
+</style>
+<script>
+(function(){
+  var root=document.getElementById('iqb');if(!root)return;
+  var cards=[].slice.call(root.querySelectorAll('.iqb-card'));
+  var lv=root.querySelector('#iqb-lv'),cat=root.querySelector('#iqb-cat'),q=root.querySelector('#iqb-q');
+  var pq=root.querySelector('#iqb-pq'),tm=root.querySelector('#iqb-timer'),pa=root.querySelector('#iqb-pa');
+  var bStart=root.querySelector('#iqb-start'),bRev=root.querySelector('#iqb-reveal'),bNext=root.querySelector('#iqb-next'),bExp=root.querySelector('#iqb-expand');
+  var seen={},cur=null,tick=null;
+  pq.classList.add('idle');
+  function match(c){
+    var qq=q.value.trim().toLowerCase();
+    return (!lv.value||(' '+c.dataset.lv+' ').indexOf(' '+lv.value+' ')>-1)&&(!cat.value||c.dataset.cat===cat.value)&&(!qq||c.textContent.toLowerCase().indexOf(qq)>-1);
+  }
+  function run(){
+    var n=0;cards.forEach(function(c){var ok=match(c);c.hidden=!ok;if(ok)n++});
+    root.querySelector('#iqb-count').textContent=n+' question'+(n===1?'':'s');root.querySelector('#iqb-empty').hidden=n>0;seen={};
+  }
+  function fmt(s){var a=Math.abs(s);return(s<0?'+':'')+Math.floor(a/60)+':'+('0'+a%60).slice(-2)}
+  function startTimer(){
+    clearInterval(tick);var left=120;tm.textContent=fmt(left);tm.classList.remove('over');tm.hidden=false;
+    tick=setInterval(function(){left--;tm.textContent=fmt(left);if(left<=0)tm.classList.add('over')},1000);
+  }
+  function pick(){
+    var pool=cards.filter(match);
+    if(!pool.length){pq.textContent='No questions match those filters.';return}
+    var fresh=pool.filter(function(c){return!seen[c.id]});
+    if(!fresh.length){seen={};fresh=pool}
+    cur=fresh[Math.floor(Math.random()*fresh.length)];seen[cur.id]=1;
+    pq.classList.remove('idle');pq.textContent=cur.querySelector('.iqb-qt').textContent;
+    pa.hidden=true;pa.innerHTML='';bStart.hidden=true;bRev.hidden=false;bNext.hidden=false;startTimer();
+  }
+  bStart.addEventListener('click',pick);bNext.addEventListener('click',pick);
+  bRev.addEventListener('click',function(){if(!cur)return;clearInterval(tick);pa.innerHTML=cur.querySelector('.iqb-body').innerHTML;pa.hidden=false;bRev.hidden=true});
+  bExp.addEventListener('click',function(){var open=bExp.textContent==='Expand all';cards.forEach(function(c){if(!c.hidden)c.open=open});bExp.textContent=open?'Collapse all':'Expand all'});
+  [lv,cat].forEach(function(e){e.addEventListener('change',run)});q.addEventListener('input',run);
+  var h=location.hash&&document.getElementById(location.hash.slice(1));if(h&&h.classList.contains('iqb-card'))h.open=true;
+})();
+</script>
+{{- end -}}

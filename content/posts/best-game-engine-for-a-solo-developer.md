@@ -5,7 +5,7 @@ lastmod: 2026-10-06
 draft: false
 description: "How a solo developer should choose a game engine in 2026: what Godot, Unity, Unreal, GameMaker and Defold actually cost, which genres each suits, and why switching engines mid-project is the real risk."
 image: "/img/heroes/6804080.jpg"
-categories: ["Engines and Tools"]
+categories: ["production"]
 tags: ["best", "game", "engine", "solo", "developer"]
 author: "Stephen Brenish"
 author_slug: "stephen-brenish"

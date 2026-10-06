@@ -1,160 +1,104 @@
-<div style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
+{{- /* Steam revenue estimator: wishlist mode (pre-launch) and review mode (post-launch) */ -}}
+<div id="src" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
   <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Steam Game Revenue Estimator</div>
   <div style="padding:20px">
     <p style="margin:0 0 16px;padding:12px 16px;background:color-mix(in srgb,var(--accent) 8%,#fff);border:1px solid color-mix(in srgb,var(--accent) 25%,transparent);border-radius:10px;font-size:.9rem;color:var(--muted)">
-      <strong>Estimates only.</strong> Actual results vary enormously. Uses the Boxleiter Method and community-sourced data — not official Steam figures.
+      <strong>Estimates only.</strong> Built on published GameDiscoverCo and Gamalytic benchmarks, not Valve data. Individual games vary by 10x or more.
     </p>
 
-    <!-- Mode toggle -->
-    <div style="display:flex;gap:10px;margin-bottom:18px">
-      <button id="src-ccu" onclick="srcToggle('ccu')" style="flex:1;padding:10px;border:2px solid var(--accent);border-radius:10px;background:var(--accent);color:#fff;font-weight:700;cursor:pointer;font-size:.95rem">Peak CCU Mode</button>
-      <button id="src-wish" onclick="srcToggle('wish')" style="flex:1;padding:10px;border:2px solid var(--border-strong);border-radius:10px;background:var(--surface);color:var(--text);font-weight:700;cursor:pointer;font-size:.95rem">Wishlist Mode</button>
+    <div style="display:flex;gap:10px;margin-bottom:18px" role="tablist">
+      <button type="button" class="src-tab" data-mode="wish" style="flex:1;padding:10px;border:2px solid var(--accent);border-radius:10px;background:var(--accent);color:#fff;font-weight:700;cursor:pointer;font-size:.95rem;font-family:inherit">Before launch: wishlists</button>
+      <button type="button" class="src-tab" data-mode="rev" style="flex:1;padding:10px;border:2px solid var(--border-strong);border-radius:10px;background:var(--surface);color:var(--text);font-weight:700;cursor:pointer;font-size:.95rem;font-family:inherit">After launch: reviews</button>
     </div>
 
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px">
       <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
-        Game Price ($)
-        <input id="src-price" type="number" value="14.99" min="0.99" step="0.01"
-          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s"
-          onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'"
-          onblur="this.style.borderColor='';this.style.boxShadow=''" oninput="srcCalc()">
+        Launch price ($)
+        <input id="src-price" type="number" value="14.99" min="0" step="0.01" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
       </label>
-
-      <label id="lbl-ccu" style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
-        Peak Concurrent Players (CCU)
-        <input id="src-ccu-val" type="number" value="500" min="1"
-          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s"
-          onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'"
-          onblur="this.style.borderColor='';this.style.boxShadow=''" oninput="srcCalc()">
+      <label class="src-m-wish" style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Wishlists at launch
+        <input id="src-wish-val" type="number" value="10000" min="0" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
       </label>
-
-      <label id="lbl-wish" style="display:none;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
-        Wishlist Count at Launch
-        <input id="src-wish-val" type="number" value="10000" min="1"
-          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s"
-          onfocus="this.style.borderColor='var(--accent)';this.style.boxShadow='0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)'"
-          onblur="this.style.borderColor='';this.style.boxShadow=''" oninput="srcCalc()">
-      </label>
-
-      <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
-        Genre
-        <select id="src-genre" oninput="srcCalc()"
-          style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
-          <option value="1.0">Action / Shooter</option>
-          <option value="0.9">Platformer</option>
-          <option value="1.1">RPG</option>
-          <option value="1.0">Strategy</option>
-          <option value="0.75">Puzzle / Casual</option>
-          <option value="1.2">Simulation</option>
-          <option value="0.9">Horror</option>
-          <option value="0.6">Visual Novel</option>
-          <option value="1.0">Other</option>
+      <label class="src-m-wish" style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Release type
+        <select id="src-rel" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+          <option value="full" selected>Full release</option>
+          <option value="ea">Early Access</option>
         </select>
       </label>
+      <label class="src-m-rev" style="display:none;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+        Steam reviews (total)
+        <input id="src-rev-val" type="number" value="500" min="0" style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+      </label>
     </div>
 
-    <label style="display:flex;align-items:center;gap:10px;margin-top:16px;font-size:14px;font-weight:600;color:var(--text);cursor:pointer">
-      <input id="src-dlc" type="checkbox" onchange="srcCalc()" style="width:18px;height:18px;accent-color:var(--accent)">
-      Has DLC? <span style="font-weight:400;color:var(--muted)">(adds ~15% to revenue estimate)</span>
-    </label>
-
-    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px" id="src-results">
-      <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
-        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Est. Units Sold</span>
-        <span id="src-units" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
+    <div class="src-m-wish" style="margin-top:20px">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px">
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center"><span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Week-one units</span><span id="src-w1u" style="display:block;font-size:1.6rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span></div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center"><span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Net, week one</span><span id="src-w1n" style="display:block;font-size:1.6rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span></div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center"><span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Year-one units</span><span id="src-y1u" style="display:block;font-size:1.6rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span></div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center"><span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Net, year one</span><span id="src-y1n" style="display:block;font-size:1.6rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span></div>
+        <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center"><span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Net, two years</span><span id="src-y2n" style="display:block;font-size:1.6rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">-</span></div>
       </div>
-      <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
-        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Gross Revenue</span>
-        <span id="src-gross" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
-      </div>
-      <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
-        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Dev Net (after Steam + refunds)</span>
-        <span id="src-net" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
-      </div>
-      <div id="src-dlc-card" style="display:none;background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
-        <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">With DLC Revenue</span>
-        <span id="src-dlc-val-out" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
-      </div>
+      <p style="margin:12px 0 0;font-size:12px;color:var(--muted);line-height:1.55">Week one uses the median of 0.10 sales per wishlist above $10 and 0.15 at $10 or less, about a third lower for Early Access. Year one is the median 2.59x week-one units and 2.46x week-one revenue; two years is 3.32x units and 2.99x revenue. Revenue grows more slowly than units because later sales are mostly at a discount.</p>
     </div>
 
-    <!-- Scenarios table -->
-    <div style="margin-top:24px">
-      <div style="font-weight:700;font-size:.95rem;margin-bottom:10px">Revenue Scenarios (rough benchmarks)</div>
-      <div style="overflow-x:auto">
-        <table style="width:100%;border-collapse:collapse;font-size:.88rem">
-          <thead>
-            <tr style="background:var(--surface2)">
-              <th style="padding:9px 12px;text-align:left;border:1px solid var(--border);white-space:nowrap">Peak CCU</th>
-              <th style="padding:9px 12px;text-align:right;border:1px solid var(--border);white-space:nowrap">Owners est.</th>
-              <th style="padding:9px 12px;text-align:right;border:1px solid var(--border);white-space:nowrap">@ $9.99 net</th>
-              <th style="padding:9px 12px;text-align:right;border:1px solid var(--border);white-space:nowrap">@ $14.99 net</th>
-              <th style="padding:9px 12px;text-align:right;border:1px solid var(--border);white-space:nowrap">@ $24.99 net</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr><td style="padding:8px 12px;border:1px solid var(--border)">100</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">~30,000</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$209k</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$314k</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$523k</td></tr>
-            <tr style="background:var(--surface2)"><td style="padding:8px 12px;border:1px solid var(--border)">500</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">~150,000</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$1.05M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$1.57M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$2.6M</td></tr>
-            <tr><td style="padding:8px 12px;border:1px solid var(--border)">1,000</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">~300,000</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$2.1M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$3.1M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$5.2M</td></tr>
-            <tr style="background:var(--surface2)"><td style="padding:8px 12px;border:1px solid var(--border)">5,000</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">~1.5M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$10.5M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$15.7M</td><td style="padding:8px 12px;border:1px solid var(--border);text-align:right">$26.2M</td></tr>
-          </tbody>
-        </table>
-      </div>
-      <p style="margin:10px 0 0;font-size:12px;color:var(--stone)">These are rough estimates. Use as order-of-magnitude benchmarks only.</p>
+    <div class="src-m-rev" style="display:none;margin-top:20px;overflow-x:auto">
+      <table style="width:100%;border-collapse:collapse;font-size:13px">
+        <thead><tr style="background:var(--surface2)">
+          <th style="text-align:left;padding:10px 12px;font-weight:700;color:var(--muted);border-bottom:1px solid var(--border)">Sales per review</th>
+          <th style="text-align:right;padding:10px 12px;font-weight:700;color:var(--muted);border-bottom:1px solid var(--border)">Estimated units</th>
+          <th style="text-align:right;padding:10px 12px;font-weight:700;color:var(--muted);border-bottom:1px solid var(--border)">Gross at full price</th>
+          <th style="text-align:right;padding:10px 12px;font-weight:700;color:var(--muted);border-bottom:1px solid var(--border)">Net at full price</th>
+        </tr></thead>
+        <tbody id="src-rev-body"></tbody>
+      </table>
+      <p style="margin:12px 0 0;font-size:12px;color:var(--muted);line-height:1.55">Published ratios mostly fall between about 30 and 80 sales per review, lower for small and recent games. Gamalytic data found about 36 for games with under 100 reviews and about 53 for games with 1,000 to 10,000. Full-price revenue is an upper bound: discounts, regional pricing and bundles mean real revenue is lower.</p>
     </div>
 
-    <div style="margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem;line-height:1.5">
-      <strong>Disclaimer:</strong> The Boxleiter Method is an unverified community heuristic. Valve does not publish sales data. These are order-of-magnitude estimates for planning, not predictions.
-    </div>
+    <p style="margin:16px 0 0;font-size:12px;color:var(--muted);line-height:1.55">Net is after Valve's 30% share (25% above $10M and 20% above $50M in lifetime revenue, not modeled here) and an 8% refund allowance, before sales tax, regional pricing and any publisher split.</p>
   </div>
 </div>
-
+<style>
+#src-rev-body td{padding:9px 12px;border-bottom:1px solid var(--border)}
+#src-rev-body td+td{text-align:right}
+#src-rev-body tr:nth-child(even){background:var(--surface2)}
+#src input:focus,#src select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)}
+</style>
 <script>
 (function(){
-  var mode='ccu';
-  window.srcToggle=function(m){
+  var root=document.getElementById('src');if(!root)return;
+  var mode='wish',NET=0.70*0.92;
+  function money(n){if(n>=1e6)return'$'+(n/1e6).toFixed(2)+'M';if(n>=1e4)return'$'+Math.round(n/1e3)+'k';return'$'+Math.round(n).toLocaleString();}
+  function units(n){return Math.round(n).toLocaleString();}
+  function val(id){return Math.max(0,parseFloat(document.getElementById(id).value)||0);}
+  function setMode(m){
     mode=m;
-    document.getElementById('lbl-ccu').style.display=m==='ccu'?'flex':'none';
-    document.getElementById('lbl-wish').style.display=m==='wish'?'flex':'none';
-    document.getElementById('src-ccu').style.background=m==='ccu'?'var(--accent)':'var(--surface)';
-    document.getElementById('src-ccu').style.color=m==='ccu'?'#fff':'var(--text)';
-    document.getElementById('src-ccu').style.borderColor=m==='ccu'?'var(--accent)':'var(--border-strong)';
-    document.getElementById('src-wish').style.background=m==='wish'?'var(--accent)':'var(--surface)';
-    document.getElementById('src-wish').style.color=m==='wish'?'#fff':'var(--text)';
-    document.getElementById('src-wish').style.borderColor=m==='wish'?'var(--accent)':'var(--border-strong)';
-    srcCalc();
-  };
-  function fmt(n){
-    if(n>=1e6) return '$'+(n/1e6).toFixed(2)+'M';
-    if(n>=1e3) return '$'+(n/1e3).toFixed(0)+'k';
-    return '$'+n.toFixed(0);
+    root.querySelectorAll('.src-tab').forEach(function(b){var on=b.dataset.mode===m;b.style.background=on?'var(--accent)':'var(--surface)';b.style.color=on?'#fff':'var(--text)';b.style.borderColor=on?'var(--accent)':'var(--border-strong)';b.setAttribute('aria-selected',on)});
+    root.querySelectorAll('.src-m-wish').forEach(function(e){e.style.display=m==='wish'?(e.tagName==='LABEL'?'flex':'block'):'none'});
+    root.querySelectorAll('.src-m-rev').forEach(function(e){e.style.display=m==='rev'?(e.tagName==='LABEL'?'flex':'block'):'none'});
+    calc();
   }
-  function fmtN(n){
-    if(n>=1e6) return (n/1e6).toFixed(2)+'M';
-    if(n>=1e3) return (n/1e3).toFixed(0)+'k';
-    return n.toFixed(0);
-  }
-  window.srcCalc=function(){
-    var price=parseFloat(document.getElementById('src-price').value)||0;
-    var genre=parseFloat(document.getElementById('src-genre').value)||1;
-    var dlc=document.getElementById('src-dlc').checked;
-    var owners=0;
-    if(mode==='ccu'){
-      var ccu=parseFloat(document.getElementById('src-ccu-val').value)||0;
-      owners=ccu*300*genre;
+  function calc(){
+    var price=val('src-price');
+    if(mode==='wish'){
+      var r=price>10?0.10:0.15;if(document.getElementById('src-rel').value==='ea')r*=0.67;
+      var u1=val('src-wish-val')*r,n1=u1*price*NET;
+      document.getElementById('src-w1u').textContent=units(u1);
+      document.getElementById('src-w1n').textContent=money(n1);
+      document.getElementById('src-y1u').textContent=units(u1*2.59);
+      document.getElementById('src-y1n').textContent=money(n1*2.46);
+      document.getElementById('src-y2n').textContent=money(n1*2.99);
     } else {
-      var wish=parseFloat(document.getElementById('src-wish-val').value)||0;
-      owners=wish*0.2;
+      var rv=val('src-rev-val');
+      document.getElementById('src-rev-body').innerHTML=[30,50,70].map(function(m){
+        var u=rv*m;return '<tr><td>'+m+'x'+(m===50?' (middle)':'')+'</td><td>'+units(u)+'</td><td>'+money(u*price)+'</td><td>'+money(u*price*NET)+'</td></tr>';
+      }).join('');
     }
-    owners=Math.round(owners);
-    var gross=owners*price;
-    var devNet=gross*0.70*0.92;
-    var devNetDlc=devNet*1.15;
-    document.getElementById('src-units').textContent=fmtN(owners);
-    document.getElementById('src-gross').textContent=fmt(gross);
-    document.getElementById('src-net').textContent=fmt(devNet);
-    document.getElementById('src-dlc-card').style.display=dlc?'block':'none';
-    document.getElementById('src-dlc-val-out').textContent=fmt(devNetDlc);
-  };
-  srcCalc();
+  }
+  root.querySelectorAll('.src-tab').forEach(function(b){b.addEventListener('click',function(){setMode(b.dataset.mode)})});
+  root.querySelectorAll('input,select').forEach(function(e){e.addEventListener('input',calc);e.addEventListener('change',calc)});
+  calc();
 })();
 </script>

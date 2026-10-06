@@ -15,12 +15,14 @@
         Platform Fee (%)
         <select id="roy-platform" oninput="royCalc()"
           style="width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
-          <option value="30" selected>Steam — 30%</option>
-          <option value="12">Epic Games Store — 12%</option>
-          <option value="10">itch.io — 10%</option>
-          <option value="30">Console (PlayStation/Xbox/Switch) — 30%</option>
-          <option value="15">Apple App Store — 15%</option>
-          <option value="15">Google Play — 15%</option>
+          <option value="30" selected>Steam (30%)</option>
+          <option value="0.0">Epic Games Store, first $1M a year (0%)</option>
+          <option value="12">Epic Games Store, above $1M a year (12%)</option>
+          <option value="10">itch.io (10% default, adjustable)</option>
+          <option value="30">Console: PlayStation, Xbox, Switch (30%)</option>
+          <option value="30">Apple App Store, standard (30%)</option>
+          <option value="15">Apple App Store, Small Business Program (15%)</option>
+          <option value="15">Google Play, first $1M a year (15%)</option>
           <option value="0">Custom…</option>
         </select>
       </label>

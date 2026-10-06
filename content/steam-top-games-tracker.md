@@ -2,8 +2,9 @@
 title: "The Steam Top 15 Tracker: What Players Are Actually Playing"
 date: 2026-07-14
 slug: "steam-top-games-tracker"
+tool: true
 description: "Weekly-updated table of the top Steam games by peak concurrent players, with estimated ownership and pricing, from SteamSpy data."
-categories: ["Industry Data"]
+categories: ["industry intel"]
 author: "Stephen Brenish"
 author_title: "Lead Game Producer"
 author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."

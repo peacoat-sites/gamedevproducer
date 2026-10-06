@@ -2,7 +2,7 @@
 <div class="igbe-wrap" style="margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums">
   <div style="padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem">Indie Game Budget Estimator</div>
   <div style="padding:20px">
-    <p style="margin:0 0 18px;color:var(--muted);font-size:.95rem">Estimate the true cost to ship your game — including the hidden costs most first-timers miss.</p>
+    <p style="margin:0 0 18px;color:var(--muted);font-size:.95rem">Estimate what it costs to ship your game, including the costs first-time teams often miss.</p>
 
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-bottom:14px">
       <!-- Game scope -->
@@ -76,6 +76,13 @@
         <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer"><input type="checkbox" id="igbe-ps" style="width:16px;height:16px;accent-color:var(--accent)"> PlayStation</label>
         <label style="display:flex;align-items:center;gap:8px;font-size:14px;font-weight:500;color:var(--text);cursor:pointer"><input type="checkbox" id="igbe-xbox" style="width:16px;height:16px;accent-color:var(--accent)"> Xbox</label>
       </div>
+      <div id="igbe-con-row" style="display:none;margin-top:12px">
+        <label style="display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)">
+          Console allowance per platform ($)
+          <input id="igbe-con" type="number" min="0" max="200000" step="500" value="2500" style="width:100%;max-width:220px;padding:10px 12px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit">
+        </label>
+        <p style="margin:6px 0 0;font-size:12px;color:var(--muted);line-height:1.5">A planning allowance for development hardware, extra certification QA and age ratings. Platform holders share actual terms with registered developers, so replace it with real quotes once you have them.</p>
+      </div>
     </div>
 
     <!-- Marketing -->
@@ -99,7 +106,7 @@
           <span id="igbe-r-dev" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
         </div>
         <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
-          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Platform & Cert</span>
+          <span style="display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)">Platforms</span>
           <span id="igbe-r-plat" style="display:block;font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0">—</span>
         </div>
         <div style="background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center">
@@ -127,7 +134,7 @@
       <div id="igbe-equity-note" style="display:none;margin-top:14px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem"></div>
 
       <div style="margin-top:14px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem">
-        <strong>Most indie games take 2–3x longer than estimated.</strong> The 20% contingency here is a minimum — experienced devs often pad 50–100%.
+        <strong>Schedules almost always run long.</strong> The 20% contingency here is a floor, not a target. Teams shipping their first game, or working in a new engine, should plan for more.
       </div>
 
       <div id="igbe-breakeven" style="margin-top:14px;padding:14px 18px;border-radius:12px;background:var(--surface2);font-size:.95rem;font-weight:600"></div>
@@ -144,7 +151,11 @@
 
 <script>
 (function(){
-  var scopeHrs={jam:300,small:2000,mid:10000,large:40000};
+  // full-time hours per person: midpoint months of each scope range x ~150 working hours a month
+  var scopeHrs={jam:90,small:675,mid:1800,large:3600};
+  var consoles=['igbe-switch','igbe-ps','igbe-xbox'];
+  function syncCon(){document.getElementById('igbe-con-row').style.display=consoles.some(function(id){return document.getElementById(id).checked})?'block':'none';}
+  consoles.forEach(function(id){document.getElementById(id).addEventListener('change',syncCon);});
   var mktPct={minimal:0,standard:.125,aggressive:.25};
   var mktFlat={minimal:1250};
 
@@ -178,15 +189,14 @@
 
     // platform fees
     var platCost=0;
-    if(document.getElementById('igbe-pc').checked) platCost+=100;
-    if(document.getElementById('igbe-ios').checked) platCost+=99+25;
-    if(document.getElementById('igbe-android').checked) platCost+=25+(document.getElementById('igbe-ios').checked?0:99);
-    if(document.getElementById('igbe-switch').checked) platCost+=500;
-    if(document.getElementById('igbe-ps').checked) platCost+=5000;
-    if(document.getElementById('igbe-xbox').checked) platCost+=5000;
+    if(document.getElementById('igbe-pc').checked) platCost+=100; // Steam Direct fee per game
+    if(document.getElementById('igbe-ios').checked) platCost+=99; // Apple Developer Program, per year
+    if(document.getElementById('igbe-android').checked) platCost+=25; // Google Play, one-time
+    var conAllow=Math.max(0,parseFloat(document.getElementById('igbe-con').value)||0);
+    consoles.forEach(function(id){if(document.getElementById(id).checked) platCost+=conAllow;});
 
     // tools
-    var toolsCost=350*members; // midpoint $200-500
+    var toolsCost=30*(baseHrs/150)*members; // ~$30 per person per month of development
 
     // audio
     var audioCost=document.getElementById('igbe-audio').checked?0:4000;

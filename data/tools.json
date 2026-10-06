@@ -78,6 +78,20 @@
     "desc": "22 verified grants, tax credits and rebates for game studios, filterable by region, type and stage."
   },
   {
+    "label": "Producer Interview Question Bank",
+    "url": "/game-producer-interview-questions/",
+    "icon": "💬",
+    "match": [
+      "interview",
+      "career",
+      "resume",
+      "salary",
+      "producer role",
+      "portfolio"
+    ],
+    "desc": "40 game producer interview questions with what each one tests, strong-answer guides, red flags and a timed practice mode."
+  },
+  {
     "label": "Indie Game Budget Calculator",
     "url": "/indie-game-budget-calculator/",
     "icon": "🧮",
@@ -134,7 +148,7 @@
     "url": "/steam-top-games-tracker/",
     "icon": "🏆",
     "match": [
-      "industry data",
+      "industry intel",
       "live service",
       "free-to-play",
       "players",

@@ -23,9 +23,9 @@ faqs:
    a: "At minimum, every milestone. In practice, I'd recommend a light recalibration every four to six sprints, especially if team composition has changed, scope has shifted, or your velocity data is drifting significantly from your estimates. Capacity models are not set-and-forget."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
-You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The [post-mortem reveals](/posts/how-to-run-a-game-development-retrospective/) no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.
+You planned for 8 weeks of feature work. Your team delivered 4 weeks worth. The postmortem reveals no single catastrophic failure, just a slow bleed: a programmer pulled into an unplanned engine upgrade, an artist out sick for two weeks, three "quick" feedback rounds that each took a week, and a lead who spent 40% of her time in meetings instead of making things. Sound familiar? This is capacity planning failure, and it's the most common reason game projects ship late or die in development.
 
 ## Why Game Studios Get Capacity Planning Wrong
 
@@ -37,7 +37,7 @@ What surprised me when I dug into this was how poorly most studios track the gap
 
 ## The Capacity Planning Model That Actually Works
 
-Here's the approach I've seen hold up across indie and mid-size teams.
+Here's an approach that holds up across indie and mid-size teams.
 
 **Step 1: Establish your baseline velocity first.** Don't plan capacity for a new sprint until you have at least three sprints of actual throughput data. Use whatever unit fits your workflow: story points, task count, hours completed. The unit matters less than consistency.
 
