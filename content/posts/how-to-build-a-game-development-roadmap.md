@@ -1,8 +1,8 @@
 ---
-title: "Your Game Dev Roadmap: Steps From Concept to Launch"
+title: "How to Build a Game Development Roadmap (From Concept to Launch)"
 date: 2026-06-12T11:58:23.150495+00:00
 draft: false
-description: "Learn how to build a game development roadmap with clear steps, timelines, and milestones to take your game from concept to launch successfully."
+description: "How to build a game development roadmap that holds up: milestone gates, the vertical slice, scope decisions, certification windows, and content roadmaps for live-service games."
 image: "/img/heroes/7964147.jpg"
 categories: ["project management"]
 tags: ["build", "game", "development", "roadmap"]
@@ -23,7 +23,7 @@ faqs:
     a: "Document everything. Update your confidence percentages. Make the delta between the current plan and realistic delivery visible in writing, repeatedly. If you're being pressured to maintain a roadmap you know is wrong, that's a project health problem, not a roadmap problem, and your job is to make the risk legible, not to paper over it."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-08-12
+lastmod: 2026-10-06
 ---
 Most game development roadmaps I've seen are either dishonestly optimistic or so vague they're useless. And I'll be honest: I was guilty of building both kinds before I figured out what actually works.
 
@@ -55,13 +55,15 @@ When you're plotting this milestone on your roadmap, ask yourself: what are the 
 
 Okay, practically speaking. Here's how I'd approach this.
 
-Start in whatever tool your team will actually look at. Notion, Confluence, even a shared Google Doc works better than a beautifully formatted document in a tool nobody opens. I've used Hacknplan (it's built specifically for game dev, runs about $6-9 per user per month for the paid tier) and it's solid for studios that want game-specific task tracking. Productboard works if you're managing a more complex stakeholder situation. For most indie teams, an honest Notion database with a timeline view is completely sufficient.
+Start in whatever tool your team will actually look at. Notion, Confluence, even a shared Google Doc works better than a beautifully formatted document in a tool nobody opens. Hacknplan is built specifically for game dev and is solid for studios that want game-specific task tracking. Productboard works if you're managing a more complex stakeholder situation. For most indie teams, an honest Notion database with a timeline view is completely sufficient.
 
 Your roadmap document should contain, at minimum:
 
 The major milestones with their concrete definitions. Dates attached to milestones, not to individual tasks (you'll move tasks constantly; you move milestone dates rarely and deliberately). The critical path: which features or systems have to be done before other things can start? A rough capacity map: how many people are on the project, in what disciplines, and for how long? Any known external dependencies: hardware certification windows, platform submission deadlines, convention demo dates that are immovable.
 
 What the roadmap should *not* contain at this level: individual task assignments, daily or weekly granularity, speculative features without a decision made, or a final ship date before you've completed your Vertical Slice. I know that last one is uncomfortable when publishers or bosses want a date. The honest answer is that you can give a target window, but committing to a specific ship date before you know your game works is how you end up in a death march.
+
+To turn milestones into dates quickly, the [game development schedule planner](/game-development-schedule-planner/) builds phases, milestone gates, buffer and platform deadlines from a target launch date, and exports them to your calendar.
 
 ## Scope: the conversation nobody wants to have
 
@@ -73,6 +75,18 @@ The roadmap is your tool for making scope decisions visible. When someone wants 
 
 There are two books I keep recommending on this. "The Art of Game Design" by Jesse Schell covers design decision-making in ways that directly inform scope conversations. For the production and business side, "Blood, Sweat, and Pixels" by Jason Schreier is required reading. Not as a how-to, but because it documents, with brutal specificity, what happens when scope and roadmap discipline break down.
 
+## Content roadmaps: planning what ships after launch
+
+A content roadmap is the plan for what new content a game releases after launch, and when: seasons, events, updates, new modes, and the production work behind each one. It is the central planning document for live-service games, and increasingly for premium games that ship post-launch updates or DLC.
+
+It differs from a development roadmap in three ways:
+
+- **It runs on a fixed cadence.** A season or major update ships on a date players can see coming, so the content roadmap is built backward from release dates rather than forward from features.
+- **It is staggered.** While one season is live, the next is in final production and the one after that is in pre-production. A healthy content roadmap shows two or three beats in flight at once.
+- **It often has a public version.** Many live games publish a simplified roadmap to set player expectations. Keep the internal version, with real confidence levels and dependencies, separate from the public one, and only publish what you are confident you can ship.
+
+A useful rule for launch: have your first season finished and the second in production before day one. The cadence you promise at launch is the one players will hold you to. The full approach is in [how to plan a games-as-a-service roadmap](/posts/how-to-plan-a-games-as-a-service-roadmap/).
+
 ## The endgame: code lock, cert, and going gold
 
 There's one stretch of the roadmap worth calling out on its own, because it runs on someone else's clock: the path from code lock to a shipping build. On console especially, "launch" is not the real deadline. Certification is, and it sits weeks earlier.
@@ -83,7 +97,7 @@ The back end of the schedule usually runs in this order:
 - **The locks.** Larger teams lock in stages to stabilize: art lock, audio lock, design lock. A locked department stops producing new content and only fixes and tunes. The last of these, content lock, is the bridge to certification.
 - **Code lock (hard lock).** Only critical, cert-blocking fixes go in, because every change is now a risk to a build you are about to submit.
 - **Release candidate / candidate master.** The build you actually submit.
-- **Certification.** The platform holders test your build against their technical and policy requirements. Sony's checklist is the TRC, Microsoft's the TCR, and Nintendo runs Lotcheck.
+- **Certification.** The platform holders test your build against their technical and policy requirements. Sony's requirements are the TRC, Microsoft's are the Xbox Requirements (XR, formerly TCR), and Nintendo's submission testing is known as Lotcheck.
 - **Gold master.** The approved build, locked for distribution. Going gold means certification passed.
 
 The reason this belongs on the roadmap and not just in a QA plan is the calendar cost. Certification review commonly runs one to four weeks per submission, and roughly six to ten weeks per platform from first submission to approval once resubmissions are counted. First submissions frequently come back with issues, so it's reasonable to budget two to three rounds per platform, with each rejection adding a few weeks to fix, rebuild, regression-test, and resubmit. On a multi-platform launch, those windows stack.
@@ -94,7 +108,7 @@ The practical implication is straightforward: schedule backward from the certifi
 
 Your roadmap is a hypothesis. The moment you treat it as a commitment, it starts killing your project. This sounds obvious but the pressure comes from everywhere: publishers want dates, team members want clarity, you want to believe you know what you're doing. The answer isn't a more detailed roadmap. It's a more honest conversation about confidence levels.
 
-A practice I started leaning on a few years ago is explicitly labeling each milestone with a confidence percentage. Not "the game ships in Q3 2026" but "we're targeting Q3 2026, currently 60% confident." That number forces a conversation. When it drops, something's wrong. When it rises, you've de-risked something real. It sounds soft but it's actually more rigorous than a clean date, because it acknowledges what you actually know.
+One practice worth adopting is explicitly labeling each milestone with a confidence percentage. Not "the game ships in Q3 2026" but "we're targeting Q3 2026, currently 60% confident." That number forces a conversation. When it drops, something's wrong. When it rises, you've de-risked something real. It sounds soft but it's actually more rigorous than a clean date, because it acknowledges what you actually know.
 
 Update your roadmap in a regular cadence, at least monthly, more often if you're in pre-production. Treat updates as a ritual, not a crisis response. If your roadmap only changes when something goes catastrophically wrong, you've lost the plot.
 

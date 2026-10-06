@@ -1,5 +1,5 @@
 ---
-title: "Perforce Or Git: Which Version Control Fits Your Game Studio"
+title: "Perforce vs Git for Game Development: Which Version Control to Use"
 date: 2026-07-02T11:04:07.142638+00:00
 draft: false
 description: "Compare Perforce vs Git for game version control. Learn which system handles large assets, branching, and team workflows best for your game studio."
@@ -14,29 +14,29 @@ slug: "perforce-vs-git-for-game-version-control"
 affiliate_disclosure: true
 faqs:
  - q: "Can you use Git for a large AAA game project?"
-   a: "Technically yes, but practically it gets painful fast. The binary asset problem doesn't go away with Git LFS, it just becomes more manageable. Most studios above 20-30 people with significant art pipelines end up on Perforce or wishing they had made the switch earlier."
+   a: "Technically yes, but practically it gets painful fast. The binary asset problem doesn't go away with Git LFS, it just becomes more manageable. Most studios with large art pipelines end up on Perforce, or wishing they had switched earlier."
  - q: "Is Perforce free for indie developers?"
-   a: "Helix Core is free for up to 5 users and 20 workspaces. That covers a lot of very small teams. Beyond that threshold, you need a commercial license, and the pricing requires a conversation with their sales team rather than a public checkout page, which is frustrating."
+   a: "Perforce P4 (formerly Helix Core) has long offered a free tier for up to 5 users and 20 workspaces. That covers a lot of very small teams. Beyond that threshold, you need a commercial license, and the pricing requires a conversation with their sales team rather than a public checkout page, which is frustrating."
  - q: "What does Unreal Engine recommend for version control?"
-   a: "Epic's documentation currently recommends Helix Core (Perforce) as the primary supported workflow, with built-in editor integration. Git support exists but requires more manual configuration, particularly for binary asset handling and file locking."
+   a: "The Unreal Editor ships with built-in Perforce integration, and Epic's source control documentation covers Perforce in the most depth. Git works through a plugin but needs more setup, particularly for binary assets and file locking."
  - q: "What is Git LFS and does it solve the binary file problem?"
    a: "Git LFS offloads large binary files to a separate storage backend instead of tracking them in the main Git history. It solves the repository bloat problem, but it doesn't give you native file locking to prevent overwrite conflicts without additional setup. It's a partial solution, not a full replacement for Perforce's binary handling."
  - q: "Should a small indie team bother with Perforce?"
    a: "Honestly, probably not unless you're in Unreal with a meaningful art team. The setup overhead and licensing cost past 5 users are real considerations. A well-configured Git setup with LFS handles most small-team scenarios just fine, and you can always migrate later if the project scales up and demands it."
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 
 Most game studios get this decision wrong not because they lack information, but because they benchmark against the wrong kind of project.
 
-I've watched teams migrate from Git to Perforce mid-production and nearly collapse. I've also watched teams insist on Perforce for a 3-person indie project and spend three weeks setting up infrastructure they never actually needed. The version control question is genuinely one of the most consequential early calls you make, and the internet is full of confident takes from people who've only worked one side of the fence.
+Teams that migrate from Git to Perforce mid-production can lose weeks to the disruption. Teams that insist on Perforce for a three-person project can spend just as long building infrastructure they never needed. The version control question is genuinely one of the most consequential early calls you make, and the internet is full of confident takes from people who've only worked one side of the fence.
 
-I'll be honest: I had strong opinions on this before I actually went deep on it. What surprised me was how much the right answer depends on factors most articles don't even mention.
+The right answer depends on factors most comparisons skip: your engine, how much of your project is binary art, and who on the team will own the server.
 
 ## Why This Comparison Is Harder Than It Looks
 
 Git and Perforce aren't just different tools. They're built on fundamentally different assumptions about how people work.
 
-Git is distributed. Every developer has a full copy of the repository history locally. That's elegant for code-heavy projects, awful for a 200GB texture library. Perforce (specifically Helix Core, which is the product name you'll see in job listings as of 2026) is centralized. There's one server. Developers check out files, lock them if needed, and check them back in. The server knows who has what.
+Git is distributed. Every developer has a full copy of the repository history locally. That's elegant for code-heavy projects, awful for a 200GB texture library. Perforce P4 (called Helix Core until Perforce's 2025 rebrand, and you will still see both names in job listings) is centralized. There's one server. Developers check out files, lock them if needed, and check them back in. The server knows who has what.
 
 That locking behavior isn't a limitation. For game dev, it's often the whole point.
 
@@ -50,17 +50,13 @@ I want to be fair here because the "AAA uses Perforce therefore Perforce is bett
 
 Git is genuinely better for branching workflows. Branching in Perforce exists, but historically it's been heavier and slower to work with compared to Git's lightweight branching model. If your team is doing a lot of feature branches, hotfixes across branches, or code-heavy work (systems programmers, engine teams), Git's branching and merging is noticeably more fluid.
 
-Git is also free and self-hostable via GitLab, Gitea, or just GitHub for small repos. Perforce's Helix Core has a free tier: 5 users, 20 workspaces. Beyond that, you're paying for licenses. Pricing isn't publicly listed in a clean way (which, candidly, is annoying), but from conversations with studios licensing it, expect to budget several hundred dollars per user annually at commercial scale. That's real money for a 20-person indie.
+Git is also free and self-hostable via GitLab, Gitea, or just GitHub for small repos. Perforce's Helix Core has a free tier: 5 users, 20 workspaces. Beyond that, you're paying for licenses. Commercial pricing is quote-based rather than a simple public price list, so get a quote before you budget. Per-seat licensing adds up quickly for a 20-person indie.
 
-What surprised me was how many mid-sized studios (say, 15-40 people) are running a hybrid: Perforce for art assets and binary files, Git for pure code repositories, with some integration layer stitching them together. Unreal Engine projects in particular sometimes use this setup because Unreal's own tooling has historically played better with Perforce, though Epic has made real progress on Git compatibility over the last couple of years.
+Many mid-sized studios run a hybrid: Perforce for art assets and binary files, Git for pure code repositories, with some integration layer stitching them together. Unreal Engine projects in particular sometimes use this setup because Unreal's own tooling has historically played better with Perforce, though Git support in Unreal has improved.
+
+Unity teams have a third option. Unity Version Control (formerly Plastic SCM) supports both a distributed, Git-like workflow for programmers and file locking for artists, and it integrates with the Unity Editor. If you are on Unity, evaluate it alongside Git LFS and Perforce.
 
 ## The Unreal Situation Specifically
-
-| Scenario | Team Size | Engine | Setup | Result |
-| --- | --- | --- | --- | --- |
-| Indie roguelike | 8 people | Unity | Git + GitHub + Git LFS (audio only) | Shipped in 22 months, $4,000-6,000 saved on licensing |
-| Open world game | 35 people | Unreal | Git LFS (4 months), migrated to Helix Core | 3 asset corruption incidents with Git; zero incidents post-migration over 14 months |
-| Hybrid codebase | 60 people | Unity + C++ plugins | Perforce (art/engine) + Git (plugin code) + sync script | Improved programmer velocity on plugin work, no art pipeline disruption |
 
 If you're building in Unreal Engine, you need to think about this more carefully than Unity developers do.
 
@@ -68,36 +64,33 @@ Unreal's asset files (.uasset, .umap) are binary. You cannot merge them in a tex
 
 Epic's own recommendation (as of 2026) leans toward Perforce with Helix Core, and they ship built-in Perforce integration in the editor. You can use Git with Unreal, but you're fighting the grain of the engine slightly, and you need to be disciplined about Git LFS configuration and file locking. Teams that skip that discipline pay for it later.
 
-I talked to a producer at a studio that shipped a mid-budget Unreal game last year. Their setup: Helix Core for everything Unreal-related, GitHub for their backend server code. Overhead to maintain both? About half a day per month from their tech lead. Worth it to them. Not the right answer for everyone.
+## Which setup fits which team
 
-Scenario 1: 8-person indie team, Unity project, code-heavy roguelike, small art team.
-Action taken: Used Git with GitHub, added Git LFS only for audio files, skipped Perforce entirely.
-Result: Shipped in 22 months with no version control incidents worth noting. Saved roughly $4,000-6,000 in Perforce licensing over development.
+| Team and project | Setup that usually fits | Why |
+| --- | --- | --- |
+| Small, code-heavy team on Unity or Godot | Git with Git LFS for large binaries | Free, familiar, lightweight branching; little binary contention |
+| Unity team with a growing art pipeline | Unity Version Control, or Git LFS with locking configured | Locking for artists without giving up programmer workflows |
+| Unreal project with a real art team | Perforce P4 | Exclusive checkout for .uasset and .umap files, built-in editor integration |
+| Mid-size studio with separate code and content | Hybrid: Perforce for content, Git for services and tools | Each tool where it is strongest, at the cost of maintaining two systems |
 
-Scenario 2: 35-person studio, Unreal project, open world game with large environment art team (12 artists).
-Action taken: Attempted Git LFS for first 4 months, experienced 3 separate asset corruption incidents from merge conflicts on binary files.
-Migration to Helix Core at month 5: zero binary conflict incidents in the following 14 months of production.
-
-Scenario 3: 60-person studio, hybrid codebase, Unity with significant native plugin work.
-Action taken: Kept existing Perforce but moved all C++ plugin development to Git in a separate repo with a sync script.
-Result: Programmer velocity on plugin work increased measurably (team reported faster branch/review cycles), with no disruption to art pipeline.
+Whatever you choose, decide before production starts. Migrating version control mid-project is one of the most disruptive changes a team can make.
 
 ## The Setup Cost Nobody Talks About
 
-Here's where I've seen studios make a painful mistake. They pick a tool based on features, then wildly underestimate setup and maintenance cost.
+Here's where studios make a painful mistake. They pick a tool based on features, then wildly underestimate setup and maintenance cost.
 
 Perforce server administration is a real skill. Someone on your team needs to own it, configure typemaps correctly (this determines how Helix Core handles binary vs text files, and getting it wrong causes problems you won't catch until you're deep in production), set up regular checkpoints and backups, and manage workspace configurations. It's not brutal, but it's not zero. If you're a small team without a dedicated technical director or DevOps person, budget time for this or hire someone who's done it before.
 
 Git, especially through GitHub or GitLab, has a much lower floor for initial setup. The ceiling for complex configurations (monorepos, LFS at scale, branch protection rules) can get involved, but most small teams can be up and running in an afternoon.
 
-One honest admission: I underestimated Perforce administration costs when I first started recommending it to smaller studios. A 12-person team I advised in 2023 spent nearly 40 hours of their tech lead's time in the first two months getting their Helix Core server properly configured. That was time not spent making the game. It was still the right call for their Unreal project, but I should have flagged it more clearly upfront.
+Budget for it honestly. A first Perforce server for a small team can take days of a technical lead's time to configure properly, between typemaps, permissions, backups and workspace setup. That is time not spent on the game, so plan it into pre-production rather than discovering it in month three.
 
 ## Sources
 
 - Perforce Helix Core documentation (current): Official guidance on typemaps, workspace configuration, and binary file handling at perforce.com
 - Git LFS documentation (current): GitHub's official specification for large file storage behavior and limitations, including known constraints on file locking
 - Epic Games Unreal Engine Source Control documentation: Epic's current recommendations for version control integration, available at docs.unrealengine.com
-- "Version Control in Game Development" (GDC 2022 session): Industry discussion of hybrid Git/Perforce setups at mid-sized studios, sourced from the GDC Vault
+- [Perforce: Introducing the P4 Platform (2025 rebrand of Helix Core)](https://perforce.com/blog/vcs/introducing-the-p4-platform)
 
 ---
 

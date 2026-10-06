@@ -1,8 +1,9 @@
 ---
-title: "70% of Game Artists Want Better Feedback—Here's How"
+title: "How to Give Feedback to Game Artists: A Producer's Guide to Better Art Reviews"
 date: 2026-07-25T10:04:01.233843+00:00
+lastmod: 2026-10-06
 draft: false
-description: "Learn how to give constructive feedback to game artists. Discover what 70% say they need and proven techniques for improving collaboration."
+description: "How to give feedback to game artists that speeds up revisions: describe what the art needs to do, match notes to the asset's stage, prioritize, and run reviews that end with agreement."
 image: "/img/heroes/8867373.jpg"
 categories: ["team management"]
 tags: ["give", "feedback", "game", "artists"]
@@ -13,116 +14,90 @@ author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Un
 slug: "how-to-give-feedback-to-game-artists"
 affiliate_disclosure: true
 faqs:
-  - q: "How often should I be giving artists formal feedback?"
-    a: "At minimum, align on milestones at the start of production and give formal structured feedback at each one. For most mid-size projects that means roughly every two weeks per asset in active development. Ad hoc feedback between milestones should be reserved for blockers only, not opinions."
-  - q: "What do I do if an artist ignores my feedback?"
-    a: "Before escalating, check whether the note was clear, prioritized, and confirmed verbally. Most 'ignored' feedback was actually misunderstood feedback. If the note was clear and agreed on and still wasn't acted on, that's a conversation about accountability, not about the feedback itself."
-  - q: "Is written feedback better than verbal feedback?"
-    a: "Both, honestly. Verbal is better for back-and-forth problem-solving and emotional nuance. Written is better for clarity, record-keeping, and async work. The best process I've used combines a short verbal check-in with a written summary of agreed actions sent within an hour after the meeting."
-  - q: "Should I always explain the reason behind a note?"
-    a: "Yes, almost always. The reason is what allows the artist to generalize the feedback and apply it to future assets. A note without context trains dependency; a note with context builds judgment."
-  - q: "How do I give feedback when I don't have strong visual art skills myself?"
-    a: "Focus entirely on player experience and brief adherence, not aesthetics. 'Does this communicate what the player needs to know at a glance?' is a question any producer can ask productively. You don't need to know how to paint to know whether something reads clearly from 10 feet away."
+  - q: "How often should artists get formal feedback?"
+    a: "Agree the review points at the start of production and give structured feedback at each one, usually as each asset moves between stages. Between reviews, interrupt only for blockers. Constant ad hoc opinions slow artists down more than they help."
+  - q: "What if an artist doesn't act on my feedback?"
+    a: "First check whether the note was clear, prioritized and confirmed. A lot of ignored feedback was really misunderstood feedback. If it was clear and agreed and still not acted on, that is a conversation about accountability, not about the note."
+  - q: "Is written or verbal feedback better?"
+    a: "Use both. Talk through notes for nuance and back-and-forth, then send a short written summary of what was agreed straight after the session, so there is one record everyone works from."
+  - q: "Should I explain the reason behind every note?"
+    a: "Almost always. The reason lets the artist apply the thinking to the next asset without you. A note without context creates dependency; a note with context builds judgment."
+  - q: "How do I give feedback if I'm not an artist myself?"
+    a: "Talk about the player and the game, not the brushwork. Say what the asset needs to communicate, where it fails to, and how that affects play: readability, mood, silhouette at gameplay distance, consistency with the style guide. Leave the how to the artist and the art lead."
 ---
 
-Seventy percent of game artists say they've received feedback so vague it actively slowed them down. That number comes from a 2023 Concept Art Association survey of over 1,400 working artists, and honestly, the moment I read it I thought: yeah, that tracks completely.
+Most bad art feedback is not malicious, it is untrained. "Make it pop." "Can it feel more epic?" Notes like these are honest attempts to describe a reaction, but they give an artist nothing to act on. The revision comes back different rather than better, another round of notes follows, and a two-day task turns into two weeks.
 
-I've sat in more art reviews than I can count, on both sides of the table. I've been the junior artist getting notes like "make it pop more" (whatever that means), and I've been the producer who, early in my career, absolutely said "can we make it feel more epic?" to a concept artist who deserved better. The thing is, bad feedback isn't usually malicious. It's just untrained. Nobody teaches producers or creative directors how to talk to artists, and then we're shocked when the revision cycle eats three weeks and the result still doesn't match what anyone pictured.
+As a producer, you usually are not the person giving creative direction on art; that belongs to the art director and leads. But you run the process that feedback flows through, you give plenty of it yourself, and you are the one who notices when revision cycles are eating the schedule. Good feedback is a production tool.
 
-What I want to do here is give you the actual mechanics of useful art feedback: what to say, what to avoid, when to give it, and why the timing matters as much as the words.
+## Describe what the art needs to do, not what it should look like
 
+The most useful shift is from prescription to intent. "Make the sword bigger" is a solution. "Players can't read the sword at combat distance, so they don't know which enemy is the threat" is a problem. The second note lets the artist find the best fix, which might be scale, value contrast, silhouette or color, and teaches them something about the game in the process.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">70% of game artists report vague feedback actively slowed their work (Concept Art Association, 2023)</li><li style="margin:5px 0">Describe what the art needs to DO, not what it should look like, functional intent beats aesthetic prescription</li><li style="margin:5px 0">Give directional feedback early; give detailed feedback only at agreed milestones, or you'll destroy momentum</li><li style="margin:5px 0">"It's not working because..." always outperforms "I don't like it" -- name the problem, not the preference</li><li style="margin:5px 0">Keep a written feedback record; memory disagreements are the #1 cause of revision blowups on small teams</li></ul></div>
+Anchor notes in the player's experience:
 
+- **Readability:** can the player tell what this is, and whether it matters, at gameplay distance and speed?
+- **Function:** does it communicate what it does (interactive, dangerous, collectible, decorative)?
+- **Consistency:** does it fit the style guide and sit comfortably next to the assets around it?
+- **Mood:** does it support the feeling this moment of the game is meant to create?
 
-## What Most Feedback Actually Sounds Like (and Why It Fails)
+## Match the note to the asset's stage
 
-Here's a quick taxonomy of bad art feedback, because recognizing it in yourself is step one.
+Feedback that is right for a final polish pass is wasted on a blockout, and vice versa. Detailed notes on an asset that might still be cut send hours of work in the wrong direction.
 
-Preference feedback: "I like it more the other way." No functional rationale, no target, just a personal taste signal that gives the artist nothing to work with.
+| Asset stage | What to give notes on | What to leave alone |
+|---|---|---|
+| Concept or rough | Idea, function, silhouette, fit with the brief | Detail, materials, finish |
+| Blockout | Scale, proportion, readability in context | Surface detail |
+| First pass | Shapes, materials, value and color relationships | Small polish issues |
+| Second pass | Consistency with neighbouring assets, technical budgets | Revisiting decisions already signed off |
+| Final polish | Specific, small, prioritized fixes | New direction |
 
-Outcome feedback: "Make it look more dangerous." Better, but still ambiguous. Dangerous to whom? In what context? Dark and grimy dangerous, or sleek and lethal dangerous?
+If you find yourself giving polish notes on a blockout, stop and ask whether the asset is going to survive the next design decision.
 
-Solution feedback: "Add more red." The artist is now executing your idea instead of solving the problem. This is where you accidentally take over someone's creative work.
+## How to run a review
 
-The one [that actually works](/posts/game-studio-post-mortem-process-that-actually-works/) is problem-first feedback: "The character doesn't read as a threat in the context of the level lighting, which is already dark. Players need to register danger at a glance." Now the artist has the constraint, the context, and the problem to solve. They can bring actual skill to it.
+**Open by asking, not telling.** Have the artist walk through what they were trying to solve. You find out whether the brief was understood, and you often discover a good reason behind something you were about to criticize. Sometimes the problem turns out to be the brief, not the execution.
 
-A researcher named Nicole Forsgren co-authored "Accelerate" (2018), which found that psychological safety is the single biggest predictor of team performance, and that applies directly here. When artists feel like feedback is about the work's function rather than the producer's taste, they engage differently. They push back intelligently. That's good. You want that.
+**Prioritize.** Give the few notes that matter most, in order. A long list of equal-weight notes leaves the artist to guess what matters, and the important fix gets the same attention as the trivial one. Tag notes as blockers or suggestions if you are working asynchronously.
 
-## Timing Is the Variable Nobody Talks About
+**Separate blockers from preferences.** "This breaks readability" and "I'd personally try a warmer palette" are not the same kind of note, so do not deliver them as if they were.
 
-I made this mistake badly on a 2021 indie project. We were doing weekly full-team art reviews, and I was giving detailed polish notes on assets that were still in the blocking phase. The artist spent two days refining a helmet silhouette based on my notes, and then we cut the character from the build entirely in the next sprint. Two days, gone. My fault completely.
+**Close by confirming alignment.** Before the session ends, both of you should be able to say in one sentence what the next revision is trying to achieve. If you can't, the review is not finished. Follow up in writing with what was agreed.
 
-The rule I've used since then: feedback intensity should match asset maturity.
+## Critique the work, not the person
 
+The fastest way to damage an artist-producer relationship is a note that lands as a judgment of the person. "This looks amateur" in front of the team will get you safe, cautious work for weeks. The same concern, framed as "the lighting is fighting the silhouette here, so the character gets lost," gets you a fix.
 
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Appropriate feedback depth by asset stage</div><div class="sc-row"><span class="sc-label">Concept/Rough</span><span class="sc-track"><span class="sc-bar" style="width:30%"></span></span><span class="sc-val">3 review d</span></div><div class="sc-row"><span class="sc-label">Block-in</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">4 review d</span></div><div class="sc-row"><span class="sc-label">First Pass</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">6 review d</span></div><div class="sc-row"><span class="sc-label">Second Pass</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">8 review d</span></div><div class="sc-row"><span class="sc-label">Final Polish</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">10 review d</span></div><div class="sc-src">Source: Ryan Cole, personal production framework (2026)</div></div>
+A few habits help:
 
+- Give hard notes privately first, then discuss in the group.
+- Talk about what the asset does, not about what the artist did.
+- Say what is working as specifically as what is not, so the artist knows what to keep.
+- When feedback comes over chat, add context. A screenshot with a red circle and no explanation leaves the artist guessing whether it is a blocker or a passing thought.
 
-At concept and rough stages, you're asking directional questions only: does this silhouette read? does the color palette fit the world? You are not commenting on edge loops or texture resolution. At final polish, almost anything is fair game because the asset is close to locked and detailed notes won't be wasted. In between, calibrate accordingly.
+## When you and the artist disagree
 
-The practical version of this is establishing a milestone contract with your art team at the start of production. Something like: "At first pass, I'll comment on readability, color, and proportion. I will not comment on surface detail. At second pass, surface detail is open." Write it down. Put it in your project brief. What most people don't realize is that without this agreement, artists often don't know which type of feedback they're supposed to be listening for, so they try to address all of it, which breaks schedules.
+**Check the brief first.** If it was ambiguous, you each pictured something different and nobody caught it early. That is a production problem, and owning it changes the tone of the conversation.
 
-## The Actual Mechanics: How to Structure a Feedback Session
+**Bring reference for the problem, not the solution.** Not "make it look like this," but "this is the readability problem I'm worried about; do any of these approaches help?"
 
-Let me give you a concrete walkthrough because this is where the abstract advice usually falls apart.
+**Know whose call it is.** If you are a producer rather than a creative or art director, your job is to make sure the disagreement is decided by the right person, on time, not to win it. Escalate to the art director with both views stated fairly.
 
-**Before the review:** Tell the artist in advance what you're evaluating against. If this is a first-pass character, link them to the brief, the target platform resolution, any reference that was agreed on at kickoff. Don't surprise people with criteria they didn't know existed.
+## Make written feedback unambiguous
 
-**Opening the review:** Ask the artist to walk you through their decisions first. "What were you trying to solve here?" This does two things: you learn if they interpreted the brief correctly (sometimes the 'problem' is a brief failure, not an execution failure), and you get context that changes how you read the work. I can't count how many times an asset I was about to criticize turned out to have a smart reason behind it that I'd missed.
+For asynchronous reviews, use a tool that pins notes to a specific area or frame of the asset rather than describing locations in a message thread. Frame.io for video, Milanote or Miro for visual boards, and production tracking tools such as Autodesk Flow Production Tracking (formerly ShotGrid) for asset review all do this. Pinned notes remove a large share of the "which part do you mean?" back-and-forth.
 
-**Giving the note:** Lead with the functional problem, not the aesthetic symptom. Then give the artist room to respond. A lot of producers have a habit of stacking notes rapid-fire, which overwhelms people and shuts down the collaborative problem-solving you actually want.
+## A quick reference
 
-**Prioritize ruthlessly.** A 2022 study from the Game Developers Conference reported that art teams receiving more than five notes per asset in a single session showed a 34% decrease in revision accuracy compared to teams receiving three or fewer. More feedback doesn't mean faster improvement. It means cognitive overload. Pick your top three, deliver those, and schedule a follow-up if there's more.
+| Feedback type | Use it when | Avoid it when |
+|---|---|---|
+| Intent note ("players need to read this as a threat") | Almost always | Never |
+| Prescriptive note ("make it 20% bigger") | Late polish, with agreement on the goal | Early stages, or when you are guessing |
+| Reference | Exploring a problem together | As a substitute for explaining the problem |
+| Group review | Shared context, consistency across assets | Hard or personal notes |
+| Written summary | After every review | As the only channel for difficult feedback |
 
-**Close by confirming alignment.** Before anyone leaves the room (or Zoom call), both of you should be able to say out loud what the next revision is trying to achieve. If you can't, the session isn't done.
-
-## Feedback Tone and the Trust Problem
-
-Here's a thing I've watched destroy artist-producer relationships on otherwise good teams: the note that sounds like a critique of the person rather than the work.
-
-"This is too flat" lands differently than "the lighting here isn't creating the depth we need to separate the foreground from the background." Both say the same thing functionally, but one of them implies the artist doesn't know what they're doing. Over months of production, those small differences accumulate into a team that stops taking creative risks because they're afraid of being wrong. And a team that stops taking risks makes worse games. That's not an opinion, that's what Pixar's internal research on psychological safety has shown consistently, documented in Ed Catmull's "Creativity, Inc." (2014).
-
-Three scenarios that show the pattern clearly:
-
-Small studio, early production, environment art review: Lead artist was giving notes in front of the full team, including "this looks amateur." Junior artist clammed up for two sprints, producing only safe, generic work. When I came in as a consultant, we shifted to written private feedback first, then team discussion. Revision cycle dropped from 9 days average to 5.3 days within a month.
-
-Mid-size studio, vertical slice, character pipeline: Producer was sending feedback over Slack with no context, just screenshots with red circles. Artist couldn't tell if notes were blockers or suggestions. Added a priority tag system (P1/P2/P3) to every note. Blocker resolution time went from 4.2 days to 1.8 days because artists knew what to hit first.
-
-Jam team, 48-hour project: Zero formal feedback process, just people shouting opinions. Mid-jam they adopted a simple rule: every note has to name the player experience it's trying to protect. Scope stayed controlled and the team shipped on time, which for a jam is honestly the whole game.
-
-## What to Do When You and the Artist Disagree
-
-This happens. Sometimes you genuinely don't think the direction is working and the artist does. A few things I've learned:
-
-First, check your brief. If the brief was ambiguous, the artist probably isn't wrong, you just had different pictures in your head and neither of you caught it early enough. That's a production failure, and taking ownership of it changes the whole energy of the conversation.
-
-Second, bring reference. Not "I want it to look like this" reference, but "here's what problem I'm trying to solve, does any of this help" reference. There's a meaningful difference.
-
-Third, know when to defer. If you're a producer and not a creative director, your job is often to communicate the player experience target, not to dictate the visual solution. Artists are specialists. Let them specialize.
-
-## A Reference Table: Feedback Types and When to Use Them
-
-| Feedback Type | When to Use | Example | Risk if Overused |
-|---|---|---|---|
-| Directional | Concept/rough stage | "The silhouette needs to read as 'fast'" | Too vague at later stages |
-| Functional | Any stage | "Player can't distinguish this from the background at 1080p" | None, this is almost always appropriate |
-| Technical | Second pass and beyond | "Texture tiling is visible at 3m distance" | Premature detail at early stages |
-| Reference-based | Any stage, with care | "This lighting is close to what we defined in the art bible, p.12" | Can constrain creativity if overused |
-| Preference-based | Rarely, and flagged as such | "Personally I'd lean warmer, but that's a taste call" | Confuses personal taste with brief requirements |
-| Solution-prescriptive | Almost never | "Add a rim light on the left shoulder" | Takes over the artist's creative problem-solving |
-
-As of July 2026, the tools I've seen teams use most effectively for async written feedback are ShotGrid (now Adobe's Substance 3D production suite includes it), Milanote for visual annotation, and Frame.io for video and real-time asset review. All of them let you pin notes to specific frames or regions, which eliminates about half the ambiguity right there.
-
-## Sources
-
-- Concept Art Association (2023): Survey of 1,400+ working game artists on professional development and workplace feedback experiences.
-- Forsgren, N., Humble, J., & Kim, G. (2018): "Accelerate: The Science of Lean Software and DevOps" -- research on psychological safety and team performance.
-- Catmull, E. & Wallace, A. (2014): "Creativity, Inc." -- Pixar's documented approach to creative feedback and psychological safety.
-- Game Developers Conference (GDC) 2022 State of the Game Industry Report: Data on art team productivity and feedback volume correlation.
-- Jurney, R. (2018): "Practical Game Design" -- production frameworks for creative team communication and milestone management.
-
----
-
+For the wider team side of this, see [managing creative feedback without killing morale](/posts/managing-creative-feedback-without-killing-morale/) and [the creative director and producer relationship](/posts/the-creative-director-producer-relationship-explained/).
 
 *Photo: [Yan Krukau](https://www.pexels.com/@yankrukov) via Pexels*

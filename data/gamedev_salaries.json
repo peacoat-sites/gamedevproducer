@@ -1,6 +1,6 @@
 {
   "as_of": "2026",
-  "source": "GDC State of the Industry salary survey ranges and public compensation data (US figures, USD)",
+  "source": "GameDevProducer directional estimates for US full-time roles by level, checked against the GDC 2025 Game Industry Salary Report and public compensation data",
   "roles": {
     "Gameplay / Engine Programmer": {
       "junior": "$70k-$90k",
