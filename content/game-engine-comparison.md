@@ -28,4 +28,4 @@ The interactive table below compares the engines indie and studio teams actually
 
 **Difficulty is about your starting point.** "Steep" engines like Unreal and Bevy reward experienced programmers with more control; "very easy" no-code tools like Construct and GDevelop get a playable prototype in front of people fastest. Neither is wrong — they serve different teams.
 
-Still unsure which fits your project? Take the [engine-picker quiz](/quiz/) for a recommendation based on your genre, team, and experience.
+Still unsure which fits your project? Take the [engine-picker quiz](/posts/which-game-engine-quiz/) for a recommendation based on your genre, team, and experience.

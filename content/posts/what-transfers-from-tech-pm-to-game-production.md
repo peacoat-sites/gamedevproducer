@@ -65,7 +65,7 @@ Not everything needs to be Best. Ruthlessly deciding which things do is most of 
 
 ## Building Trust With Disciplines You've Never Managed
 
-[Tech PMs manage engineers](/game-producer-vs-technical-program-manager/), maybe designers. Game production means owning relationships with environment artists, animators, character artists, audio designers, narrative leads, QA, and sometimes licensing and localization teams. Each discipline has its own pipeline, its own vocabulary, and its own opinion about whether production understands what they actually do.
+Tech PMs manage engineers, maybe designers. Game production means owning relationships with environment artists, animators, character artists, audio designers, narrative leads, QA, and sometimes licensing and localization teams. Each discipline has its own pipeline, its own vocabulary, and its own opinion about whether production understands what they actually do.
 
 The fastest way to earn trust across disciplines: show up to their standups for the first month and say almost nothing. Ask one good question per session. Learn what "done" looks like in their pipeline before you start setting any expectations about it. An animator's workflow from concept to rigged, weighted, and in-engine is completely different from a software engineer's ticket-to-merged flow. Try to manage both with the same metrics on day one, and you'll create friction that takes months to undo.
 

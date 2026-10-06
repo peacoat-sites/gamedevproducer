@@ -144,7 +144,7 @@ The CD sets the vision and then steps back. The producer micro-manages the imple
 
 **The Ego-Driven CD + The Burned-Out Producer**
 
-The CD prioritizes creative ambition above all else. The producer is exhausted from fighting crunch and scope. This produces dysfunctional games or projects that implode. This is actually a [production failure, not a personal conflict](/crunch-is-a-production-failure-not-a-culture-problem/). Fix this by replacing one or both of them if the situation doesn't improve quickly.
+The CD prioritizes creative ambition above all else. The producer is exhausted from fighting crunch and scope. This produces dysfunctional games or projects that implode. This is actually a production failure, not a personal conflict. Fix this by replacing one or both of them if the situation doesn't improve quickly.
 
 ## Practical Example: The Feature Proposal Walkthrough
 

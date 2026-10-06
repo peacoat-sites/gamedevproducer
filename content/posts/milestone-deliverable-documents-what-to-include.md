@@ -16,7 +16,7 @@ lastmod: 2026-07-08
 ---
 You're three weeks out from a major milestone review. Your studio lead asks for the deliverable document. You panic slightly because you realize you've never actually written a formal one, and you're not sure what should go in it. You've got spreadsheets, meeting notes, and a general sense of what's been completed, but there's no single source of truth. Sound familiar?
 
-Most producers learn this the hard way. A milestone deliverable document isn't just a checkbox for your publisher or studio leadership. It's your contract with the team about what "done" actually means, your defense against [scope creep](/scope-creep-prevention-in-game-development/), and your historical record for postmortems. Done wrong, it becomes a bureaucratic nightmare that delays shipping. Done right, it eliminates arguments and keeps everyone aligned.
+Most producers learn this the hard way. A milestone deliverable document isn't just a checkbox for your publisher or studio leadership. It's your contract with the team about what "done" actually means, your defense against [scope creep](/posts/scope-creep-prevention-in-game-development/), and your historical record for postmortems. Done wrong, it becomes a bureaucratic nightmare that delays shipping. Done right, it eliminates arguments and keeps everyone aligned.
 
 ## What Goes Into a Milestone Deliverable Document
 
@@ -40,13 +40,13 @@ A real example: if your milestone includes controller support, don't just write 
 
 ## Technical and Production Documentation
 
-Your milestone deliverable document should include a [dependencies section](/dependency-mapping-in-game-development-schedules/). What does this milestone depend on that's not yet finished? If your animation pipeline needs a specific tool update to deliver character animations on time, that's a dependency. If your audio team needs final dialog from the narrative lead two weeks before the milestone, that's a dependency. Call these out explicitly.
+Your milestone deliverable document should include a dependencies section. What does this milestone depend on that's not yet finished? If your animation pipeline needs a specific tool update to deliver character animations on time, that's a dependency. If your audio team needs final dialog from the narrative lead two weeks before the milestone, that's a dependency. Call these out explicitly.
 
 Include a version control snapshot or build information. If your game is built from source, record the specific commit hash or tag. If you're delivering from a particular build server, note that. Six months later when someone asks "what exactly was in that alpha build we showed at the conference," you need a way to recreate it.
 
 Document any known issues that didn't make the cut-off. This might sound counterintuitive, but it's essential. If there's a memory leak in the shader compiler on AMD cards but you're hitting the milestone anyway, write it down. You're not hiding it. You're being transparent that this is a known issue being addressed post-milestone.
 
-Capture the test matrix: which platforms, which configurations, which devices have you actually validated the milestone on? "Tested on Windows 10 and 11, Intel Core i7 8700K and newer, RTX 2080 and newer, with DirectX 12" is factually useful. "Fully tested" is not. [Testing rigor ties directly to your crunch patterns](/crunch-is-a-production-failure-not-a-culture-problem/), so this section is worth the detail.
+Capture the test matrix: which platforms, which configurations, which devices have you actually validated the milestone on? "Tested on Windows 10 and 11, Intel Core i7 8700K and newer, RTX 2080 and newer, with DirectX 12" is factually useful. "Fully tested" is not. Testing rigor ties directly to your crunch patterns, so this section is worth the detail.
 
 ## Who Signs Off and How
 
@@ -75,7 +75,7 @@ Here's a practical structure you can adapt:
 
 Use a shared document format that your studio can access. A Google Doc, Confluence page, or Wiki page that's linked from your project management tool. If it's buried in Slack or email, it won't be found when you need it.
 
-The [principles of agile game development](/agile-game-development-what-actually-works-in-practice/) include regular inspection of deliverables, and your milestone document is that inspection checkpoint. It forces clarity. It prevents assumptions.
+The [principles of agile game development](/posts/agile-game-development-what-actually-works-in-practice/) include regular inspection of deliverables, and your milestone document is that inspection checkpoint. It forces clarity. It prevents assumptions.
 
 ## Milestone Deliverable Document Checklist
 

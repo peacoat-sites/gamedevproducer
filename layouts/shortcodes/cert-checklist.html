@@ -1,0 +1,109 @@
+{{- $c := hugo.Data.cert_checklist -}}
+{{- if $c -}}
+<div id="ccl" class="ccl">
+  <div class="ccl-top">
+    <div>
+      <div class="ccl-kicker">Interactive checklist</div>
+      <div class="ccl-title">Console certification readiness</div>
+      <p class="ccl-sub">Tick each item as your QA team verifies it. Your progress saves in this browser. Untick features your game does not have and their items disappear.</p>
+    </div>
+    <div class="ccl-score"><div class="ccl-pct" id="ccl-pct">0%</div><div class="ccl-of" id="ccl-of">0 of 0 checked</div><div class="ccl-bar"><span id="ccl-bar"></span></div></div>
+  </div>
+  <fieldset class="ccl-feats">
+    <legend>Your game includes</legend>
+    {{- range $c.features }}
+    <label><input type="checkbox" data-feat="{{ .key }}" checked> {{ .label }}</label>
+    {{- end }}
+  </fieldset>
+  {{- range $g := $c.groups }}
+  <section class="ccl-g" data-group="{{ $g.key }}">
+    <div class="ccl-gh"><h3>{{ $g.name }}</h3><span class="ccl-gc" data-gc></span></div>
+    <ul>
+      {{- range $i, $it := $g.items }}
+      <li class="ccl-it"{{ with $it.f }} data-f="{{ . }}"{{ end }}>
+        <label><input type="checkbox" data-id="{{ $g.key }}-{{ $i }}"><span><strong>{{ $it.t }}</strong><small>{{ $it.d }}</small></span></label>
+      </li>
+      {{- end }}
+    </ul>
+  </section>
+  {{- end }}
+  <div class="ccl-actions">
+    <button type="button" id="ccl-csv">Download as CSV</button>
+    <button type="button" id="ccl-print">Print</button>
+    <button type="button" id="ccl-reset">Reset</button>
+  </div>
+  <p class="ccl-fine">This checklist covers the areas every console platform tests. It is not a substitute for each platform holder's own requirements (Sony's TRC, Xbox Requirements, Nintendo's guidelines), which are provided to licensed developers and change over time. Map every item here to the current requirement documents before you submit.</p>
+</div>
+<style>
+.ccl{margin:28px 0;border:1px solid var(--border);border-radius:14px;background:var(--surface,#fff);padding:18px 20px}
+.ccl-top{display:flex;gap:18px;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;margin-bottom:12px}
+.ccl-kicker{font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#4338ca)}
+.ccl-title{font-size:1.2rem;font-weight:800;color:var(--heading,#0f172a);margin:2px 0}
+.ccl-sub{margin:0;color:var(--muted);font-size:.9rem;max-width:520px;line-height:1.5}
+.ccl-score{min-width:170px;text-align:right}
+.ccl-pct{font-size:2rem;font-weight:800;color:var(--heading,#0f172a);line-height:1}
+.ccl-of{font-size:.8rem;color:var(--muted);margin:4px 0 6px}
+.ccl-bar{height:8px;border-radius:99px;background:var(--surface2,#eef2f7);overflow:hidden}
+.ccl-bar span{display:block;height:100%;width:0;background:#16a34a;transition:width .25s}
+.ccl-feats{border:1.5px solid var(--border-strong,#cbd5e1);border-radius:10px;padding:8px 12px;margin:0 0 14px;display:flex;flex-wrap:wrap;gap:4px 18px}
+.ccl-feats legend{font-size:12px;font-weight:600;color:var(--muted);padding:0 4px}
+.ccl-feats label{display:flex;align-items:center;gap:7px;font-size:.88rem}
+.ccl-g{border-top:1px solid var(--border);padding-top:10px;margin-top:10px}
+.ccl-gh{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.ccl-g h3{font-size:1rem;margin:0 0 6px}
+.ccl-gc{font-size:.78rem;color:var(--muted);white-space:nowrap}
+.ccl-g ul{list-style:none;margin:0;padding:0}
+.ccl-it label{display:flex;gap:11px;align-items:flex-start;padding:8px 6px;border-radius:8px;cursor:pointer}
+.ccl-it label:hover{background:var(--surface2,#f8fafc)}
+.ccl-it input{margin-top:3px;width:18px;height:18px;accent-color:#16a34a;flex-shrink:0}
+.ccl-it span{display:flex;flex-direction:column;gap:2px}
+.ccl-it strong{font-size:.92rem;color:var(--text)}
+.ccl-it small{font-size:.82rem;color:var(--muted);line-height:1.45}
+.ccl-it.done strong{text-decoration:line-through;color:var(--muted)}
+.ccl-it.off{display:none}
+.ccl-g.off{display:none}
+.ccl-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
+.ccl-actions button{padding:9px 14px;border-radius:9px;border:1.5px solid var(--accent,#4338ca);background:var(--surface,#fff);color:var(--accent,#4338ca);font-weight:700;font-size:.85rem;cursor:pointer;font-family:inherit}
+.ccl-actions button:first-child{background:var(--accent,#4338ca);color:#fff}
+.ccl-fine{font-size:.76rem;color:var(--muted);line-height:1.5;margin:12px 0 0}
+@media print{.ccl-actions,.ccl-feats{display:none}.ccl-it.off{display:none}}
+</style>
+<script>
+(function(){
+  var root=document.getElementById('ccl');if(!root)return;
+  var KEY='gdp-cert-checklist-v1',st={};
+  try{st=JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){}
+  function save(){try{localStorage.setItem(KEY,JSON.stringify(st))}catch(e){}}
+  var boxes=[].slice.call(root.querySelectorAll('input[data-id]')),feats=[].slice.call(root.querySelectorAll('input[data-feat]'));
+  feats.forEach(function(f){if(st['feat:'+f.dataset.feat]===false)f.checked=false});
+  boxes.forEach(function(b){if(st[b.dataset.id])b.checked=true});
+  function update(){
+    var on={};feats.forEach(function(f){on[f.dataset.feat]=f.checked});
+    var total=0,done=0;
+    root.querySelectorAll('.ccl-g').forEach(function(g){
+      var t=0,d=0;
+      g.querySelectorAll('.ccl-it').forEach(function(li){
+        var f=li.dataset.f,vis=!f||on[f];li.classList.toggle('off',!vis);
+        var cb=li.querySelector('input');li.classList.toggle('done',cb.checked);
+        if(vis){t++;if(cb.checked)d++}
+      });
+      g.classList.toggle('off',t===0);g.querySelector('[data-gc]').textContent=d+' / '+t;total+=t;done+=d;
+    });
+    var p=total?Math.round(100*done/total):0;
+    root.querySelector('#ccl-pct').textContent=p+'%';root.querySelector('#ccl-of').textContent=done+' of '+total+' checked';root.querySelector('#ccl-bar').style.width=p+'%';
+  }
+  boxes.forEach(function(b){b.addEventListener('change',function(){st[b.dataset.id]=b.checked;save();update()})});
+  feats.forEach(function(f){f.addEventListener('change',function(){st['feat:'+f.dataset.feat]=f.checked;save();update()})});
+  root.querySelector('#ccl-reset').addEventListener('click',function(){if(!confirm('Clear all checkmarks?'))return;st={};save();boxes.forEach(function(b){b.checked=false});feats.forEach(function(f){f.checked=true});update()});
+  root.querySelector('#ccl-print').addEventListener('click',function(){window.print()});
+  root.querySelector('#ccl-csv').addEventListener('click',function(){
+    var rows=[['Area','Check','What to verify','Status']];
+    root.querySelectorAll('.ccl-g').forEach(function(g){var area=g.querySelector('h3').textContent;
+      g.querySelectorAll('.ccl-it').forEach(function(li){if(li.classList.contains('off'))return;
+        rows.push([area,li.querySelector('strong').textContent,li.querySelector('small').textContent,li.querySelector('input').checked?'Verified':'Open'])})});
+    var csv=rows.map(function(r){return r.map(function(c){return'"'+String(c).replace(/"/g,'""')+'"'}).join(',')}).join('\r\n');
+    var a=document.createElement('a');a.href=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8'}));a.download='console-cert-checklist.csv';document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},500)});
+  update();
+})();
+</script>
+{{- end -}}

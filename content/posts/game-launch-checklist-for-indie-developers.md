@@ -45,8 +45,8 @@ What I see constantly: developers spend 90% of their time on the game and 10% on
 
 During the 90-day window, focus on this:
 
-- **[Get your store page live](/how-to-build-a-steam-page-that-converts/)** with capsule art, screenshots, a trailer, and a description that leads with what the player actually *does*, not a feature checklist
-- **[Build your wishlist](/wishlist-strategy-for-indie-game-launches/)** aggressively. Every 1,000 wishlists on Steam roughly correlates with 100-200 day-one sales (the research here is messy and depends heavily on genre, but it's a real signal)
+- **[Get your store page live](/posts/how-to-build-a-steam-page-that-converts/)** with capsule art, screenshots, a trailer, and a description that leads with what the player actually *does*, not a feature checklist
+- **Build your wishlist** aggressively. Every 1,000 wishlists on Steam roughly correlates with 100-200 day-one sales (the research here is messy and depends heavily on genre, but it's a real signal)
 - **Contact press and creators** with a real press kit and a review key offer, not a desperate "please cover my game" message
 - **Set up community spaces** -- a Discord server, a subreddit, or somewhere consistent where people can ask questions
 

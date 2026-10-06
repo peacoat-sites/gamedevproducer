@@ -35,7 +35,7 @@ The real problem is treating the post-mortem as a single event instead of a proc
 
 ## Build the Foundation During the Project
 
-The most effective post-mortems I've run were built on data collected throughout development. Sprint retrospectives, milestone reviews, [incident logs](/what-game-post-mortems-reveal-about-production-failures/), informal Slack messages flagging recurring pain points. When the project ends, you're not trying to reconstruct what happened from memory. You have receipts.
+The most effective post-mortems I've run were built on data collected throughout development. Sprint retrospectives, milestone reviews, [incident logs](/posts/what-game-post-mortems-reveal-about-production-failures/), informal Slack messages flagging recurring pain points. When the project ends, you're not trying to reconstruct what happened from memory. You have receipts.
 
 Here's what to put in place from day one:
 
@@ -62,7 +62,7 @@ You might be wondering what separates a useful post-mortem from an elaborate way
 |---|---|
 | "Scope creep was a problem" | "We added 14 unplanned features after alpha; only 3 made the final build" |
 | "Communication broke down" | "Art and engineering had no shared milestone owner from weeks 8-12" |
-| "Crunch was unavoidable" | "We hit crunch because [vertical slice was approved](/what-is-a-game-milestone-alpha-beta-gold/) 3 weeks late, compressing all downstream schedules" |
+| "Crunch was unavoidable" | "We hit crunch because [vertical slice was approved](/posts/what-is-a-game-milestone-alpha-beta-gold/) 3 weeks late, compressing all downstream schedules" |
 | "Testing felt rushed" | "QA had 6 days for a feature set that needed 3 weeks; flagged at week 10, not acted on" |
 
 Specificity is what makes the insight usable for the next project. Vague findings disappear into the void. Specific ones actually change behavior.

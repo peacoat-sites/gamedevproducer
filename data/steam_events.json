@@ -1,0 +1,84 @@
+{
+  "verified": "2026-10-06",
+  "source_name": "Steamworks Documentation: Upcoming Events and Next Fest pages",
+  "source_url": "https://partner.steamgames.com/doc/marketing/upcoming_events",
+  "time_note": "Valve's seasonal sales and Next Fests start and end at 10:00 AM Pacific time.",
+  "events": [
+    {"name": "Steam Autumn Sale 2026", "type": "seasonal", "start": "2026-10-01", "end": "2026-10-08"},
+    {"name": "Cooking Fest", "type": "themed", "start": "2026-10-12", "end": "2026-10-19"},
+    {"name": "Steam Next Fest: October 2026", "type": "nextfest", "key": "2026-10", "start": "2026-10-19", "end": "2026-10-26"},
+    {"name": "Steam Scream V", "type": "themed", "start": "2026-10-26", "end": "2026-11-02"},
+    {"name": "Auto-Battler RPG Fest", "type": "themed", "start": "2026-11-16", "end": "2026-11-23"},
+    {"name": "Steam Winter Sale 2026", "type": "seasonal", "start": "2026-12-17", "end": "2027-01-04"},
+    {"name": "Desktop Companion Fest", "type": "themed", "start": "2027-01-14", "end": "2027-01-18"},
+    {"name": "Shop Keeper Fest", "type": "themed", "start": "2027-01-25", "end": "2027-02-01"},
+    {"name": "Sheep Fest", "type": "themed", "start": "2027-02-04", "end": "2027-02-08"},
+    {"name": "Couch Co-Op Fest", "type": "themed", "start": "2027-02-08", "end": "2027-02-15"},
+    {"name": "Steam Next Fest: February 2027", "type": "nextfest", "key": "2027-02", "start": "2027-02-22", "end": "2027-03-01"},
+    {"name": "Rhythm Fest", "type": "themed", "start": "2027-03-08", "end": "2027-03-15"},
+    {"name": "Steam Spring Sale 2027", "type": "seasonal", "start": "2027-03-18", "end": "2027-03-25"},
+    {"name": "Dinos vs. Robots Fest", "type": "themed", "start": "2027-03-29", "end": "2027-04-05"},
+    {"name": "Racing Fest", "type": "themed", "start": "2027-04-12", "end": "2027-04-19"},
+    {"name": "Witch Fest", "type": "themed", "start": "2027-04-22", "end": "2027-04-26"},
+    {"name": "Fighting Fest", "type": "themed", "start": "2027-04-26", "end": "2027-05-03"},
+    {"name": "Real-Time Strategy Fest", "type": "themed", "start": "2027-05-10", "end": "2027-05-17"},
+    {"name": "Mountaineering Fest", "type": "themed", "start": "2027-05-31", "end": "2027-06-03"},
+    {"name": "Steam Next Fest: June 2027", "type": "nextfest", "key": "2027-06", "start": "2027-06-14", "end": "2027-06-21"},
+    {"name": "Steam Summer Sale 2027", "type": "seasonal", "start": "2027-06-24", "end": "2027-07-08"}
+  ],
+  "nextfest_deadlines": {
+    "2026-10": [
+      {"date": "2026-08-31", "label": "Registration deadline (11:59pm PDT)"},
+      {"date": "2026-09-08", "label": "Valve pulls trailers for the official Next Fest trailer"},
+      {"date": "2026-09-14", "label": "Demo build + store page submitted for review to be live when Press Preview opens"},
+      {"date": "2026-09-28", "label": "All required items submitted for review"},
+      {"date": "2026-10-01", "label": "Deadline to opt out of trailer permissions"},
+      {"date": "2026-10-08", "label": "Press Preview begins (10am PDT)"}
+    ],
+    "2027-02": [
+      {"date": "2027-01-10", "label": "Registration deadline (11:59pm PST)"},
+      {"date": "2027-01-18", "label": "Valve pulls trailers for the official Next Fest trailer"},
+      {"date": "2027-01-25", "label": "Demo build + store page submitted for review to be live when Press Preview opens"},
+      {"date": "2027-02-08", "label": "All required items submitted for review"},
+      {"date": "2027-02-11", "label": "Deadline to opt out of trailer permissions"},
+      {"date": "2027-02-11", "label": "Press Preview begins (10am PST)"}
+    ],
+    "2027-06": [
+      {"date": "2027-04-25", "label": "Registration deadline (11:59pm PDT)"},
+      {"date": "2027-05-03", "label": "Valve pulls trailers for the official Next Fest trailer"},
+      {"date": "2027-05-17", "label": "Demo build + store page submitted for review to be live when Press Preview opens"},
+      {"date": "2027-05-31", "label": "All required items submitted for review"},
+      {"date": "2027-06-03", "label": "Deadline to opt out of trailer permissions"},
+      {"date": "2027-06-03", "label": "Press Preview begins (10am PDT)"}
+    ]
+  },
+  "nextfest_eligibility": [
+    "The game is associated with a Steamworks developer account in good standing.",
+    "The store page is published and public.",
+    "It is not a prologue, chapter 1, or otherwise a demo version of existing content.",
+    "It includes a publicly playable demo by the time the festival begins.",
+    "It releases any time after the fest concludes.",
+    "Each game can participate in only one Steam Next Fest."
+  ],
+  "discount_rules": [
+    {"rule": "Release cooldown", "detail": "No discounts for 30 days after release (applies to both Early Access and full release), except an optional Launch Discount."},
+    {"rule": "Launch discount", "detail": "Optional, must be set up before release, runs 7 to 14 days, and cannot exceed 40%."},
+    {"rule": "Discount cooldown", "detail": "A product cannot be discounted within 30 days of another discount."},
+    {"rule": "Seasonal sale exemption", "detail": "Spring, Summer, Autumn and Winter sales are exempt from the 30-day cooldowns and do not trigger one."},
+    {"rule": "Discount length", "detail": "Each discount runs between 1 and 14 days."},
+    {"rule": "Discount depth", "detail": "Between 10% and 95% off."},
+    {"rule": "Price increase lock", "detail": "No discounts for 30 days after a price increase in any currency. No exceptions."},
+    {"rule": "Weeklong Deals", "detail": "Begin every Monday at 10:00 AM Pacific and run for 7 days."}
+  ],
+  "store_rules": [
+    {"rule": "Coming Soon minimum", "detail": "New products must have a Coming Soon page live for at least two weeks before release."},
+    {"rule": "Store page review", "detail": "Valve's review typically takes 3 to 5 business days; submit at least 7 business days before you want the page live."},
+    {"rule": "Build review", "detail": "Build review typically takes 3 to 5 business days; plan for at least 7 business days."}
+  ],
+  "rule_sources": [
+    {"name": "Steamworks: Discounting", "url": "https://partner.steamgames.com/doc/marketing/discounts"},
+    {"name": "Steamworks: Coming Soon", "url": "https://partner.steamgames.com/doc/store/coming_soon"},
+    {"name": "Steamworks: Review Process", "url": "https://partner.steamgames.com/doc/store/review_process"},
+    {"name": "Steamworks: Steam Next Fest", "url": "https://partner.steamgames.com/doc/marketing/upcoming_events/nextfest"}
+  ]
+}

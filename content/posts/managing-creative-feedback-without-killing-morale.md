@@ -39,7 +39,7 @@ The three structural failures I see most often:
 
 **Feedback without criteria.** Your team doesn't know what "good" looks like before they start work, so any criticism lands as arbitrary judgment. You can't hit a target no one drew.
 
-**Public critique without [psychological safety](/psychological-safety-and-milestone-reviews-in-game-dev/).** Group review sessions are useful for some things. They're a terrible place to deliver substantive negative feedback for the first time. People perform defensiveness in public. They actually hear you in private.
+**Public critique without psychological safety.** Group review sessions are useful for some things. They're a terrible place to deliver substantive negative feedback for the first time. People perform defensiveness in public. They actually hear you in private.
 
 **One-way transmission.** Feedback given with no mechanism for response or clarification isn't feedback, it's a verdict. The difference matters enormously to the person receiving it.
 

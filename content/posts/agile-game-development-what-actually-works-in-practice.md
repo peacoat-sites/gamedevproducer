@@ -27,16 +27,16 @@ lastmod: 2026-07-08
 ---
 You're three weeks into sprint planning, and your tech lead just told you that the animation system needs a complete rebuild. Your art director says they can work around it. Your marketing team says you've already committed to a vertical slice demo next month. Your lead producer looks at you like you're supposed to have an answer. This is where agile meets reality in game development, and it's rarely as clean as the textbooks suggest.
 
-Agile methodologies promise flexibility, faster iteration, and better team morale. For game studios, that's genuinely appealing. But "agile" has become a catch-all term that means different things to different teams. Some studios run true Scrum. Others use Kanban. Many frankly do neither and just call it agile because they have standups and [sprint retrospectives](/how-to-run-a-game-development-retrospective/). The uncomfortable truth is that cargo cult agile, without real adaptation to game dev constraints, creates as many problems as it solves.
+Agile methodologies promise flexibility, faster iteration, and better team morale. For game studios, that's genuinely appealing. But "agile" has become a catch-all term that means different things to different teams. Some studios run true Scrum. Others use Kanban. Many frankly do neither and just call it agile because they have standups and [sprint retrospectives](/posts/how-to-run-a-game-development-retrospective/). The uncomfortable truth is that cargo cult agile, without real adaptation to game dev constraints, creates as many problems as it solves.
 
-What actually works in practice is pragmatic agile: taking the useful principles from agile methodologies and bending them to fit how games are actually made. That means respecting the reality that you can't fully predict creative output, that art and code have different workflows, and that [publisher milestones](/how-to-write-a-game-production-milestone-document/) don't disappear just because you're doing two-week sprints.
+What actually works in practice is pragmatic agile: taking the useful principles from agile methodologies and bending them to fit how games are actually made. That means respecting the reality that you can't fully predict creative output, that art and code have different workflows, and that [publisher milestones](/posts/how-to-write-a-game-production-milestone-document/) don't disappear just because you're doing two-week sprints.
 
 
 <div class="value-module">
  <div class="vm-head">Agile Practice Fit Matrix by Discipline</div>
  <div class="vm-body">
  <p class="vm-intro">Different game development disciplines have fundamentally different workflow characteristics-this matrix shows which agile practices actually align with each team's reality.</p>
- <table><thead><tr><th>Agile Practice</th><th>Engineering</th><th>Art/Animation</th><th>Design</th><th>QA</th><th>Audio</th></tr></thead><tbody><tr><td><strong>2-week fixed sprints</strong></td><td>Good fit</td><td>Poor fit-iteration cycles rarely align</td><td>Moderate-depends on prototype scope</td><td>Good fit</td><td>Poor fit-asset delivery is bursty</td></tr><tr><td><strong>Story point estimation</strong></td><td>Useful after 3-4 sprints calibration</td><td>Unreliable-creative discovery skews estimates</td><td>Moderate-prototypes are estimable, tuning is not</td><td>Useful for regression, not exploratory</td><td>Unreliable-implementation complexity varies wildly</td></tr><tr><td><strong>Daily standups</strong></td><td>Valuable for dependency tracking</td><td>Often wasteful-async updates work better</td><td>Valuable during active prototyping</td><td>Essential during crunch, optional otherwise</td><td>Weekly sync usually sufficient</td></tr><tr><td><strong>Definition of Done</strong></td><td>Clear criteria possible</td><td>Subjective-requires art director sign-off gate</td><td>Requires playtest validation, not just completion</td><td>Clear criteria possible</td><td>Requires mix-in-context validation</td></tr><tr><td><strong>[Kanban](/kanban-vs-scrum-for-game-development-which-to-use/) continuous flow</strong></td><td>Good for live ops, weaker for features</td><td>Strong fit-matches actual workflow</td><td>Good for iteration phase</td><td>Strong fit</td><td>Strong fit</td></tr><tr><td><strong>Sprint retrospectives</strong></td><td>High value</td><td>High value</td><td>High value</td><td>High value</td><td>Moderate-smaller team, less process debt</td></tr></tbody></table>
+ <table><thead><tr><th>Agile Practice</th><th>Engineering</th><th>Art/Animation</th><th>Design</th><th>QA</th><th>Audio</th></tr></thead><tbody><tr><td><strong>2-week fixed sprints</strong></td><td>Good fit</td><td>Poor fit-iteration cycles rarely align</td><td>Moderate-depends on prototype scope</td><td>Good fit</td><td>Poor fit-asset delivery is bursty</td></tr><tr><td><strong>Story point estimation</strong></td><td>Useful after 3-4 sprints calibration</td><td>Unreliable-creative discovery skews estimates</td><td>Moderate-prototypes are estimable, tuning is not</td><td>Useful for regression, not exploratory</td><td>Unreliable-implementation complexity varies wildly</td></tr><tr><td><strong>Daily standups</strong></td><td>Valuable for dependency tracking</td><td>Often wasteful-async updates work better</td><td>Valuable during active prototyping</td><td>Essential during crunch, optional otherwise</td><td>Weekly sync usually sufficient</td></tr><tr><td><strong>Definition of Done</strong></td><td>Clear criteria possible</td><td>Subjective-requires art director sign-off gate</td><td>Requires playtest validation, not just completion</td><td>Clear criteria possible</td><td>Requires mix-in-context validation</td></tr><tr><td><strong>Kanban continuous flow</strong></td><td>Good for live ops, weaker for features</td><td>Strong fit-matches actual workflow</td><td>Good for iteration phase</td><td>Strong fit</td><td>Strong fit</td></tr><tr><td><strong>Sprint retrospectives</strong></td><td>High value</td><td>High value</td><td>High value</td><td>High value</td><td>Moderate-smaller team, less process debt</td></tr></tbody></table>
  <p class="vm-note">General information for comparison, confirm specifics for your situation.</p>
  </div>
 </div>
@@ -71,7 +71,7 @@ Standups should be shorter than they usually are. Most teams do 15-minute standu
 
 ## Kanban vs. Scrum: What Works Better
 
-The conversation between Kanban and Scrum is framed as either-or, but for games it's really and-or. [If you're trying to decide between Kanban and Scrum for game development](/kanban-vs-scrum-for-game-development-which-to-use/), the answer depends on how much certainty you have about what you're building.
+The conversation between Kanban and Scrum is framed as either-or, but for games it's really and-or. If you're trying to decide between Kanban and Scrum for game development, the answer depends on how much certainty you have about what you're building.
 
 Early in production, before core systems are locked down, Kanban works better. Your work is flowing, priorities shift constantly, and you're discovering scope. A Kanban board with columns for "Backlog," "In Progress," "Testing," "Done" lets you see bottlenecks immediately. If art is backed up but engineering is rolling, you see it and can respond.
 
@@ -81,11 +81,11 @@ Many successful studios use a hybrid: Kanban for the backlog to manage what's co
 
 ## Managing Technical Debt and Art Debt Inside Sprints
 
-This is where most game teams struggle. You commit to features, but you also need time to maintain systems. [Art debt in game production](/art-debt-in-game-production-what-it-is-and-how-to-manage-it/) grows just as fast as technical debt, and both kill velocity if left unmanaged.
+This is where most game teams struggle. You commit to features, but you also need time to maintain systems. Art debt in game production grows just as fast as technical debt, and both kill velocity if left unmanaged.
 
 The rule that works: reserve 20% of sprint capacity for stabilization, fixes, and debt reduction. Don't call it "buffer." Call it what it is: essential maintenance. If you have 200 points of capacity in a sprint, allocate 160 to new features and 40 to tech debt, bug fixes, and optimization.
 
-If you don't make this explicit, it happens anyway. Team members work on debt in the evening or weekend, burnout creeps in, and you hit a wall around year five of production. That's not a culture problem. [That's a production failure](/crunch-is-a-production-failure-not-a-culture-problem/).
+If you don't make this explicit, it happens anyway. Team members work on debt in the evening or weekend, burnout creeps in, and you hit a wall around year five of production. That's not a culture problem. That's a production failure.
 
 Assign one engineer per sprint to be on "tech debt duty." They own optimization passes, refactoring, memory leaks, and whatever's been nagging the team. Rotate this role every sprint so it's not punishment and everyone understands the work. Same for art: designate one artist per sprint for polish and cleanup passes.
 
@@ -117,7 +117,7 @@ Cut ceremonies ruthlessly. Every meeting should earn its time. If a standup isn'
 
 ## Platform Concerns and Fixed Deadlines
 
-Game producers need to account for external constraints that most software teams don't face. [If you're shipping on console, platform certification is a fixed deadline](/platform-certification-what-producers-need-to-know/). You submit, you get feedback, you have a window to fix it. That can't slip into the next sprint casually.
+Game producers need to account for external constraints that most software teams don't face. If you're shipping on console, platform certification is a fixed deadline. You submit, you get feedback, you have a window to fix it. That can't slip into the next sprint casually.
 
 Plan for certification time in your sprint structure. Three weeks before submission, freeze new features. Two weeks before, code lock. One week before, submission day. Your sprints need to feed into these deadlines, not ignore them.
 

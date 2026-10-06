@@ -1,0 +1,166 @@
+{{- $ev := hugo.Data.steam_events | default dict -}}
+<div id="sec" class="sec" data-events="{{ $ev | jsonify }}">
+  <div class="sec-next" id="sec-next"></div>
+
+  <div class="sec-box">
+    <div class="sec-box-h">Next Fest deadline tracker</div>
+    <p class="sec-muted">Every published deadline for upcoming Steam Next Fests. Registration closes weeks before the event, so this is the date that matters most.</p>
+    <div id="sec-nf"></div>
+  </div>
+
+  <div class="sec-box">
+    <div class="sec-box-h">Can I discount on this date?</div>
+    <p class="sec-muted">Check your game against Steam's release cooldown, discount cooldown and price-increase lock, and see which upcoming seasonal sales you can join.</p>
+    <div class="sec-form">
+      <label>Release date (or planned release)<input type="date" id="sec-rel"></label>
+      <label>Last discount ended <span class="sec-opt">(optional)</span><input type="date" id="sec-last"></label>
+      <label>Last price increase <span class="sec-opt">(optional)</span><input type="date" id="sec-pi"></label>
+    </div>
+    <div id="sec-check" aria-live="polite"></div>
+  </div>
+
+  <div class="sec-box">
+    <div class="sec-box-h">Full calendar</div>
+    <div class="sec-chips" role="group" aria-label="Filter events">
+      <button type="button" data-f="all" class="on">All events</button>
+      <button type="button" data-f="seasonal">Seasonal sales</button>
+      <button type="button" data-f="nextfest">Next Fest</button>
+      <button type="button" data-f="themed">Themed fests</button>
+    </div>
+    {{- $lbl := dict "seasonal" "Seasonal sale" "nextfest" "Next Fest" "themed" "Themed fest" -}}
+    {{- $note := dict "seasonal" "Opt in through Steamworks. Exempt from the 30-day discount cooldown, but the 30-day release cooldown still applies." "nextfest" "Free demo showcase. Needs a public store page and a playable demo, and the game must release after the fest. One Next Fest per game." "themed" "Opt-in event for games that match the theme. Check Steamworks for eligibility and the registration window." -}}
+    <div class="sec-tbl-wrap"><table><thead><tr><th>Dates</th><th>Event</th><th>Type</th><th>Length</th><th>What it means for developers</th></tr></thead><tbody id="sec-rows">
+    {{- range $ev.events }}
+    {{- $s := time.AsTime .start }}{{ $e := time.AsTime .end }}
+      <tr data-type="{{ .type }}" data-s="{{ .start }}" data-e="{{ .end }}"><td class="d">{{ $s.Format "Jan 2" }} to {{ $e.Format "Jan 2, 2006" }}</td><td><strong>{{ .name }}</strong></td><td><span class="tg {{ .type }}">{{ index $lbl .type }}</span></td><td class="d">{{ add (int (div ($e.Sub $s).Hours 24)) 1 }} days</td><td style="font-size:.82rem;color:var(--muted)">{{ index $note .type }}</td></tr>
+    {{- end }}
+    </tbody></table></div>
+    <div class="sec-actions"><button type="button" id="sec-ics">Add all to calendar (.ics)</button></div>
+  </div>
+  <p class="sec-fine">Source: <a href="{{ $ev.source_url }}" rel="noopener" target="_blank">{{ $ev.source_name }}</a>, verified {{ $ev.verified }}. {{ $ev.time_note }} Valve can change dates; confirm in Steamworks before committing a launch.</p>
+</div>
+
+<style>
+.sec{margin:28px 0;font-variant-numeric:tabular-nums}
+.sec-next{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:12px;margin-bottom:18px}
+.sec-card{padding:16px;border:1px solid var(--border);border-radius:12px;background:var(--surface,#fff);border-top:4px solid var(--c,#4338ca)}
+.sec-card .k{font-size:.68rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--c,#4338ca)}
+.sec-card .n{font-weight:800;font-size:1.02rem;margin:3px 0;color:var(--heading,#0f172a);line-height:1.3}
+.sec-card .d{font-size:.84rem;color:var(--muted)}
+.sec-card .cd{margin-top:8px;font-size:1.25rem;font-weight:800;color:var(--heading,#0f172a)}
+.sec-card .cd small{font-size:.75rem;font-weight:600;color:var(--muted)}
+.sec-box{border:1px solid var(--border);border-radius:14px;padding:18px 20px;margin-bottom:18px;background:var(--surface,#fff)}
+.sec-box-h{font-weight:800;font-size:1.08rem;color:var(--heading,#0f172a);margin-bottom:4px}
+.sec-muted{margin:0 0 14px;color:var(--muted);font-size:.9rem;line-height:1.5}
+.sec-nfest{margin:0 0 16px}
+.sec-nfest h4{margin:0 0 8px;font-size:.98rem}
+.sec-tl{list-style:none;margin:0;padding:0 0 0 14px;border-left:2px solid var(--border)}
+.sec-tl li{position:relative;padding:5px 0 5px 12px;font-size:.88rem}
+.sec-tl li::before{content:"";position:absolute;left:-21px;top:11px;width:12px;height:12px;border-radius:50%;background:var(--surface,#fff);border:2px solid #94a3b8}
+.sec-tl li.done{color:var(--muted)}
+.sec-tl li.done::before{background:#94a3b8}
+.sec-tl li.nexts::before{border-color:#dc2626;background:#dc2626}
+.sec-tl li.nexts{font-weight:700}
+.sec-tl .when{display:inline-block;min-width:96px;font-weight:700}
+.sec-tl .rel{font-size:.78rem;color:var(--muted);margin-left:6px}
+.sec-form{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;margin-bottom:12px}
+.sec-form label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.sec-form input{padding:10px 12px;border:1.5px solid var(--border-strong,#cbd5e1);border-radius:10px;font-size:15px;font-family:inherit;color:var(--text);background:var(--surface,#fff)}
+.sec-opt{font-weight:400}
+.sec-res{padding:14px 16px;border-radius:10px;background:var(--surface2,#f8fafc);border:1px solid var(--border)}
+.sec-res .big{font-size:1.15rem;font-weight:800;color:var(--heading,#0f172a)}
+.sec-res ul{margin:10px 0 0;padding-left:18px;font-size:.88rem;line-height:1.6}
+.sec-yes{color:#15803d;font-weight:700}.sec-no{color:#b91c1c;font-weight:700}
+.sec-chips{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 12px}
+.sec-chips button{padding:7px 13px;border-radius:999px;border:1.5px solid var(--border-strong,#cbd5e1);background:var(--surface,#fff);font-weight:600;font-size:.82rem;cursor:pointer;font-family:inherit;color:var(--text)}
+.sec-chips button.on{background:var(--accent,#4338ca);border-color:var(--accent,#4338ca);color:#fff}
+.sec-tbl-wrap{overflow-x:auto}
+.sec table{width:100%;border-collapse:collapse;font-size:.86rem}
+.sec th{text-align:left;font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);padding:8px 10px;border-bottom:2px solid var(--border)}
+.sec td{padding:9px 10px;border-bottom:1px solid var(--border);vertical-align:top}
+.sec td.d{white-space:nowrap;font-weight:600}
+.sec tr.past td{color:var(--muted)}
+.sec tr.now td{background:color-mix(in srgb,#16a34a 8%,#fff)}
+.sec .tg{display:inline-block;font-size:.68rem;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap;color:#fff}
+.sec .tg.seasonal{background:#16a34a}.sec .tg.nextfest{background:#4338ca}.sec .tg.themed{background:#64748b}
+.sec-actions{margin-top:12px}
+.sec-actions button{padding:10px 14px;border-radius:9px;border:0;background:var(--accent,#4338ca);color:#fff;font-weight:700;font-size:.85rem;cursor:pointer;font-family:inherit}
+.sec-fine{font-size:.76rem;color:var(--muted);line-height:1.5}
+</style>
+
+<script>
+(function(){
+  var root=document.getElementById('sec'); if(!root) return;
+  var EV={}; try{EV=JSON.parse(root.getAttribute('data-events')||'{}')}catch(e){}
+  var DAY=864e5;
+  function toD(s){var p=s.split('-').map(Number);return new Date(Date.UTC(p[0],p[1]-1,p[2]))}
+  function iso(d){return d.toISOString().slice(0,10)}
+  function addD(d,n){return new Date(d.getTime()+n*DAY)}
+  function fmt(d){return d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'})}
+  function fmtN(d){return d.toLocaleDateString('en-US',{month:'short',day:'numeric',timeZone:'UTC'})}
+  function diff(a,b){return Math.round((b-a)/DAY)}
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+  function rel(n){return n===0?'today':(n>0?'in '+n+' day'+(n===1?'':'s'):Math.abs(n)+' day'+(n===-1?'':'s')+' ago')}
+  var t0=new Date(),TODAY=new Date(Date.UTC(t0.getFullYear(),t0.getMonth(),t0.getDate()));
+  var LABEL={seasonal:'Seasonal sale',nextfest:'Next Fest',themed:'Themed fest'};
+  var COLOR={seasonal:'#16a34a',nextfest:'#4338ca',themed:'#64748b'};
+  var E=(EV.events||[]).map(function(e){return{name:e.name,type:e.type,key:e.key,s:toD(e.start),e:toD(e.end)}});
+
+  // next-up cards
+  var up=E.filter(function(e){return e.e>=TODAY}).slice(0,3),h='';
+  up.forEach(function(e){
+    var live=e.s<=TODAY,n=live?diff(TODAY,e.e):diff(TODAY,e.s);
+    h+='<div class="sec-card" style="--c:'+COLOR[e.type]+'"><div class="k">'+(live?'Happening now':'Coming up')+' · '+LABEL[e.type]+'</div><div class="n">'+esc(e.name)+'</div><div class="d">'+fmt(e.s)+' to '+fmt(e.e)+'</div><div class="cd">'+n+' <small>day'+(n===1?'':'s')+' '+(live?'left':'to go')+'</small></div></div>'});
+  root.querySelector('#sec-next').innerHTML=h;
+
+  // next fest tracker
+  var DL=EV.nextfest_deadlines||{},nh='';
+  E.filter(function(e){return e.type==='nextfest'&&e.e>=TODAY}).forEach(function(e){
+    var items=(DL[e.key]||[]).map(function(x){return{d:toD(x.date),l:x.label}});
+    items.push({d:e.s,l:'Fest begins (10am Pacific)'});items.push({d:e.e,l:'Fest ends; your release can happen any time after this'});
+    var nextIdx=-1;for(var i=0;i<items.length;i++){if(items[i].d>=TODAY){nextIdx=i;break}}
+    nh+='<div class="sec-nfest"><h4>'+esc(e.name)+' <span class="sec-muted" style="font-weight:500;font-size:.82rem">('+fmtN(e.s)+' to '+fmt(e.e)+')</span></h4><ul class="sec-tl">'+
+      items.map(function(x,i){var c=x.d<TODAY?'done':(i===nextIdx?'nexts':'');return'<li class="'+c+'"><span class="when">'+fmtN(x.d)+'</span>'+esc(x.l)+'<span class="rel">'+rel(diff(TODAY,x.d))+'</span></li>'}).join('')+'</ul></div>'});
+  root.querySelector('#sec-nf').innerHTML=nh||'<p class="sec-muted">No upcoming Next Fest dates are published yet.</p>';
+
+  // discount checker
+  var rel_=root.querySelector('#sec-rel'),last=root.querySelector('#sec-last'),pi=root.querySelector('#sec-pi');
+  function check(){
+    var out=root.querySelector('#sec-check');
+    if(!rel_.value){out.innerHTML='';return}
+    var R=toD(rel_.value),locks=[{d:addD(R,30),why:'30-day release cooldown ends'}];
+    if(last.value) locks.push({d:addD(toD(last.value),30),why:'30 days since your last discount'});
+    if(pi.value) locks.push({d:addD(toD(pi.value),30),why:'30-day price-increase lock ends'});
+    var hard=[locks[0]];if(pi.value)hard.push(locks[locks.length-1]);
+    var earliest=locks.reduce(function(a,b){return b.d>a.d?b:a});
+    var hardEnd=hard.reduce(function(a,b){return b.d>a.d?b:a}).d;
+    var start=earliest.d<TODAY?TODAY:earliest.d;
+    var html='<div class="sec-res"><div class="big">Earliest regular discount: '+fmt(start)+'</div><div class="sec-muted" style="margin:4px 0 0">Binding rule: '+esc(earliest.why)+(earliest.d<TODAY?' (already passed, so you can discount now)':'')+'.</div>';
+    if(R>TODAY) html+='<div style="margin-top:8px;font-size:.88rem">Launching on '+fmt(R)+'? You can still set up a <strong>launch discount</strong> of up to 40% that runs 7 to 14 days, as long as you configure it before release.</div>';
+    var sales=E.filter(function(e){return e.type==='seasonal'&&e.e>=TODAY&&e.e>=R}).slice(0,4);
+    if(sales.length){html+='<ul>'+sales.map(function(e){var ok=e.s>hardEnd;
+      return'<li>'+esc(e.name)+' ('+fmtN(e.s)+' to '+fmt(e.e)+'): '+(ok?'<span class="sec-yes">eligible</span>':'<span class="sec-no">not eligible</span>, your lock runs until '+fmt(hardEnd))+'</li>'}).join('')+'</ul>';
+      html+='<div class="sec-muted" style="margin-top:6px;font-size:.8rem">Seasonal sales ignore the discount-to-discount cooldown, so only the release cooldown and price-increase lock count against them. If a lock ends partway through a sale, check Steamworks before planning around it.</div>'}
+    out.innerHTML=html+'</div>';
+  }
+  [rel_,last,pi].forEach(function(el){el.addEventListener('input',check);el.addEventListener('change',check)});
+
+  // table: server-rendered rows; mark past/live and filter by type
+  var f='all',TR=[].slice.call(root.querySelectorAll('#sec-rows tr'));
+  TR.forEach(function(tr){var s=toD(tr.dataset.s),e=toD(tr.dataset.e);
+    if(e<TODAY)tr.classList.add('past');else if(s<=TODAY){tr.classList.add('now');tr.cells[1].insertAdjacentHTML('beforeend',' <span class="tg seasonal">live now</span>')}});
+  function rows(){TR.forEach(function(tr){tr.style.display=(f==='all'||tr.dataset.type===f)?'':'none'})}
+  root.querySelectorAll('.sec-chips button').forEach(function(b){b.addEventListener('click',function(){
+    root.querySelectorAll('.sec-chips button').forEach(function(x){x.classList.remove('on')});b.classList.add('on');f=b.getAttribute('data-f');rows()})});
+  rows();
+
+  root.querySelector('#sec-ics').addEventListener('click',function(){
+    function d8(d){return iso(d).replace(/-/g,'')}
+    var st=new Date().toISOString().replace(/[-:]/g,'').slice(0,15)+'Z',L=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//GameDevProducer//Steam Calendar//EN','CALSCALE:GREGORIAN'];
+    E.forEach(function(e,i){L.push('BEGIN:VEVENT','UID:gdp-steam-'+d8(e.s)+'-'+i+'@gamedevproducer.com','DTSTAMP:'+st,'DTSTART;VALUE=DATE:'+d8(e.s),'DTEND;VALUE=DATE:'+d8(addD(e.e,1)),'SUMMARY:'+e.name.replace(/[,;]/g,' '),'DESCRIPTION:'+LABEL[e.type]+'. Starts and ends 10am Pacific.','END:VEVENT')});
+    Object.keys(DL).forEach(function(k){(DL[k]||[]).forEach(function(x,i){var d=toD(x.date);L.push('BEGIN:VEVENT','UID:gdp-nf-'+k+'-'+i+'@gamedevproducer.com','DTSTAMP:'+st,'DTSTART;VALUE=DATE:'+d8(d),'DTEND;VALUE=DATE:'+d8(addD(d,1)),'SUMMARY:Next Fest '+k+': '+x.label.replace(/[,;]/g,' '),'END:VEVENT')})});
+    L.push('END:VCALENDAR');
+    var fold=L.map(function(l){var o='';while(l.length>74){o+=l.slice(0,74)+'\r\n ';l=l.slice(74)}return o+l});
+    var b=new Blob([fold.join('\r\n')],{type:'text/calendar;charset=utf-8'}),a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='steam-events-2026-2027.ics';document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},500)});
+})();
+</script>

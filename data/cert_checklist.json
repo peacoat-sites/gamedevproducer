@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-06",
+  "features": [
+    {"key": "online", "label": "Online multiplayer or online services"},
+    {"key": "chat", "label": "Voice or text chat"},
+    {"key": "achievements", "label": "Achievements / Trophies"},
+    {"key": "purchases", "label": "In-game purchases or DLC"},
+    {"key": "ugc", "label": "User-generated content"},
+    {"key": "handheld", "label": "Handheld or hybrid console"},
+    {"key": "physical", "label": "Physical (disc or cartridge) release"}
+  ],
+  "groups": [
+    {"key": "stability", "name": "Boot, stability and performance", "items": [
+      {"t": "Boots to an interactive screen with visible loading feedback", "d": "No long black screens. Show progress during long loads and meet the platform's boot-time expectations."},
+      {"t": "Survives a multi-hour soak test without crashing or hanging", "d": "Leave the game running in its heaviest scenes and menus for hours, on every hardware model you support."},
+      {"t": "Tested on every hardware model you list", "d": "Base and upgraded consoles, digital editions, and handheld and docked modes. A crash on one model is a failure."},
+      {"t": "No memory leaks or performance collapse over long sessions", "d": "Track memory and frame time across a full playthrough, not just short test runs."},
+      {"t": "Quitting from the system menu never corrupts data", "d": "Force-close the game at every point you can, including during saves and loads."}
+    ]},
+    {"key": "saves", "name": "Save data", "items": [
+      {"t": "Handles missing save data on first boot and after deletion", "d": "A new player and a player who deleted their save both get a clean start."},
+      {"t": "Detects corrupted saves and recovers or explains", "d": "Never crash or hang on a damaged file. Offer a recovery path or a clear message."},
+      {"t": "Handles insufficient storage with a clear message", "d": "Check what happens when the system is full before a save, an install or a patch."},
+      {"t": "Tells the player when not to power off during saves", "d": "Use a saving indicator wherever writing data takes noticeable time."},
+      {"t": "Saves belong to the correct user profile", "d": "Two profiles on one console must never share or overwrite each other's progress."}
+    ]},
+    {"key": "users", "name": "User accounts and profiles", "items": [
+      {"t": "Handles sign-out or user switching mid-session", "d": "Return to a safe state such as the title screen and ask the right user to continue."},
+      {"t": "Uses the active user's data, settings and achievements throughout", "d": "Profile changes must propagate everywhere, including online and menus."},
+      {"t": "Respects parental controls and account restrictions", "d": "Child accounts and restricted features behave as the system settings require."}
+    ]},
+    {"key": "input", "name": "Controllers and input", "items": [
+      {"t": "Controller disconnect pauses play and prompts reconnection", "d": "Gameplay must never continue unattended after a controller drops."},
+      {"t": "Reconnecting restores the right controller to the right player", "d": "Test re-pairing in single player, local multiplayer and menus."},
+      {"t": "Button prompts and icons match the platform", "d": "No wrong-platform glyphs anywhere, including tutorials, loading tips and key art in menus."}
+    ]},
+    {"key": "system", "name": "System events", "items": [
+      {"t": "Suspend and resume (rest mode) without data loss or desync", "d": "Suspend during gameplay, loading, saving and online sessions, then resume hours later."},
+      {"t": "System overlays and notifications never break the game", "d": "Open the system menu, receive invites and notifications, and check audio and input recover cleanly."},
+      {"t": "Follows system language and accessibility settings where required", "d": "Default to the system language when supported and honour relevant system settings."},
+      {"t": "Handheld, docked and low-battery transitions work", "d": "Switch modes mid-game and check resolution, UI scale and performance.", "f": "handheld"}
+    ]},
+    {"key": "network", "name": "Network and online", "items": [
+      {"t": "Connection loss mid-session fails cleanly", "d": "Pull the network during matchmaking, gameplay and purchases. Show a clear message and never hang.", "f": "online"},
+      {"t": "Server outages and maintenance are handled gracefully", "d": "Players get an explanation and a way back, not an endless spinner.", "f": "online"},
+      {"t": "Online features check the user's platform privileges", "d": "Online play, subscriptions where required, and communication settings gate the right features.", "f": "online"},
+      {"t": "Invites and joining from the system UI work", "d": "Join from a friend's invite with the game closed, at the title screen and mid-match.", "f": "online"},
+      {"t": "Voice and text chat respect platform privacy settings", "d": "Muting, blocking and communication restrictions apply everywhere chat exists.", "f": "chat"}
+    ]},
+    {"key": "ach", "name": "Achievements and Trophies", "items": [
+      {"t": "Every achievement is obtainable and unlocks at the right moment", "d": "No unobtainable or mis-triggered unlocks. Verify each one in a clean playthrough.", "f": "achievements"},
+      {"t": "Unlocks earned offline sync correctly", "d": "Earn achievements offline, reconnect, and confirm they register.", "f": "achievements"},
+      {"t": "Names, descriptions and icons are final and localized", "d": "Treat achievement text as store-facing copy, because it is.", "f": "achievements"}
+    ]},
+    {"key": "store", "name": "Purchases, DLC and entitlements", "items": [
+      {"t": "All purchases use the platform's store flow", "d": "No external payment paths inside the game.", "f": "purchases"},
+      {"t": "Purchased content appears, restores after reinstall, and handles removal", "d": "Test purchase, reinstall, a second console, and refunded or revoked entitlements.", "f": "purchases"},
+      {"t": "In-game prices and items match the store", "d": "Mismatched names, prices or bundle contents are a common, avoidable failure.", "f": "purchases"}
+    ]},
+    {"key": "text", "name": "Text, terminology and localization", "items": [
+      {"t": "Platform terminology is used exactly as required", "d": "Button names, system feature names and brand names follow each platform's guidelines."},
+      {"t": "Every declared language is complete", "d": "No missing strings, truncated text or overlapping UI in any language you list on the store."},
+      {"t": "No placeholder, debug or developer text anywhere", "d": "Search the build for test strings, debug menus and internal names before you submit."},
+      {"t": "Required legal text and credits are present", "d": "EULA, privacy notice, third-party license notices and credits where the platform or your licenses require them."}
+    ]},
+    {"key": "ratings", "name": "Ratings and content", "items": [
+      {"t": "Age ratings secured for every region you ship in", "d": "IARC for digital releases on participating storefronts, plus ESRB, PEGI, USK, CERO or others as required. The rating must match the content."},
+      {"t": "Interactive elements are disclosed", "d": "Online interactions, in-game purchases and user content are declared in your rating questionnaire."},
+      {"t": "User content can be reported and moderated", "d": "Players can report and hide content, and you have a process to act on reports.", "f": "ugc"}
+    ]},
+    {"key": "submit", "name": "Store assets and submission package", "items": [
+      {"t": "Store assets meet each platform's specs", "d": "Icons, key art, screenshots and trailers at the required sizes and content rules."},
+      {"t": "Metadata and feature declarations are accurate", "d": "Descriptions, supported features, player counts and languages match the build."},
+      {"t": "Submission form, version numbers, price and release date are set", "d": "Wrong version numbers and missing paperwork delay submissions that would otherwise pass."},
+      {"t": "Day-one patch is scheduled through certification too", "d": "A patch is a submission. Plan its certification alongside the main build."}
+    ]},
+    {"key": "physical", "name": "Physical release", "items": [
+      {"t": "Manufacturing lead time is in the schedule", "d": "Physical releases need the final build earlier than digital. Confirm lead times with your publisher or the platform holder.", "f": "physical"},
+      {"t": "Packaging and printed materials are approved", "d": "Box art, ratings marks and platform branding go through approval as well.", "f": "physical"}
+    ]}
+  ]
+}

@@ -14,18 +14,18 @@ faqs:
  - q: "How far in advance should I start the certification process?"
    a: "Start your internal compliance pass no later than eight weeks before your target ship date. If you're doing a simultaneous multi-platform launch, add another two weeks of buffer. Platform cert windows are largely outside your control, so the only variable you can manage is how ready your build is when it enters the queue."
  - q: "What happens if we fail certification?"
-   a: "You'll receive a certification failure report listing every non-compliant item with a severity rating. You fix the issues, cut a new build, and resubmit. There's no penalty beyond time lost. That said, if you're on a tight retailer-mandated ship date for a physical release, repeat failures can have real business consequences."
+   a: "You'll receive a report listing the failures the platform holder found. You fix the issues, cut a new build, and resubmit. There's no penalty beyond time lost. That said, if you're on a tight retailer-mandated ship date for a physical release, repeat failures can have real business consequences."
  - q: "Can we ship a patch day-one to fix things that didn't make cert?"
    a: "No. The build that passes cert is the build that ships. Any changes after certification require a patch, which also goes through a (usually faster) certification review. Day-one patches are common, but they don't replace certification."
  - q: "Is certification different for patches and DLC?"
-   a: "Yes, and usually faster. Patch and DLC submissions go through a lighter review process than a full game submission. Typical turnaround is a few business days to a week. The requirements still apply, but the scope of testing is smaller."
+   a: "Yes, and usually faster. Patch and DLC submissions go through a lighter review process than a full game submission. Turnaround is usually quicker than for a full game submission. The requirements still apply, but the scope of testing is smaller."
  - q: "Do indie studios get treated differently in cert than large publishers?"
    a: "The requirements are the same regardless of studio size. What differs is access to platform support. Larger publishers often have a dedicated platform relations contact who can expedite questions or flag issues before submission. Indie studios working through the standard developer programs typically rely on documentation and developer forums. Joining programs like the ID@Xbox or PlayStation Indies initiative can improve your access to support resources."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
-You've just hit your ship date. The build is stable, the team is exhausted, and someone in the room asks, "So how long does cert actually take?" The honest answer is: longer than you budgeted, almost certainly. Sony's PlayStation certification process alone has historically taken anywhere from two to six weeks for a first submission, and Nintendo's Lotcheck can stretch even longer if your documentation isn't airtight. Microsoft's Xbox certification runs on a similar timeline. If you didn't plan for that buffer, you're already in trouble. This article is for producers who want to stop being surprised by that number.
+You've just hit your ship date. The build is stable, the team is exhausted, and someone in the room asks, "So how long does cert actually take?" The honest answer is: longer than you budgeted, almost certainly. Each submission takes time, turnaround varies by platform and by season, and a single failure means another round. If you didn't plan for that buffer, you're already in trouble. This article is for producers who want to stop being surprised by that number.
 
 ## What Certification Actually Is (and Why It Exists)
 
@@ -33,7 +33,7 @@ Cert isn't a formality. It's a mandatory quality and compliance gate controlled 
 
 These requirements aren't arbitrary. They're designed to protect the platform experience: consistent network behavior, correct handling of system-level events like low storage or incoming calls, accessibility standards, age rating compliance, and crash-free operation across all supported hardware SKUs. Players expect a certain floor of quality when they buy from a walled-garden storefront. Certification is how the platform holder enforces it.
 
-Each platform calls it something different. Sony calls it Submission and Certification. Microsoft calls it Xbox Certification. Nintendo calls it Lotcheck. The mechanics differ, but the stakes don't: fail, and you don't ship.
+Each platform runs its own process with its own documentation. The mechanics differ, but the stakes don't: fail, and you don't ship.
 
 ## The Cert Requirements Documents You Need to Read Before Your Pre-Alpha
 
@@ -55,36 +55,25 @@ This is the part producers actually need to manage. The exact steps vary by plat
 
 1. **Complete your first-party developer registration**: You need an approved developer account and access to the partner portal before you can submit anything. This alone can take weeks if you haven't started the process.
 2. **Obtain your age ratings**: You'll need ratings from ESRB (North America), PEGI (Europe), and any other relevant regional bodies before submission. Apply early. IARC (the unified self-classification tool) speeds this up for digital releases.
-3. **Build your submission binary**: This is a cert-specific build, not your debug build. It has to be close to final, with [gold master-level stability](/what-is-a-game-milestone-alpha-beta-gold/).
+3. **Build your submission binary**: This is a cert-specific build, not your debug build. It has to be close to final, with [gold master-level stability](/posts/what-is-a-game-milestone-alpha-beta-gold/).
 4. **Run your internal first-party compliance pass**: Using the requirements documents, your QA team needs to systematically verify your build against every applicable requirement. Use a spreadsheet or a purpose-built test management tool. Zephyr Scale inside Jira or TestRail are both solid choices here.
 5. **Submit your build and documentation through the partner portal**: This includes your submission form, marketing assets, and any required legal agreements. Missing documentation is a fast path to rejection.
-6. **Wait for first-party QA**: The platform holder's team will test your build. This takes one to three weeks minimum, sometimes longer during high-volume windows like Q4 before the holidays.
+6. **Wait for first-party QA**: The platform holder's team will test your build. Turnaround varies by platform and by season, and queues tend to lengthen ahead of the holidays, so ask for current estimates when you book.
 7. **Address any certification failures (CFs)**: If you fail, you'll get a report. Fix the issues, cut a new build, resubmit. This cycle can repeat.
 8. **Receive cert approval**: Once you pass, you'll get a cert approval and can schedule your release date.
 
-Plan for at least two submission attempts. Most games don't pass on the first try. That's not a failure of your team; it's just the reality of how many requirements exist.
+Plan for at least two submission attempts. Plenty of games don't pass on the first try. That's not a failure of your team; it's the reality of how many requirements exist. The [game development schedule planner](/game-development-schedule-planner/) builds that resubmission window into your dates automatically.
 
 ## Platform Comparison: What's Different Between Sony, Microsoft, and Nintendo
 
 | Factor | PlayStation (Sony) | Xbox (Microsoft) | Switch (Nintendo) |
 |---|---|---|---|
-| Requirements doc | TRC (Technical Requirements Checklist) | Xbox Requirements (XR) | Guidelines (via NDev) |
-| Avg. first submission window | 2-4 weeks | 1-3 weeks | 2-5 weeks |
-| Self-service resubmission | Limited | More flexible via Partner Center | Structured, strict |
-| Physical release complexity | Moderate | Moderate | High (Nintendo handles manufacturing) |
-| Age rating requirement | ESRB/PEGI/IARC | ESRB/PEGI/IARC | ESRB/PEGI/IARC |
-| Known strictness | Network/system events | Accessibility, MP features | Overall polish, memory usage |
+| Requirements documentation | TRC (Technical Requirements Checklist) | Xbox Requirements (XR) | Guidelines on the Nintendo Developer Portal |
+| Where you manage submissions | PlayStation Partners | Partner Center | Nintendo Developer Portal |
+| Age ratings | ESRB, PEGI and IARC as applicable | ESRB, PEGI and IARC as applicable | ESRB, PEGI and IARC as applicable |
+| Physical release | Arranged with the platform holder or your publisher | Arranged with the platform holder or your publisher | Game cards are manufactured through Nintendo |
 
-| Factor | PlayStation (Sony) | Xbox (Microsoft) | Switch (Nintendo) |
-|---|---|---|---|
-| Requirements doc | TRC (Technical Requirements Checklist) | Xbox Requirements (XR) | Guidelines (via NDev) |
-| Avg. first submission window | 2-4 weeks | 1-3 weeks | 2-5 weeks |
-| Self-service resubmission | Limited | More flexible via Partner Center | Structured, strict |
-| Physical release complexity | Moderate | Moderate | High (Nintendo handles manufacturing) |
-| Age rating requirement | ESRB/PEGI/IARC | ESRB/PEGI/IARC | ESRB/PEGI/IARC |
-| Known strictness | Network/system events | Accessibility, MP features | Overall polish, memory usage |
-
-Nintendo's Lotcheck is widely regarded as the most demanding of the three, particularly for smaller studios. They're thorough, their feedback is detailed, and they have low tolerance for crashes or memory issues on Switch hardware. Budget your timeline accordingly.
+Budget the timeline separately for each platform you ship on. Requirements, tooling and turnaround differ, and passing on one platform tells you nothing about the others. If you ship on handheld hardware such as Switch, give memory and performance particular attention.
 
 ## Common Certification Failures and How to Prevent Them
 
@@ -112,7 +101,7 @@ You don't need to manage this process in a spreadsheet and prayer.
 
 **Notion or Confluence** are solid for building your certification knowledge base. Document every certification failure you receive, how you fixed it, and what caused it. That institutional memory is gold on your next project.
 
-For learning the production side more deeply, Jason Della Rocca's work on game production methodology is worth your time, and Jesse Schell's "The Art of Game Design" builds intuition for why platform holders care about certain experience standards. If you want a structured course, the IGDA and Coursera both offer game production fundamentals that cover compliance workflows.
+Before your first submission, run the build through the [console certification readiness checklist](/console-certification-checklist/). It covers the areas every platform tests, saves your progress, and exports to CSV for your test tracker.
 
 ---
 

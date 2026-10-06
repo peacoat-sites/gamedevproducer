@@ -1,0 +1,344 @@
+{{- $ev := hugo.Data.steam_events | default dict -}}
+<div id="gsp" class="gsp" data-events="{{ $ev | jsonify }}">
+  <div class="gsp-head">
+    <div class="gsp-kicker">Free planning tool</div>
+    <div class="gsp-title">Game Development Schedule &amp; Milestone Planner</div>
+    <p class="gsp-sub">Plan backward from a launch date or forward from a start date. You get phases, milestone dates, a protected buffer, platform and Steam deadlines, and a calendar file you can import.</p>
+  </div>
+
+  <form class="gsp-form" onsubmit="return false">
+    <div class="gsp-row">
+      <label class="gsp-f">Plan from
+        <select id="gsp-mode">
+          <option value="launch" selected>Target launch date</option>
+          <option value="start">Production start date</option>
+        </select>
+      </label>
+      <label class="gsp-f"><span id="gsp-date-label">Launch date</span>
+        <input id="gsp-date" type="date">
+      </label>
+      <label class="gsp-f">Project scope
+        <select id="gsp-scope">
+          <option value="proto">Prototype to demo (about 4 months)</option>
+          <option value="small">Small indie (about 9 months)</option>
+          <option value="indie" selected>Indie (about 18 months)</option>
+          <option value="aa">Mid-size / AA (about 30 months)</option>
+          <option value="aaa">AAA (about 48 months)</option>
+        </select>
+      </label>
+      <label class="gsp-f">Total time, concept to launch (months)
+        <input id="gsp-months" type="number" min="2" max="96" step="1" value="18">
+      </label>
+    </div>
+
+    <div class="gsp-row">
+      <fieldset class="gsp-f gsp-checks">
+        <legend>Platforms</legend>
+        <label><input type="checkbox" id="gsp-pc" checked> PC (Steam)</label>
+        <label><input type="checkbox" id="gsp-console"> Console (PlayStation, Xbox, Switch)</label>
+        <label><input type="checkbox" id="gsp-mobile"> Mobile (iOS / Android)</label>
+      </fieldset>
+      <label class="gsp-f">Release model
+        <select id="gsp-model">
+          <option value="premium" selected>Premium (full release)</option>
+          <option value="ea">Early Access, then 1.0</option>
+          <option value="live">Live service / free-to-play</option>
+        </select>
+      </label>
+      <label class="gsp-f">Contingency buffer: <strong id="gsp-buf-val">15%</strong>
+        <input id="gsp-buf" type="range" min="0" max="30" step="5" value="15">
+      </label>
+      <fieldset class="gsp-f gsp-checks" id="gsp-steam-opts">
+        <legend>Steam</legend>
+        <label><input type="checkbox" id="gsp-nf" checked> Plan for a Steam Next Fest</label>
+      </fieldset>
+    </div>
+  </form>
+
+  <div id="gsp-out" aria-live="polite"></div>
+
+  <div class="gsp-actions" id="gsp-actions" hidden>
+    <button type="button" id="gsp-csv">Download CSV</button>
+    <button type="button" id="gsp-ics">Add to calendar (.ics)</button>
+    <button type="button" id="gsp-link">Copy share link</button>
+    <button type="button" id="gsp-print">Print</button>
+  </div>
+  <p class="gsp-fine">Phase proportions are planning defaults drawn from common production practice, not guarantees. Steam dates and rules come from Valve's Steamworks documentation (verified {{ with $ev.verified }}{{ . }}{{ end }}); dates beyond Valve's published calendar are marked as estimates.</p>
+</div>
+
+<style>
+.gsp{margin:30px 0;border:1px solid var(--border);border-radius:14px;background:var(--surface,#fff);overflow:hidden;font-variant-numeric:tabular-nums}
+.gsp-head{padding:18px 22px;background:var(--surface2,#f8fafc);border-bottom:1px solid var(--border)}
+.gsp-kicker{font-size:.7rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#4338ca)}
+.gsp-title{font-size:1.2rem;font-weight:800;margin:2px 0 4px;color:var(--heading,#0f172a)}
+.gsp-sub{margin:0;color:var(--muted);font-size:.92rem;line-height:1.5}
+.gsp-form{padding:18px 22px 6px}
+.gsp-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin-bottom:14px}
+.gsp-f{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted);min-width:0}
+.gsp-f select,.gsp-f input[type=date],.gsp-f input[type=number]{width:100%;padding:10px 12px;border:1.5px solid var(--border-strong,#cbd5e1);border-radius:10px;font-size:15px;color:var(--text);background:var(--surface,#fff);box-sizing:border-box;font-family:inherit}
+.gsp-f input[type=range]{width:100%;accent-color:var(--accent,#4338ca)}
+.gsp-checks{border:1.5px solid var(--border-strong,#cbd5e1);border-radius:10px;padding:8px 12px;margin:0}
+.gsp-checks legend{padding:0 4px;font-size:12px}
+.gsp-checks label{display:flex;align-items:center;gap:8px;font-weight:500;color:var(--text);font-size:14px;padding:2px 0}
+#gsp-out{padding:0 22px}
+.gsp-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:8px 0 16px}
+.gsp-card{padding:12px 14px;border:1px solid var(--border);border-radius:10px;background:var(--surface2,#f8fafc)}
+.gsp-card b{display:block;font-size:1.1rem;color:var(--heading,#0f172a)}
+.gsp-card span{font-size:.76rem;color:var(--muted)}
+.gsp-now{padding:12px 14px;border-radius:10px;background:color-mix(in srgb,var(--accent,#4338ca) 9%,#fff);border:1px solid color-mix(in srgb,var(--accent,#4338ca) 30%,transparent);margin-bottom:12px;font-size:.92rem}
+.gsp-warn{list-style:none;padding:0;margin:0 0 16px}
+.gsp-warn li{padding:9px 12px 9px 34px;border-radius:9px;margin-bottom:6px;font-size:.88rem;line-height:1.45;position:relative;background:#fffbeb;border:1px solid #fde68a;color:#78350f}
+.gsp-warn li::before{content:"!";position:absolute;left:11px;top:9px;width:16px;height:16px;border-radius:50%;background:#f59e0b;color:#fff;font-size:11px;font-weight:800;text-align:center;line-height:16px}
+.gsp-warn li.err{background:#fef2f2;border-color:#fecaca;color:#7f1d1d}
+.gsp-warn li.err::before{background:#dc2626}
+.gsp-warn li.ok{background:#f0fdf4;border-color:#bbf7d0;color:#14532d}
+.gsp-warn li.ok::before{content:"\2713";background:#16a34a}
+.gsp-h{font-size:1rem;font-weight:800;margin:20px 0 10px;color:var(--heading,#0f172a)}
+.gsp-gantt{position:relative;border:1px solid var(--border);border-radius:10px;padding:10px 12px 26px;background:var(--surface,#fff)}
+.gsp-g-row{display:grid;grid-template-columns:150px 1fr;align-items:center;gap:10px;margin:5px 0}
+.gsp-g-label{font-size:.8rem;font-weight:600;color:var(--text);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.gsp-g-track{position:relative;height:18px;background:var(--surface2,#f1f5f9);border-radius:5px}
+.gsp-g-bar{position:absolute;top:0;bottom:0;border-radius:5px;min-width:3px}
+.gsp-g-axis{display:grid;grid-template-columns:150px 1fr;gap:10px}
+.gsp-g-ticks{position:relative;height:16px;font-size:.68rem;color:var(--muted)}
+.gsp-g-ticks span{position:absolute;transform:translateX(-50%);white-space:nowrap}
+.gsp-g-today{position:absolute;top:-3px;bottom:-3px;width:2px;background:#dc2626;z-index:2}
+.gsp-tbl-wrap{overflow-x:auto}
+.gsp table{width:100%;border-collapse:collapse;font-size:.86rem}
+.gsp th{text-align:left;font-size:.72rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);padding:8px 10px;border-bottom:2px solid var(--border)}
+.gsp td{padding:9px 10px;border-bottom:1px solid var(--border);vertical-align:top}
+.gsp td.d{white-space:nowrap;font-weight:600}
+.gsp .tag{display:inline-block;font-size:.68rem;font-weight:700;padding:2px 7px;border-radius:999px;background:var(--surface2,#f1f5f9);color:var(--muted);white-space:nowrap}
+.gsp .tag.est{background:#fff7ed;color:#9a3412}
+.gsp .past{color:var(--muted)}
+.gsp-actions{display:flex;flex-wrap:wrap;gap:8px;padding:16px 22px 4px}
+.gsp-actions button{padding:10px 14px;border-radius:9px;border:1.5px solid var(--accent,#4338ca);background:var(--surface,#fff);color:var(--accent,#4338ca);font-weight:700;font-size:.85rem;cursor:pointer;font-family:inherit}
+.gsp-actions button:first-child{background:var(--accent,#4338ca);color:#fff}
+.gsp-fine{padding:6px 22px 16px;margin:0;font-size:.76rem;color:var(--muted);line-height:1.5}
+@media(max-width:600px){.gsp-g-row,.gsp-g-axis{grid-template-columns:96px 1fr}.gsp-g-label{font-size:.72rem}}
+@media print{.gsp-form,.gsp-actions,.gsp-fine{display:none}.gsp{border:0}}
+</style>
+
+<script>
+(function(){
+  var root=document.getElementById('gsp'); if(!root) return;
+  var EV={}; try{EV=JSON.parse(root.getAttribute('data-events')||'{}')}catch(e){}
+  var DAY=864e5;
+  function q(s){return root.querySelector(s)}
+  function toD(s){var p=s.split('-').map(Number);return new Date(Date.UTC(p[0],p[1]-1,p[2]))}
+  function iso(d){return d.toISOString().slice(0,10)}
+  function addD(d,n){return new Date(d.getTime()+n*DAY)}
+  function fmt(d){return d.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'})}
+  function fmtS(d){return d.toLocaleDateString('en-US',{month:'short',year:'2-digit',timeZone:'UTC'})}
+  function diff(a,b){return Math.round((b-a)/DAY)}
+  function subBiz(d,n){var x=new Date(d.getTime());while(n>0){x=addD(x,-1);var w=x.getUTCDay();if(w!==0&&w!==6)n--}return x}
+  function clampD(d,lo,hi){return d<lo?lo:(d>hi?hi:d)}
+  var T0=new Date();var TODAY=new Date(Date.UTC(T0.getFullYear(),T0.getMonth(),T0.getDate()));
+  var esc=function(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})};
+
+  var SCOPES={
+    proto:{months:4,range:[2,8],w:[.10,.20,.40,.15,.15]},
+    small:{months:9,range:[6,15],w:[.08,.20,.45,.14,.13]},
+    indie:{months:18,range:[12,30],w:[.06,.20,.48,.14,.12]},
+    aa:{months:30,range:[22,42],w:[.05,.22,.47,.14,.12]},
+    aaa:{months:48,range:[36,84],w:[.05,.25,.45,.13,.12]}
+  };
+  var PHASES=[
+    {k:'concept',name:'Concept',color:'#a78bfa',focus:'Prove the core fantasy cheaply. Agree audience, platforms, scope and budget range.',exit:'Concept greenlight: the core loop works in a rough prototype and there is a go/no-go decision.'},
+    {k:'pre',name:'Pre-production',color:'#818cf8',focus:'Prove the pipeline and tools. Turn the slice into real estimates. Staff up.',exit:'Vertical slice: one section at final quality for every discipline, with content estimates validated against it.'},
+    {k:'prod',name:'Production',color:'#4f46e5',focus:'Burn down the feature backlog, protect scope, track velocity against plan.',exit:'Alpha (feature complete): every feature is in and playable end to end. No new features after this.'},
+    {k:'content',name:'Content complete',color:'#0891b2',focus:'Content throughput, playtests, localization and certification prep.',exit:'Beta (content complete): all content is in. Work shifts to bugs, performance and polish.'},
+    {k:'buffer',name:'Contingency buffer',color:'#f59e0b',focus:'Absorb slips. Resist spending it on new features.',exit:'Unallocated time for the problems you cannot predict yet. Track what consumes it.'},
+    {k:'final',name:'Polish and release',color:'#10b981',focus:'Bug triage, performance, certification, store assets, launch readiness.',exit:'Gold: the final build is approved for release on every platform.'}
+  ];
+
+  // event calendars: published data first, then projected cadence (marked estimated)
+  var EVENTS=(EV.events||[]).map(function(e){return{name:e.name,type:e.type,key:e.key,start:toD(e.start),end:toD(e.end),est:false}});
+  var lastKnown=EVENTS.length?EVENTS[EVENTS.length-1].start:TODAY;
+  var NFDL=EV.nextfest_deadlines||{};
+  (function project(){
+    var y0=Math.max(lastKnown.getUTCFullYear(),TODAY.getUTCFullYear());
+    for(var y=y0;y<=y0+8;y++){
+      [['Steam Next Fest: February','nextfest','-02-22','-03-01'],['Steam Next Fest: June','nextfest','-06-14','-06-21'],['Steam Next Fest: October','nextfest','-10-19','-10-26'],
+       ['Steam Spring Sale','seasonal','-03-18','-03-25'],['Steam Summer Sale','seasonal','-06-24','-07-08'],['Steam Autumn Sale','seasonal','-10-01','-10-08'],['Steam Winter Sale','seasonal','-12-17','-01-04']]
+      .forEach(function(t){
+        var s=toD(y+t[2]);var eY=(t[3]==='-01-04')?y+1:y;var e=toD(eY+t[3]);
+        if(s<=lastKnown) return;
+        EVENTS.push({name:t[0]+' '+y+' (estimated)',type:t[1],start:s,end:e,est:true});
+      });
+    }
+    EVENTS.sort(function(a,b){return a.start-b.start});
+  })();
+  function nfDeadlines(ev){
+    if(ev.key&&NFDL[ev.key]) return NFDL[ev.key].map(function(x){return{d:toD(x.date),label:x.label,est:false}});
+    return [{d:addD(ev.start,-56),label:'Registration deadline (about 8 weeks before)',est:true},
+            {d:addD(ev.start,-35),label:'Demo build + store page submitted for review for Press Preview',est:true},
+            {d:addD(ev.start,-21),label:'All required items submitted for review',est:true}];
+  }
+
+  var F={mode:q('#gsp-mode'),date:q('#gsp-date'),scope:q('#gsp-scope'),months:q('#gsp-months'),pc:q('#gsp-pc'),console:q('#gsp-console'),mobile:q('#gsp-mobile'),model:q('#gsp-model'),buf:q('#gsp-buf'),nf:q('#gsp-nf')};
+  var last=null;
+
+  function read(){
+    return{mode:F.mode.value,date:F.date.value,scope:F.scope.value,months:Math.max(2,Math.min(96,parseInt(F.months.value,10)||SCOPES[F.scope.value].months)),
+      pc:F.pc.checked,console:F.console.checked,mobile:F.mobile.checked,model:F.model.value,buf:parseInt(F.buf.value,10)||0,nf:F.nf.checked};
+  }
+
+  function compute(I){
+    var totalDays=Math.round(I.months*30.4375),S,L;
+    if(I.mode==='launch'){L=toD(I.date);S=addD(L,-totalDays)}else{S=toD(I.date);L=addD(S,totalDays)}
+    var B=Math.round(totalDays*I.buf/100),D=totalDays-B,w=SCOPES[I.scope].w;
+    var minFinal=I.console?70:(I.mobile?35:28);
+    var fin=Math.max(Math.round(w[4]*D),minFinal);
+    var rem=Math.max(D-fin,0),ws=w[0]+w[1]+w[2]+w[3];
+    var dur=[0,1,2,3].map(function(i){return Math.round(rem*w[i]/ws)});
+    dur.push(B);dur.push(totalDays-(dur[0]+dur[1]+dur[2]+dur[3]+B));
+    var t=S,phases=PHASES.map(function(p,i){var s=t;t=addD(t,dur[i]);return{p:p,start:s,end:t,days:dur[i]}});
+    var M=[],W=[];
+    function m(d,name,cat,note,est){M.push({d:d,name:name,cat:cat,note:note||'',est:!!est})}
+    m(phases[0].end,'Concept greenlight','Production',PHASES[0].exit);
+    m(phases[1].end,'Vertical slice','Production',PHASES[1].exit);
+    m(phases[2].end,'Alpha (feature complete)','Production',PHASES[2].exit);
+    m(phases[3].end,'Beta (content complete)','Production',PHASES[3].exit);
+    var F0=phases[5].start;
+    if(I.console){
+      m(clampD(addD(L,-70),F0,L),'Age ratings secured (IARC / ESRB / PEGI)','Platform','Ratings are required before you can ship on console storefronts.');
+      m(clampD(addD(L,-63),F0,L),'Code lock / release candidate','Production','Only critical fixes from here. This is the build you would ship if nothing else turned up.');
+      m(clampD(addD(L,-56),F0,L),'First certification submission','Platform','Submit the release candidate to each platform holder. Plan for at least one failed pass.');
+      m(clampD(addD(L,-35),F0,L),'Certification resubmission window','Platform','Fix failures and resubmit. Do not start new work in this window.');
+      m(addD(L,-14),'Gold master approved','Production','Final build approved on every platform.');
+    }else{
+      m(clampD(addD(L,-21),F0,L),'Code lock / release candidate','Production','Only critical fixes from here. This is the build you would ship if nothing else turned up.');
+      m(addD(L,-7),'Final build approved (gold)','Production','Release build uploaded, reviewed and set to launch.');
+    }
+    if(I.mobile) m(addD(L,-14),'Submit to App Store / Google Play review','Platform','Leave room for a rejection and resubmission before launch.');
+    var nfPick=null;
+    if(I.pc){
+      var vs=phases[1].end,cs=clampD(addD(vs,14),addD(L,-365),addD(L,-14));
+      m(subBiz(cs,7),'Submit Steam store page for Valve review','Steam','Valve review typically takes 3 to 5 business days; submit at least 7 business days ahead.');
+      m(cs,'Steam "Coming Soon" page live','Steam','Valve requires at least 2 weeks. Earlier is better: every week live collects wishlists.');
+      m(addD(L,-14),'Submit release build for Valve review','Steam','Build review typically takes 3 to 5 business days; plan for at least 7 business days.');
+      var lead=diff(cs,L);
+      if(lead<14) W.push({c:'err',t:'Your Steam page would be live for fewer than 14 days before launch. Valve requires at least two weeks of Coming Soon.'});
+      else if(lead<90) W.push({c:'',t:'Your Coming Soon page is only live for '+lead+' days before launch. That leaves little time to build wishlists; aim for six months or more.'});
+      if(I.nf){
+        var cands=EVENTS.filter(function(e){return e.type==='nextfest'&&e.end<=addD(L,-7)&&e.start>=addD(vs,28)});
+        for(var i=cands.length-1;i>=0;i--){var dl=nfDeadlines(cands[i]);if(dl[0].d>=TODAY){nfPick={ev:cands[i],dl:dl};break}}
+        if(nfPick){
+          nfPick.dl.forEach(function(x){m(x.d,'Next Fest: '+x.label,'Steam','',x.est||nfPick.ev.est)});
+          m(nfPick.ev.start,nfPick.ev.name+' begins','Steam','Your public demo must be live. The game must release after the fest ends.',nfPick.ev.est);
+        }else W.push({c:'',t:'No upcoming Steam Next Fest fits this plan (the fest must fall after your vertical slice, with registration still open, and end before launch).'});
+      }
+      var disc=addD(L,30);
+      m(disc,'First regular discount allowed','Steam','Steam blocks discounts for 30 days after release (except an optional 7 to 14 day launch discount of up to 40%).');
+      var sales=EVENTS.filter(function(e){return e.type==='seasonal'});
+      var blocked=sales.filter(function(e){return e.start>L&&e.start<disc});
+      blocked.forEach(function(e){W.push({c:'',t:e.name+' starts within 30 days of your launch, so you will not be able to discount in it (release cooldown). Plan a launch discount instead, or move the date.'})});
+      var nextSale=sales.filter(function(e){return e.start>=disc})[0];
+      if(nextSale) m(nextSale.start,'First seasonal sale you can join: '+nextSale.name,'Steam','Seasonal sales are exempt from the discount-to-discount cooldown.',nextSale.est);
+    }
+    if(I.model==='live'){
+      m(clampD(addD(phases[2].end,21),S,L),'Closed technical test','Live ops','Test servers, telemetry, crash reporting and the patch pipeline with real players.');
+      m(clampD(addD(L,-Math.max(42,Math.round(totalDays*.08))),phases[3].start,L),'Open beta / soft launch','Live ops','Validate retention and economy tuning before the real launch.');
+      m(clampD(addD(L,-28),F0,L),'Season 1 content locked','Live ops','Launch with your first season done and the next one in production.');
+      m(clampD(addD(L,-21),F0,L),'Live ops readiness review','Live ops','On-call rota, rollback plan, server scaling, incident comms and the first events calendar.');
+      m(addD(L,70),'Season 2 ready to ship','Live ops','The cadence you promise at launch is the one players hold you to.');
+    }
+    if(I.model==='ea'){
+      m(addD(L,42),'First Early Access content update','Post-launch','Steam asks Early Access games to explain their plan and expected duration on the store page. Ship what you promised.');
+    }
+    m(L,I.model==='ea'?'Early Access launch':'Launch','Launch','');
+    m(addD(L,-3),'Day-one patch build ready','Post-launch','Have the first patch built and tested before launch day.');
+    m(addD(L,14),'Post-launch hotfix window closes','Post-launch','Two weeks of fast fixes on the issues real players find.');
+    m(addD(L,42),'Postmortem','Post-launch','Write down what went right, what went wrong, and what you will change, while it is fresh.');
+    M.sort(function(a,b){return a.d-b.d});
+
+    // warnings
+    var dw=L.getUTCDay();
+    if(dw===0||dw===6) W.push({c:'',t:'Your launch lands on a weekend. Most teams pick a weekday so the whole team is on hand for day-one issues.'});
+    EVENTS.forEach(function(e){if(L>=e.start&&L<=e.end&&(e.type==='seasonal'||e.type==='nextfest'))W.push({c:'',t:'Launch falls during '+e.name+'. You would be competing with sale and demo traffic for front-page visibility.'})});
+    var r=SCOPES[I.scope].range;
+    if(I.months<r[0]) W.push({c:'',t:I.months+' months is short for this scope (typical: '+r[0]+' to '+r[1]+'). Cut scope or move the date before production starts, not during it.'});
+    if(I.buf<10) W.push({c:'',t:'A buffer under 10% leaves no room for the problems every project hits. Protect the date with explicit contingency, not hope.'});
+    if(rem<D*.55) W.push({c:'',t:'Release work takes '+Math.round(100*fin/D)+'% of planned time, which squeezes development. Add months or drop a platform.'});
+    if(L<TODAY) W.push({c:'err',t:'That launch date is in the past.'});
+    else if(S<TODAY&&I.mode==='launch') W.push({c:'',t:'To hit this date, development should have started on '+fmt(S)+'. Check which milestones you have actually reached.'});
+    if(!W.length) W.push({c:'ok',t:'No red flags in this plan. Revisit it at every milestone review.'});
+    return{I:I,S:S,L:L,B:B,totalDays:totalDays,phases:phases,M:M,W:W,nf:nfPick};
+  }
+
+  function render(R){
+    var out=q('#gsp-out'),h='';
+    var cur=null;R.phases.forEach(function(p){if(TODAY>=p.start&&TODAY<p.end)cur=p});
+    h+='<div class="gsp-cards">'+
+      '<div class="gsp-card"><b>'+fmt(R.S)+'</b><span>Development start</span></div>'+
+      '<div class="gsp-card"><b>'+fmt(R.L)+'</b><span>'+(R.I.model==='ea'?'Early Access launch':'Launch')+'</span></div>'+
+      '<div class="gsp-card"><b>'+Math.round(R.totalDays/7)+' weeks</b><span>Total schedule</span></div>'+
+      '<div class="gsp-card"><b>'+Math.round(R.B/7)+' weeks</b><span>Protected buffer</span></div></div>';
+    if(cur){var nx=R.M.filter(function(x){return x.d>=TODAY&&x.cat==='Production'})[0];
+      h+='<div class="gsp-now"><strong>Today you should be in '+esc(cur.p.name)+'.</strong>'+(nx?' Next production milestone: '+esc(nx.name)+' in '+diff(TODAY,nx.d)+' days ('+fmt(nx.d)+').':'')+'</div>'}
+    h+='<ul class="gsp-warn">'+R.W.map(function(w){return'<li class="'+w.c+'">'+esc(w.t)+'</li>'}).join('')+'</ul>';
+    var a0=R.S,a1=addD(R.L,49),span=a1-a0;
+    function pct(d){return Math.max(0,Math.min(100,100*(d-a0)/span))}
+    var todayMark=(TODAY>=a0&&TODAY<=a1)?'<span class="gsp-g-today" style="left:'+pct(TODAY)+'%" title="Today"></span>':'';
+    h+='<div class="gsp-h">Timeline</div><div class="gsp-gantt">';
+    R.phases.forEach(function(p){if(p.days<=0)return;
+      h+='<div class="gsp-g-row"><div class="gsp-g-label" title="'+esc(p.p.name)+'">'+esc(p.p.name)+'</div><div class="gsp-g-track"><span class="gsp-g-bar" style="left:'+pct(p.start)+'%;width:'+Math.max(.6,pct(p.end)-pct(p.start))+'%;background:'+p.p.color+'" title="'+fmt(p.start)+' to '+fmt(p.end)+'"></span>'+todayMark+'</div></div>'});
+    h+='<div class="gsp-g-row"><div class="gsp-g-label">Post-launch</div><div class="gsp-g-track"><span class="gsp-g-bar" style="left:'+pct(R.L)+'%;width:'+(100-pct(R.L))+'%;background:#94a3b8"></span>'+todayMark+'</div></div>';
+    var ticks='',n=6;for(var i=0;i<=n;i++){var d=new Date(a0.getTime()+span*i/n);ticks+='<span style="left:'+(100*i/n)+'%">'+fmtS(d)+'</span>'}
+    h+='<div class="gsp-g-axis"><div></div><div class="gsp-g-ticks">'+ticks+'</div></div>';
+    if(todayMark) h+='<div style="font-size:.7rem;color:#dc2626;margin-top:6px">Red line = today</div>';
+    h+='</div>';
+    h+='<div class="gsp-h">Phases</div><div class="gsp-tbl-wrap"><table><thead><tr><th>Phase</th><th>Dates</th><th>Length</th><th>What done looks like</th></tr></thead><tbody>';
+    R.phases.forEach(function(p){if(p.days<=0)return;h+='<tr><td><strong>'+esc(p.p.name)+'</strong><br><span style="font-size:.78rem;color:var(--muted)">'+esc(p.p.focus)+'</span></td><td class="d">'+fmt(p.start)+'<br>'+fmt(p.end)+'</td><td class="d">'+Math.round(p.days/7)+' wks</td><td>'+esc(p.p.exit)+'</td></tr>'});
+    h+='</tbody></table></div>';
+    h+='<div class="gsp-h">Milestones and deadlines</div><div class="gsp-tbl-wrap"><table><thead><tr><th>Date</th><th>Milestone</th><th>Area</th><th>From today</th></tr></thead><tbody>';
+    R.M.forEach(function(x){var dd=diff(TODAY,x.d),past=dd<0;
+      h+='<tr class="'+(past?'past':'')+'"><td class="d">'+fmt(x.d)+'</td><td><strong>'+esc(x.name)+'</strong>'+(x.est?' <span class="tag est">estimate</span>':'')+(x.note?'<br><span style="font-size:.8rem;color:var(--muted)">'+esc(x.note)+'</span>':'')+'</td><td><span class="tag">'+esc(x.cat)+'</span></td><td class="d">'+(past?Math.abs(dd)+' days ago':(dd===0?'Today':'in '+dd+' days'))+'</td></tr>'});
+    h+='</tbody></table></div>';
+    out.innerHTML=h;q('#gsp-actions').hidden=false;last=R;
+  }
+
+  function run(){
+    var I=read();q('#gsp-buf-val').textContent=I.buf+'%';
+    q('#gsp-date-label').textContent=I.mode==='launch'?'Launch date':'Start date';
+    q('#gsp-steam-opts').style.opacity=I.pc?1:.45;F.nf.disabled=!I.pc;
+    if(!I.date){q('#gsp-out').innerHTML='';q('#gsp-actions').hidden=true;return}
+    render(compute(I));
+  }
+
+  function dl(name,mime,body){var b=new Blob([body],{type:mime});var a=document.createElement('a');a.href=URL.createObjectURL(b);a.download=name;document.body.appendChild(a);a.click();setTimeout(function(){URL.revokeObjectURL(a.href);a.remove()},500)}
+  q('#gsp-csv').addEventListener('click',function(){if(!last)return;
+    var rows=[['Type','Name','Start','End','Area','Notes']];
+    last.phases.forEach(function(p){if(p.days>0)rows.push(['Phase',p.p.name,iso(p.start),iso(addD(p.end,-1)),'Production',p.p.exit])});
+    last.M.forEach(function(x){rows.push(['Milestone',x.name+(x.est?' (estimate)':''),iso(x.d),iso(x.d),x.cat,x.note])});
+    dl('game-dev-schedule.csv','text/csv;charset=utf-8',rows.map(function(r){return r.map(function(c){return'"'+String(c).replace(/"/g,'""')+'"'}).join(',')}).join('\r\n'))});
+  q('#gsp-ics').addEventListener('click',function(){if(!last)return;
+    var st=new Date().toISOString().replace(/[-:]/g,'').slice(0,15)+'Z',L=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//GameDevProducer//Schedule Planner//EN','CALSCALE:GREGORIAN'];
+    function f(d){return iso(d).replace(/-/g,'')}
+    function e(s){return String(s).replace(/\\/g,'\\\\').replace(/[,;]/g,function(c){return'\\'+c}).replace(/\n/g,'\\n')}
+    last.M.forEach(function(x,i){L.push('BEGIN:VEVENT','UID:gdp-'+f(x.d)+'-'+i+'@gamedevproducer.com','DTSTAMP:'+st,'DTSTART;VALUE=DATE:'+f(x.d),'DTEND;VALUE=DATE:'+f(addD(x.d,1)),'SUMMARY:'+e(x.name+(x.est?' (estimate)':'')),'DESCRIPTION:'+e(x.cat+(x.note?' - '+x.note:'')),'END:VEVENT')});
+    L.push('END:VCALENDAR');
+    var fold=L.map(function(l){var o='';while(l.length>74){o+=l.slice(0,74)+'\r\n ';l=l.slice(74)}return o+l});
+    dl('game-dev-milestones.ics','text/calendar;charset=utf-8',fold.join('\r\n'))});
+  q('#gsp-link').addEventListener('click',function(){if(!last)return;var I=last.I;
+    var p=new URLSearchParams({mode:I.mode,date:I.date,scope:I.scope,months:I.months,plat:[I.pc?'pc':'',I.console?'console':'',I.mobile?'mobile':''].filter(Boolean).join(','),model:I.model,buf:I.buf,nf:I.nf?1:0});
+    var url=location.origin+location.pathname+'?'+p.toString()+'#gsp';var b=this;
+    (navigator.clipboard?navigator.clipboard.writeText(url):Promise.reject()).then(function(){b.textContent='Link copied'},function(){prompt('Copy this link:',url)});setTimeout(function(){b.textContent='Copy share link'},2500)});
+  q('#gsp-print').addEventListener('click',function(){window.print()});
+
+  F.scope.addEventListener('change',function(){F.months.value=SCOPES[F.scope.value].months;run()});
+  [F.mode,F.date,F.months,F.pc,F.console,F.mobile,F.model,F.buf,F.nf].forEach(function(el){el.addEventListener('input',run);el.addEventListener('change',run)});
+
+  var P=new URLSearchParams(location.search);
+  if(P.get('date')){
+    F.mode.value=P.get('mode')==='start'?'start':'launch';F.date.value=P.get('date');
+    if(SCOPES[P.get('scope')])F.scope.value=P.get('scope');F.months.value=P.get('months')||SCOPES[F.scope.value].months;
+    var pl=(P.get('plat')||'pc').split(',');F.pc.checked=pl.indexOf('pc')>-1;F.console.checked=pl.indexOf('console')>-1;F.mobile.checked=pl.indexOf('mobile')>-1;
+    if(['premium','ea','live'].indexOf(P.get('model'))>-1)F.model.value=P.get('model');F.buf.value=P.get('buf')||15;F.nf.checked=P.get('nf')!=='0';
+  }else{
+    var d=addD(TODAY,548);var w=d.getUTCDay();d=addD(d,w===0?2:(w===6?3:(w<2?2-w:(w>4?9-w:0))));F.date.value=iso(d);
+  }
+  run();
+})();
+</script>
