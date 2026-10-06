@@ -23,7 +23,7 @@ faqs:
    a: "Cancel one recurring meeting that could be an async update. This sounds trivial. It isn't. Every meeting you eliminate returns protected time and signals that you value focused work over performed productivity. Do it publicly and explain why. It models the culture shift you want."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 Your lead programmer hasn't taken a real day off in eleven weeks. She's still hitting deadlines, her code still ships clean, and when you ask how she's doing, she says "fine." Three weeks later she hands in her notice. You never saw it coming, but you absolutely should have.
 
@@ -41,11 +41,11 @@ There's also the seniority trap. Your most experienced people are the ones most 
 
 The standard advice is "monitor your team's wellbeing." That's not actionable. Here's what is.
 
-Track actual hours, not estimated hours. I've worked with teams where producers were scheduling 45-hour sprint loads into nominal 40-hour weeks and calling it "a bit of stretch." Over six months, that's 30 hours of unacknowledged overtime per person. Use tools like **Harvest** or the time-tracking built into **Jira** or **Linear** to get real data. You can't manage what you're not measuring.
+Track actual hours, not estimated hours. Scheduling 45-hour sprint loads into nominal 40-hour weeks and calling it "a bit of stretch" adds up fast: five extra hours a week is more than 100 hours of unacknowledged overtime per person over six months. Use a tool such as **Harvest**, or the time tracking built into **Jira**, to get real data. You can't manage what you're not measuring.
 
 Set a hard team velocity baseline during a low-pressure period and defend it. When scope pressure arrives, that baseline is your negotiating position with leadership. "We ship 80 story points per sprint at sustainable pace. Adding this feature costs 20 points. What comes out?" That's a producer's job. Having the number makes it a business conversation instead of a feelings conversation.
 
-Build buffer into your schedule intentionally. Not 10% contingency on a single task. Buffer weeks: one week per milestone where nothing new is scheduled. Teams use those weeks to catch up, refactor, rest, or handle the thing that always appears from nowhere. Studios that skip buffer weeks always regret it by alpha.
+Build buffer into your schedule intentionally. Not 10% contingency on a single task. Buffer weeks: one week per milestone where nothing new is scheduled. Teams use those weeks to catch up, refactor, rest, or handle the thing that always appears from nowhere. Studios that skip buffer weeks usually regret it by alpha.
 
 ## Spot the Warning Signs Early
 
@@ -100,7 +100,7 @@ Burnout prevention is an operational problem, and operations have tooling.
 
 **Notion or Confluence** for documentation that reduces the bus-factor anxiety driving a lot of overtime. When knowledge lives in one person's head, that person can never fully disconnect.
 
-For professional development on this specifically: Jason Schreier's *Blood, Sweat, and Pixels* is required reading for understanding how scope and crunch interact at the production level. Less a how-to than a brutal case study collection. Rami Ismail's talks on sustainable development (available free on YouTube) are more prescriptive. The Game Dev Unlocked course on project management covers sustainable scheduling in practical terms worth the investment.
+For professional development on this specifically: Jason Schreier's *Blood, Sweat, and Pixels* is required reading for understanding how scope and crunch interact at the production level. Less a how-to than a brutal case study collection. For the evidence behind sustainable pace, Evan Robinson's essay "Why Crunch Mode Doesn't Work: Six Lessons," published by the IGDA in 2005, is still the clearest summary.
 
 The best producers I've worked with treat team sustainability the same way they treat the critical path: something to be actively managed, with clear owners and visible metrics, not left to chance or goodwill. The games that ship well aren't made by teams who grind hardest. They're made by teams that were still functional, still motivated, and still actually there in the final three months when it mattered most.
 

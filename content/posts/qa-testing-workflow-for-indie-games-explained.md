@@ -12,7 +12,7 @@ author_title: "Lead Game Producer"
 author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 slug: "qa-testing-workflow-for-indie-games-explained"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 Most indie teams treat QA like a final checkbox. Build the thing, then hand it to a friend for a weekend, fix the obvious crashes, ship it. I did this on my second project and watched a game-breaking save corruption bug hit the Steam forums within six hours of launch. Reviews tanked before I even woke up on release day. That experience rewired how I think about testing permanently.
 
@@ -33,7 +33,7 @@ A functional indie QA workflow has four distinct phases, and skipping any of the
 
 **Smoke testing** happens after every major build. This isn't a deep test, it's a 20-minute check: does the game launch, can you reach the main menu, does the core loop run without crashing? Its only job is to catch "the build is broken" situations before anyone else touches it. I use a literal four-question checklist in Notion for this. Boring? Yes. Saved us three wasted tester sessions? Also yes.
 
-**Feature testing** happens when new content lands. A new weapon system, a new level, a new save mechanic goes through a targeted test pass before it touches the main branch. You're checking that the thing you built does what it's supposed to do, nothing else yet. This is where your issue tracker earns its keep. I've been using HackerOne's Shortcut (formerly Clubhouse) for a while, but honestly for very small teams even a shared Trello board with a disciplined card format works fine if people actually use it.
+**Feature testing** happens when new content lands. A new weapon system, a new level, a new save mechanic goes through a targeted test pass before it touches the main branch. You're checking that the thing you built does what it's supposed to do, nothing else yet. This is where your issue tracker earns its keep. Shortcut (formerly Clubhouse) works well, but honestly for very small teams even a shared Trello board with a disciplined card format works fine if people actually use it.
 
 **Regression testing** is the one most indie teams skip, and it's the one that kills you. Every time you fix a bug or merge new code, something else can break. Regression testing means deliberately re-testing previously working systems after changes. You don't need to test everything every time, just the systems adjacent to what changed. Keep a regression checklist. Update it as the game grows.
 

@@ -23,7 +23,7 @@ faqs:
    a: "Frame it as a conversation about growth, not a demand. Ask your producer directly: 'What would I need to demonstrate to be considered for a producer role here?' That question does two things. It puts the criteria on the table, and it signals you're serious without being threatening. If they can't answer it or dodge it, that's useful information about whether internal growth is actually possible."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You're running the daily standup. Eight months in. You know every ticket in Jira, every blocker, every dev who claims they'll finish in two days and somehow always does. Your producer's in back-to-back meetings and the team basically treats you like the actual producer already. Then the senior role opens internally, and they hire someone from outside. That's when it hits: doing the job isn't the same as being ready for it.
 
@@ -51,7 +51,7 @@ Your network inside the studio matters more for promotion than almost anything e
 
 Get known with leads in disciplines you don't touch. If you're design-facing, befriend engineering leads. Go to post-mortems for projects you weren't on. Ask smart questions. When a director walks in, have something worth saying instead of just nodding.
 
-For external learning, GDC Vault has solid content from past Game Producers Summits. Search talks on stakeholder communication and production leadership. Google's Coursera Project Management specialization works if you want credentials that travel outside games too.
+For external learning, the GDC Vault has solid content from the conference's production track. Search talks on stakeholder communication and production leadership. Google's Coursera Project Management specialization works if you want credentials that travel outside games too.
 
 ## Own a Failure, Loudly and Clearly
 

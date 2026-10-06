@@ -23,7 +23,7 @@ faqs:
    a: "Be honest about what changed and why. Explain that the studio is switching to realistic planning, which means the schedule will actually be achievable. Set clear boundaries on hours. Back them up. When someone does work a long night, ask why the plan failed. The first few people you hire into the new culture will be skeptical. But when the schedule holds and they can actually have a life outside work, you'll attract better people consistently."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You're two weeks from an engine migration deadline. Your lead programmer hasn't slept properly in three weeks. The art director just finished a 60-hour sprint to redo character models that weren't technically broken. When you mention crunch in the standup, people nod like it's normal. Someone says, "That's just how game dev works." You believe them. You hire more passionate people. Six months later, two of your best artists quit without warning, and a junior engineer is too burned out to contribute meaningfully. The problem wasn't that they weren't passionate enough. It was that you built a production system that treated passion as a substitute for planning.
 
@@ -71,11 +71,11 @@ Projects still ship. You can have real output and a genuinely broken production 
 
 You can't measure this cost in a single sprint. It compounds over time.
 
-Studios that rely on passion culture lose experienced people at rates 30-40% higher than studios with sustainable practices. Who leaves? Your best people. They're the ones with options. They can find other studios. The people who stay are either early-career and don't know better, or stuck because they can't leave. You've accidentally optimized for keeping mediocre, compliant people.
+Studios that rely on passion culture tend to lose their experienced people first. Who leaves? Your best people. They're the ones with options. They can find other studios. The people who stay are either early-career and don't know better, or stuck because they can't leave. You've accidentally optimized for keeping mediocre, compliant people.
 
 Exhausted people make worse decisions. Code reviews get shorter. Art direction gets looser. Bugs slip through. The code that ships isn't the best work your team could do. It's the work they could do while operating on fumes. You're shipping the third draft when you could have a first draft that's actually tight.
 
-Rehiring and training a new senior engineer costs 1.5 to 2 times their annual salary when you include productivity ramp and knowledge loss. Turnover at scale becomes catastrophic. A studio losing 15-20% of its team annually is spending massive budget on replacement and losing institutional knowledge constantly.
+Common estimates put the cost of replacing an experienced employee at anywhere from half to twice their annual salary once you include recruiting, ramp-up time and lost knowledge. Turnover at scale becomes catastrophic. A studio losing 15-20% of its team annually is spending massive budget on replacement and losing institutional knowledge constantly.
 
 Timeline predictability gets worse, not better. This seems counterintuitive until you realize that burnout makes estimation harder. Burned out people overestimate how much they can do because they're not thinking clearly. The next project's estimates are based on the last project's heroic efforts, which weren't actually sustainable. You build the next timeline on fantasy, and the cycle repeats.
 

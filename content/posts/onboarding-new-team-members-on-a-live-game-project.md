@@ -23,7 +23,7 @@ faqs:
    a: "Throwing someone into ownership too fast because the team is stretched thin. I've seen this kill confidence in genuinely strong hires. Two weeks of shadow mode feels like lost time when you're short-staffed. It isn't. The cost of a mistake on a live game with active players is orders of magnitude higher than two weeks of slower ramp-up."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 Someone just accepted your offer. They start Monday. The game launched eight months ago, it's got 200,000 active players, three live events running in parallel, a hotfix due Thursday, and a Confluence wiki that hasn't been touched since beta. Congratulations. You now have approximately two weeks before this person either clicks into gear or quietly starts wondering if they made a mistake.
 
@@ -86,7 +86,7 @@ A few things that actually help:
 
 **Books worth assigning:** *The Art of Game Design* by Jesse Schell for design philosophy grounding, and *Agile Game Development* by Clinton Keith for understanding how sprint cadence applies to live ops specifically. For producers who are also managing people dynamics on a tight team, *The Making of a Manager* by Julie Zhuo is genuinely practical.
 
-**Courses:** Game Production Fundamentals on Coursera and Riot Games' free GDC talks on live service production (available on YouTube) are solid for context-setting without pulling senior staff away from their actual work.
+**Talks:** GDC's free production talks, on YouTube and in the GDC Vault, include live-service postmortems that are good context-setting without pulling senior staff away from their actual work.
 
 ---
 

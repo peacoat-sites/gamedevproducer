@@ -23,7 +23,7 @@ faqs:
     a: "Useful for opening conversations, not for making decisions. I've seen teams use DISC well as a shared language: 'I process better in writing, here's why.' That's valuable. Where assessments go wrong is when people use them to categorize or excuse: 'She's an introvert so she won't want to present.' Run the assessment, use the vocabulary, then watch the actual behavior. The person is always more accurate than the type."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 Your lead engineer hasn't spoken in three standups this week. Your narrative designer won't stop talking in them. Both are doing excellent work. The problem isn't performance. The problem is you've built one communication system and expected two fundamentally different people to thrive in it equally. They won't.
 
@@ -81,7 +81,6 @@ A few tools worth having:
 - **Miro or FigJam**: Visual async collaboration that works well for introverts doing pre-work before a synchronous session
 - **"An Elegant Puzzle" by Will Larson**: Best practical management book I've recommended in years, especially for technical creative leads
 - **"Quiet" by Susan Cain**: Not a management manual, but it'll permanently change how you read a room
-- **Project Management for Game Developers (Udemy / GDC Vault courses)**: Look for facilitation and team dynamics modules, not just scheduling tools
 
 ## The Crunch Variable
 

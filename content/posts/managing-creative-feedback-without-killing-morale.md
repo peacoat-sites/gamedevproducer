@@ -23,7 +23,7 @@ faqs:
    a: "Frame.io is strong for video and animation reviews. ShotGrid (formerly Shotgun) is the industry standard for larger teams tracking asset reviews across a full pipeline. For smaller teams where budget matters, Loom plus a shared Notion page gets you surprisingly far."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 Halfway through sprint review, your lead artist goes quiet. The creative director just called their environment work "a good start" and asked for "more energy." No specifics. No examples. Just vibes-based criticism delivered in front of the team. The artist nods, says nothing, and spends the next two weeks technically doing their job while emotionally checking out. You've just watched morale die in real time, and the worst part is the creative director genuinely thought they were being helpful.
 
@@ -113,7 +113,7 @@ A few things that make a real difference over time:
 
 **Make direction changes legible.** When you pivot, explain the real reason. Not "we're taking a different approach," but "player testing showed that version confused first-time players at a 70% rate, so we're pulling back toward a clearer tutorial pattern." Respect the team enough to give them the actual information.
 
-**Read Liz Wiseman's *Multipliers* and Kim Scott's *Radical Candor*.** Neither is specifically about games, but both are among the most practically useful books I've given to studio leads dealing with feedback culture issues. *The Art of Game Design* by Jesse Schell also has a sharp chapter on the feedback dynamics specific to creative teams in games.
+**Read Liz Wiseman's *Multipliers* and Kim Scott's *Radical Candor*.** Neither is specifically about games, but both are among the most practically useful books I've given to studio leads dealing with feedback culture issues. *The Art of Game Design* by Jesse Schell also has useful chapters on teams and playtesting.
 
 For producers who want a more structured approach to team health, [TeamRetro](https://www.teamretro.com/) integrates with agile workflows and gives you a regular, structured way to surface feedback issues before they compound.
 

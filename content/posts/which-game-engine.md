@@ -9,7 +9,7 @@ author: "Stephen Brenish"
 author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 author_title: "Lead Game Producer"
 author_slug: "stephen-brenish"
-lastmod: 2026-07-07
+lastmod: 2026-10-06
 ---
 Picking the wrong game engine early on is expensive. Not because you can't switch (porting is possible), but because switching costs time, and time is what you actually run out of. A solo developer who spends three months learning Unity, builds 60% of a 2D platformer, realizes the learning curve is crushing them, then restarts in GameMaker has lost those months for good.
 
@@ -38,22 +38,22 @@ For solo developers, stick with one engine for at least one finished game before
 | Engine | License Model | Best For | Key Strength |
 | --- | --- | --- | --- |
 | Godot 4 | Free, open-source (MIT) | Indie developers avoiding corporate risk | No royalties, modern, fully-featured |
-| Unity | Subscription ($0 under $200k/year revenue) | Mobile/console, widest ecosystem | Largest asset store, best multi-platform support |
-| Unreal Engine 5 | Free (5% royalty above $1M/quarter) | High-fidelity 3D games | Nanite and Lumen visual standards |
-| GameMaker | $99 perpetual or subscription | 2D pixel-art games | Gold standard for 2D, beginner-accessible |
-| Construct 3 | Subscription ($99/year personal) | Beginners, web/mobile games | No code required, browser-based |
+| Unity | Free Personal tier under $200K a year; Pro subscription above | Mobile/console, widest ecosystem | Largest asset store, best multi-platform support |
+| Unreal Engine 5 | Free; 5% royalty after $1M lifetime gross per product | High-fidelity 3D games | Nanite and Lumen visual standards |
+| GameMaker | Free non-commercial; $99.99 one-time Professional; Enterprise subscription for consoles | 2D pixel-art games | Gold standard for 2D, beginner-accessible |
+| Construct 3 | Subscription, with a limited free version | Beginners, web/mobile games | No code required, browser-based |
 | Bevy (Rust) | Free, open-source (Apache 2.0/MIT) | Experienced developers, maximum control | ECS architecture, zero royalties |
 | Ren'Py | Free, open-source | Visual novels and narrative games | Dominant VN engine, Python-based |
 
 **Godot 4**, Free, open-source, MIT license. GDScript (Python-like), C#, and C++ bindings. Strong 2D, improving 3D. No royalties ever. Best for: indie developers who want a modern, fully-featured engine without license costs or corporate risk (especially relevant after the Unity Runtime Fee incident of 2023).
 
-**Unity**, Subscription model ($0 for revenue under $200k/year as of 2024; revised after the Runtime Fee controversy). Largest asset store. Best multi-platform support including consoles and AR/VR. Best for: developers who want the widest ecosystem, mobile/console targeting, or job-market skills.
+**Unity**, Unity Personal is free for teams with under $200,000 in annual revenue or funding; above that you need Unity Pro, which costs $2,310 per seat per year from January 2026. The Runtime Fee was cancelled in 2024. Largest asset store. Best multi-platform support including consoles and AR/VR. Best for: developers who want the widest ecosystem, mobile/console targeting, or job-market skills.
 
-**Unreal Engine 5**, Free to use; 5% royalty above $1M revenue per product per quarter (waived for games shipped on Epic Games Store). Nanite and Lumen set the standard for real-time visual fidelity. Blueprints visual scripting is powerful but has limits. Best for: 3D games targeting high visual fidelity, or developers with C++ experience.
+**Unreal Engine 5**, Free to use; a 5% royalty applies to gross revenue above the first $1M in lifetime gross per product, and revenue from the Epic Games Store is exempt. Nanite and Lumen set the standard for real-time visual fidelity. Blueprints visual scripting is powerful but has limits. Best for: 3D games targeting high visual fidelity, or developers with C++ experience.
 
-**GameMaker**, One-time license ($99 perpetual desktop license) or subscription. The gold standard for 2D pixel-art games. GML (proprietary but beginner-accessible) or visual drag-and-drop. Undertale, Hotline Miami, and Stardew Valley all started here. Best for: solo devs or small teams making 2D games.
+**GameMaker**, Free for non-commercial use; the Professional license ($99.99 one-time) covers commercial desktop, web and mobile releases, and console export needs the Enterprise subscription. The gold standard for 2D pixel-art games. GML (proprietary but beginner-accessible) or visual drag-and-drop. Undertale, Hotline Miami and Hyper Light Drifter were all made with it. Best for: solo devs or small teams making 2D games.
 
-**Construct 3**, Browser-based, subscription ($99/year personal). No code required, event-based visual logic. Excellent web and mobile export. Best for: absolute beginners, game jam entries, and simple web/mobile games.
+**Construct 3**, Browser-based, subscription, with a limited free version. No code required, event-based visual logic. Excellent web and mobile export. Best for: absolute beginners, game jam entries, and simple web/mobile games.
 
 **Bevy (Rust)**, Free, open-source, Apache 2.0/MIT. ECS (Entity Component System) architecture. Requires solid Rust knowledge. Not beginner-friendly, but uniquely powerful for experienced developers. Best for: engineers who want full control, maximum performance, and zero royalties.
 

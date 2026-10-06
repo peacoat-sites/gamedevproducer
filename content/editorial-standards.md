@@ -2,8 +2,9 @@
 title: "Editorial Policy"
 hide_title: true
 date: 2026-01-01
+lastmod: 2026-10-06
 draft: false
-description: "How Game Dev Producer researches, writes, fact-checks, and maintains every article — our commitment to accuracy, source quality, and genuine usefulness."
+description: "How Game Dev Producer researches, writes, fact-checks, and maintains every article: our commitment to accuracy, source quality, and genuine usefulness."
 ---
 
 # Editorial Policy – Game Dev Producer

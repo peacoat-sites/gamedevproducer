@@ -14,7 +14,7 @@ faqs:
  - q: "How do I hire a game developer when I have no budget?"
    a: "Revenue share can attract the right people, but only if you're transparent upfront and the project has evidence behind it (a playable demo, a track record, real momentum). Most experienced developers won't work for equity alone. Your realistic options are: find a co-founder instead of an employee, use a game jam to identify collaborators organically, or scope the paid work small enough to be affordable."
  - q: "Do I need a lawyer to hire my first contractor?"
-   a: "You don't need one for a basic contractor agreement, but you do need a written contract with an IP assignment clause. Sites like Clerky offer template agreements for under $200. For anything more complicated (equity, exclusivity, complex IP situations), pay for an hour with an attorney who knows software or games. Zachary Strebeck's blog is a solid free starting point to understand what you actually need."
+   a: "You don't need one for a basic contractor agreement, but you do need a written contract with an IP assignment clause. Low-cost template services such as Clerky exist for exactly this. For anything more complicated (equity, exclusivity, complex IP situations), pay for an hour with an attorney who knows software or games. Zachary Strebeck's blog is a solid free starting point to understand what you actually need."
  - q: "Should I hire someone I met at a game jam?"
    a: "Yes, potentially, and honestly this is one of the better talent pipelines for indie studios. You've already seen how they work under pressure, how they handle constraints, and whether you can spend 48 straight hours around them. Just make sure the jam project gives you real signal on the skills you actually need. A great jam writer isn't automatically a great programmer."
  - q: "What's the biggest mistake first-time studio founders make when hiring?"
@@ -23,9 +23,9 @@ faqs:
    a: "Sixty days is a reasonable starting point for most first hires on an indie project. Long enough for both of you to understand the working rhythm and see real output. Short enough that a bad fit doesn't cost you four months of runway. Structure it around a defined deliverable rather than just time: 'complete the movement system and first enemy AI by this date' beats 'work for sixty days.'"
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
-Most first-time game studio founders hire wrong. Not because they don't care, but because they hire the person they *like talking to* rather than the person who can actually ship the thing they're trying to build. I watched three separate indie studios collapse in 2021 and 2022 partly because of that exact mistake, two of them people I'd worked alongside. Liking someone is not a hiring criterion. Let's get into what actually is.
+Most first-time game studio founders hire wrong. Not because they don't care, but because they hire the person they *like talking to* rather than the person who can actually ship the thing they're trying to build. Liking someone is not a hiring criterion. Let's get into what actually is.
 
 
 <div class="value-module">
@@ -103,7 +103,7 @@ References still matter. Ask for two people they shipped something with, not man
 
 This is the section most guides skip because it's awkward. Don't be awkward. Money is information.
 
-Contractor rates for game developers in the US in 2024 vary a lot. A junior Unity programmer with one shipped title runs $35-55/hour. A mid-level engineer with 3-5 years and solid portfolio sits at $65-100/hour. Senior generalists who know your stack deeply hit $120-150/hour or higher. Those numbers drop for people outside major metros and outside the US.
+Contractor rates vary a lot with experience, specialty and location. As a rough guide for US-based contractors, junior programmers charge the least, mid-level engineers with a solid portfolio more, and senior specialists who know your stack deeply often $100 an hour or more. Rates are usually lower outside major metros and outside the US, so check current rates in your market before you budget.
 
 Revenue share deals are fine as a *supplement* to real pay but not as a substitute. "50% of profits when we launch" isn't compensation. It's a lottery ticket. If you don't have budget to pay something real, be straight about that and find a co-founder instead of pretending it's a job.
 

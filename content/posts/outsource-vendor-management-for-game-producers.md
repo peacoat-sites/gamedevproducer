@@ -23,13 +23,13 @@ faqs:
    a: "A solid NDA is the baseline. Beyond that, compartmentalize information. Vendors should only receive the assets, references, and context they need for their specific scope. Don't share full game design documents or unreleased narrative content unless it's operationally necessary. Watermarked references and access-controlled shared drives (Google Drive with link expiry, or SharePoint with role permissions) add another layer."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You've just signed contracts with three vendors: an art outsource studio in Eastern Europe, a QA partner in Southeast Asia, and a freelance audio engineer working remotely. The kickoff calls went great. Everyone seemed aligned. Then week three hits, and the art batches are coming back 40% wrong, QA is logging bugs against the wrong build, and the audio engineer has gone quiet for nine days. This isn't a vendor problem. This is a management problem. And it's one of the most common ways mid-production schedules collapse.
 
 ## Why Vendor Relationships Break Down (And It's Usually You)
 
-I say that without judgment, because I've been on both sides of it. When outsource partnerships fail, producers almost always point to the vendor: bad communication, low quality, missed deadlines. But dig into the pre-production documentation, the feedback loops, the handoff materials, and the breakdown usually starts internally.
+I say that without judgment. When outsource partnerships fail, producers almost always point to the vendor: bad communication, low quality, missed deadlines. But dig into the pre-production documentation, the feedback loops, the handoff materials, and the breakdown usually starts internally.
 
 Vendors can only work with what you give them. If your style guide is 12 pages of vague adjectives ("feels polished," "has energy," "reads premium"), if your feedback comes back as "this doesn't feel right," if your point of contact changes three times in six weeks, you're setting partners up to fail. Vendor management is a discipline. Treat it like one.
 
@@ -85,5 +85,5 @@ A few things worth having in your stack:
 - **Notion or Confluence:** Living documentation for style guides, acceptance criteria, and feedback logs
 - **Loom:** Async video feedback for vendors in distant timezones
 - **Frame.io or Filestage:** Visual, annotated feedback on art and video assets
-- **"The Game Producer's Handbook" by Don Daglow:** Dated in some spots but solid on external relationship management
+- **"The Game Producer's Handbook" by Dan Irish:** Dated in some spots but solid on external relationship management
 - **Coursera's Game Design and Project Management courses:** Useful for producers formalizing their outsource workflows for the first time, Vendor management is one of those skills that looks simple until you're at month four in a production crisis wondering how everything went sideways. The producers who do it well aren't necessarily more experienced. They're more deliberate. They build the systems at the start, communicate with precision throughout, and treat vendors as partners who need clear information to succeed, not contractors to check in on occasionally. Get that foundation right, and outsourcing stops being a risk and starts being a real production advantage.

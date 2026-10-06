@@ -1,8 +1,9 @@
 ---
-title: "Game Contracts Every Developer Needs To Know"
+title: "Contract Basics for Indie Game Developers: Agreements, Clauses and Red Flags"
 date: 2026-07-03T11:04:34.409155+00:00
+lastmod: 2026-10-06
 draft: false
-description: "Essential contract knowledge for indie game developers. Learn about NDAs, publishing agreements, IP rights, and key terms to protect your game project legally."
+description: "The contracts indie game developers actually sign, from contractor and co-founder agreements to publishing deals: the clauses that matter, why IP assignment needs to be in writing, and the red flags that mean stop and get a lawyer."
 image: "/img/heroes/7841836.jpg"
 categories: ["strategy"]
 tags: ["contract", "basics", "indie", "game", "developers"]
@@ -13,141 +14,91 @@ author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Un
 slug: "contract-basics-for-indie-game-developers"
 affiliate_disclosure: true
 faqs:
- - q: "What if I'm just hiring someone for a small task? Do I really need a contract?"
-   a: "Yes, but it can be short. A one-page agreement for a character artist doing 10 backgrounds beats a verbal handshake every time, because 'I'll own what you make for my game' is ambiguous without paperwork. At minimum, send an email saying what you're paying for and who owns the work, and ask them to reply 'I agree.'"
- - q: "Can I use a template from the internet or ChatGPT to write a contract?"
-   a: "Templates are a good starting point, the IGDA one's solid. ChatGPT will generate something that looks like a contract but might miss things specific to your situation (like what happens if your publisher wants to pull the game, or what 'revenue' includes). Use a template to start, customize it for your deal, have someone read it who knows contracts. Don't rely entirely on AI."
- - q: "What if they refuse to negotiate the contract they sent me?"
-   a: "Ask why. Most times there's room. If they're inflexible on everything, weird revenue split, perpetual ownership, no termination clause, that's a signal about how they'll work with you. You can sign it if the deal's good enough, but go in knowing they're probably going to be difficult to work with later."
- - q: "How much should I pay someone for a contract review?"
-   a: "An entertainment lawyer or tech lawyer will charge $150-$300 per hour; plan on 2-4 hours for a review, so $300-$1,200. That's cheaper than resolving a dispute later. For small straightforward contracts, you might get away with $300-$500. Don't try to haggle a lawyer down to $100; that's not a lawyer doing serious work, that's someone who watched a YouTube video."
- - q: "What if I sign something and later realize it's bad? Can I change my mind?"
-   a: "Not unilaterally. But you can contact the other party and say, 'This clause isn't working; let's revise.' If they're reasonable, they might agree. If they're not, you're stuck with what you signed unless both parties want to change it. Which is why reading before you sign matters more than anything."
-lastmod: 2026-07-08
+  - q: "Do I really need a contract for a small freelance job?"
+    a: "Yes, but it can be short. A one-page agreement that names the work, the price, the deadline and who owns the result beats a handshake every time. In the US, a transfer of copyright has to be in a written document signed by the owner, so without paperwork you may not own the art or code you paid for."
+  - q: "Can I use a contract template?"
+    a: "Templates are a reasonable starting point for simple contractor work, as long as you read every clause and adapt it to your project, especially ownership, payment and termination. For publishing deals, co-founder agreements, or anything involving equity or IP, have a lawyer who works on games deals review it."
+  - q: "Can I negotiate a publisher's contract?"
+    a: "Usually, yes. A publisher's first draft is an opening position written in its favor. Term length, revenue split, what counts toward recoupment, IP ownership, sequel rights and termination are all commonly negotiated. An unwillingness to discuss anything is useful information about the relationship."
+  - q: "How do I keep lawyer costs down?"
+    a: "Prepare before you pay. Know what you want from the deal, list the clauses you don't understand, and ask whether the lawyer will review a contract for a flat fee. Rates vary widely, so get a quote up front."
+  - q: "What if I already signed something bad?"
+    a: "You can't change a signed contract on your own, but you can ask the other party to amend it, and reasonable partners often will when a clause is clearly not working for either side. Get legal advice before you stop performing under any contract."
 ---
 
-I got an email last week from a developer who'd just shipped their first indie title. Revenue was looking solid, $45K in the first month. Then their publisher's lawyer sent over a contract amendment, and suddenly half that money was in dispute. The developer had never actually read the original deal. They'd signed it in November 2025 thinking the terms were standard, but standard for what? Video games? Publishing? The entertainment industry broadly? Turns out they'd agreed to something nobody would voluntarily agree to.
+Most indie developers sign their first contracts in a hurry, with a collaborator they trust or a publisher they are excited to work with, and read them properly only when something goes wrong. Contracts are not bureaucracy. They are the written answer to the questions that end studios and friendships: who owns this, who gets paid what, and what happens if someone leaves.
 
-This is how most indie developers learn contract law: the hard way, after they've already signed something.
+*This is general information to help you ask better questions, not legal advice. Contract and copyright law differ by country and state, so get advice from a lawyer where you live before you sign anything significant.*
 
-Here's what I tell people in this situation: you don't need to become a lawyer. But you do need to understand what you're signing before your name goes on it. Not because you're paranoid, but because contracts are the only thing that actually protects your work, and your revenue, when things get weird. And things get weird. Every single time.
+## The contracts that actually show up
 
-## What You're Actually Signing (And Why It Matters)
+**Contractor or freelancer agreements.** Anyone who is not a formal partner or employee, from a composer to a character artist to a contract programmer. These define the work, the price and, above all, who owns the result.
 
-A contract is a promise written down with teeth. When everything's going well, it's invisible. When someone stops paying you, or your game gets cloned, or a publisher wants to pull it from stores, that contract is the only thing standing between you and a nightmare. It's also the only thing that prevents you from screwing over your collaborators by accident.
+**Co-founder or collaboration agreements.** If two or more people are building a game together, this records who owns what share of the company or project, how decisions get made, and what happens if someone leaves. It is the contract most small teams skip, and the one they most often regret skipping.
 
-Most indie developers skip reading contracts because they feel impenetrable. Legalese exists partially because lawyers want job security, but also because precision matters when money and rights are involved. A single word, "license" versus "ownership," or "perpetual" versus "for the term", can be worth thousands of dollars.
+**Publishing agreements.** If a publisher funds, markets or distributes your game, this is the most consequential document you will sign. It decides who owns the game, how revenue is split, what the publisher recoups first, and what happens if either side wants out.
 
-Here's the thing nobody tells you: most contracts you'll encounter as an indie developer aren't designed to trick you. They're designed for situations you don't think will happen. A distribution contract assumes your game might get successful enough that revenue disputes matter. A contractor agreement assumes someone might leave mid-project. A publishing deal assumes the publisher might want to make a sequel without you. These aren't paranoid clauses. They're just... planning.
+**NDAs.** Non-disclosure agreements protect confidential information when you pitch or share builds. They are routine, but read them for scope and duration like anything else.
 
-The contracts that *are* designed to trap you are the ones where one side wrote it entirely alone, with no negotiation. That's the red flag worth watching for.
+## Ownership: why IP has to be in writing
 
-## The Three Contracts That Actually Show Up
+The single most common contract mistake in indie development is paying for work and assuming you own it.
 
-If you're shipping a game, you'll probably encounter three contract situations. You might not need all of them, but recognizing which one you're in matters.
+In the United States, a transfer of copyright is only valid if it is in writing and signed by the owner. And work by an independent contractor counts as "work made for hire", owned by the commissioning party from the start, only in specific circumstances: the work must be specially commissioned, fall into one of the categories the law lists, and both parties must agree in writing that it is a work made for hire. Because it is not always clear whether a given piece of game art, music or code qualifies, contractor agreements commonly include both work-for-hire language and an explicit assignment of copyright as a backup.
 
-**The publisher/distribution agreement.** This is the big one. If someone's handling your game's launch, distribution, marketing, or public-facing parts of business, you need something in writing about what happens to the money and who controls what. This is where most disputes happen because it's also where the most money flows. If you're self-publishing directly to Steam or itch.io, you don't need this. But if you're working with anyone else, even someone friendly, you need documentation.
+Other countries handle this differently. Some give creators moral rights that cannot be fully waived, so if you hire internationally, check how ownership transfers where your contractor lives.
 
-**The contractor/freelancer agreement.** Art, music, programming, design. Whoever's not a formal partner needs this. It defines who owns the work they create, whether they can use it in their portfolio, what happens if they bail, and whether they're entitled to revenue share (spoiler: usually not, they're paid upfront). I've seen friendships evaporate over this. "You said I'd get 5% of revenue" versus "I said I'd show you a mockup" is a conversation worth having in advance, in writing.
+## What should be in a contractor agreement
 
-**The co-developer agreement.** If you're splitting ownership with someone, splitting profit, or building the game as partners, this is non-negotiable. It covers what happens if one person wants out, who makes decisions when you disagree, how revenue gets split, and what happens if someone does work the other person doesn't want them to do. The best time to write this is before anything goes wrong. The worst time is after someone's already mad.
+- **Scope and deliverables:** what exactly is being made, in what format, to what standard.
+- **Payment:** amount, schedule and conditions. Splitting payment across milestones, for example part up front and the rest on delivery, protects both sides.
+- **Ownership:** work-for-hire language plus an assignment of rights to your company.
+- **Portfolio rights:** whether, and when, the contractor can show the work. Most will ask; agree it in writing, with timing that respects your announcement plans.
+- **Confidentiality:** what they cannot share, and for how long.
+- **Third-party material:** a promise that the work is original, and that any licensed assets, fonts, samples or tools are disclosed and properly licensed. Agree your policy on AI-generated content here too.
+- **Credit:** how the person will be credited in the game.
+- **Termination:** how either side can end the agreement, what gets paid for work already done, and what happens to work in progress.
 
-Smaller projects sometimes skip these. I'll be honest: there's a real cost to formalizing every tiny collaboration. But the cost of *not* formalizing rises the moment money changes hands or the project gets serious. [Scenario: Two friends build a small game, split revenue 50/50 in their heads, agree verbally] → [Game gets traction; one person wants to pursue it full-time, the other wants to focus on their day job] → [Result: eight months of arguments, one person stops responding to messages, the game doesn't get updated, revenue slowly drops]. I've seen this. More than once. A one-page agreement, literally just saying "if one of us wants to step back, they get paid out at 50% of three months' average revenue", would've taken thirty minutes and prevented months of friction.
+## What should be in a co-founder agreement
 
-## What Should Actually Be in There
+- Ownership shares, and **vesting**, so that someone who leaves early does not keep a full share of a game they did not help finish. Vesting schedules over several years with an initial cliff are common in startups.
+- An assignment of each founder's work on the game to the company, including work done before the company was formed.
+- Who decides what, and how deadlocks are resolved.
+- What happens when someone leaves: what they keep, whether the company can buy back their share, and on what terms.
 
-You don't need a 50-page document. Most of what you'll sign should fit on 5-10 pages. Here's what moves the needle:
+Form the legal entity and sign this before the game is worth anything. Ownership disputes over an unformed "future company" are among the hardest to untangle.
 
-*Scope of work or deliverables.* If it's a contractor agreement, what exactly are they making? Is it finished art, or concept sketches? Is it 10 tracks or 50? How many revisions? Vague scope is where budget grenades live.
+## Reading a publishing agreement
 
-*Payment terms.* How much, when, and how often. "30 days net" means they get paid 30 days after invoicing, standard. "50% up front, 50% on delivery" is reasonable for freelancers. Don't hand over all the money before work starts unless you're buying something off-the-shelf.
+The terms that matter most:
 
-*IP ownership.* Who owns what they created? Usually: if they're an employee or co-developer, you own it jointly or they own it and license it to you. If they're a contractor, you typically own the final work, but they might own their code tools or asset pipeline. You need to say this explicitly, because "it's just understood" has never prevented a lawsuit.
+- **IP ownership.** Do you keep the IP, and are sequels, ports and adaptations covered?
+- **Revenue split and recoupment.** What does the publisher recoup before royalties start, is it capped, and is it calculated on net receipts after platform fees? Watch for cross-collateralization, where costs from one game are recouped from another.
+- **Term, territory and platforms.** How long the deal lasts, where it applies and on which platforms.
+- **Milestones and acceptance.** How payments are tied to milestones, and who decides that a milestone is accepted. Vague acceptance criteria give the other side unlimited leverage; see [how to plan milestones for a publisher deal](/posts/how-to-plan-milestones-for-a-publisher-deal/).
+- **Marketing commitments.** What the publisher actually commits to, in writing.
+- **Audit rights.** Your right to check the numbers your royalties are based on.
+- **Termination and reversion.** What happens if the publisher stops supporting the game, and whether rights revert to you.
 
-*Kill fees or termination.* If you hire someone and change your mind, what do you owe them? Typically: you pay them for work completed and reasonable notice. If someone abandons you mid-project, what's their penalty? Usually: nothing legal, but you can stop paying them.
+## Red flags that mean stop and get help
 
-*Confidentiality.* Do they agree not to talk about what they're making for you until launch? Most freelancers will agree to this.
+- The other side owns your IP outright, or holds it permanently with no reversion.
+- Recoupable costs are uncapped or undefined.
+- A right of first refusal over your future games with no clear terms.
+- Revenue shares described as a percentage of "all revenue, from any source, forever".
+- Acceptance and approval at the other side's sole discretion.
+- Ownership promised to a company that does not exist yet.
+- No way out for you, and an easy way out for them.
 
-*Revenue share or royalties.* If you promised someone a cut of profits instead of (or in addition to) an upfront fee, write it down: what counts as "profit," when do they get paid, how often, and who provides accounting? This is where ambiguity kills people.
+## Before your next project
 
-## The Contract You Should Use (And Where to Find It)
+Write down, for every person and company involved, three things: what they are contributing, what they get, and what happens if they leave. Then turn it into a signed agreement before the work starts, not after the game is worth arguing over. A short, specific contract signed early is worth more than a long one negotiated in a crisis.
 
-You have options, and most of them won't cost you thousands of dollars.
-
-If you're working with a publisher or major platform, they'll likely hand you *their* contract first. This is their starting offer, designed to be favorable to them. You can negotiate. Most contract clauses aren't holy writ. (A game producer I know negotiated with a mid-size publisher in 2025 and got them to reduce their cut from 40% to 27% because she'd already shipped two games with them and they were scared she'd leave. Don't assume the first offer is final.)
-
-If you're hiring contractors or building with a co-developer, you have a few routes:
-
-*Use a template.* The IGDA (International Game Developers Association) publishes a free contract template for freelancers and contractors. It's not perfect for every situation, but it's a solid starting point, written by people who understand game dev. You'd customize it for your specific project. This probably saves you $500-$1,200 in lawyer costs compared to starting from scratch.
-
-*Hire a lawyer.* If you're signing a deal worth more than $20K, or if you're splitting ownership with someone, a lawyer who understands entertainment or tech contracts is worth the $150-$250 per hour they'll charge for a review. For a contract that doesn't raise red flags, expect $300-$600 in legal fees to review or redline it. For something more complex, like a publishing deal where you're keeping IP but giving up distribution rights, budget $1,500-$3,000. These costs sting, but they're insurance against deals that might cost you tens of thousands later.
-
-*Use plain English.* Sounds insane, but for simple contractor work with trusted people, a short letter is legally binding: "For $X, you'll deliver Y by date Z. Ownership transfers to us. You won't talk about this publicly before launch. You get paid on invoice." Have them sign it. Done. This works fine for a composer, an artist, or a coder you're bringing on for a specific feature. It doesn't work for complex arrangements or when there's any ambiguity.
-
-## Red Flags That Mean "Stop and Get Help"
-
-Here's where your skepticism should flip to high alert:
-
-**Perpetual worldwide exclusive rights with no sunset.** If someone wants exclusive rights to your game forever, everywhere, forever, that's a massive ask. Perpetual is fine if you're getting paid in perpetuity. But if you're getting a one-time payment for exclusive rights, you're selling something worth much more than they're paying.
-
-**A percentage of your income with no cap.** "We get 30% of all revenue from this game, from any platform, forever" is different from "We distribute this and take 30% of sales revenue on Steam, for five years." The second is a distribution deal. The first is a claim on your future. Same goes for "milestone royalties", if you promised someone 2% of revenue if the game hits 100K sales, you've now got a permanent accounting obligation.
-
-**No approval rights over decisions that matter.** If you're splitting ownership with someone, you need joint approval (or a tiebreaker process) on major decisions: pulling the game, adding paid content, licensing it to platforms, hiring or firing people. If one person can make these calls unilaterally, the other person's investment is at risk.
-
-**Vague termination clauses.** "Either party may terminate at will" sounds fair until one party terminates and the other party's not sure if they're still paid for work in progress. You need specificity: how much notice, what happens to work in progress, what you owe them.
-
-**Everything assigned to "the company" and no legal entity exists yet.** I've seen developers promise 50% of profits to a co-developer of their "future LLC," sign nothing, build the game, then incorporate as an LLC and suddenly the co-developer's claim is murky. Formalize this before you're valuable.
-
-## When You're the One Being Handed a Contract
-
-Most developers' first contract experience is being *handed* one, not writing one. A publisher, a platform, a service.
-
-Read the whole thing. Not skimming. Actually read it. Audio version helps if reading dense prose makes you want to pull your hair out. I read long contracts at 1.5x speed while walking around. Keeps the blood flowing.
-
-Pay special attention to these sections:
-- **Term and termination.** How long does this last? Can either side end it? What happens to your game and your money if they do?
-- **Revenue splits.** What do they take? From what? Do refunds or chargebacks come out of your cut or theirs?
-- **Approval rights.** Do they approve content? Updates? Pricing? Marketing claims?
-- **Exclusivity.** Can you sell your game elsewhere, or are you locked in? For how long?
-- **Liability.** If something goes wrong, who's legally responsible? Who pays for lawsuits?
-
-If something confuses you, it's either poorly written (their problem) or it's intentionally vague (worse). Either way, ask for clarification before signing. "Can you explain what 'reasonable marketing efforts' means in Section 4?" gets you a written answer that becomes part of the deal if they respond.
-
-**Most contract clauses can be negotiated.** This is the thing developers don't realize. That contract isn't a test you pass or fail. It's an opening offer. You can say, "This term is three years, we'd prefer one year with renewal options" or "You take 30%, we've worked with other publishers at 25%, can we do that?" Publishers expect this. It's normal. What's not normal is saying yes to everything without reading it.
-
-[Scenario: Indie developer gets offered a publishing deal, contract says publisher gets all IP ownership and 40% of revenue forever] → [Developer pushes back, says "We'll do 40% for five years, then it reverts to us unless we renew; IP stays with us"] → [Publisher agrees to five-year term with renewal option; developer keeps IP; this adds maybe $80K-$150K in long-term value for the developer because they might license the game elsewhere after year five]. This happened, and it hinged on the developer reading Section 2 and saying "no" to the first offer.
-
-## What Happens When Things Go Sideways
-
-You've signed something, and now there's a dispute. Your co-developer disappeared. The publisher isn't paying you. A contractor is claiming they own the art they made. Here's what the contract determines:
-
-If the contract's good, it tells you who gets to decide what happens. Arbitration? Court? Who pays the lawyer? Can you pause the game to settle it, or does the game keep running and you fight while money's flowing?
-
-If the contract's vague, you're in the legal system, which is slow, expensive, and unpredictable. A contract dispute over a $30K game can cost $15K in legal fees before you see a judge. That's the world you enter if you haven't written things down.
-
-Most of the time, a contract dispute resolves when both sides realize what the contract actually says. Someone's reading it for the first time during the fight, and suddenly there's clarity: "Oh, the contract says this and this, so actually we owe you money." Deal happens, everyone's mad, life goes on.
-
-Sometimes it doesn't. Sometimes you need a lawyer to enforce it, or sometimes the dispute is over something so small that fighting it costs more than you'd win. This is why contracts matter but aren't magic, they create a framework for resolving problems, but they can't prevent all of them.
-
-## The One Thing to Do Before Your Next Project
-
-If you're shipping something soon, or you've already got collaborators lined up, commit to this: before a single dollar changes hands, you and your team, or you and your publisher, or you and your contractor, will sign something in writing saying what happens next.
-
-One page is fine. Five pages is better. Fifty pages written by their lawyer with 10 rounds of negotiation is what the big studios do, but you don't need that yet.
-
-The contract doesn't need to be fancy. It needs to be specific. Names, dates, money, ownership, what happens if someone leaves, what happens if you hit $100K in revenue. That's it.
-
-This takes a weekend. The cost, either DIY with a template, or $400 in lawyer review, buys you peace. And clarity. And when someone inevitably disappears or forgets what they promised, you have something to point to.
-
----
-
-
----
+For the money side of these conversations, see [revenue share vs. salary for game contractors](/posts/revenue-share-vs-salary-for-game-contractors/), the [revenue share calculator](/posts/revenue-share-calculator/), and [hiring your first game developer](/posts/hiring-your-first-game-developer-guide/).
 
 ## Sources
 
-- [IGDA Contracts and Legal Resources](https://www.igda.org/): Official game developer resources including contract templates for freelancers and independent developers.
-- [International Game Developers Association (2024) GDC Survey on Contractor Agreements](https://www.igda.org/): Industry survey data on common contract disputes and IP ownership in game development.
-- [U.S. Copyright Office
+- U.S. Copyright Office, [Circular 30: Works Made for Hire](https://www.copyright.gov/circs/circ30.pdf)
+- U.S. Copyright Office, [Copyright Law of the United States, Chapter 2: Copyright Ownership and Transfer](https://www.copyright.gov/title17/92chap2.html)
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

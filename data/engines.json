@@ -30,7 +30,7 @@
     },
     {
       "name": "Godot 4",
-      "license": "Free — MIT (no royalties, ever)",
+      "license": "Free, MIT license (no royalties)",
       "license_note": "Fully open source; community-driven development",
       "language": "GDScript · C# · C++",
       "platforms": "PC · Mac · Linux · iOS · Android · Web",
@@ -38,7 +38,7 @@
       "learning_curve": "Low–Moderate",
       "job_demand": "Growing fast",
       "steam_share": "~8%",
-      "verdict": "Best free option — especially for 2D and learners",
+      "verdict": "Best free option, especially for 2D and learners",
       "url": "https://godotengine.org"
     },
     {
@@ -57,14 +57,14 @@
     {
       "name": "Construct 3",
       "license": "Free (limited); $7.99/mo or $69.99/yr",
-      "license_note": "Browser-based — no install required",
+      "license_note": "Browser-based, no install required",
       "language": "Visual scripting (event-based, no-code)",
       "platforms": "Web · PC · Mac · iOS · Android",
       "best_for": "Browser games, absolute beginners, rapid prototyping",
       "learning_curve": "Very Low",
       "job_demand": "Low",
       "steam_share": "<1%",
-      "verdict": "Best for pure beginners — zero coding required",
+      "verdict": "Best for pure beginners: zero coding required",
       "url": "https://www.construct.net"
     },
     {
