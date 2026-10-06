@@ -1,14 +1,24 @@
-{{ with .Site.Data.steam }}
+{{- $d := .Site.Data.steam -}}
+{{- if and $d $d.games -}}
 <div class="feedtbl" style="margin:28px 0;overflow-x:auto">
+{{- with $d.summary }}
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:16px">
+  <div style="padding:12px 14px;border:1px solid var(--border);border-radius:10px;background:var(--surface2,#f8fafc)"><div style="font-size:1.35rem;font-weight:800">{{ .free_count }} of {{ add .free_count .paid_count }}</div><div style="font-size:.78rem;color:var(--muted)">top games are free-to-play</div></div>
+  <div style="padding:12px 14px;border:1px solid var(--border);border-radius:10px;background:var(--surface2,#f8fafc)"><div style="font-size:1.35rem;font-weight:800">{{ .avg_paid_price }}</div><div style="font-size:.78rem;color:var(--muted)">average price of the paid titles</div></div>
+  <div style="padding:12px 14px;border:1px solid var(--border);border-radius:10px;background:var(--surface2,#f8fafc)"><div style="font-size:1.35rem;font-weight:800">{{ .top3_ccu_share }}%</div><div style="font-size:.78rem;color:var(--muted)">of top-15 concurrents held by the top 3</div></div>
+</div>
+{{- end }}
 <table>
   <thead><tr><th>#</th><th>Game</th><th>Developer</th><th>Est. owners</th><th>Peak players</th><th>Price</th></tr></thead>
   <tbody>
-  {{ range .games }}
+  {{- range $d.games }}
   <tr><td>{{ .rank }}</td><td><strong>{{ .name }}</strong></td><td>{{ .developer }}</td>
       <td>{{ .owners }}</td><td>{{ lang.FormatNumberCustom 0 .ccu }}</td><td>{{ .price }}</td></tr>
-  {{ end }}
+  {{- end }}
   </tbody>
 </table>
-<p style="font-size:.8rem;color:var(--muted,#64748b);margin-top:8px">Data: {{ .source }}. Refreshed weekly; last update {{ .as_of }}.</p>
+<p style="font-size:.8rem;color:var(--muted,#64748b);margin-top:8px">Data: {{ $d.source }}. Refreshed weekly; last update {{ $d.as_of }}.</p>
 </div>
-{{ end }}
+{{- else -}}
+<p style="margin:28px 0;padding:16px 18px;border:1px dashed var(--border);border-radius:10px;color:var(--muted)">This week's Steam data is refreshing. Check back shortly.</p>
+{{- end -}}
