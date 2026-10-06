@@ -3,63 +3,143 @@
     "label": "Steam Wishlist Calculator",
     "url": "/steam-wishlist-to-sales/",
     "icon": "📈",
-    "match": ["wishlist", "steam page", "store page", "demo", "marketing"],
+    "match": [
+      "wishlist",
+      "steam page",
+      "store page",
+      "demo",
+      "marketing"
+    ],
     "desc": "Project your launch-week sales and revenue from your Steam wishlist count."
   },
   {
     "label": "Schedule & Milestone Planner",
     "url": "/game-development-schedule-planner/",
     "icon": "🗓️",
-    "match": ["schedule", "milestone", "roadmap", "timeline", "alpha", "beta", "vertical slice", "content complete", "planning", "buffer", "deadline", "crunch"],
+    "match": [
+      "schedule",
+      "milestone",
+      "roadmap",
+      "timeline",
+      "alpha",
+      "beta",
+      "vertical slice",
+      "content complete",
+      "planning",
+      "buffer",
+      "deadline",
+      "crunch"
+    ],
     "desc": "Turn a launch or start date into phases, milestones, cert and Steam deadlines, with a protected buffer. Export to your calendar."
   },
   {
     "label": "Steam Sale & Next Fest Calendar",
     "url": "/steam-sale-dates/",
     "icon": "📅",
-    "match": ["next fest", "steam sale", "discount", "launch date", "release date", "publishing", "launch"],
+    "match": [
+      "next fest",
+      "steam sale",
+      "discount",
+      "launch date",
+      "release date",
+      "publishing",
+      "launch"
+    ],
     "desc": "Every Steam sale, Next Fest and deadline for 2026 and 2027, plus a checker for when your game can discount."
   },
   {
     "label": "Console Cert Checklist",
     "url": "/console-certification-checklist/",
     "icon": "🎮",
-    "match": ["certification", "console", "cert", "playstation", "xbox", "nintendo", "porting", "platform"],
+    "match": [
+      "certification",
+      "console",
+      "cert",
+      "playstation",
+      "xbox",
+      "nintendo",
+      "porting",
+      "platform"
+    ],
     "desc": "An interactive pre-certification checklist covering the areas every console platform tests."
+  },
+  {
+    "label": "Game Dev Grants Database",
+    "url": "/game-development-grants/",
+    "icon": "💰",
+    "match": [
+      "grant",
+      "funding",
+      "fund",
+      "tax credit",
+      "financing",
+      "investor"
+    ],
+    "desc": "22 verified grants, tax credits and rebates for game studios, filterable by region, type and stage."
   },
   {
     "label": "Indie Game Budget Calculator",
     "url": "/indie-game-budget-calculator/",
     "icon": "🧮",
-    "match": ["budget", "cost", "budgeting", "estimate", "runway"],
+    "match": [
+      "budget",
+      "cost",
+      "budgeting",
+      "estimate",
+      "runway"
+    ],
     "desc": "Estimate the real budget and timeline to ship your indie game, including the costs teams forget."
   },
   {
     "label": "Steam Revenue Calculator",
     "url": "/posts/steam-revenue-calculator/",
     "icon": "💹",
-    "match": ["revenue", "earnings", "royalt", "steam cut", "how much money"],
+    "match": [
+      "revenue",
+      "earnings",
+      "royalt",
+      "steam cut",
+      "how much money"
+    ],
     "desc": "Estimate what your game actually earns on Steam after Valve's cut, refunds, taxes and splits."
   },
   {
     "label": "Revenue Share Calculator",
     "url": "/posts/revenue-share-calculator/",
     "icon": "🤝",
-    "match": ["revenue share", "rev share", "contractor", "split", "contract"],
+    "match": [
+      "revenue share",
+      "rev share",
+      "contractor",
+      "split",
+      "contract"
+    ],
     "desc": "Work out fair revenue splits for contractors, partners and small teams."
   },
   {
     "label": "Game Engine Comparison",
     "url": "/game-engine-comparison/",
     "icon": "⚙️",
-    "match": ["engine", "unity", "unreal", "godot", "engines and tools"],
+    "match": [
+      "engine",
+      "unity",
+      "unreal",
+      "godot",
+      "engines and tools"
+    ],
     "desc": "Compare 12 game engines by language, 2D/3D focus, pricing, royalties and difficulty."
   },
   {
     "label": "Steam Top 15 Tracker",
     "url": "/steam-top-games-tracker/",
     "icon": "🏆",
-    "match": ["industry data", "live service", "free-to-play", "players", "market"],
+    "match": [
+      "industry data",
+      "live service",
+      "free-to-play",
+      "players",
+      "market"
+    ],
     "desc": "This week's most-played games on Steam, with owners, concurrents and pricing."
   }
 ]

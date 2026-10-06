@@ -1,0 +1,93 @@
+{{- $g := site.Data.grants -}}
+{{- if $g -}}
+{{- $st := dict "open" "Open now" "closed" "Closed for 2026" "between" "Between cycles" "annual" "Annual call" "ongoing" "Ongoing" "rolling" "Rolling rounds" -}}
+{{- $ty := dict "grant" "Grant" "tax" "Tax credit / rebate" -}}
+<div id="gdb" class="gdb">
+  <div class="gdb-bar">
+    <label>Region
+      <select id="gdb-region">
+        <option value="">All regions</option>
+        <option value="global">Global</option>
+        <option value="us">United States</option>
+        <option value="ca">Canada</option>
+        <option value="uk">United Kingdom</option>
+        <option value="eu">European Union</option>
+        <option value="ie">Ireland</option>
+        <option value="fr">France</option>
+        <option value="de">Germany</option>
+        <option value="nordics">Nordics</option>
+        <option value="au">Australia</option>
+        <option value="nz">New Zealand</option>
+      </select>
+    </label>
+    <label>Type
+      <select id="gdb-type"><option value="">Grants and tax credits</option><option value="grant">Grants only</option><option value="tax">Tax credits and rebates only</option></select>
+    </label>
+    <label>Stage
+      <select id="gdb-stage"><option value="">Any stage</option><option value="prototype">Prototype / development</option><option value="production">Production</option><option value="post-launch">Post-launch / live ops</option></select>
+    </label>
+    <label>Search
+      <input id="gdb-q" type="search" placeholder="e.g. Unreal, Ontario, live ops">
+    </label>
+  </div>
+  <div class="gdb-meta"><span id="gdb-count">{{ len $g.programs }} programs</span> <label class="gdb-open"><input type="checkbox" id="gdb-openonly"> Open now only</label></div>
+  <div class="gdb-grid">
+    {{- range $g.programs }}
+    <article class="gdb-card" data-rk="{{ .rk }}" data-type="{{ .type }}" data-stage="{{ delimit .stage " " }}" data-status="{{ .status }}">
+      <div class="gdb-top"><span class="gdb-tag gdb-{{ .type }}">{{ index $ty .type }}</span><span class="gdb-st gdb-st-{{ .status }}">{{ index $st .status }}</span></div>
+      <h3>{{ .name }}</h3>
+      <div class="gdb-org">{{ .org }} · {{ .region }}</div>
+      <div class="gdb-amt">{{ .amount }}</div>
+      <dl>
+        <dt>Funds</dt><dd>{{ .funds }}</dd>
+        <dt>Who can apply</dt><dd>{{ .eligibility }}</dd>
+        <dt>Timing</dt><dd>{{ .window }}</dd>
+      </dl>
+      <a class="gdb-link" href="{{ .url }}" target="_blank" rel="noopener">Official page &rarr;</a>
+    </article>
+    {{- end }}
+  </div>
+  <p class="gdb-empty" id="gdb-empty" hidden>No programs match those filters. Try a wider region or stage.</p>
+  <p class="gdb-fine">Every program was checked against its official page or the funder's announcements on {{ $g.verified }}. Amounts, windows and rules change; confirm on the official page before you apply. Currency is local to each program.</p>
+</div>
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "Dataset" "name" "Game development grants and tax credits" "description" "Verified directory of grants, tax credits and rebates for video game development across the US, Canada, UK, EU, Ireland, France, Germany, the Nordics, Australia and New Zealand." "dateModified" $g.verified "creator" (dict "@type" "Person" "name" "Stephen Brenish" "url" "https://gamedevproducer.com/stephen-brenish/") "isAccessibleForFree" true "url" (printf "%s" .Page.Permalink) | jsonify | safeJS }}</script>
+<style>
+.gdb{margin:28px 0}
+.gdb-bar{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;padding:16px;border:1px solid var(--border);border-radius:12px;background:var(--surface2,#f8fafc)}
+.gdb-bar label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.gdb-bar select,.gdb-bar input{padding:10px 12px;border:1.5px solid var(--border-strong,#cbd5e1);border-radius:10px;font-size:15px;font-family:inherit;color:var(--text);background:var(--surface,#fff)}
+.gdb-meta{display:flex;justify-content:space-between;align-items:center;gap:10px;margin:12px 2px;font-size:.88rem;color:var(--muted);font-weight:600}
+.gdb-open{display:flex;align-items:center;gap:7px;font-weight:500}
+.gdb-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.gdb-card{display:flex;flex-direction:column;border:1px solid var(--border);border-radius:12px;padding:16px;background:var(--surface,#fff)}
+.gdb-card[hidden]{display:none}
+.gdb-top{display:flex;justify-content:space-between;gap:8px;margin-bottom:8px}
+.gdb-tag,.gdb-st{font-size:.68rem;font-weight:700;padding:3px 8px;border-radius:999px;white-space:nowrap}
+.gdb-grant{background:#ede9fe;color:#5b21b6}.gdb-tax{background:#e0f2fe;color:#075985}
+.gdb-st{background:#f1f5f9;color:#475569}.gdb-st-open{background:#dcfce7;color:#166534}.gdb-st-between,.gdb-st-annual{background:#fef3c7;color:#92400e}.gdb-st-ongoing{background:#dcfce7;color:#166534}
+.gdb-card h3{font-size:1.02rem;margin:0 0 3px;line-height:1.3}
+.gdb-org{font-size:.8rem;color:var(--muted);margin-bottom:10px}
+.gdb-amt{font-weight:700;font-size:.93rem;color:var(--heading,#0f172a);padding:9px 11px;border-radius:9px;background:var(--surface2,#f8fafc);margin-bottom:10px}
+.gdb-card dl{margin:0 0 12px;font-size:.84rem;line-height:1.5}
+.gdb-card dt{font-weight:700;color:var(--muted);font-size:.7rem;text-transform:uppercase;letter-spacing:.05em;margin-top:8px}
+.gdb-card dd{margin:2px 0 0}
+.gdb-link{margin-top:auto;font-weight:700;font-size:.86rem}
+.gdb-empty{padding:20px;text-align:center;color:var(--muted)}
+.gdb-fine{font-size:.76rem;color:var(--muted);line-height:1.5;margin-top:14px}
+</style>
+<script>
+(function(){
+  var root=document.getElementById('gdb');if(!root)return;
+  var cards=[].slice.call(root.querySelectorAll('.gdb-card'));
+  var r=root.querySelector('#gdb-region'),t=root.querySelector('#gdb-type'),s=root.querySelector('#gdb-stage'),q=root.querySelector('#gdb-q'),o=root.querySelector('#gdb-openonly');
+  function run(){
+    var n=0,qq=q.value.trim().toLowerCase();
+    cards.forEach(function(c){
+      var ok=(!r.value||c.dataset.rk===r.value)&&(!t.value||c.dataset.type===t.value)&&(!s.value||(' '+c.dataset.stage+' ').indexOf(' '+s.value+' ')>-1)&&(!o.checked||c.dataset.status==='open'||c.dataset.status==='ongoing'||c.dataset.status==='rolling')&&(!qq||c.textContent.toLowerCase().indexOf(qq)>-1);
+      c.hidden=!ok;if(ok)n++});
+    root.querySelector('#gdb-count').textContent=n+' program'+(n===1?'':'s');root.querySelector('#gdb-empty').hidden=n>0;
+  }
+  [r,t,s,o].forEach(function(e){e.addEventListener('change',run)});q.addEventListener('input',run);
+})();
+</script>
+{{- end -}}
