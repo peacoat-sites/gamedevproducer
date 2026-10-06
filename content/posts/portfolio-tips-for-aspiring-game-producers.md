@@ -23,7 +23,7 @@ faqs:
    a: "Notion is genuinely good for this and costs nothing. It handles documents, embedded spreadsheets, links to build demos, and looks clean enough to share. If you want something more formal, a PDF sent via email still works fine. Don't overthink the tool."
  - q: "How do I show production skills if I've never been officially the producer on a project?"
    a: "Look at what you actually did. Did you run standups? Track tasks? Write a post-mortem? Coordinate with an audio contractor? Any of those is producer work. Retroactively document it clearly and own the contribution. A lot of people have been producing without the title. The portfolio is where you name it."
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 Every aspiring game producer I've met has the same question, and almost none of them phrase it right. They ask "what should I put in my portfolio?" when the real question is "what does a hiring producer actually need to see before they'll trust me with a team and a budget?" Those are very different questions, and answering the second one changes everything about how you build your portfolio.
 
@@ -43,7 +43,7 @@ The concrete stuff that actually works: milestone tracking spreadsheets (anonymi
 
 Here's where I'll push back on what everyone tells you: most people in this industry will say that student projects "don't count." I think that's wrong, and it's gatekeeping dressed up as standards. What doesn't count is a student project presented without context. A student project where you show exactly what you were responsible for, what broke, how you adapted, and what shipped? That counts.
 
-I've hired people with zero commercial credits specifically because their student portfolio showed good judgment under pressure. One person's portfolio included a one-page "project health report" they'd written midway through a jam game gone sideways. Scope had doubled, two team members had dropped out, and the document laid out a clean triage plan. We hired her. That document cost her maybe two hours to write and probably got her the job.
+Candidates with no commercial credits get hired when their work shows good judgment under pressure. Picture a one-page "project health report" written midway through a jam game gone sideways: scope has doubled, two team members have dropped out, and the document lays out a clean triage plan. That is two hours of writing, and it says more about a candidate's production thinking than a list of credits.
 
 Here's the reframe: stop thinking about projects as credentials and start thinking about them as case studies. For every project you include, write a 300-500 word breakdown covering what your actual role was, what the biggest production challenge was, how you handled it, and what you'd do differently. That's it. That structure will serve you better than any fancy portfolio site.
 

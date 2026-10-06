@@ -23,7 +23,7 @@ faqs:
    a: "As early as possible, ideally before pre-production ends. Producers who join mid-production spend months undoing decisions that were made without any production oversight. If you're a solo dev thinking 'I'll add a producer later,' that's the game development equivalent of saying 'I'll add load-bearing walls after the house is built.'"
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You're three weeks from alpha, the build is broken, your lead programmer just went silent on Slack, and the art team is asking whether they should keep working on assets that might get cut. Nobody's panicking yet, but you can feel the pressure moving through the room like a change in air pressure before a storm. This is the moment that separates producers who are good on paper from producers who are actually essential. It's not about your spreadsheet skills. It's about what you do in the next 90 minutes.
 
@@ -60,9 +60,9 @@ This table lives in your project management tool, gets reviewed at every milesto
 
 ## Knowing Your Tools Without Being Enslaved to Them
 
-Good producers know their way around **Jira**, **Shotgrid**, **Notion**, **Confluence**, or whatever system the team uses. They're not religious about any of them. The tool serves the process, not the other way around. I've watched producers spend more time building beautiful dashboards than actually talking to their team. The dashboard can't tell you that your senior designer is burned out.
+Good producers know their way around **Jira**, **Flow Production Tracking** (formerly ShotGrid), **Notion**, **Confluence**, or whatever system the team uses. They're not religious about any of them. The tool serves the process, not the other way around. I've watched producers spend more time building beautiful dashboards than actually talking to their team. The dashboard can't tell you that your senior designer is burned out.
 
-For book recommendations: *The Art of Game Design* by Jesse Schell isn't a producer book, but every producer should read it to understand how designers think. *Agile Game Development* by Clinton Keith is the most practical production methodology book specific to games. For courses, the **Game Production Fundamentals** track on LinkedIn Learning is decent for newer producers. **MasterClass** has nothing useful here.
+For book recommendations: *The Art of Game Design* by Jesse Schell isn't a producer book, but every producer should read it to understand how designers think. *Agile Game Development* by Clinton Keith is the most practical production methodology book specific to games. For practice questions on all of these skills, see [game producer interview questions](/posts/interview-questions-for-game-producer-roles/).
 
 For task tracking on smaller indie projects, **Trello** or **Notion** databases work fine. Don't let anyone tell you you're not a real studio because you're not running Jira.
 

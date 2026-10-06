@@ -20,10 +20,10 @@ faqs:
  - q: "How long should pre-production last for a mid-size game?"
    a: "For an AA game with a team of 30-60 people, pre-production typically runs 6 to 18 months. A vertical slice is usually the production-ready milestone. The dangerous failure mode is pre-production that never officially ends, which happens when teams don't define their exit criteria upfront. If you don't know what questions must be answered before production starts, pre-production will expand to fill whatever time it's given."
  - q: "Can you recommend any tools specifically for pre-production planning?"
-   a: "Hacknplan is built for game development and handles milestone-based, non-ticket work better than generic tools. Notion is excellent for decision logs and research documentation. Miro or FigJam work well for visual planning sessions where the team maps dependencies between open questions. For broader production management later in the project, Shotgrid (formerly Ftrack) is the industry standard for larger teams tracking asset pipelines. For learning the underlying skills, the Game Design and Production specialization on Coursera covers phase-specific production planning in detail."
+   a: "HacknPlan is built for game development and handles milestone-based, non-ticket work better than generic tools. Notion is excellent for decision logs and research documentation. Miro or FigJam work well for visual planning sessions where the team maps dependencies between open questions. For broader production management later in the project, Shotgrid (formerly Ftrack) is the industry standard for larger teams tracking asset pipelines. For learning the underlying skills, the Game Design and Production specialization on Coursera covers phase-specific production planning in detail."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 Your team just wrapped a killer prototype. The creative director is buzzing, stakeholders are nodding, and someone tapes a sprint board to the wall. Two weeks later, half the tickets are stuck in "In Progress," nobody can agree on what "done" means for a concept exploration task, and the lead designer hasn't touched the board in a week because she's busy writing a 30-page GDD that will probably change three more times before alpha. Sound familiar? That's not a discipline problem. That's Scrum colliding with a phase it was never built for.
 
@@ -68,11 +68,11 @@ You don't have to throw out every Agile tool. You just have to be selective.
 | Definition of Done | Explicit "question answered" criteria written before the experiment starts |
 | Daily standup | Shorter, question-focused check-ins: what's blocking a decision? |
 
-**Kanban** is often a better fit than Scrum for at least part of pre-production. It handles variable cycle times naturally and doesn't punish you for work that spills past a two-week boundary. Tools like Jira, Hacknplan, or even a physical board with swimlanes organized by risk category can work here. Hacknplan in particular was built for game development workflows and handles milestone-based planning better than a pure ticket queue.
+**Kanban** is often a better fit than Scrum for at least part of pre-production. It handles variable cycle times naturally and doesn't punish you for work that spills past a two-week boundary. Tools like Jira, HacknPlan, or even a physical board with swimlanes organized by risk category can work here. HacknPlan in particular was built for game development workflows and handles milestone-based planning better than a pure ticket queue.
 
 **Weekly milestones** work better than sprints during this phase. Define what question you'll answer or what prototype you'll have by end of week, keep the team pointed at that, and run a lightweight retrospective focused on "did we answer the question and what did we learn?" not "did we hit our velocity target?"
 
-For producers who want to go deeper, *The Art of Game Design* by Jesse Schell has a solid lens on iterative design thinking that maps well onto pre-production planning, even though it's not explicitly a production methodology book. *Blood, Sweat, and Pixels* by Jason Schreier is great for understanding how real pre-production actually went on shipped games, warts and all. For online learning, the Game Production curriculum on Coursera from Michigan State University covers phase-specific management in a way that most generic Agile courses skip entirely.
+For producers who want to go deeper, *The Art of Game Design* by Jesse Schell has a solid lens on iterative design thinking that maps well onto pre-production planning, even though it's not explicitly a production methodology book. *Blood, Sweat, and Pixels* by Jason Schreier is great for understanding how real pre-production actually went on shipped games, warts and all. For timing your phases, the [game development schedule planner](/game-development-schedule-planner/) lays out pre-production, the vertical slice and later gates from a target date.
 
 ## How to Transition Your Team Without Blowing Up Trust
 

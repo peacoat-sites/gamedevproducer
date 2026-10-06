@@ -12,7 +12,7 @@ slug: "how-to-build-a-steam-page-that-converts"
 affiliate_disclosure: true
 faqs:
  - q: "How many wishlists do I need before launch to have a successful launch?"
-   a: "There's no magic number, but most developers who post-mortem their launches honestly will tell you that 7,000 wishlists is a rough floor for a sustainable indie launch that doesn't feel like a disaster. Games launching below that often get lost in the noise. The top 10% of indie launches (commercial successes, not mega-hits) typically have 30,000 or more wishlists at launch. Work toward 10,000 as a realistic goal and treat every thousand as meaningful momentum."
+   a: "There's no magic number. Many developers treat around 10,000 wishlists at launch as a solid target, and games that launch with far fewer often struggle to get noticed. Treat every thousand as meaningful momentum, and use the Steam wishlist calculator to see what your count implies."
  - q: "Should I hire someone to build my Steam page?"
    a: "You don't need to hire someone for the whole page, but there are two specific pieces worth paying for: the capsule image and the trailer. Everything else (copywriting, screenshots, tags, metadata) you can do yourself if you're willing to study what works. Read the Steam developer documentation thoroughly, then study 20 pages from successful games in your genre and take notes on what they do."
  - q: "Does having a sale right after launch hurt me?"
@@ -20,10 +20,10 @@ faqs:
  - q: "Can I update my Steam page after it goes live?"
    a: "You can and should update it as your game develops. Capsule images, trailers, screenshots, and descriptions can all be updated. Many developers do a full refresh in the weeks before launch when they have final assets. Just don't let the page go stale: if your trailer is from 18 months ago and your game looks substantially better now, update it."
  - q: "What tools do game producers actually use to manage Steam page launches?"
-   a: "For project management around Steam launches, Notion works well for building content calendars and asset checklists. Trello is simpler if you want Kanban-style task tracking for milestone deadlines like 'capsule final' or 'trailer submitted.' For understanding your page performance, SteamDB is indispensable. For learning how to think about this more strategically, Chris Zukowski's blog (How To Market A Game) is the single most useful resource I've seen for indie developers on Steam marketing, and he posts detailed breakdowns of what's working right now. Udemy also has credible game marketing c"
+   a: "For project management around Steam launches, Notion works well for building content calendars and asset checklists. Trello is simpler if you want Kanban-style task tracking for milestone deadlines like 'capsule final' or 'trailer submitted.' For understanding your page performance, SteamDB is indispensable. For learning how to think about this more strategically, Chris Zukowski's blog (How To Market A Game) is the single most useful resource I've seen for indie developers on Steam marketing, and he posts detailed breakdowns of what's working right now. "
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-08-12
+lastmod: 2026-10-06
 ---
 
 You spent eight months building a demo. Finally got it live on Steam, shared the link everywhere, and... 127 wishlists in three weeks. Your friend's game, which honestly looks rougher than yours, already has 4,000. You refresh the page. What are you missing?
@@ -40,7 +40,7 @@ If it doesn't communicate genre, tone, and visual quality within about half a se
 
 What works: strong silhouette, a single dominant character or object, readable typography if you use any, and a color palette that creates contrast without looking like a ransom note. What doesn't work: group shots with five characters at equal size, screenshots used as capsules (almost always looks amateurish), logo-only designs with no visual context for what the game actually feels like.
 
-Hire a graphic designer who has specifically done Steam capsules if you can. It's a niche skill. A general illustrator who is incredible at character art may produce something beautiful that reads terribly at thumbnail scale. Budget $150 to $500 for this. Compare that to a single month of lost wishlist momentum and it's an easy decision.
+Hire a graphic designer who has specifically done Steam capsules if you can. It's a niche skill. A general illustrator who is incredible at character art may produce something beautiful that reads terribly at thumbnail scale. Budget for it properly; it is the asset that decides whether anyone clicks. Compare that to a single month of lost wishlist momentum and it's an easy decision.
 
 ## Your Trailer Has One Job: Make Someone Feel Something in 30 Seconds
 
@@ -54,7 +54,7 @@ A few things I've seen trip up otherwise good trailers:
 - **Audio that undersells the visuals.** Sound design and music carry enormous emotional weight. Don't use free stock music because it was easy to license.
 - **No clarity moment.** Somewhere in the first 45 seconds, the viewer understands the core loop. Not the whole game. Just: what do I do, what does it feel like, why is that interesting.
 
-You don't need a $5,000 trailer. You need someone who has watched a lot of good trailers and understands pacing. That might be you, or it might be someone you pay $300 on Fiverr. Watch trailers for similar games you think did it well and reverse-engineer their structure.
+You don't need a $5,000 trailer. You need someone who has watched a lot of good trailers and understands pacing. That might be you, or a freelance editor with a good reel. Watch trailers for similar games you think did it well and reverse-engineer their structure.
 
 ## Writing a Description That Actually Converts
 
@@ -102,9 +102,9 @@ Fill out every metadata field Valve gives you: developer name, publisher, releas
 
 Earlier than you think. Steam pages accumulate wishlists over time, and Valve's algorithm rewards sustained momentum, not just a launch spike. If your game is 12 months from release, your page should be up now. If it's 6 months out, your page should have been up 6 months ago.
 
-Next Fest is where this gets real. Steam Next Fest (runs a few times per year) is one of the most effective wishlist-building events for indie developers. To participate, you need a public Steam page and a demo. Work backward from the fest date: when does your page need to go live to build baseline visibility, and when does your demo need to be ready? Developers who treat Next Fest casually and show up with a rough demo and 200 existing wishlists get a moderate bump. Developers who arrive with a polished demo and 2,000+ wishlists beforehand often leave with 10,000 to 30,000 more.
+Next Fest is where this gets real. Steam Next Fest (three times a year: February, June and October) is one of the most effective wishlist-building events for indie developers. To participate, you need a public Steam page and a demo. Work backward from the fest date: when does your page need to go live to build baseline visibility, and when does your demo need to be ready? A rough demo with few existing wishlists gets a modest bump; a polished demo with an audience already building does far better. The [Next Fest planning guide](/posts/how-to-plan-a-game-demo-for-steam-next-fest/) covers the deadlines and timeline, and the [Steam sale and Next Fest calendar](/steam-sale-dates/) has every date.
 
-After launch: link to your page everywhere. Email list, social media, game dev forums, Reddit communities for your genre. Track wishlist velocity in SteamDB (it's free and public). Understand your conversion rate. Of all the people who visit your page, what percentage wishlist? Below 10% and something on the page is failing. Below 5% and you have a real problem that needs diagnosing before you spend another dollar on marketing.
+After launch: link to your page everywhere. Email list, social media, game dev forums, Reddit communities for your genre. Track wishlist velocity in SteamDB (it's free and public). Understand your conversion rate. Of all the people who visit your page, what share wishlist? Compare it with similar games and with your own history; if it is low, diagnose the page before you spend another dollar on marketing.
 
 Your Steam page is never truly done until your game is off sale forever. Treat it as a living document. Review it quarterly if you're in a long development cycle. Get feedback from people who have never heard of your game before. You've been looking at your game so long you've lost the ability to see it the way a stranger does. Find that stranger. Buy them a coffee. Ask them to narrate their thoughts as they scroll your page for the first time. That 10 minutes of feedback will be worth more than most of what you'll read about Steam marketing.
 

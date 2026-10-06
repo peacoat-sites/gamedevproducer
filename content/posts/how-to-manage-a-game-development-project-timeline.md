@@ -12,7 +12,7 @@ slug: "how-to-manage-a-game-development-project-timeline"
 affiliate_disclosure: true
 faqs:
  - q: "How long should a game development timeline actually be?"
-   a: "There's no universal answer, but most indie games are underestimated by 40-60% on first estimate. A game you think will take 12 months will probably take 18-24. Build your timeline honestly with the 0.6 capacity rule, then sanity-check against comparable shipped games of similar scope."
+   a: "There's no universal answer, but first estimates are almost always optimistic, often by a wide margin. A game you think will take 12 months will very likely take longer. Build your timeline honestly with the 0.6 capacity rule, then sanity-check against comparable shipped games of similar scope."
  - q: "How do you handle timeline uncertainty when you're still in pre-production?"
    a: "Keep your pre-production timeline loose by design. Pre-production is where you're figuring out what the game actually is, so locking down a detailed task-level schedule in that phase is mostly theater. Set a firm pre-production end date (when you'll have a vertical slice), and plan in detail only for the phase you're currently in."
  - q: "Should I use Agile sprints for my indie game?"
@@ -23,7 +23,7 @@ faqs:
    a: "Part-time and volunteer teams need even more scheduling discipline, not less. Calculate actual available hours per person per week honestly (not aspirationally), use those numbers in your capacity planning, and treat contributor availability as a first-class constraint in your sprint planning. The projects I've seen succeed with part-time teams are the ones that kept scope extremely tight and milestones extremely clear."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-08-12
+lastmod: 2026-10-06
 ---
 Most game timelines don't fail because of bad code or weak art. They fail because someone made a timeline in month one and then never looked at it again.
 
@@ -93,9 +93,9 @@ Most of the time, cut scope and adjust the milestone. Then figure out why you fe
 
 [Hacknplan](https://hacknplan.com) is built specifically for game development and has a free tier that will serve most small teams. It isn't the prettiest software, but its structure maps well to how game tasks actually work, which is more than you can say for most generic project tools.
 
-[Jira](https://www.atlassian.com/software/jira) (around $7.75 per user per month for small teams) is the industry standard at AAA scale for a reason. It's heavy, it has a learning curve, and it's overkill for a two-person indie team. But if you're shipping with a team of five or more, or you already know it from a studio background, the reporting and sprint-planning tools are genuinely good.
+[Jira](https://www.atlassian.com/software/jira) (free for small teams, then paid per user) is the industry standard at AAA scale for a reason. It's heavy, it has a learning curve, and it's overkill for a two-person indie team. But if you're shipping with a team of five or more, or you already know it from a studio background, the reporting and sprint-planning tools are genuinely good.
 
-For lighter-weight sprint tracking without the chaos of a 400-message Discord server, [Linear](https://linear.app) (around $8 per seat per month) has been impressive for small teams, and the velocity tracking alone earns its keep if you run regular sprint planning.
+For lighter-weight sprint tracking without the chaos of a 400-message Discord server, [Linear](https://linear.app) works well for small teams, and the velocity tracking alone earns its keep if you run regular sprint planning.
 
 On the reading side, Clinton Keith's *Agile Game Development* is the most practical book I know on adapting sprint methodology to games, precisely because Keith is honest about where agile breaks down in a game context and what to do about it. Jesse Schell's *The Art of Game Design* isn't a production book, but the lens it gives you on what a game actually is helps you make faster scope calls.
 

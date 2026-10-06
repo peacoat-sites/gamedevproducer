@@ -1,6 +1,7 @@
 ---
 title: "Best Documentation Tools for Game Studios: 5 Options"
 date: 2026-08-07T09:28:22.429395+00:00
+lastmod: 2026-10-06
 draft: false
 description: "Compare top documentation tools designed for game development teams. Find the right platform for wikis, design docs, and collaboration."
 image: "/img/heroes/6804068.jpg"
@@ -39,27 +40,27 @@ That said, the right tool actually does matter. I spent the better part of this 
 
 Let me give you the honest lay of the land before I get into opinions.
 
-| Tool | Best For | Free Tier? | Paid Pricing (per seat/mo) | Game Studio Adoption |
+| Tool | Best For | Free Tier? | Paid plans | Game Studio Adoption |
 |---|---|---|---|---|
-| Notion | Small-mid indie teams, flexible structure | Yes (limited) | $10-$18 | Very high in indie |
-| Confluence | Mid-to-large studios, Jira integration | Yes (10 users) | $5.16-$10.50 | Standard in mid/AAA |
-| Google Docs/Drive | Quick drafts, shared writing | Yes (unlimited) | ~$6 (Workspace) | Nearly universal, often misused |
-| Obsidian | Solo/small teams, local-first, offline | Yes | $50/yr (Sync add-on) | Growing, niche |
-| Nuclino | Lightweight wiki alternative | Yes (50 items) | $6-$12 | Small but passionate user base |
-| Coda | Data-heavy docs, automation | Yes (limited) | $10-$36 | Low but rising |
+| Notion | Small-mid indie teams, flexible structure | Yes (limited) | Per user; check current pricing | Very high in indie |
+| Confluence | Mid-to-large studios, Jira integration | Yes (10 users) | Per user; check current pricing | Standard in mid/AAA |
+| Google Docs/Drive | Quick drafts, shared writing | Yes (unlimited) | Per user; check current pricing | Nearly universal, often misused |
+| Obsidian | Solo/small teams, local-first, offline | Yes | Per user; check current pricing | Growing, niche |
+| Nuclino | Lightweight wiki alternative | Yes (50 items) | Per user; check current pricing | Small but passionate user base |
+| Coda | Data-heavy docs, automation | Yes (limited) | Per user; check current pricing | Low but rising |
 | Git + Markdown | Technical/code-adjacent docs | Yes | Free (with version control) | Common for tech docs only |
 
 These prices are current as of August 2026. They shift. Always check the vendor's pricing page directly before budgeting.
 
 ## Notion vs. Confluence: the fight everyone has
 
-I'll be honest: I used to be a Confluence evangelist. When I was at a mid-size studio in the early part of my career, Confluence felt like the only serious option. It integrated with Jira, which most production teams already lived in, and it had a structure that enforced some discipline.
+For a long time Confluence felt like the only serious option at mid-size studios. It integrated with Jira, which most production teams already lived in, and it had a structure that enforced some discipline.
 
-Then I watched a four-person indie team absolutely thrive in Notion, producing documentation that was more organized, more up-to-date, and more actually-used than anything I'd seen in a Confluence instance three times the size. That shook me.
+Then small teams started thriving in Notion, producing documentation that was more organized, more current and more actually used than many far larger Confluence instances.
 
 Here's what I think is actually going on. Confluence rewards teams that already have disciplined documentation habits. The structure helps you maintain what you're already doing well. But for a team that's still building those habits, Confluence's rigidity becomes an excuse not to document at all because "setting it up properly" becomes the blocker. Notion's flexibility lowers the barrier to just writing something down.
 
-The catch with Notion: that same flexibility becomes a mess without someone actively curating the structure. I've seen Notion workspaces six months into a project that look like a junk drawer. If nobody owns the information architecture, it collapses.
+The catch with Notion: that same flexibility becomes a mess without someone actively curating the structure. Six months into a project, an unmanaged Notion workspace can look like a junk drawer. If nobody owns the information architecture, it collapses.
 
 Practical worked example: A 12-person indie studio I consulted with switched from Google Docs to Notion in early production on their current project. They built a simple three-level hierarchy: Game Pillars at the top, System Design pages underneath, and individual feature specs at the bottom. Six months later, onboarding a new contractor took about two hours instead of the two days it had taken on their previous project. Same team, different tool, different habits around the tool.
 
@@ -79,29 +80,28 @@ Notion's database view actually handles this better than most tools because you 
 
 For anything code-adjacent, README files and Markdown docs living directly in your version-controlled repository have a real advantage that wikis don't: they change when the code changes (assuming your engineers are disciplined about it, which is a big assumption, but a trainable one).
 
-What surprised me when I started paying more attention to this was how many tools have quietly improved their Markdown support. Obsidian, in particular, has become a legitimate option for small studios that want local-first, offline-capable documentation with robust linking between pages. It's not a collaboration tool in the traditional sense, but with the Obsidian Sync add-on ($50/year per user) or a shared Git repo as the vault, small teams make it work.
+What surprised me when I started paying more attention to this was how many tools have quietly improved their Markdown support. Obsidian, in particular, has become a legitimate option for small studios that want local-first, offline-capable documentation with robust linking between pages. It's not a collaboration tool in the traditional sense, but with the Obsidian Sync add-on or a shared Git repo as the vault, small teams make it work.
 
 This won't scale past maybe 15 people before it gets unwieldy. But for a solo dev or a two-to-three person team, it's genuinely excellent for design notes and system documentation.
 
-Worked example: A technical designer I know used Obsidian with a shared GitHub repo as the backing store for all his systems documentation on a 14-month solo project. His "graph view" (the visual link map between notes) became his primary tool for spotting underdocumented systems. When two freelancers joined for the final push, they reported it was the most navigable design documentation they'd encountered. The whole setup cost him $0.
+For a solo developer or tiny team, Obsidian with a shared GitHub repo as the vault can cost nothing. Its graph view, the visual map of links between notes, is a quick way to spot systems that are underdocumented, and a well-linked vault makes onboarding freelancers late in a project far easier.
 
 ## The tools that support documentation without being documentation tools
 
 Two things I actually recommend to every studio regardless of their wiki choice:
 
-Loom (or any async video tool) for decisions and walkthroughs. A three-minute screen recording of a designer walking through a new system design is worth ten pages of written spec for onboarding. These aren't a replacement for written docs, but they're a powerful supplement. Current Loom pricing runs about $12.50 per seat per month on the Business plan.
+Loom (or any async video tool) for decisions and walkthroughs. A three-minute screen recording of a designer walking through a new system design is worth ten pages of written spec for onboarding. These aren't a replacement for written docs, but they're a powerful supplement. Loom has a free tier and paid business plans.
 
 Linear or Jira for linking tasks to decisions. If a ticket closes because of a design decision, there should be a link from that ticket to the decision log entry. This sounds like overhead. It's not. It's the connective tissue that lets you reconstruct why the game looks the way it does eighteen months later.
 
 
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Documentation tool monthly cost per seat (paid tiers)</div><div class="sc-row"><span class="sc-label">Notion (Plus)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$10</span></div><div class="sc-row"><span class="sc-label">Confluence (Standard)</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">$5.2</span></div><div class="sc-row"><span class="sc-label">Nuclino (Standard)</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$6</span></div><div class="sc-row"><span class="sc-label">Coda (Pro)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$10</span></div><div class="sc-row"><span class="sc-label">Obsidian Sync</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">$4.2</span></div><div class="sc-src">Source: Vendor pricing pages, August 2026</div></div>
+
 
 
 ## Sources
 
 - [Atlassian Confluence Pricing Page](https://www.atlassian.com/software/confluence/pricing): Current official pricing for Confluence tiers, August 2026.
 - [Notion Pricing Page](https://www.notion.so/pricing): Current official pricing and feature comparison for Notion plans, August 2026.
-- [Game Developer (GDC Vault) Documentation Talks]: Multiple GDC sessions from working producers on documentation practices in shipped projects.
 - [Obsidian.md Pricing and Sync Documentation](https://obsidian.md/sync): Official pricing for Obsidian Sync add-on and Obsidian Publish.
 - [Nuclino Pricing Page](https://www.nuclino.com/pricing): Nuclino tier comparison, August 2026.
 
