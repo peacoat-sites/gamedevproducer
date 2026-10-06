@@ -1,0 +1,780 @@
+{
+ "categories": [
+  {
+   "name": "Phases and milestones",
+   "terms": [
+    {
+     "term": "Concept",
+     "id": "concept",
+     "def": "The earliest phase of a project, where the team defines what the game is, who it is for and why it will stand out. It usually ends with a pitch or a greenlight decision."
+    },
+    {
+     "term": "Greenlight",
+     "id": "greenlight",
+     "def": "A formal decision by studio leadership or a publisher to move a project into its next phase, most often from concept or pre-production into full production."
+    },
+    {
+     "term": "Pre-production",
+     "id": "pre-production",
+     "def": "The phase where a team proves the game is fun and feasible before committing to full production: prototyping core mechanics, settling art direction and technology, and planning the work. It often ends with a vertical slice.",
+     "link": {
+      "url": "/posts/why-scrum-breaks-in-game-pre-production/",
+      "text": "Why Scrum breaks in pre-production"
+     }
+    },
+    {
+     "term": "Prototype",
+     "id": "prototype",
+     "def": "A quick, rough build made to answer one question, such as whether a mechanic is fun, with no expectation that its code or art will survive into the final game."
+    },
+    {
+     "term": "Greybox",
+     "id": "greybox",
+     "def": "A level built from simple, untextured shapes to test layout, scale and flow before final art is made. Also called a whitebox or blockout."
+    },
+    {
+     "term": "First playable",
+     "id": "first-playable",
+     "def": "The first build in which a player can experience the core loop from start to finish, however rough it looks.",
+     "link": {
+      "url": "/posts/first-playable-milestone-checklist-for-producers/",
+      "text": "First playable checklist"
+     }
+    },
+    {
+     "term": "Vertical slice",
+     "id": "vertical-slice",
+     "def": "A short section of the game built to near-final quality in every discipline, from gameplay to art, audio and UI. It proves the quality bar and is often used to secure funding.",
+     "link": {
+      "url": "/posts/how-to-build-a-game-development-roadmap/",
+      "text": "Where the vertical slice fits in a roadmap"
+     }
+    },
+    {
+     "term": "Production",
+     "id": "production",
+     "def": "The longest phase of development, in which the team builds the game's features and content against milestones.",
+     "link": {
+      "url": "/posts/what-is-a-game-production-pipeline/",
+      "text": "How production is organized"
+     }
+    },
+    {
+     "term": "Alpha",
+     "id": "alpha",
+     "def": "The milestone at which the game is usually feature complete: every planned feature exists and works in some form, though content may be missing and bugs remain. Studios define alpha differently, so write the criteria down.",
+     "link": {
+      "url": "/posts/what-is-a-game-milestone-alpha-beta-gold/",
+      "text": "Alpha, beta and gold explained"
+     }
+    },
+    {
+     "term": "Feature complete",
+     "id": "feature-complete",
+     "def": "The point at which every planned feature is implemented. After it, no new features go in, only content, fixes and polish. Often the same milestone as alpha."
+    },
+    {
+     "term": "Content complete",
+     "id": "content-complete",
+     "def": "The point at which all planned content, such as levels, assets, dialogue and audio, is in the game, even if it still needs polish. Often tied to beta.",
+     "link": {
+      "url": "/posts/what-is-a-content-complete-milestone-in-games/",
+      "text": "What content complete means"
+     }
+    },
+    {
+     "term": "Beta",
+     "id": "beta",
+     "def": "The milestone at which the game is usually content complete and the team's focus shifts to fixing bugs, performance and polish.",
+     "link": {
+      "url": "/posts/what-is-a-game-milestone-alpha-beta-gold/",
+      "text": "Alpha, beta and gold explained"
+     }
+    },
+    {
+     "term": "Code lock",
+     "id": "code-lock",
+     "def": "The point after which only approved fixes may be checked in, so the build can stabilize for release or certification. Also called code freeze."
+    },
+    {
+     "term": "Release candidate",
+     "id": "release-candidate",
+     "def": "A build the team believes is ready to ship, submitted for final testing or platform certification. Often shortened to RC."
+    },
+    {
+     "term": "Gold master",
+     "id": "gold-master",
+     "def": "The final approved build that ships. \"Going gold\" historically meant sending the build for disc manufacturing.",
+     "link": {
+      "url": "/posts/what-is-a-game-milestone-alpha-beta-gold/",
+      "text": "Alpha, beta and gold explained"
+     }
+    },
+    {
+     "term": "Day-one patch",
+     "id": "day-one-patch",
+     "def": "An update released at or near launch to fix issues found after the gold build was locked."
+    },
+    {
+     "term": "Milestone",
+     "id": "milestone",
+     "def": "A defined point in a project with agreed deliverables and acceptance criteria, often tied to a publisher payment.",
+     "link": {
+      "url": "/posts/how-to-write-a-game-production-milestone-document/",
+      "text": "How to write a milestone document"
+     }
+    },
+    {
+     "term": "Acceptance criteria",
+     "id": "acceptance-criteria",
+     "def": "The specific, testable conditions a deliverable or milestone must meet to be accepted. Also called exit criteria when they apply to a whole milestone.",
+     "link": {
+      "url": "/posts/milestone-deliverable-documents-what-to-include/",
+      "text": "Milestone deliverable documents"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Planning and scheduling",
+   "terms": [
+    {
+     "term": "Roadmap",
+     "id": "roadmap",
+     "def": "A high-level plan of what will be built and when, at the level of milestones and major features. It changes deliberately, unlike the schedule.",
+     "link": {
+      "url": "/posts/how-to-build-a-game-development-roadmap/",
+      "text": "How to build a roadmap"
+     }
+    },
+    {
+     "term": "Content roadmap",
+     "id": "content-roadmap",
+     "def": "The plan for what new content a game releases after launch, and when: seasons, events, updates and new modes. It is the central planning document for live-service games.",
+     "link": {
+      "url": "/posts/how-to-plan-a-games-as-a-service-roadmap/",
+      "text": "Planning a live game roadmap"
+     }
+    },
+    {
+     "term": "Schedule",
+     "id": "schedule",
+     "def": "The detailed plan of who does what and when, at task level. Unlike the roadmap, it changes constantly.",
+     "link": {
+      "url": "/game-development-schedule-planner/",
+      "text": "Schedule and milestone planner"
+     }
+    },
+    {
+     "term": "Critical path",
+     "id": "critical-path",
+     "def": "The longest chain of dependent tasks in a project. Any delay on the critical path delays the whole project."
+    },
+    {
+     "term": "Dependency",
+     "id": "dependency",
+     "def": "A task or deliverable that cannot start or finish until another one does, such as animation waiting on a finished character rig."
+    },
+    {
+     "term": "Buffer",
+     "id": "buffer",
+     "def": "Time deliberately held in the schedule for problems no individual task predicts, such as integration issues or a failed certification pass.",
+     "link": {
+      "url": "/posts/buffer-time-in-game-schedules-why-it-matters/",
+      "text": "How much buffer you need"
+     }
+    },
+    {
+     "term": "Gantt chart",
+     "id": "gantt-chart",
+     "def": "A bar chart that shows tasks against time, with their dependencies. Often used for milestone-level schedules."
+    },
+    {
+     "term": "Scope",
+     "id": "scope",
+     "def": "The total set of features and content a project commits to deliver.",
+     "link": {
+      "url": "/posts/how-to-scope-an-indie-game-project-realistically/",
+      "text": "How to scope a game realistically"
+     }
+    },
+    {
+     "term": "Scope creep",
+     "id": "scope-creep",
+     "def": "Gradual growth in a project's scope without matching changes to its schedule or budget. Feature creep is the same problem applied to features.",
+     "link": {
+      "url": "/posts/scope-creep-prevention-in-game-development/",
+      "text": "Preventing scope creep"
+     }
+    },
+    {
+     "term": "Cut list",
+     "id": "cut-list",
+     "def": "A ranked list of features or content that will be removed first if the project runs short of time or money."
+    },
+    {
+     "term": "Capacity",
+     "id": "capacity",
+     "def": "The amount of work a team can realistically take on in a period, after holidays, meetings, support work and other commitments.",
+     "link": {
+      "url": "/posts/capacity-planning-for-game-development-teams/",
+      "text": "Capacity planning"
+     }
+    },
+    {
+     "term": "Burn rate",
+     "id": "burn-rate",
+     "def": "How much money a studio or project spends per month.",
+     "link": {
+      "url": "/indie-game-budget-calculator/",
+      "text": "Indie game budget calculator"
+     }
+    },
+    {
+     "term": "Runway",
+     "id": "runway",
+     "def": "How long a studio can keep operating before it runs out of money at its current burn rate."
+    },
+    {
+     "term": "Crunch",
+     "id": "crunch",
+     "def": "Extended periods of mandatory or expected overtime. It is most often a symptom of planning and scope problems, and is widely documented as harmful to people and to quality.",
+     "link": {
+      "url": "/posts/preventing-burnout-on-game-dev-teams-practical-steps/",
+      "text": "Preventing burnout"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Agile and process",
+   "terms": [
+    {
+     "term": "Agile",
+     "id": "agile",
+     "def": "A family of iterative approaches that plan in short cycles and adapt as the team learns, rather than fixing every detail up front.",
+     "link": {
+      "url": "/posts/agile-game-development-what-actually-works-in-practice/",
+      "text": "Agile for game teams"
+     }
+    },
+    {
+     "term": "Scrum",
+     "id": "scrum",
+     "def": "An agile framework built around fixed-length sprints, with three roles (product owner, Scrum Master and developers) and set events such as planning, daily scrum, review and retrospective.",
+     "link": {
+      "url": "/posts/sprint-planning-for-game-development-teams/",
+      "text": "Sprint planning for game teams"
+     }
+    },
+    {
+     "term": "Sprint",
+     "id": "sprint",
+     "def": "A fixed period, one month or less and often two weeks, in which a team commits to a set of work."
+    },
+    {
+     "term": "Product owner",
+     "id": "product-owner",
+     "def": "In Scrum, the person accountable for ordering the backlog and deciding what the team works on next."
+    },
+    {
+     "term": "Backlog",
+     "id": "backlog",
+     "def": "The ordered list of work that has not started yet.",
+     "link": {
+      "url": "/posts/how-to-organize-a-game-studio-task-backlog/",
+      "text": "Organizing a backlog"
+     }
+    },
+    {
+     "term": "User story",
+     "id": "user-story",
+     "def": "A short description of a feature from the player's point of view, with acceptance criteria that say when it is done.",
+     "link": {
+      "url": "/posts/how-to-write-good-user-stories-for-game-features/",
+      "text": "Writing user stories"
+     }
+    },
+    {
+     "term": "Epic",
+     "id": "epic",
+     "def": "A large body of work broken down into smaller stories."
+    },
+    {
+     "term": "Story points",
+     "id": "story-points",
+     "def": "A relative measure of effort used to estimate backlog items by comparing them with each other rather than in hours."
+    },
+    {
+     "term": "Velocity",
+     "id": "velocity",
+     "def": "The amount of work, usually in story points, a team completes per sprint. Useful for forecasting within one team, not for comparing teams or individuals.",
+     "link": {
+      "url": "/posts/how-to-estimate-task-time-in-game-development/",
+      "text": "Estimating task time"
+     }
+    },
+    {
+     "term": "Burndown chart",
+     "id": "burndown-chart",
+     "def": "A chart that shows the work remaining against time in a sprint or milestone."
+    },
+    {
+     "term": "Definition of done",
+     "id": "definition-of-done",
+     "def": "The shared checklist a piece of work must satisfy before it counts as finished, such as reviewed, integrated, tested and in the build."
+    },
+    {
+     "term": "Daily standup",
+     "id": "daily-standup",
+     "def": "A short daily meeting where team members share progress, plans and blockers."
+    },
+    {
+     "term": "Retrospective",
+     "id": "retrospective",
+     "def": "A regular meeting where a team reviews how it worked and commits to specific improvements.",
+     "link": {
+      "url": "/posts/how-to-run-a-game-development-retrospective/",
+      "text": "Running retrospectives"
+     }
+    },
+    {
+     "term": "Kanban",
+     "id": "kanban",
+     "def": "A flow-based method that visualizes work on a board and limits work in progress, without fixed-length sprints.",
+     "link": {
+      "url": "/posts/kanban-boards-for-indie-game-teams-explained/",
+      "text": "Kanban for indie teams"
+     }
+    },
+    {
+     "term": "WIP limit",
+     "id": "wip-limit",
+     "def": "A cap on how many items can be in one stage of a Kanban board at once, which exposes bottlenecks."
+    }
+   ]
+  },
+  {
+   "name": "Risk, quality and QA",
+   "terms": [
+    {
+     "term": "Risk register",
+     "id": "risk-register",
+     "def": "A list of things that could go wrong on a project, each with a probability, impact, owner, mitigation and contingency.",
+     "link": {
+      "url": "/posts/risk-register-template-for-game-development/",
+      "text": "Risk register template"
+     }
+    },
+    {
+     "term": "Mitigation",
+     "id": "mitigation",
+     "def": "Action taken before a risk occurs to make it less likely or less damaging.",
+     "link": {
+      "url": "/posts/risk-management-in-game-production-explained/",
+      "text": "Risk management in production"
+     }
+    },
+    {
+     "term": "Contingency plan",
+     "id": "contingency-plan",
+     "def": "What the team will do if a risk happens anyway."
+    },
+    {
+     "term": "Bug triage",
+     "id": "bug-triage",
+     "def": "Deciding, for each incoming bug, whether it reproduces, how severe and urgent it is, and who owns it.",
+     "link": {
+      "url": "/posts/bug-triage-process-for-game-development-teams/",
+      "text": "Bug triage process"
+     }
+    },
+    {
+     "term": "Severity",
+     "id": "severity",
+     "def": "How bad a bug's effect is, from crashes and data loss down to cosmetic issues. It is separate from priority."
+    },
+    {
+     "term": "Priority",
+     "id": "priority",
+     "def": "How soon a bug will be fixed relative to other work. A low-severity bug can be high priority, and the reverse."
+    },
+    {
+     "term": "Regression",
+     "id": "regression",
+     "def": "A bug in something that used to work, introduced by a later change."
+    },
+    {
+     "term": "Smoke test",
+     "id": "smoke-test",
+     "def": "A quick check that a new build's most basic functions work before deeper testing begins."
+    },
+    {
+     "term": "Soak test",
+     "id": "soak-test",
+     "def": "Running a build for an extended period to find crashes, memory leaks and other problems that only appear over time."
+    },
+    {
+     "term": "Playtest",
+     "id": "playtest",
+     "def": "A session where players try the game while the team observes what is fun, confusing or broken.",
+     "link": {
+      "url": "/posts/qa-testing-workflow-for-indie-games-explained/",
+      "text": "QA and playtesting for indie games"
+     }
+    },
+    {
+     "term": "Postmortem",
+     "id": "postmortem",
+     "def": "A review after a project or milestone of what went right, what went wrong and what to change next time.",
+     "link": {
+      "url": "/posts/game-studio-post-mortem-process-that-actually-works/",
+      "text": "Running a postmortem"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Launch, platforms and certification",
+   "terms": [
+    {
+     "term": "Certification",
+     "id": "certification",
+     "def": "A platform holder's testing of a console game against its technical requirements before the game may be released. Often shortened to cert.",
+     "link": {
+      "url": "/console-certification-checklist/",
+      "text": "Console certification checklist"
+     }
+    },
+    {
+     "term": "TRC",
+     "id": "trc",
+     "def": "Sony's Technical Requirements Checklist, the certification requirements for PlayStation releases.",
+     "link": {
+      "url": "/posts/console-game-certification-process-for-producers/",
+      "text": "The certification process"
+     }
+    },
+    {
+     "term": "XR",
+     "id": "xr",
+     "def": "Xbox Requirements, Microsoft's certification requirements for Xbox releases."
+    },
+    {
+     "term": "Lotcheck",
+     "id": "lotcheck",
+     "def": "Nintendo's certification process for games released on its platforms."
+    },
+    {
+     "term": "Age rating",
+     "id": "age-rating",
+     "def": "A content rating from a ratings body such as the ESRB in North America or PEGI in Europe, required by most storefronts."
+    },
+    {
+     "term": "IARC",
+     "id": "iarc",
+     "def": "The International Age Rating Coalition, which issues age ratings for digital games through a single questionnaire used by participating storefronts."
+    },
+    {
+     "term": "Localization",
+     "id": "localization",
+     "def": "Adapting a game for other languages and regions. Localization QA, or LQA, checks the translated text in context in the game."
+    },
+    {
+     "term": "Steam Direct",
+     "id": "steam-direct",
+     "def": "Valve's process for publishing a game on Steam, with a $100 fee per game that Valve returns once the game earns $1,000 in adjusted gross revenue.",
+     "link": {
+      "url": "/posts/steam-revenue-calculator/",
+      "text": "Steam revenue calculator"
+     }
+    },
+    {
+     "term": "Coming Soon page",
+     "id": "coming-soon-page",
+     "def": "A Steam store page published before release so players can wishlist the game. Valve requires it to be live for at least two weeks before launch.",
+     "link": {
+      "url": "/posts/how-to-build-a-steam-page-that-converts/",
+      "text": "Building a Steam page that converts"
+     }
+    },
+    {
+     "term": "Wishlist",
+     "id": "wishlist",
+     "def": "A Steam player's saved interest in a game. Steam notifies wishlisters when the game launches and when it gets a qualifying discount.",
+     "link": {
+      "url": "/steam-wishlist-to-sales/",
+      "text": "Steam wishlist calculator"
+     }
+    },
+    {
+     "term": "Steam Next Fest",
+     "id": "steam-next-fest",
+     "def": "A Steam event, held several times a year, where players try free demos of upcoming games.",
+     "link": {
+      "url": "/steam-sale-dates/",
+      "text": "Steam sale and Next Fest calendar"
+     }
+    },
+    {
+     "term": "Early Access",
+     "id": "early-access",
+     "def": "Selling an unfinished game while development continues, with player feedback shaping the full release."
+    },
+    {
+     "term": "Soft launch",
+     "id": "soft-launch",
+     "def": "Releasing a game in a limited set of markets before the global launch to test stability, retention and monetization. Most common in mobile."
+    }
+   ]
+  },
+  {
+   "name": "Live operations",
+   "terms": [
+    {
+     "term": "Live ops",
+     "id": "live-ops",
+     "def": "Running a game after launch: releasing content and events, watching the game's health and economy, and responding to incidents.",
+     "link": {
+      "url": "/posts/how-to-plan-a-games-as-a-service-roadmap/",
+      "text": "Games-as-a-service roadmaps"
+     }
+    },
+    {
+     "term": "Season",
+     "id": "season",
+     "def": "A fixed-length period of content and progression in a live game, often paired with a battle pass."
+    },
+    {
+     "term": "Battle pass",
+     "id": "battle-pass",
+     "def": "A tiered reward track players progress through during a season, usually with free and paid tiers."
+    },
+    {
+     "term": "Hotfix",
+     "id": "hotfix",
+     "def": "An urgent fix deployed outside the normal release cadence."
+    },
+    {
+     "term": "DAU and MAU",
+     "id": "dau-and-mau",
+     "def": "Daily and monthly active users. The ratio of the two is a common measure of how often players come back."
+    },
+    {
+     "term": "Retention",
+     "id": "retention",
+     "def": "The share of players who return after their first session, usually measured at day 1, day 7 and day 30 (D1, D7 and D30)."
+    },
+    {
+     "term": "Concurrent users",
+     "id": "concurrent-users",
+     "def": "The number of players online at the same time. Peak concurrent users, or peak CCU, is a common health metric.",
+     "link": {
+      "url": "/steam-top-games-tracker/",
+      "text": "Steam top 15 tracker"
+     }
+    },
+    {
+     "term": "ARPDAU",
+     "id": "arpdau",
+     "def": "Average revenue per daily active user."
+    },
+    {
+     "term": "Lifetime value",
+     "id": "lifetime-value",
+     "def": "The total revenue a player is expected to generate over their time with the game. Often shortened to LTV."
+    }
+   ]
+  },
+  {
+   "name": "Business, funding and contracts",
+   "terms": [
+    {
+     "term": "Publisher",
+     "id": "publisher",
+     "def": "A company that funds, markets or distributes a game in exchange for a share of its revenue, and often some rights.",
+     "link": {
+      "url": "/posts/how-to-plan-milestones-for-a-publisher-deal/",
+      "text": "Publisher deal milestones"
+     }
+    },
+    {
+     "term": "Advance",
+     "id": "advance",
+     "def": "Money a publisher pays a developer before release, usually against milestones, and usually recouped from the developer's royalties."
+    },
+    {
+     "term": "Recoupment",
+     "id": "recoupment",
+     "def": "A publisher recovering agreed costs, such as advances and marketing, from a game's revenue before royalties are paid.",
+     "link": {
+      "url": "/posts/contract-basics-for-indie-game-developers/",
+      "text": "Contract basics"
+     }
+    },
+    {
+     "term": "Royalty",
+     "id": "royalty",
+     "def": "The developer's share of revenue under a publishing deal, typically paid after recoupment."
+    },
+    {
+     "term": "Revenue share",
+     "id": "revenue-share",
+     "def": "Paying people or partners a percentage of revenue instead of, or as well as, a fee.",
+     "link": {
+      "url": "/posts/revenue-share-calculator/",
+      "text": "Revenue share calculator"
+     }
+    },
+    {
+     "term": "Platform fee",
+     "id": "platform-fee",
+     "def": "The share of each sale a store keeps. Steam's standard share is 30%, falling to 25% and then 20% at high lifetime revenue.",
+     "link": {
+      "url": "/posts/steam-revenue-calculator/",
+      "text": "Steam revenue calculator"
+     }
+    },
+    {
+     "term": "Intellectual property",
+     "id": "intellectual-property",
+     "def": "The ownable parts of a game, such as its world, characters, code, art and trademarks. Often shortened to IP."
+    },
+    {
+     "term": "Work made for hire",
+     "id": "work-made-for-hire",
+     "def": "A legal arrangement in which the commissioning party owns a work from the moment it is created. In the US it applies to contractors only in specific circumstances and must be agreed in writing.",
+     "link": {
+      "url": "/posts/contract-basics-for-indie-game-developers/",
+      "text": "Contract basics"
+     }
+    },
+    {
+     "term": "NDA",
+     "id": "nda",
+     "def": "A non-disclosure agreement, which protects confidential information shared during pitches, contracts or playtests."
+    },
+    {
+     "term": "Grant",
+     "id": "grant",
+     "def": "Non-repayable public or private funding for game development, usually awarded competitively against criteria such as cultural value or location.",
+     "link": {
+      "url": "/game-development-grants/",
+      "text": "Game development grants database"
+     }
+    },
+    {
+     "term": "Tax credit",
+     "id": "tax-credit",
+     "def": "A rebate of a share of eligible development spending, claimed through the tax system by studios that meet a program's rules.",
+     "link": {
+      "url": "/game-development-grants/",
+      "text": "Game development grants database"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Roles",
+   "terms": [
+    {
+     "term": "Producer",
+     "id": "producer",
+     "def": "The person who owns how and when the game gets made: planning, coordination, risk and making sure decisions get made.",
+     "link": {
+      "url": "/posts/what-makes-a-good-game-producer-essential-skills/",
+      "text": "Core producer skills"
+     }
+    },
+    {
+     "term": "Associate producer",
+     "id": "associate-producer",
+     "def": "An early-career production role focused on tracking work, coordinating between disciplines and supporting a producer.",
+     "link": {
+      "url": "/posts/associate-producer-game-industry-responsibilities/",
+      "text": "What an associate producer does"
+     }
+    },
+    {
+     "term": "Senior producer",
+     "id": "senior-producer",
+     "def": "An experienced producer who owns a large part of a project, or a whole smaller one, often managing other producers.",
+     "link": {
+      "url": "/posts/game-producer-career-path-from-associate-to-executive/",
+      "text": "The producer career path"
+     }
+    },
+    {
+     "term": "Executive producer",
+     "id": "executive-producer",
+     "def": "A senior production leader accountable for a whole project or portfolio, often owning the budget and key stakeholder relationships."
+    },
+    {
+     "term": "Technical producer",
+     "id": "technical-producer",
+     "def": "A producer who specializes in engineering coordination, build pipelines and technical risk.",
+     "link": {
+      "url": "/posts/technical-producer-vs-game-producer-differences/",
+      "text": "Technical producer vs. game producer"
+     }
+    }
+   ]
+  },
+  {
+   "name": "Pipelines and tools",
+   "terms": [
+    {
+     "term": "Build",
+     "id": "build",
+     "def": "A compiled, playable version of the game."
+    },
+    {
+     "term": "Build pipeline",
+     "id": "build-pipeline",
+     "def": "The automated system that compiles, packages and distributes builds. Continuous integration (CI) builds and tests every change as it is committed.",
+     "link": {
+      "url": "/posts/how-to-set-up-a-build-pipeline-for-a-game/",
+      "text": "Setting up a build pipeline"
+     }
+    },
+    {
+     "term": "Version control",
+     "id": "version-control",
+     "def": "Software that tracks every change to code and assets, such as Perforce or Git.",
+     "link": {
+      "url": "/posts/perforce-vs-git-for-game-version-control/",
+      "text": "Perforce vs. Git"
+     }
+    },
+    {
+     "term": "Branch",
+     "id": "branch",
+     "def": "A separate line of development in version control, used to isolate work such as a release or a risky feature."
+    },
+    {
+     "term": "Game design document",
+     "id": "game-design-document",
+     "def": "The shared description of what the game is and how it works. Often shortened to GDD, and best kept short and current.",
+     "link": {
+      "url": "/posts/how-to-write-a-game-design-document/",
+      "text": "How to write a GDD"
+     }
+    },
+    {
+     "term": "Game engine",
+     "id": "game-engine",
+     "def": "The software framework a game is built on, providing rendering, physics, audio, input and tools, such as Unity, Unreal or Godot.",
+     "link": {
+      "url": "/game-engine-comparison/",
+      "text": "Game engine comparison"
+     }
+    },
+    {
+     "term": "Asset",
+     "id": "asset",
+     "def": "Any piece of content used in the game, such as a model, texture, sound, animation or UI element."
+    }
+   ]
+  }
+ ]
+}

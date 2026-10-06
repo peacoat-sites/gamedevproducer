@@ -1,0 +1,65 @@
+{{- $g := site.Data.glossary -}}
+{{- if $g -}}
+{{- $n := 0 -}}{{- range $g.categories }}{{ $n = add $n (len .terms) }}{{ end -}}
+{{- $page := .Page -}}
+<div id="gl" class="gl">
+  <div class="gl-bar">
+    <input id="gl-q" type="search" placeholder="Search {{ $n }} terms, e.g. vertical slice, recoupment, TRC" aria-label="Search the glossary">
+    <span id="gl-count" class="gl-count">{{ $n }} terms</span>
+  </div>
+  <nav class="gl-nav" aria-label="Glossary sections">
+    {{- range $g.categories }}<a href="#{{ .name | anchorize }}">{{ .name }}</a>{{ end -}}
+  </nav>
+  {{- range $g.categories }}
+  <section class="gl-cat">
+    <h2 id="{{ .name | anchorize }}">{{ .name }}</h2>
+    <dl>
+      {{- range .terms }}
+      <div class="gl-term" id="{{ .id }}">
+        <dt><a class="gl-anchor" href="#{{ .id }}">{{ .term }}</a></dt>
+        <dd>{{ .def }}{{ with .link }} <a class="gl-more" href="{{ .url }}">{{ .text }} &rarr;</a>{{ end }}</dd>
+      </div>
+      {{- end }}
+    </dl>
+  </section>
+  {{- end }}
+  <p class="gl-empty" id="gl-empty" hidden>No terms match that search.</p>
+</div>
+{{- $terms := slice -}}
+{{- range $g.categories }}{{ range .terms }}
+{{- $terms = $terms | append (dict "@type" "DefinedTerm" "name" .term "description" .def "url" (printf "%s#%s" $page.Permalink .id) "inDefinedTermSet" $page.Permalink) -}}
+{{- end }}{{ end }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@type" "DefinedTermSet" "name" "Game Production Glossary" "url" $page.Permalink "hasDefinedTerm" $terms | jsonify | safeJS }}</script>
+<style>
+.gl{margin:24px 0}
+.gl-bar{display:flex;gap:12px;align-items:center;padding:12px 0}
+.gl-bar input{flex:1;padding:11px 13px;border:1.5px solid var(--border-strong,#cbd5e1);border-radius:10px;font-size:15px;font-family:inherit;color:var(--text);background:var(--surface,#fff)}
+.gl-count{font-size:.82rem;font-weight:600;color:var(--muted,#64748b);white-space:nowrap}
+.gl-nav{display:flex;flex-wrap:wrap;gap:6px;margin:4px 0 8px}
+.gl-nav a{font-size:.8rem;font-weight:600;padding:5px 10px;border-radius:999px;border:1px solid var(--border,#e7e5e4);text-decoration:none;color:var(--text,#1e293b)}
+.gl-nav a:hover{border-color:var(--accent,#4338ca);color:var(--accent,#4338ca)}
+.gl-cat dl{margin:0}
+.gl-cat h2{scroll-margin-top:76px}
+.gl-term{padding:12px 0;border-bottom:1px solid var(--border,#e7e5e4);scroll-margin-top:72px}
+.gl-term dt{font-weight:700;font-size:1.02rem;margin-bottom:3px}
+.gl-term dt a.gl-anchor{color:var(--heading,#1e293b);text-decoration:none}
+.gl-term dd{margin:0;line-height:1.6;color:var(--text,#334155)}
+.gl-term dd a.gl-more{font-size:.86rem;font-weight:600;white-space:nowrap}
+.gl-term[hidden],.gl-cat[hidden]{display:none}
+.gl-term:target{background:var(--surface2,#f8fafc);border-radius:8px;padding-left:10px;padding-right:10px}
+.gl-empty{padding:20px;text-align:center;color:var(--muted,#64748b)}
+</style>
+<script>
+(function(){
+  var root=document.getElementById('gl');if(!root)return;
+  var q=root.querySelector('#gl-q'),terms=[].slice.call(root.querySelectorAll('.gl-term')),cats=[].slice.call(root.querySelectorAll('.gl-cat'));
+  q.addEventListener('input',function(){
+    var v=q.value.trim().toLowerCase(),n=0;
+    terms.forEach(function(t){var ok=!v||t.textContent.toLowerCase().indexOf(v)>-1;t.hidden=!ok;if(ok)n++});
+    cats.forEach(function(c){c.hidden=!c.querySelector('.gl-term:not([hidden])')});
+    root.querySelector('#gl-count').textContent=n+' term'+(n===1?'':'s');
+    root.querySelector('#gl-empty').hidden=n>0;
+  });
+})();
+</script>
+{{- end -}}
