@@ -12,18 +12,18 @@ slug: "game-producer-tools-and-software-for-project-management"
 affiliate_disclosure: true
 faqs:
  - q: "What project management tool do most professional game studios use?"
-   a: "Jira is the most common at mid-size and large studios. It integrates well with version control, supports QA workflows, and has enough flexibility to handle the weird shapes game production takes. That said, plenty of successful indie studios run entirely on ClickUp, Notion, or Hack n Plan. The tool matters less than whether your team actually uses it consistently."
+   a: "Jira is the most common at mid-size and large studios. It integrates well with version control, supports QA workflows, and has enough flexibility to handle the weird shapes game production takes. That said, plenty of successful indie studios run entirely on ClickUp, Notion, or HacknPlan. The tool matters less than whether your team actually uses it consistently."
  - q: "Is Trello good enough for a small indie game project?"
-   a: "For a solo project or a two-person team in early pre-production, yes. Once you have more than five people or start tracking dependencies across disciplines, Trello's flat kanban structure starts creating more problems than it solves. That's usually when teams move to something with more structure like ClickUp or Hack n Plan."
+   a: "For a solo project or a two-person team in early pre-production, yes. Once you have more than five people or start tracking dependencies across disciplines, Trello's flat kanban structure starts creating more problems than it solves. That's usually when teams move to something with more structure like ClickUp or HacknPlan."
  - q: "How do I get a team to actually use the project management tool I set up?"
    a: "Keep the initial setup simple, 10 task types maximum, and make sure everyone has a single answer to 'where do I put this?' Adoption fails when the tool is configured for an ideal world instead of how the team actually works. Run one onboarding session, record it with Loom, and make yourself available for questions in the first two weeks. After that, make it visible: review the board in every team meeting so people see that it's where the real work lives."
  - q: "Can I run agile sprints in Notion?"
    a: "Sort of. Notion doesn't have native sprint tracking, burn-down charts, or velocity calculations. You can fake it with databases and linked views, and some templates do this reasonably well. But if sprint discipline matters to your production, you'll hit the ceiling fast and wish you'd started in a tool built for it. Use Notion for documentation and a real project management tool for task tracking."
- - q: "What's the difference between Hack n Plan and Jira for game dev?"
-   a: "Hack n Plan is built specifically for games, so things like discipline tagging, milestone structure, and estimation are already built in without configuration. Jira is more powerful and more flexible but starts as a blank slate you have to shape for game dev use. For a team that doesn't have a producer or project manager with Jira experience, Hack n Plan gets you productive faster. For a team with complex QA pipelines or publisher reporting requirements, Jira's depth is worth the setup time."
+ - q: "What's the difference between HacknPlan and Jira for game dev?"
+   a: "HacknPlan is built specifically for games, so things like discipline tagging, milestone structure, and estimation are already built in without configuration. Jira is more powerful and more flexible but starts as a blank slate you have to shape for game dev use. For a team that doesn't have a producer or project manager with Jira experience, HacknPlan gets you productive faster. For a team with complex QA pipelines or publisher reporting requirements, Jira's depth is worth the setup time."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-08-12
+lastmod: 2026-10-06
 ---
 
 You're three weeks into production, your team is split across two time zones, and someone just pinged you asking which version of the level design doc is "the real one." There are four copies. Two are in Discord, one's in a Google Drive folder nobody can find, and the last one is in a Notion page that got duplicated by accident. This kills momentum on otherwise solid projects. I've watched teams spend entire sprint reviews untangling documentation chaos instead of reviewing actual work. The right tools won't make you a better producer overnight, but the wrong ones, or having no system at all, will quietly wreck you.
@@ -42,12 +42,12 @@ Here's how the main options stack up for game teams specifically:
 |---|---|---|---|
 | **Jira** | Mid-to-large teams, sprint tracking, QA pipelines | Steep setup cost, can feel heavy for small teams | Yes (up to 10 users) |
 | **Notion** | Documentation, wikis, lightweight task tracking | Not great for true sprint management or burn-down visibility | Yes |
-| **Hack n Plan** | Game-specific task management, estimation | Smaller community, fewer integrations | Yes (limited) |
+| **HacknPlan** | Game-specific task management, estimation | Smaller community, fewer integrations | Yes (limited) |
 | **ClickUp** | Flexible workflows, replaces multiple tools | Can overwhelm teams with too many options | Yes |
 | **Trello** | Simple kanban, early pre-production | Gets messy fast at scale | Yes |
 | **Linear** | Engineering-focused teams, clean UI | Not built for art/design workflows | Yes |
 
-For indie teams under 10 people, ClickUp or a well-organized Notion workspace gets you 80% of what Jira does at 10% of the complexity. For anything with a publisher contract or a QA team, Jira is worth the learning curve. That's my honest take.
+For indie teams under 10 people, ClickUp or a well-organized Notion workspace gets you most of what Jira does at a fraction of the complexity. For anything with a publisher contract or a QA team, Jira is worth the learning curve. That's my honest take.
 
 ## Documentation and Knowledge Management
 
@@ -57,7 +57,7 @@ Notion is still the most flexible documentation layer I've seen for game teams. 
 
 Confluence is the enterprise alternative if you're already in the Atlassian ecosystem with Jira. More structured than Notion, yes, but also more rigid. Good if you need formal review processes or you're working with a publishing partner who wants audit trails.
 
-For version control on actual game files and assets, Perforce (Helix Core) is the industry standard for larger studios. Git with Git LFS works for smaller teams and keeps costs down. Don't skip version control on your production docs either. I've seen a single accidentally overwritten design doc set a team back two weeks.
+For version control on actual game files and assets, Perforce P4 (formerly Helix Core) is the industry standard for larger studios. Git with Git LFS works for smaller teams and keeps costs down. Don't skip version control on your production docs either. A single accidentally overwritten design doc can set a team back weeks.
 
 ## Communication Tools That Don't Create Chaos
 

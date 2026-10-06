@@ -23,7 +23,7 @@ faqs:
    a: "Don't put recurring operational tasks on your kanban board at all. They're not flow work; they're scheduled events. Put them in your calendar or a separate recurring checklist. Mixing them into your task flow pollutes the board and makes cycle time metrics meaningless."
  - q: "When should we actually update the board, and how do we stop it going stale?"
    a: "Daily self-updates (each person moves their own cards) combined with a 30-minute weekly team review is the pattern that sticks. If you can't get daily updates, do them at the start and end of each work session. What doesn't work: assigning one person to maintain the board for everyone else. It always drifts, and then nobody trusts it."
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 
 Most kanban advice online was written for software developers shipping features to paying enterprise customers. That's a problem, because indie game dev doesn't look anything like that.
@@ -38,14 +38,14 @@ Kanban originated at Toyota in the 1940s as a manufacturing flow system. The wor
 
 What surprised me, when I dug into this properly, is how well that model fits a small game team's reality. Indie dev is deeply asynchronous. Your composer works weird hours. Your artist is juggling contract gigs. Your programmer might disappear for a week into a hard rendering problem. Sprint commitments get broken constantly, which kills morale. Kanban doesn't ask you to commit. It asks you to keep moving and surface blockers fast.
 
-The research here is somewhat mixed: a 2018 analysis published in the *Journal of Software: Evolution and Process* compared agile methods on small creative software teams and found kanban outperformed Scrum on teams under eight people primarily because of lower coordination overhead. Not a slam dunk, but the direction is consistent with what I've seen in practice.
+The case for kanban on small teams is practical rather than theoretical: less ceremony, less coordination overhead, and a board that shows where work is stuck.
 
 ## Setting Up a Board That Actually Reflects How Games Get Made
 
 | Tool | Best For | Cost | Setup Time |
 | --- | --- | --- | --- |
 | Trello | Teams up to 6 people | Free tier available | Minimal |
-| HacknPlan | Game dev teams (Studio tier) | ~$5/user/month | Moderate |
+| HacknPlan | Game dev teams (Studio tier) | Free tier and paid plans | Moderate |
 | Jira | Larger indie teams with publisher support | Variable | ~1 week |
 
 The default "To Do / Doing / Done" setup will work at first. But games have a production reality that most kanban templates ignore: assets, mechanics, and content have multiple distinct states that matter differently to different people on the team.
@@ -62,7 +62,7 @@ Let me break down the non-obvious ones.
 
 "In Integration" is the column most teams skip and then suffer for. It covers the gap between "this asset/feature works in isolation" and "this thing actually works in the current build." On a Unity or Unreal project, integration is real, non-trivial work, and pretending it doesn't exist as its own stage creates invisible crunch.
 
-Tool recommendation: for teams up to about six people, I genuinely like **Trello** (free tier is enough to start) or **Hacknplan**, which was built specifically for game dev and has built-in task types for art, code, design, and audio. HacknPlan's current pricing as of June 2026 runs around $5 per user per month for the Studio tier, and it's worth it if your team is even slightly serious. For larger indie teams or anyone with a publisher relationship, **Jira** works but you'll spend a week configuring it before it stops fighting you.
+Tool recommendation: for teams up to about six people, I genuinely like **Trello** (free tier is enough to start) or **Hacknplan**, which was built specifically for game dev and has built-in task types for art, code, design, and audio. HacknPlan has a free tier and paid plans per user, and it is worth it if your team is even slightly serious. For larger indie teams or anyone with a publisher relationship, **Jira** works but you'll spend a week configuring it before it stops fighting you.
 
 ## The WIP Limit Thing (Most Teams Skip This and It Kills Them)
 
@@ -82,14 +82,13 @@ I'd be doing you a disservice if I didn't acknowledge this: kanban is a flow too
 
 The most common failure mode I see is tasks that are too large. "Make the combat system" is not a kanban task. It will sit in "In Progress" for three months, the column will technically not look blocked, and you'll have no idea whether you're making progress. Break it down. "Implement basic melee hitbox detection" is a task. "First pass on combo animation states" is a task. If a card takes more than three or four days for one person, it should probably be two cards.
 
-The second failure mode: teams that update the board religiously during the first month, then let it drift when things get busy. I've watched this happen on probably eight or nine projects. The board becomes stale, people stop trusting it, and they go back to Slack threads and memory. The fix is a short, mandatory weekly board review (30 minutes, no longer), where everyone moves their cards and flags blockers. Ship it or skip it. There's no middle ground; a half-maintained board is genuinely worse than no board.
+The second failure mode: teams that update the board religiously during the first month, then let it drift when things get busy. It happens on a lot of projects. The board becomes stale, people stop trusting it, and they go back to Slack threads and memory. The fix is a short, mandatory weekly board review (30 minutes, no longer), where everyone moves their cards and flags blockers. Ship it or skip it. There's no middle ground; a half-maintained board is genuinely worse than no board.
 
 One book I recommend here without reservation: *Kanban: Successful Evolutionary Change for Your Technology Business* by David J. Anderson. It's the closest thing to a canonical text on modern kanban practice. It's written for software teams but translates cleanly.
 
 ## Sources
 
 - Anderson, David J. *Kanban: Successful Evolutionary Change for Your Technology Business* (2010): The foundational text on kanban for software and knowledge work; covers WIP limits and flow metrics in depth.
-- Conboy, K. et al. "A Large-Scale Study of the Effect of Agile Methods on Software Quality." *Journal of Software: Evolution and Process* (2018): Comparative analysis of agile methodologies on small creative software teams, including kanban vs. Scrum performance.
 - HacknPlan Official Documentation (hacknplan.com): Game-dev-specific project management tool with built-in task categorization for different production disciplines.
 - Atlassian Kanban Guide (atlassian.com/agile/kanban): Well-maintained reference for kanban fundamentals including WIP limits and board setup; Trello and Jira integration guidance.
 - *The Game Production Handbook*, Heather Maxwell Chandler (3rd ed.): Covers production methodologies for game teams, including lightweight agile approaches suited to small studios.
