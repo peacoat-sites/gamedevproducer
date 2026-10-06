@@ -1,5 +1,5 @@
 ---
-title: "Stop Managing Game Vendors Alone: A Better Way"
+title: "Outsource Vendor Management for Game Producers: Briefs, Payments and Scorecards"
 date: 2026-05-27T02:53:41.747909+00:00
 draft: false
 description: "Discover how outsourcing vendor management helps game producers save time, cut costs, and streamline development by letting experts handle supplier relationship"

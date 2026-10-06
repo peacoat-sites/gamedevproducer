@@ -1,5 +1,5 @@
 ---
-title: "Stop Losing Developers to Burnout: Plan Team Capacity Right"
+title: "Capacity Planning for Game Development Teams: A Practical Guide"
 date: 2026-05-28T22:07:45.713676+00:00
 draft: false
 description: "Plan game dev team capacity effectively with proven strategies. Learn to balance workloads, allocate resources, and hit deadlines without burning out your team."

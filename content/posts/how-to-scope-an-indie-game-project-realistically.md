@@ -1,5 +1,5 @@
 ---
-title: "Stop Overscoping Your Indie Game Before It Kills Your Project"
+title: "How to Scope an Indie Game Project Realistically"
 date: 2026-05-31T11:11:35.901305+00:00
 draft: false
 description: "Learn how to scope an indie game project realistically with practical tips on setting limits, cutting features, and shipping a finished game without burning out"

@@ -1,5 +1,5 @@
 ---
-title: "Stop Burnout Before Your Dev Team Quits"
+title: "Preventing Burnout on Game Dev Teams: Practical Steps for Producers"
 date: 2026-05-28T18:49:43.845416+00:00
 draft: false
 description: "Learn practical strategies to prevent burnout on game dev teams, improve work-life balance, boost morale, and keep your crew motivated through crunch and beyond"

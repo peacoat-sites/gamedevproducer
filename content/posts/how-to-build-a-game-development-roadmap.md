@@ -11,6 +11,8 @@ author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Un
 slug: "how-to-build-a-game-development-roadmap"
 affiliate_disclosure: true
 faqs:
+  - q: "What is a content roadmap?"
+    a: "A content roadmap is the plan for what new content a game releases after launch, and when: seasons, events, updates, new modes and the production work behind each one. It is the central planning document for live-service games, built backward from release dates, and a healthy one shows two or three content beats in production at once."
   - q: "How far out should a game development roadmap go?"
     a: "For most projects, plan in detail for the next three to four months and keep everything beyond that at milestone granularity. If your total production timeline is under 18 months, you can sketch the full arc. Beyond 24 months, detailed long-range planning is mostly fiction."
   - q: "What's the difference between a roadmap and a production schedule?"

@@ -1,5 +1,5 @@
 ---
-title: "Stop Feature Creep Before It Kills Your Game"
+title: "Scope Creep in Game Development: How to Prevent It Without Killing Creativity"
 date: 2026-05-21T19:57:14.185998+00:00
 draft: false
 description: "Learn proven strategies to prevent scope creep in game development, keep projects on track, meet deadlines, and deliver polished games without budget overruns."
