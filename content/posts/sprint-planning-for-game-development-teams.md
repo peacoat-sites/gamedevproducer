@@ -23,7 +23,7 @@ faqs:
    a: "Track completed story points per sprint and average over at least 6 sprints before you trust the number for forecasting. Earlier than that, you're averaging noise. Also track carryover points separately. A team that completes 40 points but carries 15 into the next sprint doesn't have 40-point velocity. They have a carryover problem disguised by a velocity number."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-10-06
 ---
 You're three sprints into your new project, the board looks clean, velocity feels steady, and then a senior animator drops a task that reads "character rig polish" estimated at 3 points. Two weeks later it's still open, now flagged at 11 points, and the feature it was blocking has slipped. Nobody lied. Nobody was lazy. The estimate was just wrong in a way nobody caught during planning. That's not an execution problem. That's a sprint planning problem.
 
@@ -67,13 +67,13 @@ The better version can be estimated. It can be blocked or unblocked. It has a cl
 
 Sprint planning doesn't end at the planning meeting. What kills more sprints than estimation errors is uncontrolled mid-sprint additions from leadership. A creative director plays a build on day 6 and drops three new requests into the board. This isn't malicious. It's how creative people engage with their work.
 
-Build a formal swap protocol. New work in means old work out, with the same point weight, agreed by the team not just the producer. Document the swap in your project management tool so velocity data stays accurate. Jira, Shortcut (formerly Clubhouse), and Hack'n'Plan all support this without much friction. Hack'n'Plan is specifically built for games and handles this better than generic PM tools.
+Build a formal swap protocol. New work in means old work out, with the same point weight, agreed by the team not just the producer. Document the swap in your project management tool so velocity data stays accurate. Jira, Shortcut (formerly Clubhouse) and HacknPlan all support this without much friction. HacknPlan is specifically built for games and handles this better than generic PM tools.
 
 ## Books and Courses That Actually Help
 
-*[Agile Game Development](/posts/agile-game-development-what-actually-works-in-practice/)* by Clinton Keith is the closest thing the industry has to a canonical reference. Keith worked at Pandemic Studios and writes with actual production credibility.
+*[Agile Game Development](/posts/agile-game-development-what-actually-works-in-practice/)* by Clinton Keith is the closest thing the industry has to a canonical reference. Keith led agile adoption as a studio CTO before becoming a coach and trainer, and writes with real production credibility.
 
-For broader production fundamentals, the Game Production Masterclass on Udemy by Mighty Studios covers sprint workflows for small-to-mid teams at a price point that won't feel wasted.
+For broader production fundamentals, *The Game Production Handbook* by Heather Maxwell Chandler covers planning and workflows for teams of every size.
 
 On tools: Hack'n'Plan is worth a serious look for any team under 50 people. Jira remains the industry standard at scale, though the setup cost is real. Notion works surprisingly well for indie teams that need lightweight sprint boards without infrastructure overhead. Confluence paired with Jira is the right call for documentation-heavy teams. Google Workspace is fine until it isn't. The tool matters less than the discipline of maintaining it.
 

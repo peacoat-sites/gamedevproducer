@@ -1,6 +1,7 @@
 ---
 title: "Games as a Service Roadmap: Build Your Live Game Plan"
 date: 2026-07-27T11:46:50.647580+00:00
+lastmod: 2026-10-06
 draft: false
 description: "Create a winning GaaS roadmap with strategies for content updates, player retention, monetization, and long-term engagement that keep players coming back."
 image: "/img/heroes/7776195.jpg"
@@ -27,7 +28,7 @@ faqs:
 
 Most GaaS roadmap advice focuses on cadence. Post updates every six weeks, keep a backlog, run sprints. That's [project management](/posts/best-project-management-tools-for-game-studios/), not a roadmap. A roadmap is a strategic commitment about what your game is trying to become, expressed as a sequence of player-facing moments over time. Getting that wrong is how you end up with a live game that's technically shipping content and still dying.
 
-I've seen this mistake made at scale. A studio I consulted for in the mid-2010s had a 12-month content calendar that looked great in a slide deck. New skins every two weeks, a seasonal event every quarter, a major update every six months. The cadence was perfect. The problem was that none of it connected. Players finished the seasonal event and had no reason to come back for the next one. The roadmap was a schedule disguising itself as a strategy.
+This mistake happens at scale. Picture a 12-month content calendar that looks great in a slide deck. New skins every two weeks, a seasonal event every quarter, a major update every six months. The cadence is perfect. The problem is that none of it connects. Players finish the seasonal event with no reason to come back for the next one. The roadmap is a schedule disguised as a strategy.
 
 Here's what [actually works](/posts/agile-game-development-what-actually-works-in-practice/), and why the conventional advice keeps getting this wrong.
 
@@ -37,7 +38,7 @@ Here's what [actually works](/posts/agile-game-development-what-actually-works-i
 
 ## Why Most GaaS Roadmaps Die Before Year Two
 
-The survival math on live games is brutal. Based on data from mobile and PC live games tracked by Newzoo and GameAnalytics over several reporting periods, most GaaS titles lose 60-70% of their day-one player base within 30 days. The ones that survive to year two have one thing in common: their roadmap was built around retention mechanics, not content volume.
+The survival math on live games is brutal: most live games lose the large majority of their day-one players within the first month. The ones that survive to year two have one thing in common: their roadmap was built around retention mechanics, not content volume.
 
 Volume is a trap. You can ship a cosmetic bundle every two weeks indefinitely and watch your DAU erode steadily because cosmetics don't give players a reason to care about tomorrow. What retains players is progression state. If a player has something to work toward, something almost finished, something they're curious about, they log in. Your roadmap's job is to manufacture that state continuously and sequentially.
 
@@ -71,7 +72,7 @@ Players move through recognizable phases: acquisition, activation (that first 1-
 
 When I first built a live roadmap, I organized it by content type (cosmetics, balance patches, story content). Seemed logical. What I actually needed was to organize it by which lifecycle bucket I was serving. Those are not the same thing, and realizing the difference changed how I staffed and sequenced everything.
 
-A worked example from a mid-size PC title I advised: their 90-day retention was at 11%, significantly below the 18-22% benchmark for their genre. Their roadmap had three cosmetic drops and a balance patch scheduled for months two and three. We moved a faction reputation system to month two instead, pushed one cosmetic drop to month four, and tied the system launch to a narrative event that teased the month-four content. Ninety-day retention climbed to 19% over the following two cycles. The content volume didn't change. The sequencing did.
+Here is what sequencing for retention looks like. Suppose a game's 90-day retention is weak, and its roadmap for months two and three is three cosmetic drops and a balance patch. Moving a progression system, such as faction reputation, into month two, pushing a cosmetic drop back, and tying the system's launch to a narrative event that teases later content gives mid-game players a reason to stay. The content volume doesn't change. The sequencing does.
 
 ## Building the Internal Roadmap vs. the Public One
 
@@ -87,31 +88,30 @@ The practical cadence that works, based on what I've seen ship successfully: upd
 
 You can't separate this from content planning, even though most teams try to. The studio finance team wants predictable monetization windows. Your design team wants the content to feel good. Those goals are in tension, and your roadmap is where that tension either gets managed or explodes.
 
-The practical reality, as of mid-2026: a battle pass with a $9.99 price point remains the baseline expectation for PC and console GaaS titles. Players have largely accepted the model. What they haven't accepted is a battle pass that doesn't connect to the narrative or feel-good moment of the current season. If your roadmap has the battle pass launching two weeks after the season's story content ends, you've already missed your monetization window.
+The practical reality: a battle pass at around a $10 price point is a familiar expectation for many PC and console live games. Players have largely accepted the model. What they haven't accepted is a battle pass that doesn't connect to the narrative or feel-good moment of the current season. If your roadmap has the battle pass launching two weeks after the season's story content ends, you've already missed your monetization window.
 
 Sequence it like this: narrative hook (week 1 of season), battle pass launch (day one of season or week 1 simultaneously), mid-season content drop to re-engage lapsed players (week 5-6), season finale event (week 8-10), and a teaser for next season at finale. That's a flywheel. Every beat creates a reason to engage with the monetization layer, without the monetization being the reason to engage.
 
-A worked example in reverse: a mobile RPG I tracked shipped their premium currency bundle promotion two weeks before a major content drop instead of the week of. Revenue for that week was 34% below forecast. The content drop drove a 40% DAU spike that the monetization team completely missed. Coordination between your narrative beats and your store events isn't a nice-to-have. It's where you're leaving money on the table if you get it wrong.
+The reverse mistake is just as common: a store promotion that runs two weeks before a major content drop instead of during it misses the moment when engagement, and spending intent, peaks. Coordination between your narrative beats and your store events isn't a nice-to-have. It's where you're leaving money on the table if you get it wrong.
 
 ## Tools Worth Actually Using
 
-For internal roadmap tracking, Jira is still the industry default and I'd use it even if I find it annoying, because everyone knows it and integration support is unmatched. At around $8.15 per user per month (Standard tier, current pricing), it's not expensive for a team of twenty. If you want something lighter, Notion with a custom database template can handle H1-H2 planning well for teams under fifteen, and it's considerably cheaper.
+For internal roadmap tracking, Jira is still the industry default and I'd use it even if I find it annoying, because everyone knows it and integration support is unmatched. Its paid plans are per user, which is not expensive for a team of twenty. If you want something lighter, Notion with a custom database template can handle H1-H2 planning well for teams under fifteen, and it's considerably cheaper.
 
-For the player lifecycle and metrics side, GameAnalytics is free at the base tier and gives you the cohort retention curves you need to validate your roadmap assumptions. Amplitude costs more ($995/month for their Starter plan) but the funnel analysis and behavioral segmentation are better for a game with complex progression systems. I'd start with GameAnalytics and move to Amplitude when you have the data volume to justify it.
+For the player lifecycle and metrics side, GameAnalytics is free at the base tier and gives you the cohort retention curves you need to validate your roadmap assumptions. Amplitude goes further on funnel analysis and behavioral segmentation, which matters for a game with complex progression systems. I'd start with GameAnalytics and move to Amplitude when you have the data volume to justify it.
 
-For stakeholder-facing roadmap communication, ProductPlan ($49/editor/month) produces clean visual roadmaps that look good in pitch decks and executive reviews. It's not a project management tool. It's a communication tool. That distinction matters.
+For stakeholder-facing roadmap communication, ProductPlan produces clean visual roadmaps that look good in pitch decks and executive reviews. It's not a project management tool. It's a communication tool. That distinction matters.
 
-On the reading side: "The Art of Game Design" by Jesse Schell (3rd edition) has surprisingly strong thinking on player experience over time that maps directly to roadmap sequencing. "Sprint" by Jake Knapp from Google Ventures isn't game-specific but the decision-making frameworks apply directly to H2 planning. For live-service-specific depth, the GDC Vault has a Ryan Rigney talk from the Warframe team on long-term roadmap communication that's one of the best practical breakdowns I've found, free to access.
+On the reading side: "The Art of Game Design" by Jesse Schell (3rd edition) has surprisingly strong thinking on player experience over time that maps directly to roadmap sequencing. "Sprint" by Jake Knapp from Google Ventures isn't game-specific but the decision-making frameworks apply directly to H2 planning. For live-service depth, search the GDC Vault for postmortems and talks from long-running live games on how they plan and communicate roadmaps. For the scheduling side of a launch, the [game development schedule planner](/game-development-schedule-planner/) has a live-service mode with technical tests, soft launch and season readiness.
 
 
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical GaaS player retention by lifecycle stage</div><div class="sc-row"><span class="sc-label">Day 1</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">100 % of Day</span></div><div class="sc-row"><span class="sc-label">Day 7</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">40 % of Day</span></div><div class="sc-row"><span class="sc-label">Day 30</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">22 % of Day</span></div><div class="sc-row"><span class="sc-label">Day 90</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">14 % of Day</span></div><div class="sc-row"><span class="sc-label">Day 180</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">9 % of Day</span></div><div class="sc-src">Source: GameAnalytics Live Benchmarks 2025</div></div>
+
 
 
 ## Sources
 
-- GameAnalytics Live Benchmarks Report (2025): Industry retention benchmarks across 4,000+ mobile and PC live games, covering D1, D7, D30, D90 cohort data.
+- [GameAnalytics](https://gameanalytics.com/): free analytics, including cohort retention, for validating roadmap assumptions.
 - Newzoo Global Games Market Report (2025): Market sizing, player behavior data, and live service revenue trend analysis for PC and console titles.
-- GDC Vault, "Warframe: How We Communicate Our Roadmap to Players" (Ryan Rigney, Digital Extremes): Practical breakdown of internal vs. external roadmap management for a long-running live title. Free access at gdcvault.com.
 - Osterwalder, A. & Pigneur, Y., "Business Model Generation" (2010): Strategic horizon planning frameworks applicable to live game product strategy.
 - Schell, J., "The Art of Game Design: A Book of Lenses" (3rd ed., 2019): Player experience lifecycle frameworks with direct applications to content sequencing.
 
