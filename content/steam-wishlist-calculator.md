@@ -11,8 +11,6 @@ author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Un
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
 ---
-# Steam Wishlist Calculator
-
 This free Steam wishlist calculator estimates your launch-week sales from your wishlist count, using community-derived conversion rates and the Boxleiter Method benchmarks.
 
 
