@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "count": 36,
   "items": [
+    {
+      "source": "Game Developer",
+      "title": "Unity unveils Unity Spark, an prompt-based tool for Google's AI games platform",
+      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
+      "date": "2026-10-07"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Unity unveils a web-based AI game creation platform",
+      "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
+      "date": "2026-10-07"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Asha Sharma reportedly informs staff that Xbox has \"started to return to growth\" during internal town hall",
+      "url": "https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall",
+      "date": "2026-10-07"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "GamesIndustry.biz to host panel at Game Republic's Investment Summit at MCM Comic Con October 2026",
+      "url": "https://www.gamesindustry.biz/gamesindustrybiz-to-host-panel-at-game-republics-investment-summit-at-mcm-comic-con-october-2026",
+      "date": "2026-10-07"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger",
+      "url": "https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger",
+      "date": "2026-10-07"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Google debuts new 'experimental' AI game platform named Google Playground",
+      "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+      "date": "2026-10-06"
+    },
+    {
+      "source": "Game Developer",
+      "title": "GameStop, other retailers to sell used PlayStation 5 Pro units for 66 percent over MSRP",
+      "url": "https://www.gamedeveloper.com/console/gamestop-other-retailers-to-sell-used-playstation-5-pro-units-for-66-percent-over-msrp",
+      "date": "2026-10-06"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Undead Labs studio head says they were 'irresponsibly transparent' in preparing staff for layoffs",
+      "url": "https://www.gamedeveloper.com/business/unlead-labs-studio-head-says-they-were-irresponsibly-transparent-in-preparing-staff-for-layoffs",
+      "date": "2026-10-06"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Co-dev case study: How Blackbird Interactive and Secret Mode helped Escape the Backrooms ride the Backrooms hype wave",
+      "url": "https://www.gamedeveloper.com/production/co-dev-case-study-how-blackbird-interactive-and-secret-mode-helped-escape-the-backrooms-ride-the-backrooms-hype-wave",
+      "date": "2026-10-06"
+    },
     {
       "source": "GamesIndustry.biz",
       "title": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments",
@@ -33,6 +87,18 @@
       "date": "2026-10-06"
     },
     {
+      "source": "Game World Observer",
+      "title": "How We Took Tiny Eden from 4,800 Wishlists to $700,000 in Its First Two Weeks: A Digital Vortex Publisher Case Study",
+      "url": "https://gameworldobserver.com/2026/10/06/how-we-took-tiny-eden-from-4800-wishlists-to-700000-in-its-first-two-weeks-a-digital-vortex-publisher-case-study",
+      "date": "2026-10-06"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "San Diego authorities have filed a lawsuit against AppLovin over adult advertisements in children’s games",
+      "url": "https://gameworldobserver.com/2026/10/06/san-diego-authorities-have-filed-a-lawsuit-against-applovin-over-adult-advertisements-in-childrens-games",
+      "date": "2026-10-06"
+    },
+    {
       "source": "Game Developer",
       "title": "Report: Ninja Theory lays off workers after failing to spin off from Xbox",
       "url": "https://www.gamedeveloper.com/business/report-ninja-theory-lays-off-workers-after-failing-to-spin-off-from-xbox",
@@ -60,30 +126,6 @@
       "source": "GamesIndustry.biz",
       "title": "Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech",
       "url": "https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech",
-      "date": "2026-10-05"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "\"It's less risky to be the masters of our own fate\" – The AAA developers going indie",
-      "url": "https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie",
-      "date": "2026-10-05"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
-      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
-      "date": "2026-10-05"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Disney president and CCO dismisses rumours of Epic Games buyout: \"Those are not the conversations we are having right now\"",
-      "url": "https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now",
-      "date": "2026-10-05"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing",
-      "url": "https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing",
       "date": "2026-10-05"
     },
     {
@@ -141,40 +183,10 @@
       "date": "2026-09-29"
     },
     {
-      "source": "Game Developer",
-      "title": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games",
-      "url": "https://www.gamedeveloper.com/business/former-dying-light-franchise-lead-joins-bloober-team-horror-imprint-broken-mirror-games",
-      "date": "2026-09-29"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Naughty Dog is working on new The Last Of Us 'projects'",
-      "url": "https://www.gamedeveloper.com/console/naughty-dog-is-working-on-new-the-last-of-us-projects-",
-      "date": "2026-09-29"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Control Resonant director lays out case for avoiding excessive 'yellow paint'",
-      "url": "https://www.gamedeveloper.com/design/control-resonant-director-lays-out-case-for-avoiding-excessive-yellow-paint-",
-      "date": "2026-09-29"
-    },
-    {
-      "source": "Game Developer",
-      "title": "'We were constantly overshooting our capacity:' Arc Raiders exec says success resulted in burnout",
-      "url": "https://www.gamedeveloper.com/production/-we-were-constantly-overshooting-our-capacity-arc-raiders-exec-explains-success-resulted-in-burnout",
-      "date": "2026-09-29"
-    },
-    {
       "source": "Game World Observer",
       "title": "The remaster of The Witcher 3 will earn millions of dollars by the end of the year, according to Polish analysts",
       "url": "https://gameworldobserver.com/2026/09/29/the-remaster-of-the-witcher-3-will-earn-millions-of-dollars-by-the-end-of-the-year-according-to-polish-analysts",
       "date": "2026-09-29"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Microsoft CEO says Xbox is simply 'streamlining' after cutting over 5,750 jobs in three years",
-      "url": "https://www.gamedeveloper.com/production/microsoft-ceo-says-xbox-is-streamlining-after-laying-off-5-750-workers-in-three-years",
-      "date": "2026-09-28"
     },
     {
       "source": "Game World Observer",
@@ -205,18 +217,6 @@
       "title": "Official: XBOX to lay off 268 employees, and Ninja Theory faces potential closure",
       "url": "https://gameworldobserver.com/2026/09/22/official-xbox-to-lay-off-268-employees-and-ninja-theory-faces-potential-closure",
       "date": "2026-09-22"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Microsoft has come up with a way to add ads to loading screens and cutscenes",
-      "url": "https://gameworldobserver.com/2026/09/21/microsoft-has-come-up-with-a-way-to-add-ads-to-loading-screens-and-cutscenes",
-      "date": "2026-09-21"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "NZGDC 2026: New Zealand’s games conference returns to Auckland after nearly a decad",
-      "url": "https://gameworldobserver.com/2026/09/18/nzgdc-2026-new-zealands-games-conference-returns-to-auckland-after-nearly-a-decad",
-      "date": "2026-09-18"
     }
   ]
 }
