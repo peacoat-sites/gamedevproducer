@@ -1,10 +1,10 @@
 {
- "as_of": "2026-10-06",
+ "as_of": "2026-10-12",
  "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
  "summary": {
   "free_count": 7,
   "paid_count": 8,
-  "avg_paid_price": "$21.99",
+  "avg_paid_price": "$27.93",
   "top3_ccu_share": 66
  },
  "games": [
@@ -32,8 +32,8 @@
    "developer": "Facepunch Studios",
    "owners": "20,000,000 - 50,000,000",
    "ccu": 143870,
-   "price": "$19.99",
-   "price_num": 19.99
+   "price": "$39.99",
+   "price_num": 39.99
   },
   {
    "rank": 4,
@@ -50,8 +50,8 @@
    "developer": "Wallpaper Engine Team",
    "owners": "20,000,000 - 50,000,000",
    "ccu": 91184,
-   "price": "$3.99",
-   "price_num": 3.99
+   "price": "$4.99",
+   "price_num": 4.99
   },
   {
    "rank": 6,
@@ -95,8 +95,8 @@
    "developer": "Arrowhead Game Studios",
    "owners": "20,000,000 - 50,000,000",
    "ccu": 53399,
-   "price": "$29.99",
-   "price_num": 29.99
+   "price": "$39.99",
+   "price_num": 39.99
   },
   {
    "rank": 11,
@@ -113,8 +113,8 @@
    "developer": "ConcernedApe",
    "owners": "20,000,000 - 50,000,000",
    "ccu": 50662,
-   "price": "$10.49",
-   "price_num": 10.49
+   "price": "$14.99",
+   "price_num": 14.99
   },
   {
    "rank": 13,
@@ -131,8 +131,8 @@
    "developer": "Behaviour Interactive Inc.",
    "owners": "20,000,000 - 50,000,000",
    "ccu": 44886,
-   "price": "$7.99",
-   "price_num": 7.99
+   "price": "$19.99",
+   "price_num": 19.99
   },
   {
    "rank": 15,
