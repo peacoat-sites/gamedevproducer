@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "count": 36,
   "items": [
+    {
+      "source": "GamesIndustry.biz",
+      "title": "The happiest man in gaming hates generative AI",
+      "url": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Group behind GTA 6 leaks threatens to release alleged full build of game including story mode",
+      "url": "https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode",
+      "date": "2026-10-12"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "Nintendo does not plan to stop releasing physical versions of games",
+      "url": "https://gameworldobserver.com/2026/10/12/nintendo-does-not-plan-to-stop-releasing-physical-versions-of-games",
+      "date": "2026-10-12"
+    },
     {
       "source": "Game Developer",
       "title": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
@@ -96,18 +114,6 @@
       "source": "GamesIndustry.biz",
       "title": "NBA 2K27 tops US August charts, becomes third-best selling game of 2026 | US Monthly Charts",
       "url": "https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts",
-      "date": "2026-10-08"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Hell Let Loose developer Expression opens new studio in Manchester \"in response to what's happening in the talent market\"",
-      "url": "https://www.gamesindustry.biz/hell-let-loose-developer-expression-opens-new-studio-in-manchester-in-response-to-whats-happening-in-the-talent-market",
-      "date": "2026-10-08"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Gardens Interactive, founded by veterans behind Journey and Sky: Children of the Light, raises over $35m in Series B funding round",
-      "url": "https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round",
       "date": "2026-10-08"
     },
     {
@@ -211,12 +217,6 @@
       "title": "Games with which tags are popular on the Steam Deck — statistics from GameDiscoverCo",
       "url": "https://gameworldobserver.com/2026/09/28/games-with-which-tags-are-popular-on-the-steam-deck-statistics-from-gamediscoverco",
       "date": "2026-09-28"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Epic Games is seeking to claim 100 million euros due to “dark patterns” in Fortnite",
-      "url": "https://gameworldobserver.com/2026/09/25/epic-games-is-seeking-to-claim-100-million-euros-due-to-dark-patterns-in-fortnite",
-      "date": "2026-09-25"
     }
   ]
 }
