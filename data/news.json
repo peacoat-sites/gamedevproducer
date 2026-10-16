@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "count": 36,
   "items": [
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Game Republic New Horizons 2026 attendance grew 76% to over 461 visitors",
+      "url": "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected",
+      "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it \"falls short of both your expectations and our own standards\"",
+      "url": "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam",
+      "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
+      "date": "2026-10-15"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "DayZ creator Dean Hall releases open-source game development framework Brutal",
+      "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
+      "date": "2026-10-15"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Reforj developer 4J Studios announces PC release date at Game Republic New Horizons",
+      "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
+      "date": "2026-10-15"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "An oral history of the Tomb Raider game no one wanted to make",
+      "url": "https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make",
+      "date": "2026-10-15"
+    },
     {
       "source": "GamesIndustry.biz",
       "title": "House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign",
@@ -18,6 +60,12 @@
       "source": "GamesIndustry.biz",
       "title": "Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of \"proposed voluntary departure plan\"",
       "url": "https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan",
+      "date": "2026-10-15"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "Steam is experiencing “wishlist inflation,” but they are still important — analysis",
+      "url": "https://gameworldobserver.com/2026/10/15/steam-is-experiencing-wishlist-inflation-but-they-are-still-important-analysis",
       "date": "2026-10-15"
     },
     {
@@ -48,42 +96,6 @@
       "source": "GamesIndustry.biz",
       "title": "Funcom to lay off staff as it pivots to focusing solely on Conan Exiles and Dune: Awakening",
       "url": "https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening",
-      "date": "2026-10-14"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "\"I wanted to make the show I wanted to watch\" – How Galaxies found a place in the crowded showcase landscape",
-      "url": "https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape",
-      "date": "2026-10-14"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "How to run an indie game studio: Part 3, Dealing with issues",
-      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues",
-      "date": "2026-10-14"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Casual game marketplace Legacy Games to close online store this December",
-      "url": "https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december",
-      "date": "2026-10-14"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Rockstar's next game won't take eight years to make: \"The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly\"",
-      "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
-      "date": "2026-10-14"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "ESA flags retro console maker Anbernic for inclusion on US government's Notorious Market List",
-      "url": "https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list",
-      "date": "2026-10-14"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio",
-      "url": "https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio",
       "date": "2026-10-14"
     },
     {
@@ -171,12 +183,6 @@
       "date": "2026-10-07"
     },
     {
-      "source": "Game Developer",
-      "title": "Unity unveils Unity Spark, an prompt-based tool for Google's AI game platform",
-      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-      "date": "2026-10-07"
-    },
-    {
       "source": "Game World Observer",
       "title": "Google has introduced an AI platform for game development directly in the browser. Unity is also",
       "url": "https://gameworldobserver.com/2026/10/07/google-has-introduced-an-ai-platform-for-game-development-directly-in-the-browser-unity-is-also",
@@ -211,12 +217,6 @@
       "title": "GCAP 2026: Alanah Pearce, Housemarque and Mixtape developers to headline Melbourne conference",
       "url": "https://gameworldobserver.com/2026/10/01/gcap-2026-alanah-pearce-housemarque-and-mixtape-developers-to-headline-melbourne-conference",
       "date": "2026-10-01"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Valve will make the “Discounts and Events” section on Steam more personalized",
-      "url": "https://gameworldobserver.com/2026/09/30/valve-will-make-the-discounts-and-events-section-on-steam-more-personalized",
-      "date": "2026-09-30"
     }
   ]
 }
