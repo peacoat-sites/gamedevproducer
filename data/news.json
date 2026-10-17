@@ -1,10 +1,28 @@
 {
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "count": 36,
   "items": [
     {
       "source": "GamesIndustry.biz",
-      "title": "Game Republic New Horizons 2026 attendance grew 76% to over 461 visitors",
+      "title": "A hardware market freeze could transform the industry forever | Opinion",
+      "url": "https://www.gamesindustry.biz/a-hardware-market-freeze-could-transform-the-industry-forever-opinion",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "How Star Wars: Galactic Racer kept the core team small and sustainable through \"distributed development\"",
+      "url": "https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors",
       "url": "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors",
       "date": "2026-10-16"
     },
@@ -18,6 +36,12 @@
       "source": "GamesIndustry.biz",
       "title": "Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it \"falls short of both your expectations and our own standards\"",
       "url": "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards",
+      "date": "2026-10-16"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "In the United States, a proposal has been made to legally grant gamers ownership rights to digital versions of games",
+      "url": "https://gameworldobserver.com/2026/10/16/in-the-united-states-a-proposal-has-been-made-to-legally-grant-gamers-ownership-rights-to-digital-versions-of-games",
       "date": "2026-10-16"
     },
     {
@@ -81,24 +105,6 @@
       "date": "2026-10-14"
     },
     {
-      "source": "GamesIndustry.biz",
-      "title": "Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push",
-      "url": "https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push",
-      "date": "2026-10-14"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Duke Nukem 3D level designer Richard \"Levelord\" Gray dies aged 68",
-      "url": "https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68",
-      "date": "2026-10-14"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Funcom to lay off staff as it pivots to focusing solely on Conan Exiles and Dune: Awakening",
-      "url": "https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening",
-      "date": "2026-10-14"
-    },
-    {
       "source": "Game World Observer",
       "title": "XBOX has opened a division for experimenting with new technologies",
       "url": "https://gameworldobserver.com/2026/10/14/xbox-has-opened-a-division-for-experimenting-with-new-technologies",
@@ -121,6 +127,12 @@
       "title": "Nintendo does not plan to stop releasing physical versions of games",
       "url": "https://gameworldobserver.com/2026/10/12/nintendo-does-not-plan-to-stop-releasing-physical-versions-of-games",
       "date": "2026-10-12"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Busting myths in game writing ft. Bruno Dias, Aysha Farah, & Andrea Saravia Perez",
+      "url": "https://www.gamedeveloper.com/design/busting-myths-in-game-writing-ft-bruno-dias-aysha-farah-andrea-saravia-perez",
+      "date": "2026-10-09"
     },
     {
       "source": "Game Developer",
@@ -177,12 +189,6 @@
       "date": "2026-10-07"
     },
     {
-      "source": "Game Developer",
-      "title": "Electronic Arts' leveraged buyout faces a bondholder battle",
-      "url": "https://www.gamedeveloper.com/business/electronic-arts-leveraged-buyout-faces-a-bondholder-battle",
-      "date": "2026-10-07"
-    },
-    {
       "source": "Game World Observer",
       "title": "Google has introduced an AI platform for game development directly in the browser. Unity is also",
       "url": "https://gameworldobserver.com/2026/10/07/google-has-introduced-an-ai-platform-for-game-development-directly-in-the-browser-unity-is-also",
@@ -211,12 +217,6 @@
       "title": "Disney is not planning to purchase Epic Games — at least not at the moment",
       "url": "https://gameworldobserver.com/2026/10/02/disney-is-not-planning-to-purchase-epic-games-at-least-not-at-the-moment",
       "date": "2026-10-02"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "GCAP 2026: Alanah Pearce, Housemarque and Mixtape developers to headline Melbourne conference",
-      "url": "https://gameworldobserver.com/2026/10/01/gcap-2026-alanah-pearce-housemarque-and-mixtape-developers-to-headline-melbourne-conference",
-      "date": "2026-10-01"
     }
   ]
 }
