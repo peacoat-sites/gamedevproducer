@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "count": 36,
   "items": [
+    {
+      "source": "GamesIndustry.biz",
+      "title": "GDCA 2027 moves away from nominations-based system, publishers and devs can now submit games for consideration",
+      "url": "https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration",
+      "date": "2026-10-19"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Activision QA United-CWA union vote to authorise strike, claims publisher has \"failed to bargain in good faith over key issues\"",
+      "url": "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
+      "date": "2026-10-19"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "New Croatian conference Splitscreen wants to keep \"that half-holiday, half-work feeling\" of Reboot Develop",
+      "url": "https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop",
+      "date": "2026-10-19"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Samson studio Liquid Swords files for bankruptcy, staff reportedly unpaid for two months",
+      "url": "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months",
+      "date": "2026-10-19"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "The AI state of play: AI laws and game development",
+      "url": "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development",
+      "date": "2026-10-19"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly",
+      "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+      "date": "2026-10-19"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "Mobile game developers from Turkey raised nearly $400 million over 22 months—more than teams from any other countries",
+      "url": "https://gameworldobserver.com/2026/10/19/mobile-game-developers-from-turkey-raised-nearly-400-million-over-22-months-more-than-teams-from-any-other-countries",
+      "date": "2026-10-19"
+    },
     {
       "source": "GamesIndustry.biz",
       "title": "A hardware market freeze could transform the industry forever | Opinion",
@@ -48,42 +90,6 @@
       "source": "Game Developer",
       "title": "Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam",
       "url": "https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "DayZ creator Dean Hall releases open-source game development framework Brutal",
-      "url": "https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Reforj developer 4J Studios announces PC release date at Game Republic New Horizons",
-      "url": "https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "An oral history of the Tomb Raider game no one wanted to make",
-      "url": "https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign",
-      "url": "https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Epic Games claims its new \"vibe coded\" launcher runs 46% faster than Steam from cold start to store page",
-      "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
-      "date": "2026-10-15"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of \"proposed voluntary departure plan\"",
-      "url": "https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan",
       "date": "2026-10-15"
     },
     {
@@ -211,12 +217,6 @@
       "title": "“Games for Teenagers”: Warhorse Studios Co-Founder Tired of Stereotypical RPGs",
       "url": "https://gameworldobserver.com/2026/10/05/games-for-teenagers-warhorse-studios-co-founder-tired-of-stereotypical-rpgs",
       "date": "2026-10-05"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Disney is not planning to purchase Epic Games — at least not at the moment",
-      "url": "https://gameworldobserver.com/2026/10/02/disney-is-not-planning-to-purchase-epic-games-at-least-not-at-the-moment",
-      "date": "2026-10-02"
     }
   ]
 }
