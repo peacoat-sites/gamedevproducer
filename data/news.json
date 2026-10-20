@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "count": 36,
   "items": [
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Japan Actors Union announces guidelines addressing unauthorised use of generative AI to replicate voice performances",
+      "url": "https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting",
+      "date": "2026-10-20"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Sensor Tower data shows the yawning gap between GTA 6 and everything else",
+      "url": "https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else",
+      "date": "2026-10-20"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "GDC Festival of Gaming 2027 moves to four-day format to \"create a higher quality, more focused and valuable experience\"",
+      "url": "https://www.gamesindustry.biz/gdc-festival-of-gaming-2027-moves-to-four-day-format-to-create-a-higher-quality-more-focused-and-valuable-experience",
+      "date": "2026-10-20"
+    },
+    {
+      "source": "Game Developer",
+      "title": "RocketWerkz' C# framework 'BRUTAL' is now available to all developers",
+      "url": "https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers",
+      "date": "2026-10-19"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Moonlighter developer delays public playtest of next game over concerns of AI cloning",
+      "url": "https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning",
+      "date": "2026-10-19"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "PEGI begins moving existing digital-only games with loot boxes up to a 16 rating",
+      "url": "https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating",
+      "date": "2026-10-19"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Wizards of the Coast declines to voluntarily recognize D&D and Studio X union drive",
+      "url": "https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive",
+      "date": "2026-10-19"
+    },
     {
       "source": "GamesIndustry.biz",
       "title": "GDCA 2027 moves away from nominations-based system, publishers and devs can now submit games for consideration",
@@ -22,7 +64,7 @@
     },
     {
       "source": "GamesIndustry.biz",
-      "title": "Samson studio Liquid Swords files for bankruptcy, staff reportedly unpaid for two months",
+      "title": "Liquid Swords CEO confirms studio closure following bankruptcy proceedings",
       "url": "https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months",
       "date": "2026-10-19"
     },
@@ -48,36 +90,6 @@
       "source": "GamesIndustry.biz",
       "title": "A hardware market freeze could transform the industry forever | Opinion",
       "url": "https://www.gamesindustry.biz/a-hardware-market-freeze-could-transform-the-industry-forever-opinion",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "How Star Wars: Galactic Racer kept the core team small and sustainable through \"distributed development\"",
-      "url": "https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US",
-      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors",
-      "url": "https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Fishlabs announces layoffs due to \"changing project requirements,\" development and support teams affected",
-      "url": "https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected",
-      "date": "2026-10-16"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it \"falls short of both your expectations and our own standards\"",
-      "url": "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards",
       "date": "2026-10-16"
     },
     {
@@ -181,18 +193,6 @@
       "title": "On the second day of the WN Yerevan ’26 lecture, a separate ticket for attendees appeared",
       "url": "https://gameworldobserver.com/2026/10/08/on-the-second-day-of-the-wn-yerevan-26-lecture-a-separate-ticket-for-attendees-appeared",
       "date": "2026-10-08"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Star Wars Zero Company developer Bit Reactor brings back 'over half' of furloughed staff",
-      "url": "https://www.gamedeveloper.com/business/star-wars-zero-company-developer-bit-reactor-brings-back-over-half-of-furloughed-staff",
-      "date": "2026-10-07"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Former Activision Blizzard CEO Bobby Kotick named to the board of post-merger Skydance",
-      "url": "https://www.gamedeveloper.com/business/former-activision-ceo-bobby-kotick-named-to-the-board-of-post-merger-skydance",
-      "date": "2026-10-07"
     },
     {
       "source": "Game World Observer",
