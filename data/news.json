@@ -1,17 +1,59 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "count": 36,
   "items": [
     {
       "source": "GamesIndustry.biz",
-      "title": "How Pantaloon is curating an \"evolving library of bold and bizarre games\" with its new subscription service",
-      "url": "https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service",
+      "title": "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised",
+      "url": "https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Call of Duty: Modern Warfare 4 | Critical Consensus",
+      "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop",
+      "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Opinion: Why words matter when we prioritize 'core teams' in game development",
+      "url": "https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs",
+      "date": "2026-10-22"
+    },
+    {
+      "source": "Game Developer",
+      "title": "VR pioneer Owlchemy Labs jumps to XR for its next release",
+      "url": "https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release",
+      "date": "2026-10-22"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "\"It was crushing how hard it was\" – The chaotic development of Dispatch, and what AdHoc Studio plans next",
+      "url": "https://www.gamesindustry.biz/it-was-crushing-how-hard-it-was-the-chaotic-development-of-dispatch-and-what-adhoc-studio-plans-next",
+      "date": "2026-10-22"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2",
+      "url": "https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2",
       "date": "2026-10-22"
     },
     {
       "source": "GamesIndustry.biz",
       "title": "Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026",
       "url": "https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026",
+      "date": "2026-10-22"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "How Pantaloon is curating an \"evolving library of bold and bizarre games\" with its new subscription service",
+      "url": "https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service",
       "date": "2026-10-22"
     },
     {
@@ -48,36 +90,6 @@
       "source": "GamesIndustry.biz",
       "title": "How to run an indie game studio: Part 4, Setting (and hitting) quarterly rocks",
       "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-4-setting-and-hitting-quarterly-rocks",
-      "date": "2026-10-21"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800",
-      "url": "https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800",
-      "date": "2026-10-21"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Indies and original IP blew up in 2026",
-      "url": "https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026",
-      "date": "2026-10-21"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Games like Call of Duty and EA Sports FC most at risk of losing players during GTA 6 launch, according to new data",
-      "url": "https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data",
-      "date": "2026-10-21"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Vivrato: 97% of studio leaders use AI in some form during development in EU and North America",
-      "url": "https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america",
-      "date": "2026-10-21"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Demystifying unions: What games leaders need to know",
-      "url": "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know",
       "date": "2026-10-21"
     },
     {
@@ -168,18 +180,6 @@
       "source": "Game Developer",
       "title": "Busting myths in game writing ft. Bruno Dias, Aysha Farah, & Andrea Saravia Perez",
       "url": "https://www.gamedeveloper.com/design/busting-myths-in-game-writing-ft-bruno-dias-aysha-farah-andrea-saravia-perez",
-      "date": "2026-10-09"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Ubisoft to sunset Rainbow Six Mobile just seven months after launch",
-      "url": "https://www.gamedeveloper.com/mobile/ubisoft-to-sunset-rainbow-six-mobile-just-seven-months-after-launch",
-      "date": "2026-10-09"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Report: Double Fine's union drive collapsed due to miscommunication and culture clash",
-      "url": "https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash",
       "date": "2026-10-09"
     },
     {
