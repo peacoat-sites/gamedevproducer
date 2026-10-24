@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "count": 36,
   "items": [
+    {
+      "source": "Game Developer",
+      "title": "GameMaker's GMRT runtime will soon be free for all developers",
+      "url": "https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "BioWare's end is a tragically familiar tale | Opinion",
+      "url": "https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "GameMaker to make its \"next-generation runtime\" GMRT free for commercial use in January 2027",
+      "url": "https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award",
+      "url": "https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award",
+      "date": "2026-10-23"
+    },
     {
       "source": "GamesIndustry.biz",
       "title": "Capcom affected by data breach, over 11.7m Capcom ID accounts compromised",
@@ -18,6 +42,12 @@
       "source": "GamesIndustry.biz",
       "title": "Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop",
       "url": "https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop",
+      "date": "2026-10-23"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "Epic Games announces AI game jam, faces criticism, then changes rules",
+      "url": "https://gameworldobserver.com/2026/10/23/epic-games-announces-ai-game-jam-faces-criticism-then-changes-rules",
       "date": "2026-10-23"
     },
     {
@@ -72,24 +102,6 @@
       "source": "Game Developer",
       "title": "EA closes Mass Effect, Dragon Age creator BioWare after 30 years of game development",
       "url": "https://www.gamedeveloper.com/business/ea-closes-mass-effect-dragon-age-creator-bioware-after-30-years-of-game-development",
-      "date": "2026-10-21"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "BioWare is closing after 30 years",
-      "url": "https://www.gamesindustry.biz/bioware-is-closing-after-30-years",
-      "date": "2026-10-21"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "AMD's FSR 4.1 upscaling is coming to Xbox Series X|S",
-      "url": "https://www.gamesindustry.biz/amds-fsr-41-upscaling-is-coming-to-xbox-series-xs",
-      "date": "2026-10-21"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "How to run an indie game studio: Part 4, Setting (and hitting) quarterly rocks",
-      "url": "https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-4-setting-and-hitting-quarterly-rocks",
       "date": "2026-10-21"
     },
     {
@@ -177,12 +189,6 @@
       "date": "2026-10-12"
     },
     {
-      "source": "Game Developer",
-      "title": "Busting myths in game writing ft. Bruno Dias, Aysha Farah, & Andrea Saravia Perez",
-      "url": "https://www.gamedeveloper.com/design/busting-myths-in-game-writing-ft-bruno-dias-aysha-farah-andrea-saravia-perez",
-      "date": "2026-10-09"
-    },
-    {
       "source": "Game World Observer",
       "title": "Six new releases immediately entered the top 10 best-selling games in the US by the end of August",
       "url": "https://gameworldobserver.com/2026/10/09/six-new-releases-immediately-entered-the-top-10-best-selling-games-in-the-us-by-the-end-of-august",
@@ -211,12 +217,6 @@
       "title": "San Diego authorities have filed a lawsuit against AppLovin over adult advertisements in children’s games",
       "url": "https://gameworldobserver.com/2026/10/06/san-diego-authorities-have-filed-a-lawsuit-against-applovin-over-adult-advertisements-in-childrens-games",
       "date": "2026-10-06"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "“Games for Teenagers”: Warhorse Studios Co-Founder Tired of Stereotypical RPGs",
-      "url": "https://gameworldobserver.com/2026/10/05/games-for-teenagers-warhorse-studios-co-founder-tired-of-stereotypical-rpgs",
-      "date": "2026-10-05"
     }
   ]
 }
