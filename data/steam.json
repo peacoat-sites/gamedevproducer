@@ -1,10 +1,10 @@
 {
- "as_of": "2026-10-19",
+ "as_of": "2026-10-26",
  "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
  "summary": {
   "free_count": 7,
   "paid_count": 8,
-  "avg_paid_price": "$27.93",
+  "avg_paid_price": "$26.43",
   "top3_ccu_share": 66
  },
  "games": [
@@ -131,8 +131,8 @@
    "developer": "Behaviour Interactive Inc.",
    "owners": "20,000,000 - 50,000,000",
    "ccu": 44886,
-   "price": "$19.99",
-   "price_num": 19.99
+   "price": "$7.99",
+   "price_num": 7.99
   },
   {
    "rank": 15,
