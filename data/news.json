@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "count": 36,
   "items": [
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Gamescom Asia x Thailand Game Show \"most international yet\", attracting nearly 220,000 visitors from 113 countries",
+      "url": "https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-most-international-yet-attracting-nearly-220000-visitors-from-113-countries",
+      "date": "2026-11-02"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "\"We all met by doing improv comedy\" – The Los Angeles indie studio making a comedy game in one of the most expensive places for game dev in the world",
+      "url": "https://www.gamesindustry.biz/we-all-met-by-doing-improv-comedy-the-los-angeles-indie-studio-making-a-comedy-game-in-one-of-the-most-expensive-places-for-game-dev-in-the-world",
+      "date": "2026-11-02"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Among Us VR co-developer Schell Games announces second round of layoffs this year",
+      "url": "https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year",
+      "date": "2026-11-02"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Gang of Dragon developer Nagoshi Studio shutters months after NetEase cut funding",
+      "url": "https://www.gamesindustry.biz/gang-of-dragon-developer-nagoshi-studio-shutters-months-after-netease-cut-funding",
+      "date": "2026-11-02"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "A vital message to people in HR: \"Protecting our own wellbeing is paramount\"",
+      "url": "https://www.gamesindustry.biz/a-vital-message-to-people-in-hr-protecting-our-own-wellbeing-is-paramount",
+      "date": "2026-11-02"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "itch.io has seen a sharp increase in new games — perhaps it’s all thanks to AI",
+      "url": "https://gameworldobserver.com/2026/11/02/itch-io-has-seen-a-sharp-increase-in-new-games-perhaps-its-all-thanks-to-ai",
+      "date": "2026-11-02"
+    },
     {
       "source": "Game Developer",
       "title": "Anthropic orders AI tool Claude to stop remaking video games",
@@ -87,30 +123,6 @@
       "date": "2026-10-29"
     },
     {
-      "source": "GamesIndustry.biz",
-      "title": "\"I wish I had the formula\" – 2Awesome Studio on navigating indie development while creating Altered Alma, its biggest project to date",
-      "url": "https://www.gamesindustry.biz/i-wish-i-had-the-formula-2awesome-studio-on-navigating-indie-development-while-creating-altered-alma-its-biggest-project-to-date",
-      "date": "2026-10-29"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Onimusha, Resident Evil, Pragmata, and Monster Hunter franchises boost Capcom H1 results",
-      "url": "https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster-hunter-franchises-boost-capcom-h1-results",
-      "date": "2026-10-29"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14%",
-      "url": "https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14",
-      "date": "2026-10-29"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "The five golden rules of external development",
-      "url": "https://www.gamesindustry.biz/the-five-golden-rules-of-external-development",
-      "date": "2026-10-29"
-    },
-    {
       "source": "Game World Observer",
       "title": "Valve acknowledges AI clones issue, but has no intend to restrict developers",
       "url": "https://gameworldobserver.com/2026/10/29/valve-acknowledges-ai-clones-issue-but-has-no-intend-to-restrict-developers",
@@ -132,12 +144,6 @@
       "source": "Game Developer",
       "title": "Valve weighs in on Next Fest AI cloning phenomenon",
       "url": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
-      "date": "2026-10-28"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "PressEngine announces The Pre-Show, an in-person London showcase for upcoming games",
-      "url": "https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games",
       "date": "2026-10-28"
     },
     {
@@ -211,12 +217,6 @@
       "title": "Nintendo does not plan to stop releasing physical versions of games",
       "url": "https://gameworldobserver.com/2026/10/12/nintendo-does-not-plan-to-stop-releasing-physical-versions-of-games",
       "date": "2026-10-12"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Six new releases immediately entered the top 10 best-selling games in the US by the end of August",
-      "url": "https://gameworldobserver.com/2026/10/09/six-new-releases-immediately-entered-the-top-10-best-selling-games-in-the-us-by-the-end-of-august",
-      "date": "2026-10-09"
     }
   ]
 }
