@@ -1,7 +1,37 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "count": 36,
   "items": [
+    {
+      "source": "Game Developer",
+      "title": "SAG-AFTRA introduces new process for hiring union actors in game pitches",
+      "url": "https://www.gamedeveloper.com/production/sag-aftra-introduces-new-process-for-using-actors-in-game-pitches",
+      "date": "2026-11-06"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Report: Silver Lake and the Saudi Arabia PIF hold talks with Unity to explore acquisition",
+      "url": "https://www.gamedeveloper.com/business/silver-lake-and-the-saudi-arabia-pif-hold-talks-with-unity-to-explore-acquisition",
+      "date": "2026-11-06"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Sony insists its next-generation console plans are still on schedule",
+      "url": "https://www.gamedeveloper.com/console/sony-insists-next-generation-consoles-are-still-on-schedule-in-new-financial-report",
+      "date": "2026-11-06"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Elections signal cultural shifts that no creative industry can dare to ignore | Opinion",
+      "url": "https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion",
+      "date": "2026-11-06"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices",
+      "url": "https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices",
+      "date": "2026-11-06"
+    },
     {
       "source": "GamesIndustry.biz",
       "title": "Jobs roundup: November | Nordisk Games appoints Stefanía Halldórsdóttir as CEO and Ásgeir Kröyer as CFO",
@@ -75,12 +105,6 @@
       "date": "2026-11-05"
     },
     {
-      "source": "GamesIndustry.biz",
-      "title": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders",
-      "url": "https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders",
-      "date": "2026-11-05"
-    },
-    {
       "source": "Game World Observer",
       "title": "Sony Report: PlayStation profits nearly doubled, while sales of Marvel’s Wolverine reached 2.4 million copies",
       "url": "https://gameworldobserver.com/2026/11/05/sony-report-playstation-profits-nearly-doubled-while-sales-of-marvels-wolverine-reached-2-4-million-copies",
@@ -102,12 +126,6 @@
       "source": "Game Developer",
       "title": "Valve warns of slower Steam approvals, possibly due to AI game surge",
       "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-      "date": "2026-11-04"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Tripwire Presents expands publishing business to support smaller indie developers",
-      "url": "https://www.gamesindustry.biz/tripwire-presents-expands-publishing-business-to-support-smaller-indie-developers",
       "date": "2026-11-04"
     },
     {
@@ -147,28 +165,10 @@
       "date": "2026-11-02"
     },
     {
-      "source": "Game Developer",
-      "title": "The number of game pages doubles on Itch.io as AI games flood the store",
-      "url": "https://www.gamedeveloper.com/pc/number-of-game-pages-doubles-on-itch-io-as-ai-clones-flood-the-store",
-      "date": "2026-11-02"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Zelda producer: Ocarina of Time remake helps junior staff learn classic insights",
-      "url": "https://www.gamedeveloper.com/production/zelda-producer-ocarina-of-time-remake-helps-junior-staff-learn-classic-insights",
-      "date": "2026-11-02"
-    },
-    {
       "source": "Game World Observer",
       "title": "itch.io has seen a sharp increase in new games — perhaps it’s all thanks to AI",
       "url": "https://gameworldobserver.com/2026/11/02/itch-io-has-seen-a-sharp-increase-in-new-games-perhaps-its-all-thanks-to-ai",
       "date": "2026-11-02"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Anthropic orders AI tool Claude to stop remaking video games",
-      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
-      "date": "2026-10-30"
     },
     {
       "source": "Game World Observer",
