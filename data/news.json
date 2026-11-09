@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "count": 36,
   "items": [
+    {
+      "source": "Game Developer",
+      "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
+      "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
+      "date": "2026-11-09"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Will Grand Theft Auto 6 break the internet?",
+      "url": "https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet",
+      "date": "2026-11-09"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion",
+      "url": "https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion",
+      "date": "2026-11-09"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people",
+      "url": "https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people",
+      "date": "2026-11-09"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games",
+      "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games",
+      "date": "2026-11-09"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "The remake of The Legend of Zelda: Ocarina of Time is the second game in the series based on initial retail sales in the UK",
+      "url": "https://gameworldobserver.com/2026/11/09/the-remake-of-the-legend-of-zelda-ocarina-of-time-is-the-second-game-in-the-series-based-on-initial-retail-sales-in-the-uk",
+      "date": "2026-11-09"
+    },
     {
       "source": "Game Developer",
       "title": "SAG-AFTRA introduces new process for hiring union actors in game pitches",
@@ -81,30 +117,6 @@
       "date": "2026-11-05"
     },
     {
-      "source": "GamesIndustry.biz",
-      "title": "Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5",
-      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5",
-      "date": "2026-11-05"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "\"It's such a massively underserved market in the gaming industry\" – The creators of Dressmaker on why more games should be aimed at women",
-      "url": "https://www.gamesindustry.biz/its-such-a-massively-underserved-market-in-the-gaming-industry-the-creators-of-dressmaker-on-why-more-games-should-be-aimed-at-women",
-      "date": "2026-11-05"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "IGN Entertainment promotes Alex Simmons to lead editorial across its portfolio, with Wesley Yin-Poole overseeing IGN",
-      "url": "https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-lead-editorial-across-its-portfolio-with-wesley-yin-poole-overseeing-ign",
-      "date": "2026-11-05"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "PlayStation raises full-year forecast after revenue growth in network services and first-party software",
-      "url": "https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software",
-      "date": "2026-11-05"
-    },
-    {
       "source": "Game World Observer",
       "title": "Sony Report: PlayStation profits nearly doubled, while sales of Marvel’s Wolverine reached 2.4 million copies",
       "url": "https://gameworldobserver.com/2026/11/05/sony-report-playstation-profits-nearly-doubled-while-sales-of-marvels-wolverine-reached-2-4-million-copies",
@@ -159,12 +171,6 @@
       "date": "2026-11-03"
     },
     {
-      "source": "Game Developer",
-      "title": "Toshihiro Nagoshi's post-Sega game studio, Nagoshi Studio, shuts down after NetEase funding cuts",
-      "url": "https://www.gamedeveloper.com/business/nagoshi-studio-toshihiro-nagoshi-s-game-development-studio-after-leaving-sega-closes-as-netease-cuts-its-funding",
-      "date": "2026-11-02"
-    },
-    {
       "source": "Game World Observer",
       "title": "itch.io has seen a sharp increase in new games — perhaps it’s all thanks to AI",
       "url": "https://gameworldobserver.com/2026/11/02/itch-io-has-seen-a-sharp-increase-in-new-games-perhaps-its-all-thanks-to-ai",
@@ -211,12 +217,6 @@
       "title": "In the United States, a proposal has been made to legally grant gamers ownership rights to digital versions of games",
       "url": "https://gameworldobserver.com/2026/10/16/in-the-united-states-a-proposal-has-been-made-to-legally-grant-gamers-ownership-rights-to-digital-versions-of-games",
       "date": "2026-10-16"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Steam is experiencing “wishlist inflation,” but they are still important — analysis",
-      "url": "https://gameworldobserver.com/2026/10/15/steam-is-experiencing-wishlist-inflation-but-they-are-still-important-analysis",
-      "date": "2026-10-15"
     }
   ]
 }
