@@ -1,7 +1,79 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "count": 36,
   "items": [
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Resident Evil Requiem wins four Golden Joystick Awards, including Ultimate and Console GOTY",
+      "url": "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty",
+      "date": "2026-11-12"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "German Games Industry Association warns Digital Fairness Act could cause \"double regulation and legal uncertainty\"",
+      "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty",
+      "date": "2026-11-12"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Eve Online maker Fenris Creations is adding a rendering technique to its open-source Carbon engine that promises more accurate shading and greater depth",
+      "url": "https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth",
+      "date": "2026-11-12"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal",
+      "url": "https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal",
+      "date": "2026-11-12"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Laid-off Id Software devs form employee-owned studio Hidden Horses",
+      "url": "https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses",
+      "date": "2026-11-12"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Fredrik Wester steps down as Paradox Interactive CEO",
+      "url": "https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo",
+      "date": "2026-11-12"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "Which games are most vulnerable to AI clones — opinion of Kris Zukowski",
+      "url": "https://gameworldobserver.com/2026/11/12/which-games-are-most-vulnerable-to-ai-clones-opinion-of-kris-zukowski",
+      "date": "2026-11-12"
+    },
+    {
+      "source": "Game Developer",
+      "title": "PlayStation 5 crosses 100 million consoles sold",
+      "url": "https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Tekken creator says he wishes hardware like the Xbox Series S 'wouldn’t be released'",
+      "url": "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Game Developer",
+      "title": "The Legend of Zelda: Ocarina of Time exceeds 5 million copies sold in first week",
+      "url": "https://www.gamedeveloper.com/business/the-legend-of-zelda-ocarina-of-time-exceeds-5-million-copies-solid-in-first-week",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Report: PlayStation's Fairgames cancelled, no devs to be laid off",
+      "url": "https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains",
+      "date": "2026-11-11"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Lego Digital Play acquires ForthStar Games \"to bring Lego to the prominence it truly deserves on mobile\"",
+      "url": "https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile",
+      "date": "2026-11-11"
+    },
     {
       "source": "GamesIndustry.biz",
       "title": "GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts",
@@ -45,24 +117,6 @@
       "date": "2026-11-10"
     },
     {
-      "source": "GamesIndustry.biz",
-      "title": "Bandai Namco closes Reflector Entertainment, expects to post €21m loss in Q3 as a result",
-      "url": "https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result",
-      "date": "2026-11-10"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Skydance announces layoffs to games division following $111bn merger",
-      "url": "https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger",
-      "date": "2026-11-10"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "House House clarifies use of AI tools in Big Walk's \"final stage of development\"",
-      "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
-      "date": "2026-11-10"
-    },
-    {
       "source": "Game World Observer",
       "title": "How Do You Modernize a 15-Year-Old Live Game Without Rewriting It? SuperCity’s Journey From Flash to HTML5",
       "url": "https://gameworldobserver.com/2026/11/10/how-do-you-modernize-a-15-year-old-live-game-without-rewriting-it-supercitys-journey-from-flash-to-html5",
@@ -84,30 +138,6 @@
       "source": "Game Developer",
       "title": "World of Warcraft: Forever is the MMORPG's biggest launch as measured by peak concurrent players",
       "url": "https://www.gamedeveloper.com/pc/world-of-warcraft-forever-is-the-mmorpg-s-biggest-launch-in-player-numbers",
-      "date": "2026-11-09"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "\"There's no such thing as easy money in our business\" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP",
-      "url": "https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip",
-      "date": "2026-11-09"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
-      "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
-      "date": "2026-11-09"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Tripwire Interactive lays off 36",
-      "url": "https://www.gamesindustry.biz/tripwire-interactive-lays-off-36",
-      "date": "2026-11-09"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch",
-      "url": "https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch",
       "date": "2026-11-09"
     },
     {
@@ -159,30 +189,6 @@
       "date": "2026-11-04"
     },
     {
-      "source": "Game Developer",
-      "title": "Ubisoft among the bidders for Arkane as Xbox looks to sell the studio",
-      "url": "https://www.gamedeveloper.com/business/ubisoft-among-the-bidders-for-arkane-as-xbox-looks-to-sell-the-studio",
-      "date": "2026-11-04"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Valve warns of slower Steam approvals, possibly due to AI game surge",
-      "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games",
-      "date": "2026-11-04"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Half of Control Resonant's players were 'new' to the franchise",
-      "url": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
-      "date": "2026-11-03"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Former Xbox COO Helen Chiang pushes back on characterizations of her departure",
-      "url": "https://www.gamedeveloper.com/business/former-xbox-coo-helen-chiang-takes-umbrage-with-the-characterizations-of-her-departure",
-      "date": "2026-11-03"
-    },
-    {
       "source": "Game World Observer",
       "title": "Control Resonant helped Remedy triple its quarterly revenue",
       "url": "https://gameworldobserver.com/2026/11/03/control-resonant-helped-remedy-triple-its-quarterly-revenue",
@@ -211,12 +217,6 @@
       "title": "Sensor Tower: Half of ad impressions in casual games come from ad networks, while strategy titles focus on social platforms",
       "url": "https://gameworldobserver.com/2026/10/28/sensor-tower-half-of-ad-impressions-in-casual-games-come-from-ad-networks-while-strategy-titles-focus-on-social-platforms",
       "date": "2026-10-28"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Microsoft offers “voluntary buyouts” to 60,000 employees, including those in Xbox division",
-      "url": "https://gameworldobserver.com/2026/10/27/microsoft-offers-voluntary-buyouts-to-60000-employees-including-those-in-xbox-division",
-      "date": "2026-10-27"
     }
   ]
 }
