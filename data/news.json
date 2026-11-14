@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "count": 36,
   "items": [
+    {
+      "source": "Game Developer",
+      "title": "Newly-proposed EU law could place tight restrictions on free-to-play games",
+      "url": "https://www.gamedeveloper.com/business/european-union-proposes-digital-fairness-act-which-could-have-major-effects-on-game-development",
+      "date": "2026-11-13"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Development secrets of Dressmaker, ft. Ruan Rothmann & Sara Laubscher",
+      "url": "https://www.gamedeveloper.com/pc/development-secrets-of-dressmaker-ft-ruan-rothmann-sara-laubscher",
+      "date": "2026-11-13"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Witcher 3 devs use AI to help Polish voice actor reprise role of Geralt after stroke",
+      "url": "https://www.gamedeveloper.com/production/polish-voice-actor-for-geralt-returns-for-the-witcher-3-with-ai",
+      "date": "2026-11-13"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "How to protect your IP against the army of AI clones",
+      "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
+      "date": "2026-11-13"
+    },
     {
       "source": "GamesIndustry.biz",
       "title": "CD Projekt Red used AI to alter the voice of Geralt's original Polish actor in Witcher 3: Songs of the Past",
@@ -36,6 +60,12 @@
       "source": "GamesIndustry.biz",
       "title": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees",
       "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
+      "date": "2026-11-13"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "Fewer developers are using Unreal Engine and Unity according to a study",
+      "url": "https://gameworldobserver.com/2026/11/13/fewer-developers-are-using-unreal-engine-and-unity-according-to-a-study",
       "date": "2026-11-13"
     },
     {
@@ -105,12 +135,6 @@
       "date": "2026-11-12"
     },
     {
-      "source": "GamesIndustry.biz",
-      "title": "Eve Online maker Fenris Creations is adding a rendering technique to its open-source Carbon engine that promises more accurate shading and greater depth",
-      "url": "https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth",
-      "date": "2026-11-12"
-    },
-    {
       "source": "Game World Observer",
       "title": "Which games are most vulnerable to AI clones — opinion of Kris Zukowski",
       "url": "https://gameworldobserver.com/2026/11/12/which-games-are-most-vulnerable-to-ai-clones-opinion-of-kris-zukowski",
@@ -135,22 +159,10 @@
       "date": "2026-11-11"
     },
     {
-      "source": "Game Developer",
-      "title": "Report: PlayStation's Fairgames cancelled, no devs to be laid off",
-      "url": "https://www.gamedeveloper.com/console/report-playstation-s-fairgame-cancelled-but-haven-studios-remains",
-      "date": "2026-11-11"
-    },
-    {
       "source": "Game World Observer",
       "title": "Black Forest Games has left THQ Nordic and Embracer Group",
       "url": "https://gameworldobserver.com/2026/11/11/black-forest-games-has-left-thq-nordic-and-embracer-group",
       "date": "2026-11-11"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Take-Two CEO: Grand Theft Auto VI pre-orders are exceeding expectations",
-      "url": "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
-      "date": "2026-11-10"
     },
     {
       "source": "Game World Observer",
@@ -163,12 +175,6 @@
       "title": "The first details of the December WN C-Level Summit program have been released",
       "url": "https://gameworldobserver.com/2026/11/10/the-first-details-of-the-december-wn-c-level-summit-program-have-been-released",
       "date": "2026-11-10"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Report: Star Wars Zero Company developer Bit Reactor lays off an unspecified number of staff",
-      "url": "https://www.gamedeveloper.com/business/report-star-wars-zero-company-developer-bitreactor-lays-off-an-unspecified-number-of-staff",
-      "date": "2026-11-09"
     },
     {
       "source": "Game World Observer",
@@ -211,12 +217,6 @@
       "title": "Valve acknowledges AI clones issue, but has no intend to restrict developers",
       "url": "https://gameworldobserver.com/2026/10/29/valve-acknowledges-ai-clones-issue-but-has-no-intend-to-restrict-developers",
       "date": "2026-10-29"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Sensor Tower: Half of ad impressions in casual games come from ad networks, while strategy titles focus on social platforms",
-      "url": "https://gameworldobserver.com/2026/10/28/sensor-tower-half-of-ad-impressions-in-casual-games-come-from-ad-networks-while-strategy-titles-focus-on-social-platforms",
-      "date": "2026-10-28"
     }
   ]
 }
