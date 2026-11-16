@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "count": 36,
   "items": [
+    {
+      "source": "Game Developer",
+      "title": "Unity's new fellowship program offers cash and dedicated support for indie devs",
+      "url": "https://www.gamedeveloper.com/business/unity-to-support-indies-with-cash-and-dedicated-support-through-new-fellowship-program",
+      "date": "2026-11-16"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games",
+      "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
+      "date": "2026-11-16"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Unity launches $50,000 grant for indie developers with no equity or repayment",
+      "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
+      "date": "2026-11-16"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "Coffee Stain acquired the rights to Chronicles: Medieval after the game’s developers went bankrupt",
+      "url": "https://gameworldobserver.com/2026/11/16/coffee-stain-acquired-the-rights-to-chronicles-medieval-after-the-games-developers-went-bankrupt",
+      "date": "2026-11-16"
+    },
     {
       "source": "Game Developer",
       "title": "Newly-proposed EU law could place tight restrictions on free-to-play games",
@@ -123,18 +147,6 @@
       "date": "2026-11-12"
     },
     {
-      "source": "GamesIndustry.biz",
-      "title": "Resident Evil Requiem wins four Golden Joystick Awards, including Ultimate and Console GOTY",
-      "url": "https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty",
-      "date": "2026-11-12"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "German Games Industry Association warns Digital Fairness Act could cause \"double regulation and legal uncertainty\"",
-      "url": "https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty",
-      "date": "2026-11-12"
-    },
-    {
       "source": "Game World Observer",
       "title": "Which games are most vulnerable to AI clones — opinion of Kris Zukowski",
       "url": "https://gameworldobserver.com/2026/11/12/which-games-are-most-vulnerable-to-ai-clones-opinion-of-kris-zukowski",
@@ -150,12 +162,6 @@
       "source": "Game Developer",
       "title": "Tekken creator says he wishes hardware like the Xbox Series S 'wouldn’t be released'",
       "url": "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released",
-      "date": "2026-11-11"
-    },
-    {
-      "source": "Game Developer",
-      "title": "The Legend of Zelda: Ocarina of Time exceeds 5 million copies sold in first week",
-      "url": "https://www.gamedeveloper.com/business/the-legend-of-zelda-ocarina-of-time-exceeds-5-million-copies-solid-in-first-week",
       "date": "2026-11-11"
     },
     {
@@ -211,12 +217,6 @@
       "title": "Phantom Blade Zero peaks at over 731k concurrent players at launch, marking15th highest result in Steam history",
       "url": "https://gameworldobserver.com/2026/10/30/phantom-blade-zero-peaks-at-over-731k-concurrent-players-at-launch-marking15th-highest-result-in-steam-history",
       "date": "2026-10-30"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Valve acknowledges AI clones issue, but has no intend to restrict developers",
-      "url": "https://gameworldobserver.com/2026/10/29/valve-acknowledges-ai-clones-issue-but-has-no-intend-to-restrict-developers",
-      "date": "2026-10-29"
     }
   ]
 }
