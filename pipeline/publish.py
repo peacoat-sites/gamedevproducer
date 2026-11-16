@@ -217,8 +217,8 @@ SITE_PERSONAS = {
     },
     "gamedevproducer": {
         "tone": (
-            "You are an indie game producer and former AAA studio project manager with 14 years in the "
-            "games industry. You write for people who want to make games -- not just dream about it. "
+            "You are a lead game producer with 14+ years shipping and operating AAA and live-service games, "
+            "who now manages other producers. You write for people who want to make games -- not just dream about it. "
             "You are honest about the business realities, the technical tradeoffs, and the things that "
             "actually ship successful games vs the ones that die in development. No hype, no gatekeeping."
         ),
@@ -807,7 +807,9 @@ def generate_article(keyword: str, site_config: dict, persona: dict, priority: s
 
     voice_instruction = f"\n## Your writing voice for this article:\n{voice_style}\n" if voice_style else ""
 
-    if stats_mode:
+    if True:  # gamedev: no stats-led mode or charts (no research step to verify figures under a real byline)
+        stats_instruction = ""
+    elif stats_mode:
         stats_instruction = (
             "**This is a DATA-LED article.** Open with the single most surprising number on the topic. Build it "
             "around 5-10 specific statistics from named sources (government data, industry surveys, academic "
@@ -838,7 +840,8 @@ Writing rules (follow every one):
 - Vary your rhythm hard. Some sentences under 8 words. Occasionally let one run past 30. Fragments are fine. Never write three sentences in a row of roughly the same length, and let some paragraphs be a single sentence. Do not make every section the same length.
 - Open differently every time. Not always a "scenario." Sometimes a blunt claim, a specific number, a confession, a question, or one concrete moment. Never open with "In today's...", "When it comes to...", "In the world of...", or "Imagine...".
 - Be relentlessly specific. Name real products, brands, prices, dates, places, and numbers. "$180 a month" beats "expensive"; "a 2019 JAMA study" beats "studies show." Specificity is the single biggest tell of real writing.
-- Use concrete first-person experience naturally ("the first time I tried this", "a reader emailed me last week", "I made this mistake myself"). Include at least 1-2 "I tested", "in my experience", or "when I [verb]" moments per article. These signal authentic expertise and are the highest-trust differentiator from generic AI writing. Do not overdo it—2-3 natural moments per article is perfect, not contrived. Separately, work one small detail into each major section that only someone who has actually done this would know: the smell, the wait time, the form number, the question the clerk asks.
+- The byline is a REAL person. Never invent personal anecdotes, past projects, employers, clients, reader emails, conversations, or events, and never claim the author did, saw, tested, or experienced anything specific. General professional judgment is fine ("in practice, most teams...", "a common mistake is..."). If a scenario helps, label it clearly as a hypothetical, starting the paragraph with "**Illustration:**". Make sections practical with concrete, verifiable detail instead.
+- Only name a study, report, book, talk, survey, or statistic you are confident actually exists, with its correct author or publisher. If unsure, explain the idea without a citation. Never invent figures.
 - Never use em dashes (-- or ---). Use commas, colons, parentheses, or a new sentence.
 - Use contractions everywhere (you'll, it's, don't, can't, that's).
 - Allow mild informality, the occasional aside, and a rhetorical question now and then. Real people digress a little.
@@ -978,16 +981,7 @@ _BANNED_WORDS = (
     "buckle up, let's unpack, spoiler alert"
 )
 
-_CHART_SPEC = (
-    'To show a comparison visually, you may include ONE chart block in this exact fenced format '
-    '(it renders as a bar chart on the page):\n'
-    '```chart\n'
-    '{"title": "Average annual cost by state", "unit": "$", "source": "USDA 2026 survey", '
-    '"data": [["Texas", 1450], ["Ohio", 980], ["Florida", 2100]]}\n'
-    '```\n'
-    'Chart rules: 3-7 rows, plain numeric values (no ranges), short labels, name the real source, '
-    'and only chart figures that also appear in the article text. Never invent chart data.'
-)
+_CHART_SPEC = ''  # gamedev: no generated charts (unverifiable figures under a real byline)
 
 # ── CONTENT POST-PROCESSING (deterministic de-slop + chart rendering) ─────────
 
@@ -1419,7 +1413,7 @@ NICHE_COMMUNITIES = {
 _TOPICAL_RULES = (
     "Writing rules: natural human voice; vary sentence length hard (some under 8 words, an occasional 30+ one); "
     "NEVER use em dashes (use commas, colons, or a new sentence); use contractions; "
-    "be specific with the real numbers, names, and dates from the research; occasional first person is fine. "
+    "be specific with the real numbers, names, and dates from the research; the byline is a real person, so never invent personal anecdotes, past projects, or events attributed to the author. "
     "NEVER use these AI-tell words/phrases: " + _BANNED_WORDS + ". "
     "(Proper product names containing one of these words are fine.)"
 )
@@ -1641,6 +1635,9 @@ def publish_site(site_name: str, count: int):
         voice    = PORTFOLIO_VOICES[(voice_offset + i - 1) % len(PORTFOLIO_VOICES)]
         if _site_authors:
             persona = _site_authors[(voice_offset + i - 1) % len(_site_authors)]
+            # real-author site: no fictional contributor voice layered on top
+            voice = {"name": persona["name"], "bio": persona.get("bio", ""),
+                     "style": "Write in a direct, practical, experienced-producer voice. Do not invent personal anecdotes."}
         else:
             persona  = {"name": voice["name"], "bio": voice["bio"]}
 
