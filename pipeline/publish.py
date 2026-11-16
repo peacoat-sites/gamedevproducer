@@ -1568,6 +1568,40 @@ Structure:
             "image_query": brief.get("image_query") or title, "category": "trending"}
 
 
+
+def _fact_check(content: str, niche: str) -> str:
+    """Second pass: correct or soften unverifiable claims before publishing. Fails open."""
+    try:
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+        prompt = (
+            f"You are a strict fact-checker for a {niche} website. Review the article below and return ONLY a JSON "
+            "array of edits, each {\"find\": <exact substring copied verbatim from the article>, \"replace\": <corrected text>}. "
+            "Edit only: (1) invented personal anecdotes or claims the author did, saw, or experienced something "
+            "(rewrite as general guidance or a sentence starting 'For example,'); (2) statistics, prices, dates, limits, "
+            "or official figures you are not confident are correct (correct them if you are sure, otherwise rephrase "
+            "without the number); (3) studies, reports, books, products, or companies that are misattributed or that "
+            "you are not confident exist (fix the attribution or remove the reference); (4) clearly wrong facts. "
+            "Each find must be ONE complete sentence copied exactly, and each replace must be the complete rewritten sentence that "
+            "reads correctly in context (never a fragment). Check who makes or owns every named product or company. "
+            "Do not change style, headings, or anything correct. "
+            "Use no em dashes. Return [] if nothing needs fixing. At most 15 edits.\n\nARTICLE:\n" + content
+        )
+        msg = client.messages.create(model="claude-sonnet-4-6", max_tokens=3000,
+                                     messages=[{"role": "user", "content": prompt}])
+        raw = msg.content[0].text
+        m = re.search(r"\[.*\]", raw, re.S)
+        edits = json.loads(m.group(0)) if m else []
+        applied = 0
+        for e in edits[:15]:
+            f, r = e.get("find", ""), e.get("replace", "")
+            if f and isinstance(r, str) and content.count(f) == 1:
+                content = content.replace(f, r)
+                applied += 1
+        print(f"    Fact-check: {applied}/{len(edits)} edits applied")
+    except Exception as ex:
+        print(f"    Fact-check skipped: {ex}")
+    return content
+
 def publish_site(site_name: str, count: int):
     if site_name not in SITES:
         print(f"Site '{site_name}' not in SITES_CONFIG")
@@ -1675,6 +1709,7 @@ def publish_site(site_name: str, count: int):
                 # Generate article with portfolio voice style
                 article = generate_article(keyword, site, persona, priority, voice_style=voice["style"], stats_mode=stats_mode)
             print(f"    Article: {len(article['content'])} chars")
+            article["content"] = _fact_check(article["content"], niche)
 
             # Evergreen: use the article's subject-accurate image query (set post-generation)
             if not topical and not img_query:
