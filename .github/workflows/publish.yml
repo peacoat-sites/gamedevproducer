@@ -41,3 +41,4 @@ jobs:
           ANTHROPIC_MONTHLY_BUDGET: ${{ secrets.ANTHROPIC_MONTHLY_BUDGET }}
           SITES_CONFIG:             ${{ secrets.SITES_CONFIG }}
           AMAZON_TRACKING_ID:       ${{ secrets.AMAZON_TRACKING_ID }}
+# schedule re-registered 2026-11-16
