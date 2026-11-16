@@ -1,147 +1,147 @@
 {
- "as_of": "2026-11-09",
+ "as_of": "2026-11-16",
  "source": "SteamSpy (top by concurrent players, trailing 2 weeks)",
  "summary": {
-  "free_count": 7,
-  "paid_count": 8,
-  "avg_paid_price": "$25.43",
-  "top3_ccu_share": 66
+  "free_count": 4,
+  "paid_count": 11,
+  "avg_paid_price": "$29.72",
+  "top3_ccu_share": 34
  },
  "games": [
   {
    "rank": 1,
-   "name": "Counter-Strike 2",
-   "developer": "Valve",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 1013936,
+   "name": "Path of Exile",
+   "developer": "Grinding Gear Games",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 119615,
    "price": "Free",
    "price_num": 0.0
   },
   {
    "rank": 2,
-   "name": "PUBG: BATTLEGROUNDS",
-   "developer": "PUBG Corporation",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 314682,
-   "price": "Free",
-   "price_num": 0.0
+   "name": "Rust",
+   "developer": "Facepunch Studios",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 119584,
+   "price": "$39.99",
+   "price_num": 39.99
   },
   {
    "rank": 3,
-   "name": "Rust",
-   "developer": "Facepunch Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 143870,
-   "price": "$19.99",
-   "price_num": 19.99
+   "name": "Euro Truck Simulator 2",
+   "developer": "SCS Software",
+   "owners": "10,000,000 - 20,000,000",
+   "ccu": 101531,
+   "price": "$4.99",
+   "price_num": 4.99
   },
   {
    "rank": 4,
-   "name": "Apex Legends",
-   "developer": "Respawn",
-   "owners": "100,000,000 - 200,000,000",
-   "ccu": 124262,
+   "name": "War Thunder",
+   "developer": "Gaijin Entertainment",
+   "owners": "20,000,000 - 50,000,000",
+   "ccu": 95460,
    "price": "Free",
    "price_num": 0.0
   },
   {
    "rank": 5,
-   "name": "Wallpaper Engine",
-   "developer": "Wallpaper Engine Team",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 91184,
-   "price": "$4.99",
-   "price_num": 4.99
+   "name": "Warframe",
+   "developer": "Digital Extremes",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 75958,
+   "price": "Free",
+   "price_num": 0.0
   },
   {
    "rank": 6,
-   "name": "Grand Theft Auto V Legacy",
-   "developer": "Rockstar North",
+   "name": "Marvel Rivals",
+   "developer": "NetEase Games",
    "owners": "50,000,000 - 100,000,000",
-   "ccu": 67851,
+   "ccu": 72845,
    "price": "Free",
    "price_num": 0.0
   },
   {
    "rank": 7,
-   "name": "Call of Duty: Modern Warfare II",
-   "developer": "Treyarch, Raven Software +7 more",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 67419,
-   "price": "$38.49",
-   "price_num": 38.49
+   "name": "DayZ",
+   "developer": "Bohemia Interactive",
+   "owners": "5,000,000 - 10,000,000",
+   "ccu": 55094,
+   "price": "$49.99",
+   "price_num": 49.99
   },
   {
    "rank": 8,
-   "name": "NARAKA: BLADEPOINT",
-   "developer": "24 Entertainment",
+   "name": "Project Zomboid",
+   "developer": "The Indie Stone",
    "owners": "10,000,000 - 20,000,000",
-   "ccu": 66954,
-   "price": "Free",
-   "price_num": 0.0
+   "ccu": 54324,
+   "price": "$24.99",
+   "price_num": 24.99
   },
   {
    "rank": 9,
-   "name": "Baldur's Gate 3",
-   "developer": "Larian Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 54771,
-   "price": "$44.99",
-   "price_num": 44.99
+   "name": "Crosshair X",
+   "developer": "CenterPoint Gaming",
+   "owners": "2,000,000 - 5,000,000",
+   "ccu": 54179,
+   "price": "$6.99",
+   "price_num": 6.99
   },
   {
    "rank": 10,
-   "name": "HELLDIVERS 2",
-   "developer": "Arrowhead Game Studios",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 53399,
-   "price": "$39.99",
-   "price_num": 39.99
-  },
-  {
-   "rank": 11,
-   "name": "Tom Clancy's Rainbow Six Siege",
-   "developer": "Ubisoft Montreal",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 51847,
-   "price": "$19.99",
-   "price_num": 19.99
-  },
-  {
-   "rank": 12,
-   "name": "Stardew Valley",
-   "developer": "ConcernedApe",
-   "owners": "20,000,000 - 50,000,000",
-   "ccu": 50662,
+   "name": "The Binding of Isaac: Rebirth",
+   "developer": "Nicalis, Inc. +1 more",
+   "owners": "10,000,000 - 20,000,000",
+   "ccu": 47919,
    "price": "$14.99",
    "price_num": 14.99
   },
   {
-   "rank": 13,
-   "name": "War Thunder",
-   "developer": "Gaijin Entertainment",
+   "rank": 11,
+   "name": "The Witcher 3: Wild Hunt — Remastered",
+   "developer": "CD PROJEKT RED",
    "owners": "20,000,000 - 50,000,000",
-   "ccu": 50478,
-   "price": "Free",
-   "price_num": 0.0
+   "ccu": 45576,
+   "price": "$49.99",
+   "price_num": 49.99
+  },
+  {
+   "rank": 12,
+   "name": "Palworld",
+   "developer": "Pocketpair",
+   "owners": "50,000,000 - 100,000,000",
+   "ccu": 41369,
+   "price": "$29.99",
+   "price_num": 29.99
+  },
+  {
+   "rank": 13,
+   "name": "Sid Meier’s Civilization VI",
+   "developer": "Firaxis Games, Aspyr (Mac) +1 more",
+   "owners": "5,000,000 - 10,000,000",
+   "ccu": 40767,
+   "price": "$59.99",
+   "price_num": 59.99
   },
   {
    "rank": 14,
-   "name": "Dead by Daylight",
-   "developer": "Behaviour Interactive Inc.",
+   "name": "Terraria",
+   "developer": "Re-Logic",
    "owners": "20,000,000 - 50,000,000",
-   "ccu": 44886,
-   "price": "$19.99",
-   "price_num": 19.99
+   "ccu": 38179,
+   "price": "$9.99",
+   "price_num": 9.99
   },
   {
    "rank": 15,
-   "name": "Team Fortress 2",
-   "developer": "Valve",
-   "owners": "50,000,000 - 100,000,000",
-   "ccu": 43819,
-   "price": "Free",
-   "price_num": 0.0
+   "name": "RimWorld",
+   "developer": "Ludeon Studios",
+   "owners": "2,000,000 - 5,000,000",
+   "ccu": 38111,
+   "price": "$34.99",
+   "price_num": 34.99
   }
  ]
 }
