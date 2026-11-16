@@ -69,7 +69,7 @@ A vendor who comes back partway through a pilot saying "we're not sure about the
 
 Once work is running, most of the job is communication cadence. Not micromanagement, communication structure.
 
-The minimum viable setup: a shared project tracker (Shotgrid, Ftrack, or even a Notion database if the scope is small), a channel for async updates (email works fine, Slack works fine, pick one and be consistent), and a standing weekly sync. That sync doesn't need to be long. Twenty minutes to review the week's deliveries, flag anything in revision, confirm the next batch. The meeting exists so that neither side is guessing about status.
+The minimum viable setup: a shared project tracker (Autodesk Flow Production Tracking, formerly ShotGrid, Ftrack, or even a Notion database if the scope is small), a channel for async updates (email works fine, Slack works fine, pick one and be consistent), and a standing weekly sync. That sync doesn't need to be long. Twenty minutes to review the week's deliveries, flag anything in revision, confirm the next batch. The meeting exists so that neither side is guessing about status.
 
 What kills outsource relationships mid-project is usually one of three things: a brief that changes significantly after kickoff (your internal vision drifted, your AD changed their mind), payment delays that create uncertainty on the vendor side, or a feedback loop where the vendor doesn't know if revisions are approved until they've already moved on to the next asset. All three of these are producer problems, not vendor problems.
 
@@ -79,7 +79,7 @@ Asset integration is a step that gets underestimated almost universally. Plan fo
 
 ## Pipeline and Tools Worth Using
 
-Shotgrid (Adobe) is the standard for mid-to-large outsource operations. It's not cheap (around $30-$60 per user per month depending on your licensing) but the asset-tracking and review workflows are genuinely built for this use case. Ftrack is a solid alternative at comparable pricing with a slightly friendlier UI for smaller teams. For very small scopes, teams have made Notion or Airtable work, and I don't think there's shame in that, the tool matters less than whether you're actually using it consistently.
+Autodesk Flow Production Tracking (formerly ShotGrid) is a common choice for mid-to-large outsource operations. It's a paid per-seat subscription, but the asset-tracking and review workflows are genuinely built for this use case. Ftrack is a solid alternative with a slightly friendlier UI for smaller teams. For very small scopes, teams have made Notion or Airtable work, and I don't think there's shame in that, the tool matters less than whether you're actually using it consistently.
 
 For brief creation and style documentation, Confluence or Notion pages with embedded images work fine. The format doesn't matter. The completeness does.
 
@@ -91,7 +91,7 @@ For producers who want to go deeper on the craft side, "The Art of Game Design" 
 
 - [GDC Talks on Art Outsourcing (various years)](https://gdcvault.com): Multiple sessions on outsource pipeline management, brief writing, and vendor selection from working AAA and indie producers.
 - Keywords Studios Annual Report (2025): Publicly available; covers scope and volume of outsourced game production services, useful for understanding vendor market scale.
-- Shotgrid (Adobe) product documentation: Official pricing and feature breakdown for asset tracking and outsource review workflows.
+- Autodesk Flow Production Tracking (formerly ShotGrid) product documentation: asset tracking and review workflows.
 - Ftrack product documentation: Pricing and feature set for mid-size outsource pipeline management.
 - Clinton Keith, "Agile Game Development" (3rd ed., 2020): Covers cross-functional and cross-vendor production coordination in game development contexts.
 
