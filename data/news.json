@@ -1,7 +1,103 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "count": 36,
   "items": [
+    {
+      "source": "Game Developer",
+      "title": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch",
+      "url": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "UK tribunal dismisses £2bn PlayStation class-action suit which alleged unfair pricing over 30% cut on PlayStation Store",
+      "url": "https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Roblox launches creator program for devs to bring games to its platform for free",
+      "url": "https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Tanuki: Pon's Summer is hoping to be a \"lovely little underdog\" between Ocarina of Time and GTA 6",
+      "url": "https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "IWGB Game Workers Union leads manifesto on generative AI use in the industry",
+      "url": "https://www.gamesindustry.biz/iwgb-game-workers-union-leads-manifesto-on-generative-ai-use-in-the-industry",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Xbox's Project Helix \"is not a PC that can also play console games\"",
+      "url": "https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark",
+      "url": "https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Lisbon-based Studio Bravarda closes down after failing to recoup dev costs on its most recent title, Extremely Powerful Capybaras",
+      "url": "https://www.gamesindustry.biz/lisbon-based-studio-bravarda-closes-down-after-failing-to-recoup-dev-costs-on-its-most-recent-title-extremely-powerful-capybaras",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\"",
+      "url": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+      "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "Unity has acquired Synty Studios, the creators of the POLYGON asset line",
+      "url": "https://gameworldobserver.com/2026/11/17/unity-has-acquired-synty-studios-the-creators-of-the-polygon-asset-line",
+      "date": "2026-11-17"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
+      "url": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
+      "date": "2026-11-16"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Riot unveils New Dawn, a major overhaul for League of Legends",
+      "url": "https://www.gamedeveloper.com/pc/riot-unveils-new-dawn-the-next-evolution-of-league-of-legends",
+      "date": "2026-11-16"
+    },
+    {
+      "source": "Game Developer",
+      "title": "'It's common for there to be speculation and headlines:' Unity exec addresses acquisition rumors",
+      "url": "https://www.gamedeveloper.com/business/-it-s-common-for-there-to-be-speculation-and-headlines-unity-exec-addresses-acquisition-rumors",
+      "date": "2026-11-16"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Paradox Interactive names new CEO",
+      "url": "https://www.gamedeveloper.com/business/paradox-interactive-names-a-new-ceo",
+      "date": "2026-11-16"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Xbox teases Project Helix as 'a console that is also capable of playing games from your PC'",
+      "url": "https://www.gamedeveloper.com/console/new-xbox-codenamed-helix-gets-a-few-new-details",
+      "date": "2026-11-16"
+    },
     {
       "source": "Game Developer",
       "title": "Unity's new fellowship program offers cash and dedicated support for indie devs",
@@ -10,14 +106,20 @@
     },
     {
       "source": "GamesIndustry.biz",
-      "title": "\"Gamers don't hate ads; they hate bad ads\" – Why EA and Xbox are putting adverts in their games",
-      "url": "https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games",
+      "title": "Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks",
+      "url": "https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks",
       "date": "2026-11-16"
     },
     {
       "source": "GamesIndustry.biz",
-      "title": "Unity launches $50,000 grant for indie developers with no equity or repayment",
-      "url": "https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment",
+      "title": "Shigeru Miyamoto to receive inaugural Legend Award at the 30th DICE Awards",
+      "url": "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
+      "date": "2026-11-16"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games",
+      "url": "https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games",
       "date": "2026-11-16"
     },
     {
@@ -45,48 +147,6 @@
       "date": "2026-11-13"
     },
     {
-      "source": "GamesIndustry.biz",
-      "title": "How to protect your IP against the army of AI clones",
-      "url": "https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones",
-      "date": "2026-11-13"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "CD Projekt Red used AI to alter the voice of Geralt's original Polish actor in Witcher 3: Songs of the Past",
-      "url": "https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past",
-      "date": "2026-11-13"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "The Digital Fairness Act is a decade-long bill coming due | Opinion",
-      "url": "https://www.gamesindustry.biz/the-digital-fairness-act-is-a-decade-long-bill-coming-due-opinion",
-      "date": "2026-11-13"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "\"It's a wild situation\" – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more",
-      "url": "https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more",
-      "date": "2026-11-13"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
-      "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
-      "date": "2026-11-13"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "MapleStory franchise Q3 revenue rises 72%, drives overall growth for Nexon",
-      "url": "https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon",
-      "date": "2026-11-13"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees",
-      "url": "https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees",
-      "date": "2026-11-13"
-    },
-    {
       "source": "Game World Observer",
       "title": "Fewer developers are using Unreal Engine and Unity according to a study",
       "url": "https://gameworldobserver.com/2026/11/13/fewer-developers-are-using-unreal-engine-and-unity-according-to-a-study",
@@ -105,64 +165,10 @@
       "date": "2026-11-12"
     },
     {
-      "source": "Game Developer",
-      "title": "One in three developers say they've been laid off within the last two years",
-      "url": "https://www.gamedeveloper.com/business/one-in-three-developers-have-been-laid-off-within-the-last-two-years",
-      "date": "2026-11-12"
-    },
-    {
-      "source": "Game Developer",
-      "title": "A second 2026 State of the Game Industry survey? It can happen! ft. Beth Elderkin & Imran Khan",
-      "url": "https://www.gamedeveloper.com/business/a-second-2026-state-of-the-game-industry-survey-it-can-happen-ft-beth-elderkin-imran-khan",
-      "date": "2026-11-12"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Layoffs, AI, and next-gen: what 2,600+ game professionals told GDC this year",
-      "url": "https://www.gamedeveloper.com/business/layoffs-ai-and-next-gen-what-2-600-game-professionals-told-gdc-this-year",
-      "date": "2026-11-12"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Nvidia CEO Jensen Huang resigns after potentially damaging marital affairs",
-      "url": "https://www.gamedeveloper.com/business/nvidia-ceo-jensen-huang-resigns-after-scandal",
-      "date": "2026-11-12"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "GDC State of the Game Industry report: 40% of developers are using generative AI for work",
-      "url": "https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work",
-      "date": "2026-11-12"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "GDC's Mark DeLoura addresses the event's dip in attendance in 2026 as he details the planned changes for 2027",
-      "url": "https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027",
-      "date": "2026-11-12"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "\"It's about giving more great games a chance\" – Why Launchable thinks it can help more independent studios reach the market with its shared success model",
-      "url": "https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-why-launchable-thinks-it-can-help-more-independent-studios-reach-the-market-with-its-shared-success-model",
-      "date": "2026-11-12"
-    },
-    {
       "source": "Game World Observer",
       "title": "Which games are most vulnerable to AI clones — opinion of Kris Zukowski",
       "url": "https://gameworldobserver.com/2026/11/12/which-games-are-most-vulnerable-to-ai-clones-opinion-of-kris-zukowski",
       "date": "2026-11-12"
-    },
-    {
-      "source": "Game Developer",
-      "title": "PlayStation 5 crosses 100 million consoles sold",
-      "url": "https://www.gamedeveloper.com/console/playstation-5-ships-100-million-consoles",
-      "date": "2026-11-11"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Tekken creator says he wishes hardware like the Xbox Series S 'wouldn’t be released'",
-      "url": "https://www.gamedeveloper.com/console/katsuhiro-harada-i-wish-hardware-like-the-xbox-series-s-wouldnt-be-released",
-      "date": "2026-11-11"
     },
     {
       "source": "Game World Observer",
@@ -211,12 +217,6 @@
       "title": "itch.io has seen a sharp increase in new games — perhaps it’s all thanks to AI",
       "url": "https://gameworldobserver.com/2026/11/02/itch-io-has-seen-a-sharp-increase-in-new-games-perhaps-its-all-thanks-to-ai",
       "date": "2026-11-02"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Phantom Blade Zero peaks at over 731k concurrent players at launch, marking15th highest result in Steam history",
-      "url": "https://gameworldobserver.com/2026/10/30/phantom-blade-zero-peaks-at-over-731k-concurrent-players-at-launch-marking15th-highest-result-in-steam-history",
-      "date": "2026-10-30"
     }
   ]
 }
