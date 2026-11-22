@@ -892,6 +892,7 @@ Loose structure (vary it -- do not make every article identical):
 {stats_instruction}
 **Timing:** Mention dates only where figures change over time (annual limits, rates, deadlines), and then say which year they apply to. Do not add "as of" stamps as decoration.
 
+{_site_tools_note()}
 Write with the judgment and practical detail of an experienced practitioner, without claiming personal experiences.
 
 **Voice:** Follow the tone in the voice notes (word choice, attitude, pacing). The voice is a style, not a biography: never invent the author's background, clients, tests, or experiences.
@@ -927,6 +928,8 @@ Write with the judgment and practical detail of an experienced practitioner, wit
             "savings figure -- you do not have the article's data yet, so any such number would be "
             "fabricated; a count of items ('5 Options', '3 Signs') is fine since it just describes "
             "the list. No em dashes, no clickbait, no year unless essential. "
+            "Never claim or imply that a professional wrote, reviewed, approved, or recommends the article (no 'A Vet\'s Guide', "
+            "'Therapist\'s Guide', 'Vet-Approved', 'Doctor-Recommended', 'Expert-Reviewed'). "
             'Example: keyword \'average whiplash settlement\' -> \'Whiplash Settlements: What Insurers Actually Pay\'.", '
             '"description": "<140-155 char SEO meta description, plain text, no quotes>", '
             '"image_query": "<2-4 word concrete photographable subject for the hero photo. Name the specific '
@@ -959,6 +962,7 @@ Write with the judgment and practical detail of an experienced practitioner, wit
     if not image_query:
         image_query = _derive_image_query(keyword)
 
+    title, description = _sanitize_claims(title), _sanitize_claims(description)
     return {"content": content, "title": title, "description": description, "image_query": image_query}
 
 _BANNED_WORDS = (
@@ -1540,7 +1544,8 @@ Structure:
 {_CHART_SPEC}
 3. Weave 2-3 sources inline naturally. {_TAKEAWAYS_SPEC}
 4. A short closing paragraph (no heading).
-5. A final section titled exactly "## Sources" listing every source as: - [title](url) (published date)."""
+5. A final section titled exactly "## Sources" listing every source as: - [title](url) (published date).
+{_site_tools_note()}"""
 
     try:
         wmsg = client.messages.create(
@@ -1566,10 +1571,74 @@ Structure:
     except Exception:
         description = (brief.get("angle", "") or title)[:155]
 
+    title, description = _sanitize_claims(title), _sanitize_claims(description)
     print(f"    [topical] ok: {title}")
     return {"keyword": title, "content": article_md, "description": description,
             "image_query": brief.get("image_query") or title, "category": "trending"}
 
+
+
+_ROLE_RX = r"(?:Vet Tech|Vet|Veterinarian|Doctor|Physician|Nurse|Therapist|Psychologist|Lawyer|Attorney|CPA|Accountant|Adjuster|Underwriter|Electrician|Plumber|Contractor|Trainer|Dietitian|Nutritionist|Mechanic|Expert)"
+
+def _sanitize_claims(s: str) -> str:
+    """Strip implied professional authorship/review/approval from titles and meta descriptions."""
+    if not s:
+        return s
+    s = re.sub(rf"\b(?:A|An|The)\s+{_ROLE_RX}(?:'s|s')\s+", "A ", s, flags=re.I)
+    s = re.sub(rf"\b(?:A|An|The)\s+{_ROLE_RX}\s+(Guide|Handbook|Checklist|Playbook|Breakdown)\b", r"A \1", s, flags=re.I)
+    s = re.sub(rf"\b{_ROLE_RX}[- ](?:Approved|Recommended|Reviewed|Backed|Tested|Vetted)\b\s*", "", s, flags=re.I)
+    s = re.sub(rf"\s*\b(?:approved|recommended|reviewed|vetted) by (?:a |an |our )?{_ROLE_RX}s?\b", "", s, flags=re.I)
+    return re.sub(r"\s{2,}", " ", s).strip(" ,:")
+
+def _site_tools_note() -> str:
+    """The site's own free tools, so articles can link the proprietary layer where it genuinely helps."""
+    try:
+        p = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data", "tools.json")
+        tools = [t for t in json.load(open(p, encoding="utf-8")) if t.get("url") and t.get("label")]
+    except Exception:
+        return ""
+    if not tools:
+        return ""
+    lines = "\n".join(f"- [{t['label']}]({t['url']}): {t.get('desc', '')}".rstrip(": ") for t in tools[:12])
+    return ("\nThis site has its own free tools. If one directly helps the reader with this topic, link to it once, "
+            "in context, with a descriptive anchor. Never force it and never link more than one:\n" + lines + "\n")
+
+_PERSONA_RX = re.compile(
+    r"(?im)\b(?:after|in|over|with|during) (?:my |nearly |almost |more than |over )?(?:\d+|a decade|two decades|ten|fifteen|twenty)\+? years "
+    r"(?:of|as|in|working|practicing|treating|handling|helping|coaching|training|doing|running|keeping|raising|installing|inspecting|reviewing|underwriting|adjusting)"
+    r"|\bin (?:my|our) (?:clinic|practice|exam room|shop)\b|\bmy (?:patients|clients|practice|clinic|caseload|customers)\b"
+    r"|\bas an? (?:former |licensed |certified |practicing )?(?:vet|veterinarian|vet tech|physician|doctor|nurse|therapist|psychologist|counselor|dietitian|trainer|CPA|accountant|electrician|plumber|contractor|inspector|adjuster|underwriter|loan officer|attorney|lawyer|installer|mechanic)\b(?=[^.\n]{0,60}\b(?:I|I've|I'd|I'm|my|me)\b)"
+    r"|\b(?:I'm an?|I am an?|I was an?|I worked as an?|I spent \d+ years as an?) (?:former |licensed |certified |practicing )?"
+    r"(?:vet|veterinarian|vet tech|physician|doctor|nurse|therapist|psychologist|counselor|dietitian|trainer|CPA|accountant|electrician|plumber|contractor|inspector|adjuster|underwriter|loan officer|attorney|lawyer|installer|mechanic)\b"
+    r"|\bI(?:'ve| have)? (?:seen|treated|worked with|handled|helped|coached|trained|inspected|installed|underwritten|adjusted|counseled) (?:hundreds|thousands|dozens|countless|so many)\b"
+    r"|\bin my (?:experience|career|practice)\b|\bearly in my career\b|^\s*\**Scenario\b")
+
+def _depersona(content: str, niche: str) -> str:
+    """Gate: if first-person professional experience survived the fact-check, rewrite only those sentences. Fails open."""
+    if not _PERSONA_RX.search(content):
+        return content
+    try:
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+        prompt = (
+            f"This {niche} article is published under a pen name with no professional license or career history. Return ONLY a JSON array of "
+            "edits, each {\"find\": <one complete sentence copied exactly>, \"replace\": <rewritten complete sentence, or \"\" to delete>}. "
+            "Edit only sentences where the writer claims personal professional experience, credentials, clients, patients, cases, "
+            "or a personal story, and case studies about specific named readers, clients, or pets. Rewrite them as general guidance "
+            "with the same practical meaning, or as a clearly hypothetical example starting 'For example,'. Every replace must be a "
+            "complete grammatical sentence. Keep facts, numbers, and markdown unchanged. No em dashes. Return [] if nothing qualifies.\n\nARTICLE:\n" + content)
+        msg = client.messages.create(model="claude-sonnet-4-6", max_tokens=3000, messages=[{"role": "user", "content": prompt}])
+        m = re.search(r"\[.*\]", msg.content[0].text, re.S)
+        edits = json.loads(m.group(0)) if m else []
+        applied = 0
+        for e in edits[:20]:
+            f, r = e.get("find", ""), e.get("replace", "")
+            if f and isinstance(r, str) and content.count(f) == 1:
+                content = content.replace(f, r)
+                applied += 1
+        print(f"    De-persona: {applied}/{len(edits)} edits applied")
+    except Exception as ex:
+        print(f"    De-persona skipped: {ex}")
+    return content
 
 
 def _fact_check(content: str, niche: str) -> str:
