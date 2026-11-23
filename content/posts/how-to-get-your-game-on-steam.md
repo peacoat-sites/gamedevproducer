@@ -4,7 +4,7 @@ date: 2026-11-18T17:22:31.854715+00:00
 draft: false
 description: "Learn the Steam publishing fee, revenue split, and complete steps to launch your indie game on the world's largest PC gaming platform."
 image: "/img/heroes/13450798.jpg"
-categories: ["Game Dev Business"]
+categories: ["publishing"]
 tags: ["your", "game", "steam"]
 author: "Stephen Brenish"
 author_slug: "stephen-brenish"
