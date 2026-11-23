@@ -4,7 +4,7 @@
 {{ $title    := .Params.author_title }}
 {{ $spec     := .Params.author_specialty }}
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Person","name":{{ $name | jsonify }},"jobTitle":{{ $title | jsonify }},"image":{{ (printf "%simg/authors/%s.jpg" .Site.BaseURL $slug) | jsonify }},"url":{{ .Permalink | jsonify }}{{ with .Site.Params.author_linkedin }},"sameAs":[{{ . | jsonify }}]{{ end }}{{ with .Content }},"description":{{ . | plainify | jsonify }}{{ end }}}
+{"@context":"https://schema.org","@type":"ProfilePage","url":{{ .Permalink | jsonify | safeJS }},"mainEntity":{"@type":"Person","@id":{{ (printf "%s#person" .Permalink) | jsonify | safeJS }},"name":{{ $name | jsonify | safeJS }},"jobTitle":{{ $title | jsonify | safeJS }},"image":{{ (printf "%simg/authors/%s.jpg" .Site.BaseURL $slug) | jsonify | safeJS }},"url":{{ .Permalink | jsonify | safeJS }}{{ with .Params.works_for }},"worksFor":{"@type":"Organization","name":{{ . | jsonify | safeJS }}}{{ end }}{{ with .Params.alumni_of }},"alumniOf":{"@type":"CollegeOrUniversity","name":{{ . | jsonify | safeJS }}}{{ end }}{{ with .Params.credential }},"hasCredential":{"@type":"EducationalOccupationalCredential","name":{{ . | jsonify | safeJS }}}{{ end }}{{ with .Params.knows_about }},"knowsAbout":{{ . | jsonify | safeJS }}{{ end }}{{ with .Site.Params.author_linkedin }},"sameAs":[{{ . | jsonify | safeJS }}]{{ end }}{{ with .Content }},"description":{{ . | plainify | jsonify | safeJS }}{{ end }}}}
 </script>
 
 <div class="ap-wrap">
@@ -19,9 +19,31 @@
       <p class="ap-title-label">{{ $title }}</p>
       {{ with $spec }}<p class="ap-spec">{{ . }}</p>{{ end }}
       {{ if .Content }}<p class="ap-summary">{{ .Content | plainify }}</p>{{ end }}
-      {{ with .Site.Params.author_linkedin }}<p class="ap-links" style="margin-top:10px"><a href="{{ . }}" rel="me noopener" target="_blank" style="color:inherit;font-weight:600;text-decoration:none">LinkedIn ↗</a></p>{{ end }}
+      <p class="ap-links">{{ with .Site.Params.author_linkedin }}<a href="{{ . }}" rel="me noopener" target="_blank">LinkedIn &#8599;</a>{{ end }}<a href="/about/">Full résumé</a><a href="/contact/">Ask me a question</a></p>
+      {{ with .Site.Params.author_views_note }}<p class="ap-note">{{ . }}</p>{{ end }}
     </div>
   </div>
+  {{ with .Params.stats }}
+  <div class="ap-stats">{{ range . }}<div class="ap-stat"><div class="ap-stat-n">{{ .n }}</div><div class="ap-stat-l">{{ .l }}</div></div>{{ end }}</div>
+  {{ end }}
+  {{ with .Params.career }}
+  <div class="ap-sec">
+    <h2 class="ap-articles-title">Career</h2>
+    <ol class="ap-career">{{ range . }}<li><div class="ap-c-when">{{ .when }}</div><div class="ap-c-role">{{ .role }} <span>&middot; {{ .org }}</span></div><p>{{ .what }}</p></li>{{ end }}</ol>
+  </div>
+  {{ end }}
+  {{ with .Params.start_here }}
+  <div class="ap-sec">
+    <h2 class="ap-articles-title">Where to start</h2>
+    <div class="ap-start">{{ range . }}<a href="{{ .u }}" class="ap-start-i"><strong>{{ .t }}</strong><span>{{ .d }}</span></a>{{ end }}</div>
+  </div>
+  {{ end }}
+  {{ with site.Data.tools }}
+  <div class="ap-sec">
+    <h2 class="ap-articles-title">Free producer tools on this site</h2>
+    <div class="ap-tools">{{ range first 8 . }}<a href="{{ .url }}" class="ap-tool"><span aria-hidden="true">{{ .icon }}</span>{{ .label }}</a>{{ end }}<a href="/tools/" class="ap-tool ap-tool-all">All tools &amp; templates &rarr;</a></div>
+  </div>
+  {{ end }}
   {{ $ap := where (where .Site.RegularPages "Section" "posts") "Params.author" $name }}
   {{ with $ap }}
   <div class="ap-articles">
@@ -58,6 +80,29 @@
 .ap-title-label{font-size:.8rem;font-weight:700;color:var(--accent,#4338ca);text-transform:uppercase;letter-spacing:.1em;margin:0 0 6px}
 .ap-spec{font-size:.9rem;color:var(--muted,#64748b);margin:0 0 16px}
 .ap-summary{font-size:.95rem;color:var(--text,#334155);line-height:1.7;margin:0;max-width:500px}
+.ap-links{margin:14px 0 0;display:flex;flex-wrap:wrap;gap:16px}
+.ap-links a{color:var(--primary,#6d28d9);font-weight:700;font-size:.9rem;text-decoration:none}
+.ap-note{margin:10px 0 0;font-size:.75rem;color:var(--muted,#94a3b8)}
+.ap-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin:0 0 36px}
+.ap-stat{background:var(--surface,#fff);border:1px solid var(--border,#e7e5e4);border-radius:12px;padding:16px 18px}
+.ap-stat-n{font-size:1.6rem;font-weight:800;color:var(--primary,#6d28d9);line-height:1.1}
+.ap-stat-l{font-size:.8rem;color:var(--muted,#64748b);margin-top:4px;line-height:1.4}
+.ap-sec{padding-top:28px;margin-bottom:28px;border-top:1px solid var(--border,#e7e5e4)}
+.ap-career{list-style:none;margin:0;padding:0 0 0 18px;border-left:2px solid var(--primary,#6d28d9)}
+.ap-career li{position:relative;margin:0 0 20px;padding-left:14px}
+.ap-career li::before{content:"";position:absolute;left:-26px;top:5px;width:12px;height:12px;border-radius:50%;background:var(--primary,#6d28d9);border:3px solid var(--bg,#fff)}
+.ap-c-when{font-size:.75rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted,#94a3b8)}
+.ap-c-role{font-weight:700;color:var(--heading,#1e293b);margin:2px 0 4px}
+.ap-c-role span{color:var(--primary,#6d28d9)}
+.ap-career p{margin:0;font-size:.9rem;line-height:1.6;color:var(--text,#334155)}
+.ap-start{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:12px}
+.ap-start-i{display:flex;flex-direction:column;gap:4px;padding:14px 16px;border:1px solid var(--border,#e7e5e4);border-radius:10px;background:var(--surface,#fff);text-decoration:none;color:inherit}
+.ap-start-i strong{color:var(--heading,#1e293b);font-size:.95rem}
+.ap-start-i span{font-size:.82rem;color:var(--muted,#64748b);line-height:1.45}
+.ap-start-i:hover{border-color:var(--primary,#6d28d9)}
+.ap-tools{display:flex;flex-wrap:wrap;gap:8px}
+.ap-tool{display:inline-flex;align-items:center;gap:6px;padding:7px 13px;border-radius:999px;border:1px solid var(--border,#e7e5e4);background:var(--surface,#fff);font-size:.84rem;font-weight:600;color:var(--text,#334155);text-decoration:none}
+.ap-tool:hover,.ap-tool-all{border-color:var(--primary,#6d28d9);color:var(--primary,#6d28d9)}
 @media(max-width:600px){
   .ap-hero{flex-direction:column;align-items:center;text-align:center;gap:18px}
   .ap-photo,.ap-photo-fallback{width:110px;height:110px}

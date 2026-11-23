@@ -1,0 +1,40 @@
+<section class="psx" aria-labelledby="psx-h">
+  <div class="psx-in">
+    <a href="/stephen-brenish/" class="psx-photo" aria-hidden="true" tabindex="-1"><img src="/img/authors/stephen-brenish.jpg" alt="" width="132" height="132" loading="lazy"></a>
+    <div class="psx-body">
+      <div class="psx-kicker">The producer behind the handbook</div>
+      <h2 id="psx-h" class="psx-name">Hi, I'm Stephen Brenish</h2>
+      <p class="psx-role">Lead Game Producer at Epic Games, working on Fortnite and Unreal Engine</p>
+      <p class="psx-text">GameDevProducer is my working handbook: the frameworks, templates and production practices I use to ship and run games at scale. Before Epic I was a Senior Program Manager at Blizzard Entertainment, owning Battle.net social features used by 30M+ players a month.</p>
+      <ul class="psx-chips">
+        <li>14+ years in production</li>
+        <li>Lead 6 producers and 60 engineers</li>
+        <li>Live ops across Sony, Microsoft and Nintendo</li>
+        <li>Certified ScrumMaster</li>
+      </ul>
+      <div class="psx-actions">
+        <a href="/stephen-brenish/" class="psx-btn">My background and articles</a>
+        {{ with .Site.Params.author_linkedin }}<a href="{{ . }}" rel="me noopener" target="_blank" class="psx-link">LinkedIn &#8599;</a>{{ end }}
+        <a href="/contact/" class="psx-link">Ask me a question</a>
+      </div>
+      <p class="psx-note">Views are my own and don't represent Epic Games.</p>
+    </div>
+  </div>
+</section>
+<style>
+.psx{padding:44px 24px 8px}
+.psx-in{max-width:1040px;margin:0 auto;display:flex;gap:32px;align-items:center;background:var(--surface,#fff);border:1px solid var(--border,#e7e5e4);border-radius:18px;padding:30px 34px;box-shadow:0 8px 30px rgba(15,23,42,.06)}
+.psx-photo{flex-shrink:0}
+.psx-photo img{width:132px;height:132px;border-radius:50%;object-fit:cover;object-position:top;display:block;border:4px solid var(--primary,#6d28d9);box-shadow:0 6px 22px rgba(109,40,217,.22)}
+.psx-kicker{font-size:.72rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--primary,#6d28d9);margin-bottom:6px}
+.psx-name{font-size:1.7rem;font-weight:800;margin:0 0 4px;color:var(--heading,#1e293b);letter-spacing:-.01em}
+.psx-role{margin:0 0 12px;font-weight:600;color:var(--text,#334155)}
+.psx-text{margin:0 0 14px;line-height:1.7;color:var(--muted,#64748b);max-width:680px}
+.psx-chips{list-style:none;display:flex;flex-wrap:wrap;gap:8px;margin:0 0 16px;padding:0}
+.psx-chips li{font-size:.8rem;font-weight:600;padding:5px 11px;border-radius:999px;background:rgba(109,40,217,.08);color:var(--primary,#6d28d9);border:1px solid rgba(109,40,217,.18)}
+.psx-actions{display:flex;flex-wrap:wrap;gap:16px;align-items:center}
+.psx-btn{background:var(--primary,#6d28d9);color:#fff !important;padding:9px 18px;border-radius:8px;font-weight:700;font-size:.88rem;text-decoration:none}
+.psx-link{font-weight:600;font-size:.88rem;color:var(--primary,#6d28d9);text-decoration:none}
+.psx-note{margin:14px 0 0;font-size:.75rem;color:var(--muted,#94a3b8)}
+@media(max-width:700px){.psx-in{flex-direction:column;text-align:center;padding:26px 20px}.psx-chips,.psx-actions{justify-content:center}.psx-photo img{width:112px;height:112px}}
+</style>

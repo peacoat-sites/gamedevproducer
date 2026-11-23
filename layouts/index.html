@@ -25,6 +25,12 @@
     <div class="hero-auth-text">
       {{ $tag := .Site.Params.tagline | default .Site.Title }}<h1 class="hero-auth-title{{ if gt (len $tag) 42 }} hero-auth-title-long{{ end }}">{{ $tag }}</h1>
       <p class="hero-auth-sub">{{ .Site.Params.description }}</p>
+      <a href="/stephen-brenish/" class="hero-byline"><img src="/img/authors/stephen-brenish.jpg" alt="" width="34" height="34">Written by Stephen Brenish, Lead Game Producer at Epic Games</a>
+      <style>
+      .hero-byline{display:inline-flex;align-items:center;gap:10px;margin:2px 0 20px;color:#fff;font-weight:600;font-size:.9rem;text-decoration:none;opacity:.92}
+      .hero-byline img{width:34px;height:34px;border-radius:50%;object-fit:cover;object-position:top;border:2px solid rgba(255,255,255,.7)}
+      .hero-byline:hover{opacity:1;text-decoration:underline}
+      </style>
       <div class="hero-auth-actions">
         <a href="/posts/" class="btn-hero-primary">Browse All Articles</a>
         <a href="/game-production-guide/" class="btn-hero-ghost">Production Guide</a>
@@ -139,6 +145,8 @@
 </section>
 
 <!-- ── ARTICLES ──────────────────────────────────────────────────────────── -->
+{{ partial "producer-spotlight.html" . }}
+
 <section class="articles-section">
   <div class="articles-inner">
     <div class="articles-wrap">
