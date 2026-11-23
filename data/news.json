@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "count": 36,
   "items": [
+    {
+      "source": "Game Developer",
+      "title": "Devs can now utilize the high-end ambient occlusion technique seen in EVE: Frontier",
+      "url": "https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "EU opens consultation on Digital Fairness Act",
+      "url": "https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\"",
+      "url": "https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Activision files patent for neural network to train NPCs from in-game voice chat",
+      "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "One way to stave off AI clones? Minimise the gap between announcement and launch",
+      "url": "https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Jensen Huang reinstated as Nvidia CEO and president following affair allegations",
+      "url": "https://www.gamesindustry.biz/jensen-huang-reinstated-as-nvidia-ceo-and-president-following-affair-allegations",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Christoph Hartmann wants Ubisoft's Massive Entertainment to go beyond shooters and be the \"A24 of gaming\"",
+      "url": "https://www.gamesindustry.biz/christoph-hartmann-wants-ubisofts-massive-entertainment-to-go-beyond-shooters-and-be-the-a24-of-gaming",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Over half of console players in the US played GTA 6 on launch day, according to Circana",
+      "url": "https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "Epic Games will abandon blueprints right at the launch of Unreal Engine 6",
+      "url": "https://gameworldobserver.com/2026/11/23/epic-games-will-abandon-blueprints-right-at-the-launch-of-unreal-engine-6",
+      "date": "2026-11-23"
+    },
     {
       "source": "Game Developer",
       "title": "Grand Theft Auto VI is now the biggest video game launch in history",
@@ -51,24 +105,6 @@
       "date": "2026-11-20"
     },
     {
-      "source": "GamesIndustry.biz",
-      "title": "Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven \"gameplay innovation\"",
-      "url": "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation",
-      "date": "2026-11-20"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "IGN partners with Rockstar to host Official Strategy Guide for GTA 6",
-      "url": "https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6",
-      "date": "2026-11-20"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Phonopolis from Amanita Design wins Grand Prize at the DevGAMM Awards",
-      "url": "https://www.gamesindustry.biz/phonopolis-from-amanita-design-wins-grand-prize-at-the-devgamm-awards",
-      "date": "2026-11-20"
-    },
-    {
       "source": "Game World Observer",
       "title": "Almost all indicators are in the negative — and more from Ubisoft’s report",
       "url": "https://gameworldobserver.com/2026/11/20/almost-all-indicators-are-in-the-negative-and-more-from-ubisofts-report",
@@ -84,30 +120,6 @@
       "source": "Game Developer",
       "title": "Why greenlighting Dressmaker wasn't an easy decision to make",
       "url": "https://www.gamedeveloper.com/marketing/why-greenlighting-dressmaker-wasn-t-an-easy-decision-to-make",
-      "date": "2026-11-19"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Ubisoft lays off 166 staff in Montreal and Quebec studios",
-      "url": "https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios",
-      "date": "2026-11-19"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "007 First Light wins GOTY at 2026 TIGA Awards, Dovetail Games takes home four accolades including Best Publisher",
-      "url": "https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher",
-      "date": "2026-11-19"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Call of Duty: Modern Warfare 4 debuts as top-selling game in US for October 2026",
-      "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026",
-      "date": "2026-11-19"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration",
-      "url": "https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-roblox-considers-bipartisan-bill-to-bypass-forced-arbitration",
       "date": "2026-11-19"
     },
     {
@@ -165,12 +177,6 @@
       "date": "2026-11-17"
     },
     {
-      "source": "Game Developer",
-      "title": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
-      "url": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
-      "date": "2026-11-16"
-    },
-    {
       "source": "Game World Observer",
       "title": "Coffee Stain acquired the rights to Chronicles: Medieval after the game’s developers went bankrupt",
       "url": "https://gameworldobserver.com/2026/11/16/coffee-stain-acquired-the-rights-to-chronicles-medieval-after-the-games-developers-went-bankrupt",
@@ -211,12 +217,6 @@
       "title": "The remake of The Legend of Zelda: Ocarina of Time is the second game in the series based on initial retail sales in the UK",
       "url": "https://gameworldobserver.com/2026/11/09/the-remake-of-the-legend-of-zelda-ocarina-of-time-is-the-second-game-in-the-series-based-on-initial-retail-sales-in-the-uk",
       "date": "2026-11-09"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "Report: EA owners are in talks to buy Unity for $25 billion",
-      "url": "https://gameworldobserver.com/2026/11/06/report-ea-owners-are-in-talks-to-buy-unity-for-25-billion",
-      "date": "2026-11-06"
     }
   ]
 }
