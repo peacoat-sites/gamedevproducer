@@ -13,6 +13,8 @@ lastmod: 2026-10-06
 ---
 Picking the wrong game engine early on is expensive. Not because you can't switch (porting is possible), but because switching costs time, and time is what you actually run out of. A solo developer who spends three months learning Unity, builds 60% of a 2D platformer, realizes the learning curve is crushing them, then restarts in GameMaker has lost those months for good.
 
+> **Disclosure:** I work at Epic Games, which makes Unreal Engine. Engine details on this page come from each engine's published pricing and documentation, and no engine maker pays for placement here.
+
 The right engine depends on four things: what you're building, how experienced you are, what you can afford, and where you want to ship it. Answer those honestly and you'll get a recommendation more useful than any "best engine" ranking.
 
 ## Find Your Engine

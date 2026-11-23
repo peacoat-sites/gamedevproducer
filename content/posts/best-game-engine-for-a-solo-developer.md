@@ -28,6 +28,8 @@ faqs:
 
 Most engine comparisons are written as if you are onboarding a twenty-person team with a graphics programmer, a build engineer and a QA department. When you are all of those people at once, the right choice changes. The question is not which engine is most powerful. It is which one lets one person finish this particular game.
 
+> **Disclosure:** I work at Epic Games, which makes Unreal Engine. Engine details on this page come from each engine's published pricing and documentation, and no engine maker pays for placement here.
+
 ## What each engine actually costs
 
 | Engine | Cost to start | When you start paying | Source code |

@@ -16,6 +16,8 @@ image: "https://images.pexels.com/photos/4523021/pexels-photo-4523021.jpeg?auto=
 
 Picking a game engine is the first real commitment you make as a developer, and changing it later is expensive. The right choice depends less on which engine is "best" and more on what *you* are building, the language you want to write, and the budget you can live with, including the royalty an engine takes once your game starts earning.
 
+> **Disclosure:** I work at Epic Games, which makes Unreal Engine. Engine details on this page come from each engine's published pricing and documentation, and no engine maker pays for placement here.
+
 The interactive table below compares the engines indie and studio teams actually ship with in 2026. **Click any column header to sort** (by difficulty, focus, or open-source status), **use the filters** to narrow to open-source or 2D-only options, or **search** for a language or use case like "Rust" or "visual novels."
 
 {{< datatable "engine_compare" >}}
