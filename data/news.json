@@ -1,11 +1,71 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "count": 36,
   "items": [
     {
       "source": "Game Developer",
+      "title": "Opinion: Grand Theft Auto VI and World of Warcraft: Forever show that mundanity is having a moment",
+      "url": "https://www.gamedeveloper.com/design/grand-theft-auto-vi-and-world-of-warcraft-forever-show-that-mundanity-is-having-a-moment",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "\"You are still taking 100% of the risk\" – Why Cairn dev The Game Bakers backs self-publishing for all but the smallest developers",
+      "url": "https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Splitscreen Croatia conference offers free travel packages for developers looking to showcase unreleased games to publishers and investors",
+      "url": "https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
+      "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "UK mobile developers can now apply for their share of a £260 million Google settlement",
+      "url": "https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "Game World Observer",
+      "title": "39 million unique players and record online attendance: the release of GTA VI became the largest in PlayStation history",
+      "url": "https://gameworldobserver.com/2026/11/24/39-million-unique-players-and-record-online-attendance-the-release-of-gta-vi-became-the-largest-in-playstation-history",
+      "date": "2026-11-24"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Nvidia reinstates Jensen Huang as CEO weeks after his resignation",
+      "url": "https://www.gamedeveloper.com/business/nvidia-reinstates-jensen-huang-as-ceo",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "Game Developer",
+      "title": "Epic Games no longer plans to include Blueprints or Actor Gameplay Framework in Unreal Engine 6",
+      "url": "https://www.gamedeveloper.com/programming/unreal-engine-6-to-remove-blueprints-and-actor-gameplay-framework-from-the-beginning",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "Game Developer",
       "title": "Devs can now utilize the high-end ambient occlusion technique seen in EVE: Frontier",
       "url": "https://www.gamedeveloper.com/programming/devs-can-now-utilize-high-end-ambient-occlusion-technique-seen-in-eve-frontier",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "Nicalis removes AI-generated music from The Binding of Isaac: Repentance+ after player backlash",
+      "url": "https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash",
+      "date": "2026-11-23"
+    },
+    {
+      "source": "GamesIndustry.biz",
+      "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+      "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
       "date": "2026-11-23"
     },
     {
@@ -45,12 +105,6 @@
       "date": "2026-11-23"
     },
     {
-      "source": "GamesIndustry.biz",
-      "title": "Over half of console players in the US played GTA 6 on launch day, according to Circana",
-      "url": "https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana",
-      "date": "2026-11-23"
-    },
-    {
       "source": "Game World Observer",
       "title": "Epic Games will abandon blueprints right at the launch of Unreal Engine 6",
       "url": "https://gameworldobserver.com/2026/11/23/epic-games-will-abandon-blueprints-right-at-the-launch-of-unreal-engine-6",
@@ -72,36 +126,6 @@
       "source": "Game Developer",
       "title": "Is Control Resonant's protagonist a 'sad wet man?' ft. Mikael Kasurinen",
       "url": "https://www.gamedeveloper.com/design/is-control-resonant-s-protagonist-a-sad-wet-man-ft-mikael-kasurinen",
-      "date": "2026-11-20"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand",
-      "url": "https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand",
-      "date": "2026-11-20"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "GTA 6: the first billion-dollar game may also be the last | Opinion",
-      "url": "https://www.gamesindustry.biz/gta-6-the-first-billion-dollar-game-may-also-be-the-last",
-      "date": "2026-11-20"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "How the EU's Digital Fairness Act will impact game design, and why it hits European indies particularly hard",
-      "url": "https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard",
-      "date": "2026-11-20"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "Ubisoft merges two Creative Houses as H1 results decline 16.5%; Q2 net bookings above guidance thanks to Assassin's Creed Black Flag remake",
-      "url": "https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m",
-      "date": "2026-11-20"
-    },
-    {
-      "source": "GamesIndustry.biz",
-      "title": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983",
-      "url": "https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983",
       "date": "2026-11-20"
     },
     {
@@ -153,24 +177,6 @@
       "date": "2026-11-17"
     },
     {
-      "source": "Game Developer",
-      "title": "Zelda and Grand Theft Auto headline the nominees for the 2027 Game Awards",
-      "url": "https://www.gamedeveloper.com/marketing/zelda-and-grand-theft-auto-headline-the-nominees-for-the-2027-game-awards",
-      "date": "2026-11-17"
-    },
-    {
-      "source": "Game Developer",
-      "title": "This year's video game Grammy nominations reveal Academy's potential favor against songs with vocals",
-      "url": "https://www.gamedeveloper.com/audio/grammy-nominations-for-video-games-announced-unbeatable-developers-lament-the-preference-against-vocal-songs",
-      "date": "2026-11-17"
-    },
-    {
-      "source": "Game Developer",
-      "title": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch",
-      "url": "https://www.gamedeveloper.com/business/take-two-lays-off-firaxis-employees-on-eve-of-grand-theft-auto-vi-launch",
-      "date": "2026-11-17"
-    },
-    {
       "source": "Game World Observer",
       "title": "Unity has acquired Synty Studios, the creators of the POLYGON asset line",
       "url": "https://gameworldobserver.com/2026/11/17/unity-has-acquired-synty-studios-the-creators-of-the-polygon-asset-line",
@@ -211,12 +217,6 @@
       "title": "The first details of the December WN C-Level Summit program have been released",
       "url": "https://gameworldobserver.com/2026/11/10/the-first-details-of-the-december-wn-c-level-summit-program-have-been-released",
       "date": "2026-11-10"
-    },
-    {
-      "source": "Game World Observer",
-      "title": "The remake of The Legend of Zelda: Ocarina of Time is the second game in the series based on initial retail sales in the UK",
-      "url": "https://gameworldobserver.com/2026/11/09/the-remake-of-the-legend-of-zelda-ocarina-of-time-is-the-second-game-in-the-series-based-on-initial-retail-sales-in-the-uk",
-      "date": "2026-11-09"
     }
   ]
 }
