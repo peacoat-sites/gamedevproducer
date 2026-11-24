@@ -1,5 +1,5 @@
 ---
-title: "The Best Project Management Tools for Game Studios"
+title: "Project Management Tools for Game Studios: Jira, Notion, HacknPlan"
 date: 2026-06-01T15:37:29.227786+00:00
 draft: false
 description: "Discover the best project management tools for game studios. Compare top platforms to streamline workflows, boost team collaboration, and ship games on time."

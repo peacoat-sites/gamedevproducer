@@ -2,7 +2,7 @@
 title: "Perforce vs Git for Game Development: Which Version Control to Use"
 date: 2026-07-02T11:04:07.142638+00:00
 draft: false
-description: "Compare Perforce vs Git for game version control. Learn which system handles large assets, branching, and team workflows best for your game studio."
+description: "Is Perforce worth it for a small indie team, or is Git with LFS enough? How Perforce, Git and Unity Version Control handle large assets, file locking, branching and cost."
 image: "/img/heroes/6804581.jpg"
 categories: ["pm frameworks"]
 tags: ["perforce", "game", "version", "control"]

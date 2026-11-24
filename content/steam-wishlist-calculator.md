@@ -1,5 +1,5 @@
 ---
-title: "Steam Wishlist Calculator: Estimate Your First-Week Sales from Wishlists"
+title: "Steam Wishlist to Sales Calculator: Estimate First-Week Sales"
 hide_title: true
 date: 2026-06-10
 lastmod: 2026-10-06

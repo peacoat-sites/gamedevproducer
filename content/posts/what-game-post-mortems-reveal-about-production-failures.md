@@ -80,7 +80,7 @@ Here's what actually works for getting better estimates before production locks 
 2. **Have the person doing the work give the estimate, not the lead.** Leads are optimistic. Implementers are closer to reality.
 3. **Add a 20% buffer to every sprint, minimum.** Not to absorb laziness. To absorb unknowns, which always exist.
 4. **Track your estimate accuracy per sprint.** If you're consistently off by 40%, adjust your estimation formula. This is called velocity tracking, and it's standard in agile frameworks for good reason.
-5. **Run a [pre-mortem](/posts/lessons-from-20-years-of-gdc-post-mortems/).** Before you commit to a timeline, ask the team: "Assume we shipped late. What caused it?" You'll surface risks nobody was consciously acknowledging.
+5. **Run a pre-mortem.** Before you commit to a timeline, ask the team: "Assume we shipped late. What caused it?" You'll surface risks nobody was consciously acknowledging.
 
 Tools: **Jira** with proper sprint velocity tracking is the industry standard for mid-to-large teams. **Hack n' Plan** is built specifically for game dev and handles task breakdown well. For learning the methodology, Jason Schreier's *Blood, Sweat, and Pixels* is essential reading. It's not a textbook but it shows you what these failures look like from the inside.
 

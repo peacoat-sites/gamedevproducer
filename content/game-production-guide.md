@@ -139,7 +139,7 @@ Every production plan is also a financial plan. Know how your game will make mon
 
 Game postmortems are the closest thing the industry has to a public failure database, and the research on them is remarkably consistent: most problems are about people and planning, not technology.
 
-- [What 20 years of postmortems reveal](/posts/lessons-from-20-years-of-gdc-post-mortems/)
+- [What 20 years of postmortems reveal](/posts/what-game-post-mortems-reveal-about-production-failures/)
 - [Why game projects fail](/posts/what-game-post-mortems-reveal-about-production-failures/)
 - [Running a postmortem that works](/posts/game-studio-post-mortem-process-that-actually-works/)
 
