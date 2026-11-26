@@ -1,8 +1,8 @@
 ---
-title: "The Game Design Document Blueprint Developers Need"
+title: "How to Write a Game Design Document (GDD) Step by Step"
 date: 2026-06-04T12:23:59.741108+00:00
 draft: false
-description: "Learn how to write a game design document with our step-by-step guide. Cover key sections, structure your ideas, and keep your team aligned throughout developme"
+description: "Learn how to write a game design document that your team will read: the five core sections, the right length, and how to keep it current."
 image: "/img/heroes/9572697.jpg"
 categories: ["production"]
 tags: ["write", "game", "design", "document"]
@@ -21,14 +21,18 @@ faqs:
     a: "Yes, but a short one. Even if you're the only person on the project, you're not the same person at month eight that you were at month one. A short document that records your core decisions and open questions saves you from relitigating the same design problems repeatedly. Think of it as writing notes to your future, exhausted self."
   - q: "What's the most common GDD mistake?"
     a: "Writing too much before anyone has played anything. The second most common is writing a document nobody can find or knows to update. Both of these kill the document's usefulness. Start lean, keep it in a shared wiki, and treat updates as a team habit."
+  - q: "What should a game design document include?"
+    a: "At minimum, a one-page pitch, core mechanics, a content inventory, game feel and reference material, and a list of open questions. Add narrative, audio, or monetization sections only if your project needs them, and consider keeping those in separate documents owned by the people responsible for them."
+  - q: "What is the difference between a GDD and a pitch document?"
+    a: "A pitch document is built to convince a publisher or investor, so it leads with the hook, the audience, and the core experience. A GDD is a working tool for the team, so it adds enough mechanical detail that someone could build a prototype from it. The one-page pitch at the top of a GDD can double as the start of a pitch document."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-08-12
+lastmod: 2026-11-26
 ---
 
 Most game design documents are dead on arrival. Not because the designer didn't care, not because the game idea was bad. Because the writer confused thoroughness with usefulness, and produced something so dense that nobody on the team actually read it.
 
-It's a classic first-timer mistake, and an easy one to make. Picture the beautifully formatted hundred-page GDD: four levels of nested headings, a five-page fictional history of a kingdom the player will spend forty minutes in. The lead programmer reads the first dozen pages, then asks to be walked through the rest verbally. That conversation takes twenty minutes. The document took six weeks.
+It's a classic first-timer mistake, and an easy one to make. To write a game design document that gets used, keep it short and build it from five sections: a one-page pitch, core mechanics, a content inventory, game feel and references, and a list of open questions. Picture the beautifully formatted hundred-page GDD instead: four levels of nested headings, a five-page fictional history of a kingdom the player will spend forty minutes in. The lead programmer reads the first dozen pages, then asks to be walked through the rest verbally. That conversation takes twenty minutes. The document took six weeks.
 
 The fix is a mindset shift: stop treating the GDD as a document and start treating it as a communication tool with a specific job to do. Different job, different output entirely.
 
@@ -52,7 +56,7 @@ Across a lot of GDDs, from solo projects to big-budget productions, the ones tha
 
 **Content inventory.** Levels, characters, items, enemy types, whatever the game contains. This section is primarily for your producer and your scope conversations. You don't need full design detail here, just enough to know what exists and roughly what it'll take to build. A table works fine. A list works fine. The point is that someone can look at this and say "oh, we have thirty enemy types, that's a conversation."
 
-**Game feel and reference.** Most GDDs skip this entirely. Most teams miss it. How should this game feel? Not mechanically, but experientially. What are your reference games? What's the camera behavior trying to accomplish emotionally? What does juice mean in this project's context? I've started including short video reference links in digital GDDs and it's made art direction conversations dramatically more productive. A screenshot from Hollow Knight or a clip from a GDC talk communicates in four seconds what would take a paragraph to describe badly.
+**Game feel and reference.** Most GDDs skip this entirely. Most teams miss it. How should this game feel? Not mechanically, but experientially. What are your reference games? What's the camera behavior trying to accomplish emotionally? What does juice mean in this project's context? I'd recommend including short video reference links in digital GDDs, since they make art direction conversations much more productive. A screenshot from Hollow Knight or a clip from a GDC talk communicates in four seconds what would take a paragraph to describe badly.
 
 **Open questions.** Honest list of things you haven't decided yet. This sounds like weakness. It's actually the opposite. Every design has unresolved questions. Writing them down prevents the team from making silent assumptions that conflict with each other. I include a column for "decision deadline" next to each open question, which forces you to actually close them out.
 
@@ -60,11 +64,11 @@ Some GDDs need a narrative design section, a monetization section, an audio dire
 
 ## Length, Format, and the Living Document Problem
 
-Short answer on length: as short as possible while still being unambiguous. I've seen great GDDs at eight pages and terrible ones at three hundred. The page count tells you almost nothing.
+Short answer on length: as short as possible while still being unambiguous. A great GDD can run eight pages and a terrible one can run three hundred. The page count tells you almost nothing.
 
 What I've landed on for format: the GDD lives in a wiki, not a Word document or a PDF. Notion, Confluence, Nuclino, whatever your team already uses. The wiki format does three things a static document doesn't: it's linkable (so the character doc can link to the combat doc), it's versionable without the "GDD_FINAL_v3_ACTUALLY_FINAL.docx" naming disaster, and it's genuinely collaborative in a way that doesn't require emailing files around.
 
-If you're a small team or solo, Notion is probably fine and it's free up to a point. If you're in a studio already on Jira, Confluence is the obvious choice since your tasks and your design docs live in the same ecosystem. I've also seen teams use Google Docs with aggressive use of internal links and it works perfectly well. The tool matters less than the discipline of keeping it updated.
+If you're a small team or solo, Notion is probably fine and it's free up to a point. If you're in a studio already on Jira, Confluence is the obvious choice since your tasks and your design docs live in the same ecosystem. Google Docs with aggressive use of internal links also works perfectly well. The tool matters less than the discipline of keeping it updated.
 
 And that's the living document problem. The GDD has to stay current or it becomes actively harmful, a source of outdated information that misleads new team members and generates arguments about what was "actually" decided. My rule: if a design decision changes, the person who owns that section updates the doc before the end of the sprint. Non-negotiable. I've enforced this by making GDD reviews part of sprint retrospectives, which sounds heavy but actually takes about ten minutes when the doc is well-maintained.
 

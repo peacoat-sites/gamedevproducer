@@ -21,11 +21,15 @@ faqs:
    a: "Run them, but adjust. Post-crunch retros need more time, maybe 90 minutes, and the Mad/Sad/Glad format works better than a process-focused one. People need to process the emotional reality before they can think clearly about systemic fixes. Acknowledge the crunch directly and specifically before jumping into what to change next time."
  - q: "How long should a project post-mortem take vs a sprint retro?"
    a: "Sprint retro: 60 minutes max. Milestone retro: 90 minutes to 2 hours. Full project post-mortem: this can take a half day done properly, especially for projects over a year long. For post-mortems I recommend a timeline exercise where the team reconstructs major events from memory before analysis. It surfaces things that no one person remembered alone and builds a shared understanding of what actually happened."
+ - q: "What is a game development retrospective?"
+   a: "A game development retrospective is a structured team meeting held at the end of a sprint, milestone, or project to review what worked, what didn't, and what to change. It ends with a small number of action items that each have an owner and a deadline. The goal is continuous improvement in how the team builds the game, not blame."
+ - q: "What is the difference between a retrospective and a post-mortem in game development?"
+   a: "A retrospective is a recurring meeting, usually at the end of each sprint or milestone, focused on adjusting how the team works going forward. A post-mortem looks back at a whole project or release to document what went right and wrong. Both use similar techniques, but retros drive short-term process changes while post-mortems capture lessons for future projects."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
-Most retrospectives I've sat in felt like group therapy sessions where nothing actually changed. The team vented, someone wrote stuff on sticky notes, and three weeks later we were repeating the exact same mistakes. Sound familiar? The problem usually isn't the format. It's that producers treat retros as a ceremony to complete rather than a tool to use. Across projects of every size, from short jams to multi-year productions, a good retro can be the single highest-leverage hour of your sprint. A bad one actively damages trust. Here's how to run one that does real work.
+A game development retrospective is a time-boxed meeting where the team reviews how it worked during a sprint, milestone, or project, picks a few specific problems, and commits to owned action items. To run one well, build psychological safety first, keep it to 60 to 90 minutes, use a format like 4Ls, and track every action item in your project management tool. Too many retros end up as group therapy sessions where the team vents, someone fills a board with sticky notes, and nothing actually changes. The problem usually isn't the format. It's that producers treat retros as a ceremony to complete rather than a tool to use. A good retro can be the single highest-leverage hour of your sprint, and a bad one actively damages trust. Here's how to run one that does real work.
 
 ## Why Most Game Dev Retros Fail Before They Start
 
@@ -43,7 +47,7 @@ Keep your retros time-boxed at 60 minutes for a two-week sprint. 90 minutes if y
 
 Get the right people in the room. For a small indie team that's everyone. For a larger project, run discipline-specific retros (design, engineering, art) and then a leads retro. Mixing 20 people into one session produces a handful of brave voices and a lot of nodding.
 
-Use a dedicated tool. I've had good results with **EasyRetro** and **Parabol** for remote teams. Both let people add items asynchronously before the meeting so quieter team members aren't steamrolled by faster talkers. For in-person sessions, a physical board with color-coded sticky notes still works well if your team is 10 or fewer.
+Use a dedicated tool. **EasyRetro** and **Parabol** both work well for remote teams. Both let people add items asynchronously before the meeting so quieter team members aren't steamrolled by faster talkers. For in-person sessions, a physical board with color-coded sticky notes still works well if your team is 10 or fewer.
 
 ## Choosing a Format That Fits Your Team's Current Needs
 
@@ -57,7 +61,7 @@ Use a dedicated tool. I've had good results with **EasyRetro** and **Parabol** f
 
 The classic Start/Stop/Continue is fine for teams new to retros. But it gets stale fast, and "continue doing good stuff" is rarely actionable.
 
-Here are formats I've used and when they work:
+Here are common formats and when they work:
 
 | Format | Best For | Watch Out |
 |---|---|---|
@@ -93,7 +97,7 @@ The fix is brutally simple: open every retro by reviewing the action items from 
 
 Track your retro action items inside your actual project management system, not a separate doc. If your team uses **Jira**, **Shortcut**, or **Linear**, retro tasks should live there. Visibility creates accountability.
 
-What surprised me when I started doing this consistently was how quickly team morale improved, not because the problems disappeared immediately, but because people saw that raising an issue actually led to something. That feedback loop is the whole point.
+Morale tends to improve quickly when you do this consistently, not because the problems disappear immediately, but because people see that raising an issue actually leads to something. That feedback loop is the whole point.
 
 ## Tools Worth Having in Your Producer Toolkit
 
@@ -116,6 +120,6 @@ What surprised me when I started doing this consistently was how quickly team mo
 - Clinton Keith's courses on LinkedIn Learning translate his book into practical walkthroughs
 - The Game Production Masterclass series on Udemy has solid content for producers new to agile ceremonies
 
-The teams I've seen get the most out of retrospectives aren't the ones with the fanciest process. They're the ones where running a retro is treated as seriously as a sprint review or a milestone build. The ceremony matters less than the commitment: we are going to look honestly at how we work, and we're going to actually change something. One small, specific, owned action item per retro, applied consistently, compounds over the life of a project into something that genuinely ships better games.
+The teams that get the most out of retrospectives aren't the ones with the fanciest process. They're the ones where running a retro is treated as seriously as a sprint review or a milestone build. The ceremony matters less than the commitment: we are going to look honestly at how we work, and we're going to actually change something. One small, specific, owned action item per retro, applied consistently, compounds over the life of a project into something that genuinely ships better games.
 
 *Photo: [Quyn Phạm](https://www.pexels.com/@quyn-ph-m-255082234) via Pexels*

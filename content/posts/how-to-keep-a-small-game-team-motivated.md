@@ -1,7 +1,7 @@
 ---
 title: "Keeping Your Game Team Motivated: Strategies That Actually Work"
 date: 2026-07-13T11:36:17.796469+00:00
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 draft: false
 description: "Build momentum and morale in your small game studio. Discover practical strategies to keep your team engaged, focused, and excited about shipping great games."
 image: "/img/heroes/6803525.jpg"
@@ -24,9 +24,11 @@ faqs:
     a: "Carefully. Consensus feels democratic but it often produces worse decisions and can actually lower motivation if people feel the vision is muddled. A cleaner model: one person has final creative authority on clearly defined domains, but that person is expected to solicit and genuinely consider input before deciding. People want to be heard. They don't necessarily need to win every vote."
   - q: "How do you keep remote team members from feeling isolated?"
     a: "The biggest thing I've found is creating regular 'ambient' contact beyond task communication. A non-work channel people actually use. Optional Friday voice calls. Sharing that Friday gif thread I mentioned. The goal is to create the feeling that you're making something together, not just exchanging files with strangers on the internet. It takes a bit of deliberate setup but it compounds over time."
+  - q: "How do you keep a small game team motivated during the long middle of production?"
+    a: "Make progress visible and keep the creative goal in front of the team. Regular internal playthroughs and a short weekly roundup of screenshots or gifs help people see what they have built. Honest conversations about timelines and slipped milestones also keep trust intact when the work feels slow."
 ---
 
-Picture a lead artist, weeks into a crunch, deleting three hours of work without a word, then closing the laptop and going to make tea. That is usually how motivation fails on a small team: not with a resignation, but quietly. Motivation isn't something you give people. It's something you either protect or destroy, usually slowly, usually without noticing.
+Picture a lead artist, weeks into a crunch, deleting three hours of work without a word, then closing the laptop and going to make tea. That is usually how motivation fails on a small team: not with a resignation, but quietly. Motivation isn't something you give people. It's something you either protect or destroy, usually slowly, usually without noticing. To keep a small game team motivated, make progress visible, give people ownership inside a shared creative direction, and watch for early signs of disengagement.
 
 Small teams are strange. You'd think fewer people means easier to manage, easier to keep morale up. Often the opposite is true. On a five or six person team, one person's bad week is everybody's bad week. One person quietly checking out can tank the whole project. The stakes per person are just higher, and most of the "keep your team happy" advice floating around assumes you have an HR department and a wellness budget. You probably don't.
 
@@ -36,7 +38,7 @@ What follows is what tends to work, and what tends not to.
 
 Everyone in game dev circles talks about crunch. And yes, crunch is real and genuinely harmful. But on small teams, plenty of projects die from slow-drip boredom rather than overwork. Long middle stretches of production where nothing feels exciting, where the original vision has been iterated into something workable but not thrilling, where people are just... filling in the spreadsheet.
 
-What surprised me was how fast this sets in. Six to eight weeks into a project, even a good one, you'll often hit a motivational trough. The honeymoon of the concept is over. The finish line isn't visible yet. This is when small teams start drifting.
+This sets in faster than most teams expect. Six to eight weeks into a project, even a good one, you'll often hit a motivational trough. The honeymoon of the concept is over. The finish line isn't visible yet. This is when small teams start drifting.
 
 One of the most effective habits is a "milestone demo" on a hard six-week cycle, regardless of where you are in production. Not a formal build review, not a publisher demo. An internal playthrough where everyone stops and plays what exists, together, in the same room or on a call. You talk about what's fun. You argue about what's broken. You remember why you started.
 
@@ -56,21 +58,21 @@ When someone feels ownership of their work AND they can see how it connects to s
 
 Small warning: what I'm about to say is not a foolproof system. Team dynamics are genuinely unpredictable and I don't want to pretend otherwise.
 
-That said, here are the early signals I've learned to watch for specifically on small teams:
+That said, here are early signals worth watching for specifically on small teams:
 
 Someone stops volunteering opinions in meetings. Not because they're busy; they're just... not there mentally. On a big team this gets lost. On a team of five, it's obvious if you're paying attention.
 
-Async communication goes flat. On projects where we use Discord or Slack, a team that was producing bursts of messages, ideas, and random screenshots starts responding to things with single-word answers. This is almost always a leading indicator of something being wrong, usually either unclear ownership of a problem or a creative decision that someone privately disagrees with.
+Async communication goes flat. On projects that run on Discord or Slack, a team that was producing bursts of messages, ideas, and random screenshots starts responding to things with single-word answers. This is almost always a leading indicator of something being wrong, usually either unclear ownership of a problem or a creative decision that someone privately disagrees with.
 
 Work gets technically correct but lifeless. This one's harder to quantify but any experienced producer will recognize it. The assets come in on time. They're fine. They're exactly what was asked for. No surprises, no "I tried something extra here." That suppression of initiative is a warning sign.
 
-When I catch these early, my usual move is a one-on-one conversation that's explicitly not a status check. No task list. Just: "How are you feeling about the project right now? What's exciting? What's bugging you?" Takes twenty minutes. Often surfaces something fixable.
+When you catch these early, a good first move is a one-on-one conversation that's explicitly not a status check. No task list. Just: "How are you feeling about the project right now? What's exciting? What's bugging you?" Takes twenty minutes. Often surfaces something fixable.
 
 ## What Actually Sustains People Through the Long Middle
 
 I've come to believe that visibility of progress is probably the single highest-leverage lever you have. Not just sprint velocity in your Jira board. Visible, tangible, "look what we made" progress.
 
-One practice that's worked well: a short Friday update that everyone contributes one screenshot or one gif to. Doesn't matter how small. A particle effect that's finally looking right. A level section that blocked you for two weeks. You collect these, drop them in a shared channel, and suddenly you have a scroll of what got built this week. It sounds trivial. It is not trivial.
+One practice worth trying: a short Friday update that everyone contributes one screenshot or one gif to. Doesn't matter how small. A particle effect that's finally looking right. A level section that blocked you for two weeks. You collect these, drop them in a shared channel, and suddenly you have a scroll of what got built this week. It sounds trivial. It is not trivial.
 
 The research on progress and motivation is pretty robust here. Teresa Amabile's work at Harvard (documented in "The Progress Principle," which if you haven't read it, read it) found that making meaningful progress on work was the single biggest day-to-day motivator, even above recognition and incentives. The problem is that progress on a game often doesn't feel like progress because you're living inside it. Making it visible changes that.
 

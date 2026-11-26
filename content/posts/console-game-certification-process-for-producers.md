@@ -2,7 +2,7 @@
 title: "Getting Your Game Certified: Console Approval Roadmap"
 date: 2026-05-24T09:15:10.803142+00:00
 draft: false
-description: "Learn how the console game certification process works for producers, covering submission requirements, technical checks, and approval steps for major platforms"
+description: "How console game certification works: platform requirements (TRC, XR, Nintendo Guidelines), age ratings, the submission steps, and common failures to avoid."
 image: "/img/heroes/4523032.jpg"
 categories: ["industry intel"]
 tags: ["console", "game", "certification", "process", "producers"]
@@ -21,11 +21,15 @@ faqs:
    a: "Yes, and usually faster. Patch and DLC submissions go through a lighter review process than a full game submission. Turnaround is usually quicker than for a full game submission. The requirements still apply, but the scope of testing is smaller."
  - q: "Do indie studios get treated differently in cert than large publishers?"
    a: "The requirements are the same regardless of studio size. What differs is access to platform support. Larger publishers often have a dedicated platform relations contact who can expedite questions or flag issues before submission. Indie studios working through the standard developer programs typically rely on documentation and developer forums. Joining programs like the ID@Xbox or PlayStation Indies initiative can improve your access to support resources."
+ - q: "How do I prepare a Unity game for console certification?"
+   a: "Start by reading the platform holder's requirements documents (TRC, XR, or Nintendo's Guidelines) and checking your build against each applicable item. Unity-based games need the same things as any other: graceful save and load handling, clean network failure behavior, correct suspend and resume, and proper trophy or achievement logic. Use the console-specific build target from your platform SDK, then run a full internal compliance pass before you submit."
+ - q: "Do I need a developer account to get my game certified?"
+   a: "Yes. You need an approved developer account and access to the platform's partner portal before you can submit a build. Registration can take weeks, so start it well before you plan to submit."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
-You've just hit your ship date. The build is stable, the team is exhausted, and someone in the room asks, "So how long does cert actually take?" The honest answer is: longer than you budgeted, almost certainly. Each submission takes time, turnaround varies by platform and by season, and a single failure means another round. If you didn't plan for that buffer, you're already in trouble. This article is for producers who want to stop being surprised by that number.
+You've just hit your ship date. The build is stable, the team is exhausted, and someone in the room asks, "So how long does cert actually take?" The honest answer is: longer than you budgeted, almost certainly. Each submission takes time, turnaround varies by platform and by season, and a single failure means another round. If you didn't plan for that buffer, you're already in trouble. Console certification is the mandatory approval process where Sony, Microsoft, or Nintendo tests your game against their technical requirements before it can release on their platform. To get through it, you register as a developer, secure age ratings, build a submission-ready binary, test it against the platform's requirements, submit it through the partner portal, and fix any failures. This article is for producers who want to stop being surprised by that timeline.
 
 ## What Certification Actually Is (and Why It Exists)
 

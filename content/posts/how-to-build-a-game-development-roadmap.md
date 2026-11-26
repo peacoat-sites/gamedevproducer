@@ -2,7 +2,7 @@
 title: "How to Build a Game Development Roadmap (From Concept to Launch)"
 date: 2026-06-12T11:58:23.150495+00:00
 draft: false
-description: "How to build a game development roadmap that holds up: milestone gates, the vertical slice, scope decisions, certification windows, and content roadmaps for live-service games."
+description: "How to build a game development roadmap that holds up: milestone gates, the vertical slice, scope decisions, certification windows, and live-service content plans."
 image: "/img/heroes/7964147.jpg"
 categories: ["project management"]
 tags: ["build", "game", "development", "roadmap"]
@@ -23,11 +23,15 @@ faqs:
     a: "Early and often. The roadmap shouldn't be a producer artifact handed down from above. Getting your leads involved in setting milestone definitions and identifying the critical path dramatically improves buy-in and surfaces risks you won't see from a spreadsheet. Even a 30-minute working session with your leads before you finalize anything is worth it."
   - q: "What do I do when the roadmap is clearly wrong but leadership won't adjust it?"
     a: "Document everything. Update your confidence percentages. Make the delta between the current plan and realistic delivery visible in writing, repeatedly. If you're being pressured to maintain a roadmap you know is wrong, that's a project health problem, not a roadmap problem, and your job is to make the risk legible, not to paper over it."
+  - q: "How do you write a good roadmap for a video game?"
+    a: "Start with three to five milestones, each with a concrete, demonstrable definition such as what a player can do and who signs it off. Attach dates to milestones rather than individual tasks, and map the critical path, team capacity, and fixed external dates like certification windows. Give a target window for ship date until the Vertical Slice proves the game works."
+  - q: "What should a game roadmap include?"
+    a: "At minimum: major milestones with written definitions, milestone dates, the critical path, a rough capacity map, and known external dependencies such as platform submission deadlines. Leave out individual task assignments, weekly granularity, and speculative features that have not been decided."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
-Most game development roadmaps I've seen are either dishonestly optimistic or so vague they're useless. And I'll be honest: I was guilty of building both kinds before I figured out what actually works.
+A game development roadmap is a milestone-based plan that shows where the project is going and how you will know you have arrived: First Playable, Vertical Slice, Alpha, Beta, and Gold, each with a concrete definition, plus the scope decisions, certification windows, and post-launch content plans around them. Most roadmaps fail because they are either dishonestly optimistic or so vague they're useless.
 
 The roadmap problem in game dev is specific and weird. Unlike software products shipping to millions of users with clean analytics and fast feedback loops, games have long creative development cycles, enormous scope uncertainty, and a finish line that keeps moving because "fun" is a design target, not a checkbox. The tools that work great for SaaS sprints don't translate cleanly. Scrum purists will tell you to run two-week sprints and hold your standups and trust the process. What they won't tell you is that a sprint velocity means almost nothing when your lead designer is prototyping a combat system that might get cut in month four.
 
@@ -39,7 +43,7 @@ The first mistake most new producers make is building a roadmap that's really ju
 
 For game development, milestones are the answer. Specific, demonstrable milestones. Not "complete combat" but "player can attack, dodge, and die with final placeholder animations, reviewed and signed off by creative director." The difference matters enormously when you're three months in and someone's debating whether combat is "done enough" to move on.
 
-The industry has fairly standard milestone gates: First Playable, Vertical Slice, Alpha, Beta, Gold. But the definitions vary wildly between studios, and if you're building a roadmap for an indie project or a smaller team, you probably don't need all of them. What you do need is a shared understanding of what each gate means *for your specific project*. Write that definition down, ideally in a real [milestone document](/posts/how-to-write-a-game-production-milestone-document/), and make it concrete. I've been in milestone reviews where two senior developers had completely different mental models of what "Alpha" meant, and neither of them was wrong by generic industry standards. They were just building different things in their heads.
+The industry has fairly standard milestone gates: First Playable, Vertical Slice, Alpha, Beta, Gold. But the definitions vary wildly between studios, and if you're building a roadmap for an indie project or a smaller team, you probably don't need all of them. What you do need is a shared understanding of what each gate means *for your specific project*. Write that definition down, ideally in a real [milestone document](/posts/how-to-write-a-game-production-milestone-document/), and make it concrete. It's common for two senior developers to hold completely different mental models of what "Alpha" means, and neither is wrong by generic industry standards. They are just building different things in their heads.
 
 Define no more than four or five major milestones for a project under two years. Each one should be something you can put in front of a publisher, investor, or even just a fresh playtest group and have them understand the state of the game without you explaining it. If you need to explain why something counts as a milestone, it probably doesn't.
 
@@ -47,9 +51,9 @@ Define no more than four or five major milestones for a project under two years.
 
 I want to spend some time here because the Vertical Slice milestone is where most roadmaps silently fail.
 
-The Vertical Slice is supposed to be a representative slice of your finished game: one level, one encounter, one complete loop, built to near-shipping quality. The point is to prove the concept before you commit to full production. What actually happens on most projects I've seen, and ran myself, is that the Vertical Slice becomes a showcase artifact built by your best people under crunch, completely disconnected from the production pipeline the rest of the team will use. Then Full Production starts and everything slows to a crawl because nobody built the actual systems during the VS, they built the *impression* of the systems.
+The Vertical Slice is supposed to be a representative slice of your finished game: one level, one encounter, one complete loop, built to near-shipping quality. The point is to prove the concept before you commit to full production. What often happens is that the Vertical Slice becomes a showcase artifact built by your best people under crunch, completely disconnected from the production pipeline the rest of the team will use. Then Full Production starts and everything slows to a crawl because nobody built the actual systems during the VS, they built the *impression* of the systems.
 
-What stands out talking to producers across different studios is how differently they approach this. Some skip a formal VS entirely in favor of aggressive prototyping phases where they're explicitly allowed to throw things away. Others treat the VS as a systems test, not a visual quality test. The specific approach matters less than the intent: use the pre-production phase to answer your highest-risk questions, not to build something impressive.
+Producers approach this very differently. Some skip a formal VS entirely in favor of aggressive prototyping phases where the team is explicitly allowed to throw things away. Others treat the VS as a systems test, not a visual quality test. The specific approach matters less than the intent: use the pre-production phase to answer your highest-risk questions, not to build something impressive.
 
 When you're plotting this milestone on your roadmap, ask yourself: what are the three things most likely to kill this project? Put those in front of the VS. If the core loop is risky, prototype it first. If the tech is risky, prove the tech. Don't build the UI before you know whether the core mechanic is fun.
 
@@ -69,11 +73,11 @@ To turn milestones into dates quickly, the [game development schedule planner](/
 
 ## Scope: the conversation nobody wants to have
 
-Every producer I respect has developed a habit I'd call aggressive scope interrogation. You question everything on the list, repeatedly, throughout the project. Not because you're trying to make a smaller game, but because you're trying to ship a *finished* game.
+Strong producers tend to develop a habit that could be called aggressive scope interrogation. You question everything on the list, repeatedly, throughout the project. Not because you're trying to make a smaller game, but because you're trying to ship a *finished* game.
 
 The research on this is genuinely mixed. Some designers argue that constraints breed creativity and a tight scope forces better design decisions. Others, particularly on bigger systemic games like RPGs or sims, argue you need generous scope to find the fun through iteration. Both are true in different contexts. Scope management is more about *when* you cut than *how much* you cut.
 
-The roadmap is your tool for making scope decisions visible. When someone wants to add a feature, the question isn't "is this a good idea?" The question is: "which milestone does this fall before, and what does it push out?" Making the tradeoff explicit changes the conversation. I've watched feature requests evaporate the moment a developer has to say out loud which other thing they're willing to delay.
+The roadmap is your tool for making scope decisions visible. When someone wants to add a feature, the question isn't "is this a good idea?" The question is: "which milestone does this fall before, and what does it push out?" Making the tradeoff explicit changes the conversation. Feature requests often evaporate the moment a developer has to say out loud which other thing they're willing to delay.
 
 There are two books I keep recommending on this. "The Art of Game Design" by Jesse Schell covers design decision-making in ways that directly inform scope conversations. For the production and business side, "Blood, Sweat, and Pixels" by Jason Schreier is required reading. Not as a how-to, but because it documents, with brutal specificity, what happens when scope and roadmap discipline break down.
 

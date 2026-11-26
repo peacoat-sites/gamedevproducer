@@ -21,11 +21,15 @@ faqs:
    a: "Yes, but size it appropriately. A solo developer or two-person team doesn't need eleven columns and a dedicated review meeting. A ten-item list in a notes app with monthly check-ins covers most of what you need. The habit matters more than the format."
  - q: "Can a risk register help with publisher conversations?"
    a: "Genuinely yes, and this is underused. Walking into a publisher milestone review with a current risk register shows professional rigor. It also gives you a structured way to surface risks that need publisher input, like platform certification strategy or marketing timeline dependencies, without it feeling like you're delivering bad news."
+ - q: "What should a risk assessment form for a game project include?"
+   a: "At minimum, a risk description, a category, a probability score, an impact score, a calculated risk score, a named owner, a mitigation plan, a contingency plan, a status and a last-reviewed date. The template on this page includes all of these. Add game-specific categories such as engine and middleware, key person dependency, platform certification and publisher risk."
+ - q: "What tools work best for managing game development risks?"
+   a: "A spreadsheet is enough to start, and the free Excel template on this page covers scoring and a heat map. Notion or Airtable work well once you want to link risks to sprint tasks, and Jira teams can use a Confluence risk register template. The best tool is the one your team will open at every review."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
-Most game projects don't fail because of bad ideas. They fail because nobody wrote down the thing everyone quietly worried about in week two. I've sat in postmortems where the team collectively remembers the exact moment they knew the dependency on a third-party SDK was going to blow up the milestone, and nobody escalated it. It lived in someone's head. That's not a communication problem. That's a risk management problem, and a risk register is the tool that solves it.
+A game risk register is a structured list of the things that could go wrong on your project, each scored for probability and impact and given an owner and a mitigation plan. The free Excel template below works as a risk assessment form for game development, with scoring, a heat map and example risks you can replace with your own. Most game projects don't fail because of bad ideas. They fail because nobody wrote down the thing everyone quietly worried about in week two. A team often knows early that a dependency on a third-party SDK could blow up a milestone, but nobody escalates it, so it lives in someone's head. That's not a communication problem. That's a risk management problem, and a risk register is the tool that solves it.
 
 Here's what surprised me when I started taking risk registers seriously: most game teams either skip them entirely or build one in week one and never open it again. Neither approach works. A risk register isn't a document. It's a living habit.
 
@@ -88,7 +92,7 @@ The silent writing step matters more than it sounds. Senior people can unintenti
 
 ## Maintaining the Register Without It Becoming a Chore
 
-The biggest failure mode I've watched is a beautifully formatted risk register that becomes a museum artifact by sprint three. Here's what keeps it alive:
+The biggest failure mode is a beautifully formatted risk register that becomes a museum artifact by sprint three. Here's what keeps it alive:
 
 Review high-score risks every two weeks during your [sprint retrospective](/posts/how-to-run-a-game-development-retrospective/) or milestone check-in. You don't need a dedicated meeting. Five minutes at the end of standup works if you're consistent.
 
@@ -104,6 +108,6 @@ For the register itself, **Notion** with a filtered database view is my recommen
 
 If you want to go deeper on the production methodology behind all of this, Heather Maxwell Chandler's *The Game Production Toolbox* is the most practical book I've found on applied production methods for games specifically. Clinton Keith's *Agile Game Development* also covers risk framing in a way that's actually adapted for creative iteration cycles, not just software engineering contexts.
 
-The best risk registers I've ever seen weren't the most elaborate ones. They were the ones the team actually read. Start simple, review consistently, and use the postmortem from your last project to seed the register for your next one. The risks that killed your last schedule are almost always lurking in your next one, just wearing different names.
+The best risk registers aren't the most elaborate ones. They're the ones the team actually reads. Start simple, review consistently, and use the postmortem from your last project to seed the register for your next one. The risks that killed your last schedule are almost always lurking in your next one, just wearing different names.
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*

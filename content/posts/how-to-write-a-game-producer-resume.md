@@ -1,7 +1,7 @@
 ---
 title: "How to Write a Game Producer Resume That Gets Interviews (With Examples)"
 date: 2026-07-19T10:05:45.792249+00:00
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 draft: false
 description: "Learn what game studios want to see on your producer resume, including essential skills, metrics, and formatting tips to land interviews."
 image: "/img/heroes/27559482.jpg"
@@ -24,9 +24,13 @@ faqs:
     a: "This is the hard truth: ship something. A game jam submission counts. A prototype you released on itch.io counts. Volunteer as a producer on an indie team. The 'shipped titles' section can list a $0-revenue itch.io release if the work you did was real production work. The gap between 'aspiring producer' and 'junior producer' in hiring is almost always the presence or absence of shipped work, however small."
   - q: "Should I include my GPA or college degree on a game producer resume?"
     a: "After two to three years of industry experience, GPA is irrelevant and looks like padding. The degree itself (just school, degree type, year) is worth listing until you have roughly five or more years of experience, after which it becomes largely decorative. Most studios care far more about shipped work and demonstrated skills than academic credentials for production roles."
+  - q: "What should a game producer resume include?"
+    a: "A game producer resume should include a shipped titles section near the top, followed by a work history built on specific, measurable outcomes. Add a short skills line listing the production tools you have used, such as Jira, Confluence, and Perforce. Keep the layout to a single column with standard fonts."
+  - q: "Do game studios use ATS software to screen producer resumes?"
+    a: "Some do, especially larger studios, but at many smaller studios a person reads submissions directly. Either way, a simple single-column layout with standard fonts and clear headers works in both cases. Tailor the content to the role rather than stuffing keywords."
 ---
 
-Most game producer resumes I've reviewed over the years have the same fatal flaw: they read like job descriptions, not accomplishments. Someone spent three years managing a 40-person team, shipped a title to 2.3 million players, and their resume says "Coordinated cross-functional teams and facilitated daily standups." That's not a resume. That's a meeting agenda.
+A strong game producer resume leads with shipped titles and measurable results, not job-description language. The most common flaw is a resume that reads like a list of duties instead of accomplishments. Picture someone who spent three years managing a 40-person team and shipped a title to 2.3 million players, whose resume says "Coordinated cross-functional teams and facilitated daily standups." That's not a resume. That's a meeting agenda.
 
 It is an easy mistake to make. Process language feels professional, so people bury real experience under it, and the result is a resume that could belong to anyone.
 
@@ -46,7 +50,7 @@ Put your shipped titles in a dedicated section near the top, before your full wo
 
 You're probably thinking "but what if the numbers aren't public?" Use whatever you legitimately know. Internal metrics you have access to are fine. "Shipped to 1.4M installs on iOS/Android" is real. "Contributing to a franchise with $200M lifetime revenue" is real if you can verify it. Don't invent numbers. You'd be surprised how often [hiring managers](/posts/portfolio-tips-for-aspiring-game-producers/) know the actual figures and will notice a discrepancy.
 
-Hiring teams respond strongly to this section when it is done well. A clean, specific shipped-titles section can move a candidate up a shortlist on its own, because most candidates bury their credits in work history bullets that take digging to find.
+A clean, specific shipped-titles section can move a candidate up a shortlist on its own, because many candidates bury their credits in work history bullets that take digging to find.
 
 ## The Work History: Stop Describing, Start Proving
 
@@ -82,7 +86,7 @@ No headshots. No "hobbies" section unless the hobby is directly relevant (shippe
 
 ## Tailoring by Role Type
 
-This is where I see even experienced producers leave points on the table. A resume optimized for a mobile live ops role should look meaningfully different from one targeting a AAA narrative producer position or an indie studio generalist slot.
+This is where even experienced producers can leave points on the table. A resume optimized for a mobile live ops role should look meaningfully different from one targeting a AAA narrative producer position or an indie studio generalist slot.
 
 Mobile live ops: emphasize player metrics, A/B testing involvement, feature velocity, monetization adjacent work (not because it's all you do, but because studios hiring for this need to see that you understand the business loop).
 

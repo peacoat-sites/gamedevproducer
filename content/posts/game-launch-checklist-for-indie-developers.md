@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate Pre-Launch Checklist for Indie Game Devs"
+title: "Game Launch Checklist for Indie Developers: 90-Day Plan"
 date: 2026-05-30T10:55:01.025563+00:00
 draft: false
-description: "Plan the perfect game launch with our indie developer checklist. Cover marketing, store pages, press kits, and post-launch support to maximize your game's succe"
+description: "A step-by-step game launch checklist for indie developers: 90-day countdown, Steam page, press kit, technical checks, launch-day tasks and post-launch support."
 image: "/img/heroes/6557550.jpg"
 categories: ["publishing"]
 tags: ["game", "launch", "checklist", "indie", "developers"]
@@ -21,11 +21,15 @@ faqs:
    a: "Start with Steam unless you have a specific console deal or you're targeting a platform where your genre clearly lives. Multi-platform launches split your attention, double your QA requirements, and complicate your patch pipeline. Nail one platform first. Port later."
  - q: "What's the most common technical issue that tanks launch day reviews?"
    a: "Save file corruption and missing or broken controller support are two of the most damaging. A corrupted save after two hours of play is an immediate refund and a furious review. Test your save system until you're sick of testing it, then test it again."
+ - q: "What should be on a Steam launch checklist?"
+   a: "Start with a live store page that has capsule art, at least five gameplay screenshots, a trailer, accurate tags and system requirements. Add a press kit, review keys sent to creators who cover your genre, and a final build tested on a clean machine. Schedule your launch announcements ahead of time so launch day is mostly execution."
+ - q: "What should I prepare for launch day?"
+   a: "Lock your build 24 hours before release and avoid pushing new builds unless something is critically broken. Have a patch ready in case a serious issue appears, and queue your social posts, Discord announcement and any stream in advance. Then monitor your Steam discussion page and community channels closely for the first 48 hours."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
-Most indie games don't fail because they're bad games. They fail because they launched badly. Genuinely good games can sell a handful of copies at launch when the developer treats "upload to Steam and post on social media" as a release strategy. The game sits there, invisible, while the developer refreshes the sales dashboard in quiet despair. What surprised me most when I started digging into post-mortems and talking to other developers was how consistent the pattern is: the game was fine, sometimes great, but the launch infrastructure was completely missing. A checklist won't save a bad game, but the absence of one has killed plenty of good ones. Knowing your target matters too: the [Steam wishlist calculator](/steam-wishlist-to-sales/) turns a wishlist count into a realistic launch-week sales estimate.
+A game launch checklist for indie developers comes down to four things: a Steam page that is live early, a press kit and outreach to creators, technical testing on clean hardware, and a planned launch day and first 72 hours. The 90-day countdown table below puts each task on a timeline. Most indie games don't fail because they're bad games. They fail because they launched badly. Genuinely good games can sell a handful of copies at launch when the developer treats "upload to Steam and post on social media" as a release strategy. The game sits there, invisible, while the developer refreshes the sales dashboard in quiet despair. The pattern is consistent: the game was fine, sometimes great, but the launch infrastructure was completely missing. A checklist won't save a bad game, but the absence of one has killed plenty of good ones. Knowing your target matters too: the [Steam wishlist calculator](/steam-wishlist-to-sales/) turns a wishlist count into a realistic launch-week sales estimate.
 
 
 <div class="value-module">
@@ -41,7 +45,7 @@ Most indie games don't fail because they're bad games. They fail because they la
 
 If you're reading this the week of your launch, you're already late on several critical items. The real preparation starts 90 to 120 days out. Steam rewards wishlists accumulated *before* launch day: every wishlister is notified when the game releases, and early sales momentum feeds visibility. Valve also requires a Coming Soon page to be live for at least two weeks before release, and in practice you want it up for months; the [Steam sale and Next Fest calendar](/steam-sale-dates/) has the dates and rules to plan around. Itch.io's community features work better when you've built a following first.
 
-What I see constantly: developers spend 90% of their time on the game and 10% on everything else, then try to flip that ratio in the final two weeks. That math doesn't work.
+A common mistake is spending nearly all of your time on the game and very little on everything else, then trying to flip that ratio in the final two weeks. That math doesn't work.
 
 During the 90-day window, focus on this:
 

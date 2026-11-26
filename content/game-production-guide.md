@@ -2,9 +2,9 @@
 title: "Game Production Guide: How Games Get Made, From Concept to Live Ops"
 hide_title: true
 date: 2026-10-06
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 slug: "game-production-guide"
-description: "A structured guide to game production for producers and indie teams: the phases of development, planning and scheduling, running the team, shipping, live operations and the producer career, with the best guides and tools for each stage."
+description: "Game production explained: the phases from concept to live ops, plus planning, team management, shipping and the producer career, with guides and tools for each."
 image: "/img/heroes/219377.jpg"
 author: "Stephen Brenish"
 author_slug: "stephen-brenish"
@@ -17,6 +17,10 @@ faqs:
     a: "Most projects move through concept, pre-production (proving the game is fun and feasible, often ending in a vertical slice), production (building the content), and the alpha, beta and release milestones, followed by certification on consoles and, for live games, ongoing operations. Studios name and gate these phases differently, so define each milestone's exit criteria in writing."
   - q: "How do I become a game producer?"
     a: "Most producers come from QA, design, project management, associate producer roles or adjacent industries. What gets you hired is evidence you can run production: shipped work, documented process and clear thinking about trade-offs. Start with the career section of this guide."
+  - q: "What is game production?"
+    a: "Game production is the work of turning a creative vision into a shipped, and often still-running, game. It covers deciding what to build, in what order, with whom, by when and for how much, then keeping the plan honest as reality arrives. Producers coordinate the people, schedule, budget and risk so the team can ship."
+  - q: "What is game production management?"
+    a: "Game production management is the day-to-day practice of planning, tracking and steering a game project. It includes scoping, scheduling, budgeting, running sprints or flow-based boards, managing risk and quality, and leading the team. The goal is to make problems visible early and decisions cheap."
 ---
 
 Game production is the work of turning a creative vision into a shipped, and often still-running, game: deciding what to build, in what order, with whom, by when and for how much, and then keeping all of that honest as reality arrives. This guide organizes everything on GameDevProducer into the order you need it, from the first pitch to running a live game, with the tools that do the arithmetic along the way.

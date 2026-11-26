@@ -2,7 +2,7 @@
 title: "Steam Wishlist to Sales Calculator: Estimate First-Week Sales"
 hide_title: true
 date: 2026-06-10
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 slug: "steam-wishlist-to-sales"
 tool: true
 categories: ["publishing"]
@@ -21,9 +21,13 @@ faqs:
     a: "On average, yes. A GameDiscoverCo analysis of about 700 launches released from September 2023 found Early Access conversion roughly a third lower than full 1.0 launches."
   - q: "Does the calculator work for free-to-play games?"
     a: "No. For free-to-play games, wishlists convert into downloads rather than sales, and revenue depends on monetization design, so a sales-per-wishlist model does not apply."
+  - q: "What is the Steam wishlist to sales ratio?"
+    a: "It is the number of first-week sales divided by the number of wishlists at launch. GameDiscoverCo's 2025 median for games with more than 25,000 wishlists is 0.15, or about 15,000 sales from 100,000 wishlists. For games priced above $10 the median is 0.10."
+  - q: "How do I estimate sales from my Steam wishlists?"
+    a: "Multiply your launch wishlists by the ratio for your price: 0.10 for games above $10 and 0.15 for cheaper games. That gives a typical first-week figure, and the calculator also shows weak and strong scenarios at half and double the median. Treat the result as a range, since real ratios vary by 10 to 20 times between games."
 ---
 
-This free Steam wishlist calculator estimates your first-week and first-month sales from the number of wishlists you have at launch. It uses GameDiscoverCo's published benchmarks for recent Steam releases and shows weak, typical and strong launches side by side, because the honest answer to "how many copies will I sell?" is a range.
+On Steam, a typical game sells about 0.15 copies in its first week for every wishlist it has at launch (0.10 if priced above $10), so 10,000 wishlists usually means roughly 1,000 to 1,500 first-week sales. This free Steam wishlist calculator estimates your first-week and first-month sales from the number of wishlists you have at launch. It uses GameDiscoverCo's published benchmarks for recent Steam releases and shows weak, typical and strong launches side by side, because the honest answer to "how many copies will I sell?" is a range.
 
 ## What the benchmarks say
 

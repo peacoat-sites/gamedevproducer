@@ -2,7 +2,7 @@
 title: "Game Development Schedule Planner: Free Milestone and Roadmap Tool"
 hide_title: true
 date: 2026-10-06
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 slug: "game-development-schedule-planner"
 categories: ["planning"]
 tool: true
@@ -25,6 +25,10 @@ faqs:
     a: "Leave a protected window before launch that is long enough for at least one failed submission and a resubmission. The planner reserves about ten weeks of release work for console projects, with the first submission roughly eight weeks before launch and gold master two weeks out. The exact requirements are confidential to licensed developers, so confirm timelines with each platform holder."
   - q: "Can I export the schedule?"
     a: "Yes. Download it as a CSV for Excel or Google Sheets, add every milestone to Google Calendar, Outlook or Apple Calendar with the .ics file, copy a share link that reopens your exact plan, or print it."
+  - q: "What should a game development timeline include?"
+    a: "A game development timeline should cover the main phases: concept, pre-production, production, content complete, and polish and release. It should also include the milestones that mark each phase (such as vertical slice, alpha, beta and release candidate), platform deadlines like console certification and Steam store requirements, and an explicit buffer. The planner above builds all of these from your launch or start date."
+  - q: "Can I use a game development planner if I only have a launch date?"
+    a: "Yes. Enter your launch date and the planner works backward through the phases, milestones and platform deadlines to show when each one has to happen. If the timeline is too short for your scope and platforms, it squeezes development rather than the release window and tells you so, which shows early whether the date is realistic."
 ---
 
 A game schedule is a list of promises about when specific things will be true: the core loop is fun, every feature works, all the content is in, the build passes certification. This planner turns your launch date (or your start date), scope and platforms into those promises. It shows every phase, every milestone, the platform and Steam deadlines that catch teams out, and an explicit buffer you can defend.

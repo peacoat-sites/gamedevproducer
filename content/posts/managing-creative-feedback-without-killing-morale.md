@@ -21,9 +21,13 @@ faqs:
    a: "This one takes time to reverse because it means the psychological safety is already gone. Start by actively soliciting disagreement in review sessions: 'What am I missing here?' or 'Does anyone see a problem with this direction?' When someone pushes back and turns out to be right, make that visible to the group. You're rebuilding a norm, not fixing a single incident."
  - q: "Is there a good tool for async visual feedback on game assets?"
    a: "Frame.io is strong for video and animation reviews. ShotGrid (formerly Shotgun) is the industry standard for larger teams tracking asset reviews across a full pipeline. For smaller teams where budget matters, Loom plus a shared Notion page gets you surprisingly far."
+ - q: "What types of game assets work best in Frame.io?"
+   a: "Frame.io works best for anything that can be exported as video or a still image, such as animation cycles, cinematics, VFX captures, UI motion, and gameplay recordings. Timestamped comments let reviewers point to the exact frame they mean. It is a weaker fit for reviewing live builds or design documents."
+ - q: "Does async review in a tool like Frame.io replace feedback sessions?"
+   a: "No. Async comments handle quick iterative notes well, but substantive critique still benefits from a 1:1 conversation, and group sessions are best kept for alignment and shared context. Use the tool to prepare for those conversations, not to skip them."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 Halfway through sprint review, your lead artist goes quiet. The creative director just called their environment work "a good start" and asked for "more energy." No specifics. No examples. Just vibes-based criticism delivered in front of the team. The artist nods, says nothing, and spends the next two weeks technically doing their job while emotionally checking out. You've just watched morale die in real time, and the worst part is the creative director genuinely thought they were being helpful.
 
@@ -102,6 +106,10 @@ A workable model:
 | Quick iterative notes | Async tool comments (Shotgrid, Frame.io, etc.) |
 
 The group session becomes a lot more functional when it isn't doing the job it was never designed to do. It's for alignment, celebration, and shared context. Not for delivering news that blindsides someone in front of their peers.
+
+## Is Frame.io Worth Using for Game Feedback?
+
+Frame.io is an async review tool built around timestamped, frame-accurate comments on video and image files. For game teams, that makes it a good fit for reviewing animation, cinematics, VFX, UI motion, and gameplay captures, where "something feels off around the middle" needs to become a specific note on a specific moment. It is less suited to feedback on live builds or systems design, where a written brief and a playtest note work better. The main benefit is cultural: reviewers can leave considered, written comments before any live session, and the artist can read them privately and ask questions. That supports the 1:1-first approach described above. Whatever tool you pick, it only helps if reviewers still tie each comment back to the brief criteria.
 
 ## Building Feedback Resilience Into Your Team Culture
 

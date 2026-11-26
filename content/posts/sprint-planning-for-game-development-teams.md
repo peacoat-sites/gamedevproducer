@@ -1,8 +1,8 @@
 ---
-title: "Sprint Planning That Actually Ships Games"
+title: "Sprint Planning for Game Development Teams"
 date: 2026-05-27T03:05:08.711296+00:00
 draft: false
-description: "Plan better sprints for your game dev team. Learn proven strategies to scope features, manage crunch, and deliver polished builds on time every sprint."
+description: "Sprint planning for game dev teams: check capacity, map dependencies, flag risk, break down creative tasks, and handle mid-sprint changes without losing velocity."
 image: "/img/heroes/1181343.jpg"
 categories: ["pm frameworks"]
 tags: ["sprint", "planning", "game", "development", "teams"]
@@ -23,17 +23,17 @@ faqs:
    a: "Track completed story points per sprint and average over at least 6 sprints before you trust the number for forecasting. Earlier than that, you're averaging noise. Also track carryover points separately. A team that completes 40 points but carries 15 into the next sprint doesn't have 40-point velocity. They have a carryover problem disguised by a velocity number."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 You're three sprints into your new project, the board looks clean, velocity feels steady, and then a senior animator drops a task that reads "character rig polish" estimated at 3 points. Two weeks later it's still open, now flagged at 11 points, and the feature it was blocking has slipped. Nobody lied. Nobody was lazy. The estimate was just wrong in a way nobody caught during planning. That's not an execution problem. That's a sprint planning problem.
 
-Sprint planning in game development breaks differently than it does in software. The work is more ambiguous, the dependencies are weirder, and the creative unpredictability is real. I spent a lot of time assuming that standard Scrum planning was basically fine with a few tweaks. What surprised me was how much that assumption was costing teams I worked with.
+Sprint planning for a game development team is a short meeting where the team agrees on what it can finish in the next sprint, usually one to two weeks, based on real capacity, mapped dependencies, and flagged risks. It breaks differently than it does in software. The work is more ambiguous, the dependencies are weirder, and the creative unpredictability is real. It's tempting to assume that standard Scrum planning is basically fine with a few tweaks. That assumption tends to cost game teams more than they expect.
 
 ## Why Standard Sprint Planning Falls Apart for Game Dev
 
 Most Scrum literature was written by and for software engineers building defined systems. The inputs are clear, the outputs are testable, and "done" means the same thing to everyone in the room. Game development has art, design, narrative, engineering, and audio all colliding inside the same sprint. A gameplay feature isn't done when the code ships. It's done when it feels right, and "feels right" is a moving target that shifts every time a creative director looks at it.
 
-I'll be honest: the research here is mixed on exactly how much creative variance adds to schedule overrun. But from my 14 years in studios ranging from 8-person indie teams to 200-person AAA departments, the pattern is consistent. Teams that apply Scrum verbatim without adapting it to creative work suffer higher [mid-sprint scope change](/posts/scope-creep-prevention-in-game-development/) and more carryover than teams that build their planning sessions around that creative unpredictability upfront.
+I'll be honest: the research here is mixed on exactly how much creative variance adds to schedule overrun. The pattern is still consistent. Teams that apply Scrum verbatim without adapting it to creative work tend to suffer higher [mid-sprint scope change](/posts/scope-creep-prevention-in-game-development/) and more carryover than teams that build their planning sessions around that creative unpredictability upfront.
 
 ## What Actually Goes Into a Game Dev Sprint Planning Session
 
@@ -79,4 +79,4 @@ On tools: Hack'n'Plan is worth a serious look for any team under 50 people. Jira
 
 ---
 
-The teams I've seen ship on time and within scope weren't the ones with the best tools or the most disciplined Scrum adherence. They were the ones that took sprint planning seriously enough to adapt it to how game development actually works, ran sessions with real discipline, and treated estimation not as a formality but as a risk conversation. That's the difference between a board that looks clean and a game that actually ships.
+The teams that ship on time and within scope usually aren't the ones with the best tools or the most disciplined Scrum adherence. They're the ones that take sprint planning seriously enough to adapt it to how game development actually works, run sessions with real discipline, and treat estimation not as a formality but as a risk conversation. That's the difference between a board that looks clean and a game that actually ships.

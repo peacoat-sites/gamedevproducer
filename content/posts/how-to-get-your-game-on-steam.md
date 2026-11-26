@@ -23,9 +23,14 @@ faqs:
     a: "The $100 is simply not returned. The recoupment only triggers once your game earns $1,000 in adjusted gross revenue on Steam. If it earns less, Valve keeps the fee. This is true per app, so if you submit three games, you've paid $300 in fees regardless of recoupment."
   - q: "Can you change your game's price after launch?"
     a: "Yes, any time outside of an active sale window. Valve restricts price changes during sales events and for a short period before them. You can run your own discounts via the Steamworks dashboard once 30 days have passed since launch."
+  - q: "Do you have to pay to put your game on Steam?"
+    a: "Yes. Steam charges a Steam Direct fee of $100 per app, paid once for each game you publish. There is no ongoing listing fee, but Valve does take its standard revenue share from your sales."
+  - q: "Is the $100 Steam Direct fee refundable?"
+    a: "Valve credits the $100 back to your developer account once your game earns $1,000 in adjusted gross revenue. If the game never reaches that amount, you do not get the fee back."
+lastmod: 2026-11-26
 ---
 
-Getting a game on Steam is not complicated. The platform is more open than it's ever been, the upfront cost is a fixed $100 per app (more on what [that actually](/posts/game-studio-post-mortem-process-that-actually-works/) buys you below), and Valve has published clear documentation covering nearly every step. What trips people up isn't the process itself, it's the parts nobody tells you about: review timelines, the build submission checklist, the metadata decisions that affect discoverability before your game ever goes live.
+It costs $100 per app to put a game on Steam. That is the Steam Direct fee, a one-time payment for each title you publish, and it is the only required upfront cost. Valve credits it back to your developer account once the game earns $1,000 in adjusted gross revenue (more on what [that actually](/posts/game-studio-post-mortem-process-that-actually-works/) buys you below). Beyond the fee, getting on Steam is not complicated: the platform is more open than it's ever been, and Valve has published clear documentation covering nearly every step. What trips people up isn't the process itself, it's the parts nobody tells you about: review timelines, the build submission checklist, the metadata decisions that affect discoverability before your game ever goes live.
 
 Here's what you actually need to know, in the order you'll need to know it.
 

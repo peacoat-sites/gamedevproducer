@@ -2,7 +2,7 @@
 title: "Why Game Devs Quit After Their Biggest Hit"
 date: 2026-05-23T12:42:33.382487+00:00
 draft: false
-description: "Discover the real reasons game developers quit after a successful launch, from burnout and creative burnout to poor management, low pay, and lack of future visi"
+description: "Why game developers leave after a successful launch, from post-crunch exhaustion to career timing, and what producers can do in the 90 days after ship."
 image: "/img/heroes/340152.jpg"
 categories: ["team psychology"]
 tags: ["game", "developers", "leave", "after", "successful"]
@@ -23,11 +23,11 @@ faqs:
    a: "Slow down the operational tempo deliberately and visibly. If the producer is immediately running at the same velocity post-launch, the team reads that as more crunch with a different label. Protect the recovery window. Schedule it. Defend it from stakeholder pressure. Your team will remember that you did."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-07-08
+lastmod: 2026-11-26
 ---
 Your game ships. Reviews are good. Steam numbers are climbing. The Discord is alive. And then, over the next 90 days, three of your best people hand in their notice.
 
-This isn't a horror story. It's Tuesday in the games industry. Post-launch attrition is one of the most predictable, most preventable, and most consistently ignored talent crises in game development. Studios pour enormous energy into *getting* to launch and almost none into what happens to their people after it. The result is a pattern so common it has become normalized. It shouldn't be.
+Why do developers leave after a successful launch? Usually for three reasons: post-crunch exhaustion with no goal attached, uncertainty about what comes next, and the career leverage a shipped hit provides. This isn't a horror story. It's Tuesday in the games industry. Post-launch attrition is one of the most predictable, most preventable, and most consistently ignored talent crises in game development. Studios pour enormous energy into *getting* to launch and almost none into what happens to their people after it. The result is a pattern so common it has become normalized. It shouldn't be.
 
 ---
 
@@ -57,7 +57,7 @@ Attrition after launch usually gets diagnosed as a compensation problem. Sometim
 
 ## Where Studio Leadership Gets It Wrong
 
-The most common mistake I've seen: studios treat launch as the finish line for people management too.
+The most common mistake is treating launch as the finish line for people management too.
 
 Retention conversations that should happen in months 8-10 of a two-year project get postponed until after ship. By then, you're having the conversation six months too late. The developer who needed to feel seen in October is already interviewing in January.
 

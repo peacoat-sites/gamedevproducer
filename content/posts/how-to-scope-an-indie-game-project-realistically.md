@@ -23,11 +23,11 @@ faqs:
    a: "It can be, but it's not a magic fix. Early access works when you have a genuinely playable core loop that players find fun, a transparent roadmap, and the discipline to keep shipping updates. It doesn't work as a way to sell an unfinished game while you figure out what you're building. Players remember bad early access launches and the refund rates will show you immediately if you misjudged your readiness."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 You've got a game idea. It's good. Maybe it's great. You've been sketching systems on napkins, you've got a Discord server with twelve friends who are "definitely in," and you've already mentally cast the launch trailer. Then someone asks: "How long do you think this will take?" You say six months. Everyone nods. Two years later, you're still in development, three people have quietly quit, and the scope has somehow expanded into something that would make a mid-size studio sweat. It happens to more teams than anyone could count. The problem is rarely passion or talent. It is scope.
 
-Realistic scoping isn't about crushing ambition. It's about building something that actually ships.
+To scope an indie game realistically, sort every feature into core, supporting, and nice-to-have buckets, estimate tasks in hours, multiply the total by 2.5, and lock the feature list at the end of pre-production. Realistic scoping isn't about crushing ambition. It's about building something that actually ships.
 
 ---
 
@@ -61,7 +61,7 @@ Most teams planning to build a bucket-three game only have the capacity for buck
 
 ## How to Estimate Time Without Lying to Yourself
 
-Here's my method. It's not glamorous but it works.
+Here's a method that is not glamorous but works.
 
 **Step 1: [Break work into tasks](/posts/how-to-write-good-user-stories-for-game-features/) of 1-3 days.**
 Anything longer needs to be broken down. "Build the combat system" isn't a task. "Implement basic melee attack with hitbox and animation trigger" is. Granularity forces honesty.
@@ -70,7 +70,7 @@ Anything longer needs to be broken down. "Build the combat system" isn't a task.
 Days are psychologically deceptive. Eight hours sounds reasonable until you subtract meetings, context switching, debugging rabbit holes, and the fact that most developers get four to five hours of actual focused work per day. Solo projects? You're probably looking at ten to fifteen focused hours a week if you have a day job.
 
 **Step 3: Apply a multiplier.**
-Take your total estimated hours and multiply by 2.5. I know that sounds extreme. Do it anyway. In my experience, that multiplier lands closer to reality than the original estimate. Some teams need 3x. Very few experienced teams with tight scope get away with 2x.
+Take your total estimated hours and multiply by 2.5. I know that sounds extreme. Do it anyway. That multiplier tends to land closer to reality than the original estimate. Some teams need 3x. Very few experienced teams with tight scope get away with 2x.
 
 **Step 4: Map it to a calendar.**
 Take your multiplied hours and map them to weeks based on how many hours per week your team can realistically contribute. Not the hours you wish you could. The hours your actual life allows. A 500-hour project with a team doing 20 hours per week collectively? That's 25 weeks of clean work, which means roughly 8-10 months once you factor in holidays, sick days, and the inevitable two-week motivation crash.

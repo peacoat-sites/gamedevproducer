@@ -23,12 +23,16 @@ faqs:
    a: "Don't put recurring operational tasks on your kanban board at all. They're not flow work; they're scheduled events. Put them in your calendar or a separate recurring checklist. Mixing them into your task flow pollutes the board and makes cycle time metrics meaningless."
  - q: "When should we actually update the board, and how do we stop it going stale?"
    a: "Daily self-updates (each person moves their own cards) combined with a 30-minute weekly team review is the pattern that sticks. If you can't get daily updates, do them at the start and end of each work session. What doesn't work: assigning one person to maintain the board for everyone else. It always drifts, and then nobody trusts it."
-lastmod: 2026-10-06
+ - q: "What's the difference between a kanban board and a Trello board?"
+   a: "Kanban is a method: visualize work, limit work in progress, and watch for bottlenecks. Trello is a tool that gives you cards and columns. A Trello board only becomes a kanban board once you add meaningful columns that match your workflow and a limit on how many cards can sit in progress at once."
+ - q: "What is a WIP limit and what should it be for a small game team?"
+   a: "A WIP (work-in-progress) limit is the maximum number of cards allowed in a column at one time. For the In Progress column, a reasonable starting point is about twice your team size, then adjust based on what the board shows you. If the limit exposes a review bottleneck, add a separate limit to the Needs Review column too."
+lastmod: 2026-11-26
 ---
 
-Most kanban advice online was written for software developers shipping features to paying enterprise customers. That's a problem, because indie game dev doesn't look anything like that.
+A kanban board helps an indie game team see what work is in progress, limit how much is started at once, and spot where tasks get stuck, without the sprints and ceremony of Scrum. Most kanban advice online was written for software developers shipping features to paying enterprise customers, though, and indie game dev doesn't look anything like that. This guide covers how to adapt the board to how games actually get made.
 
-I'll be honest: when I first started using kanban on a small team making a mobile RPG back in my early indie days, I basically copied the setup from a Scrum-adjacent blog post, ended up with columns called "Backlog," "In Sprint," "Review," and "Done," and wondered why it felt so wrong. The friction was constant. Artists didn't know what "In Sprint" meant for a texture pass. The audio guy kept putting half-finished sound effects in "Done" because he wasn't sure where else they went. We had a beautiful board that told us almost nothing useful about the actual state of the game.
+A common mistake is copying a setup from a Scrum-style blog post, ending up with columns called "Backlog," "In Sprint," "Review," and "Done," and wondering why it feels so wrong. Artists don't know what "In Sprint" means for a texture pass. Audio work gets marked "Done" while half-finished because there's nowhere else to put it. The result is a tidy board that says almost nothing useful about the actual state of the game.
 
 The fix wasn't complicated, but it required understanding what kanban is actually doing, and why the standard corporate template actively fights you on a creative project.
 
@@ -36,7 +40,7 @@ The fix wasn't complicated, but it required understanding what kanban is actuall
 
 Kanban originated at Toyota in the 1940s as a manufacturing flow system. The word means "signboard" in Japanese. The core idea: visualize your work, limit how much is in progress at one time, and watch for where things get stuck. That's it. There's no prescribed ceremony, no sprints, no velocity points. You're not committing to a two-week block of work; you're just pulling the next card when you have capacity.
 
-What surprised me, when I dug into this properly, is how well that model fits a small game team's reality. Indie dev is deeply asynchronous. Your composer works weird hours. Your artist is juggling contract gigs. Your programmer might disappear for a week into a hard rendering problem. Sprint commitments get broken constantly, which kills morale. Kanban doesn't ask you to commit. It asks you to keep moving and surface blockers fast.
+That model fits a small game team's reality better than most people expect. Indie dev is deeply asynchronous. Your composer works weird hours. Your artist is juggling contract gigs. Your programmer might disappear for a week into a hard rendering problem. Sprint commitments get broken constantly, which kills morale. Kanban doesn't ask you to commit. It asks you to keep moving and surface blockers fast.
 
 The case for kanban on small teams is practical rather than theoretical: less ceremony, less coordination overhead, and a board that shows where work is stuck.
 
@@ -50,7 +54,7 @@ The case for kanban on small teams is practical rather than theoretical: less ce
 
 The default "To Do / Doing / Done" setup will work at first. But games have a production reality that most kanban templates ignore: assets, mechanics, and content have multiple distinct states that matter differently to different people on the team.
 
-Here's the column structure I've landed on after a few iterations, which I now recommend to most small teams:
+Here's the column structure I'd recommend to most small teams:
 
 **Backlog / Icebox / Ready to Pull / In Progress / Needs Review / In Integration / Done**
 
@@ -70,19 +74,19 @@ Work-in-progress limits are the part of kanban that most indie teams implement l
 
 The concept: each column gets a maximum number of cards allowed at one time. If "In Progress" has a limit of 3 and there are already 3 cards there, nobody pulls a new card. Instead, they help clear a blocked card or do a review. The constraint forces collaboration and surfaces bottlenecks.
 
-I tested running the same four-person team for six weeks without WIP limits and six weeks with them on a 2D platformer project. Without limits, we averaged 11 tasks "In Progress" simultaneously. Cycle time (the time from starting a task to it landing in Done) averaged 9.4 days. With a WIP limit of 4 on the In Progress column, average cycle time dropped to 5.1 days. We weren't working faster, we were context-switching less.
+Without WIP limits, a small team tends to have far more tasks "In Progress" than it has people, and cycle time (the time from starting a task to it landing in Done) stretches out as everyone context-switches between half-finished work. Adding a limit to the In Progress column usually shortens cycle time, not because anyone is working faster, but because people are switching contexts less.
 
 A reasonable starting point: set your WIP limit for "In Progress" at roughly 2x your team size. If you have 3 people, try a limit of 6. Then watch what happens. You'll almost certainly find that the limit reveals a review bottleneck, at which point you can add a separate WIP limit to "Needs Review" as well.
 
-Concrete example walkthrough: A two-person team (one generalist dev, one artist) building a puzzle game for Steam had 22 tasks stuck in "In Progress" after two months with no WIP limit, most of them half-started art assets. They set a WIP limit of 4, finished or abandoned everything currently in progress, and restarted. Within three weeks, their backlog had 18 items moved to Done, compared to 6 in the prior three weeks. No new people, no crunch, just focus.
+Picture a two-person team (one generalist dev, one artist) building a puzzle game for Steam. Two months in with no WIP limit, they have a pile of tasks stuck in "In Progress," most of them half-started art assets. They set a WIP limit of 4, finish or abandon everything currently in progress, and restart. With only a few cards active at once, finished work moves to Done much faster. No new people, no crunch, just focus.
 
 ## Where Kanban Breaks Down for Game Dev
 
 I'd be doing you a disservice if I didn't acknowledge this: kanban is a flow tool, not a planning tool. It will not help you figure out your scope. It will not prevent feature creep. It will surface blockers, but only if your tasks are written clearly enough that a blocker is visible.
 
-The most common failure mode I see is tasks that are too large. "Make the combat system" is not a kanban task. It will sit in "In Progress" for three months, the column will technically not look blocked, and you'll have no idea whether you're making progress. Break it down. "Implement basic melee hitbox detection" is a task. "First pass on combo animation states" is a task. If a card takes more than three or four days for one person, it should probably be two cards.
+The most common failure mode is tasks that are too large. "Make the combat system" is not a kanban task. It will sit in "In Progress" for three months, the column will technically not look blocked, and you'll have no idea whether you're making progress. Break it down. "Implement basic melee hitbox detection" is a task. "First pass on combo animation states" is a task. If a card takes more than three or four days for one person, it should probably be two cards.
 
-The second failure mode: teams that update the board religiously during the first month, then let it drift when things get busy. It happens on a lot of projects. The board becomes stale, people stop trusting it, and they go back to Slack threads and memory. The fix is a short, mandatory weekly board review (30 minutes, no longer), where everyone moves their cards and flags blockers. Ship it or skip it. There's no middle ground; a half-maintained board is genuinely worse than no board.
+The second failure mode: teams that update the board religiously during the first month, then let it drift when things get busy. It happens on plenty of projects. The board becomes stale, people stop trusting it, and they go back to Slack threads and memory. The fix is a short, mandatory weekly board review (30 minutes, no longer), where everyone moves their cards and flags blockers. Ship it or skip it. There's no middle ground; a half-maintained board is genuinely worse than no board.
 
 One book I recommend here without reservation: *Kanban: Successful Evolutionary Change for Your Technology Business* by David J. Anderson. It's the closest thing to a canonical text on modern kanban practice. It's written for software teams but translates cleanly.
 

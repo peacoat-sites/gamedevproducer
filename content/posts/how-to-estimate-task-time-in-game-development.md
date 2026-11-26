@@ -1,9 +1,9 @@
 ---
 title: "How to Estimate Task Time in Game Development (and Stop Being Wrong)"
 date: 2026-07-22T10:36:49.419368+00:00
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 draft: false
-description: "Learn why 40% of game development tasks exceed estimates and proven strategies to forecast timelines accurately for your projects."
+description: "Estimate game dev task time with three-point estimation, the 3-day breakdown rule, and velocity tracking, plus buffers by task type and hidden work."
 image: "/img/heroes/33433704.jpg"
 categories: ["project management"]
 tags: ["estimate", "task", "time", "game", "development"]
@@ -26,7 +26,7 @@ faqs:
     a: "A realistic rule of thumb: add 20-25% buffer to your total estimated duration if your team has good velocity data, 35-40% if you're estimating a new team or unfamiliar tech. These are rules of thumb, not pessimism; replace them with your own team's data as soon as you have it."
 ---
 
-Most developers underestimate how long tasks take, often by a wide margin. Psychologists call it the planning fallacy: we imagine the smooth version of the work, not the real one. Bent Flyvbjerg's research on large projects at Oxford shows the same optimism bias at a much bigger scale, and game development, where so much is discovered during the work, is especially exposed to it. Senior engineers with a decade of experience quote "two days" on tasks that eat two weeks. The cure is not willpower; it is tracking estimates against actuals.
+To estimate development time more reliably, use three-point estimates (best, likely, worst case), break any task longer than three days into smaller pieces, and check your forecasts against your team's actual velocity. Most developers underestimate how long tasks take, often by a wide margin. Psychologists call it the planning fallacy: we imagine the smooth version of the work, not the real one. Bent Flyvbjerg's research on large projects at Oxford shows the same optimism bias at a much bigger scale, and game development, where so much is discovered during the work, is especially exposed to it. Senior engineers with a decade of experience quote "two days" on tasks that eat two weeks. The cure is not willpower; it is tracking estimates against actuals.
 
 The problem isn't that developers are bad at their jobs. The problem is that most estimation advice is built for software development in enterprise environments, not for a medium where "make the combat feel good" is a legitimate task on the board.
 
@@ -71,11 +71,11 @@ If a task estimate is longer than three days, break it down. This isn't a style 
 
 The research backing this comes from Steve McConnell's "Software Estimation: Demystifying the Black Art" (Microsoft Press, 2006), which remains the best quantitative treatment of estimation I've read despite being 20 years old. Among its most practical lessons: break large tasks into smaller ones, because big estimates hide the most error.
 
-In my experience: the pushback from developers when you ask them to break down tasks is real. "I don't know how to break it down yet, that's why I need to investigate." Fine. Create an investigation task, cap it at two days, and re-estimate after. This is called a spike in Scrum, and it's one of the few Scrum conventions that actually translates well to game dev.
+Expect pushback from developers when you ask them to break down tasks. "I don't know how to break it down yet, that's why I need to investigate." Fine. Create an investigation task, cap it at two days, and re-estimate after. This is called a spike in Scrum, and it's one of the few Scrum conventions that actually translates well to game dev.
 
 ## Velocity-Based Estimation: The Most Underused Tool
 
-Here's something I wish someone had told me earlier in my career: your team's past velocity is the most accurate predictor of future throughput you have access to, and most small teams don't track it.
+Your team's past velocity is the most accurate predictor of future throughput you have access to, and most small teams don't track it.
 
 Velocity is simple. Count how many story points (or hours, or tasks, whatever unit you use) your team actually completes in a sprint. Do this for three or more sprints. Average it. That's your velocity. When planning the next sprint, don't load in more work than your velocity predicts you can complete.
 
@@ -91,7 +91,7 @@ The point of the scenario: a team convinced it has a motivation problem often ha
 
 ## The Hidden Tasks That Eat Your Schedule
 
-The single most common estimation failure I see isn't underestimating known tasks. It's forgetting entire categories of work.
+The most common estimation failure isn't underestimating known tasks. It's forgetting entire categories of work.
 
 
 
@@ -99,7 +99,7 @@ The single most common estimation failure I see isn't underestimating known task
 
 These categories need to be explicit line items in your schedule, not absorbed into feature estimates. "Polish" is real work. Certification for console submission takes time you can't always predict (Sony's cert process currently runs 2-4 weeks depending on submission queue and issue severity, as of mid-2026). Bug fixing late in development is a known unknown: you don't know which bugs, but you know they'll exist.
 
-A rough heuristic I use: for every 8 weeks of active feature development, budget 2-3 weeks explicitly for bug fixing and polish, and 1-2 weeks for submission/review overhead if you're shipping to a platform. These aren't conservative numbers; they're what studios who ship on time actually set aside.
+A rough heuristic: for every 8 weeks of active feature development, budget 2-3 weeks explicitly for bug fixing and polish, and 1-2 weeks for submission/review overhead if you're shipping to a platform. These aren't conservative numbers; they're what studios who ship on time actually set aside.
 
 ## Estimation by Task Type
 

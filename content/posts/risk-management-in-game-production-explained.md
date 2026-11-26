@@ -1,9 +1,9 @@
 ---
 title: "Risk Management in Game Production: Strategies That Work"
 date: 2026-07-21T10:36:12.962252+00:00
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 draft: false
-description: "Learn essential risk management techniques for game development, from budget planning to team coordination. Reduce delays and costly mistakes."
+description: "Learn how to manage risk in game production: build a simple risk register, score risks by probability and impact, and pick tools like Notion, Jira or Sheets."
 image: "/img/heroes/7437491.jpg"
 categories: ["production"]
 tags: ["risk", "management", "game", "production", "explained"]
@@ -24,6 +24,10 @@ faqs:
     a: "A risk is something that might happen. An issue is something that has already happened. Once a risk fires, it becomes an issue and moves to your issue log or backlog, and your contingency plan kicks in. Keeping these two lists separate helps teams stay proactive rather than purely reactive."
   - q: "How do we handle risks that are outside our control, like platform policy changes?"
     a: "Log them, score them, and build contingency into your plan rather than betting against them. Platform policy changes (certification requirements, storefront rule updates, regional content laws) are genuinely external, but your response to them isn't. As of July 2026, platform certification policies for major consoles have shifted meaningfully in the past 18 months, so build buffer time and monitor your platform's developer portals actively, not just at submission time."
+  - q: "What is the best tool for game risk management?"
+    a: "The best tool is the one your team will review regularly. A spreadsheet works for most small teams, Notion or Airtable adds filtered views and structure, and Jira suits larger productions already using it. Keep the fields minimal in whichever you choose."
+  - q: "Does risk management apply to game development differently than other industries?"
+    a: "The core method is the same: identify risks, score them by probability and impact, assign owners, and plan mitigations. Games differ mainly in where the risk sits. Estimation is harder because fun can't be validated until a system is built, and technical risk often surfaces late when content is already built on an unstable foundation."
 ---
 
 Picture month eight of a 24-month project. A lead programmer walks into the producer meeting and says, very quietly, "the engine upgrade is going to take three months longer than we planned." The room goes silent. Not because it is shocking, but because everyone privately knew something like this was coming, and nobody had written it down, given it an owner, or planned what to do when it arrived.
@@ -46,7 +50,7 @@ What goes in the register? Each risk gets: a short description of what could hap
 
 ## The two risk categories that kill most projects
 
-I want to be specific here because "risk" is too vague to be useful. In 14 years, I've watched games get hurt by a fairly consistent set of problem categories, and they break down differently.
+I want to be specific here because "risk" is too vague to be useful. Game projects tend to get hurt by a fairly consistent set of problem categories, and they break down differently.
 
 **Schedule risk** is the most common. Scope creep, underestimated tasks, key-person dependencies, external dependencies like platform certification timing. These risks are usually visible early if you're looking. Estimation is hard, and game developers in particular are chronic optimists. Research on software estimation, such as Steve McConnell's *Software Estimation*, documents how consistently teams underestimate, and games are harder than most software because the "fun" of a system often can't be validated until you've built it. One practical fix is three-point estimation (optimistic, most likely, pessimistic), tracked against actuals sprint by sprint, so your estimates converge on reality instead of on hope.
 
@@ -76,9 +80,13 @@ Here is a more concrete breakdown of common risk types with illustrative scores:
 
 The scores in that table are illustrative averages. Your project will vary. But the pattern holds: underestimated core systems are almost always your highest-probability/high-impact risk, and teams consistently underprice it.
 
+## Tools for game risk management
+
+You don't need dedicated risk software. Most game teams track risks well in tools they already use. A Google Sheet or Excel file is enough for a small team: one row per risk, with columns for description, probability, impact, score, owner and mitigation. Notion or Airtable works well when you want filtered views for red, yellow and green risks and a cleaner bi-weekly review. Jira with a custom issue type fits larger productions that already run their backlog there, as long as you keep the fields minimal. Pick the tool your team will actually open every two weeks, because the habit matters more than the software.
+
 ## Mitigation vs. contingency (and why both matter)
 
-This is a distinction that took me embarrassingly long to internalize. I thought for years that "the mitigation plan is to hire a backup contractor if we lose a team member." That's not a mitigation. That's a contingency.
+This is a distinction many producers miss. A plan like "hire a backup contractor if we lose a team member" is not a mitigation. It's a contingency.
 
 Mitigation is what you do *before* the risk fires to reduce its probability or impact. For turnover risk: cross-training, pairing, documentation, comp review. Contingency is what you do *after* the risk fires. For turnover risk: contractor list, onboarding docs ready, a two-week knowledge transfer window budgeted into the schedule.
 

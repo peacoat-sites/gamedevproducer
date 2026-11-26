@@ -1,9 +1,9 @@
 ---
 title: "Document Game Systems: A Team Guide to Rules and Mechanics"
 date: 2026-08-04T11:00:40.703185+00:00
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 draft: false
-description: "Learn how to create clear documentation for game systems that keeps your team aligned on rules, mechanics, and design decisions."
+description: "Learn how to document game systems in three layers (intent, behavior, edge cases), pick the right format, and get your team to write docs that stay useful."
 image: "/img/heroes/6557749.jpg"
 categories: ["production"]
 tags: ["document", "game", "systems", "your", "team"]
@@ -26,9 +26,9 @@ faqs:
     a: "Keep early-stage system docs deliberately lightweight. A half-page with intent and rough behavior is enough during preproduction when everything's in flux. Mark it clearly as 'draft.' The temptation to write comprehensive docs before systems are stable just means you'll rewrite everything twice. Lock the format down after alpha, and do the full write-up at that point."
 ---
 
-Most documentation advice for game teams focuses on the wrong end of the problem. People obsess over *where* to put the docs, which wiki tool to use, whether Confluence or Notion is better for your situation. Meanwhile, the actual game system description is three sentences and a diagram that made sense to exactly one person, six months ago, who has since left the company.
+Good game documentation describes each system in three layers: why it exists (intent), what it does (behavior), and where it breaks or collides with other systems (edge cases). Most documentation advice for game teams focuses on the wrong end of the problem. People obsess over *where* to put the docs, which wiki tool to use, whether Confluence or Notion is better for your situation. Meanwhile, the actual game system description is three sentences and a diagram that made sense to exactly one person, six months ago, who has since left the company.
 
-I've inherited enough undocumented codebases and "just ask Marcus, he knows how it works" systems to have strong feelings about this. Bad system documentation doesn't just slow down new hires. It actively breaks sprints, causes re-implementation bugs, and produces the specific kind of meeting where six people argue for forty minutes about what the original intent of a mechanic was, with no resolution.
+Undocumented codebases and "just ask Marcus, he knows how it works" systems are a familiar problem on game teams. Bad system documentation doesn't just slow down new hires. It actively breaks sprints, causes re-implementation bugs, and produces the specific kind of meeting where six people argue for forty minutes about what the original intent of a mechanic was, with no resolution.
 
 Here's what good system documentation actually looks like in practice, and how to write it before your team is already suffering.
 
@@ -54,7 +54,7 @@ Skip layer 1 and your programmers will implement it correctly but wrong. Skip la
 
 ## Format follows function
 
-I used to think the wiki was the problem. Teams at studios I worked at would swap from Confluence to Notion to a Google Drive folder structure, and the documentation quality wouldn't budge. The format wasn't the issue. The issue was that nobody agreed on what a system doc should contain.
+It's tempting to blame the wiki. Teams swap from Confluence to Notion to a Google Drive folder structure, and the documentation quality doesn't budge. The format isn't the issue. The issue is that nobody agreed on what a system doc should contain.
 
 Many mid-sized teams use Notion or Confluence alongside Jira or a similar tracker. The specific tool matters less than having a template that's actually followed. Here's what I've landed on after iteration across several projects:
 
@@ -65,7 +65,7 @@ Many mid-sized teams use Notion or Confluence alongside Jira or a similar tracke
 | High (dialogue/narrative graph, economy) | Full spec doc + separate edge case appendix | 2,000-4,000 words + state machine diagram | Continuous; versioned |
 | Cross-system (save system, AI behavior) | Spec + dependency map + contract doc | 3,000+ words + multiple diagrams | Locked at milestones, then amended |
 
-The "contract doc" for cross-system stuff is something I started doing after a particularly bad four-week bug hunt. It defines what one system promises to deliver to another: data format, timing, what constitutes a valid state. Think of it like an API spec, but written for a mixed-discipline team, not just engineers.
+A "contract doc" is worth adding for cross-system work. It defines what one system promises to deliver to another: data format, timing, what constitutes a valid state. Think of it like an API spec, but written for a mixed-discipline team, not just engineers.
 
 ## Writing the intent layer without being vague
 
@@ -77,7 +77,7 @@ A good intent statement: "Stamina exists to create meaningful resource tension d
 
 The difference matters enormously when a programmer has to decide how stamina recovers in edge cases, or when a designer wants to add a new ability that interacts with it. The intent statement answers both questions without requiring a meeting.
 
-I tell designers: write the intent statement as if you're explaining the system to a new team member in an elevator. If you can't do it in ninety seconds, you don't understand it well enough yet, and that's worth knowing before you document it.
+My advice to designers: write the intent statement as if you're explaining the system to a new team member in an elevator. If you can't do it in ninety seconds, you don't understand it well enough yet, and that's worth knowing before you document it.
 
 ## State machines and flow: when to draw instead of write
 
@@ -85,19 +85,19 @@ Some systems resist prose. Combat state machines, dialogue graphs, AI behavior t
 
 A quick rule I apply: if you're writing "and then" or "unless" more than three times in a paragraph, draw it instead.
 
-For state machines specifically, the diagram shows transitions, and prose annotates *why* those transitions exist. Example from a melee combat system I documented last year: the diagram showed the full attack chain state transitions in about twelve nodes. A separate paragraph explained why the "recovery" state existed at all (preventing input-buffer abuse, which wasn't obvious from the diagram alone). Neither piece was sufficient without the other.
+For state machines specifically, the diagram shows transitions, and prose annotates *why* those transitions exist. Take a melee combat system: the diagram shows the full attack chain state transitions in about twelve nodes. A separate paragraph explained why the "recovery" state existed at all (preventing input-buffer abuse, which wasn't obvious from the diagram alone). Neither piece was sufficient without the other.
 
 **Illustration:** picture an action RPG combat system with no documentation beyond the code. A QA lead who joins mid-project spends days filing bug reports against behavior that was actually intended. A short system doc with a state machine diagram and an explicit "this is not a bug" list of edge cases stops most of those reports within a sprint or two.
 
 ## Getting your team to actually write the docs
 
-Nobody wants to do this. That's the honest truth. I've never met a programmer who woke up excited to write wiki pages, and designers are usually mid-sprint thinking about the next system, not documenting the one they just finished.
+Nobody wants to do this. That's the honest truth. Programmers rarely wake up excited to write wiki pages, and designers are usually mid-sprint thinking about the next system, not documenting the one they just finished.
 
-The only thing that works, in my experience, is making documentation a definition-of-done condition for each system, not a separate phase at the end of production. You will not get to "documentation sprint" at the end. It doesn't happen. Not at indie scale, not at AAA scale. The project runs long, the team is exhausted, and the docs are three bullet points written under duress.
+The approach I'd recommend is making documentation a definition-of-done condition for each system, not a separate phase at the end of production. You will not get to "documentation sprint" at the end. It doesn't happen. Not at indie scale, not at AAA scale. The project runs long, the team is exhausted, and the docs are three bullet points written under duress.
 
 **Illustration:** a four-person indie team plans a documentation pass after beta. Instead, each system gets a one-page doc written during design, before implementation, at well under an hour per system. When a fifth team member joins a couple of months later, they can learn any single system from its page in an afternoon instead of needing a walkthrough from its author. A few hours of writing pays off the first time someone new arrives.
 
-The template matters here. A blank page is paralyzing. A template with five labeled sections (Intent, Behavior Overview, Parameters, Edge Cases, Dependencies) takes the decision-making out of it. I've seen teams produce genuinely good docs off a Google Doc template that took twenty minutes to create.
+The template matters here. A blank page is paralyzing. A template with five labeled sections (Intent, Behavior Overview, Parameters, Edge Cases, Dependencies) takes the decision-making out of it. Even a simple Google Doc template can produce genuinely good docs, and it takes very little time to create.
 
 **Illustration:** an eleven-person team moving from verbal handoffs to documented systems during pre-production finds that, at first, most docs simply don't get written. What changes it is not a stricter deadline but a ten-minute doc review in the weekly design sync: no critique, just reading a doc aloud and asking clarifying questions. Social accountability works where the deadline alone didn't.
 

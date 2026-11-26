@@ -2,7 +2,7 @@
 title: "How to Create a Game Development Schedule: A 7-Step Process"
 date: 2026-06-01T15:35:05.536548+00:00
 draft: false
-description: "Plan your game dev project with confidence. Learn how to create a realistic game development schedule, set milestones, manage tasks, and hit your deadlines."
+description: "Learn how to create a game development schedule in 7 steps: size features, set milestone gates, add buffer, and track actuals so your timeline holds up."
 image: "/img/heroes/273153.jpg"
 categories: ["planning"]
 tags: ["create", "game", "development", "schedule"]
@@ -21,11 +21,15 @@ faqs:
    a: "Map your critical path explicitly. The critical path is the sequence of dependent tasks where any delay directly delays the milestone. In game dev, this is often: design spec locks, then art starts, then programming integrates, then QA validates. If art is waiting on design, that's a critical path block. Dependencies need to be visible in your schedule tool, not just in someone's head. I keep a separate 'dependency register' (even if it's just a short table) that lists every cross-discipline hand-off point, who owns it, and when it needs to land."
  - q: "What do I do when my team consistently underestimates tasks?"
    a: "Stop trying to fix the estimates. Start tracking actuals and calculate your team's estimation ratio. If estimates are consistently 60% of actuals, apply a 1.7x multiplier to all future estimates automatically. This is called a velocity adjustment and it's much more reliable than trying to get people to estimate better through willpower. Over time, as you build a history of similar tasks, your estimates will naturally improve because they'll be anchored to real data rather than optimism."
+ - q: "What should a game development timeline include?"
+   a: "A game development timeline should show your phase gates (pre-production, production, alpha, beta, gold), the milestones inside each phase, the features assigned to each milestone, and explicit buffer before major gates. It should also include fixed external dates like platform certification and marketing asset delivery. Treat it as a living document and update it as actuals come in."
+ - q: "How do you plan and budget a large-scale game project?"
+   a: "Start top-down: set your ship date or funding runway, benchmark scope against similar games from teams of similar size, and define phase gates. Then size features, convert them to time ranges, and map them to people to see what your team can actually deliver. Your time estimate and team size together drive the budget, so a vertical slice is useful for checking both before you commit to the full production plan."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
-Most game development schedules are wrong the moment you finish writing them. Not slightly off: games routinely ship well past their original internal estimates, at good studios as well as bad ones. I spent a long time thinking this was a discipline problem, a planning problem, or a "we just need better tools" problem. What I eventually figured out is that it's actually a fundamental misunderstanding of what a game development schedule is supposed to do.
+Most game development schedules are wrong the moment you finish writing them. Not slightly off: games routinely ship well past their original internal estimates, at good studios as well as bad ones. It is easy to mistake this for a discipline problem, a planning problem, or a "we just need better tools" problem. The underlying problem is a fundamental misunderstanding of what a game development schedule is supposed to do. To create one that holds up, start with the big shape of the project (ship date, scope benchmarks, phase gates), break work into features, size them as time ranges, plot them against milestones, and build buffer in at each gate. The sections below walk through each step.
 
 ## Why Your Mental Model of "The Schedule" Is Probably Broken
 
@@ -35,7 +39,7 @@ Games don't have well-defined requirements. You're discovering the game as you m
 
 What a game development schedule actually does: it's a communication tool. It tells your team where they're supposed to focus right now. It tells your publisher or leadership what you've committed to. It's a forcing function that creates accountability. The schedule being "wrong" isn't failure, it's information. What matters is how fast you respond to that information.
 
-Once I started treating schedules as living documents that I expected to change, my whole approach to building them shifted.
+Treating schedules as living documents that you expect to change shifts the whole approach to building them.
 
 ## Start With the Big Shape Before You Touch a Spreadsheet
 
@@ -47,7 +51,7 @@ Start with three anchor points:
 
 **Your genre and scope benchmarks.** Look at games similar to yours made by teams of similar size. How long did they actually take, not their announced schedule, but the real timeline? For a 2-4 person indie team, a polished single-mechanic mobile game might be 8-12 months. A narrative RPG with 6 hours of content from a team of 10 might be 2-3 years. If your internal estimate is half the industry benchmark for your scope, someone is lying to themselves.
 
-**Your phase gates.** Broadly: pre-production, production, alpha, beta, gold. These mean different things at different studios, so define them explicitly for your project. I've seen "alpha" mean "all features in but rough" at one studio and "content complete" at another. Write it down. Make everyone agree.
+**Your phase gates.** Broadly: pre-production, production, alpha, beta, gold. These mean different things at different studios, so define them explicitly for your project. "Alpha" can mean "all features in but rough" at one studio and "content complete" at another. Write it down. Make everyone agree.
 
 Only after this top-down sketch does detailed task-level scheduling make sense. Otherwise you're stacking bricks without knowing how tall the building is supposed to be.
 

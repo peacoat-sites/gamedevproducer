@@ -1,8 +1,8 @@
 ---
-title: "Build Your Game Studio's Revenue Model From Day One"
+title: "Game Studio Business Plan: Revenue Model and Finances"
 date: 2026-06-23T11:34:16.496399+00:00
 draft: false
-description: "Learn how to plan a game studio business model with revenue streams, funding strategies, team structure, and monetization tips for indie developers."
+description: "How to build a game studio business plan: pick revenue models, calculate burn rate and runway, and keep a financial model you update monthly."
 image: "/img/heroes/7915395.jpg"
 categories: ["strategy"]
 tags: ["plan", "game", "studio", "business", "model"]
@@ -23,14 +23,18 @@ faqs:
    a: "Get this in writing before you build anything. The most common mistakes are equal splits that don't account for unequal contributions over time, and handshake agreements that fall apart when money actually appears. A simple founder agreement with vesting schedules (typically four years with a one-year cliff) covers most situations. A lawyer who works with small creative businesses is worth paying to do this right."
  - q: "When should a game studio consider outside investment?"
    a: "When you have something to show and a specific thing you need capital to do. 'We need money to keep going' is not a compelling investment case. 'We have a vertical slice, a publishing letter of intent, and need $150,000 to hit our next milestone' is. Most game-focused investors, including Makers Fund and London Venture Partners, want to see proof of concept before they're interested in a conversation."
-lastmod: 2026-10-06
+ - q: "How do I build a financial model for a game studio?"
+   a: "Start with your monthly burn rate: salaries or living costs, software licenses, hardware, contractors, and a buffer for unexpected costs. Then add expected income from each revenue model you plan to use and track cash on hand month by month. Update it monthly so your runway stays accurate."
+ - q: "How do I value a game studio?"
+   a: "Valuation depends on what the studio actually has: shipped titles and their revenue, unreleased projects, intellectual property, team, and contracts or publisher relationships. Early studios with no revenue are usually valued on team and prospects rather than on financials. For a formal valuation, such as for a sale or investment, work with an accountant or advisor who knows the games industry."
+lastmod: 2026-11-26
 ---
 
-Most people planning a game studio business model are secretly asking the wrong question. They're asking "how do I make money making games?" when the question that actually needs answering first is "how do I survive long enough to finish one?"
+A game studio business plan comes down to three things: a revenue model, a financial model that tracks your burn rate and runway, and a realistic view of what kind of studio you are. Most people planning one are secretly asking the wrong question. They're asking "how do I make money making games?" when the question that actually needs answering first is "how do I survive long enough to finish one?"
 
 Those aren't the same thing. And conflating them is how studios die quiet deaths in year two with a half-built vertical slice and a burned-out founding team.
 
-You might be wondering where to even start. The business model conversation feels abstract when you haven't shipped anything yet, or when you're a developer who got into this because you love making games, not because you love spreadsheets. I get it. Poor financial planning grinds down smart, talented teams at every size of studio. Here is how to avoid it.
+You might be wondering where to even start. The business model conversation feels abstract when you haven't shipped anything yet, or when you're a developer who got into this because you love making games, not because you love spreadsheets. That's understandable. Poor financial planning grinds down smart, talented teams at every size of studio. Here is how to avoid it.
 
 ## Understand What Kind of Studio You Actually Are
 
@@ -40,7 +44,7 @@ Each of those is a fundamentally different business, and they require fundamenta
 
 The solo dev bootstrapping on nights and weekends can probably survive on savings and a single premium release if the scope is tight. A team of four with no income needs a runway plan that accounts for 18 to 24 months of living costs before they ever see a dime from a shipped product. The contract-anchored studio has cash flow but has to fight hard to protect creative time or they'll wake up three years later and realize they're a service bureau that occasionally makes games.
 
-Be honest about which one you are. Most of the bad plans I've seen fail because founders romanticized their situation instead of describing it accurately.
+Be honest about which one you are. Plans tend to fail when founders romanticize their situation instead of describing it accurately.
 
 ## The Revenue Models Worth Knowing (and What They Actually Cost You)
 
@@ -71,6 +75,10 @@ There are more ways to make money as a game studio than the "ship a game and hop
 **Licensing, ports, and platform deals** are underutilized. Console manufacturers sometimes fund exclusivity windows or pay for ports. The numbers are rarely transformative, but a porting deal can keep the lights on.
 
 The honest answer is that most sustainable small studios are running two or three of these simultaneously, not one. That's not hedging, it's diversification.
+
+## What a Game Studio Business Plan Should Include
+
+A useful game studio business plan is short and practical. It should cover who the studio is (team size, hours available, other income), which revenue models you will pursue, how much funding you need to reach your first release, and how you will spend it. Add a simple financial model that tracks monthly expenses, expected income and cash on hand, plus a marketing budget and a plan for what happens if the first release underperforms. If you plan to approach publishers or investors, they will expect a clear scope, a realistic schedule and a believable account of how the studio survives until revenue arrives. Keep it a working document and revisit it as your assumptions change.
 
 ## Building the Actual Financial Plan
 

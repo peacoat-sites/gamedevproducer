@@ -21,13 +21,15 @@ faqs:
    a: "The mechanics are the same but the stakes and politics differ. Indie teams usually have more flexibility to adapt their own process. AAA teams often have publisher milestones that function as external scope enforcement, which can actually be helpful if the milestones are well-defined. The bigger risk at AAA scale is that scope creep gets absorbed into crunch rather than surfaced as a scheduling problem, which is how you get 80-hour weeks instead of a delay conversation."
  - q: "When is it actually okay to add scope?"
    a: "When you have concrete evidence that what you have isn't working and the fix is clearly worth the cost. Playtest data that shows a core loop is broken is a legitimate reason to revisit scope. 'I think this would be cooler' is not. The bar should be: does this change the game from not-shippable to shippable, or from shippable to marginally better? Only the first justifies late scope addition. Scope creep is a solvable problem, but only if you treat it as a system issue rather than a discipline issue. Teams don't fail to manage scope because they're lazy or undisciplined. They fail because they"
+ - q: "Should you add new features once a game reaches post-production?"
+   a: "Generally no. Post-production is for polish, bug fixing, and release preparation, and new features reopen settled systems and restart testing. Save good ideas for a patch, expansion, or sequel unless a change request shows the feature is essential and names what will be cut to fit it."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 You greenlit a feature at 9am standup because a designer said it would "only take a day." Three weeks later, that feature has spawned four sub-features, two art revisions, and a backend change that touched six other systems. Your ship date is now a suggestion. Sound familiar? Scope creep doesn't usually announce itself. It accumulates quietly, one reasonable-sounding request at a time, until the project is unrecognizable from what you originally planned.
 
-I treated scope creep like weather in my first few years as a producer. Annoying, inevitable, something you just managed reactively. What changed my thinking was watching two nearly identical projects ship with radically different outcomes. Same team size, similar budgets, one hit the date and one didn't. The difference wasn't talent. It was how each team handled the boundary between "yes" and "not this version."
+Many producers treat scope creep like weather: annoying, inevitable, something you manage reactively. That framing is the problem. Two nearly identical projects, with the same team size and similar budgets, can ship with radically different outcomes. The difference usually isn't talent. It's how each team handles the boundary between "yes" and "not this version."
 
 ## Why Scope Creep Happens Even to Experienced Teams
 
@@ -39,7 +41,7 @@ The second driver is fuzzy initial definitions. If your design doc says "the pla
 
 ## The Document That Will Save Your Ship Date
 
-What surprised me most when I started taking scope seriously was how few teams actually use a formal [Scope Agreement document](/posts/how-to-write-a-game-production-milestone-document/) or anything equivalent. They have a GDD, maybe a milestone plan, but nothing that explicitly defines what is OUT of this version.
+Surprisingly few teams use a formal [Scope Agreement document](/posts/how-to-write-a-game-production-milestone-document/) or anything equivalent. They have a GDD, maybe a milestone plan, but nothing that explicitly defines what is OUT of this version.
 
 A Scope Agreement is exactly what it sounds like: a written, signed-off document that defines the game's boundaries. Not just what's in, but what's explicitly deferred. Two columns. In scope. Out of scope this version. Both columns matter equally.
 
@@ -69,6 +71,14 @@ Here's the process I've seen work well for teams of 5 to 30 people:
 **Step 5: Document the outcome.** Approved, deferred to parking lot, or rejected, with a one-line rationale. This log becomes invaluable when someone asks three months later why a feature doesn't exist.
 
 The whole thing should take less than 48 hours for small changes. If it takes longer, you've built bureaucracy, not a process.
+
+## Why You Should Resist New Features Once a Game Reaches Post-Production
+
+Once a game reaches post-production, the work should be polish, bug fixing, certification, and release preparation. Adding a new feature at this stage is risky because it reopens decisions that were already settled. A new feature needs design, art, audio, and QA coverage, and it can break systems that were previously stable.
+
+Bug counts tend to rise instead of fall, testing has to restart on affected areas, and the ship date becomes unreliable. Late features also rarely get the iteration they need to be good, so they often ship half-finished.
+
+If an idea is strong, put it in your parking lot for a patch, expansion, or sequel. If it truly can't wait, run it through the change request process above and name what gets cut to make room.
 
 ## Velocity Tracking as an Early Warning System
 

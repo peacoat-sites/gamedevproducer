@@ -23,7 +23,7 @@ faqs:
    a: "Part-time and volunteer teams need even more scheduling discipline, not less. Calculate actual available hours per person per week honestly (not aspirationally), use those numbers in your capacity planning, and treat contributor availability as a first-class constraint in your sprint planning. The projects I've seen succeed with part-time teams are the ones that kept scope extremely tight and milestones extremely clear."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 Most game timelines don't fail because of bad code or weak art. They fail because someone made a timeline in month one and then never looked at it again.
 
@@ -35,13 +35,13 @@ So let's talk about it properly.
 
 ## Why Most Game Dev Timelines Fall Apart By Month Three
 
-Here's the pattern I see constantly: a developer or small team sits down, lists out all the features they want to ship, assigns rough week counts to each one, adds them up, and then stares in mild horror at the total. Then they cut a few features, add a "buffer month" at the end, and call it a plan.
+Here's a common pattern: a developer or small team sits down, lists out all the features they want to ship, assigns rough week counts to each one, adds them up, and then stares in mild horror at the total. Then they cut a few features, add a "buffer month" at the end, and call it a plan.
 
 This approach has two fatal flaws.
 
 The first is that it treats a game as a fixed list of deliverables. Games aren't. A feature that sounded like two weeks of work turns out to be three because the game feel isn't there yet, or because a different system it touches needs to be refactored first, or because you showed it to playtesters and they hated it. That's not failure. That's game development. Your timeline has to absorb that reality, not pretend it away.
 
-The second flaw is the buffer month. That single month at the end doesn't work. What you actually need is distributed slack throughout the project. Buffer belongs inside sprints and phases, not bolted on as a rescue fund you'll burn through in week two of "crunch." I've watched teams eat their entire buffer in the first quarter of production and then spend the rest of the project in a low-grade panic about whether they'll actually ship.
+The second flaw is the buffer month. That single month at the end doesn't work. What you actually need is distributed slack throughout the project. Buffer belongs inside sprints and phases, not bolted on as a rescue fund you'll burn through in week two of "crunch." A single end-of-project buffer is easy to eat in the first quarter of production, which leaves the team in a low-grade panic for the rest of the project about whether they'll actually ship.
 
 The framework that holds up treats your timeline as a living document reviewed at fixed intervals, with buffer built into each phase, and with [scope under constant active management](/posts/how-to-scope-an-indie-game-project-realistically/). Not as punishment, but as a tool.
 
@@ -59,7 +59,7 @@ Now, for each phase between milestones, build what I call a "feature budget." Li
 
 If your feature list doesn't fit in the 60 percent, you have a scope problem, not an estimation problem. Cut before you start building, not after you've half-built everything.
 
-This is where a tool like [Notion](https://www.notion.so) or [Shortcut](https://shortcut.com) genuinely earns its keep. Not because the software is magic, but because a feature budget in a shared, living document the whole team can see creates accountability that a spreadsheet in someone's Dropbox doesn't. I've also seen small teams run perfectly good timelines out of Google Sheets with a few well-structured tabs. The tool matters less than the habit of actually updating it.
+This is where a tool like [Notion](https://www.notion.so) or [Shortcut](https://shortcut.com) genuinely earns its keep. Not because the software is magic, but because a feature budget in a shared, living document the whole team can see creates accountability that a spreadsheet in someone's Dropbox doesn't. Small teams can also run perfectly good timelines out of Google Sheets with a few well-structured tabs. The tool matters less than the habit of actually updating it.
 
 ## The Weekly Review is the Whole Game
 
@@ -67,7 +67,7 @@ This is the part nobody wants to hear because it's unglamorous: you need a stand
 
 What you're looking for each week: are you tracking ahead or behind on this phase's feature budget? Are any dependencies blocked? Has anything been added to scope since last week? Feature creep is sneaky, and it almost always comes from enthusiasm, which makes it hard to say no to. And what is the team's actual capacity next week versus assumed capacity?
 
-The teams I've watched ship consistently, on time or close to it, all have some version of this ritual. The ones that don't, don't. It's that direct a correlation.
+Teams that ship consistently, on time or close to it, tend to have some version of this ritual. Teams without one tend to drift.
 
 If you're a solo dev, this matters even more. You're the only check on your own scope creep and optimism bias, and both will absolutely eat your project if you let them compound for even a couple of months unexamined.
 
@@ -75,7 +75,7 @@ If you're a solo dev, this matters even more. You're the only check on your own 
 
 You're going to be behind at some point. This is not a prediction, it's a certainty.
 
-The worst thing you can do when you fall behind is quietly compress future phases to compensate. I've done this. It feels rational in the moment, like you're "catching up." What you're actually doing is borrowing time from phases that will themselves run long, which means you eventually hit a wall where you're six weeks behind with no compression left and a ship date that cannot move.
+The worst thing you can do when you fall behind is quietly compress future phases to compensate. It feels rational in the moment, like you're "catching up." What you're actually doing is borrowing time from phases that will themselves run long, which means you eventually hit a wall where you're six weeks behind with no compression left and a ship date that cannot move.
 
 When you're behind, you have four real options, and pretending you don't have to choose between them is how projects die:
 

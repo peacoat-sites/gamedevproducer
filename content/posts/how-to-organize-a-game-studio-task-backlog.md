@@ -1,9 +1,9 @@
 ---
 title: "How to Organize a Game Studio Task Backlog That Supports Decisions"
 date: 2026-07-19T10:03:08.441956+00:00
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 draft: false
-description: "Learn proven backlog organization strategies to boost game studio efficiency. Streamline task management and accelerate development cycles."
+description: "Organize a game studio task backlog as a decision queue: four layers, \"done means\" tickets, a Ready Backlog cap, and a short grooming cadence."
 image: "/img/heroes/7869303.jpg"
 categories: ["project management"]
 tags: ["organize", "game", "studio", "task", "backlog"]
@@ -38,11 +38,11 @@ Here's what I want to give you: a practical, specific way to build and maintain 
 
 ## The backlog isn't a list. It's a decision queue.
 
-Most people build a backlog like it's a to-do list. Add everything, sort it vaguely by priority, and then wonder why sprint planning takes two hours and still leaves people uncertain about what they're doing. The reframe that changed how I run production: a backlog is a queue of pre-made decisions. Every item in it should already have enough context that a developer can pick it up, understand the acceptance criteria, and start without asking three clarifying questions first.
+Most people build a backlog like it's a to-do list. Add everything, sort it vaguely by priority, and then wonder why sprint planning takes two hours and still leaves people uncertain about what they're doing. The reframe that helps most in production: a backlog is a queue of pre-made decisions. Every item in it should already have enough context that a developer can pick it up, understand the acceptance criteria, and start without asking three clarifying questions first.
 
 That means the work of organizing a backlog isn't just tagging and sorting. It's writing. Every ticket needs a "done means" statement, not a description of effort. "Done means the player can jump, land, and the landing animation plays correctly at 60fps on our target hardware." Not "work on jump." This sounds obvious and it is almost universally ignored.
 
-When I moved a team from effort-described tickets to outcome-described tickets mid-production on a 2D platformer, our sprint review meeting dropped from 47 minutes to 18 minutes across the following two sprints. Not because we were doing less, because we'd already had the argument about what done meant before the work started.
+Moving from effort-described tickets to outcome-described tickets tends to shorten sprint reviews. The work isn't smaller, but the team has already settled what done means before the work starts, so the argument doesn't happen at review time.
 
 ## Structure: The four layers you actually need
 
@@ -86,9 +86,7 @@ Backlog grooming isn't glamorous, which is why it gets cut when schedules tighte
 
 My grooming cadence for a two-week sprint: one 60-minute session mid-sprint to groom the Parking Lot, moving items to Ready. That's it. The team lead, one or two senior devs, and the producer. No full team required. You're not making creative decisions in grooming. You're making structural ones: does this ticket have enough information to act on?
 
-A worked example: a five-person indie team I advised was spending four hours in sprint planning every two weeks because tickets weren't ready. We introduced a single 45-minute Thursday afternoon grooming session where the producer and lead programmer went through the Parking Lot together.
-
-Parking Lot grooming started Thursday, sprint planning dropped to 55 minutes total, and they shipped their vertical slice two weeks ahead of schedule for their publisher review. The actual work didn't change. The decision-making overhead did.
+Consider a small team that spends hours in sprint planning every two weeks because tickets aren't ready. A single short mid-sprint grooming session, where the producer and lead programmer go through the Parking Lot together, moves vague items into the Ready Backlog ahead of time. Sprint planning then becomes a quick commitment exercise instead of a long clarification session. The actual work doesn't change. The decision-making overhead does.
 
 ## When the backlog is already a disaster
 

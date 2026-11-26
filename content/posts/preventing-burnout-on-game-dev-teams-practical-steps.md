@@ -21,13 +21,17 @@ faqs:
    a: "Yes, for a specific reason: the commute, annoying as it was, created a hard start and stop signal. Remote work removes that boundary, and 'one more thing before I log off' has no natural ceiling. Remote teams need more explicit structure around working hours, not less."
  - q: "What's the single highest-leverage change a producer can make today?"
    a: "Cancel one recurring meeting that could be an async update. This sounds trivial. It isn't. Every meeting you eliminate returns protected time and signals that you value focused work over performed productivity. Do it publicly and explain why. It models the culture shift you want."
+ - q: "What causes burnout in game development?"
+   a: "Most game dev burnout comes from sustained overload rather than a single crunch period. Common causes include scope that never gets cut, unofficial overtime, repeated rework after feedback cycles and a lack of real recovery time. Passion for the product can make it harder for developers to disengage, which makes the problem worse."
+ - q: "How can producers manage burnout on an iGaming or live-ops team?"
+   a: "The same principles apply: measure actual hours, set a sustainable velocity baseline and negotiate scope against it. Live teams also need explicit on-call coverage and scheduled recovery time, since there is no natural end to the work. Regular one-on-ones that ask directly whether workload is sustainable help you catch problems early."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 Your lead programmer hasn't taken a real day off in eleven weeks. She's still hitting deadlines, her code still ships clean, and when you ask how she's doing, she says "fine." Three weeks later she hands in her notice. You never saw it coming, but you absolutely should have.
 
-Burnout doesn't announce itself. It accumulates quietly behind "fine" and "almost done" and one more late night that becomes forty. The games industry loses experienced people every year not because the work is too hard, but because the systems around the work are broken. The good news: most of those systems are fixable, and fixing them is squarely in a producer's job description.
+Game dev burnout is rarely caused by hard work alone. It comes from sustained overload on unrealistic scope, and it is prevented by tracking real hours, defending a sustainable pace, cutting scope early and watching for the warning signs below. Burnout doesn't announce itself. It accumulates quietly behind "fine" and "almost done" and one more late night that becomes forty. The games industry loses experienced people every year not because the work is too hard, but because the systems around the work are broken. The good news: most of those systems are fixable, and fixing them is squarely in a producer's job description.
 
 ## Why Game Dev Burnout Is Different
 
@@ -102,6 +106,6 @@ Burnout prevention is an operational problem, and operations have tooling.
 
 For professional development on this specifically: Jason Schreier's *Blood, Sweat, and Pixels* is required reading for understanding how scope and crunch interact at the production level. Less a how-to than a brutal case study collection. For the evidence behind sustainable pace, Evan Robinson's essay "Why Crunch Mode Doesn't Work: Six Lessons," published by the IGDA in 2005, is still the clearest summary.
 
-The best producers I've worked with treat team sustainability the same way they treat the critical path: something to be actively managed, with clear owners and visible metrics, not left to chance or goodwill. The games that ship well aren't made by teams who grind hardest. They're made by teams that were still functional, still motivated, and still actually there in the final three months when it mattered most.
+The best producers treat team sustainability the same way they treat the critical path: something to be actively managed, with clear owners and visible metrics, not left to chance or goodwill. The games that ship well aren't made by teams who grind hardest. They're made by teams that were still functional, still motivated, and still actually there in the final three months when it mattered most.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

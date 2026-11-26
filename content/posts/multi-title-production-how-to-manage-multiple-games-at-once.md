@@ -2,7 +2,7 @@
 title: "Multi-Title Production: How to Manage Multiple Games at Once"
 date: 2026-05-22T01:01:27.003348+00:00
 draft: false
-description: "Learn how to manage multiple game productions simultaneously with expert strategies for prioritizing tasks, balancing teams, and delivering successful titles on"
+description: "Manage multiple games at once with a portfolio dashboard, written resource allocation, separate sprint rhythms, and a P1 to P4 triage table for urgent requests."
 image: "/img/heroes/3977908.jpg"
 categories: ["industry intel"]
 tags: ["multi-title", "production", "manage", "multiple", "games"]
@@ -23,7 +23,7 @@ faqs:
    a: "Unclear ownership. When two projects share a producer and something goes wrong, both teams assume the other project got the attention. Document your ownership model explicitly. Who owns what decision, on which project, and what requires your escalation. Ambiguity at the producer level spreads into every team below it."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 You're staring at three different project boards, each one representing a game in active development. Team A needs a sprint review. Team B's lead just flagged a critical blocker. Team C is two weeks from a publisher milestone and someone just quit. This is multi-title production, and if nobody warned you it would feel like this, you're not alone.
 
@@ -33,7 +33,7 @@ Here's what actually helps.
 
 ## Build a Portfolio View Before You Need One
 
-The biggest mistake I see is producers managing each title in isolation, then zooming out only when something breaks. By then you're reactive, constantly putting out fires instead of seeing them coming.
+The biggest mistake is managing each title in isolation, then zooming out only when something breaks. By then you're reactive, constantly putting out fires instead of seeing them coming.
 
 You need a portfolio layer sitting above your individual project boards. Your command center. It doesn't track every task. It tracks health.
 
@@ -58,7 +58,7 @@ Write it down. "Alex is available to Game B for no more than 12 hours per week d
 
 Each game gets its own sprint cycle, its own standups, its own retrospectives. Don't collapse these. A Game A problem discussed in a Game B standup wastes everyone's time.
 
-But you also need one shared cadence at the producer level. I run a weekly portfolio sync, 30 minutes, just with leads. We look at the dashboard. We surface cross-project issues. We make resource tradeoff decisions in that room instead of in hallway conversations.
+But you also need one shared cadence at the producer level. A weekly portfolio sync works well: 30 minutes, just with leads. Review the dashboard, surface cross-project issues, and make resource tradeoff decisions in that room instead of in hallway conversations.
 
 This keeps each team feeling like their project matters while giving you the visibility to manage tradeoffs fairly.
 

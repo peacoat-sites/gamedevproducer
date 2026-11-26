@@ -1,9 +1,9 @@
 ---
 title: "First Playable Milestone Checklist for Game Producers"
 date: 2026-07-15T10:18:11.126796+00:00
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 draft: false
-description: "Essential checklist for producers managing first playable milestones. Core systems, build stability, and team alignment requirements for game development."
+description: "A first playable milestone checklist for game producers: core loop, technical baseline, content threshold, and process documentation, with common failure modes."
 image: "/img/heroes/7915273.jpg"
 categories: ["milestones"]
 tags: ["first", "playable", "milestone", "checklist", "producers"]
@@ -24,9 +24,13 @@ faqs:
     a: "If you have a publisher, almost certainly yes, because your contract probably requires it. For self-funded teams, I'd still recommend a documented sign-off, even if it's just the three-person team agreeing in writing that the milestone criteria were met. It creates accountability and a record."
   - q: "How is first playable different from a vertical slice?"
     a: "First playable proves the core loop works. A vertical slice proves the whole game experience can work at shipping quality, including art, audio, and polish, across a representative section of content. Vertical slice typically comes 3-6 months after first playable depending on team size, and has a much higher production bar."
+  - q: "What should be on a game development checklist for the first playable stage?"
+    a: "Cover four areas: a playable core loop that can be completed several times without crashing, a technical baseline that runs on target hardware, enough content to judge whether the loop is fun, and process documentation such as a feature freeze list, triaged bug list, and playtest plan. Each area fails in different ways, so check all four rather than just the build."
+  - q: "How is a first playable checklist different from a game launch checklist?"
+    a: "A first playable checklist is about proving the core mechanic can be played and evaluated, so ugly art and missing content are acceptable. A launch checklist covers shipping concerns such as polish, platform requirements, marketing, and release readiness. They are separate milestones and should not be mixed together."
 ---
 
-When a team blows its first playable milestone, it is rarely for lack of talent. More often, nobody agreed on what "first playable" meant until two weeks before the deadline, when the arguments started.
+A first playable milestone checklist covers four areas: a playable core loop, a stable technical baseline, enough content to judge the loop, and written process documentation. When a team blows its first playable milestone, it is rarely for lack of talent. More often, nobody agreed on what "first playable" meant until two weeks before the deadline, when the arguments started.
 
 That's the real problem. "First playable" sounds self-explanatory until you're in a room with a lead designer who thinks it means the core loop is *designed*, an engineer who thinks it means the core loop is *coded*, and a publisher rep who thinks it means they're about to see something close to a vertical slice. That miscommunication can cost weeks of rescheduling and real money in contractor overruns, all for one milestone and all preventable.
 
@@ -55,7 +59,7 @@ The checklist items here are:
 - At least one "win condition" or "progress marker" registers correctly in the game's internal logic
 - The loop can be completed at least three times consecutively without a hard crash
 
-That last one is more important than it sounds. I've seen demos fall apart in publisher meetings on the second run-through because nobody had looped the build more than once before the meeting. The "three consecutive loops without a hard crash" rule exists to stop exactly that.
+That last one is more important than it sounds. Demos often fall apart in publisher meetings on the second run-through because nobody looped the build more than once beforehand. The "three consecutive loops without a hard crash" rule exists to stop exactly that.
 
 **Zone 2: Technical Baseline**
 
@@ -65,7 +69,7 @@ That last one is more important than it sounds. I've seen demos fall apart in pu
 - Basic telemetry or logging is in place so you can capture what playtesters are doing
 - Source control is structured and a clean build can be pulled and run by someone outside the core team in under 30 minutes
 
-That 30-minute build test is something I started requiring after a producer friend of mine, working on a mid-budget RPG in Toronto, had a milestone review where the build took four hours to configure on the reviewer's machine. The milestone was technically passed. The relationship with the publisher was not.
+The 30-minute build test matters because a build that takes hours to configure on a reviewer's machine damages the publisher relationship even if the milestone is technically passed. If outsiders can't run your build quickly, treat that as a defect.
 
 **Zone 3: Content Threshold**
 

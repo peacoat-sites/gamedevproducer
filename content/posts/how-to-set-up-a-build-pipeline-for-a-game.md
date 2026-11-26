@@ -1,9 +1,9 @@
 ---
 title: "How to Set Up a Build Pipeline for a Game: Unity, GitHub Actions and GameCI"
 date: 2026-07-31T11:02:44.506890+00:00
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 draft: false
-description: "How to set up a game build pipeline step by step: choosing a CI system, a Unity walkthrough with GitHub Actions and GameCI, versioning builds for QA, and what changes for console and mobile."
+description: "Which CI system should a game studio use? Compare GitHub Actions, Jenkins, Unity Build Automation and Horde, then follow a Unity and GameCI setup walkthrough."
 image: "/img/heroes/276452.jpg"
 categories: ["production"]
 tags: ["build", "pipeline", "game"]
@@ -24,11 +24,15 @@ faqs:
     a: "GameCI supports Unity Personal licenses in CI via a slightly different activation flow that generates a .alf file locally, activates it manually at Unity's license portal, and stores the resulting .ulf as a CI secret. It works, but the license is tied to a single machine ID, which can cause problems if your runner infrastructure changes. A Unity Plus or Pro license with serial-based activation is significantly less painful at scale."
   - q: "What's the cheapest way to store build artifacts long-term?"
     a: "AWS S3 with a lifecycle policy that moves builds older than 30 days to S3 Glacier is the standard approach. Storage costs drop from roughly $0.023/GB/month to $0.004/GB/month in Glacier. For a typical game dev team producing a few GB of builds per week, total artifact storage costs should be well under $20/month with a sensible retention policy."
+  - q: "Is Jenkins or Unity Build Automation better for automating game builds?"
+    a: "Unity Build Automation is hosted and native to Unity, so it needs little setup and suits small Unity teams on tight budgets. Jenkins is self-hosted and free, but you maintain it yourself and configure Unity and Unreal builds manually. Choose Jenkins if you have someone with DevOps experience and want full control, and Unity Build Automation if you want the least setup."
+  - q: "How do I set up nightly builds for a game targeting multiple platforms?"
+    a: "In GitHub Actions, add a scheduled trigger to your workflow file alongside the push and manual triggers, then use a build matrix so one workflow produces a build for each target platform. Keep the version number tied to the CI run so each nightly build is identifiable. Note that iOS builds need macOS runners, and console builds need self-hosted machines because of SDK restrictions."
 ---
 
 Build problems quietly eat development time on almost every team: broken pipelines, manual packaging steps, and the one person who knows how to cut a release build going on vacation. The amount varies, but the category of waste is universal, and it is one of the easiest to fix.
 
-The frustrating part? A solid build pipeline is a solved problem. The tooling exists, the patterns are documented, and it's not expensive to set up. Teams don't skip it because it's hard. They skip it because it feels like infrastructure work, and infrastructure work feels optional until it isn't.
+The frustrating part? A solid build pipeline is a solved problem. The tooling exists, the patterns are documented, and it's not expensive to set up. Game studios most commonly run their builds on GitHub Actions with GameCI, Jenkins, Unity Build Automation, TeamCity or, for Unreal, Horde, and the comparison table below shows which fits which team. Teams don't skip a pipeline because it's hard. They skip it because it feels like infrastructure work, and infrastructure work feels optional until it isn't.
 
 It becomes very non-optional around month eight, when your QA lead is manually zipping builds and uploading them to Dropbox at midnight.
 
@@ -84,7 +88,7 @@ Here's a concrete walkthrough for a Unity project on GitHub Actions with GameCI,
 
 A common early mistake is producing builds without versioning them systematically. QA files a bug, someone asks "which build?", the answer is "the one from Tuesday," and that answers exactly nothing.
 
-Version your builds from the first pipeline run. The pattern I use is `MAJOR.MINOR.PATCH.BUILD` where BUILD is an auto-incrementing integer tied to your CI run number. Tie MAJOR.MINOR.PATCH to git tags. Your YAML can read the current git tag and inject it into the game's version string at build time, which means every build in the game's own UI shows the version. QA can screenshot a bug and the version is right there.
+Version your builds from the first pipeline run. A pattern I'd recommend is `MAJOR.MINOR.PATCH.BUILD` where BUILD is an auto-incrementing integer tied to your CI run number. Tie MAJOR.MINOR.PATCH to git tags. Your YAML can read the current git tag and inject it into the game's version string at build time, which means every build in the game's own UI shows the version. QA can screenshot a bug and the version is right there.
 
 **Illustration:** a six-person PC team where the lead programmer builds by hand, spending most of an hour on each build including packaging and uploading. With GitHub Actions, GameCI and artifact storage, every push to `develop` produces a versioned build with nobody touching it, and a chat notification carries the download link. A couple of days of setup pays for itself within weeks, because the team's most expensive engineer gets hours back every week.
 

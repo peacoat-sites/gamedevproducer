@@ -2,11 +2,11 @@
 title: "Console Certification Checklist: Get Your Game Ready for PlayStation, Xbox and Nintendo Cert"
 hide_title: true
 date: 2026-10-06
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 slug: "console-certification-checklist"
 categories: ["production"]
 tool: true
-description: "An interactive pre-certification checklist covering the areas every console platform tests: stability, save data, accounts, controllers, system events, online, achievements, purchases, localization, ratings and the submission package."
+description: "A pre-certification checklist for PlayStation, Xbox and Nintendo: what platform holders test, how to run a pre-cert pass, and when to do each task."
 image: "/img/heroes/4523032.jpg"
 author: "Stephen Brenish"
 author_slug: "stephen-brenish"
@@ -23,11 +23,15 @@ faqs:
     a: "Plan for at least two. Many first submissions come back with failures, and a resubmission window in the schedule turns that from a crisis into a normal step. Confirm current turnaround times with each platform holder when you book your submission."
   - q: "Is this checklist the official requirements list?"
     a: "No. It covers the areas every console platform tests so you can find problems early, but each platform's actual requirements are confidential, platform-specific and updated over time. Map every item to the current documents from each platform holder before you submit."
+  - q: "How do I get my game certified for a console?"
+    a: "First you register as a developer with each platform holder and get approved for their licensed program, which gives you access to the requirement documents and submission tools. Then you test your build against those requirements, fix failures, and submit the build with complete paperwork. The platform holder tests it and either approves it or returns a list of failures to fix before you resubmit."
+  - q: "How do I prepare a Unity game for console certification?"
+    a: "Start by getting your licensed platform access and the console-specific Unity support from the platform holder, then build compliance into save data, account handling, input and error states early. Test on real hardware for every console model you plan to list. Run the pre-certification pass in this checklist on the exact release candidate build before you submit."
 ---
 
 Certification is the one test in game development you cannot argue with. A platform holder plays your build against its technical requirements, and if it fails, it does not ship. The failures are rarely exotic. They are save files that break on a full drive, a controller that drops mid-boss-fight with no pause, a network error that leaves an endless spinner, or a button prompt from the wrong console.
 
-This checklist covers the areas every console platform tests. Work through it with your QA team before you book a submission, and the formal requirement documents become a verification step rather than a list of surprises.
+Console certification is the process where a platform holder (Sony, Microsoft or Nintendo) tests your build against its technical requirements before it can ship. To pass, you run an internal pre-certification pass first: map every requirement to a test case, test every hardware model you list, and submit with complete paperwork. This checklist covers the areas every console platform tests. Work through it with your QA team before you book a submission, and the formal requirement documents become a verification step rather than a list of surprises.
 
 {{< cert-checklist >}}
 
@@ -41,6 +45,10 @@ A pre-cert pass is a deliberate internal test of your build against the platform
 4. **Test every hardware model and mode** you list on the store: base and upgraded consoles, digital editions, handheld and docked.
 5. **Log failures against the requirement they break**, with reproduction steps, and verify every fix on a fresh build.
 6. **Submit with complete paperwork.** Missing forms, wrong version numbers and asset errors delay submissions that would otherwise pass.
+
+## How do PlayStation, Xbox and Nintendo certification differ?
+
+The three platform holders test the same broad categories, but each uses its own requirement set and its own name for it. Sony's requirements are known as TRC, Microsoft's as XR, and Nintendo's testing process is called Lotcheck. Each company provides its requirement documents confidentially to licensed developers, so you need an approved developer account before you can read them. Submission portals, paperwork, and the format of the results you get back also differ by platform. Because of this, tag every test case with the platforms it applies to, and verify your build against each platform's current documents rather than assuming a pass on one carries over to another.
 
 ## When to do what
 

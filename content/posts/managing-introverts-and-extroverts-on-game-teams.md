@@ -23,7 +23,7 @@ faqs:
     a: "Useful for opening conversations, not for making decisions. I've seen teams use DISC well as a shared language: 'I process better in writing, here's why.' That's valuable. Where assessments go wrong is when people use them to categorize or excuse: 'She's an introvert so she won't want to present.' Run the assessment, use the vocabulary, then watch the actual behavior. The person is always more accurate than the type."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 Your lead engineer hasn't spoken in three standups this week. Your narrative designer won't stop talking in them. Both are doing excellent work. The problem isn't performance. The problem is you've built one communication system and expected two fundamentally different people to thrive in it equally. They won't.
 
@@ -70,7 +70,7 @@ With introverted team members, don't open with "how are things going?" You'll ge
 
 With extroverts, do the opposite. Let them talk. Listen for what's underneath the volume. They'll often surface morale issues, team tension, or creative concerns while discussing something else entirely. Your job is staying quiet long enough to hear it.
 
-In my experience, introverts will tell you the real problem in a one-on-one but never in a group. Extroverts will tell you the real problem in a group but dress it up as enthusiasm. Learn to read both registers.
+Introverts are more likely to tell you the real problem in a one-on-one than in a group. Extroverts are more likely to raise it in a group, often dressed up as enthusiasm. Learn to read both registers.
 
 ## Recommended Tools for Managing Mixed Teams
 

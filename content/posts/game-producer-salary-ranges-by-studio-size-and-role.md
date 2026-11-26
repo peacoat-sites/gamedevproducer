@@ -2,7 +2,7 @@
 title: "Game Producer Salary in 2026: Pay by Level and Studio Size"
 date: 2026-05-23T03:51:22.773903+00:00
 draft: false
-description: "What game producers earn in 2026 by level and studio size, from associate to director, with GDC 2025 survey data, why live-service producers earn more, and how to negotiate."
+description: "Game producers earn about $74K to $160K on average depending on the source, from $45K for associates to $400K+ for AAA directors. See pay by level and studio size."
 image: "/img/heroes/27559554.jpg"
 categories: ["role identity"]
 tags: ["game", "producer", "salary", "ranges", "studio"]
@@ -21,9 +21,13 @@ faqs:
    a: "No. In many U.S. states, employers can't legally ask for your salary history. Even where they can, you're not obligated to volunteer it. The relevant number is the market rate for the role you're interviewing for, not what your previous employer decided to pay you."
  - q: "Are game producer bonuses meaningful or mostly on paper?"
    a: "At large publishers with structured bonus programs, they are real money and can be a meaningful share of total compensation. At indie and mid-size studios, discretionary bonuses are less predictable and sometimes disappear when a title underperforms. Ask specifically whether the bonus is tied to company performance, personal performance, or both, and ask what bonuses looked like in the last two or three years. How a company answers that question tells you a lot."
+ - q: "What is the average salary for a video game producer?"
+   a: "It depends on the source. Glassdoor's self-reported average is about $74,000, PayScale's is about $94,000, and the GDC 2025 Salary Report puts Management and Operations roles, including producers, at about $160,000. Studio size, level and whether you work on a live-service game explain most of the gap."
+ - q: "How much does a director of production make?"
+   a: "In the estimates above, a Director of Production earns roughly $110K or more at an indie studio, $170K to $220K at a mid-size studio, and $220K to $400K or more in total compensation at a AAA studio. Bonus and equity at large companies account for much of the top end."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 You just got an offer for an Associate Producer role and the number feels low. Or you are a Senior Producer watching your LinkedIn fill with job posts that never list a salary. Either way, you are trying to find out what this job actually pays, and almost nobody in games likes to say the number out loud. I have sat on both sides of that table, negotiating my own compensation and making offers to producers I wanted to hire. Here is the real picture, built from public salary data and from what actually happens inside studios.
 

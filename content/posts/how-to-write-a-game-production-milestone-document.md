@@ -21,12 +21,16 @@ faqs:
    a: "Milestones and sprints operate at different time scales and serve different purposes, so they're not in conflict. Sprints manage two-week execution cycles. Milestones manage 6 to 16 week strategic objectives. In practice, I map milestones to groups of sprints, write the milestone document first to define the outcomes, and then let the sprint planning process figure out how to get there. The acceptance criteria from your milestone document become useful reference points during sprint reviews when you're asking: are we moving toward this thing?"
  - q: "What happens when you can't hit a milestone?"
    a: "You communicate early, document the gap formally, and revise with a recovery plan attached. Never let a milestone slip quietly. The moment you know a milestone is at risk, that information goes to every stakeholder immediately, along with a revised date and a clear account of what changed and why. Publishers and investors can usually absorb a delay. What they can't absorb is finding out about it on the day the milestone was due. In contractual milestone situations, check your agreement: many have provisions for milestone renegotiation that are far less painful than breach-of-contract territory"
+ - q: "What are game milestones?"
+   a: "Game milestones are agreed checkpoints in a development schedule, each tied to specific deliverables and acceptance criteria. They show whether a project is on track and often trigger reviews, approvals or, in publisher deals, payments. Common examples are proof of concept, vertical slice, alpha, beta and gold."
+ - q: "What should a game development checklist include for a milestone?"
+   a: "Start with the milestone's goal, then list deliverables, acceptance criteria, known exclusions, dependencies and risks, and the sign-off process. Each item should be something a reviewer can mark as met or not met. If an item can't be checked yes or no, rewrite it."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 
-Most milestone documents I've seen are basically vibes dressed up in a table. A date. A vague deliverable name like "Alpha Build Ready." Maybe a sign-off field that nobody fills in. Then everyone proceeds to have completely different ideas about what "Alpha" actually means. Three months later, the publisher's furious, the team's demoralized, and the [post-mortem](/posts/how-to-run-a-game-development-retrospective/) will diplomatically describe it as "misaligned expectations." I've been in that room. It's avoidable, and a well-written milestone document is one of the cheapest insurance policies in game development. Almost nobody writes one well.
+Game milestones are agreed checkpoints in development, each with a clear definition of what must be true for it to count as done. A milestone document writes that agreement down: the goal, the deliverables, the acceptance criteria, and what happens if you hit or miss it. Many milestone documents are basically vibes dressed up in a table. A date. A vague deliverable name like "Alpha Build Ready." Maybe a sign-off field that nobody fills in. Then everyone proceeds to have completely different ideas about what "Alpha" actually means. Months later, the publisher's furious, the team's demoralized, and the [post-mortem](/posts/how-to-run-a-game-development-retrospective/) will diplomatically describe it as "misaligned expectations." It's avoidable, and a well-written milestone document is one of the cheapest insurance policies in game development. Almost nobody writes one well.
 
 ## What a Milestone Document Actually Is (And What It Isn't)
 
@@ -40,7 +44,7 @@ The funding model changes the stakes. Publisher-funded projects often have contr
 
 ## The Core Components Every Milestone Document Needs
 
-When I started pulling apart successful milestone documents from shipped projects, I noticed something: the structure was consistent across wildly different genres and team sizes. Here's what the good ones always had.
+Good milestone documents tend to share the same structure across genres and team sizes. Here's what they include.
 
 **A plain-language milestone description.** One paragraph, no jargon, readable by someone outside the team. "By November 15th, the game's core combat loop will be playable from start to a win state in one representative level, without programmer intervention." That's a milestone description. "Combat Alpha" is not.
 

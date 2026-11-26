@@ -2,7 +2,7 @@
 title: "Why Game Projects Fail: Lessons From Post-Mortems"
 date: 2026-05-23T07:37:14.864428+00:00
 draft: false
-description: "Learn what game post-mortems reveal about common production failures, from scope creep to poor communication, and how developers can avoid repeating costly mist"
+description: "Game post-mortems keep showing the same production failures: scope creep, poor communication, crunch, and bad estimates. See each pattern and how to fix it."
 image: "/img/heroes/7437090.jpg"
 categories: ["industry intel"]
 tags: ["what", "game", "post-mortems", "reveal", "about"]
@@ -23,7 +23,7 @@ faqs:
    a: "Yes. GDC Vault has hundreds archived, many free to access. *Postmortems from Game Developer*, edited by Austin Grossman, collects classic postmortems from the magazine in print. Gamasutra (now Game Developer) has a full archive online. Reading ten of them back to back is more valuable than most production courses."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 You shipped the game. Or maybe you didn't, and it's sitting in a folder somewhere labeled "v_final_ACTUAL_final2." Either way, something went wrong during production, and you're trying to figure out what. Here's something that tends to surprise people outside the industry: the Game Developers Conference has published post-mortems since 1997, and across hundreds of them, the same five or six failure patterns show up over and over again. Not variations on a theme. The exact same problems. That should tell you something about how rarely teams learn from each other, and how much they could.
 
@@ -33,7 +33,7 @@ Every post-mortem that mentions scope creep frames it as "we added too many feat
 
 The 2002 post-mortem for *Black & White* is a textbook case. The team kept layering in new mechanics because the game felt thin. The game shipped late, over budget, and still felt thin in places, because feature additions don't fix design problems. They bury them under the wreckage.
 
-Here's what I tell people when they're in the middle of this: scope creep is a symptom of unclear success criteria. If you defined "done" precisely, adding a feature would feel like a violation of something concrete. When "done" is fuzzy, every new idea sounds reasonable.
+Scope creep is usually a symptom of unclear success criteria. If you defined "done" precisely, adding a feature would feel like a violation of something concrete. When "done" is fuzzy, every new idea sounds reasonable.
 
 Practical fix: before you enter production, write a one-page document that answers three questions. What does the player do every session? What's the one thing the game has to do better than anything else? What would you cut if you had to ship in half the time? If your team can't answer all three, you're not ready for production.
 
@@ -43,7 +43,7 @@ Read enough post-mortems and you start noticing something. Teams rarely say "we 
 
 The *Ultima IX: Ascension* post-mortem from 2000 described a situation where engine changes invalidated months of level design work, and the level designers found out after it happened. The leads knew. The leads assumed someone else had told them. Nobody had.
 
-In my experience, the most dangerous phrase in game dev is "I assumed they knew." You have to build workflows where critical information travels by default, not by memory. That means standups that actually surface blockers, not just status theater. It means a single source of truth for the current design spec, not a folder with seventeen versions of a design document.
+One of the most dangerous phrases in game dev is "I assumed they knew." Build workflows where critical information travels by default, not by memory. That means standups that actually surface blockers, not just status theater. It means a single source of truth for the current design spec, not a folder with seventeen versions of a design document.
 
 Tools that help here: **Notion** or **Confluence** for living documentation that everyone can access and update. **Shortcut** (formerly Clubhouse) for tracking tasks with visibility across disciplines. For smaller teams, even a well-maintained **Trello** board beats email threads.
 

@@ -23,7 +23,11 @@ faqs:
     a: "Write them honestly as technical stories rather than forcing a player-facing 'as a player' framing onto them. 'As an engineer, I want to refactor the inventory serialization layer so that save/load operations are under 100ms on target hardware' is a legitimate story. The fake-player wrapper on a purely technical task just makes everyone roll their eyes and ignore the format entirely."
   - q: "How do you handle stories for feel and juice -- things that are hard to quantify?"
     a: "This is genuinely hard, and anyone who tells you it's easy is lying. The best approach I've found: write the experiential acceptance criteria as specifically as you can ('the jump feels snappy, with a minimum 200ms hang time at peak height'), and schedule a dedicated playtest review as part of the acceptance process. Some things can only be validated by playing them. Building that into your definition of done is more honest than pretending a checkbox will catch it."
-lastmod: 2026-07-08
+  - q: "What is the basic user story format for a game feature?"
+    a: "The standard format is \"As a [type of player], I want [some goal] so that [some reason].\" For games, the \"so that\" clause should describe the player experience you are aiming for, not just the function. That clause is where designers, engineers, and QA find out why the feature matters."
+  - q: "What makes a user story good for a game?"
+    a: "A good game user story names a specific player type, states a goal, and gives a reason tied to how the player should feel or behave. It is small enough to build and test, and it comes with acceptance criteria covering function, player experience, and edge cases. If the story only restates the feature name, it is not doing its job."
+lastmod: 2026-11-26
 ---
 Most user stories written for game features are useless. Not because the format is wrong, but because whoever wrote them forgot that games are fundamentally about *feeling something*, and they wrote requirements instead.
 
@@ -43,7 +47,7 @@ Spend ten extra minutes on every "so that" clause. Seriously. That's where your 
 
 ## Writing for the Player Type, Not Just "The Player"
 
-One thing that genuinely changed how I write stories: stop writing "As a player" for everything. Your game has different player types with different motivations, and your stories should reflect that.
+My advice is to stop writing "As a player" for everything. Your game has different player types with different motivations, and your stories should reflect that.
 
 A roguelite has the "just one more run" player, the theorycrafter who wants to min-max build paths, and the casual player who'll bounce if they die three times in the first ten minutes and don't understand why. Those three players have completely different relationships to the same systems. A story that says "As a player who's lost a run, I want to see a clear breakdown of what killed me so that I can make a different decision next time" is infinitely more useful than "As a player, I want a death screen."
 
@@ -71,10 +75,10 @@ That's a story you can build, QA, and close. The vague version just generates me
 
 Vertical slicing gets preached constantly in agile circles, and it's correct, but in game development it requires a specific kind of discipline. You want each story to be shippable in isolation, but game systems don't always cooperate.
 
-The way I handle this: distinguish between a **feature story** (the full intended experience) and **slice stories** (the incremental builds toward it). The feature story lives in the backlog as the north star. The slice stories are what actually get pointed and scheduled. Your sprint board should be slice stories. Your product backlog should hold both.
+A workable approach is to distinguish between a **feature story** (the full intended experience) and **slice stories** (the incremental builds toward it). The feature story lives in the backlog as the north star. The slice stories are what actually get pointed and scheduled. Your sprint board should be slice stories. Your product backlog should hold both.
 
 For something like a crafting system, your feature story might be: "As an exploration-focused player, I want to combine found materials into useful items so that I feel like my scavenging has tangible, creative payoff." Your slice stories might start with basic recipe lookup with hardcoded outputs, then dynamic ingredient substitution, then the discovery mechanic that lets players find new recipes organically. Each slice is testable. None of them are confused for the finished thing.
 
-Linear, Shortcut (formerly Clubhouse, which is what I currently use for most of my work), and Notion all handle this differently. Shortcut's Epic/Story/Task hierarchy maps onto this approach pretty cleanly if you're willing to be disciplined about which level each item lives at.
+Linear, Shortcut (formerly Clubhouse), and Notion all handle this differently. Shortcut's Epic/Story/Task hierarchy maps onto this approach pretty cleanly if you're willing to be disciplined about which level each item lives at.
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*

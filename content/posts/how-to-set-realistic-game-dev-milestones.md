@@ -23,9 +23,9 @@ faqs:
    a: "A few I regularly recommend: the Game Developers Conference (GDC) Vault has years of production talks available for free or cheap, and the project management content there is specifically game-industry-applicable. Coursera and LinkedIn Learning both have project management courses covering agile and scrum fundamentals that translate well to game dev. And if you want something structured, the Scrum.org Professional Scrum Master certification gives you a rigorous foundation in sprint-based planning that you can ada"
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
-You sat down on a Sunday with a fresh cup of coffee, opened a spreadsheet, and built out what looked like a perfectly reasonable development schedule. Six months to alpha. Three more to beta. Ship by the holidays. It felt good. Organized. Achievable. Then two months in, you're already three weeks behind, your lead programmer just told you the save system is "more complex than expected," and that holiday launch date is starting to feel like a joke you told at your own expense. If that sounds familiar, you're not alone. I've seen this happen to teams with zero experience and teams with fifteen years of it. The problem almost never starts with laziness or incompetence. It starts with how the milestones were set in the first place.
+You sat down on a Sunday with a fresh cup of coffee, opened a spreadsheet, and built out what looked like a perfectly reasonable development schedule. Six months to alpha. Three more to beta. Ship by the holidays. It felt good. Organized. Achievable. Then two months in, you're already three weeks behind, your lead programmer just told you the save system is "more complex than expected," and that holiday launch date is starting to feel like a joke you told at your own expense. If that sounds familiar, you're not alone. The problem almost never starts with laziness or incompetence. It starts with how the milestones were set in the first place. Realistic game dev milestones are defined by concrete deliverables with clear acceptance criteria, estimated from your team's own historical data, padded with a buffer at the milestone level, and reviewed for risk at the start of each one.
 
 ## Why Most Game Dev Milestones Are Wrong Before Work Even Starts
 
@@ -79,7 +79,7 @@ Here's a framework that works:
 
 **Step 5: When a risk materializes, update the milestone definition immediately.** Don't pretend the timeline is still valid. Adjust visibly, communicate the change, explain the reasoning. Stakeholders handle schedule changes far better than silence followed by a missed date.
 
-This takes maybe two hours per milestone cycle. It saves weeks. I've watched teams skip it and spend those weeks in panic mode, which costs far more than two hours ever would.
+This takes maybe two hours per milestone cycle. It saves weeks. Teams that skip it tend to spend those weeks in panic mode, which costs far more than two hours ever would.
 
 ## The Milestone Types That Actually Work for Game Dev
 

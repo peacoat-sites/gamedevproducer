@@ -1,7 +1,7 @@
 ---
 title: "Game Production Degree vs Self-Taught: Which Path Gets You Hired?"
 date: 2026-07-28T10:47:58.106166+00:00
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 draft: false
 description: "Do you need a degree to become a game producer? What studios actually hire on, what degree programs do well and badly, and a structured self-taught path built around shipping and documenting real work."
 image: "/img/heroes/3987066.jpg"
@@ -22,6 +22,8 @@ faqs:
     a: "Some are. A structured certificate, such as Google's Project Management Certificate on Coursera, teaches transferable fundamentals cheaply. Be wary of expensive bootcamps that promise placement, and check whether instructors have shipped commercial games before paying."
   - q: "How do I get production experience without a production job?"
     a: "Produce something real: game jams, a mod team, a small open-source or hobby project, or a student or community game. Track it with real tools, write a postmortem, and make that documentation part of your portfolio."
+  - q: "Is a game production management degree worth it?"
+    a: "It can be, depending on what you want from it. A program gives you structure, team projects with deadlines and a network of peers and instructors. It rarely gets you hired on its own, because studios mostly hire on evidence that you have shipped and documented real work. Compare total cost, the instructors' industry experience and graduates' actual outcomes before you enroll."
 ---
 
 If you want to become a game producer, the degree question comes up early, and it is expensive to get wrong. A four-year program can cost tens or even hundreds of thousands of dollars. A self-taught path costs very little in money but a lot in discipline.

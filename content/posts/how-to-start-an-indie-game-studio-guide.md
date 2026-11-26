@@ -1,8 +1,8 @@
 ---
-title: "Launch Your Indie Game Studio: The Complete Roadmap"
+title: "How to Start an Indie Game Studio: Step-by-Step Guide"
 date: 2026-06-14T11:13:39.514727+00:00
 draft: false
-description: "Learn how to start an indie game studio with our complete guide covering business setup, team building, funding options, game development tools, and marketing s"
+description: "How to start an indie game studio: form an LLC, set up a founder agreement, pick a shippable first project, and fund your runway until launch."
 image: "/img/heroes/38094552.jpg"
 categories: ["strategy"]
 tags: ["start", "indie", "game", "studio", "guide"]
@@ -21,13 +21,17 @@ faqs:
    a: "Unity and Unreal Engine 4/5 are the realistic choices for most teams. Unity has a larger indie ecosystem and more accessible learning curve; Unreal is more powerful out of the box for 3D but has a steeper ramp. Godot is free, open source, and increasingly capable for 2D. The honest answer: use whatever your team already knows. Switching engines to chase features costs more than people admit."
  - q: "How do I find co-founders or team members for an indie studio?"
    a: "The most reliable sources are people you've already worked with, game jams (Ludum Dare and Global Game Jam both produce real professional relationships), and communities like TIGSource forums or the r/gamedev Discord. Be skeptical of strangers who are 'very passionate' but have no shipped work and no specific skills. Passion without track record is a risk, not an asset."
+ - q: "Can I start an indie game studio by myself?"
+   a: "Yes. Many indie studios begin as a single person, and you can still form an LLC or limited company and open a business bank account. As a solo founder you will need to decide early whether to bring in contractors, revenue-share partners or employees, since each needs different paperwork. Keep your first project small enough that one person can realistically ship it."
+ - q: "What are the first steps to making indie games?"
+   a: "Start with a small, tightly scoped project and a working prototype of the core mechanic. Set up version control and a simple task tracker so work isn't lost. Once the prototype proves fun, build out a milestone plan and start showing the game publicly so you can collect wishlists."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 Most guides about starting an indie studio spend three thousand words telling you to "follow your passion" and "build what you love." They skip the part where you run out of money in month eight and wonder why nobody told you about quarterly estimated taxes.
 
-Here's what actually matters.
+To start an indie game studio, form a legal entity such as an LLC, get a written agreement in place with any co-founders, open a separate business bank account, pick a small first project you can actually ship, and plan your funding before you quit anything. Here's what actually matters.
 
 ## The Legal and Financial Setup Nobody Wants to Think About
 
@@ -70,6 +74,10 @@ Platform choice matters early. PC via Steam is still the most accessible entry p
 
 Pick a genre with a proven audience and a gap you can fill. This isn't selling out. It's product thinking. "Cozy farming sim with base-building" is specific enough to market. "A unique experience that blends many genres" is not a game description, it's a warning sign.
 
+## What the Indie Game Development Process Looks Like
+
+The indie game development process runs in broad phases: concept, prototype, pre-production, production, polish and launch. In the concept phase you define the core idea and who it's for. In the prototype phase you test whether the central mechanic is fun, using placeholder art. Pre-production locks in scope, tools and a rough schedule. Production is where you build the full game in milestones. Polish covers bug fixing, balance and store page work, and launch is the release itself. Marketing runs alongside all of it, not just at the end. A launch checklist should cover the store page, trailer, demo, wishlist building, press outreach and a day-one bug pass. Skipping the prototype phase is the most common way small teams commit months to an idea that doesn't work.
+
 ## The Production Infrastructure That Actually Scales
 
 Even if your studio is two people in an apartment, you need the same production fundamentals as a larger team. The difference is just in how much process you apply.
@@ -102,4 +110,4 @@ Wishlist building on Steam should start the moment your game's concept is solid 
 
 ---
 
-Starting a studio is a production problem before it's a creative one. Get the foundation right, scope ruthlessly, and ship something you can learn from. The studios I've watched succeed weren't always the most talented rooms in the building. They were the ones that kept moving.
+Starting a studio is a production problem before it's a creative one. Get the foundation right, scope ruthlessly, and ship something you can learn from. The studios that succeed aren't always the most talented ones. They are the ones that keep moving.

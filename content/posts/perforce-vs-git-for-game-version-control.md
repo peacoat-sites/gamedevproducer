@@ -23,12 +23,16 @@ faqs:
    a: "Git LFS offloads large binary files to a separate storage backend instead of tracking them in the main Git history. It solves the repository bloat problem, but it doesn't give you native file locking to prevent overwrite conflicts without additional setup. It's a partial solution, not a full replacement for Perforce's binary handling."
  - q: "Should a small indie team bother with Perforce?"
    a: "Honestly, probably not unless you're in Unreal with a meaningful art team. The setup overhead and licensing cost past 5 users are real considerations. A well-configured Git setup with LFS handles most small-team scenarios just fine, and you can always migrate later if the project scales up and demands it."
-lastmod: 2026-10-06
+ - q: "Is Unity Version Control better than Perforce for a Unity team?"
+   a: "It depends on your pipeline. Unity Version Control (formerly Plastic SCM) integrates with the Unity Editor and supports both a distributed workflow for programmers and file locking for artists. Perforce is stronger when you have a large art team and heavy binary asset needs, so evaluate both alongside Git LFS."
+ - q: "Why do game studios use Perforce instead of Git?"
+   a: "Perforce is centralized and supports exclusive file checkout, so two artists cannot overwrite each other's work on the same binary asset. It also handles large binary files better than plain Git, which stores a full copy of the file with every change. That combination is why it is common at studios with large art teams."
+lastmod: 2026-11-26
 ---
 
-Most game studios get this decision wrong not because they lack information, but because they benchmark against the wrong kind of project.
+For most small indie teams, Git with Git LFS is enough, and Perforce earns its cost once a project has a large art team working on binary assets, especially in Unreal Engine. Unity teams should also look at Unity Version Control. Most game studios get this decision wrong not because they lack information, but because they benchmark against the wrong kind of project.
 
-Teams that migrate from Git to Perforce mid-production can lose weeks to the disruption. Teams that insist on Perforce for a three-person project can spend just as long building infrastructure they never needed. The version control question is genuinely one of the most consequential early calls you make, and the internet is full of confident takes from people who've only worked one side of the fence.
+Teams that migrate from Git to Perforce mid-production can lose weeks to the disruption. Teams that insist on Perforce for a three-person project can spend just as long building infrastructure they never needed. The version control question is genuinely one of the most consequential early calls you make, and the internet is full of confident takes from people who have only used one side of the comparison.
 
 The right answer depends on factors most comparisons skip: your engine, how much of your project is binary art, and who on the team will own the server.
 
@@ -74,6 +78,10 @@ Epic's own recommendation (as of 2026) leans toward Perforce with Helix Core, an
 | Mid-size studio with separate code and content | Hybrid: Perforce for content, Git for services and tools | Each tool where it is strongest, at the cost of maintaining two systems |
 
 Whatever you choose, decide before production starts. Migrating version control mid-project is one of the most disruptive changes a team can make.
+
+## What Does Perforce Actually Cost?
+
+Perforce P4 (Helix Core) is free for small teams: the free tier covers 5 users and 20 workspaces. Past that, you pay per-seat licenses, and commercial pricing is quote-based rather than published as a simple price list, so request a quote before you budget. Licensing is only part of the bill. You also need a machine to host the server (or a hosting provider), storage and backups for large binary assets, and someone with the time to administer it. Git is free to use and self-host, but hosted services may charge for large file storage, and Git LFS setups need their own storage and configuration. Compare total cost, not just license fees.
 
 ## The Setup Cost Nobody Talks About
 

@@ -9,7 +9,12 @@ author: "Stephen Brenish"
 author_bio: "Stephen Brenish is a Lead Game Producer at Epic Games (Fortnite, Unreal Engine) and founder of GameDevProducer, with 14+ years shipping and running live games at scale (previously Senior Program Manager at Blizzard Entertainment). Certified ScrumMaster."
 author_title: "Lead Game Producer"
 author_slug: "stephen-brenish"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
+faqs:
+  - q: "How do I choose a game engine based on career demand?"
+    a: "If job-market skills matter most to you, Unity and Unreal Engine are the usual choices, since they are widely used professionally and cover mobile, console and high-fidelity 3D work. Unity is often picked for its broad platform support and large ecosystem, while Unreal suits developers aiming at high-end 3D and with C++ experience. Engines like Godot, GameMaker and Bevy are excellent for shipping your own games but are less commonly listed as studio requirements."
+  - q: "Which game engine is best for publishing on itch.io?"
+    a: "Most engines on this page can export games you can upload to itch.io. Godot, GameMaker and Construct 3 are popular choices for itch.io releases and game jams because they are quick to learn and export to web and desktop. Pick the engine that matches your project and experience, then check that it supports the platforms you want to release on."
 ---
 Picking the wrong game engine early on is expensive. Not because you can't switch (porting is possible), but because switching costs time, and time is what you actually run out of. A solo developer who spends three months learning Unity, builds 60% of a 2D platformer, realizes the learning curve is crushing them, then restarts in GameMaker has lost those months for good.
 

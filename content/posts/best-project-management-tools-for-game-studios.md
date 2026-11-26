@@ -21,13 +21,17 @@ faqs:
    a: "Using too many simultaneously. I've seen teams with tasks split across Jira, Notion, a Google Sheet, and a Trello board, with different disciplines 'preferring' different ones. That's not a tooling problem anymore, it's a culture problem. Pick one authoritative tool for task tracking. Everything else supports it or gets cut."
  - q: "When should a studio consider switching tools?"
    a: "When your current tool creates more work than it eliminates. Specific signs: producers spend more than 30 minutes a day just maintaining the tool; team members regularly bypass it for 'real' work tracking; you can't answer basic questions like 'how many tasks are blocked right now?' or 'what's the risk to the next milestone?' in under five minutes. Migration is painful, but the pain is finite. Living in the wrong tool costs you every single day."
+ - q: "What is the best project management tool for a small indie game studio?"
+   a: "For very small teams of about three to five people, Notion or Trello is usually enough to track tasks and design documentation. Once you reach five or more people and need milestone visibility and asset status, HacknPlan is often a better fit because it was built for game pipelines. Start with the simplest option that fits your scale and upgrade when it breaks."
+ - q: "What should a game studio look for in project management software?"
+   a: "Prioritize dependency tracking across art, code and audio, a way to track asset status through pipeline stages, and milestone management that matches publisher and platform deadlines. The tool should also match your team size so it doesn't add overhead you can't maintain. If your team won't actually use it, the features don't matter."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
-Most game studios don't fail because they lack talent. They fail because nobody can answer "what is actually happening right now?" at 9am on a Monday morning. A producer I know spent three weeks reconstructing a sprint history from Slack threads and a whiteboard photo because their studio had been tracking work in four different tools simultaneously, none of them authoritative. That's not a planning problem. That's a tooling problem, and it's more common than anyone in this industry likes to admit.
+Most game studios don't fail because they lack talent. They fail because nobody can answer "what is actually happening right now?" at 9am on a Monday morning. When a studio tracks work in several tools at once and none of them is authoritative, rebuilding a sprint history means digging through Slack threads and whiteboard photos. That's not a planning problem. That's a tooling problem, and it's more common than anyone in this industry likes to admit.
 
-Choosing project management software for a game studio isn't the same as choosing it for a software company or a marketing agency. Game dev has specific pressures: iterative design work that changes scope constantly, large binary assets that break most ticketing systems, cross-discipline dependencies between art, code, and audio that don't map cleanly onto generic "task" workflows, and milestone deadlines that carry contractual or platform certification weight. A tool that works beautifully for a SaaS startup will actively harm a game team if it can't handle that context.
+The best project management tools for game studios are Jira (15+ people), HacknPlan (5 to 30 people), Shortcut (engineering-heavy teams), Notion (very small indie teams) and ShotGrid for large art pipelines and outsourcing. Choosing project management software for a game studio isn't the same as choosing it for a software company or a marketing agency. Game dev has specific pressures: iterative design work that changes scope constantly, large binary assets that break most ticketing systems, cross-discipline dependencies between art, code, and audio that don't map cleanly onto generic "task" workflows, and milestone deadlines that carry contractual or platform certification weight. A tool that works beautifully for a SaaS startup will actively harm a game team if it can't handle that context.
 
 Here's what actually matters, and which tools are worth your time.
 
@@ -35,7 +39,7 @@ Here's what actually matters, and which tools are worth your time.
 
 The enterprise PM market is enormous. Hundreds of tools are competing for your subscription. Most of them are designed around linear project delivery: you have requirements, you build the thing, you ship it. Games don't work that way. A feature that felt finished in alpha gets ripped out in beta because it isn't fun. A level that was "complete" gets rebuilt because a new mechanic changed the flow. Scope doesn't shrink toward a deadline in game dev; it oscillates wildly.
 
-Tools like Microsoft Project are built on fixed work breakdown structures and Gantt charts. They're genuinely excellent if you're building a highway. For game production, they create the illusion of control while actual work drifts invisibly underneath the bars. I've seen studios spend more time keeping their MS Project file accurate than they spent actually managing the project.
+Tools like Microsoft Project are built on fixed work breakdown structures and Gantt charts. They're genuinely excellent if you're building a highway. For game production, they create the illusion of control while actual work drifts invisibly underneath the bars. Studios can easily end up spending more time keeping their MS Project file accurate than actually managing the project.
 
 The game-specific needs that most generic tools handle poorly:
 
@@ -95,6 +99,10 @@ If you're a studio doing significant outsourcing or running a large art pipeline
 It's also expensive and requires real setup time. I wouldn't recommend it below 20 people or without a dedicated pipeline TD or technical producer to configure it. But for studios doing serious volume, it solves problems the other tools don't even acknowledge.
 
 Cost: paid per user; get a quote for your team size.
+
+## Managing Contractors and Outsourced Work
+
+Many game studios rely on outside artists, animators, audio designers and engineers, so contractor workflows deserve their own consideration. Look for a tool that lets you control what outside people can see, so contractors only access the tasks and assets relevant to them. Look for clear approval stages and version tracking for delivered work, plus simple status views that work across time zones without requiring a meeting. Of the tools above, ShotGrid is the most capable for vendor and review management, while Jira can handle contractor workflows if you configure permissions and approval states deliberately. For small indie teams, HacknPlan's stages and milestone view are usually enough to keep a few contractors aligned without heavy setup.
 
 ## How to Actually Choose: A Decision Framework
 

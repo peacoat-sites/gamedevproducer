@@ -23,7 +23,7 @@ faqs:
    a: "Be honest about what changed and why. Explain that the studio is switching to realistic planning, which means the schedule will actually be achievable. Set clear boundaries on hours. Back them up. When someone does work a long night, ask why the plan failed. The first few people you hire into the new culture will be skeptical. But when the schedule holds and they can actually have a life outside work, you'll attract better people consistently."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 You're two weeks from an engine migration deadline. Your lead programmer hasn't slept properly in three weeks. The art director just finished a 60-hour sprint to redo character models that weren't technically broken. When you mention crunch in the standup, people nod like it's normal. Someone says, "That's just how game dev works." You believe them. You hire more passionate people. Six months later, two of your best artists quit without warning, and a junior engineer is too burned out to contribute meaningfully. The problem wasn't that they weren't passionate enough. It was that you built a production system that treated passion as a substitute for planning.
 
@@ -39,7 +39,7 @@ What you actually see in crisis-prone studios is different. People stay late bec
 
 Here's the thing: truly passionate people will sustain effort for meaningful work within reasonable boundaries. They'll burn out fast if you use their passion as justification to skip the hard work of estimation, scope management, and realistic scheduling. You're not getting extra output from passion. You're getting unsustainable output. And the bill comes due when people leave or collapse.
 
-I've watched studios hire exclusively for passion and cultural fit, then act shocked when their most dedicated people quit. The reason is always the same: they thought passion was a renewable resource. It's not. It's fuel. And you can't expect people to run their tank dry repeatedly without consequences.
+Studios that hire exclusively for passion and cultural fit are often surprised when their most dedicated people quit. The reason is usually the same: they treated passion as a renewable resource. It's not. It's fuel. And you can't expect people to run their tank dry repeatedly without consequences.
 
 ## How Passion Culture Hides Production Problems
 

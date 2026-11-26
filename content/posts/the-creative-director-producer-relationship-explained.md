@@ -23,7 +23,7 @@ faqs:
    a: "Watch for these signs: Decisions get made in reasonable timeframes. Both roles show up in relevant meetings and engage substantively. Scope changes come with timeline impact discussion. The team isn't confused about creative direction or schedule. People aren't burning out from constant conflict or unclear goals. Neither role is publicly undermining the other. If you see most of these, you're doing okay. If you see none of them, you've got work to do."
 author_slug: "stephen-brenish"
 author_title: "Lead Game Producer"
-lastmod: 2026-10-06
+lastmod: 2026-11-26
 ---
 You're sitting in a pre-production meeting. The creative director just pitched a radical art direction change three weeks before greenlight. The producer in you sees scope creep and timeline risk. The part of you that hired this CD respects their vision. Nobody says anything for seven seconds. That silence is the relationship problem nobody talks about in game production.
 
@@ -77,7 +77,7 @@ Flip this conversation. Start with fixed constraints, not negotiable goals.
 
 You have X weeks, Y people, and Z budget. What's the maximum creative ambition the producer can commit to delivering? This is the real conversation. Not "can we do this idea?" but "given our actual constraints, what's the best creative output we can guarantee?"
 
-The most effective CD and producer partnerships I've seen use this framework during production planning: The producer puts three numbers on the table.
+A framework that works well during production planning is for the producer to put three numbers on the table.
 
 - The best-case schedule (everything goes perfectly, no unknowns, no staff turnover).
 - The realistic schedule (accounting for typical issues, testing cycles, platform certification).
@@ -191,6 +191,6 @@ This isn't the CD being controlled. It's shared situational awareness.
 
 ---
 
-The CD-producer relationship is fundamentally about respect for different types of expertise. The best partnerships I've worked with were built on the same foundation: both people believed the other was genuinely trying to make the game better. The CD wasn't trying to blow up the budget. The producer wasn't trying to kill creativity. They were just solving the problem from different angles. When both roles start from that assumption, the hard conversations become collaborative instead of combative.
+The CD-producer relationship is fundamentally about respect for different types of expertise. The best partnerships are built on one foundation: both people believe the other is genuinely trying to make the game better. The CD wasn't trying to blow up the budget. The producer wasn't trying to kill creativity. They were just solving the problem from different angles. When both roles start from that assumption, the hard conversations become collaborative instead of combative.
 
 *Photo: [Ron Lach](https://www.pexels.com/@ron-lach) via Pexels*
